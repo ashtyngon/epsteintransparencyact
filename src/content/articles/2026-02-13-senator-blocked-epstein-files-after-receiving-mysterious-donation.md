@@ -16,7 +16,6 @@ relatedArticles:
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
-  []
 tags:
   - transparency-act
   - political

@@ -145,7 +145,7 @@ function updateArticleFrontmatter(
       skipArrayItems = true;
       continue;
     }
-    if (skipArrayItems && line.match(/^\s+-\s+/)) {
+    if (skipArrayItems && (line.match(/^\s+-\s+/) || line.trim() === '[]')) {
       continue;
     }
     skipArrayItems = false;

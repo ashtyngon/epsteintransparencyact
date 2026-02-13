@@ -8,7 +8,6 @@ people:
   - jeffrey-epstein
 relatedArticles:
   - court-releases-new-batch-of-documents
-  []
 tags:
   - associates
   - investigation
