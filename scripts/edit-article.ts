@@ -1,0 +1,175 @@
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+import Anthropic from '@anthropic-ai/sdk';
+import { EDITOR_PROMPT } from './config/prompt-templates.js';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
+const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
+
+interface FilterResult {
+  relevant: boolean;
+  confidence: number;
+  newsworthiness: number;
+  isBreaking: boolean;
+  searchPotential: number;
+  tags: string[];
+  mentionedPeople: string[];
+  suggestedHeadline: string;
+}
+
+interface RelevantArticle {
+  title: string;
+  link: string;
+  description: string;
+  pubDate: string;
+  source: string;
+  sourceId: string;
+  sourcePriority: number;
+  filterResult: FilterResult;
+  rankScore: number;
+}
+
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '')
+    .slice(0, 80);
+}
+
+function formatDateForFrontmatter(dateStr: string): string {
+  const date = new Date(dateStr);
+  return date.toISOString().split('T')[0];
+}
+
+function splitMarkdown(content: string): { frontmatter: string; body: string } | null {
+  const match = content.match(/^(---\n[\s\S]*?\n---)\n([\s\S]*)$/);
+  if (!match) return null;
+  return { frontmatter: match[1], body: match[2].trim() };
+}
+
+function loadExistingArticlesManifest(excludeSlug?: string): string {
+  try {
+    const files = readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md'));
+    const entries: string[] = [];
+
+    for (const file of files) {
+      const slug = file.replace('.md', '');
+      if (slug === excludeSlug) continue; // Don't reference self
+      const content = readFileSync(join(ARTICLES_DIR, file), 'utf-8');
+      const titleMatch = content.match(/^title:\s*"(.+?)"/m);
+      const title = titleMatch ? titleMatch[1] : slug;
+      entries.push(`- "${title}" → /articles/${slug}`);
+    }
+
+    return entries.length > 0 ? entries.join('\n') : '(No other articles on site)';
+  } catch {
+    return '(No other articles on site)';
+  }
+}
+
+async function editArticle(
+  client: Anthropic,
+  headline: string,
+  draftBody: string,
+  item: RelevantArticle,
+  existingArticles: string
+): Promise<string | null> {
+  const prompt = EDITOR_PROMPT
+    .replace('{headline}', headline)
+    .replace('{sourceTitle}', item.title)
+    .replace('{sourceContent}', item.description)
+    .replace('{source}', item.source)
+    .replace('{sourceUrl}', item.link)
+    .replace('{existingArticles}', existingArticles)
+    .replace('{draftArticle}', draftBody);
+
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 120000);
+
+    const response = await client.messages.create(
+      {
+        model: 'claude-sonnet-4-5-20250929',
+        max_tokens: 16000,
+        thinking: {
+          type: 'enabled',
+          budget_tokens: 10000,
+        },
+        messages: [{ role: 'user', content: prompt }],
+      },
+      { signal: controller.signal as any }
+    );
+
+    clearTimeout(timeout);
+
+    // Extract text from response (skip thinking blocks)
+    for (const block of response.content) {
+      if (block.type === 'text') return block.text;
+    }
+    return null;
+  } catch (error) {
+    console.error(`  ERR: Editor failed for "${headline.slice(0, 50)}": ${(error as Error).message?.slice(0, 80)}`);
+    return null;
+  }
+}
+
+async function main() {
+  if (!existsSync(RELEVANT_PATH)) {
+    console.log('No relevant articles file found. Nothing to edit.');
+    return;
+  }
+
+  const relevant: RelevantArticle[] = JSON.parse(readFileSync(RELEVANT_PATH, 'utf-8'));
+  if (relevant.length === 0) {
+    console.log('No articles to edit.');
+    return;
+  }
+
+  const client = new Anthropic();
+
+  console.log(`Editing ${relevant.length} articles with Claude Editor (Sonnet + thinking)...\n`);
+
+  let edited = 0;
+  for (const item of relevant) {
+    const headline = item.filterResult.suggestedHeadline || item.title;
+    const dateStr = formatDateForFrontmatter(item.pubDate);
+    const slug = `${dateStr}-${slugify(headline)}`;
+    const filePath = join(ARTICLES_DIR, `${slug}.md`);
+
+    if (!existsSync(filePath)) {
+      console.log(`  SKIP (not found): ${slug}`);
+      continue;
+    }
+
+    const content = readFileSync(filePath, 'utf-8');
+    const parts = splitMarkdown(content);
+    if (!parts) {
+      console.log(`  SKIP (bad format): ${slug}`);
+      continue;
+    }
+
+    // Load manifest excluding current article
+    const existingArticles = loadExistingArticlesManifest(slug);
+
+    console.log(`  Editing: ${headline.slice(0, 70)}...`);
+    const editedBody = await editArticle(client, headline, parts.body, item, existingArticles);
+
+    if (!editedBody) {
+      console.log(`  WARN: Editor returned nothing, keeping original`);
+      continue;
+    }
+
+    // Write back with original frontmatter + edited body
+    const newContent = `${parts.frontmatter}\n\n${editedBody.trim()}\n`;
+    writeFileSync(filePath, newContent);
+    console.log(`  EDITED: ${slug}`);
+    edited++;
+  }
+
+  console.log(`\nDone. Edited ${edited} articles.`);
+}
+
+main().catch(console.error);

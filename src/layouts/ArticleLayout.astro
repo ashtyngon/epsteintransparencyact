@@ -12,7 +12,14 @@ interface Props {
 }
 
 const { article } = Astro.props;
-const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, tags, aiGenerated } = article.data;
+const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, relatedArticles, tags } = article.data;
+
+// Load related article data for display
+const { getCollection } = await import('astro:content');
+const allArticles = await getCollection('articles');
+const relatedArticleEntries = relatedArticles
+  .map((slug: string) => allArticles.find((a) => a.id === slug))
+  .filter(Boolean);
 
 const jsonLd = articleJsonLd({
   title,
@@ -52,14 +59,6 @@ const jsonLd = articleJsonLd({
           </time>
           <span class="text-border">|</span>
           <SourceAttribution source={source} url={sourceUrl} />
-          {aiGenerated && (
-            <>
-              <span class="text-border">|</span>
-              <span class="inline-flex items-center gap-1 text-xs bg-accent/10 text-accent px-2 py-0.5 rounded">
-                AI-Generated Summary
-              </span>
-            </>
-          )}
         </div>
 
         <p class="text-lg text-text-muted leading-relaxed">{summary}</p>
@@ -78,6 +77,22 @@ const jsonLd = articleJsonLd({
               </span>
             ))}
           </div>
+        </div>
+      )}
+
+      {relatedArticleEntries.length > 0 && (
+        <div class="mt-6 pt-6 border-t border-border">
+          <h3 class="text-sm font-semibold text-text-muted uppercase tracking-wide mb-3">Related Coverage</h3>
+          <ul class="space-y-2">
+            {relatedArticleEntries.map((related: any) => (
+              <li>
+                <a href={`/articles/${related.id}`} class="text-accent hover:underline text-sm font-medium">
+                  {related.data.title}
+                </a>
+                <span class="text-xs text-text-muted ml-2">{related.data.source}</span>
+              </li>
+            ))}
+          </ul>
         </div>
       )}
 

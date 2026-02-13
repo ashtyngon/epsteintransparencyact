@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
@@ -45,25 +45,46 @@ function formatDateForFrontmatter(dateStr: string): string {
   return date.toISOString().split('T')[0];
 }
 
+function loadExistingArticlesManifest(): string {
+  try {
+    const files = readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md'));
+    const entries: string[] = [];
+
+    for (const file of files) {
+      const slug = file.replace('.md', '');
+      const content = readFileSync(join(ARTICLES_DIR, file), 'utf-8');
+      const titleMatch = content.match(/^title:\s*"(.+?)"/m);
+      const title = titleMatch ? titleMatch[1] : slug;
+      entries.push(`- "${title}" → /articles/${slug}`);
+    }
+
+    return entries.length > 0 ? entries.join('\n') : '(No existing articles yet)';
+  } catch {
+    return '(No existing articles yet)';
+  }
+}
+
 async function generateArticleBody(
   client: Anthropic,
-  item: RelevantArticle
+  item: RelevantArticle,
+  existingArticles: string
 ): Promise<string | null> {
   const prompt = GENERATE_PROMPT
     .replace('{title}', item.title)
     .replace('{content}', item.description)
     .replace('{source}', item.source)
     .replace('{sourceUrl}', item.link)
-    .replace('{publishedAt}', item.pubDate);
+    .replace('{publishedAt}', item.pubDate)
+    .replace('{existingArticles}', existingArticles);
 
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 60000);
+    const timeout = setTimeout(() => controller.abort(), 90000);
 
     const response = await client.messages.create(
       {
         model: 'claude-sonnet-4-5-20250929',
-        max_tokens: 1500,
+        max_tokens: 2000,
         messages: [{ role: 'user', content: prompt }],
       },
       { signal: controller.signal as any }
@@ -134,6 +155,8 @@ async function main() {
     readFileSync(PROCESSED_PATH, 'utf-8')
   );
 
+  // Load existing articles so the writer can reference them
+  const existingArticles = loadExistingArticlesManifest();
   console.log(`Generating ${relevant.length} articles with Claude Sonnet...\n`);
 
   let created = 0;
@@ -150,7 +173,7 @@ async function main() {
     }
 
     console.log(`  Writing: ${headline.slice(0, 70)}...`);
-    const body = await generateArticleBody(client, item);
+    const body = await generateArticleBody(client, item, existingArticles);
     if (!body) continue;
 
     const markdown = buildMarkdown(item, body);

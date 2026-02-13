@@ -11,6 +11,7 @@ const articles = defineCollection({
     sourceUrl: z.string().url(),
     summary: z.string(),
     people: z.array(z.string()).default([]),
+    relatedArticles: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     status: z.enum(['published', 'draft', 'review', 'unpublished']).default('published'),
     aiGenerated: z.boolean().default(true),

@@ -78,18 +78,40 @@ function findMentionedPeople(body: string, people: PersonEntry[]): string[] {
   return [...mentioned];
 }
 
-function updateArticlePeople(filePath: string, peopleSlugs: string[]): boolean {
+function findLinkedArticles(body: string, existingFiles: Set<string>): string[] {
+  const linkPattern = /\/articles\/([\w-]+)/g;
+  const slugs = new Set<string>();
+  let match;
+  while ((match = linkPattern.exec(body)) !== null) {
+    const slug = match[1];
+    // Only include if the article file actually exists
+    if (existingFiles.has(`${slug}.md`)) {
+      slugs.add(slug);
+    }
+  }
+  return [...slugs];
+}
+
+function updateArticleFrontmatter(
+  filePath: string,
+  peopleSlugs: string[],
+  articleSlugs: string[]
+): boolean {
   const content = readFileSync(filePath, 'utf-8');
-  const { frontmatter, body } = parseFrontmatter(content);
+  const { frontmatter } = parseFrontmatter(content);
 
   const existingPeople: string[] = Array.isArray(frontmatter.people) ? frontmatter.people : [];
-  const merged = [...new Set([...existingPeople, ...peopleSlugs])];
+  const mergedPeople = [...new Set([...existingPeople, ...peopleSlugs])];
 
-  if (merged.length === existingPeople.length && merged.every((p) => existingPeople.includes(p))) {
-    return false; // No changes
-  }
+  const existingRelated: string[] = Array.isArray(frontmatter.relatedArticles) ? frontmatter.relatedArticles : [];
+  const mergedRelated = [...new Set([...existingRelated, ...articleSlugs])];
 
-  // Rebuild frontmatter with updated people
+  const peopleChanged = mergedPeople.length !== existingPeople.length || !mergedPeople.every((p) => existingPeople.includes(p));
+  const relatedChanged = mergedRelated.length !== existingRelated.length || !mergedRelated.every((r) => existingRelated.includes(r));
+
+  if (!peopleChanged && !relatedChanged) return false;
+
+  // Rebuild frontmatter with updated arrays
   const lines = content.split('\n');
   const fmStart = lines.indexOf('---');
   const fmEnd = lines.indexOf('---', fmStart + 1);
@@ -99,21 +121,47 @@ function updateArticlePeople(filePath: string, peopleSlugs: string[]): boolean {
   const fmLines = lines.slice(fmStart + 1, fmEnd);
   const newFmLines: string[] = [];
   let skipArrayItems = false;
+  let hasRelatedArticles = false;
 
   for (const line of fmLines) {
     if (line.startsWith('people:')) {
       newFmLines.push('people:');
-      for (const slug of merged) {
+      for (const slug of mergedPeople) {
         newFmLines.push(`  - ${slug}`);
       }
       skipArrayItems = true;
       continue;
     }
+    if (line.startsWith('relatedArticles:')) {
+      hasRelatedArticles = true;
+      newFmLines.push('relatedArticles:');
+      if (mergedRelated.length > 0) {
+        for (const slug of mergedRelated) {
+          newFmLines.push(`  - ${slug}`);
+        }
+      } else {
+        newFmLines.push('  []');
+      }
+      skipArrayItems = true;
+      continue;
+    }
     if (skipArrayItems && line.match(/^\s+-\s+/)) {
-      continue; // Skip old people array items
+      continue;
     }
     skipArrayItems = false;
     newFmLines.push(line);
+  }
+
+  // If relatedArticles wasn't in frontmatter yet, add it after people
+  if (!hasRelatedArticles && mergedRelated.length > 0) {
+    const peopleIdx = newFmLines.findIndex((l) => l.startsWith('people:'));
+    // Find end of people array
+    let insertIdx = peopleIdx + 1;
+    while (insertIdx < newFmLines.length && newFmLines[insertIdx].match(/^\s+-\s+/)) {
+      insertIdx++;
+    }
+    const relatedLines = ['relatedArticles:', ...mergedRelated.map((s) => `  - ${s}`)];
+    newFmLines.splice(insertIdx, 0, ...relatedLines);
   }
 
   const newContent = ['---', ...newFmLines, '---', ...lines.slice(fmEnd + 1)].join('\n');
@@ -126,7 +174,8 @@ function main() {
   console.log(`Loaded ${people.length} people entries.`);
 
   const articleFiles = readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md'));
-  console.log(`Scanning ${articleFiles.length} articles for people mentions...\n`);
+  const existingFiles = new Set(articleFiles);
+  console.log(`Scanning ${articleFiles.length} articles for people & article mentions...\n`);
 
   let updated = 0;
   for (const file of articleFiles) {
@@ -134,11 +183,16 @@ function main() {
     const content = readFileSync(filePath, 'utf-8');
     const { body } = parseFrontmatter(content);
 
-    const mentioned = findMentionedPeople(body, people);
-    if (mentioned.length > 0) {
-      const changed = updateArticlePeople(filePath, mentioned);
+    const mentionedPeople = findMentionedPeople(body, people);
+    const linkedArticles = findLinkedArticles(body, existingFiles);
+
+    if (mentionedPeople.length > 0 || linkedArticles.length > 0) {
+      const changed = updateArticleFrontmatter(filePath, mentionedPeople, linkedArticles);
       if (changed) {
-        console.log(`  UPDATED: ${file} — added: ${mentioned.join(', ')}`);
+        const parts = [];
+        if (mentionedPeople.length) parts.push(`people: ${mentionedPeople.join(', ')}`);
+        if (linkedArticles.length) parts.push(`articles: ${linkedArticles.join(', ')}`);
+        console.log(`  UPDATED: ${file} — ${parts.join(' | ')}`);
         updated++;
       }
     }
