@@ -7,6 +7,7 @@ summary: "The disastrous 2019 BBC Newsnight interview where Prince Andrew denied
 people:
   - andrew-windsor
   - jeffrey-epstein
+  - prince-andrew
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - fbi-begins-epstein-records-review

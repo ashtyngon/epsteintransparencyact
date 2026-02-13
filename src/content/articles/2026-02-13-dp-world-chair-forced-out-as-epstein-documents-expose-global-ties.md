@@ -6,6 +6,9 @@ sourceUrl: "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWx4am5EbEl0ckF
 summary: "A second senior executive at DP World has been forced out over connections to Jeffrey Epstein, marking an escalating crisis at the Dubai-based ports giant that "
 people:
   - jeffrey-epstein
+  - pam-bondi
+  - ro-khanna
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links

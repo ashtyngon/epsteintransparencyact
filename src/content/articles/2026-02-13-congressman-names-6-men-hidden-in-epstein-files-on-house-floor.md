@@ -7,6 +7,7 @@ summary: "Rep. Ro Khanna's aggressive push for transparency in the Epstein case 
 people:
   - ro-khanna
   - jeffrey-epstein
+  - leslie-wexner
 relatedArticles:
   - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions

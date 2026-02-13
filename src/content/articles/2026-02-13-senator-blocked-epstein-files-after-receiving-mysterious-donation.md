@@ -6,6 +6,7 @@ sourceUrl: "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVMtS3RmMVpoMXF
 summary: "A Republican senator who voted to block the release of unredacted Epstein files received a $50,000 donation from a dark money group with ties to wealthy individ"
 people:
   - jeffrey-epstein
+  - leslie-wexner
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties

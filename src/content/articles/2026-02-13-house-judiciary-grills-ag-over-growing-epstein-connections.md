@@ -6,6 +6,9 @@ sourceUrl: "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWnBWeGtOU21pUE5
 summary: "The House Judiciary Committee grilled Attorney General Pam Bondi this week as pressure mounts over the growing list of powerful figures connected to Jeffrey Eps"
 people:
   - jeffrey-epstein
+  - leslie-wexner
+  - pam-bondi
+  - prince-andrew
 relatedArticles:
   - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions

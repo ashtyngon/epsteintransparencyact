@@ -6,6 +6,8 @@ sourceUrl: "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTA5V2dkc3JqeTB
 summary: "A second prominent executive has stepped down over ties to Jeffrey Epstein revealed in newly released government files. Sultan Ahmed Bin Sulayem, the Emirati bi"
 people:
   - jeffrey-epstein
+  - ro-khanna
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links

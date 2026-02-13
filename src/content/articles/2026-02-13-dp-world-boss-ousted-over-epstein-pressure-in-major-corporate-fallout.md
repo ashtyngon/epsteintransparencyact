@@ -6,6 +6,8 @@ sourceUrl: "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlZfanhwSlpNX2J
 summary: "A second major executive has been pushed out over connections to Jeffrey Epstein, as pressure mounts on corporations to account for relationships documented in "
 people:
   - jeffrey-epstein
+  - leslie-wexner
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor

@@ -8,6 +8,8 @@ people:
   - ro-khanna
   - sultan-ahmed-bin-sulayem
   - jeffrey-epstein
+  - leslie-wexner
+  - pam-bondi
 relatedArticles:
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

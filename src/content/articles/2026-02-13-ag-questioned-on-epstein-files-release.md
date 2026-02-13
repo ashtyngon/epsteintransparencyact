@@ -6,6 +6,7 @@ sourceUrl: "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZy0xTWwwTjNZMFd
 summary: "Attorney General Faces Congressional Questioning on Epstein Files Release Attorney General Pam Bondi faced questioning from Congress over the status of Epstein "
 people:
   - jeffrey-epstein
+  - pam-bondi
 tags:
   - transparency-act
   - court-documents

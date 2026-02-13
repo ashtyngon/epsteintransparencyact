@@ -6,6 +6,7 @@ sourceUrl: "https://www.independent.co.uk/tv/news/epstein-files-video-office-cam
 summary: "A camera hidden inside Jeffrey Epstein's Palm Beach office captured previously unseen video footage that has now emerged in the latest document release, accordi"
 people:
   - jeffrey-epstein
+  - leslie-wexner
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails

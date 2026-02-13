@@ -8,6 +8,8 @@ people:
   - donald-trump
   - carl-higbie
   - jeffrey-epstein
+  - leslie-wexner
+  - pam-bondi
 relatedArticles:
   - 2026-02-13-ag-questioned-on-epstein-files-release
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation

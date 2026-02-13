@@ -7,6 +7,8 @@ summary: "Kathy Ruemmler, Goldman Sachs' top lawyer and former White House couns
 people:
   - kathy-ruemmler
   - jeffrey-epstein
+  - kathryn-ruemmler
+  - ro-khanna
 tags:
   - associates
   - breaking
