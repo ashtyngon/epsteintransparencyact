@@ -11,6 +11,7 @@ permissions:
 jobs:
   fetch-articles:
     runs-on: ubuntu-latest
+    timeout-minutes: 10  # Kill entire job if it exceeds 10 minutes
     steps:
       - uses: actions/checkout@v4
         with:
@@ -26,19 +27,23 @@ jobs:
 
       - name: Fetch RSS feeds
         run: npx tsx scripts/fetch-rss.ts
+        timeout-minutes: 2
 
       - name: Filter with Claude Haiku
         run: npx tsx scripts/filter-articles.ts
+        timeout-minutes: 3
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Generate articles with Claude Sonnet
         run: npx tsx scripts/generate-article.ts
+        timeout-minutes: 4
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Cross-link people mentions
         run: npx tsx scripts/cross-link.ts
+        timeout-minutes: 1
 
       - name: Clean up temp files
         run: |

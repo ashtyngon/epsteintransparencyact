@@ -1,15 +1,16 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import RSSParser from 'rss-parser';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // Only consider articles from the last 7 days
 const MAX_AGE_DAYS = 7;
 // Hard timeout per feed (ms)
-const FEED_TIMEOUT = 10000;
-// Overall script timeout (ms) — kill everything after 2 minutes
-const SCRIPT_TIMEOUT = 120000;
+const FEED_TIMEOUT = 8000;
+// Overall script timeout (ms) — kill everything after 90 seconds
+const SCRIPT_TIMEOUT = 90000;
 
 interface FeedConfig {
   id: string;
@@ -46,27 +47,27 @@ const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
 const PROCESSED_PATH = join(__dirname, 'config', 'processed-urls.json');
 const FEEDS_PATH = join(__dirname, 'config', 'feeds.json');
 
-async function fetchWithTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
-  return Promise.race([
-    promise,
-    new Promise<T>((_, reject) =>
-      setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms)
-    ),
-  ]);
-}
+const parser = new RSSParser({
+  timeout: FEED_TIMEOUT,
+  maxRedirects: 3,
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
+  },
+});
 
 async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]> {
   try {
-    const RSSParser = (await import('rss-parser')).default;
-    const parser = new RSSParser({
-      timeout: FEED_TIMEOUT,
-      maxRedirects: 3,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; EpsteinTransparencyBot/1.0)',
-      },
-    });
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), FEED_TIMEOUT);
 
-    const parsed = await fetchWithTimeout(parser.parseURL(feed.url), FEED_TIMEOUT);
+    const response = await fetch(feed.url, {
+      signal: controller.signal,
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)' },
+    });
+    const xml = await response.text();
+    clearTimeout(timer);
+
+    const parsed = await parser.parseString(xml);
 
     const items = (parsed.items || [])
       .map((item) => ({
@@ -131,9 +132,10 @@ function deduplicateByTitle(items: RSSItem[]): RSSItem[] {
 async function main() {
   // Safety: kill the whole script if it runs too long
   const killTimer = setTimeout(() => {
-    console.error('\nScript timeout — exiting.');
+    console.error('\nScript timeout — force exiting.');
     process.exit(1);
   }, SCRIPT_TIMEOUT);
+  killTimer.unref(); // Don't keep process alive just for this timer
 
   const config: FeedsConfig = JSON.parse(readFileSync(FEEDS_PATH, 'utf-8'));
   const processed: ProcessedUrls = JSON.parse(readFileSync(PROCESSED_PATH, 'utf-8'));
