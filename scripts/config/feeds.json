@@ -1,17 +1,17 @@
 {
   "feeds": [
     {
-      "id": "reuters-us",
-      "name": "Reuters",
-      "url": "https://www.reuters.com/rssFeed/topNews",
-      "category": "wire",
+      "id": "google-epstein",
+      "name": "Google News (Epstein)",
+      "url": "https://news.google.com/rss/search?q=epstein+files+OR+epstein+transparency&ceid=US:en&hl=en-US&gl=US",
+      "category": "aggregator",
       "priority": 1,
       "enabled": true
     },
     {
-      "id": "ap-topnews",
-      "name": "Associated Press",
-      "url": "https://rsshub.app/apnews/topics/apf-topnews",
+      "id": "google-reuters",
+      "name": "Reuters (via Google News)",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US",
       "category": "wire",
       "priority": 1,
       "enabled": true
@@ -25,6 +25,22 @@
       "enabled": true
     },
     {
+      "id": "nyt-us",
+      "name": "New York Times (US)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+      "category": "newspaper",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "wapo-national",
+      "name": "Washington Post",
+      "url": "https://feeds.washingtonpost.com/rss/national",
+      "category": "newspaper",
+      "priority": 2,
+      "enabled": true
+    },
+    {
       "id": "bbc-news",
       "name": "BBC News",
       "url": "http://feeds.bbci.co.uk/news/rss.xml",
@@ -33,10 +49,146 @@
       "enabled": true
     },
     {
+      "id": "bbc-us-canada",
+      "name": "BBC (US & Canada)",
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "category": "broadcast",
+      "priority": 3,
+      "enabled": true
+    },
+    {
       "id": "guardian-us",
-      "name": "The Guardian",
+      "name": "The Guardian (US)",
       "url": "https://www.theguardian.com/us-news/rss",
       "category": "newspaper",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "guardian-world",
+      "name": "The Guardian (World)",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "newspaper",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "id": "cnn-top",
+      "name": "CNN",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "category": "broadcast",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "cnn-us",
+      "name": "CNN (US)",
+      "url": "http://rss.cnn.com/rss/cnn_us.rss",
+      "category": "broadcast",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "id": "nbc-news",
+      "name": "NBC News",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+      "category": "broadcast",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "cbs-news",
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/latest/rss/main",
+      "category": "broadcast",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "abc-news",
+      "name": "ABC News",
+      "url": "https://abcnews.go.com/abcnews/topstories",
+      "category": "broadcast",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "fox-news-us",
+      "name": "Fox News (US)",
+      "url": "https://moxie.foxnews.com/google-publisher/us.xml",
+      "category": "broadcast",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "politico",
+      "name": "Politico",
+      "url": "https://rss.politico.com/politics-news.xml",
+      "category": "political",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "politico-congress",
+      "name": "Politico (Congress)",
+      "url": "https://rss.politico.com/congress.xml",
+      "category": "political",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "id": "the-hill",
+      "name": "The Hill",
+      "url": "https://thehill.com/feed/",
+      "category": "political",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "axios",
+      "name": "Axios",
+      "url": "https://api.axios.com/feed/",
+      "category": "political",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "independent-us",
+      "name": "The Independent (US)",
+      "url": "https://www.independent.co.uk/news/world/americas/rss",
+      "category": "newspaper",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "id": "npr-news",
+      "name": "NPR",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "category": "broadcast",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "pbs-newshour",
+      "name": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+      "category": "broadcast",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "id": "courthouse-news",
+      "name": "Courthouse News",
+      "url": "https://www.courthousenews.com/feed/",
+      "category": "legal",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "doj-news",
+      "name": "DOJ News",
+      "url": "https://www.justice.gov/news/rss",
+      "category": "legal",
       "priority": 2,
       "enabled": true
     }
@@ -48,7 +200,9 @@
     "epstein files",
     "epstein documents",
     "jeffrey epstein",
-    "epstein transparency act"
+    "epstein transparency act",
+    "epstein list",
+    "epstein island"
   ],
   "maxArticlesPerRun": 10,
   "deduplicationWindowDays": 30
