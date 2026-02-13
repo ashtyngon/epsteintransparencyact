@@ -12,8 +12,12 @@ const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
 interface FilterResult {
   relevant: boolean;
   confidence: number;
+  newsworthiness: number;
+  isBreaking: boolean;
+  searchPotential: number;
   tags: string[];
   mentionedPeople: string[];
+  suggestedHeadline: string;
 }
 
 interface RelevantArticle {
@@ -23,7 +27,9 @@ interface RelevantArticle {
   pubDate: string;
   source: string;
   sourceId: string;
+  sourcePriority: number;
   filterResult: FilterResult;
+  rankScore: number;
 }
 
 function slugify(text: string): string {
@@ -53,20 +59,27 @@ async function generateArticleBody(
   try {
     const response = await client.messages.create({
       model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 1024,
+      max_tokens: 1500,
       messages: [{ role: 'user', content: prompt }],
     });
 
     return response.content[0].type === 'text' ? response.content[0].text : null;
   } catch (error) {
-    console.error(`Failed to generate article for "${item.title}": ${error}`);
+    console.error(`  ERR: Failed to generate "${item.title.slice(0, 50)}": ${(error as Error).message?.slice(0, 40)}`);
     return null;
   }
 }
 
 function buildMarkdown(item: RelevantArticle, body: string): string {
   const dateStr = formatDateForFrontmatter(item.pubDate);
-  const summary = item.description.slice(0, 200).replace(/"/g, '\\"');
+
+  // Use AI-suggested headline if available, otherwise original
+  const headline = item.filterResult.suggestedHeadline || item.title;
+
+  // Build a clean summary from the first ~160 chars of the body (for meta description)
+  const bodyText = body.replace(/[#*\[\]()]/g, '').replace(/\n+/g, ' ').trim();
+  const summary = bodyText.slice(0, 160).replace(/"/g, '\\"');
+
   const people = item.filterResult.mentionedPeople
     .map((p) => `  - ${p}`)
     .join('\n');
@@ -75,7 +88,7 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
     .join('\n');
 
   return `---
-title: "${item.title.replace(/"/g, '\\"')}"
+title: "${headline.replace(/"/g, '\\"')}"
 publishedAt: ${dateStr}
 source: "${item.source}"
 sourceUrl: "${item.link}"
@@ -110,24 +123,29 @@ async function main() {
     readFileSync(PROCESSED_PATH, 'utf-8')
   );
 
-  console.log(`Generating ${relevant.length} articles with Claude Sonnet...`);
+  console.log(`Generating ${relevant.length} articles with Claude Sonnet...\n`);
 
+  let created = 0;
   for (const item of relevant) {
-    const body = await generateArticleBody(client, item);
-    if (!body) continue;
-
+    const headline = item.filterResult.suggestedHeadline || item.title;
     const dateStr = formatDateForFrontmatter(item.pubDate);
-    const slug = `${dateStr}-${slugify(item.title)}`;
+    const slug = `${dateStr}-${slugify(headline)}`;
     const filePath = join(ARTICLES_DIR, `${slug}.md`);
 
     if (existsSync(filePath)) {
       console.log(`  SKIP (exists): ${slug}`);
+      processed.processedUrls.push(item.link);
       continue;
     }
+
+    console.log(`  Writing: ${headline.slice(0, 70)}...`);
+    const body = await generateArticleBody(client, item);
+    if (!body) continue;
 
     const markdown = buildMarkdown(item, body);
     writeFileSync(filePath, markdown);
     console.log(`  CREATED: ${slug}`);
+    created++;
 
     // Track processed URL
     processed.processedUrls.push(item.link);
@@ -135,7 +153,7 @@ async function main() {
 
   processed.lastRun = new Date().toISOString();
   writeFileSync(PROCESSED_PATH, JSON.stringify(processed, null, 2));
-  console.log(`\nDone. Updated processed URLs.`);
+  console.log(`\nDone. Created ${created} articles.`);
 }
 
 main().catch(console.error);
