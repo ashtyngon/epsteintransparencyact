@@ -57,15 +57,23 @@ async function generateArticleBody(
     .replace('{publishedAt}', item.pubDate);
 
   try {
-    const response = await client.messages.create({
-      model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 1500,
-      messages: [{ role: 'user', content: prompt }],
-    });
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 60000);
+
+    const response = await client.messages.create(
+      {
+        model: 'claude-sonnet-4-5-20250929',
+        max_tokens: 1500,
+        messages: [{ role: 'user', content: prompt }],
+      },
+      { signal: controller.signal as any }
+    );
+
+    clearTimeout(timeout);
 
     return response.content[0].type === 'text' ? response.content[0].text : null;
   } catch (error) {
-    console.error(`  ERR: Failed to generate "${item.title.slice(0, 50)}": ${(error as Error).message?.slice(0, 40)}`);
+    console.error(`  ERR: Failed to generate "${item.title.slice(0, 50)}": ${(error as Error).message?.slice(0, 60)}`);
     return null;
   }
 }

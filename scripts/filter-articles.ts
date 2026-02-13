@@ -71,11 +71,19 @@ async function filterArticle(
     .replace('{publishedAt}', item.pubDate);
 
   try {
-    const response = await client.messages.create({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 512,
-      messages: [{ role: 'user', content: prompt }],
-    });
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 30000);
+
+    const response = await client.messages.create(
+      {
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 512,
+        messages: [{ role: 'user', content: prompt }],
+      },
+      { signal: controller.signal as any }
+    );
+
+    clearTimeout(timeout);
 
     const text = response.content[0].type === 'text' ? response.content[0].text : '';
     // Extract JSON from response (handle possible markdown wrapping)
@@ -83,7 +91,7 @@ async function filterArticle(
     if (!jsonMatch) return null;
     return JSON.parse(jsonMatch[0]) as FilterResult;
   } catch (error) {
-    console.error(`  ERR: Failed to filter "${item.title.slice(0, 50)}": ${(error as Error).message?.slice(0, 40)}`);
+    console.error(`  ERR: Failed to filter "${item.title.slice(0, 50)}": ${(error as Error).message?.slice(0, 60)}`);
     return null;
   }
 }
