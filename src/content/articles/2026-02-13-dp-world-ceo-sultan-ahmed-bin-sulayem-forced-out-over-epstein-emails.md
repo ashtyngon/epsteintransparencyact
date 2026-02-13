@@ -8,7 +8,7 @@ people:
   - jeffrey-epstein
   - sultan-ahmed-bin-sulayem
 relatedArticles:
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
 tags:
@@ -26,7 +26,7 @@ DP World, a Dubai-based conglomerate ultimately owned by the emirate's royal fam
 
 ## Second Executive Out This Week
 
-Bin Sulayem's resignation follows a pattern of corporate exits triggered by the latest Epstein document releases. [Goldman Sachs' top lawyer stepped down](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links) earlier this week after emails revealed he called Epstein an "older brother" figure. Both departures happened within days of [a congressman naming six men](/articles/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) whose identities had been redacted from official Epstein files.
+Bin Sulayem's resignation follows a pattern of corporate exits triggered by the latest Epstein document releases. [Goldman Sachs' top lawyer stepped down](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) earlier this week after emails revealed she called Epstein "uncle Jeffrey". Both departures happened within days of [a congressman naming six men](/articles/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) whose identities had been redacted from official Epstein files.
 
 The speed of bin Sulayem's exit—described as immediate—suggests either the content of the emails was indefensible or that Dubai's royal owners calculated any Epstein association had become a liability they couldn't afford.
 

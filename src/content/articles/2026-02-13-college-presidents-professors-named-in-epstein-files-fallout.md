@@ -35,6 +35,6 @@ Epstein's academic strategy was calculated: fund research programs, endow facult
 
 Administrators are also fielding questions about due diligence. Multiple faculty members maintained professional relationships with Epstein well after his criminal history became public. Whether those relationships involved willful ignorance or active complicity remains unclear—and universities aren't rushing to clarify.
 
-The academic fallout adds another dimension to [the broader Epstein files release](/articles/court-releases-new-batch-of-documents), which has already forced [resignations on Wall Street](/articles/goldman-sachs-top-lawyer-resigns-over-epstein-links) and exposed [financial institutions' ties to trafficking operations](/articles/court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
+The academic fallout adds another dimension to [the broader Epstein files release](/articles/court-releases-new-batch-of-documents), which has already forced [resignations on Wall Street](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and exposed [financial institutions' ties to trafficking operations](/articles/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
 
 Universities position themselves as moral authorities. Now they're being asked to prove they deserve that reputation—or admit they sold it for Epstein's checkbook.

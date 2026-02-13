@@ -10,7 +10,7 @@ people:
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-house-judiciary-grills-ag-over-growing-epstein-connections
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
@@ -31,7 +31,7 @@ Khanna publicly praised the resignation and issued a clear demand: "name names."
 
 ## Second Major Resignation
 
-Bin Sulayem's departure follows [Goldman Sachs' top lawyer resignation](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links) earlier this week after damaging emails surfaced. Both men held powerful positions at major financial institutions—Bin Sulayem ran the Dubai-based port operator, while Goldman's general counsel served as one of Wall Street's most influential attorneys.
+Bin Sulayem's departure follows [Goldman Sachs' top lawyer resignation](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) earlier this week after damaging emails surfaced. Both men held powerful positions at major financial institutions—Bin Sulayem ran the Dubai-based port operator, while Goldman's general counsel served as one of Wall Street's most influential attorneys.
 
 The pattern is becoming clear: executives named in the Epstein document releases are facing immediate pressure to step down. Corporate boards are no longer waiting for investigations to conclude before acting.
 

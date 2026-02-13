@@ -1,5 +1,5 @@
 ---
-title: "Congress Subpoenas Wexner: Billionaire to Testify on Epstein Ties"
+title: "Congress to Depose Wexner in Ohio Over Epstein Ties"
 publishedAt: 2026-02-13
 source: "Google News (Epstein)"
 sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmt2U3FiTGxRX0tRZkpRck00NkMzRUlwVDUxV0FOSkpQSG9uZEhfWF9pb3FmRVdfWUZYNlVwM3VlN2NlVTV1UEVuUDZGLXZWUlh1dFc2dFgyb1NTM2hRQkg5Sm1vWnRiN2tOb1pPOHg2X0NDZGMzd0hhSnJzd2Q5ZVd0enN0WHZVX244SUJHc0xJNmFMR0FnSW01eXRiaFQtQWZpZEhGUzFUOWpjQnhwYTl2aw?oc=5"

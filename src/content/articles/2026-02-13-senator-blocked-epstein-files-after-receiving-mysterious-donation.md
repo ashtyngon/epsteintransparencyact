@@ -12,7 +12,7 @@ relatedArticles:
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
@@ -55,7 +55,7 @@ Dark money contributions are legal but deliberately opaque. Wealthy donors influ
 
 Americans for Prosperity Action spent over $80 million on the 2024 election cycle, providing similar five-figure donations to at least a dozen other senators. Most of them voted for transparency.
 
-Every week brings new revelations about powerful figures working to minimize their exposure. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links) after emails surfaced. A [DP World CEO was forced out](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) over similar revelations. [College presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) scrambled to explain their connections.
+Every week brings new revelations about powerful figures working to minimize their exposure. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. A [DP World CEO was forced out](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) over similar revelations. [College presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) scrambled to explain their connections.
 
 The [New York Times is now conducting a massive investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of newly released files. More names will surface. More senators may face questions about who funded their campaigns—and what those donors expected in return.
 

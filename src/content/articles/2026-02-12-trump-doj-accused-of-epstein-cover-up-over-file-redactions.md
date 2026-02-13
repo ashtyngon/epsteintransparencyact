@@ -12,7 +12,7 @@ relatedArticles:
   - 2026-02-13-ag-questioned-on-epstein-files-release
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - transparency-act
   - document-release
@@ -40,7 +40,7 @@ The irony is hard to miss. Trump signed the Epstein Transparency Act into law, m
 
 Higbie's demand for criminal prosecution takes the controversy beyond policy criticism into direct accountability. He's not asking for better processes or more transparency — he wants Justice Department officials prosecuted for limiting what Americans can see.
 
-Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner a co-conspirator](/articles/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator). [Goldman Sachs' top lawyer resigned after his communications with Epstein became public](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links).
+Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner a co-conspirator](/articles/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator). [Goldman Sachs' top lawyer resigned after her communications with Epstein became public](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files).
 
 But the question Higbie raises cuts deeper: Why redact at all if the point of the law was disclosure? And who decided which names the public gets to see and which remain protected?
 

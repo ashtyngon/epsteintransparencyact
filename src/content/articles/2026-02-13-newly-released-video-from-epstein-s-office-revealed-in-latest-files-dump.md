@@ -7,7 +7,7 @@ summary: "A camera hidden inside Jeffrey Epstein's Palm Beach office captured pr
 people:
   - jeffrey-epstein
 relatedArticles:
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
@@ -44,7 +44,7 @@ The government can't have it both ways.
 
 ## Drip by Drip
 
-This video is the latest in a series of releases that have exposed [high-profile names in emails and flight logs](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links), led to [resignations at major corporations](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails), and triggered [congressional subpoenas for billionaires like Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties).
+This video is the latest in a series of releases that have exposed [high-profile names in emails and flight logs](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), led to [resignations at major corporations](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails), and triggered [congressional subpoenas for billionaires like Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties).
 
 The [New York Times is now conducting a major investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of records becoming available under the Epstein Transparency Act, which [became law earlier this year](/articles/epstein-transparency-act-signed-into-law).
 

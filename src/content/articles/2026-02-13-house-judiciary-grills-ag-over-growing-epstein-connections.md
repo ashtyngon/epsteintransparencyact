@@ -5,7 +5,6 @@ source: "Google News (Epstein)"
 sourceUrl: "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWnBWeGtOU21pUE5yRFhHb2FmcnFEc2h6bG50dlpDWVJ0T3ktT3hOQnBncDYwSzl0S2dIVU8wZDd5clpoNWlhMURlVUZ6ZkNpQ2s1VVNLREZvSDJ1RUdEd0ZWLVlveHlKV1VCcUl1Z19BTVU5ZXU1SkE5WFhmc2Frc1dKQnVkdkFwVzJXNzFzdERTTEtseGhPMFU3TkZ0M0o0Z3J6Y0pjN0JzWThhN3RNT1JkTnlpZ3ZVVk5WaWI0TDlnY3BZbnQ4cHAxRQ?oc=5"
 summary: "The House Judiciary Committee grilled Attorney General Pam Bondi this week as pressure mounts over the growing list of powerful figures connected to Jeffrey Eps"
 people:
-  - attorney-general
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
@@ -14,7 +13,7 @@ relatedArticles:
   - fbi-begins-epstein-records-review
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
   - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
   - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
@@ -45,7 +44,7 @@ Last week, a congressman took matters into his own hands, [naming six men from t
 
 ## New Names, Old Questions
 
-Despite years of official secrecy, Epstein connections keep surfacing. Goldman Sachs [lost its top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links) after emails showed him calling Epstein an "older brother." A Dubai port executive [was forced out](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) over Epstein emails. [Prince Andrew's BBC denials](/articles/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) crumbled under newly released correspondence.
+Despite years of official secrecy, Epstein connections keep surfacing. Goldman Sachs [lost its top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails showed her calling Epstein "uncle Jeffrey." A Dubai port executive [was forced out](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) over Epstein emails. [Prince Andrew's BBC denials](/articles/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) crumbled under newly released correspondence.
 
 A federal judge [allowed a trafficking lawsuit against Bank of America to proceed](/articles/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), with allegations the bank knowingly facilitated Epstein's operation. The New York Times [launched a major investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of documents.
 
