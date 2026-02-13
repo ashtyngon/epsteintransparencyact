@@ -90,7 +90,12 @@ export default config({
       path: 'src/content/articles/*',
       format: { contentField: 'content' },
       entryLayout: 'content',
-      columns: ['publishedAt', 'source', 'status', 'articleType'],
+      columns: ['status', 'source', 'articleType', 'publishedAt'],
+      parseSlugForSort: (slug) => {
+        // Extract date prefix for reverse-chronological sort (newest first)
+        const match = slug.match(/^(\d{4}-\d{2}-\d{2})/);
+        return match ? -new Date(match[1]).getTime() : 0;
+      },
       schema: {
         title: fields.slug({
           name: {
@@ -201,7 +206,7 @@ export default config({
       path: 'src/content/people/*',
       format: { contentField: 'content' },
       entryLayout: 'content',
-      columns: ['category', 'role'],
+      columns: ['role', 'category'],
       schema: {
         name: fields.slug({
           name: {
@@ -294,7 +299,7 @@ export default config({
       path: 'src/content/timeline/*',
       format: { contentField: 'content' },
       entryLayout: 'content',
-      columns: ['date', 'era', 'category', 'significance'],
+      columns: ['era', 'date', 'category', 'significance'],
       schema: {
         title: fields.slug({
           name: {
