@@ -100,33 +100,58 @@ function preFilterByKeywords(items: RSSItem[], keywords: string[]): RSSItem[] {
   });
 }
 
+function getSignificantWords(text: string): string[] {
+  const stopWords = new Set([
+    'that', 'this', 'with', 'from', 'have', 'been', 'were', 'their',
+    'about', 'after', 'says', 'said', 'over', 'into', 'will', 'more',
+    'than', 'also', 'just', 'back', 'when', 'what', 'could', 'would',
+    'some', 'them', 'other', 'being', 'does', 'most', 'make', 'like',
+    'report', 'reports', 'news', 'former', 'amid', 'ties', 'linked',
+    'following', 'according',
+  ]);
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .split(' ')
+    .filter((w) => w.length > 3 && !stopWords.has(w));
+}
+
+function titlesAreSimilar(a: string[], b: string[]): boolean {
+  const setA = new Set(a);
+  const setB = new Set(b);
+  const intersection = a.filter((w) => setB.has(w));
+  const union = new Set([...setA, ...setB]);
+  // Jaccard similarity — if 40%+ of significant words overlap, it's the same story
+  return union.size > 0 && intersection.length / union.size >= 0.4;
+}
+
 function deduplicateByTitle(items: RSSItem[]): RSSItem[] {
-  const seen = new Map<string, RSSItem>();
+  const groups: { words: string[]; best: RSSItem }[] = [];
 
   for (const item of items) {
-    const normalized = item.title
-      .toLowerCase()
-      .replace(/[^a-z0-9\s]/g, '')
-      .replace(/\s+/g, ' ')
-      .trim();
+    const words = getSignificantWords(item.title);
+    let merged = false;
 
-    const keyWords = normalized
-      .split(' ')
-      .filter((w) => w.length > 3 && !['that', 'this', 'with', 'from', 'have', 'been', 'were', 'their', 'about', 'after', 'says', 'said'].includes(w));
-
-    const signature = keyWords.slice(0, 6).sort().join('|');
-
-    if (!seen.has(signature)) {
-      seen.set(signature, item);
-    } else {
-      const existing = seen.get(signature)!;
-      if (item.sourcePriority < existing.sourcePriority) {
-        seen.set(signature, item);
+    for (const group of groups) {
+      if (titlesAreSimilar(words, group.words)) {
+        // Keep the one from the higher-priority source (lower number = higher priority)
+        if (item.sourcePriority < group.best.sourcePriority) {
+          group.best = item;
+          group.words = words; // Use the better source's title words
+        }
+        merged = true;
+        break;
       }
+    }
+
+    if (!merged) {
+      groups.push({ words, best: item });
     }
   }
 
-  return [...seen.values()];
+  return groups.map((g) => g.best);
 }
 
 async function main() {
