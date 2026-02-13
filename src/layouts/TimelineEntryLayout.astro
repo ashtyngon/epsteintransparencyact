@@ -2,7 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
-import { getEra, getEraCategoryColor } from '../utils/timeline-eras';
+import { getEra, getEraCategoryLabel } from '../utils/timeline-eras';
 import { timelineEventJsonLd } from '../utils/json-ld';
 import type { CollectionEntry } from 'astro:content';
 
@@ -13,12 +13,7 @@ interface Props {
 const { entry } = Astro.props;
 const { title, date, endDate, category, summary, image, imageCaption, people, sources, relatedArticles, relatedEvents, significance } = entry.data;
 const era = getEra(entry.data.era);
-const categoryColor = getEraCategoryColor(category);
-
-const categoryLabel = category
-  .split('-')
-  .map((w: string) => w.charAt(0).toUpperCase() + w.slice(1))
-  .join(' ');
+const categoryLabel = getEraCategoryLabel(category);
 
 function formatDate(d: Date): string {
   return d.toLocaleDateString('en-US', {
@@ -47,6 +42,12 @@ const allArticles = await getCollection('articles');
 const relatedArticleItems = relatedArticles
   .map((slug) => allArticles.find((a) => a.id === slug))
   .filter(Boolean) as CollectionEntry<'articles'>[];
+
+// Prev/Next navigation
+const sortedEntries = allEntries.sort((a, b) => a.data.date.getTime() - b.data.date.getTime() || a.data.order - b.data.order);
+const currentIdx = sortedEntries.findIndex((e) => e.id === entry.id);
+const prevEntry = currentIdx > 0 ? sortedEntries[currentIdx - 1] : null;
+const nextEntry = currentIdx < sortedEntries.length - 1 ? sortedEntries[currentIdx + 1] : null;
 ---
 
 <BaseLayout
@@ -64,35 +65,32 @@ const relatedArticleItems = relatedArticles
     </div>
 
     <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-10">
-      <div class="flex flex-wrap items-center gap-2 mb-4">
-        <span class={`text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 ${era.color} text-white rounded-sm`}>
-          {era.shortLabel}
-        </span>
-        <span class={`text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 ${categoryColor} rounded-sm`}>
-          {categoryLabel}
-        </span>
+      <div class="flex items-center gap-3 mb-4">
+        <span
+          class="text-[10px] font-bold uppercase tracking-[0.2em] px-2 py-0.5 text-white"
+          style={`background:${era.color}`}
+        >{era.shortLabel}</span>
+        <span class="text-[10px] font-semibold uppercase tracking-[0.15em] text-white/40">{categoryLabel}</span>
         {significance === 'major' && (
-          <span class="text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 bg-highlight text-white rounded-sm">
-            Key Event
-          </span>
+          <span class="text-[10px] font-bold uppercase tracking-[0.15em] text-highlight">Key Event</span>
         )}
       </div>
 
-      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-3">
+      <h1 class="text-2xl md:text-[2.5rem] font-serif font-bold leading-[1.1] mb-4">
         {title}
       </h1>
 
-      <div class="flex items-center gap-3 text-sm text-white/50 font-mono mb-4">
+      <div class="flex items-center gap-3 text-sm text-white/40 font-mono mb-4">
         <time datetime={date.toISOString()}>{formatDate(date)}</time>
         {endDate && (
           <>
-            <span class="text-white/30">—</span>
+            <span class="text-white/20">—</span>
             <time datetime={endDate.toISOString()}>{formatDate(endDate)}</time>
           </>
         )}
       </div>
 
-      <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-2xl">
+      <p class="text-base text-white/50 leading-relaxed max-w-2xl">
         {summary}
       </p>
     </div>
@@ -100,20 +98,13 @@ const relatedArticleItems = relatedArticles
 
   <!-- Hero Image -->
   {image && (
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 -mt-4 mb-8">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 -mt-4 mb-8">
       <figure>
-        <div class="aspect-[16/9] rounded-lg overflow-hidden bg-surface-dark shadow-lg">
-          <img
-            src={image}
-            alt={title}
-            class="w-full h-full object-cover"
-            loading="eager"
-          />
+        <div class="aspect-[16/9] overflow-hidden bg-surface-dark">
+          <img src={image} alt={title} class="w-full h-full object-cover" loading="eager" />
         </div>
         {imageCaption && (
-          <figcaption class="text-xs text-text-muted mt-2 font-mono">
-            {imageCaption}
-          </figcaption>
+          <figcaption class="text-[11px] text-text-muted mt-2 font-mono">{imageCaption}</figcaption>
         )}
       </figure>
     </div>
@@ -125,15 +116,15 @@ const relatedArticleItems = relatedArticles
       <slot />
     </div>
 
-    <!-- Related People -->
+    <!-- People Involved -->
     {people.length > 0 && (
       <div class="mt-10 pt-8 border-t-2 border-primary">
-        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">People Involved</h2>
+        <h2 class="text-[10px] font-bold uppercase tracking-[0.2em] text-primary mb-4">People Involved</h2>
         <div class="flex flex-wrap gap-2">
           {people.map((slug) => (
             <a
               href={`/people/${slug}`}
-              class="text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-accent hover:text-accent transition-colors no-underline"
+              class="text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-primary hover:bg-primary hover:text-white transition-colors no-underline"
             >
               {slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}
             </a>
@@ -145,21 +136,25 @@ const relatedArticleItems = relatedArticles
     <!-- Related Events -->
     {relatedEntryItems.length > 0 && (
       <div class="mt-8 pt-6 border-t border-border">
-        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Related Events</h2>
-        <div class="space-y-3">
-          {relatedEntryItems.map((related) => (
-            <a
-              href={`/timeline/${related.id}`}
-              class="block p-3 border border-border rounded hover:border-accent transition-colors no-underline"
-            >
-              <div class="flex items-center gap-2 mb-1">
-                <span class="text-[10px] font-mono text-text-muted">
-                  {related.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
-                </span>
-              </div>
-              <h3 class="text-sm font-serif font-bold text-primary">{related.data.title}</h3>
-            </a>
-          ))}
+        <h2 class="text-[10px] font-bold uppercase tracking-[0.2em] text-primary mb-4">Related Events</h2>
+        <div class="space-y-0">
+          {relatedEntryItems.map((related) => {
+            const relEra = getEra(related.data.era);
+            return (
+              <a
+                href={`/timeline/${related.id}`}
+                class="flex items-start gap-3 py-3 border-b border-border last:border-b-0 hover:bg-surface-dark -mx-3 px-3 transition-colors no-underline group"
+              >
+                <span class="w-1.5 h-1.5 flex-shrink-0 mt-2" style={`background:${relEra.color}`}></span>
+                <div class="flex-1 min-w-0">
+                  <span class="text-[10px] font-mono text-text-muted block mb-0.5">
+                    {related.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
+                  </span>
+                  <span class="text-sm font-serif font-bold text-primary group-hover:text-accent transition-colors">{related.data.title}</span>
+                </div>
+              </a>
+            );
+          })}
         </div>
       </div>
     )}
@@ -167,17 +162,17 @@ const relatedArticleItems = relatedArticles
     <!-- Related Articles -->
     {relatedArticleItems.length > 0 && (
       <div class="mt-8 pt-6 border-t border-border">
-        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Related Coverage</h2>
-        <div class="space-y-3">
+        <h2 class="text-[10px] font-bold uppercase tracking-[0.2em] text-primary mb-4">Related Coverage</h2>
+        <div class="space-y-0">
           {relatedArticleItems.map((article) => (
             <a
               href={`/articles/${article.id}`}
-              class="block p-3 border border-border rounded hover:border-accent transition-colors no-underline"
+              class="block py-3 border-b border-border last:border-b-0 hover:bg-surface-dark -mx-3 px-3 transition-colors no-underline group"
             >
-              <div class="flex items-center gap-2 mb-1">
+              <div class="flex items-center gap-2 mb-0.5">
                 <span class="source-badge">{article.data.source}</span>
               </div>
-              <h3 class="text-sm font-serif font-bold text-primary">{article.data.title}</h3>
+              <span class="text-sm font-serif font-bold text-primary group-hover:text-accent transition-colors">{article.data.title}</span>
             </a>
           ))}
         </div>
@@ -187,7 +182,7 @@ const relatedArticleItems = relatedArticles
     <!-- Sources -->
     {sources.length > 0 && (
       <div class="mt-8 pt-6 border-t border-border">
-        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Sources</h2>
+        <h2 class="text-[10px] font-bold uppercase tracking-[0.2em] text-primary mb-4">Sources</h2>
         <ul class="space-y-2">
           {sources.map((s) => (
             <li>
@@ -205,10 +200,31 @@ const relatedArticleItems = relatedArticles
       </div>
     )}
 
-    <!-- Back to timeline -->
-    <div class="mt-10 pt-6 border-t border-border">
-      <a href="/timeline" class="text-sm text-accent hover:text-primary transition-colors font-medium no-underline">
-        &larr; Back to Full Timeline
+    <!-- Prev / Next -->
+    <div class="mt-10 pt-6 border-t-2 border-primary">
+      <div class="grid grid-cols-2 gap-4">
+        {prevEntry ? (
+          <a href={`/timeline/${prevEntry.id}`} class="group no-underline">
+            <span class="text-[10px] font-semibold uppercase tracking-[0.15em] text-text-muted block mb-1">&larr; Previous</span>
+            <span class="text-sm font-serif font-bold text-primary group-hover:text-accent transition-colors line-clamp-2">{prevEntry.data.title}</span>
+          </a>
+        ) : (
+          <div />
+        )}
+        {nextEntry ? (
+          <a href={`/timeline/${nextEntry.id}`} class="group no-underline text-right">
+            <span class="text-[10px] font-semibold uppercase tracking-[0.15em] text-text-muted block mb-1">Next &rarr;</span>
+            <span class="text-sm font-serif font-bold text-primary group-hover:text-accent transition-colors line-clamp-2">{nextEntry.data.title}</span>
+          </a>
+        ) : (
+          <div />
+        )}
+      </div>
+    </div>
+
+    <div class="mt-8 pt-4 border-t border-border">
+      <a href="/timeline" class="text-sm text-accent hover:text-primary transition-colors font-semibold no-underline">
+        &larr; Full Timeline
       </a>
     </div>
   </div>

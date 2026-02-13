@@ -173,37 +173,24 @@ html {
 
 /* ─── Timeline ────────────────────────────────────────────────────── */
 
-.era-header {
-  padding-left: 1.25rem;
-}
-
-.timeline-card {
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-.timeline-card:hover {
-  transform: translateY(-1px);
-}
-
-.category-toggle {
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-
-.category-toggle[data-active='false'] {
-  opacity: 0.5;
-}
-
-.category-toggle[data-active='true'] {
-  opacity: 1;
-}
-
-.era-nav {
-  overflow-x: auto;
+.tl-era-nav {
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
 }
 
-.era-nav::-webkit-scrollbar {
+.tl-era-nav::-webkit-scrollbar {
   display: none;
+}
+
+.tl-filter {
+  cursor: pointer;
+}
+
+.tl-event {
+  transition: none;
+}
+
+/* Highlight spine segment on hover */
+.tl-event:hover > div:first-child {
+  background-color: var(--color-primary);
 }

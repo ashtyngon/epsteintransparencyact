@@ -1,11 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import EraSection from '../../components/timeline/EraSection.astro';
-import TimelineNav from '../../components/timeline/TimelineNav.astro';
-import CategoryFilter from '../../components/timeline/CategoryFilter.astro';
 import { getCollection } from 'astro:content';
-import { ERAS } from '../../utils/timeline-eras';
+import { ERAS, getEra, getEraCategoryLabel } from '../../utils/timeline-eras';
 import { timelineJsonLd } from '../../utils/json-ld';
 
 const entries = (await getCollection('timeline'))
@@ -17,14 +14,8 @@ const entriesByEra = ERAS.map((era) => ({
   entries: entries.filter((e) => e.data.era === era.id),
 })).filter((group) => group.entries.length > 0);
 
-// Get unique categories for filter
+// Unique categories
 const allCategories = [...new Set(entries.map((e) => e.data.category))].sort();
-
-// Era counts for nav
-const eraNavItems = entriesByEra.map((group) => ({
-  era: group.era,
-  count: group.entries.length,
-}));
 
 const jsonLd = timelineJsonLd(
   entries.map((e) => ({
@@ -33,6 +24,14 @@ const jsonLd = timelineJsonLd(
     summary: e.data.summary,
   }))
 );
+
+function formatDate(d: Date): string {
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+
+function formatYear(d: Date): string {
+  return d.getFullYear().toString();
+}
 ---
 
 <BaseLayout
@@ -40,51 +39,207 @@ const jsonLd = timelineJsonLd(
   description="A comprehensive chronological record of key events, court proceedings, investigations, and legislative milestones in the Jeffrey Epstein case."
   jsonLd={jsonLd}
 >
-  <!-- Page Header -->
+  <!-- Header -->
   <header class="bg-primary text-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
-      <Breadcrumbs items={[
-        { name: 'Timeline', href: '/timeline' },
-      ]} />
+      <Breadcrumbs items={[{ name: 'Timeline', href: '/timeline' }]} />
     </div>
-
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 pb-10">
-      <div class="flex items-center gap-2 mb-4">
-        <span class="text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 bg-highlight text-white">
-          Chronology
-        </span>
-        <span class="text-xs text-white/50 font-mono">{entries.length} events</span>
-      </div>
-      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-3">
-        The Epstein Case: A Complete Timeline
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
+      <p class="text-[10px] font-semibold uppercase tracking-[0.2em] text-highlight mb-3 font-mono">Chronology</p>
+      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.1] mb-3">
+        The Epstein Case
       </h1>
-      <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-3xl">
-        From the origins of Epstein's financial empire to the landmark transparency legislation —
-        every major event, court proceeding, and investigation documented.
+      <p class="text-base text-white/50 leading-relaxed max-w-2xl">
+        {entries.length} documented events spanning {ERAS[0].dateRange.split('–')[0]} to present.
+        Every major arrest, investigation, plea deal, and legislative milestone.
       </p>
     </div>
   </header>
 
-  <!-- Content -->
-  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-8">
-    <!-- Era Navigation -->
-    <TimelineNav eras={eraNavItems} />
+  <!-- Era jump nav -->
+  <div class="border-b border-border bg-white sticky top-[57px] z-40">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <nav class="tl-era-nav flex gap-0 overflow-x-auto" aria-label="Jump to era">
+        {entriesByEra.map(({ era, entries: eraEntries }) => (
+          <a
+            href={`#era-${era.id}`}
+            class="tl-era-link flex items-center gap-2 px-4 py-3 text-xs font-semibold uppercase tracking-wider text-text-muted whitespace-nowrap border-b-2 border-transparent hover:text-primary hover:border-primary transition-colors"
+          >
+            <span class="w-1.5 h-1.5 flex-shrink-0" style={`background:${era.color}`}></span>
+            {era.shortLabel}
+          </a>
+        ))}
+      </nav>
+    </div>
+  </div>
 
-    <!-- Category Filter -->
-    <CategoryFilter categories={allCategories} />
-
-    <!-- Era Sections -->
-    {entriesByEra.map((group) => (
-      <EraSection era={group.era} entries={group.entries} />
-    ))}
-
-    {entries.length === 0 && (
-      <div class="text-center py-16">
-        <p class="text-text-muted text-lg">Timeline is being compiled.</p>
-        <p class="text-text-muted text-sm mt-2">
-          A comprehensive chronological record will be available here soon.
-        </p>
+  <!-- Category filter -->
+  <div class="bg-white border-b border-border">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 py-3">
+      <div class="flex items-center gap-2 overflow-x-auto" id="category-filter">
+        <span class="text-[10px] font-semibold uppercase tracking-wider text-text-muted mr-1 flex-shrink-0">Filter:</span>
+        <button
+          class="tl-filter text-[11px] font-semibold uppercase tracking-wider px-2.5 py-1 border border-primary bg-primary text-white flex-shrink-0 transition-colors"
+          data-category="all"
+          data-active="true"
+        >All</button>
+        {allCategories.map((cat) => (
+          <button
+            class="tl-filter text-[11px] font-semibold uppercase tracking-wider px-2.5 py-1 border border-border text-text-muted flex-shrink-0 hover:border-primary hover:text-primary transition-colors"
+            data-category={cat}
+            data-active="false"
+          >{getEraCategoryLabel(cat)}</button>
+        ))}
       </div>
-    )}
+    </div>
+  </div>
+
+  <!-- Timeline body -->
+  <div class="bg-surface">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+
+      {entriesByEra.map(({ era, entries: eraEntries }, eraIdx) => (
+        <section id={`era-${era.id}`} class="tl-era scroll-mt-32 relative">
+
+          {/* Era header */}
+          <div class="tl-era-header relative mb-8">
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-14 md:w-20 pt-1">
+                <div class="w-3 h-3" style={`background:${era.color}`}></div>
+              </div>
+              <div class="flex-1 min-w-0 pb-2 border-b-2 border-primary">
+                <div class="flex items-baseline gap-3 mb-1">
+                  <h2 class="text-xl md:text-2xl font-serif font-bold text-primary leading-tight">{era.label}</h2>
+                  <span class="text-xs font-mono text-text-muted flex-shrink-0">{era.dateRange}</span>
+                </div>
+                <p class="text-sm text-text-muted leading-relaxed">{era.description}</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Events */}
+          {eraEntries.map((entry, idx) => {
+            const isMajor = entry.data.significance === 'major';
+            const catLabel = getEraCategoryLabel(entry.data.category);
+            return (
+              <article
+                class={`tl-event group relative ${isMajor ? 'tl-event--major' : ''}`}
+                data-category={entry.data.category}
+              >
+                {/* The vertical spine line */}
+                <div class="absolute left-[1.65rem] md:left-[2.3rem] top-0 bottom-0 w-px bg-border" />
+
+                <a href={`/timeline/${entry.id}`} class="relative flex gap-4 no-underline">
+                  {/* Date column */}
+                  <div class="flex-shrink-0 w-14 md:w-20 pt-[3px] relative z-10">
+                    {/* Node on spine */}
+                    <div
+                      class={`absolute left-[1.65rem] md:left-[2.3rem] top-[7px] -translate-x-1/2 ${isMajor ? 'w-2.5 h-2.5' : 'w-[7px] h-[7px]'} border-2 border-white`}
+                      style={`background:${era.color}`}
+                    />
+                    <span class={`block text-right pr-5 md:pr-6 font-mono ${isMajor ? 'text-xs font-bold text-primary' : 'text-[11px] text-text-muted'} leading-none`}>
+                      {formatYear(entry.data.date)}
+                    </span>
+                  </div>
+
+                  {/* Content */}
+                  <div class={`flex-1 min-w-0 pb-8 ${isMajor ? 'pb-10' : ''}`}>
+                    <div class={`${isMajor ? 'border-l-2 pl-4 -ml-0.5' : 'pl-0'} group-hover:border-primary transition-colors`} style={isMajor ? `border-color:${era.color}` : ''}>
+                      {/* Meta line */}
+                      <div class="flex items-center gap-2 mb-1">
+                        <span class="text-[10px] font-semibold uppercase tracking-[0.15em] text-text-muted">{catLabel}</span>
+                        <span class="text-text-muted/30">·</span>
+                        <span class="text-[10px] font-mono text-text-muted">{formatDate(entry.data.date)}</span>
+                        {isMajor && (
+                          <>
+                            <span class="text-text-muted/30">·</span>
+                            <span class="text-[10px] font-bold uppercase tracking-[0.15em] text-highlight">Key Event</span>
+                          </>
+                        )}
+                      </div>
+
+                      {/* Title */}
+                      <h3 class={`font-serif font-bold text-primary leading-snug group-hover:text-accent transition-colors ${isMajor ? 'text-lg md:text-xl mb-2' : 'text-base mb-1'}`}>
+                        {entry.data.title}
+                      </h3>
+
+                      {/* Summary — only for major events */}
+                      {isMajor && (
+                        <p class="text-sm text-text-muted leading-relaxed line-clamp-2 max-w-xl">
+                          {entry.data.summary}
+                        </p>
+                      )}
+
+                      {/* People tags — major only */}
+                      {isMajor && entry.data.people.length > 0 && (
+                        <div class="flex flex-wrap gap-1.5 mt-2.5">
+                          {entry.data.people.slice(0, 4).map((slug) => (
+                            <span class="text-[10px] font-semibold uppercase tracking-wider text-text-muted border border-border px-1.5 py-0.5">
+                              {slug.replace(/-/g, ' ')}
+                            </span>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                </a>
+              </article>
+            );
+          })}
+
+          {/* Era spacer */}
+          {eraIdx < entriesByEra.length - 1 && (
+            <div class="relative h-12">
+              <div class="absolute left-[1.65rem] md:left-[2.3rem] top-0 bottom-0 w-px bg-border" />
+            </div>
+          )}
+        </section>
+      ))}
+
+      {entries.length === 0 && (
+        <div class="text-center py-16">
+          <p class="text-text-muted text-lg font-serif">Timeline is being compiled.</p>
+        </div>
+      )}
+    </div>
   </div>
 </BaseLayout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const filter = document.getElementById('category-filter');
+    if (!filter) return;
+
+    const buttons = filter.querySelectorAll<HTMLButtonElement>('.tl-filter');
+    const events = document.querySelectorAll<HTMLElement>('.tl-event');
+
+    let active = 'all';
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const cat = btn.dataset.category || 'all';
+        active = cat;
+
+        buttons.forEach((b) => {
+          const isOn = b.dataset.category === cat;
+          b.dataset.active = isOn ? 'true' : 'false';
+          if (isOn) {
+            b.classList.add('bg-primary', 'text-white', 'border-primary');
+            b.classList.remove('text-text-muted', 'border-border', 'hover:border-primary', 'hover:text-primary');
+          } else {
+            b.classList.remove('bg-primary', 'text-white', 'border-primary');
+            b.classList.add('text-text-muted', 'border-border', 'hover:border-primary', 'hover:text-primary');
+          }
+        });
+
+        events.forEach((ev) => {
+          if (cat === 'all' || ev.dataset.category === cat) {
+            ev.classList.remove('hidden');
+          } else {
+            ev.classList.add('hidden');
+          }
+        });
+      });
+    });
+  });
+</script>
