@@ -22,6 +22,16 @@ const categoryLabels: Record<string, string> = {
   other: 'Other',
 };
 
+const categoryColors: Record<string, string> = {
+  'named-in-documents': 'bg-highlight text-white',
+  witness: 'bg-amber-600 text-white',
+  associate: 'bg-red-700 text-white',
+  official: 'bg-blue-700 text-white',
+  legal: 'bg-purple-700 text-white',
+  'victim-survivor': 'bg-emerald-700 text-white',
+  other: 'bg-gray-600 text-white',
+};
+
 const jsonLd = personJsonLd({
   name,
   shortBio,
@@ -36,71 +46,82 @@ const jsonLd = personJsonLd({
   ogType="profile"
   jsonLd={jsonLd}
 >
-  <div class="max-w-4xl mx-auto px-4 py-8">
-    <Breadcrumbs items={[
-      { name: 'People', href: '/people' },
-      { name, href: `/people/${person.id}` },
-    ]} />
+  <!-- Person header -->
+  <header class="bg-primary text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+      <Breadcrumbs items={[
+        { name: 'People', href: '/people' },
+        { name, href: `/people/${person.id}` },
+      ]} />
+    </div>
 
-    <div class="mb-8">
-      <div class="flex items-start gap-4 mb-4">
-        <div>
-          <h1 class="text-3xl md:text-4xl font-bold text-primary">{name}</h1>
-          <p class="text-lg text-text-muted mt-1">{role}</p>
-        </div>
-      </div>
-
-      <div class="flex flex-wrap gap-2 mb-4">
-        <span class="text-xs font-medium bg-accent/10 text-accent px-3 py-1 rounded-full">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-10">
+      <div class="flex items-center gap-2 mb-4">
+        <span class:list={[
+          'text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5',
+          categoryColors[category] || 'bg-gray-600 text-white',
+        ]}>
           {categoryLabels[category] || category}
         </span>
       </div>
 
-      <p class="text-lg leading-relaxed text-text-muted">{shortBio}</p>
+      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-3">
+        {name}
+      </h1>
+      <p class="text-sm font-semibold uppercase tracking-wider text-white/50 mb-4">{role}</p>
+      <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-2xl">{shortBio}</p>
 
       {aliases.length > 0 && (
-        <div class="mt-4">
-          <span class="text-sm text-text-muted">Also known as: </span>
-          <span class="text-sm">{aliases.join(', ')}</span>
+        <div class="mt-4 text-xs text-white/40">
+          <span class="font-semibold uppercase tracking-wider">Also known as:</span>
+          <span class="ml-1 font-mono">{aliases.join(', ')}</span>
         </div>
       )}
     </div>
+  </header>
 
-    <div class="prose prose-lg max-w-none mb-8">
+  <!-- Content -->
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <div class="prose-article">
       <slot />
     </div>
 
+    <!-- Notable connections -->
     {notableConnections.length > 0 && (
-      <div class="mb-8 p-4 bg-surface-dark rounded-lg">
-        <h2 class="text-lg font-semibold mb-3">Notable Connections</h2>
+      <div class="mt-10 pt-8 border-t-2 border-primary">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Notable Connections</h2>
         <div class="flex flex-wrap gap-2">
           {notableConnections.map((slug) => (
             <a
               href={`/people/${slug}`}
-              class="text-sm bg-white text-accent px-3 py-1 rounded-full hover:bg-accent hover:text-white transition-colors"
+              class="text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-accent hover:text-accent transition-colors no-underline"
             >
-              {slug}
+              {slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}
             </a>
           ))}
         </div>
       </div>
     )}
 
-    <RelatedArticles personSlug={person.id} />
+    <!-- Related articles -->
+    <div class="mt-8">
+      <RelatedArticles personSlug={person.id} />
+    </div>
 
+    <!-- Sources -->
     {sources.length > 0 && (
       <div class="mt-8 pt-6 border-t border-border">
-        <h2 class="text-lg font-semibold mb-3">Sources</h2>
-        <ul class="space-y-1">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Sources</h2>
+        <ul class="space-y-2">
           {sources.map((s) => (
             <li>
               <a
                 href={s.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                class="text-sm text-accent hover:underline"
+                class="text-sm text-accent hover:text-primary transition-colors"
               >
-                {s.title}
+                {s.title} &rarr;
               </a>
             </li>
           ))}

@@ -2,31 +2,45 @@
 const currentPath = Astro.url.pathname;
 
 const navLinks = [
-  { href: '/', label: 'Home' },
   { href: '/articles', label: 'News' },
   { href: '/people', label: 'People' },
   { href: '/timeline', label: 'Timeline' },
-  { href: '/survivors', label: 'Survivors' },
   { href: '/about', label: 'About' },
 ];
 ---
 
-<header class="bg-primary text-white border-b border-white/10">
-  <div class="max-w-6xl mx-auto px-4">
-    <div class="flex items-center justify-between h-16">
-      <a href="/" class="flex items-center gap-3 text-white no-underline">
-        <span class="text-lg font-bold tracking-tight">Epstein Transparency Act</span>
+<header class="bg-primary text-white sticky top-0 z-50">
+  <!-- Top accent line -->
+  <div class="h-0.5 bg-highlight"></div>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6">
+    <div class="flex items-center justify-between h-14">
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-2 text-white no-underline group">
+        <div class="flex items-center gap-2">
+          <svg class="w-5 h-5 text-highlight" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
+            <path d="M14 2v6h6" fill="none" stroke="currentColor" stroke-width="1.5"/>
+            <line x1="9" y1="13" x2="15" y2="13" stroke="white" stroke-width="1.5"/>
+            <line x1="9" y1="17" x2="13" y2="17" stroke="white" stroke-width="1.5"/>
+          </svg>
+          <div class="flex flex-col leading-none">
+            <span class="text-sm font-bold tracking-wide uppercase">Epstein Files</span>
+            <span class="text-[10px] font-medium tracking-widest uppercase text-white/50">Transparency Tracker</span>
+          </div>
+        </div>
       </a>
 
-      <nav class="hidden md:flex items-center gap-1" aria-label="Main navigation">
+      <!-- Desktop nav -->
+      <nav class="hidden md:flex items-center gap-0.5" aria-label="Main navigation">
         {navLinks.map((link) => (
           <a
             href={link.href}
             class:list={[
-              'px-3 py-2 rounded text-sm font-medium transition-colors',
+              'px-3 py-1.5 text-xs font-semibold uppercase tracking-wider transition-colors',
               currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href))
-                ? 'bg-white/15 text-white'
-                : 'text-white/70 hover:text-white hover:bg-white/10',
+                ? 'text-white border-b-2 border-highlight'
+                : 'text-white/60 hover:text-white',
             ]}
           >
             {link.label}
@@ -34,31 +48,33 @@ const navLinks = [
         ))}
       </nav>
 
+      <!-- Mobile menu button -->
       <button
         id="mobile-menu-btn"
-        class="md:hidden p-2 text-white/70 hover:text-white"
+        class="md:hidden p-2 text-white/60 hover:text-white"
         aria-label="Toggle menu"
         aria-expanded="false"
       >
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
         </svg>
       </button>
     </div>
 
+    <!-- Mobile nav -->
     <nav
       id="mobile-menu"
-      class="hidden md:hidden pb-4 border-t border-white/10 pt-2"
+      class="hidden md:hidden pb-3 border-t border-white/10 pt-2"
       aria-label="Mobile navigation"
     >
       {navLinks.map((link) => (
         <a
           href={link.href}
           class:list={[
-            'block px-3 py-2 rounded text-sm font-medium',
+            'block px-3 py-2 text-sm font-medium',
             currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href))
-              ? 'bg-white/15 text-white'
-              : 'text-white/70 hover:text-white',
+              ? 'text-white bg-white/10'
+              : 'text-white/60 hover:text-white',
           ]}
         >
           {link.label}

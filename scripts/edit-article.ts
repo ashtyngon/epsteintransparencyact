@@ -27,6 +27,7 @@ interface RelevantArticle {
   source: string;
   sourceId: string;
   sourcePriority: number;
+  image?: string;
   filterResult: FilterResult;
   rankScore: number;
 }

@@ -7,7 +7,8 @@ import { getCollection } from 'astro:content';
 const people = (await getCollection('people'))
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
 
-const categories = [...new Set(people.map((p) => p.data.category))];
+const categoryOrder = ['named-in-documents', 'witness', 'associate', 'official', 'legal', 'victim-survivor', 'other'];
+const categories = categoryOrder.filter((cat) => people.some((p) => p.data.category === cat));
 
 const categoryLabels: Record<string, string> = {
   'named-in-documents': 'Named in Documents',
@@ -15,7 +16,7 @@ const categoryLabels: Record<string, string> = {
   associate: 'Associates',
   official: 'Officials',
   legal: 'Legal',
-  'victim-survivor': 'Victims/Survivors',
+  'victim-survivor': 'Victims & Survivors',
   other: 'Other',
 };
 ---
@@ -24,13 +25,16 @@ const categoryLabels: Record<string, string> = {
   title="People"
   description="A database of individuals connected to the Epstein case — named in documents, officials, associates, witnesses, and survivors."
 >
-  <div class="max-w-6xl mx-auto px-4 py-8">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
     <Breadcrumbs items={[{ name: 'People', href: '/people' }]} />
 
-    <h1 class="text-3xl md:text-4xl font-bold text-primary mb-2">People Database</h1>
-    <p class="text-text-muted mb-8">
-      Individuals connected to the Epstein case. Each profile links to all related articles.
-    </p>
+    <div class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-serif font-bold text-primary mb-2">People Database</h1>
+      <p class="text-sm text-text-muted max-w-2xl">
+        Individuals connected to the Epstein case. Each profile links to all related news coverage.
+        Inclusion does not imply guilt or wrongdoing.
+      </p>
+    </div>
 
     {people.length > 0 ? (
       <div class="space-y-10">
@@ -38,9 +42,12 @@ const categoryLabels: Record<string, string> = {
           const categoryPeople = people.filter((p) => p.data.category === cat);
           return categoryPeople.length > 0 ? (
             <section>
-              <h2 class="text-xl font-semibold text-primary mb-4 border-b border-border pb-2">
-                {categoryLabels[cat] || cat}
-              </h2>
+              <div class="flex items-center justify-between mb-4 border-b-2 border-primary pb-2">
+                <h2 class="text-sm font-semibold uppercase tracking-wider text-primary">
+                  {categoryLabels[cat] || cat}
+                </h2>
+                <span class="text-xs text-text-muted font-mono">{categoryPeople.length}</span>
+              </div>
               <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {categoryPeople.map((person) => (
                   <PersonCard person={person} />
@@ -51,8 +58,8 @@ const categoryLabels: Record<string, string> = {
         })}
       </div>
     ) : (
-      <div class="text-center py-16">
-        <p class="text-text-muted text-lg">People database is being built.</p>
+      <div class="text-center py-20">
+        <p class="text-text-muted font-serif text-lg">People database is being built.</p>
       </div>
     )}
   </div>

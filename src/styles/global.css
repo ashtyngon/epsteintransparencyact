@@ -2,17 +2,171 @@
 @plugin "@tailwindcss/typography";
 
 @theme {
-  --color-primary: #1a1a2e;
-  --color-secondary: #16213e;
-  --color-accent: #0f3460;
-  --color-highlight: #e94560;
-  --color-surface: #f8f9fa;
-  --color-surface-dark: #e9ecef;
-  --color-text: #212529;
-  --color-text-muted: #6c757d;
-  --color-border: #dee2e6;
+  /* Refined palette — authority + urgency */
+  --color-primary: #0f172a;
+  --color-secondary: #1e293b;
+  --color-accent: #2563eb;
+  --color-highlight: #dc2626;
+  --color-surface: #fafaf9;
+  --color-surface-dark: #f1f0ee;
+  --color-text: #1a1a1a;
+  --color-text-muted: #64748b;
+  --color-border: #e2e2e0;
 
+  /* Typography */
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
-  --font-serif: 'Georgia', 'Times New Roman', serif;
+  --font-serif: 'Source Serif 4', 'Georgia', 'Times New Roman', serif;
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* Source Serif 4 — editorial serif for headlines & body */
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/sourceserif4/v8/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjipdqpg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/sourceserif4/v8/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjipdqpg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/sourceserif4/v8/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjipdqpg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/sourceserif4/v8/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D8QI5S6OQsHBpRgg.woff2') format('woff2');
+}
+
+/* Inter — UI sans-serif (variable) */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiJ-Ek-_EeA.woff2') format('woff2');
+}
+
+/* Custom prose styles for article body */
+.prose-article {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: var(--color-text);
+}
+
+.prose-article p {
+  margin-bottom: 1.5em;
+}
+
+.prose-article h2 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-top: 2.5em;
+  margin-bottom: 0.75em;
+  color: var(--color-primary);
+}
+
+.prose-article h3 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  color: var(--color-primary);
+}
+
+.prose-article a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-article a:hover {
+  color: var(--color-primary);
+}
+
+.prose-article blockquote {
+  border-left: 3px solid var(--color-highlight);
+  padding-left: 1.25em;
+  margin-left: 0;
+  font-style: italic;
+  color: var(--color-text-muted);
+}
+
+.prose-article ul,
+.prose-article ol {
+  padding-left: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.prose-article li {
+  margin-bottom: 0.5em;
+}
+
+.prose-article strong {
+  font-weight: 700;
+}
+
+/* Source badge pill */
+.source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 0.125rem 0.5rem;
+  border-radius: 2px;
+  background: var(--color-primary);
+  color: white;
+}
+
+/* Breaking tag */
+.breaking-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.125rem 0.5rem;
+  border-radius: 2px;
+  background: var(--color-highlight);
+  color: white;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: rgba(37, 99, 235, 0.15);
+}
+
+/* Focus styles for accessibility */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
 }

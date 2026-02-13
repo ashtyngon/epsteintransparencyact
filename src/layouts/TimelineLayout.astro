@@ -24,16 +24,25 @@ const jsonLd = timelineJsonLd(
   description="A chronological timeline of key events in the Jeffrey Epstein case, from early history through ongoing legal proceedings and document releases."
   jsonLd={jsonLd}
 >
-  <div class="max-w-4xl mx-auto px-4 py-8">
-    <Breadcrumbs items={[
-      { name: 'Timeline', href: '/timeline' },
-    ]} />
+  <!-- Header -->
+  <header class="bg-primary text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+      <Breadcrumbs items={[
+        { name: 'Timeline', href: '/timeline' },
+      ]} />
+    </div>
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-10">
+      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-4">
+        The Epstein Saga
+      </h1>
+      <p class="text-base text-white/60 leading-relaxed max-w-2xl">
+        A chronological record of key events, legal proceedings, and document releases.
+      </p>
+    </div>
+  </header>
 
-    <h1 class="text-3xl md:text-4xl font-bold text-primary mb-2">The Epstein Saga</h1>
-    <p class="text-lg text-text-muted mb-8">
-      A chronological record of key events, legal proceedings, and document releases.
-    </p>
-
+  <!-- Timeline content -->
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
     <slot />
   </div>
 </BaseLayout>

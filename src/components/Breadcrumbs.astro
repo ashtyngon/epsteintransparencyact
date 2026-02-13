@@ -21,15 +21,15 @@ const jsonLd = breadcrumbJsonLd(
 );
 ---
 
-<nav aria-label="Breadcrumb" class="text-sm text-text-muted mb-4">
-  <ol class="flex flex-wrap items-center gap-1">
+<nav aria-label="Breadcrumb" class="text-xs mb-4">
+  <ol class="flex flex-wrap items-center gap-1 text-white/40">
     {fullItems.map((item, i) => (
       <li class="flex items-center gap-1">
-        {i > 0 && <span class="text-border">/</span>}
+        {i > 0 && <span class="text-white/20">/</span>}
         {i === fullItems.length - 1 ? (
-          <span class="text-text" aria-current="page">{item.name}</span>
+          <span class="text-white/60 truncate max-w-[200px] sm:max-w-none" aria-current="page">{item.name}</span>
         ) : (
-          <a href={item.href} class="hover:text-accent transition-colors">{item.name}</a>
+          <a href={item.href} class="hover:text-white/80 transition-colors">{item.name}</a>
         )}
       </li>
     ))}

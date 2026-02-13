@@ -10,40 +10,62 @@ const { entry } = Astro.props;
 const { title, date, category, summary, people } = entry.data;
 
 const categoryColors: Record<string, string> = {
-  biography: 'bg-gray-400',
-  legal: 'bg-red-500',
-  'document-release': 'bg-blue-500',
-  legislation: 'bg-green-500',
-  investigation: 'bg-yellow-500',
-  media: 'bg-purple-500',
-  other: 'bg-gray-400',
+  biography: 'bg-gray-500',
+  legal: 'bg-highlight',
+  'document-release': 'bg-accent',
+  legislation: 'bg-emerald-600',
+  investigation: 'bg-amber-500',
+  media: 'bg-purple-600',
+  other: 'bg-gray-500',
+};
+
+const categoryLabels: Record<string, string> = {
+  biography: 'Biography',
+  legal: 'Legal',
+  'document-release': 'Documents',
+  legislation: 'Legislation',
+  investigation: 'Investigation',
+  media: 'Media',
+  other: 'Event',
 };
 ---
 
-<div class="relative pl-8 pb-8 border-l-2 border-border last:pb-0">
+<div class="relative pl-8 pb-10 border-l-2 border-border last:pb-0 last:border-l-0">
+  <!-- Timeline dot -->
   <div class:list={[
-    'absolute left-[-5px] top-1 w-2 h-2 rounded-full',
-    categoryColors[category] || 'bg-gray-400',
+    'absolute left-[-5px] top-1.5 w-2 h-2 rounded-full ring-2 ring-surface',
+    categoryColors[category] || 'bg-gray-500',
   ]} />
 
-  <time
-    datetime={date.toISOString()}
-    class="text-xs font-medium text-text-muted uppercase tracking-wide"
-  >
-    {formatDate(date)}
-  </time>
+  <!-- Date + category -->
+  <div class="flex items-center gap-2 mb-2">
+    <time
+      datetime={date.toISOString()}
+      class="text-xs font-mono text-text-muted"
+    >
+      {formatDate(date)}
+    </time>
+    <span class:list={[
+      'text-[10px] font-semibold uppercase tracking-wider text-white px-1.5 py-0.5',
+      categoryColors[category] || 'bg-gray-500',
+    ]}>
+      {categoryLabels[category] || category}
+    </span>
+  </div>
 
-  <h3 class="text-base font-semibold text-primary mt-1 mb-1">{title}</h3>
+  <!-- Title + summary -->
+  <h3 class="font-serif text-lg font-bold text-primary mb-1.5">{title}</h3>
   <p class="text-sm text-text-muted leading-relaxed">{summary}</p>
 
+  <!-- People links -->
   {people.length > 0 && (
-    <div class="flex flex-wrap gap-1 mt-2">
+    <div class="flex flex-wrap gap-1.5 mt-3">
       {people.map((slug) => (
         <a
           href={`/people/${slug}`}
-          class="text-xs text-accent hover:underline"
+          class="text-xs font-medium text-primary border border-border px-2 py-0.5 hover:border-accent hover:text-accent transition-colors no-underline"
         >
-          {slug}
+          {slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}
         </a>
       ))}
     </div>

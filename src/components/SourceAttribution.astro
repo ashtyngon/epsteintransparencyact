@@ -7,14 +7,11 @@ interface Props {
 const { source, url } = Astro.props;
 ---
 
-<span class="inline-flex items-center gap-1">
-  <span class="text-text-muted">Source:</span>
-  <a
-    href={url}
-    target="_blank"
-    rel="noopener noreferrer"
-    class="text-accent hover:underline"
-  >
-    {source}
-  </a>
-</span>
+<a
+  href={url}
+  target="_blank"
+  rel="noopener noreferrer"
+  class="text-accent hover:text-primary transition-colors font-medium"
+>
+  {source} &rarr;
+</a>

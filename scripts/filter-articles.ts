@@ -19,6 +19,7 @@ interface RSSItem {
   source: string;
   sourceId: string;
   sourcePriority: number;
+  image?: string;
 }
 
 interface FilterResult {

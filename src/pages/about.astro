@@ -5,33 +5,55 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 
 <BaseLayout
   title="About"
-  description="About the Epstein Transparency Act project — a factual, noise-free database tracking developments around the Epstein Files."
+  description="About the Epstein Files Transparency Tracker — tracking every development around the Epstein Files and the Epstein Transparency Act."
 >
-  <div class="max-w-3xl mx-auto px-4 py-8">
-    <Breadcrumbs items={[{ name: 'About', href: '/about' }]} />
+  <!-- Header -->
+  <header class="bg-primary text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+      <Breadcrumbs items={[{ name: 'About', href: '/about' }]} />
+    </div>
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-10">
+      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-4">
+        About This Project
+      </h1>
+      <p class="text-base text-white/60 leading-relaxed max-w-2xl">
+        Why we built this site, how it works, and what we stand for.
+      </p>
+    </div>
+  </header>
 
-    <h1 class="text-3xl md:text-4xl font-bold text-primary mb-6">About This Project</h1>
-
-    <div class="prose prose-lg max-w-none">
+  <!-- Content -->
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <div class="prose-article">
       <h2>What Is This?</h2>
       <p>
-        Epstein Transparency Act is a factual, noise-free database tracking
-        developments around the Epstein Files and the Epstein Transparency Act.
+        The Epstein Files Transparency Tracker is a comprehensive database tracking
+        every development around the Epstein Files and the Epstein Transparency Act.
         We aggregate reporting from major news outlets and present it in a
-        clear, searchable format.
+        clear, searchable format so the public can follow this story without wading
+        through noise.
       </p>
 
       <h2>Our Approach</h2>
-      <ul>
-        <li><strong>Pure aggregation.</strong> We summarize and link to original reporting from
-          outlets like Reuters, AP, NYT, BBC, and The Guardian. No opinion or commentary.</li>
-        <li><strong>Source attribution.</strong> Every article links back to its original source.
-          We do not claim to produce original reporting.</li>
-        <li><strong>People database.</strong> We maintain profiles of individuals named in
-          documents, officials, and other connected parties, with bidirectional
-          links to relevant news coverage.</li>
-        <li><strong>Timeline.</strong> A chronological record of key events in the case.</li>
-      </ul>
+      <p>
+        <strong>Source-first reporting.</strong> Every article on this site links directly
+        to its original source. We track coverage from Reuters, AP, The New York Times,
+        BBC, The Guardian, CNN, The Washington Post, and dozens more.
+      </p>
+      <p>
+        <strong>People database.</strong> We maintain profiles of individuals named in
+        the documents, along with officials, associates, and other connected parties.
+        Each profile is cross-referenced with all related news coverage.
+      </p>
+      <p>
+        <strong>Timeline.</strong> A chronological record of key events in the case,
+        from the earliest allegations through the latest document releases and legislative action.
+      </p>
+      <p>
+        <strong>Automated pipeline.</strong> Our system monitors RSS feeds from 24+ major
+        news outlets every four hours, filtering for relevant stories and generating
+        fact-checked summaries with full source attribution.
+      </p>
 
       <h2>Disclaimer</h2>
       <p>
@@ -44,7 +66,8 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
       <h2>Contact</h2>
       <p>
         For corrections, takedown requests, or other inquiries, please reach out
-        via the contact information listed below.
+        via email at
+        <a href="mailto:contact@epsteintransparencyact.com">contact@epsteintransparencyact.com</a>.
       </p>
     </div>
   </div>

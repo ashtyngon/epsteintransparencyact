@@ -28,6 +28,7 @@ interface RelevantArticle {
   source: string;
   sourceId: string;
   sourcePriority: number;
+  image?: string;
   filterResult: FilterResult;
   rankScore: number;
 }
@@ -119,12 +120,14 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
     .map((t) => `  - ${t.trim()}`)
     .join('\n');
 
+  const imageLine = item.image ? `\nimage: "${item.image}"` : '';
+
   return `---
 title: "${headline.replace(/"/g, '\\"')}"
 publishedAt: ${dateStr}
 source: "${item.source}"
 sourceUrl: "${item.link}"
-summary: "${summary}"
+summary: "${summary}"${imageLine}
 people:
 ${people || '  []'}
 tags:
@@ -175,6 +178,8 @@ async function main() {
     console.log(`  Writing: ${headline.slice(0, 70)}...`);
     const body = await generateArticleBody(client, item, existingArticles);
     if (!body) continue;
+
+    if (item.image) console.log(`  IMAGE: ${item.image.slice(0, 60)}...`);
 
     const markdown = buildMarkdown(item, body);
     writeFileSync(filePath, markdown);

@@ -36,6 +36,7 @@ interface RSSItem {
   source: string;
   sourceId: string;
   sourcePriority: number;
+  image?: string;
 }
 
 interface ProcessedUrls {
@@ -70,15 +71,38 @@ async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]>
     const parsed = await parser.parseString(xml);
 
     const items = (parsed.items || [])
-      .map((item) => ({
-        title: item.title || '',
-        link: item.link || '',
-        description: (item.contentSnippet || item.content || '').slice(0, 1000),
-        pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
-        source: feed.name,
-        sourceId: feed.id,
-        sourcePriority: feed.priority,
-      }))
+      .map((item: any) => {
+        // Extract image from multiple RSS image sources
+        let image: string | undefined;
+        // 1. Enclosure (common in RSS 2.0)
+        if (item.enclosure?.url && item.enclosure?.type?.startsWith('image/')) {
+          image = item.enclosure.url;
+        }
+        // 2. media:content or media:thumbnail
+        if (!image && item['media:content']?.$?.url) {
+          image = item['media:content'].$.url;
+        }
+        if (!image && item['media:thumbnail']?.$?.url) {
+          image = item['media:thumbnail'].$.url;
+        }
+        // 3. Extract from content/description HTML (og:image pattern or <img src>)
+        if (!image) {
+          const html = item.content || item['content:encoded'] || '';
+          const imgMatch = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+          if (imgMatch) image = imgMatch[1];
+        }
+
+        return {
+          title: item.title || '',
+          link: item.link || '',
+          description: (item.contentSnippet || item.content || '').slice(0, 1000),
+          pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
+          source: feed.name,
+          sourceId: feed.id,
+          sourcePriority: feed.priority,
+          image,
+        };
+      })
       // Drop articles older than cutoff
       .filter((item) => {
         const itemDate = new Date(item.pubDate);

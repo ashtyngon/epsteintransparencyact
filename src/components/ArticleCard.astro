@@ -4,36 +4,123 @@ import type { CollectionEntry } from 'astro:content';
 
 interface Props {
   article: CollectionEntry<'articles'>;
+  featured?: boolean;
 }
 
-const { article } = Astro.props;
-const { title, publishedAt, source, summary, tags } = article.data;
+const { article, featured = false } = Astro.props;
+const { title, publishedAt, source, summary, tags, image } = article.data;
+
+// Time ago helper
+function timeAgo(date: Date): string {
+  const now = new Date();
+  const diff = now.getTime() - date.getTime();
+  const hours = Math.floor(diff / (1000 * 60 * 60));
+  const days = Math.floor(hours / 24);
+
+  if (hours < 1) return 'Just now';
+  if (hours < 24) return `${hours}h ago`;
+  if (days < 7) return `${days}d ago`;
+  return formatDateShort(date);
+}
 ---
 
-<article class="bg-white rounded-lg border border-border p-5 hover:shadow-md transition-shadow">
-  <a href={`/articles/${article.id}`} class="block no-underline">
-    <div class="flex items-center gap-2 text-xs text-text-muted mb-2">
-      <time datetime={publishedAt.toISOString()}>{formatDateShort(publishedAt)}</time>
-      <span class="text-border">|</span>
-      <span>{source}</span>
-    </div>
-
-    <h3 class="text-lg font-semibold text-primary leading-snug mb-2 hover:text-accent transition-colors">
-      {title}
-    </h3>
-
-    <p class="text-sm text-text-muted leading-relaxed line-clamp-2">
-      {summary}
-    </p>
-
-    {tags.length > 0 && (
-      <div class="flex flex-wrap gap-1 mt-3">
-        {tags.slice(0, 3).map((tag) => (
-          <span class="text-xs bg-surface text-text-muted px-2 py-0.5 rounded">
-            {tag}
-          </span>
-        ))}
+{featured ? (
+  <!-- Featured card — large hero style -->
+  <article class="group relative">
+    <a href={`/articles/${article.id}`} class="block no-underline">
+      <!-- Image area -->
+      <div class="relative aspect-[16/9] md:aspect-[21/9] overflow-hidden rounded-lg bg-secondary mb-4">
+        {image ? (
+          <img
+            src={image}
+            alt=""
+            class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500"
+            loading="eager"
+          />
+        ) : (
+          <div class="w-full h-full bg-gradient-to-br from-primary via-secondary to-primary/80 flex items-end p-6 md:p-10">
+            <div class="max-w-3xl">
+              <div class="source-badge mb-3">{source}</div>
+              <h2 class="text-2xl md:text-4xl font-serif font-bold text-white leading-tight mb-3">
+                {title}
+              </h2>
+              <p class="text-sm md:text-base text-white/70 leading-relaxed line-clamp-2 max-w-2xl">
+                {summary}
+              </p>
+              <div class="flex items-center gap-3 mt-4 text-xs text-white/50 font-mono">
+                <time datetime={publishedAt.toISOString()}>{timeAgo(publishedAt)}</time>
+              </div>
+            </div>
+          </div>
+        )}
+        {image && (
+          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
+        )}
+        {image && (
+          <div class="absolute bottom-0 left-0 right-0 p-6 md:p-10">
+            <div class="max-w-3xl">
+              <div class="source-badge mb-3">{source}</div>
+              <h2 class="text-2xl md:text-4xl font-serif font-bold text-white leading-tight mb-3">
+                {title}
+              </h2>
+              <p class="text-sm md:text-base text-white/70 leading-relaxed line-clamp-2 max-w-2xl">
+                {summary}
+              </p>
+              <div class="flex items-center gap-3 mt-4 text-xs text-white/50 font-mono">
+                <time datetime={publishedAt.toISOString()}>{timeAgo(publishedAt)}</time>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
-    )}
-  </a>
-</article>
+    </a>
+  </article>
+) : (
+  <!-- Standard card -->
+  <article class="group border-b border-border last:border-b-0 py-5 first:pt-0">
+    <a href={`/articles/${article.id}`} class="block no-underline">
+      <div class="flex gap-4">
+        <div class="flex-1 min-w-0">
+          <!-- Source + time -->
+          <div class="flex items-center gap-2 mb-1.5">
+            <span class="source-badge">{source}</span>
+            <span class="text-xs text-text-muted font-mono">{timeAgo(publishedAt)}</span>
+          </div>
+
+          <!-- Headline -->
+          <h3 class="font-serif text-lg md:text-xl font-bold text-primary leading-snug mb-1.5 group-hover:text-accent transition-colors">
+            {title}
+          </h3>
+
+          <!-- Summary -->
+          <p class="text-sm text-text-muted leading-relaxed line-clamp-2">
+            {summary}
+          </p>
+
+          <!-- Tags -->
+          {tags.length > 0 && (
+            <div class="flex flex-wrap gap-1.5 mt-2.5">
+              {tags.slice(0, 3).map((tag) => (
+                <span class="text-[11px] text-text-muted bg-surface-dark px-2 py-0.5 rounded-sm font-medium">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
+
+        <!-- Thumbnail (if image exists) -->
+        {image && (
+          <div class="hidden sm:block flex-shrink-0 w-28 h-20 md:w-36 md:h-24 rounded overflow-hidden bg-surface-dark">
+            <img
+              src={image}
+              alt=""
+              class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              loading="lazy"
+            />
+          </div>
+        )}
+      </div>
+    </a>
+  </article>
+)}

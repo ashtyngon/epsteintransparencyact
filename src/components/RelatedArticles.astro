@@ -18,18 +18,21 @@ const sortedArticles = allArticles.sort(
 ---
 
 {sortedArticles.length > 0 && (
-  <div>
-    <h2 class="text-lg font-semibold mb-4">Related Articles</h2>
+  <div class="pt-8 border-t-2 border-primary">
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Related Coverage</h2>
     <div class="space-y-3">
       {sortedArticles.map((article) => (
         <a
           href={`/articles/${article.id}`}
-          class="block p-3 bg-white rounded border border-border hover:shadow-sm transition-shadow no-underline"
+          class="block group no-underline p-4 border border-border hover:border-accent/30 transition-colors"
         >
-          <div class="text-xs text-text-muted mb-1">
-            {formatDateShort(article.data.publishedAt)} — {article.data.source}
+          <div class="flex items-center gap-2 mb-1">
+            <span class="source-badge text-[10px]">{article.data.source}</span>
+            <span class="text-xs text-text-muted font-mono">
+              {formatDateShort(article.data.publishedAt)}
+            </span>
           </div>
-          <h3 class="text-sm font-medium text-primary hover:text-accent transition-colors">
+          <h3 class="font-serif text-base font-bold text-primary group-hover:text-accent transition-colors leading-snug">
             {article.data.title}
           </h3>
         </a>

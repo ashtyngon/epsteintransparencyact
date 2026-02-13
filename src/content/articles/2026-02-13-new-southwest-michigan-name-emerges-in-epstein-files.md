@@ -7,7 +7,6 @@ summary: "Southwest Michigan Resident Named in Epstein Documents, According to L
 people:
   - ghislaine-maxwell
   - jeffrey-epstein
-  []
 tags:
   - court-documents
   - document-release
