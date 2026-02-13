@@ -6,7 +6,6 @@ sourceUrl: "https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-doc
 summary: "New York Times Deploys Two Dozen Journalists to Review Millions of Epstein Files The New York Times has assigned 24 journalists to analyze a massive trove of Je"
 people:
   - jeffrey-epstein
-  []
 tags:
   - court-documents
   - document-release

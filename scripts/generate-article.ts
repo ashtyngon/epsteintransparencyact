@@ -88,11 +88,14 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
   const bodyText = body.replace(/[#*\[\]()]/g, '').replace(/\n+/g, ' ').trim();
   const summary = bodyText.slice(0, 160).replace(/"/g, '\\"');
 
-  const people = item.filterResult.mentionedPeople
-    .map((p) => `  - ${p}`)
+  // Sanitize: filter out empty/non-string values from AI output
+  const people = (item.filterResult.mentionedPeople || [])
+    .filter((p) => typeof p === 'string' && p.trim().length > 0)
+    .map((p) => `  - ${p.trim()}`)
     .join('\n');
-  const tags = item.filterResult.tags
-    .map((t) => `  - ${t}`)
+  const tags = (item.filterResult.tags || [])
+    .filter((t) => typeof t === 'string' && t.trim().length > 0)
+    .map((t) => `  - ${t.trim()}`)
     .join('\n');
 
   return `---
