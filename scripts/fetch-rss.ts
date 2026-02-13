@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import RSSParser from 'rss-parser';
@@ -47,6 +47,7 @@ interface ProcessedUrls {
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
 const PROCESSED_PATH = join(__dirname, 'config', 'processed-urls.json');
 const FEEDS_PATH = join(__dirname, 'config', 'feeds.json');
+const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
 
 const parser = new RSSParser({
   timeout: FEED_TIMEOUT,
@@ -151,8 +152,41 @@ function titlesAreSimilar(a: string[], b: string[]): boolean {
   return union.size > 0 && intersection.length / union.size >= 0.4;
 }
 
-function deduplicateByTitle(items: RSSItem[]): RSSItem[] {
-  const groups: { words: string[]; best: RSSItem }[] = [];
+function loadExistingArticleTitles(): string[] {
+  try {
+    const files = readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md'));
+    const titles: string[] = [];
+    for (const file of files) {
+      const content = readFileSync(join(ARTICLES_DIR, file), 'utf-8');
+      const titleMatch = content.match(/^title:\s*"(.+?)"/m);
+      if (titleMatch) titles.push(titleMatch[1]);
+    }
+    return titles;
+  } catch {
+    return [];
+  }
+}
+
+function textsAreSimilar(a: string, b: string, threshold: number): boolean {
+  const wordsA = getSignificantWords(a);
+  const wordsB = getSignificantWords(b);
+  const setA = new Set(wordsA);
+  const setB = new Set(wordsB);
+  const intersection = wordsA.filter((w) => setB.has(w));
+  const union = new Set([...setA, ...setB]);
+  return union.size > 0 && intersection.length / union.size >= threshold;
+}
+
+function deduplicateByTitle(items: RSSItem[], existingTitles: string[]): RSSItem[] {
+  const groups: { words: string[]; best: RSSItem | null }[] = [];
+
+  // Seed groups with existing published articles — these block but don't output
+  for (const title of existingTitles) {
+    const words = getSignificantWords(title);
+    if (words.length > 0) {
+      groups.push({ words, best: null });
+    }
+  }
 
   for (const item of items) {
     const words = getSignificantWords(item.title);
@@ -160,13 +194,36 @@ function deduplicateByTitle(items: RSSItem[]): RSSItem[] {
 
     for (const group of groups) {
       if (titlesAreSimilar(words, group.words)) {
-        // Keep the one from the higher-priority source (lower number = higher priority)
+        // If best is null, this matches an existing published article — skip
+        if (group.best === null) {
+          merged = true;
+          break;
+        }
+        // Keep the one from the higher-priority source
         if (item.sourcePriority < group.best.sourcePriority) {
           group.best = item;
-          group.words = words; // Use the better source's title words
+          group.words = words;
         }
         merged = true;
         break;
+      }
+    }
+
+    // If not matched by title, check description similarity against existing groups
+    if (!merged) {
+      for (const group of groups) {
+        if (group.best && textsAreSimilar(
+          `${item.title} ${item.description.slice(0, 200)}`,
+          `${group.best.title} ${group.best.description.slice(0, 200)}`,
+          0.35
+        )) {
+          if (item.sourcePriority < group.best.sourcePriority) {
+            group.best = item;
+            group.words = words;
+          }
+          merged = true;
+          break;
+        }
       }
     }
 
@@ -175,7 +232,7 @@ function deduplicateByTitle(items: RSSItem[]): RSSItem[] {
     }
   }
 
-  return groups.map((g) => g.best);
+  return groups.filter((g) => g.best !== null).map((g) => g.best!);
 }
 
 async function main() {
@@ -225,8 +282,9 @@ async function main() {
   // Pre-filter by keywords
   const preFiltered = preFilterByKeywords(newItems, config.filterKeywords);
 
-  // Deduplicate same-story from different outlets
-  const deduplicated = deduplicateByTitle(preFiltered);
+  // Deduplicate same-story from different outlets AND against existing site articles
+  const existingTitles = loadExistingArticleTitles();
+  const deduplicated = deduplicateByTitle(preFiltered, existingTitles);
 
   // Sort by recency — newest first
   deduplicated.sort((a, b) => {
@@ -242,6 +300,7 @@ async function main() {
   console.log(`Total fetched:     ${allItems.length}`);
   console.log(`New (unseen):      ${newItems.length}`);
   console.log(`Keyword matches:   ${preFiltered.length}`);
+  console.log(`Existing articles: ${existingTitles.length}`);
   console.log(`After dedup:       ${deduplicated.length}`);
   console.log(`Candidates (cap):  ${candidates.length}`);
 

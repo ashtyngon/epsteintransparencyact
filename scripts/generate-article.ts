@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
-import { GENERATE_PROMPT } from './config/prompt-templates.js';
+import { GENERATE_PROMPT, FEATURE_PROMPT } from './config/prompt-templates.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
@@ -31,6 +31,8 @@ interface RelevantArticle {
   image?: string;
   filterResult: FilterResult;
   rankScore: number;
+  isFeature?: boolean;
+  featureSources?: RelevantArticle[];
 }
 
 function slugify(text: string): string {
@@ -42,6 +44,12 @@ function slugify(text: string): string {
 }
 
 function formatDateForFrontmatter(dateStr: string): string {
+  const date = new Date(dateStr);
+  if (isNaN(date.getTime())) return new Date().toISOString();
+  return date.toISOString();
+}
+
+function formatDateForSlug(dateStr: string): string {
   const date = new Date(dateStr);
   return date.toISOString().split('T')[0];
 }
@@ -100,8 +108,43 @@ async function generateArticleBody(
   }
 }
 
+async function generateFeatureArticle(
+  client: Anthropic,
+  item: RelevantArticle,
+  existingArticles: string
+): Promise<string | null> {
+  const sourceReports = [item, ...(item.featureSources || [])].map((src, i) =>
+    `### Source ${i + 1}: ${src.source}\nTitle: ${src.title}\nContent: ${src.description}\nURL: ${src.link}\nPublished: ${src.pubDate}`
+  ).join('\n\n');
+
+  const prompt = FEATURE_PROMPT
+    .replace('{sourceReports}', sourceReports)
+    .replace('{existingArticles}', existingArticles);
+
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 120000);
+
+    const response = await client.messages.create(
+      {
+        model: 'claude-sonnet-4-5-20250929',
+        max_tokens: 4000,
+        messages: [{ role: 'user', content: prompt }],
+      },
+      { signal: controller.signal as any }
+    );
+
+    clearTimeout(timeout);
+    return response.content[0].type === 'text' ? response.content[0].text : null;
+  } catch (error) {
+    console.error(`  ERR: Failed to generate feature: ${(error as Error).message?.slice(0, 60)}`);
+    return null;
+  }
+}
+
 function buildMarkdown(item: RelevantArticle, body: string): string {
-  const dateStr = formatDateForFrontmatter(item.pubDate);
+  const fullDate = formatDateForFrontmatter(item.pubDate);
+  const dateStr = formatDateForSlug(item.pubDate);
 
   // Use AI-suggested headline if available, otherwise original
   const headline = item.filterResult.suggestedHeadline || item.title;
@@ -124,7 +167,7 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
 
   return `---
 title: "${headline.replace(/"/g, '\\"')}"
-publishedAt: ${dateStr}
+publishedAt: "${fullDate}"
 source: "${item.source}"
 sourceUrl: "${item.link}"
 summary: "${summary}"${imageLine}
@@ -134,6 +177,7 @@ tags:
 ${tags || '  []'}
 status: published
 aiGenerated: true
+articleType: ${item.isFeature ? 'feature' : 'news'}
 confidence: ${item.filterResult.confidence}
 ---
 
@@ -165,7 +209,7 @@ async function main() {
   let created = 0;
   for (const item of relevant) {
     const headline = item.filterResult.suggestedHeadline || item.title;
-    const dateStr = formatDateForFrontmatter(item.pubDate);
+    const dateStr = formatDateForSlug(item.pubDate);
     const slug = `${dateStr}-${slugify(headline)}`;
     const filePath = join(ARTICLES_DIR, `${slug}.md`);
 
@@ -175,8 +219,15 @@ async function main() {
       continue;
     }
 
-    console.log(`  Writing: ${headline.slice(0, 70)}...`);
-    const body = await generateArticleBody(client, item, existingArticles);
+    if (item.isFeature) {
+      console.log(`  FEATURE: ${headline.slice(0, 70)} (${(item.featureSources?.length || 0) + 1} sources)...`);
+    } else {
+      console.log(`  Writing: ${headline.slice(0, 70)}...`);
+    }
+
+    const body = item.isFeature
+      ? await generateFeatureArticle(client, item, existingArticles)
+      : await generateArticleBody(client, item, existingArticles);
     if (!body) continue;
 
     if (item.image) console.log(`  IMAGE: ${item.image.slice(0, 60)}...`);

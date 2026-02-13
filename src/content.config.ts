@@ -15,6 +15,7 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     status: z.enum(['published', 'draft', 'review', 'unpublished']).default('published'),
     aiGenerated: z.boolean().default(true),
+    articleType: z.enum(['news', 'feature', 'analysis']).default('news'),
     reviewedBy: z.string().optional(),
     reviewedAt: z.coerce.date().optional(),
     confidence: z.number().min(0).max(1).optional(),

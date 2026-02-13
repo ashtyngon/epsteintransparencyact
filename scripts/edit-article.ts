@@ -30,6 +30,8 @@ interface RelevantArticle {
   image?: string;
   filterResult: FilterResult;
   rankScore: number;
+  isFeature?: boolean;
+  featureSources?: RelevantArticle[];
 }
 
 function slugify(text: string): string {
@@ -40,7 +42,7 @@ function slugify(text: string): string {
     .slice(0, 80);
 }
 
-function formatDateForFrontmatter(dateStr: string): string {
+function formatDateForSlug(dateStr: string): string {
   const date = new Date(dateStr);
   return date.toISOString().split('T')[0];
 }
@@ -78,6 +80,8 @@ async function editArticle(
   item: RelevantArticle,
   existingArticles: string
 ): Promise<string | null> {
+  const wordCountGuidance = item.isFeature ? '1200-2000 words' : '400-800 words';
+
   const prompt = EDITOR_PROMPT
     .replace('{headline}', headline)
     .replace('{sourceTitle}', item.title)
@@ -85,19 +89,23 @@ async function editArticle(
     .replace('{source}', item.source)
     .replace('{sourceUrl}', item.link)
     .replace('{existingArticles}', existingArticles)
-    .replace('{draftArticle}', draftBody);
+    .replace('{draftArticle}', draftBody)
+    .replace('{wordCount}', wordCountGuidance);
 
   try {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 120000);
 
+    const maxTokens = item.isFeature ? 24000 : 16000;
+    const thinkingBudget = item.isFeature ? 15000 : 10000;
+
     const response = await client.messages.create(
       {
         model: 'claude-sonnet-4-5-20250929',
-        max_tokens: 16000,
+        max_tokens: maxTokens,
         thinking: {
           type: 'enabled',
-          budget_tokens: 10000,
+          budget_tokens: thinkingBudget,
         },
         messages: [{ role: 'user', content: prompt }],
       },
@@ -136,7 +144,7 @@ async function main() {
   let edited = 0;
   for (const item of relevant) {
     const headline = item.filterResult.suggestedHeadline || item.title;
-    const dateStr = formatDateForFrontmatter(item.pubDate);
+    const dateStr = formatDateForSlug(item.pubDate);
     const slug = `${dateStr}-${slugify(headline)}`;
     const filePath = join(ARTICLES_DIR, `${slug}.md`);
 
@@ -155,7 +163,8 @@ async function main() {
     // Load manifest excluding current article
     const existingArticles = loadExistingArticlesManifest(slug);
 
-    console.log(`  Editing: ${headline.slice(0, 70)}...`);
+    const label = item.isFeature ? 'Editing FEATURE' : 'Editing';
+    console.log(`  ${label}: ${headline.slice(0, 70)}...`);
     const editedBody = await editArticle(client, headline, parts.body, item, existingArticles);
 
     if (!editedBody) {

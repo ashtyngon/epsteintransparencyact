@@ -97,6 +97,15 @@ export default config({
           defaultValue: true,
           description: 'Uncheck if this article was written by a human editor.',
         }),
+        articleType: fields.select({
+          label: 'Article Type',
+          options: [
+            { label: 'News', value: 'news' },
+            { label: 'Feature', value: 'feature' },
+            { label: 'Analysis', value: 'analysis' },
+          ],
+          defaultValue: 'news',
+        }),
         reviewedBy: fields.text({
           label: 'Reviewed By',
         }),

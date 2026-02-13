@@ -8,8 +8,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
 
-// Max articles to publish per run — only the top-ranked make it through
-const MAX_ARTICLES_TO_PUBLISH = 5;
+// Max articles to publish per run — with hourly runs, 3 is plenty
+const MAX_ARTICLES_TO_PUBLISH = 3;
 
 interface RSSItem {
   title: string;
@@ -36,16 +36,17 @@ interface FilterResult {
 interface RelevantArticle extends RSSItem {
   filterResult: FilterResult;
   rankScore: number;
+  isFeature?: boolean;
+  featureSources?: RelevantArticle[];
+}
+
+interface FeatureCandidate {
+  topic: string;
+  articles: RelevantArticle[];
+  combinedScore: number;
 }
 
 function calculateRankScore(filter: FilterResult, item: RSSItem): number {
-  // Weighted ranking formula:
-  // - Newsworthiness: 35% (will people care?)
-  // - Search potential: 25% (will people find it?)
-  // - Confidence: 15% (is it genuinely relevant?)
-  // - Recency bonus: 15% (how fresh is it?)
-  // - Breaking bonus: 10% (is it happening now?)
-
   const recencyHours = (Date.now() - new Date(item.pubDate).getTime()) / 3600000;
   const recencyScore = Math.max(0, 10 - recencyHours / 2.4); // 10 at 0h, 0 at 24h
 
@@ -59,6 +60,50 @@ function calculateRankScore(filter: FilterResult, item: RSSItem): number {
     breakingBonus * 1.0;
 
   return Math.round(score * 10) / 10;
+}
+
+function detectFeatureCandidates(articles: RelevantArticle[]): FeatureCandidate[] {
+  const clusters: { articles: RelevantArticle[] }[] = [];
+
+  for (const article of articles) {
+    const people = article.filterResult.mentionedPeople || [];
+    const tags = article.filterResult.tags || [];
+    const keyTerms = [...people, ...tags];
+
+    let merged = false;
+    for (const cluster of clusters) {
+      const clusterTerms = new Set(
+        cluster.articles.flatMap((a) => [
+          ...(a.filterResult.mentionedPeople || []),
+          ...(a.filterResult.tags || []),
+        ])
+      );
+      const overlap = keyTerms.filter((t) => clusterTerms.has(t));
+      if (overlap.length >= 2) {
+        cluster.articles.push(article);
+        merged = true;
+        break;
+      }
+    }
+
+    if (!merged) {
+      clusters.push({ articles: [article] });
+    }
+  }
+
+  // Only clusters with 3+ articles from 2+ sources warrant a feature
+  return clusters
+    .filter((c) => {
+      const uniqueSources = new Set(c.articles.map((a) => a.sourceId));
+      return c.articles.length >= 3 && uniqueSources.size >= 2;
+    })
+    .map((c) => ({
+      topic: c.articles[0].filterResult.suggestedHeadline || c.articles[0].title,
+      articles: c.articles.sort((a, b) => b.rankScore - a.rankScore),
+      combinedScore: c.articles.reduce((sum, a) => sum + a.rankScore, 0),
+    }))
+    .sort((a, b) => b.combinedScore - a.combinedScore)
+    .slice(0, 1); // At most 1 feature per run
 }
 
 async function filterArticle(
@@ -136,8 +181,27 @@ async function main() {
   // Sort by rank score — best stories first
   scored.sort((a, b) => b.rankScore - a.rankScore);
 
-  // Take only the top stories
-  const topStories = scored.slice(0, MAX_ARTICLES_TO_PUBLISH);
+  // Detect feature article opportunities
+  const featureCandidates = detectFeatureCandidates(scored);
+
+  let topStories: RelevantArticle[];
+  if (featureCandidates.length > 0) {
+    const feature = featureCandidates[0];
+    console.log(`\n  FEATURE DETECTED: ${feature.topic.slice(0, 70)} (${feature.articles.length} sources)`);
+
+    // The best-scored article in the cluster becomes the feature
+    const featureArticle = feature.articles[0];
+    featureArticle.isFeature = true;
+    featureArticle.featureSources = feature.articles.slice(1);
+
+    // Remaining slots go to non-feature articles
+    const nonFeatureArticles = scored.filter(
+      (a) => !feature.articles.includes(a)
+    );
+    topStories = [featureArticle, ...nonFeatureArticles.slice(0, MAX_ARTICLES_TO_PUBLISH - 1)];
+  } else {
+    topStories = scored.slice(0, MAX_ARTICLES_TO_PUBLISH);
+  }
 
   console.log(`\n--- Filter Results ---`);
   console.log(`Relevant found:    ${scored.length}`);
@@ -146,7 +210,8 @@ async function main() {
   if (topStories.length > 0) {
     console.log(`\nRanked stories to publish:`);
     topStories.forEach((s, i) => {
-      console.log(`  ${i + 1}. [score=${s.rankScore}] ${s.filterResult.suggestedHeadline || s.title.slice(0, 70)}`);
+      const label = s.isFeature ? ' [FEATURE]' : '';
+      console.log(`  ${i + 1}. [score=${s.rankScore}]${label} ${s.filterResult.suggestedHeadline || s.title.slice(0, 70)}`);
       console.log(`     news=${s.filterResult.newsworthiness} search=${s.filterResult.searchPotential} breaking=${s.filterResult.isBreaking}`);
     });
   }
