@@ -1,0 +1,15 @@
+---
+interface Props {
+  contentWarning?: string;
+}
+
+const { contentWarning } = Astro.props;
+---
+
+<div class="bg-amber-50 border border-amber-200 rounded-lg p-4 mb-6" role="alert">
+  <p class="text-sm text-amber-800 font-medium mb-1">Content Notice</p>
+  <p class="text-sm text-amber-700">
+    {contentWarning ||
+      'This section contains accounts of abuse and trauma. Reader discretion is advised. If you or someone you know needs support, please contact RAINN at 1-800-656-4673.'}
+  </p>
+</div>

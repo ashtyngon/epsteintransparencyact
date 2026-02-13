@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://epsteintransparencyact.com/sitemap-index.xml

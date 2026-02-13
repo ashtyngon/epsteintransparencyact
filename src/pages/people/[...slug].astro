@@ -1,0 +1,19 @@
+---
+import PersonLayout from '../../layouts/PersonLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const people = await getCollection('people');
+  return people.map((person) => ({
+    params: { slug: person.id },
+    props: { person },
+  }));
+}
+
+const { person } = Astro.props;
+const { Content } = await render(person);
+---
+
+<PersonLayout person={person}>
+  <Content />
+</PersonLayout>

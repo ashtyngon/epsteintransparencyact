@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import { formatDateShort } from '../utils/slugify';
+
+interface Props {
+  personSlug: string;
+}
+
+const { personSlug } = Astro.props;
+
+const allArticles = await getCollection('articles', (a) =>
+  a.data.status === 'published' && a.data.people.includes(personSlug)
+);
+
+const sortedArticles = allArticles.sort(
+  (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+);
+---
+
+{sortedArticles.length > 0 && (
+  <div>
+    <h2 class="text-lg font-semibold mb-4">Related Articles</h2>
+    <div class="space-y-3">
+      {sortedArticles.map((article) => (
+        <a
+          href={`/articles/${article.id}`}
+          class="block p-3 bg-white rounded border border-border hover:shadow-sm transition-shadow no-underline"
+        >
+          <div class="text-xs text-text-muted mb-1">
+            {formatDateShort(article.data.publishedAt)} — {article.data.source}
+          </div>
+          <h3 class="text-sm font-medium text-primary hover:text-accent transition-colors">
+            {article.data.title}
+          </h3>
+        </a>
+      ))}
+    </div>
+  </div>
+)}

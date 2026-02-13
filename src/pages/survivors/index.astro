@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SurvivorNotice from '../../components/SurvivorNotice.astro';
+import { getCollection } from 'astro:content';
+import { formatDateShort } from '../../utils/slugify';
+
+const entries = (await getCollection('survivors'))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+---
+
+<BaseLayout
+  title="Survivors"
+  description="Survivor statements, stories, and coverage related to the Epstein case."
+>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <Breadcrumbs items={[{ name: 'Survivors', href: '/survivors' }]} />
+
+    <h1 class="text-3xl md:text-4xl font-bold text-primary mb-2">Survivors</h1>
+    <p class="text-text-muted mb-6">
+      Statements, stories, and coverage from survivors of the Epstein case.
+    </p>
+
+    <SurvivorNotice />
+
+    {entries.length > 0 ? (
+      <div class="space-y-4">
+        {entries.map((entry) => (
+          <a
+            href={`/survivors/${entry.id}`}
+            class="block bg-white rounded-lg border border-border p-5 hover:shadow-md transition-shadow no-underline"
+          >
+            <div class="text-xs text-text-muted mb-2">
+              {formatDateShort(entry.data.publishedAt)}
+              {entry.data.source && ` — ${entry.data.source}`}
+            </div>
+            <h3 class="text-lg font-semibold text-primary hover:text-accent transition-colors">
+              {entry.data.title}
+            </h3>
+            <span class="inline-block mt-2 text-xs bg-surface text-text-muted px-2 py-0.5 rounded">
+              {entry.data.type}
+            </span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-16">
+        <p class="text-text-muted text-lg">This section is being developed with care.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

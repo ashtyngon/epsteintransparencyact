@@ -1,0 +1,55 @@
+{
+  "feeds": [
+    {
+      "id": "reuters-us",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/rssFeed/topNews",
+      "category": "wire",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "ap-topnews",
+      "name": "Associated Press",
+      "url": "https://rsshub.app/apnews/topics/apf-topnews",
+      "category": "wire",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "nyt-homepage",
+      "name": "New York Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "category": "newspaper",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "bbc-news",
+      "name": "BBC News",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml",
+      "category": "broadcast",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "guardian-us",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/rss",
+      "category": "newspaper",
+      "priority": 2,
+      "enabled": true
+    }
+  ],
+  "filterKeywords": [
+    "epstein",
+    "ghislaine maxwell",
+    "epstein transparency",
+    "epstein files",
+    "epstein documents",
+    "jeffrey epstein",
+    "epstein transparency act"
+  ],
+  "maxArticlesPerRun": 10,
+  "deduplicationWindowDays": 30
+}

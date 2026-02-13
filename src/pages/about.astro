@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+---
+
+<BaseLayout
+  title="About"
+  description="About the Epstein Transparency Act project — a factual, noise-free database tracking developments around the Epstein Files."
+>
+  <div class="max-w-3xl mx-auto px-4 py-8">
+    <Breadcrumbs items={[{ name: 'About', href: '/about' }]} />
+
+    <h1 class="text-3xl md:text-4xl font-bold text-primary mb-6">About This Project</h1>
+
+    <div class="prose prose-lg max-w-none">
+      <h2>What Is This?</h2>
+      <p>
+        Epstein Transparency Act is a factual, noise-free database tracking
+        developments around the Epstein Files and the Epstein Transparency Act.
+        We aggregate reporting from major news outlets and present it in a
+        clear, searchable format.
+      </p>
+
+      <h2>Our Approach</h2>
+      <ul>
+        <li><strong>Pure aggregation.</strong> We summarize and link to original reporting from
+          outlets like Reuters, AP, NYT, BBC, and The Guardian. No opinion or commentary.</li>
+        <li><strong>Source attribution.</strong> Every article links back to its original source.
+          We do not claim to produce original reporting.</li>
+        <li><strong>People database.</strong> We maintain profiles of individuals named in
+          documents, officials, and other connected parties, with bidirectional
+          links to relevant news coverage.</li>
+        <li><strong>Timeline.</strong> A chronological record of key events in the case.</li>
+      </ul>
+
+      <h2>Disclaimer</h2>
+      <p>
+        This site aggregates publicly available reporting from established news
+        outlets. Inclusion of any individual in the people database does not
+        imply guilt or wrongdoing. All information is sourced from public records
+        and published reporting.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        For corrections, takedown requests, or other inquiries, please reach out
+        via the contact information listed below.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

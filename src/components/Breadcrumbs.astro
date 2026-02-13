@@ -1,0 +1,39 @@
+---
+import { breadcrumbJsonLd } from '../utils/json-ld';
+
+interface Props {
+  items: { name: string; href: string }[];
+}
+
+const { items } = Astro.props;
+const siteUrl = 'https://epsteintransparencyact.com';
+
+const fullItems = [
+  { name: 'Home', href: '/' },
+  ...items,
+];
+
+const jsonLd = breadcrumbJsonLd(
+  fullItems.map((item) => ({
+    name: item.name,
+    url: `${siteUrl}${item.href}`,
+  }))
+);
+---
+
+<nav aria-label="Breadcrumb" class="text-sm text-text-muted mb-4">
+  <ol class="flex flex-wrap items-center gap-1">
+    {fullItems.map((item, i) => (
+      <li class="flex items-center gap-1">
+        {i > 0 && <span class="text-border">/</span>}
+        {i === fullItems.length - 1 ? (
+          <span class="text-text" aria-current="page">{item.name}</span>
+        ) : (
+          <a href={item.href} class="hover:text-accent transition-colors">{item.name}</a>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

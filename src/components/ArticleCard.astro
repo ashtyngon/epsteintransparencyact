@@ -1,0 +1,39 @@
+---
+import { formatDateShort } from '../utils/slugify';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const { title, publishedAt, source, summary, tags } = article.data;
+---
+
+<article class="bg-white rounded-lg border border-border p-5 hover:shadow-md transition-shadow">
+  <a href={`/articles/${article.id}`} class="block no-underline">
+    <div class="flex items-center gap-2 text-xs text-text-muted mb-2">
+      <time datetime={publishedAt.toISOString()}>{formatDateShort(publishedAt)}</time>
+      <span class="text-border">|</span>
+      <span>{source}</span>
+    </div>
+
+    <h3 class="text-lg font-semibold text-primary leading-snug mb-2 hover:text-accent transition-colors">
+      {title}
+    </h3>
+
+    <p class="text-sm text-text-muted leading-relaxed line-clamp-2">
+      {summary}
+    </p>
+
+    {tags.length > 0 && (
+      <div class="flex flex-wrap gap-1 mt-3">
+        {tags.slice(0, 3).map((tag) => (
+          <span class="text-xs bg-surface text-text-muted px-2 py-0.5 rounded">
+            {tag}
+          </span>
+        ))}
+      </div>
+    )}
+  </a>
+</article>

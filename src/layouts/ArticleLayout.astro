@@ -1,0 +1,91 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import SourceAttribution from '../components/SourceAttribution.astro';
+import RelatedPeople from '../components/RelatedPeople.astro';
+import { articleJsonLd } from '../utils/json-ld';
+import { formatDate } from '../utils/slugify';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, tags, aiGenerated } = article.data;
+
+const jsonLd = articleJsonLd({
+  title,
+  summary,
+  publishedAt,
+  updatedAt,
+  slug: article.id,
+  source,
+  sourceUrl,
+  image: article.data.image,
+});
+---
+
+<BaseLayout
+  title={title}
+  description={summary}
+  ogType="article"
+  publishedTime={publishedAt}
+  modifiedTime={updatedAt}
+  jsonLd={jsonLd}
+>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <Breadcrumbs items={[
+      { name: 'News', href: '/articles' },
+      { name: title, href: `/articles/${article.id}` },
+    ]} />
+
+    <article>
+      <header class="mb-8">
+        <h1 class="text-3xl md:text-4xl font-bold text-primary leading-tight mb-4">
+          {title}
+        </h1>
+
+        <div class="flex flex-wrap items-center gap-3 text-sm text-text-muted mb-4">
+          <time datetime={publishedAt.toISOString()}>
+            {formatDate(publishedAt)}
+          </time>
+          <span class="text-border">|</span>
+          <SourceAttribution source={source} url={sourceUrl} />
+          {aiGenerated && (
+            <>
+              <span class="text-border">|</span>
+              <span class="inline-flex items-center gap-1 text-xs bg-accent/10 text-accent px-2 py-0.5 rounded">
+                AI-Generated Summary
+              </span>
+            </>
+          )}
+        </div>
+
+        <p class="text-lg text-text-muted leading-relaxed">{summary}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none">
+        <slot />
+      </div>
+
+      {tags.length > 0 && (
+        <div class="mt-8 pt-6 border-t border-border">
+          <div class="flex flex-wrap gap-2">
+            {tags.map((tag) => (
+              <span class="text-xs bg-surface-dark text-text-muted px-3 py-1 rounded-full">
+                {tag}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {people.length > 0 && (
+        <div class="mt-6">
+          <RelatedPeople slugs={people} />
+        </div>
+      )}
+    </article>
+  </div>
+</BaseLayout>

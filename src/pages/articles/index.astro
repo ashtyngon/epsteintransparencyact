@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles', (a) => a.data.status === 'published'))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+---
+
+<BaseLayout
+  title="News"
+  description="Latest factual reporting on the Epstein Files and the Epstein Transparency Act, aggregated from major news outlets."
+>
+  <div class="max-w-6xl mx-auto px-4 py-8">
+    <Breadcrumbs items={[{ name: 'News', href: '/articles' }]} />
+
+    <h1 class="text-3xl md:text-4xl font-bold text-primary mb-2">Latest News</h1>
+    <p class="text-text-muted mb-8">
+      Factual summaries from major news outlets. Every article links back to its original source.
+    </p>
+
+    {articles.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {articles.map((article) => (
+          <ArticleCard article={article} />
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-16">
+        <p class="text-text-muted text-lg">No articles yet.</p>
+        <p class="text-text-muted text-sm mt-2">
+          The automated pipeline will populate this section with news from major outlets.
+        </p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

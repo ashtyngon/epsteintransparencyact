@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  slugs: string[];
+}
+
+const { slugs } = Astro.props;
+
+const allPeople = await getCollection('people');
+const relatedPeople = allPeople.filter((p) => slugs.includes(p.id));
+---
+
+{relatedPeople.length > 0 && (
+  <div class="p-4 bg-surface-dark rounded-lg">
+    <h2 class="text-sm font-semibold text-text-muted uppercase tracking-wide mb-3">
+      People Mentioned
+    </h2>
+    <div class="flex flex-wrap gap-2">
+      {relatedPeople.map((person) => (
+        <a
+          href={`/people/${person.id}`}
+          class="text-sm bg-white text-accent px-3 py-1 rounded-full border border-border hover:bg-accent hover:text-white hover:border-accent transition-colors"
+        >
+          {person.data.name}
+        </a>
+      ))}
+    </div>
+  </div>
+)}

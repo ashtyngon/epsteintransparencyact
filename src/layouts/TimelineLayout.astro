@@ -1,0 +1,39 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { timelineJsonLd } from '../utils/json-ld';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entries: CollectionEntry<'timeline'>[];
+}
+
+const { entries } = Astro.props;
+
+const jsonLd = timelineJsonLd(
+  entries.map((e) => ({
+    title: e.data.title,
+    date: e.data.date,
+    summary: e.data.summary,
+  }))
+);
+---
+
+<BaseLayout
+  title="Timeline — The Epstein Saga"
+  description="A chronological timeline of key events in the Jeffrey Epstein case, from early history through ongoing legal proceedings and document releases."
+  jsonLd={jsonLd}
+>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <Breadcrumbs items={[
+      { name: 'Timeline', href: '/timeline' },
+    ]} />
+
+    <h1 class="text-3xl md:text-4xl font-bold text-primary mb-2">The Epstein Saga</h1>
+    <p class="text-lg text-text-muted mb-8">
+      A chronological record of key events, legal proceedings, and document releases.
+    </p>
+
+    <slot />
+  </div>
+</BaseLayout>

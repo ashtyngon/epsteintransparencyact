@@ -1,0 +1,111 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import RelatedArticles from '../components/RelatedArticles.astro';
+import { personJsonLd } from '../utils/json-ld';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  person: CollectionEntry<'people'>;
+}
+
+const { person } = Astro.props;
+const { name, role, category, shortBio, aliases, notableConnections, sources, image } = person.data;
+
+const categoryLabels: Record<string, string> = {
+  'named-in-documents': 'Named in Documents',
+  witness: 'Witness',
+  associate: 'Associate',
+  official: 'Official',
+  legal: 'Legal',
+  'victim-survivor': 'Victim/Survivor',
+  other: 'Other',
+};
+
+const jsonLd = personJsonLd({
+  name,
+  shortBio,
+  slug: person.id,
+  image,
+});
+---
+
+<BaseLayout
+  title={name}
+  description={shortBio}
+  ogType="profile"
+  jsonLd={jsonLd}
+>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <Breadcrumbs items={[
+      { name: 'People', href: '/people' },
+      { name, href: `/people/${person.id}` },
+    ]} />
+
+    <div class="mb-8">
+      <div class="flex items-start gap-4 mb-4">
+        <div>
+          <h1 class="text-3xl md:text-4xl font-bold text-primary">{name}</h1>
+          <p class="text-lg text-text-muted mt-1">{role}</p>
+        </div>
+      </div>
+
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span class="text-xs font-medium bg-accent/10 text-accent px-3 py-1 rounded-full">
+          {categoryLabels[category] || category}
+        </span>
+      </div>
+
+      <p class="text-lg leading-relaxed text-text-muted">{shortBio}</p>
+
+      {aliases.length > 0 && (
+        <div class="mt-4">
+          <span class="text-sm text-text-muted">Also known as: </span>
+          <span class="text-sm">{aliases.join(', ')}</span>
+        </div>
+      )}
+    </div>
+
+    <div class="prose prose-lg max-w-none mb-8">
+      <slot />
+    </div>
+
+    {notableConnections.length > 0 && (
+      <div class="mb-8 p-4 bg-surface-dark rounded-lg">
+        <h2 class="text-lg font-semibold mb-3">Notable Connections</h2>
+        <div class="flex flex-wrap gap-2">
+          {notableConnections.map((slug) => (
+            <a
+              href={`/people/${slug}`}
+              class="text-sm bg-white text-accent px-3 py-1 rounded-full hover:bg-accent hover:text-white transition-colors"
+            >
+              {slug}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <RelatedArticles personSlug={person.id} />
+
+    {sources.length > 0 && (
+      <div class="mt-8 pt-6 border-t border-border">
+        <h2 class="text-lg font-semibold mb-3">Sources</h2>
+        <ul class="space-y-1">
+          {sources.map((s) => (
+            <li>
+              <a
+                href={s.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-sm text-accent hover:underline"
+              >
+                {s.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+  </div>
+</BaseLayout>

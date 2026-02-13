@@ -1,0 +1,25 @@
+---
+import TimelineLayout from '../../layouts/TimelineLayout.astro';
+import TimelineEntry from '../../components/TimelineEntry.astro';
+import { getCollection } from 'astro:content';
+
+const entries = (await getCollection('timeline'))
+  .sort((a, b) => a.data.date.getTime() - b.data.date.getTime() || a.data.order - b.data.order);
+---
+
+<TimelineLayout entries={entries}>
+  {entries.length > 0 ? (
+    <div class="mt-8">
+      {entries.map((entry) => (
+        <TimelineEntry entry={entry} />
+      ))}
+    </div>
+  ) : (
+    <div class="text-center py-16">
+      <p class="text-text-muted text-lg">Timeline is being compiled.</p>
+      <p class="text-text-muted text-sm mt-2">
+        A comprehensive chronological record will be available here soon.
+      </p>
+    </div>
+  )}
+</TimelineLayout>

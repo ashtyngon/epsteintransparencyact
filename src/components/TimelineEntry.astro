@@ -1,0 +1,51 @@
+---
+import { formatDate } from '../utils/slugify';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'timeline'>;
+}
+
+const { entry } = Astro.props;
+const { title, date, category, summary, people } = entry.data;
+
+const categoryColors: Record<string, string> = {
+  biography: 'bg-gray-400',
+  legal: 'bg-red-500',
+  'document-release': 'bg-blue-500',
+  legislation: 'bg-green-500',
+  investigation: 'bg-yellow-500',
+  media: 'bg-purple-500',
+  other: 'bg-gray-400',
+};
+---
+
+<div class="relative pl-8 pb-8 border-l-2 border-border last:pb-0">
+  <div class:list={[
+    'absolute left-[-5px] top-1 w-2 h-2 rounded-full',
+    categoryColors[category] || 'bg-gray-400',
+  ]} />
+
+  <time
+    datetime={date.toISOString()}
+    class="text-xs font-medium text-text-muted uppercase tracking-wide"
+  >
+    {formatDate(date)}
+  </time>
+
+  <h3 class="text-base font-semibold text-primary mt-1 mb-1">{title}</h3>
+  <p class="text-sm text-text-muted leading-relaxed">{summary}</p>
+
+  {people.length > 0 && (
+    <div class="flex flex-wrap gap-1 mt-2">
+      {people.map((slug) => (
+        <a
+          href={`/people/${slug}`}
+          class="text-xs text-accent hover:underline"
+        >
+          {slug}
+        </a>
+      ))}
+    </div>
+  )}
+</div>

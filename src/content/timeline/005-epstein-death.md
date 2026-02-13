@@ -1,0 +1,14 @@
+---
+title: "Epstein found dead in jail cell"
+date: 2019-08-10
+category: legal
+summary: "Jeffrey Epstein is found dead in his cell at the Metropolitan Correctional Center in Manhattan. His death is ruled a suicide."
+people:
+  - jeffrey-epstein
+order: 5
+sources:
+  - title: "Death Report — Reuters"
+    url: "https://reuters.com/legal/epstein-death"
+---
+
+Jeffrey Epstein is found unresponsive in his cell at the Metropolitan Correctional Center in Manhattan. He is pronounced dead at a hospital. The New York City medical examiner rules his death a suicide by hanging. His death generates significant controversy and public scrutiny regarding the conditions of his detention.
