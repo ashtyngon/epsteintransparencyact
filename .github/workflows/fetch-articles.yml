@@ -24,9 +24,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install pipeline dependencies
-        run: npm install rss-parser @anthropic-ai/sdk
-
       - name: Fetch RSS feeds
         run: npx tsx scripts/fetch-rss.ts
 
