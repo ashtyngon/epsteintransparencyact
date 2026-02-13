@@ -1,7 +1,9 @@
 ---
 title: "Palm Beach police begin investigation"
 date: 2005-03-14
+era: first-prosecution
 category: investigation
+significance: major
 summary: "Palm Beach, Florida police open an investigation into Jeffrey Epstein following allegations of sexual abuse of a minor."
 people:
   - jeffrey-epstein

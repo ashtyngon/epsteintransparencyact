@@ -1,7 +1,9 @@
 ---
 title: "Epstein Transparency Act signed into law"
 date: 2025-01-07
+era: transparency
 category: legislation
+significance: major
 summary: "The Epstein Transparency Act is signed into law, mandating the collection and release of federal records related to Jeffrey Epstein."
 people:
   - jeffrey-epstein

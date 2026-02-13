@@ -1,7 +1,9 @@
 ---
 title: "Ghislaine Maxwell convicted on trafficking charges"
 date: 2021-12-29
+era: aftermath
 category: legal
+significance: major
 summary: "Ghislaine Maxwell is found guilty on five of six federal counts related to her role in recruiting and grooming minors for Jeffrey Epstein."
 people:
   - jeffrey-epstein

@@ -1,7 +1,9 @@
 ---
 title: "Epstein pleads guilty under controversial plea deal"
 date: 2008-06-30
+era: first-prosecution
 category: legal
+significance: major
 summary: "Jeffrey Epstein pleads guilty to Florida state prostitution charges under a non-prosecution agreement that would later face intense scrutiny."
 people:
   - jeffrey-epstein

@@ -1,7 +1,9 @@
 ---
 title: "Epstein begins career in finance"
 date: 1976-01-01
+era: origins
 category: biography
+significance: major
 summary: "Jeffrey Epstein begins working at Bear Stearns investment bank, later establishing his own financial management firm."
 people:
   - jeffrey-epstein

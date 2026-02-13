@@ -1,0 +1,114 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getEraCategoryColor, getEra } from '../../utils/timeline-eras';
+
+interface Props {
+  entry: CollectionEntry<'timeline'>;
+}
+
+const { entry } = Astro.props;
+const { title, date, summary, category, significance, image, people } = entry.data;
+const era = getEra(entry.data.era);
+const categoryColor = getEraCategoryColor(category);
+
+const isMajor = significance === 'major';
+
+function formatDate(d: Date): string {
+  return d.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+
+function formatYear(d: Date): string {
+  return d.getFullYear().toString();
+}
+
+const categoryLabel = category
+  .split('-')
+  .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+  .join(' ');
+---
+
+{isMajor ? (
+  <!-- Major event — full-width card with image -->
+  <article
+    class="timeline-card group col-span-full"
+    data-category={category}
+  >
+    <a href={`/timeline/${entry.id}`} class="block no-underline">
+      <div class={`border-l-4 ${era.borderColor} rounded-lg bg-white overflow-hidden shadow-sm hover:shadow-md transition-shadow`}>
+        {image ? (
+          <div class="relative aspect-[21/9] overflow-hidden">
+            <img
+              src={image}
+              alt=""
+              class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500"
+              loading="lazy"
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+            <div class="absolute bottom-0 left-0 right-0 p-6">
+              <div class="flex items-center gap-2 mb-2">
+                <span class={`text-[11px] font-semibold uppercase tracking-wide px-2 py-0.5 rounded-sm ${categoryColor}`}>
+                  {categoryLabel}
+                </span>
+                <span class="text-xs text-white/70 font-mono">{formatDate(date)}</span>
+              </div>
+              <h3 class="font-serif text-xl md:text-2xl font-bold text-white leading-snug">
+                {title}
+              </h3>
+            </div>
+          </div>
+        ) : (
+          <div class="p-5 md:p-6">
+            <div class="flex items-center gap-2 mb-2">
+              <span class={`text-[11px] font-semibold uppercase tracking-wide px-2 py-0.5 rounded-sm ${categoryColor}`}>
+                {categoryLabel}
+              </span>
+              <span class="text-xs text-text-muted font-mono">{formatDate(date)}</span>
+            </div>
+            <h3 class="font-serif text-xl md:text-2xl font-bold text-primary leading-snug mb-2 group-hover:text-accent transition-colors">
+              {title}
+            </h3>
+            <p class="text-sm text-text-muted leading-relaxed line-clamp-3">
+              {summary}
+            </p>
+            {people.length > 0 && (
+              <div class="flex flex-wrap gap-1.5 mt-3">
+                {people.slice(0, 4).map((slug) => (
+                  <span class="text-[11px] text-text-muted bg-surface-dark px-2 py-0.5 rounded-sm font-medium">
+                    {slug.replace(/-/g, ' ')}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+    </a>
+  </article>
+) : (
+  <!-- Standard/Minor event — compact card -->
+  <article
+    class="timeline-card group"
+    data-category={category}
+  >
+    <a href={`/timeline/${entry.id}`} class="block no-underline">
+      <div class={`border-l-4 ${era.borderColor} rounded-lg bg-white p-4 shadow-sm hover:shadow-md transition-shadow h-full`}>
+        <div class="flex items-center gap-2 mb-2">
+          <span class={`text-[10px] font-semibold uppercase tracking-wide px-1.5 py-0.5 rounded-sm ${categoryColor}`}>
+            {categoryLabel}
+          </span>
+          <span class="text-[11px] text-text-muted font-mono">{formatYear(date)}</span>
+        </div>
+        <h3 class="font-serif text-base font-bold text-primary leading-snug mb-1.5 group-hover:text-accent transition-colors line-clamp-2">
+          {title}
+        </h3>
+        <p class="text-xs text-text-muted leading-relaxed line-clamp-2">
+          {summary}
+        </p>
+      </div>
+    </a>
+  </article>
+)}

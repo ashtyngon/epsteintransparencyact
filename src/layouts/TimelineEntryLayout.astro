@@ -1,0 +1,215 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+import { getEra, getEraCategoryColor } from '../utils/timeline-eras';
+import { timelineEventJsonLd } from '../utils/json-ld';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'timeline'>;
+}
+
+const { entry } = Astro.props;
+const { title, date, endDate, category, summary, image, imageCaption, people, sources, relatedArticles, relatedEvents, significance } = entry.data;
+const era = getEra(entry.data.era);
+const categoryColor = getEraCategoryColor(category);
+
+const categoryLabel = category
+  .split('-')
+  .map((w: string) => w.charAt(0).toUpperCase() + w.slice(1))
+  .join(' ');
+
+function formatDate(d: Date): string {
+  return d.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+
+const jsonLd = timelineEventJsonLd({
+  title,
+  date,
+  summary,
+  slug: entry.id,
+  image,
+});
+
+// Load related timeline entries
+const allEntries = await getCollection('timeline');
+const relatedEntryItems = relatedEvents
+  .map((slug) => allEntries.find((e) => e.id === slug))
+  .filter(Boolean) as CollectionEntry<'timeline'>[];
+
+// Load related articles
+const allArticles = await getCollection('articles');
+const relatedArticleItems = relatedArticles
+  .map((slug) => allArticles.find((a) => a.id === slug))
+  .filter(Boolean) as CollectionEntry<'articles'>[];
+---
+
+<BaseLayout
+  title={`${title} — Timeline`}
+  description={summary}
+  jsonLd={jsonLd}
+>
+  <!-- Header -->
+  <header class="bg-primary text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+      <Breadcrumbs items={[
+        { name: 'Timeline', href: '/timeline' },
+        { name: title, href: `/timeline/${entry.id}` },
+      ]} />
+    </div>
+
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-10">
+      <div class="flex flex-wrap items-center gap-2 mb-4">
+        <span class={`text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 ${era.color} text-white rounded-sm`}>
+          {era.shortLabel}
+        </span>
+        <span class={`text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 ${categoryColor} rounded-sm`}>
+          {categoryLabel}
+        </span>
+        {significance === 'major' && (
+          <span class="text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 bg-highlight text-white rounded-sm">
+            Key Event
+          </span>
+        )}
+      </div>
+
+      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-3">
+        {title}
+      </h1>
+
+      <div class="flex items-center gap-3 text-sm text-white/50 font-mono mb-4">
+        <time datetime={date.toISOString()}>{formatDate(date)}</time>
+        {endDate && (
+          <>
+            <span class="text-white/30">—</span>
+            <time datetime={endDate.toISOString()}>{formatDate(endDate)}</time>
+          </>
+        )}
+      </div>
+
+      <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-2xl">
+        {summary}
+      </p>
+    </div>
+  </header>
+
+  <!-- Hero Image -->
+  {image && (
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 -mt-4 mb-8">
+      <figure>
+        <div class="aspect-[16/9] rounded-lg overflow-hidden bg-surface-dark shadow-lg">
+          <img
+            src={image}
+            alt={title}
+            class="w-full h-full object-cover"
+            loading="eager"
+          />
+        </div>
+        {imageCaption && (
+          <figcaption class="text-xs text-text-muted mt-2 font-mono">
+            {imageCaption}
+          </figcaption>
+        )}
+      </figure>
+    </div>
+  )}
+
+  <!-- Content -->
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <div class="prose-article">
+      <slot />
+    </div>
+
+    <!-- Related People -->
+    {people.length > 0 && (
+      <div class="mt-10 pt-8 border-t-2 border-primary">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">People Involved</h2>
+        <div class="flex flex-wrap gap-2">
+          {people.map((slug) => (
+            <a
+              href={`/people/${slug}`}
+              class="text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-accent hover:text-accent transition-colors no-underline"
+            >
+              {slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Related Events -->
+    {relatedEntryItems.length > 0 && (
+      <div class="mt-8 pt-6 border-t border-border">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Related Events</h2>
+        <div class="space-y-3">
+          {relatedEntryItems.map((related) => (
+            <a
+              href={`/timeline/${related.id}`}
+              class="block p-3 border border-border rounded hover:border-accent transition-colors no-underline"
+            >
+              <div class="flex items-center gap-2 mb-1">
+                <span class="text-[10px] font-mono text-text-muted">
+                  {related.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
+                </span>
+              </div>
+              <h3 class="text-sm font-serif font-bold text-primary">{related.data.title}</h3>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Related Articles -->
+    {relatedArticleItems.length > 0 && (
+      <div class="mt-8 pt-6 border-t border-border">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Related Coverage</h2>
+        <div class="space-y-3">
+          {relatedArticleItems.map((article) => (
+            <a
+              href={`/articles/${article.id}`}
+              class="block p-3 border border-border rounded hover:border-accent transition-colors no-underline"
+            >
+              <div class="flex items-center gap-2 mb-1">
+                <span class="source-badge">{article.data.source}</span>
+              </div>
+              <h3 class="text-sm font-serif font-bold text-primary">{article.data.title}</h3>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Sources -->
+    {sources.length > 0 && (
+      <div class="mt-8 pt-6 border-t border-border">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Sources</h2>
+        <ul class="space-y-2">
+          {sources.map((s) => (
+            <li>
+              <a
+                href={s.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-sm text-accent hover:text-primary transition-colors"
+              >
+                {s.title} &rarr;
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <!-- Back to timeline -->
+    <div class="mt-10 pt-6 border-t border-border">
+      <a href="/timeline" class="text-sm text-accent hover:text-primary transition-colors font-medium no-underline">
+        &larr; Back to Full Timeline
+      </a>
+    </div>
+  </div>
+</BaseLayout>

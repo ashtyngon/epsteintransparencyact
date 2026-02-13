@@ -4,6 +4,7 @@ import ArticleCard from '../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import { websiteJsonLd } from '../utils/json-ld';
 import { formatDateShort } from '../utils/slugify';
+import { getEra, getEraCategoryColor } from '../utils/timeline-eras';
 
 const allArticles = (await getCollection('articles', (a) => a.data.status === 'published'))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
@@ -13,6 +14,11 @@ const remainingArticles = allArticles.slice(1, 9);
 
 const people = (await getCollection('people')).slice(0, 4);
 const totalArticles = allArticles.length;
+
+// Timeline preview — 4 most recent events
+const timelineEntries = (await getCollection('timeline'))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 4);
 ---
 
 <BaseLayout
@@ -120,18 +126,43 @@ const totalArticles = allArticles.length;
             </div>
           )}
 
-          <!-- Timeline teaser -->
+          <!-- Timeline preview -->
           <div class="bg-primary text-white p-5">
-            <h3 class="text-xs font-semibold uppercase tracking-wider text-white/50 mb-3">Timeline</h3>
-            <p class="text-sm text-white/70 leading-relaxed mb-4">
-              A chronological record of key events in the Epstein case, from the first allegations through the latest file releases.
-            </p>
-            <a
-              href="/timeline"
-              class="inline-block text-xs font-semibold uppercase tracking-wider text-highlight hover:text-white transition-colors"
-            >
-              Explore Timeline &rarr;
-            </a>
+            <div class="flex items-center justify-between mb-4">
+              <h3 class="text-xs font-semibold uppercase tracking-wider text-white/50">Timeline</h3>
+              <a href="/timeline" class="text-xs font-semibold text-highlight hover:text-white transition-colors">
+                Full timeline &rarr;
+              </a>
+            </div>
+            {timelineEntries.length > 0 ? (
+              <div class="space-y-3">
+                {timelineEntries.map((entry) => {
+                  const era = getEra(entry.data.era);
+                  const catColor = getEraCategoryColor(entry.data.category);
+                  const catLabel = entry.data.category.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+                  return (
+                    <a
+                      href={`/timeline/${entry.id}`}
+                      class="block group no-underline p-2.5 border border-white/10 hover:border-white/25 transition-colors rounded"
+                    >
+                      <div class="flex items-center gap-2 mb-1">
+                        <span class="text-[10px] font-mono text-white/40">
+                          {entry.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
+                        </span>
+                        <span class={`text-[9px] font-semibold uppercase tracking-wide px-1.5 py-0 rounded-sm ${catColor}`}>
+                          {catLabel}
+                        </span>
+                      </div>
+                      <h4 class="text-sm font-serif font-bold text-white/90 group-hover:text-white transition-colors leading-snug line-clamp-2">
+                        {entry.data.title}
+                      </h4>
+                    </a>
+                  );
+                })}
+              </div>
+            ) : (
+              <p class="text-sm text-white/50">Timeline coming soon.</p>
+            )}
           </div>
 
           <!-- About teaser -->

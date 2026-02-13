@@ -1,7 +1,9 @@
 ---
 title: "Epstein arrested on federal sex trafficking charges"
 date: 2019-07-06
+era: reckoning
 category: legal
+significance: major
 summary: "Jeffrey Epstein is arrested at Teterboro Airport in New Jersey on federal charges of sex trafficking of minors."
 people:
   - jeffrey-epstein

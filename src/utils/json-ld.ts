@@ -88,12 +88,30 @@ export function timelineJsonLd(
   return {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: 'The Epstein Saga — Timeline',
+    name: 'The Epstein Case — Complete Timeline',
     itemListElement: entries.map((entry, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: entry.title,
       description: entry.summary,
     })),
+  };
+}
+
+export function timelineEventJsonLd(event: {
+  title: string;
+  date: Date;
+  summary: string;
+  slug: string;
+  image?: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Event',
+    name: event.title,
+    description: event.summary,
+    startDate: event.date.toISOString(),
+    url: `https://epsteintransparencyact.com/timeline/${event.slug}`,
+    ...(event.image ? { image: event.image } : {}),
   };
 }

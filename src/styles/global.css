@@ -170,3 +170,40 @@ html {
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
 }
+
+/* ─── Timeline ────────────────────────────────────────────────────── */
+
+.era-header {
+  padding-left: 1.25rem;
+}
+
+.timeline-card {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.timeline-card:hover {
+  transform: translateY(-1px);
+}
+
+.category-toggle {
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.category-toggle[data-active='false'] {
+  opacity: 0.5;
+}
+
+.category-toggle[data-active='true'] {
+  opacity: 1;
+}
+
+.era-nav {
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.era-nav::-webkit-scrollbar {
+  display: none;
+}

@@ -60,6 +60,16 @@ const timeline = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     endDate: z.coerce.date().optional(),
+    era: z
+      .enum([
+        'origins',
+        'first-prosecution',
+        'exposure',
+        'reckoning',
+        'aftermath',
+        'transparency',
+      ])
+      .default('origins'),
     category: z.enum([
       'biography',
       'legal',
@@ -67,11 +77,17 @@ const timeline = defineCollection({
       'legislation',
       'investigation',
       'media',
+      'civil-litigation',
+      'network',
       'other',
     ]),
     summary: z.string(),
+    image: z.string().optional(),
+    imageCaption: z.string().optional(),
+    significance: z.enum(['major', 'standard', 'minor']).default('standard'),
     people: z.array(z.string()).default([]),
     relatedArticles: z.array(z.string()).default([]),
+    relatedEvents: z.array(z.string()).default([]),
     sources: z
       .array(
         z.object({
@@ -94,6 +110,8 @@ const survivors = defineCollection({
     sourceUrl: z.string().url().optional(),
     contentWarning: z.string().optional(),
     anonymous: z.boolean().default(false),
+    image: z.string().optional(),
+    imageCaption: z.string().optional(),
     people: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
   }),

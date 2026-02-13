@@ -1,7 +1,9 @@
 ---
 title: "Epstein found dead in jail cell"
 date: 2019-08-10
+era: reckoning
 category: legal
+significance: major
 summary: "Jeffrey Epstein is found dead in his cell at the Metropolitan Correctional Center in Manhattan. His death is ruled a suicide."
 people:
   - jeffrey-epstein
