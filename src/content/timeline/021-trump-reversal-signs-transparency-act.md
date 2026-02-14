@@ -7,6 +7,7 @@ significance: major
 summary: "After months of calling the Epstein files 'a hoax' and fighting the discharge petition, Trump reverses course and signs the Epstein Files Transparency Act into law after it passes the House 427-1 and the Senate unanimously."
 people:
   - jeffrey-epstein
+  - donald-trump
   - pam-bondi
   - ro-khanna
 relatedEvents:

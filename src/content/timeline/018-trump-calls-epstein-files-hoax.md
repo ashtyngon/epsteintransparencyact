@@ -7,6 +7,7 @@ significance: major
 summary: "After being briefed that his name appears in Epstein files, President Trump reverses course — calling the case 'boring,' labeling it a 'Democrat Hoax,' and attacking his own supporters who push for release as 'weaklings.'"
 people:
   - jeffrey-epstein
+  - donald-trump
   - pam-bondi
 relatedEvents:
   - 010-trump-campaign-promise-epstein-files

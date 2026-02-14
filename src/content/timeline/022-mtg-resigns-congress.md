@@ -7,6 +7,8 @@ significance: major
 summary: "Rep. Marjorie Taylor Greene announces her resignation from Congress following her dramatic break with Trump over the Epstein files. Once one of his fiercest defenders, Greene said 'MAGA was a lie' after Trump un-endorsed her and called her a 'traitor.'"
 people:
   - jeffrey-epstein
+  - donald-trump
+  - marjorie-taylor-greene
 relatedEvents:
   - 020-four-republicans-sign-discharge-petition
   - 021-trump-reversal-signs-transparency-act

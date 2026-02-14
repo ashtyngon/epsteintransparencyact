@@ -8,6 +8,8 @@ significance: standard
 summary: "Alexander Acosta, the U.S. Attorney who brokered Epstein's secret plea deal, serves as Trump's Secretary of Labor from 2017 until resigning in July 2019 under intense scrutiny following Epstein's federal arrest."
 people:
   - jeffrey-epstein
+  - donald-trump
+  - alexander-acosta
 relatedEvents:
   - 023-acosta-plea-deal
   - 004-federal-arrest

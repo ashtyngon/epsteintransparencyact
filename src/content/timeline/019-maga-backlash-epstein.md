@@ -7,6 +7,7 @@ significance: standard
 summary: "Joe Rogan, Tucker Carlson, Alex Jones, Charlie Kirk, and other prominent MAGA-aligned media figures publicly break with Trump over his attempts to suppress the Epstein files — a fracture in the right-wing media ecosystem that would help drive the discharge petition to success."
 people:
   - jeffrey-epstein
+  - donald-trump
 relatedEvents:
   - 018-trump-calls-epstein-files-hoax
   - 013-discharge-petition-filed
