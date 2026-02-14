@@ -19,6 +19,14 @@ people:
   - thomas-massie
 relatedArticles:
   - >-
+  - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
+  - 2026-02-13-billionaire-ceo-resigns-after-epstein-connection-exposed
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
+  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
     2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
   - >-
