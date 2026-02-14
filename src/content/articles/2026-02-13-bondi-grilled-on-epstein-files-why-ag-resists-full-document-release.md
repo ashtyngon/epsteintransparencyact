@@ -12,7 +12,7 @@ people:
 relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
@@ -40,7 +40,7 @@ Bondi's defense of DOJ's approach contrasted with earlier Republican calls for t
 
 ## The Files Continue Prompting Resignations
 
-While Bondi defended the department's pace, the files themselves continue generating fallout in the private sector. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after the documents exposed his connections. [A Dubai ports CEO was forced out](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) when emails surfaced. [A billionaire executive stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) under pressure.
+While Bondi defended the department's pace, the files themselves continue generating fallout in the private sector. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after the documents exposed his connections. [DP World's chairman stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after secret emails were exposed.
 
 Corporations have acted within days of document releases, while DOJ has maintained a slower pace on disclosure. The department was also recently found to have been [tracking which lawmakers search the Epstein files](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
 

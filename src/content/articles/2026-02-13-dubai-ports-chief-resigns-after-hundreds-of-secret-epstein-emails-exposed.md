@@ -12,7 +12,7 @@ people:
   - ro-khanna
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act

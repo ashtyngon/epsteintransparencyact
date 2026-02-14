@@ -13,6 +13,7 @@ notableConnections:
   - alexander-acosta
   - virginia-giuffre
 firstMentionedDate: 1992-11-28
+image: "/images/people/donald-trump.jpg"
 sources:
   - title: "Jeffrey Epstein: International Moneyman of Mystery — New York Magazine"
     url: "https://nymag.com/nymetro/news/people/n_7912/"

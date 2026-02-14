@@ -222,5 +222,37 @@
     "topic": "Democratic consulting firm solicited Epstein donations for NY politicians",
     "people": ["jeffrey-epstein", "donald-trump", "leslie-wexner", "pam-bondi", "ro-khanna", "thomas-massie"],
     "tags": ["court-documents", "investigation", "associates", "political"]
+  },
+  {
+    "slug": "2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama",
+    "title": "DOJ Files: Epstein Pulled Strings at University of Alabama",
+    "summary": "A University of Alabama administrator requested Jeffrey Epstein's help securing a guest speaker for the school, according to newly surfaced Department of Justice files.",
+    "topic": "Epstein used influence at University of Alabama per DOJ files",
+    "people": ["jeffrey-epstein", "leslie-wexner"],
+    "tags": ["court-documents", "document-release", "investigation", "associates"]
+  },
+  {
+    "slug": "2026-02-14-epstein-case-exposes-cracks-in-america-s-rule-of-law-system",
+    "title": "Epstein Case Exposes Cracks in America's Rule of Law System",
+    "summary": "A critique of American justice from China's state-run media CGTN claims the Epstein case proves institutional failure in US rule of law.",
+    "topic": "CGTN editorial uses Epstein case to critique US rule of law failures",
+    "people": ["donald-trump", "jeffrey-epstein", "leslie-wexner", "pam-bondi"],
+    "tags": ["political", "investigation"]
+  },
+  {
+    "slug": "2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties",
+    "title": "Epstein Emails Expose Ex-Clifford Chance Lawyer's Hidden Ties",
+    "summary": "Justice officials are beginning to name names from the Epstein files, with a former Clifford Chance lawyer among those newly identified.",
+    "topic": "Former Clifford Chance lawyer identified in Epstein email network",
+    "people": ["jeffrey-epstein", "ghislaine-maxwell", "leslie-wexner", "pam-bondi", "prince-andrew", "ro-khanna", "sultan-ahmed-bin-sulayem", "thomas-massie"],
+    "tags": ["document-release", "associates", "investigation"]
+  },
+  {
+    "slug": "2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations",
+    "title": "Olympic Chief Casey Wasserman Exits After Maxwell Email Revelations",
+    "summary": "Casey Wasserman, entertainment executive leading preparations for the 2028 Olympics, is selling his agency after emails with Ghislaine Maxwell surfaced.",
+    "topic": "Olympic organizer Casey Wasserman sells agency after Maxwell email exposure",
+    "people": ["casey-wasserman", "ghislaine-maxwell", "jeffrey-epstein", "leslie-wexner", "pam-bondi", "ro-khanna", "thomas-massie"],
+    "tags": ["associates", "document-release", "breaking"]
   }
 ]

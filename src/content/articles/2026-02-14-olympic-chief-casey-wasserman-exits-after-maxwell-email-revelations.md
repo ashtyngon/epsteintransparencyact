@@ -13,14 +13,14 @@ people:
   - ro-khanna
   - thomas-massie
 relatedArticles:
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
-  - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files

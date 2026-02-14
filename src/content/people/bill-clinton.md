@@ -12,6 +12,7 @@ notableConnections:
   - virginia-giuffre
   - alan-dershowitz
 firstMentionedDate: 2002-01-01
+image: "/images/people/bill-clinton.jpg"
 sources:
   - title: "Jeffrey Epstein: International Moneyman of Mystery — New York Magazine"
     url: "https://nymag.com/nymetro/news/people/n_7912/"

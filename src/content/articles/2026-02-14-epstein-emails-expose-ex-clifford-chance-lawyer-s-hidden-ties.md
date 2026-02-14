@@ -15,10 +15,10 @@ people:
   - thomas-massie
 relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation
   - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
 tags:
   - court-documents

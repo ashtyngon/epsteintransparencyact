@@ -17,7 +17,7 @@ relatedArticles:
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
@@ -117,7 +117,7 @@ One congressman [read six names into the Congressional Record](/articles/2026-02
 
 ## The Pattern Across Institutions
 
-The resignations keep coming. [Goldman Sachs' top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) stepped down after "Uncle Jeffrey" emails emerged. [DP World's chairman](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) was forced out. [Multiple college presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have faced consequences.
+The resignations keep coming. [Goldman Sachs' top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) stepped down after "Uncle Jeffrey" emails emerged. [DP World's chairman](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) was forced out. [Multiple college presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have faced consequences.
 
 The response has followed a consistent pattern: resignation without explanation. No one contests the authenticity of the documents. No one claims they've been misunderstood. They simply leave, often with generous severance packages and non-disclosure agreements that prevent them from explaining what actually happened.
 

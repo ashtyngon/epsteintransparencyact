@@ -32,6 +32,8 @@ const categoryColors: Record<string, string> = {
   other: 'bg-gray-600 text-white',
 };
 
+const initials = name.split(' ').map((n: string) => n[0]).join('').slice(0, 2);
+
 const jsonLd = personJsonLd({
   name,
   shortBio,
@@ -57,27 +59,57 @@ const jsonLd = personJsonLd({
     </div>
 
     <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-10">
-      <div class="flex items-center gap-2 mb-4">
-        <span class:list={[
-          'text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5',
-          categoryColors[category] || 'bg-gray-600 text-white',
-        ]}>
-          {categoryLabels[category] || category}
-        </span>
-      </div>
-
-      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-3">
-        {name}
-      </h1>
-      <p class="text-sm font-semibold uppercase tracking-wider text-white/50 mb-4">{role}</p>
-      <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-2xl">{shortBio}</p>
-
-      {aliases.length > 0 && (
-        <div class="mt-4 text-xs text-white/40">
-          <span class="font-semibold uppercase tracking-wider">Also known as:</span>
-          <span class="ml-1 font-mono">{aliases.join(', ')}</span>
+      <div class="flex gap-6 items-start">
+        {/* Photo */}
+        <div class="flex-shrink-0 hidden sm:block">
+          {image ? (
+            <img
+              src={image}
+              alt={name}
+              class="w-28 h-28 md:w-36 md:h-36 object-cover rounded-full border-2 border-white/20"
+            />
+          ) : (
+            <div class="w-28 h-28 md:w-36 md:h-36 rounded-full bg-white/10 flex items-center justify-center border-2 border-white/20">
+              <span class="text-3xl md:text-4xl font-bold text-white/30">{initials}</span>
+            </div>
+          )}
         </div>
-      )}
+
+        <div class="flex-1">
+          <div class="flex items-center gap-2 mb-4">
+            <span class:list={[
+              'text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5',
+              categoryColors[category] || 'bg-gray-600 text-white',
+            ]}>
+              {categoryLabels[category] || category}
+            </span>
+          </div>
+
+          {/* Mobile photo */}
+          {image && (
+            <div class="sm:hidden mb-4">
+              <img
+                src={image}
+                alt={name}
+                class="w-24 h-24 object-cover rounded-full border-2 border-white/20"
+              />
+            </div>
+          )}
+
+          <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.15] mb-3">
+            {name}
+          </h1>
+          <p class="text-sm font-semibold uppercase tracking-wider text-white/50 mb-4">{role}</p>
+          <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-2xl">{shortBio}</p>
+
+          {aliases.length > 0 && (
+            <div class="mt-4 text-xs text-white/40">
+              <span class="font-semibold uppercase tracking-wider">Also known as:</span>
+              <span class="ml-1 font-mono">{aliases.join(', ')}</span>
+            </div>
+          )}
+        </div>
+      </div>
     </div>
   </header>
 

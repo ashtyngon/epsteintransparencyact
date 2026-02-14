@@ -20,8 +20,16 @@ const relatedPeople = allPeople.filter((p) => slugs.includes(p.id));
       {relatedPeople.map((person) => (
         <a
           href={`/people/${person.id}`}
-          class="text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-accent hover:text-accent transition-colors no-underline"
+          class="flex items-center gap-2 text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-accent hover:text-accent transition-colors no-underline"
         >
+          {person.data.image ? (
+            <img
+              src={person.data.image}
+              alt=""
+              class="w-5 h-5 rounded-full object-cover"
+              loading="lazy"
+            />
+          ) : null}
           {person.data.name}
         </a>
       ))}

@@ -9,8 +9,9 @@ import { getEra, getEraCategoryLabel } from '../utils/timeline-eras';
 const allArticles = (await getCollection('articles', (a) => a.data.status === 'published'))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
-const featuredArticle = allArticles[0];
-const remainingArticles = allArticles.slice(1, 9);
+// Hero: most recent feature article (falls back to most recent article)
+const heroArticle = allArticles.find((a) => a.data.articleType === 'feature') || allArticles[0];
+const remainingArticles = allArticles.filter((a) => a.id !== heroArticle?.id).slice(0, 9);
 
 const people = (await getCollection('people')).slice(0, 4);
 const totalArticles = allArticles.length;
@@ -19,51 +20,51 @@ const totalArticles = allArticles.length;
 const timelineEntries = (await getCollection('timeline'))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 4);
+
+function timeAgo(date: Date): string {
+  const now = new Date();
+  const diff = now.getTime() - date.getTime();
+  const hours = Math.floor(diff / (1000 * 60 * 60));
+  const days = Math.floor(hours / 24);
+  if (hours < 1) return 'Just now';
+  if (hours < 24) return `${hours}h ago`;
+  if (days < 7) return `${days}d ago`;
+  return formatDateShort(date);
+}
 ---
 
 <BaseLayout
   title="Home"
-  description="Tracking every development around the Epstein Files and the Epstein Transparency Act. News from major outlets with full source attribution."
+  description="Tracking every development around the Epstein Files and the Epstein Transparency Act. Every article sourced and cited. Every name. Every document."
   jsonLd={websiteJsonLd()}
 >
-  <!-- Hero — compact, authoritative -->
-  <section class="bg-primary text-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 md:py-12">
-      <div class="max-w-3xl">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="breaking-tag">Active Investigation</span>
-          <span class="text-xs text-white/40 font-mono">{totalArticles} articles tracked</span>
+  <!-- Hero — latest feature article -->
+  {heroArticle && (
+    <section class="bg-primary text-white">
+      <a href={`/articles/${heroArticle.id}`} class="block no-underline group">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 md:py-14">
+          <div class="flex items-center gap-3 mb-4">
+            <span class="breaking-tag">{heroArticle.data.articleType === 'feature' ? 'Featured' : 'Latest'}</span>
+            <span class="text-xs text-white/40 font-mono">{timeAgo(heroArticle.data.publishedAt)}</span>
+            <span class="text-xs text-white/40">&middot;</span>
+            <span class="text-xs text-white/40 font-mono">{heroArticle.data.source}</span>
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold mb-4 leading-[1.15] tracking-tight max-w-4xl group-hover:text-white/90 transition-colors">
+            {heroArticle.data.title}
+          </h1>
+          <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-3xl mb-6">
+            {heroArticle.data.summary}
+          </p>
+          <div class="flex flex-wrap items-center gap-4">
+            <span class="text-sm font-semibold text-highlight group-hover:text-white transition-colors">
+              Read full story &rarr;
+            </span>
+            <span class="text-xs text-white/30 font-mono">{totalArticles} articles tracked</span>
+          </div>
         </div>
-        <h1 class="text-3xl md:text-5xl font-serif font-bold mb-3 leading-[1.15] tracking-tight">
-          The Epstein Files: <br class="hidden md:block" />Every Document. Every Name. Every Update.
-        </h1>
-        <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-2xl">
-          We track every development around the Epstein Files and the Epstein Transparency Act.
-          Every article sourced and cited. Just the facts. Every name. Every document.
-        </p>
-        <div class="flex flex-wrap gap-3 mt-6">
-          <a
-            href="/articles"
-            class="bg-highlight text-white px-5 py-2.5 text-sm font-semibold hover:bg-highlight/90 transition-colors"
-          >
-            Latest News
-          </a>
-          <a
-            href="/timeline"
-            class="border border-white/20 text-white/80 px-5 py-2.5 text-sm font-semibold hover:bg-white/5 hover:text-white transition-colors"
-          >
-            View Timeline
-          </a>
-          <a
-            href="/people"
-            class="border border-white/20 text-white/80 px-5 py-2.5 text-sm font-semibold hover:bg-white/5 hover:text-white transition-colors"
-          >
-            People Database
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
+      </a>
+    </section>
+  )}
 
   <!-- Latest news feed -->
   <section class="max-w-7xl mx-auto px-4 sm:px-6 py-10">
@@ -77,15 +78,9 @@ const timelineEntries = (await getCollection('timeline'))
 
     {allArticles.length > 0 ? (
       <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
-        <!-- Main column: featured + articles -->
+        <!-- Main column: articles -->
         <div class="lg:col-span-8">
-          {/* Featured article */}
-          {featuredArticle && (
-            <ArticleCard article={featuredArticle} featured={true} />
-          )}
-
-          {/* Article list */}
-          <div class="mt-6">
+          <div>
             {remainingArticles.map((article) => (
               <ArticleCard article={article} />
             ))}
@@ -171,7 +166,7 @@ const timelineEntries = (await getCollection('timeline'))
           <div class="mt-6 p-5 border border-border">
             <h3 class="text-xs font-semibold uppercase tracking-wider text-primary mb-3">About This Site</h3>
             <p class="text-sm text-text-muted leading-relaxed">
-              We aggregate reporting from major news outlets about the Epstein Files. Every article links back to its original source. No opinion. No editorial spin.
+              Every article sourced and cited. Every article links back to its original source. No opinion. No editorial spin.
             </p>
             <a
               href="/about"

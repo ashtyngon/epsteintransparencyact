@@ -11,7 +11,6 @@ people:
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
@@ -37,7 +36,7 @@ But the broader pattern, according to the Times, is already documented. The reco
 
 ## Elite Accountability on Trial
 
-The Times investigation arrives as the Epstein files have already triggered [a wave of high-profile exits](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)—[Goldman Sachs' top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), a [billionaire CEO](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), and [DP World's chairman](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) all forced out after their Epstein connections surfaced.
+The Times investigation arrives as the Epstein files have already triggered [a wave of high-profile exits](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)—[Goldman Sachs' top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), a [billionaire CEO](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), and [DP World's chairman](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) all forced out after their Epstein connections surfaced.
 
 Meanwhile, [Attorney General Pam Bondi faces mounting pressure](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) over why the Justice Department continues redacting documents without clear legal grounds. [Congress has subpoenaed Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's longtime financier. [One congressman read names into the Congressional Record](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) because DOJ won't.
 
