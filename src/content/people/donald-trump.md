@@ -5,7 +5,7 @@ aliases:
   - "Donald J. Trump"
 role: "45th & 47th President of the United States"
 category: "named-in-documents"
-shortBio: "Social acquaintance of Epstein through the 1990s and early 2000s who pledged during his 2024 campaign to release the Epstein files, then reversed course after learning his name appeared in the documents — calling the files 'a big hoax' and his own supporters 'weaklings.' Ultimately signed the Epstein Transparency Act under overwhelming political pressure."
+shortBio: "The second most mentioned name in 3.5 million pages of Epstein files — appearing more than 38,000 times, more than Harry Potter in the Harry Potter books. Pledged during his 2024 campaign to release the files, then fought for months to suppress them after learning his name was in the documents, calling supporters who demanded transparency 'weaklings.' Signed the Transparency Act only after a 427-1 House vote made resistance impossible — then his DOJ removed a photo of him from the release within hours."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -22,7 +22,7 @@ sources:
     url: "https://www.cbsnews.com/news/trump-jeffrey-epstein-hoax-republicans/"
   - title: "Bondi Briefed Trump on His Name in Files — CNN"
     url: "https://www.cnn.com/2025/07/23/politics/bondi-trump-epstein-list-files"
-  - title: "Trump Signs Epstein Transparency Act — PBS"
+  - title: "Fighting It for Months, Trump Signs Epstein Bill — PBS"
     url: "https://www.pbs.org/newshour/politics/fighting-it-for-months-trump-signs-bill-to-release-jeffrey-epstein-case-files"
   - title: "The Epstein Connections Fueling Conspiracy Theories — FactCheck.org"
     url: "https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/"
@@ -34,10 +34,22 @@ sources:
     url: "https://www.aljazeera.com/news/2025/11/17/trump-backs-full-release-of-epstein-files-in-sharp-reversal"
   - title: "Trump's 'Weaklings' Post — CNN"
     url: "https://www.cnn.com/2025/07/16/politics/trump-epstein-weaklings-supporters"
+  - title: "How Often Trump Is Mentioned in New Epstein Files — New Republic"
+    url: "https://newrepublic.com/post/206023/how-often-donald-trump-mentioned-epstein-files"
+  - title: "16 Files Disappear from DOJ Site Including Trump Photo — PBS"
+    url: "https://www.pbs.org/newshour/politics/at-least-16-files-disappear-from-doj-site-for-epstein-documents-including-trump-photo"
+  - title: "Second Batch of Epstein Files Includes Many Mentions of Trump — Washington Post"
+    url: "https://www.washingtonpost.com/national-security/2025/12/22/epstein-trump-file-release/"
+  - title: "Clinton Spokesperson Calls for Release of All Epstein Files — ABC News"
+    url: "https://abcnews.com/US/bill-clintons-spokesperson-calls-release-epstein-files-related/story?id=128643851"
+  - title: "Which House Republicans Helped Force a Vote on Epstein Files — TIME"
+    url: "https://time.com/7333573/epstein-files-discharge-petition-republicans-trump-massie-mace-boebert-greene/"
 sensitive: false
 ---
 
-Donald Trump's relationship with Jeffrey Epstein — and his shifting positions on transparency about it — is one of the central stories in the Epstein case. It is a story in three acts: a social acquaintance in the 1990s, a campaign promise in 2024, and a political crisis in 2025 when that promise collided with what the files actually contained.
+Donald Trump is the second most mentioned name in the Epstein files — after Jeffrey Epstein himself. Across the 3.5 million pages of documents released by the Department of Justice, Trump's name appears more than 38,000 times, flagged in more than 5,300 individual files. As Rep. Jared Moskowitz (D-FL) noted at AG [Pam Bondi](/people/pam-bondi)'s February 2026 hearing, that is more than Harry Potter is mentioned across all seven Harry Potter books.
+
+Not all of those mentions indicate wrongdoing. Many are press clippings, duplicates, and correspondence in which Epstein discussed Trump with others. But the sheer volume — combined with flight records showing Trump on at least eight Epstein flights between 1993 and 1996, with [Ghislaine Maxwell](/people/ghislaine-maxwell) present on at least four of them — underscores a relationship that was far deeper and longer than Trump's public statements have acknowledged. And his conduct as president, once the files threatened to surface, has been more obstructive than any other figure in the case — including [Bill Clinton](/people/bill-clinton), who called for full, unredacted release of every document bearing his name.
 
 ## The Social Relationship (Late 1980s–Mid 2000s)
 
@@ -55,21 +67,23 @@ In November 1992, NBC cameras filmed Trump and Epstein together at a party at Ma
 
 Trump has claimed he banned Epstein from Mar-a-Lago in the mid-2000s, around 2004–2005, before Epstein's 2006 arrest. Attorney Brad Edwards — who represented Epstein's victims — offered partial corroboration. In a 2018 interview, Edwards said Trump was "the only person who picked up the phone and said, 'Let's just talk. I'll give you as much time as you want'" when Edwards was investigating Epstein's network. Edwards described Trump as "very helpful."
 
-However, other accounts dispute the timeline. Some sources suggest Trump and Epstein were still in contact after 2004.
+However, documents released under the Transparency Act complicated this account. According to Rep. Jamie Raskin, who viewed unredacted files, Epstein's lawyers recorded Trump as saying Epstein "was not a member of his club at Mar-a-Lago, but he was a guest," and that "he had never been asked to leave" — a claim at odds with Trump's public statements about kicking Epstein out.
 
-The reason for the ban is also disputed. Some accounts attribute it to a real estate dispute. Edwards suggested it was related to Epstein approaching a member's young daughter at the club — a detail that, if accurate, places Trump's knowledge of Epstein's behavior earlier than his public statements acknowledged.
+The reason for any separation is also disputed. Some accounts attribute it to a real estate dispute. Edwards suggested it was related to Epstein approaching a member's young daughter at the club — a detail that, if accurate, places Trump's knowledge of Epstein's behavior earlier than his public statements acknowledged.
 
 ## Virginia Giuffre and Mar-a-Lago
 
-One of the most significant facts in the Epstein case directly involves Trump's property. [Virginia Giuffre](/people/virginia-giuffre) — one of the most prominent Epstein accusers — has stated in court filings and depositions that she was recruited into Epstein's trafficking network while working as a spa attendant at Mar-a-Lago in 1999–2000, when she was approximately 16 years old. [Ghislaine Maxwell](/people/ghislaine-maxwell) approached Giuffre there and initially offered her work as a masseuse for Epstein. Giuffre's father, Sky Roberts, was a maintenance worker at Mar-a-Lago at the time.
+One of the most significant facts in the Epstein case directly involves Trump's property. [Virginia Giuffre](/people/virginia-giuffre) — one of the most prominent Epstein accusers — stated in court filings and depositions that she was recruited into Epstein's trafficking network while working as a spa attendant at Mar-a-Lago in 1999–2000, when she was approximately 16 years old. [Ghislaine Maxwell](/people/ghislaine-maxwell) approached Giuffre there and initially offered her work as a masseuse for Epstein. Giuffre's father, Sky Roberts, was a maintenance worker at Mar-a-Lago at the time.
+
+A partially redacted DOJ memo released under the Transparency Act confirms that Giuffre told federal investigators about working as a teenager at Trump's club, how she was recruited from there to work for Epstein, and about the sexual abuse she says she was later subjected to.
 
 Giuffre has not accused Trump of sexual misconduct. But the recruitment of an underage trafficking victim at Trump's club — under the watch of Epstein, who was a club member — is a central fact in the case.
 
 ## Flight Logs
 
-Flight logs for Epstein's Boeing 727 (known as the "Lolita Express") show Trump's name on at least one documented flight — a trip from Palm Beach to Newark, New Jersey in January 1997. Mark Epstein (Jeffrey's brother) confirmed in a 2009 deposition that Trump flew on Jeffrey's plane.
+The released files revealed more extensive flight connections than were previously known. A 2020 email from a federal prosecutor, included in the DOJ document release, states that Trump was listed as a passenger on at least eight Epstein flights between 1993 and 1996. On at least four of those flights, Ghislaine Maxwell was also a passenger. On one 1993 flight, Trump and Epstein were the only two passengers listed in the logs.
 
-The documented flights are domestic, on the Palm Beach–New York corridor. There is no evidence in the flight logs of Trump traveling to Little St. James Island, Epstein's private island in the U.S. Virgin Islands.
+This is significantly more than the single documented flight that was publicly known before the file releases. The documented flights are domestic, on the Palm Beach–New York corridor. There is no evidence in the flight logs of Trump traveling to Little St. James Island, Epstein's private island in the U.S. Virgin Islands.
 
 ## The Jane Doe Lawsuit (2016)
 
@@ -105,11 +119,13 @@ After taking office, AG [Pam Bondi](/people/pam-bondi) initially signaled transp
 
 In May 2025, Bondi and Deputy AG Todd Blanche briefed Trump that his name appeared in the Epstein files. CNN reported on July 23, 2025 that this briefing preceded Trump's dramatic shift.
 
-What followed was the most consequential reversal of the Epstein saga.
+The pattern is worth spelling out: Trump promised transparency when he assumed the files would implicate his political enemies. The moment he learned they implicated him, he moved to suppress them.
 
 ## The Reversal (July 2025)
 
 On July 7, 2025, the DOJ released a memo declaring no "client list" existed. FBI Director Kash Patel and Deputy Director Dan Bongino appeared on Fox News to affirm that Epstein had died by suicide — a striking turnaround from years of conspiracy theories that had served the administration's allies.
+
+On July 12, Trump posted on Truth Social that people should "not waste Time and Energy on Jeffrey Epstein, somebody that nobody cares about."
 
 On July 15, 2025, at Joint Base Andrews, Trump told reporters: "I don't understand why this would be of interest to anybody." He called the files "pretty boring stuff" and "sordid, but it's boring." Then: "Only pretty bad people, including fake news, want to keep something like that going."
 
@@ -117,17 +133,23 @@ The next day — July 16, 2025 — from the Oval Office during a bilateral meeti
 
 That same day, he posted on Truth Social branding it "the Jeffrey Epstein Hoax" and attacking his own supporters: "My PAST supporters have bought into this 'bullshit,' hook, line, and sinker." He called them "weaklings" and added: "I don't want their support anymore!"
 
-It was the first time a sitting president had explicitly disavowed supporters for demanding accountability in a child sex trafficking case.
+It was the first time a sitting president had explicitly disavowed supporters for demanding accountability in a child sex trafficking case. A September 2025 Marist poll found that 90 percent of Americans wanted at least some of the files released.
 
 ## The Backlash
 
-The reversal fractured Trump's own media ecosystem. Joe Rogan called it "the gaslightiest gaslighting shit I've ever heard in my life." Tucker Carlson said: "The same people who told you every institution was corrupt are now asking you to trust the FBI's assessment that there's nothing to see here." Alex Jones, Charlie Kirk, and other MAGA-aligned figures publicly broke with Trump — a rare sustained fracture that provided political cover for the four Republican members who signed the discharge petition.
+The reversal fractured Trump's own media ecosystem. Joe Rogan called it "the gaslightiest gaslighting shit I've ever heard in my life." Tucker Carlson said: "The same people who told you every institution was corrupt are now asking you to trust the FBI's assessment that there's nothing to see here." Alex Jones called Trump's handling of the situation "the biggest train wreck I've ever seen." Charlie Kirk and other MAGA-aligned figures publicly broke with Trump — a rare sustained fracture.
+
+Rep. Eric Burlison (R-MO) told CNN the Epstein issue was "the number one thing" coming up in constituent calls to his office, calling it a reflection of the feeling that Americans "can't trust their government." Even former Vice President Mike Pence said publicly that "the time has come for the administration to release all of the files."
 
 ## Fighting the Discharge Petition
 
-The White House fought aggressively to block the bipartisan discharge petition filed by Reps. [Thomas Massie](/people/thomas-massie) (R-KY) and Ro Khanna (D-CA). A formal White House statement called Republican support for the petition "a very hostile act to the administration." Trump personally lobbied [Lauren Boebert](/people/lauren-boebert) and [Nancy Mace](/people/nancy-mace) to withdraw their signatures. In one extraordinary episode, Boebert was brought into a Situation Room meeting with Bondi, Blanche, and Patel in a last-ditch effort to prevent the petition from reaching 218 signatures. She refused to withdraw.
+The White House fought aggressively to block the bipartisan discharge petition filed by Reps. [Thomas Massie](/people/thomas-massie) (R-KY) and Ro Khanna (D-CA). A formal White House statement called Republican support for the petition "a very hostile act to the administration."
 
-The administration extended the House recess from September through mid-November — widely seen as a deliberate stall to prevent the swearing-in of Rep. Adelita Grijalva (D-AZ), who had won a special election. When Grijalva was sworn in on November 12 and signed as the 218th name, the floor vote was triggered.
+Four Republicans defied him: Massie, [Marjorie Taylor Greene](/people/marjorie-taylor-greene), [Lauren Boebert](/people/lauren-boebert), and [Nancy Mace](/people/nancy-mace). Greene described the pressure she faced: "I got a lot of pushback. I got phone call after phone call last night. They didn't want me to sign the discharge petition." She told the New York Times: "I told them, 'You didn't get me elected. I do not work for you; I work for my district.'" She also pushed back against the White House's characterization, saying the true hostile act was when Epstein raped women.
+
+In a last-ditch effort, Boebert was brought into a Situation Room meeting with Bondi, Blanche, and FBI Director Patel. She refused to withdraw her signature.
+
+Speaker Mike Johnson delayed the swearing-in of Rep. Adelita Grijalva (D-AZ), who had won a special election, citing the government shutdown — despite having sworn in two Republican members during a pro forma session earlier that year. When Grijalva was finally sworn in on November 12 and signed as the 218th name, the floor vote was triggered.
 
 ## Signing the Act (November 2025)
 
@@ -137,10 +159,28 @@ The House voted 427–1 on November 18. The Senate passed the bill unanimously o
 
 Rep. Ro Khanna observed that Trump "saw the math" and "caved to the coalition." Rep. Thomas Massie was more blunt, later noting the irony: the administration had spent months fighting a bill that would pass with a single opposing vote.
 
+## The Releases: Obstruction Continued
+
+Signing the law did not end the obstruction. The Transparency Act required full release within 30 days — by December 19, 2025. The DOJ missed that deadline, releasing a first batch that was widely criticized as incomplete and heavily redacted, with hundreds of pages entirely blacked out.
+
+Within hours of the first release, at least 16 files disappeared from the DOJ's public Epstein website — including a photograph showing Trump alongside Epstein, Melania Trump, and Maxwell. Democrats on the House Oversight Committee flagged the removal. After bipartisan backlash, the DOJ restored the photo, claiming it had been temporarily removed "out of an abundance of caution" for victim protection review. Deputy AG Blanche called the suggestion that it was removed because of Trump "laughable."
+
+The DOJ released additional files in waves — a second batch on December 22 with hundreds of Trump references, a third on December 23. By the final release on January 30, 2026, the Department claimed compliance, having released over 3.5 million pages, 180,000 images, and 2,000 videos.
+
+But Reps. Khanna and Massie said the releases had too many redactions and missing information, and they began drafting inherent contempt proceedings against Bondi. On February 2, 2026, Deputy AG Blanche announced there would be no additional prosecutions related to Epstein.
+
+## The Contrast with Clinton
+
+The comparison with [Bill Clinton](/people/bill-clinton) is instructive. Clinton's documented contacts with Epstein are extensive — at least 26 flight segments, trips with Maxwell, White House visits. But when the files were released, Clinton's spokesperson Angel Urena issued a statement demanding the DOJ release everything: "What the Department of Justice has released so far, and the manner in which it did so, makes one thing clear: someone or something is being protected. We do not know whom, what or why. But we do know this: We need no such protection." Urena specifically called on Trump to direct Bondi to "immediately release any remaining materials referring to, mentioning, or containing a photograph of Bill Clinton."
+
+Clinton called for more transparency. Trump fought to prevent it — and when forced to allow it, his DOJ removed files from the website within hours.
+
+No one involved in this case emerges cleanly. But the distinction matters: one former president asked the public to see everything; the sitting president used the apparatus of the federal government to limit what the public could see.
+
 ## What Is and Is Not Established
 
-Trump has never been charged with any crime related to Epstein. He was never a target of the Epstein criminal investigations according to public records. Virginia Giuffre, who was recruited at Trump's property, has not accused Trump of sexual misconduct.
+Trump has never been charged with any crime related to Epstein. He was never a target of the Epstein criminal investigations according to public records. Virginia Giuffre, who was recruited at Trump's property, has not accused Trump of sexual misconduct. The DOJ itself stated that the files contained "untrue and sensationalist claims" about Trump that did not warrant prosecution.
 
-What is established is this: Trump had a documented social relationship with Epstein spanning at least a decade; an underage victim was recruited at his club; he nominated the prosecutor who gave Epstein a lenient plea deal to his cabinet; he promised transparency and then fought it when it threatened to expose his name; and he signed the Transparency Act only when the political cost of opposition exceeded the cost of compliance.
+What is established is this: Trump had a documented social relationship with Epstein spanning at least a decade. He flew on Epstein's plane at least eight times. An underage victim was recruited at his club. He nominated the prosecutor who gave Epstein a lenient plea deal to his cabinet. He promised transparency and then fought it for months once he learned his name was in the files. He called his own supporters "weaklings" for demanding accountability. He pressured members of Congress to withdraw from the discharge petition, bringing a sitting congresswoman into the Situation Room for that purpose. He signed the Transparency Act only when the political cost of opposition exceeded the cost of compliance. And his Department of Justice removed a photograph of him from the release site within hours of posting it.
 
-The Epstein Transparency Act became law not because of any president's commitment to accountability, but in spite of two administrations' efforts to avoid it.
+His name appears in the Epstein files more than 38,000 times — more than Harry Potter in the Harry Potter books, more than the name of any person except Jeffrey Epstein himself.
