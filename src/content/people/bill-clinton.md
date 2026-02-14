@@ -25,10 +25,10 @@ sources:
     url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
   - title: "Photos Show Bill Clinton Getting Massage From Epstein Victim — Daily Beast"
     url: "https://www.thedailybeast.com/newly-surfaced-photos-show-bill-clinton-receiving-massage-from-jeffrey-epstein-victim-in-2002/"
-  - title: "Epstein White House Visits — Daily Beast"
-    url: "https://www.thedailybeast.com/jeffrey-epstein-visited-clinton-white-house-multiple-times-in-early-1990s"
-  - title: "Brad Edwards on Epstein Investigation — Relentless Pursuit (2020)"
-    url: "https://www.amazon.com/Relentless-Pursuit-Story-Fight-Justice/dp/1982148039"
+  - title: "Epstein Visited Clinton White House Multiple Times in Early '90s — Daily Beast"
+    url: "https://www.thedailybeast.com/jeffrey-epstein-visited-clinton-white-house-multiple-times-in-early-90s/"
+  - title: "Relentless Pursuit: My Fight for the Victims of Jeffrey Epstein — Simon & Schuster"
+    url: "https://www.simonandschuster.com/books/Relentless-Pursuit/Bradley-J-Edwards/9781982148140"
 sensitive: false
 ---
 
