@@ -1,16 +1,23 @@
 ---
-title: "DP World Chair Forced Out as Epstein Documents Expose Global Ties"
-publishedAt: 2026-02-13
-source: "Google News (Epstein)"
-sourceUrl: "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWx4am5EbEl0ckFHU1psUy1KOHVUVzExNDBGUWw5eVlSYlNGaUlXV2c0OGxtdENsUGd3WnkxdklSSlAtOVF6OFZQaVpWVzZiTndTa0d1dHpQbVhRM2ZFVnEyNWlFUXhRbkVLaVZVVXVmRXpCTlFXcGZ1bWtKWTk0V2Y3aHpWMjViNXVVRXRvSnppWG5qdzB2YWNmamZrd2lhNnpOZmlVX1M3YTN3cFHSAbMBQVVfeXFMUDdlNklkNmtTcmtKSmt2QjZXUDFOdG5QRVEzdFp1Z2x0bUJuMnlUV3pGMU02b0Y5T2dxRThuSDU1YTRaOVRuQ0NiZXlvdjFmOVdEUlpvWGlpbFBtSkp2TlFzMDF4S0VLYTA1NzZPaTVPSHRhUzJMa2ZUbUZfMEo1UHE5bG00UmZBdWE3NlliSnVNU0dRWG8tNWNXdnRfeGQ4UUpsdWI4T09IU0N5czZFa2NONEk?oc=5"
-summary: "A second senior executive at DP World has been forced out over connections to Jeffrey Epstein, marking an escalating crisis at the Dubai-based ports giant that "
+title: DP World Chair Forced Out as Epstein Documents Expose Global Ties
+publishedAt: 2026-02-13T00:00:00.000Z
+source: The Hill
+sourceUrl: >-
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWx4am5EbEl0ckFHU1psUy1KOHVUVzExNDBGUWw5eVlSYlNGaUlXV2c0OGxtdENsUGd3WnkxdklSSlAtOVF6OFZQaVpWVzZiTndTa0d1dHpQbVhRM2ZFVnEyNWlFUXhRbkVLaVZVVXVmRXpCTlFXcGZ1bWtKWTk0V2Y3aHpWMjViNXVVRXRvSnppWG5qdzB2YWNmamZrd2lhNnpOZmlVX1M3YTN3cFHSAbMBQVVfeXFMUDdlNklkNmtTcmtKSmt2QjZXUDFOdG5QRVEzdFp1Z2x0bUJuMnlUV3pGMU02b0Y5T2dxRThuSDU1YTRaOVRuQ0NiZXlvdjFmOVdEUlpvWGlpbFBtSkp2TlFzMDF4S0VLYTA1NzZPaTVPSHRhUzJMa2ZUbUZfMEo1UHE5bG00UmZBdWE3NlliSnVNU0dRWG8tNWNXdnRfeGQ4UUpsdWI4T09IU0N5czZFa2NONEk?oc=5
+summary: >-
+  A second senior executive at DP World has been forced out over connections to
+  Jeffrey Epstein, marking an escalating crisis at the Dubai-based ports giant
+  that 
+articleType: news
+status: published
 people:
   - jeffrey-epstein
   - pam-bondi
   - ro-khanna
   - sultan-ahmed-bin-sulayem
 relatedArticles:
-  - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
+  - >-
+    2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-epstein-links
   - 2026-02-13-billionaire-ceo-resigns-after-epstein-connection-exposed
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
@@ -20,11 +27,9 @@ tags:
   - document-release
   - associates
   - breaking
-status: published
 aiGenerated: true
 confidence: 0.85
 ---
-
 DP World's chairman resigned Friday after documents revealed ties to Jeffrey Epstein, making him the second top executive at the Dubai-based ports operator to be forced out over connections to the convicted sex trafficker in less than a week.
 
 The company has not publicly identified the chairman or disclosed what the documents contained. The resignation follows [CEO Sultan Ahmed Bin Sulayem's ouster](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) just days earlier after emails showed correspondence with Epstein.

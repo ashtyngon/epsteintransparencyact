@@ -23,8 +23,8 @@ const {
 
 const siteUrl = 'https://epsteintransparencyact.com';
 const fullTitle = title === 'Home'
-  ? 'Epstein Transparency Act — Tracking the Epstein Files'
-  : `${title} — Epstein Transparency Act`;
+  ? 'Epstein Transparency Project — Tracking the Epstein Files'
+  : `${title} — Epstein Transparency Project`;
 const canonicalUrl = canonical || Astro.url.href;
 const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
 
@@ -46,7 +46,11 @@ const jsonLdScripts = jsonLd
 <meta property="og:type" content={ogType} />
 <meta property="og:url" content={canonicalUrl} />
 <meta property="og:image" content={ogImageUrl} />
-<meta property="og:site_name" content="Epstein Transparency Act" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:site_name" content="Epstein Transparency Project" />
+<meta property="og:locale" content="en_US" />
 
 {publishedTime && (
   <meta property="article:published_time" content={publishedTime.toISOString()} />

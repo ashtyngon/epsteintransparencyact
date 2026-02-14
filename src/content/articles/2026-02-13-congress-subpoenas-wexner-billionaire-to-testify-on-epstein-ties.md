@@ -1,14 +1,21 @@
 ---
-title: "Congress to Depose Wexner in Ohio Over Epstein Ties"
-publishedAt: 2026-02-13
-source: "Google News (Epstein)"
-sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmt2U3FiTGxRX0tRZkpRck00NkMzRUlwVDUxV0FOSkpQSG9uZEhfWF9pb3FmRVdfWUZYNlVwM3VlN2NlVTV1UEVuUDZGLXZWUlh1dFc2dFgyb1NTM2hRQkg5Sm1vWnRiN2tOb1pPOHg2X0NDZGMzd0hhSnJzd2Q5ZVd0enN0WHZVX244SUJHc0xJNmFMR0FnSW01eXRiaFQtQWZpZEhGUzFUOWpjQnhwYTl2aw?oc=5"
-summary: "Congressional investigators have backed down from their demand that Leslie Wexner testify in Washington, agreeing instead to depose the billionaire retail magna"
+title: Congress to Depose Wexner in Ohio Over Epstein Ties
+publishedAt: 2026-02-13T00:00:00.000Z
+source: The Columbus Dispatch
+sourceUrl: >-
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmt2U3FiTGxRX0tRZkpRck00NkMzRUlwVDUxV0FOSkpQSG9uZEhfWF9pb3FmRVdfWUZYNlVwM3VlN2NlVTV1UEVuUDZGLXZWUlh1dFc2dFgyb1NTM2hRQkg5Sm1vWnRiN2tOb1pPOHg2X0NDZGMzd0hhSnJzd2Q5ZVd0enN0WHZVX244SUJHc0xJNmFMR0FnSW01eXRiaFQtQWZpZEhGUzFUOWpjQnhwYTl2aw?oc=5
+summary: >-
+  Congressional investigators have backed down from their demand that Leslie
+  Wexner testify in Washington, agreeing instead to depose the billionaire
+  retail magna
+articleType: news
+status: published
 people:
   - leslie-wexner
   - jeffrey-epstein
 relatedArticles:
-  - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
+  - >-
+    2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
   - fbi-begins-epstein-records-review
   - epstein-transparency-act-signed-into-law
 tags:
@@ -16,11 +23,9 @@ tags:
   - associates
   - investigation
   - breaking
-status: published
 aiGenerated: true
 confidence: 0.92
 ---
-
 Congressional investigators will depose billionaire **Leslie Wexner** about his Jeffrey Epstein ties in **Ohio**, backing away from their initial order that he testify in Washington, The Columbus Dispatch reported.
 
 The location change represents a notable concession for a congressional investigation. Wexner, 87, will now give his deposition closer to home rather than in the nation's capital, where Congress typically compels high-profile witnesses to appear.

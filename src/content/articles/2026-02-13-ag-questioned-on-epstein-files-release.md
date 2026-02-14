@@ -1,23 +1,28 @@
 ---
-title: "AG Questioned on Epstein Files Release"
-publishedAt: 2026-02-13
-source: "Google News (Epstein)"
-sourceUrl: "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZy0xTWwwTjNZMFdYLUhudHBDSEsxNGlreW10OTBGZmlpM255X3FMVHM4YWFqYUtjcjdoRk1qX18takVCTFlYR3BjUnFjZkd3Y2pCZFI1bVg2N1VKTGx4cGMwY25TcFNaNW1kZG9sTmNZWUZ3SHg0eVhpT2FuYzRldzJIWVlHM2h3ZTl5eVQ2WXJRRE00MzgxNklvc3ZTQ1p2UVh4SGNiZWtiVG1LVjdvOWRFRmhoRWU3ZHAtUkpCSF93cDdH?oc=5"
-summary: "Attorney General Faces Congressional Questioning on Epstein Files Release Attorney General Pam Bondi faced questioning from Congress over the status of Epstein "
+title: AG Questioned on Epstein Files Release
+publishedAt: 2026-02-13T00:00:00.000Z
+source: JuristNews
+sourceUrl: >-
+  https://www.jurist.org/news/2026/02/us-dispatch-attorney-general-questioned-over-epstein-files-federal-shootings-surveillance/
+summary: >-
+  Attorney General Faces Congressional Questioning on Epstein Files Release
+  Attorney General Pam Bondi faced questioning from Congress over the status of
+  Epstein 
+articleType: news
+status: published
 people:
   - jeffrey-epstein
   - pam-bondi
+relatedArticles: []
 tags:
   - transparency-act
   - court-documents
   - document-release
   - political
   - breaking
-status: published
 aiGenerated: true
 confidence: 0.85
 ---
-
 # Attorney General Faces Congressional Questioning on Epstein Files Release
 
 **Attorney General Pam Bondi** faced questioning from Congress over the status of **Epstein files**, federal shooting incidents, and surveillance practices, according to a report from **Jurist.org** published **February 13, 2026**. The hearing addressed multiple pressing law enforcement matters, with lawmakers seeking answers on the handling of documents related to the Jeffrey Epstein case.

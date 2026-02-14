@@ -1,9 +1,15 @@
 ---
-title: "FBI Explains Why Epstein Files Remain Heavily Redacted"
-publishedAt: 2026-02-13
-source: "Google News (Epstein)"
-sourceUrl: "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjNPaGFPamxRa0pvckxCVlNRcFIzSktPVTExWXVISEl4TTgxU1AycjBPWW5VYl9XQ1BFS0dPUnBhTUx6US10ZlE3d3JxS2l3QmYtZWg0c3BkZ0ZhNEJvR3ZYS3p5ejF2VzZhaW1iWWd3bFVUN2E1YjNodFpRZWhKbDgzT2NzTzVyNzM4dGJiN2Q4QlBXeDFkaHRLeG5KR3hHazNBQ1A3N0NzQmUwMmc?oc=5"
-summary: "The FBI has begun providing its justifications for the extensive redactions that have obscured key names and details in the Epstein files, according to a Bloomb"
+title: FBI Explains Why Epstein Files Remain Heavily Redacted
+publishedAt: 2026-02-13T00:00:00.000Z
+source: Bloomberg
+sourceUrl: >-
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjNPaGFPamxRa0pvckxCVlNRcFIzSktPVTExWXVISEl4TTgxU1AycjBPWW5VYl9XQ1BFS0dPUnBhTUx6US10ZlE3d3JxS2l3QmYtZWg0c3BkZ0ZhNEJvR3ZYS3p5ejF2VzZhaW1iWWd3bFVUN2E1YjNodFpRZWhKbDgzT2NzTzVyNzM4dGJiN2Q4QlBXeDFkaHRLeG5KR3hHazNBQ1A3N0NzQmUwMmc?oc=5
+summary: >-
+  The FBI has begun providing its justifications for the extensive redactions
+  that have obscured key names and details in the Epstein files, according to a
+  Bloomb
+articleType: news
+status: published
 people:
   - ghislaine-maxwell
   - jeffrey-epstein
@@ -12,24 +18,25 @@ people:
   - donald-trump
   - thomas-massie
 relatedArticles:
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - >-
+    2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
+  - >-
+    2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
   - 2026-02-13-billionaire-ceo-resigns-after-epstein-connection-exposed
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - epstein-transparency-act-signed-into-law
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - >-
+    2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
   - fbi
   - court-documents
   - transparency-act
   - document-release
-status: published
 aiGenerated: true
 confidence: 0.95
 ---
-
 The FBI has begun explaining why it redacted vast portions of the Epstein files, Bloomberg reported Friday. The bureau cites three justifications: protecting ongoing investigations, shielding intelligence sources and methods, and preventing harm to individuals not charged with crimes.
 
 None of those explanations satisfy transparency advocates or lawmakers demanding to know who the FBI is protecting—and why, more than six years after Epstein's death and two years after Ghislaine Maxwell's conviction, so many names remain hidden.

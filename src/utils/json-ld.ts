@@ -2,7 +2,7 @@ export function websiteJsonLd() {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'Epstein Transparency Act',
+    name: 'Epstein Transparency Project',
     url: 'https://epsteintransparencyact.com',
     description:
       'A factual database tracking developments around the Epstein Files and the Epstein Transparency Act.',
@@ -33,12 +33,12 @@ export function articleJsonLd(article: {
     dateModified: (article.updatedAt ?? article.publishedAt).toISOString(),
     author: {
       '@type': 'Organization',
-      name: 'Epstein Transparency Act',
+      name: 'Epstein Transparency Project',
       url: 'https://epsteintransparencyact.com',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Epstein Transparency Act',
+      name: 'Epstein Transparency Project',
       url: 'https://epsteintransparencyact.com',
     },
     mainEntityOfPage: `https://epsteintransparencyact.com/articles/${article.slug}`,

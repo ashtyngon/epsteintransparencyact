@@ -1,9 +1,15 @@
 ---
-title: "Emirati Billionaire Forced Out as CEO Following Epstein Link"
-publishedAt: 2026-02-13
-source: "Google News (Epstein)"
-sourceUrl: "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEhmWHRaNjRXUURNRG9FblNraERuRVBGVTIwODlsU1pvbm1jS1pCTW1OdGtTcjl4LU1yWXJkYTZPYnBkVmFORWVJSXMtR2laTXNmajUxNUF3M1RMY1pQVE1iMHR2QnBpbG1mSm1Qc2w2QTVMd1Myb0g1b09BSVUzVkpqTW5YRDdQXzZBOHV4c1FKV1RhbW55TDNfa214R1JZRXYwbXRtcU5TRHZf?oc=5"
-summary: "An Emirati billionaire has stepped down as CEO of a major logistics company following revelations in newly released Epstein documents, according to ABC7 Los Ang"
+title: Emirati Billionaire Forced Out as CEO Following Epstein Link
+publishedAt: 2026-02-13T00:00:00.000Z
+source: ABC7
+sourceUrl: >-
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEhmWHRaNjRXUURNRG9FblNraERuRVBGVTIwODlsU1pvbm1jS1pCTW1OdGtTcjl4LU1yWXJkYTZPYnBkVmFORWVJSXMtR2laTXNmajUxNUF3M1RMY1pQVE1iMHR2QnBpbG1mSm1Qc2w2QTVMd1Myb0g1b09BSVUzVkpqTW5YRDdQXzZBOHV4c1FKV1RhbW55TDNfa214R1JZRXYwbXRtcU5TRHZf?oc=5
+summary: >-
+  An Emirati billionaire has stepped down as CEO of a major logistics company
+  following revelations in newly released Epstein documents, according to ABC7
+  Los Ang
+articleType: news
+status: published
 people:
   - jeffrey-epstein
   - leslie-wexner
@@ -11,23 +17,24 @@ people:
   - sultan-ahmed-bin-sulayem
   - donald-trump
 relatedArticles:
-  - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
+  - >-
+    2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
+  - >-
+    2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-house-judiciary-grills-ag-over-growing-epstein-connections
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - >-
+    2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
 tags:
   - associates
   - breaking
-status: published
 aiGenerated: true
 confidence: 0.72
 ---
-
 An Emirati billionaire has resigned as CEO of a logistics company following Epstein revelations, ABC7 Los Angeles reported. The description matches [DP World Chairman Sultan Ahmed Bin Sulayem](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails), whose departure this outlet has already covered in detail.
 
 ## Same Story, Wider Coverage

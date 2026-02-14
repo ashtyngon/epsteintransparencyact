@@ -1,9 +1,15 @@
 ---
-title: "DP World Boss Ousted Over Epstein Pressure in Major Corporate Fallout"
-publishedAt: 2026-02-13
-source: "Reuters (via Google News)"
-sourceUrl: "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlZfanhwSlpNX2JXU0dYLVVjdG1YR2ZWQXR2QmF6WXR6dlhpQ2dGWTd5S3J3VmIxTVF1SElIZmNDbkhQQk96TDM5elB4Nkt5NzUzc0VfM1RYdDlPWTVoRjNEOXFvWXhpVEtHTjByRG9SWWQzaWFYZzRwSXF6aFpHNEFSTXQyNmp3TzdySnBMNzhDZ3E2Ti1aak0wWWhmdmdObVFpOGhhcHA0c3hVaVVyenlMZEhPaWp0YlFqVzRrUk50T0hYQWE0UUxn?oc=5"
-summary: "A second major executive has been pushed out over connections to Jeffrey Epstein, as pressure mounts on corporations to account for relationships documented in "
+title: DP World Boss Ousted Over Epstein Pressure in Major Corporate Fallout
+publishedAt: 2026-02-13T00:00:00.000Z
+source: Reuters
+sourceUrl: >-
+  https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlZfanhwSlpNX2JXU0dYLVVjdG1YR2ZWQXR2QmF6WXR6dlhpQ2dGWTd5S3J3VmIxTVF1SElIZmNDbkhQQk96TDM5elB4Nkt5NzUzc0VfM1RYdDlPWTVoRjNEOXFvWXhpVEtHTjByRG9SWWQzaWFYZzRwSXF6aFpHNEFSTXQyNmp3TzdySnBMNzhDZ3E2Ti1aak0wWWhmdmdObVFpOGhhcHA0c3hVaVVyenlMZEhPaWp0YlFqVzRrUk50T0hYQWE0UUxn?oc=5
+summary: >-
+  A second major executive has been pushed out over connections to Jeffrey
+  Epstein, as pressure mounts on corporations to account for relationships
+  documented in 
+articleType: news
+status: published
 people:
   - jeffrey-epstein
   - leslie-wexner
@@ -19,11 +25,9 @@ tags:
   - associates
   - breaking
   - political
-status: published
 aiGenerated: true
 confidence: 0.85
 ---
-
 A second major executive has been forced out over Jeffrey Epstein connections, this time at one of the world's largest port operators.
 
 Sultan Ahmed Bin Sulayem, who led Dubai-based **DP World**, was removed from his position after what Reuters described as "pressure over Epstein." The logistics giant gave no public explanation for the departure, and the company has not disclosed what documents or communications triggered the move.

@@ -1,9 +1,15 @@
 ---
-title: "House Judiciary Grills AG Over Growing Epstein Connections"
-publishedAt: 2026-02-13
-source: "Google News (Epstein)"
-sourceUrl: "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWnBWeGtOU21pUE5yRFhHb2FmcnFEc2h6bG50dlpDWVJ0T3ktT3hOQnBncDYwSzl0S2dIVU8wZDd5clpoNWlhMURlVUZ6ZkNpQ2s1VVNLREZvSDJ1RUdEd0ZWLVlveHlKV1VCcUl1Z19BTVU5ZXU1SkE5WFhmc2Frc1dKQnVkdkFwVzJXNzFzdERTTEtseGhPMFU3TkZ0M0o0Z3J6Y0pjN0JzWThhN3RNT1JkTnlpZ3ZVVk5WaWI0TDlnY3BZbnQ4cHAxRQ?oc=5"
-summary: "The House Judiciary Committee grilled Attorney General Pam Bondi this week as pressure mounts over the growing list of powerful figures connected to Jeffrey Eps"
+title: House Judiciary Grills AG Over Growing Epstein Connections
+publishedAt: 2026-02-13T00:00:00.000Z
+source: NPR
+sourceUrl: >-
+  https://www.npr.org/2026/02/11/nx-s1-5707280/pam-bondi-oversight-hearing-department-of-justice
+summary: >-
+  The House Judiciary Committee grilled Attorney General Pam Bondi this week as
+  pressure mounts over the growing list of powerful figures connected to Jeffrey
+  Eps
+articleType: news
+status: published
 people:
   - jeffrey-epstein
   - leslie-wexner
@@ -11,14 +17,17 @@ people:
   - prince-andrew
   - donald-trump
 relatedArticles:
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - >-
+    2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - fbi-begins-epstein-records-review
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
-  - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
+  - >-
+    2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
+  - >-
+    2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
   - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
   - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
@@ -29,11 +38,9 @@ tags:
   - investigation
   - political
   - breaking
-status: published
 aiGenerated: true
 confidence: 0.85
 ---
-
 The House Judiciary Committee questioned Attorney General Pam Bondi this week as the roster of Jeffrey Epstein associates continues expanding—and as frustration grows over the Justice Department's handling of document releases.
 
 Details of the exchange remain undisclosed, but the hearing comes at a moment when the gap between the Epstein Transparency Act's promises and the DOJ's actual disclosures has become impossible to ignore.
