@@ -8,6 +8,7 @@ image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/bondipam_021126gn
 people:
   - pam-bondi
   - jeffrey-epstein
+  - donald-trump
 relatedArticles:
   - 2026-02-13-house-judiciary-grills-ag-over-growing-epstein-connections
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation

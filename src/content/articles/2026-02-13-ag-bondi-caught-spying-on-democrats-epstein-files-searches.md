@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - ro-khanna
   - sultan-ahmed-bin-sulayem
+  - donald-trump
 relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails

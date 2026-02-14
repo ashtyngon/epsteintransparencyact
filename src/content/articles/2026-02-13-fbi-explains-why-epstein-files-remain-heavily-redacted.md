@@ -9,6 +9,8 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - pam-bondi
+  - donald-trump
+  - thomas-massie
 relatedArticles:
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor

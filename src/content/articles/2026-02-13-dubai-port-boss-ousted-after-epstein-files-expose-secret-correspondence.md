@@ -8,6 +8,7 @@ people:
   - sultan-ahmed-bin-sulayem
   - jeffrey-epstein
   - pam-bondi
+  - thomas-massie
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-billionaire-ceo-resigns-after-epstein-connection-exposed

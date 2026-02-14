@@ -9,6 +9,7 @@ people:
   - leslie-wexner
   - pam-bondi
   - prince-andrew
+  - donald-trump
 relatedArticles:
   - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions

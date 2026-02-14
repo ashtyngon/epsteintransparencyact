@@ -7,6 +7,7 @@ summary: "A Republican senator who voted to block the release of unredacted Epst
 people:
   - jeffrey-epstein
   - leslie-wexner
+  - donald-trump
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties

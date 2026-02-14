@@ -9,6 +9,7 @@ people:
   - thorbjorn-jagland
   - pam-bondi
   - sultan-ahmed-bin-sulayem
+  - donald-trump
 relatedArticles:
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe

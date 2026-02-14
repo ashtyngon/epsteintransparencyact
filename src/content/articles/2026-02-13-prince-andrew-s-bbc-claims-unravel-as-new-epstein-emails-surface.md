@@ -8,6 +8,7 @@ people:
   - andrew-windsor
   - jeffrey-epstein
   - prince-andrew
+  - virginia-giuffre
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - fbi-begins-epstein-records-review

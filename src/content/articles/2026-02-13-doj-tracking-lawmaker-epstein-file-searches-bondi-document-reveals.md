@@ -8,6 +8,7 @@ people:
   - pam-bondi
   - jeffrey-epstein
   - leslie-wexner
+  - donald-trump
 relatedArticles:
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation

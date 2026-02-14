@@ -12,6 +12,8 @@ people:
   - pam-bondi
   - prince-andrew
   - ro-khanna
+  - donald-trump
+  - thomas-massie
 relatedArticles:
   - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
