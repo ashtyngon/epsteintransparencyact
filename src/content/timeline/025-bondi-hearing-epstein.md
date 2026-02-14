@@ -9,6 +9,7 @@ people:
   - pam-bondi
   - ghislaine-maxwell
   - jeffrey-epstein
+  - thomas-massie
 relatedEvents:
   - 017-maxwell-prison-transfer-fpc-bryan
   - 016-doj-first-file-release
@@ -23,22 +24,34 @@ sources:
     url: "https://abcnews.com/Politics/bondi-ghislaine-maxwell-die-prison/story?id=130077267"
 ---
 
-On February 11, 2026, Attorney General Pam Bondi testified before the House Judiciary Committee in one of the most contentious oversight hearings in recent memory. The Epstein files dominated the proceedings, with lawmakers from both parties pressing Bondi on multiple fronts.
+On February 11, 2026, Attorney General Pam Bondi testified before the House Judiciary Committee in one of the most contentious oversight hearings in recent memory. The Epstein files dominated the proceedings, with lawmakers from both parties pressing Bondi on the administration's record.
 
-## Key Exchanges
+## "You Have Not Held a Single Man Accountable"
 
-**Zero indictments**: Rep. Jerry Nadler noted that the number of Epstein co-conspirators Bondi had indicted was zero. Rep. Ted Lieu pointed out that despite over 1,000 known sex trafficking victims, "you have not held a single man accountable."
+Rep. Ted Lieu laid out the core failure: "There are over 1,000 sex trafficking victims in this case. You have been Attorney General for over a year. And in that time, you have not held a single man accountable. Not one."
 
-**Cover-up accusations**: Rep. Jamie Raskin accused Bondi of "running a massive Epstein cover-up right out of the Department of Justice." Even Rep. Thomas Massie — the Republican who co-authored the Transparency Act — accused the DOJ of over-redacting documents while simultaneously leaking survivor identities.
+Rep. Jerry Nadler was more specific: "How many Epstein co-conspirators have you indicted, Attorney General Bondi?" The answer was zero.
 
-**Maxwell transfer**: Bondi claimed she "learned after the fact" about Maxwell's transfer to the minimum-security prison camp and said she could not identify who ordered it. She told lawmakers that Maxwell "will hopefully die in prison."
+## "A Massive Cover-Up"
 
-**Survivors ignored**: Survivors present in the hearing room raised their hands to indicate that none had been invited to meet with Bondi or the DOJ. Bondi refused to apologize to survivors, calling requests to do so "theatrics."
+Rep. Jamie Raskin accused Bondi of "running a massive Epstein cover-up right out of the Department of Justice." He cited the pattern: heavily redacted document releases that obscured the names of powerful figures, combined with the leak of survivor identities — the exact opposite of what the law intended.
+
+Even Rep. Thomas Massie — the Republican who co-authored the Transparency Act — turned on the DOJ, accusing Bondi's department of "over-redacting documents while simultaneously leaking survivor identities. You're protecting the perpetrators and exposing the victims. That's the opposite of justice."
+
+## The Maxwell Transfer
+
+When pressed on Maxwell's transfer to the minimum-security prison camp in Texas, Bondi claimed she "learned after the fact" and could not say who ordered it. When asked if she would reverse the transfer, Bondi instead offered: "Ghislaine Maxwell will hopefully die in prison."
+
+Rep. Raskin responded: "That's not a policy. That's a wish. And it doesn't answer the question of who moved a convicted sex trafficker to a facility with no fences."
+
+## Survivors in the Room
+
+In one of the hearing's most striking moments, survivors present in the gallery raised their hands when asked if any had been invited to meet with the Attorney General or the DOJ. None had. When Democrats asked Bondi to apologize to the survivors for the leaked identities, she refused, calling the request "theatrics."
 
 ## The Bondi Paradox
 
-The hearing laid bare what critics called the "Bondi paradox" — as Florida Attorney General from 2011 to 2019, she had championed anti-trafficking efforts and declared Florida a "zero-tolerance state" while never pursuing the most prominent sex-trafficking case in Florida history, involving a convicted offender living openly in Palm Beach. Now, as U.S. Attorney General, she oversaw a process that released heavily redacted files, indicted no co-conspirators, and transferred the case's most prominent convicted participant to a minimum-security facility.
+The hearing crystallized what critics called the "Bondi paradox." As Florida Attorney General from 2011 to 2019, she championed anti-trafficking efforts and declared Florida a "zero-tolerance state" — while never pursuing the most prominent sex-trafficking case in Florida history, involving a convicted offender living openly in Palm Beach. As U.S. Attorney General, she oversaw a process that released heavily redacted files, indicted zero co-conspirators, moved the case's most prominent convicted participant to minimum security, and leaked the identities of the people the law was supposed to protect.
 
 ## Aftermath
 
-The hearing intensified calls for further oversight and raised questions about whether the DOJ was fully complying with the Epstein Files Transparency Act. Democrats promised subpoenas if they gained the House majority in the midterm elections. The DOJ maintained it had released 3.5 million pages of documents, but lawmakers including Khanna and Massie contended this represented, "at best, half the documents."
+The DOJ maintained it had released 3.5 million pages of documents. Lawmakers including Khanna and Massie contended this represented "at best, half the documents" and that critical intelligence and law enforcement files had been withheld entirely. Democrats promised subpoenas if they gained the House majority in the midterms.
