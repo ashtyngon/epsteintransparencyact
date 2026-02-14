@@ -14,7 +14,7 @@ people:
   - david-rubenstein
   - jeffrey-epstein
 relatedArticles:
-  - 2026-02-13-joe-rogan-addresses-name-in-epstein-files-release
+  - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
   - epstein-transparency-act-signed-into-law
 tags:
@@ -38,7 +38,7 @@ The files don't detail what Rubenstein and Epstein discussed or where they met. 
 
 ## Silence from the Elite
 
-Rubenstein's lack of response follows a familiar pattern among those named in Epstein documents. [Joe Rogan addressed his appearance](/articles/2026-02-13-joe-rogan-addresses-name-in-epstein-files-release) in the files, explaining the limited context of his contact. Most others have stayed quiet.
+Rubenstein's lack of response follows a familiar pattern among those named in Epstein documents. [Joe Rogan addressed his appearance](/articles/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me) in the files, explaining the limited context of his contact. Most others have stayed quiet.
 
 The documents continue to surface as journalists work through [millions of files](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) released following passage of [the Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law). Each new name raises the same question: What did they know about Epstein's criminal history, and why did they maintain contact with a convicted sex offender?
 

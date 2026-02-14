@@ -12,14 +12,13 @@ people:
   - leslie-wexner
   - pam-bondi
 relatedArticles:
-  - 2026-02-13-joe-rogan-addresses-name-in-epstein-files-release
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
 tags:
   - political
 status: published
@@ -28,18 +27,18 @@ articleType: news
 confidence: 0.85
 ---
 
-Joe Rogan said the Epstein files **"scare the s--- out of me"** and called them **"definitely not a hoax"** during his podcast this week—a blunt rejection of dismissive narratives that have circulated since the documents began surfacing.
+Joe Rogan said the Epstein files **"scare the s--- out of me"** and called them **"definitely not a hoax"** during his podcast this week.
 
 **"This is the one that I hate the most,"** Rogan told Black Rifle Coffee Company chair Evan Hafer, according to The Hill.
 
-The comments came days after [Rogan addressed his own name appearing in the files](/articles/2026-02-13-joe-rogan-addresses-name-in-epstein-files-release). His explicit use of "scare" is notable for a host who built his reputation on skepticism and who rarely sounds rattled by the subjects he covers.
+The comments came days after [Rogan addressed his own name appearing in the files](/articles/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me). Rogan hosts one of the most-listened-to podcasts in the world.
 
 ## Why It Matters
 
-Rogan's unvarnished reaction—broadcast to millions of listeners—validates what the documents have been revealing: a network of powerful people connected to a convicted sex trafficker, not a fringe conspiracy.
+Rogan's reaction—broadcast to millions of listeners—comes as documents continue to reveal a network of powerful people connected to a convicted sex trafficker.
 
-The files have already forced out executives at [Goldman Sachs](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) and [DP World](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). Congress has subpoenaed [billionaire Leslie Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe). A [congressman named six men on the House floor](/articles/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) whose identities remain officially redacted.
+The files have already forced out executives at [Goldman Sachs](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and [DP World](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). Congress has subpoenaed [billionaire Leslie Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe). A [congressman named six men on the House floor](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities remain officially redacted.
 
-Attorney General Pam Bondi continues facing pressure over [why so much remains hidden](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), even as the [DOJ tracks which lawmakers are searching the files](/articles/2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals).
+Attorney General Pam Bondi continues facing pressure over [why so much remains hidden](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), even as the [DOJ tracks which lawmakers are searching the files](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
 
-Rogan's fear may be the most honest public response yet to what's emerging: documented proof that systems meant to protect victims instead protected their abuser, and that powerful people are still working to keep the full story buried.
+Rogan's comments reflect growing public attention to the Epstein files and the ongoing debate over full document disclosure.

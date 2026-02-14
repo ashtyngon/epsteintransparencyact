@@ -13,7 +13,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
       params: { slug: `articles/${a.id}` },
       props: {
         title: a.data.title,
-        subtitle: a.data.summary,
         tag: a.data.source,
         date: a.data.publishedAt.toLocaleDateString('en-US', {
           year: 'numeric',
@@ -27,7 +26,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
       params: { slug: `people/${p.id}` },
       props: {
         title: p.data.name,
-        subtitle: p.data.shortBio,
         tag: p.data.category.replace(/-/g, ' ').toUpperCase(),
         date: undefined,
       },
@@ -37,7 +35,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
       params: { slug: `timeline/${t.id}` },
       props: {
         title: t.data.title,
-        subtitle: t.data.summary,
         tag: 'TIMELINE',
         date: t.data.date.toLocaleDateString('en-US', {
           year: 'numeric',
@@ -52,14 +49,13 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const GET: APIRoute = async ({ props }) => {
-  const { title, subtitle, tag, date } = props as {
+  const { title, tag, date } = props as {
     title: string;
-    subtitle: string;
     tag?: string;
     date?: string;
   };
 
-  const png = await generateOgImage({ title, subtitle, tag, date });
+  const png = await generateOgImage({ title, tag, date });
 
   return new Response(png, {
     headers: {

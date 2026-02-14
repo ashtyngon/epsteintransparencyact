@@ -7,6 +7,7 @@ import { GENERATE_PROMPT, FEATURE_PROMPT } from './config/prompt-templates.js';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
 const PROCESSED_PATH = join(__dirname, 'config', 'processed-urls.json');
+const TOPICS_PATH = join(__dirname, 'config', 'article-topics.json');
 const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
 
 interface FilterResult {
@@ -185,6 +186,30 @@ ${body}
 `;
 }
 
+function updateArticleTopics(newArticles: { slug: string; headline: string; people: string[]; tags: string[] }[]) {
+  let topics: any[] = [];
+  try {
+    if (existsSync(TOPICS_PATH)) {
+      topics = JSON.parse(readFileSync(TOPICS_PATH, 'utf-8'));
+    }
+  } catch { /* start fresh */ }
+
+  for (const article of newArticles) {
+    // Don't add duplicates
+    if (topics.some((t: any) => t.slug === article.slug)) continue;
+    topics.push({
+      slug: article.slug,
+      title: article.headline,
+      summary: '',
+      topic: article.headline,
+      people: article.people,
+      tags: article.tags,
+    });
+  }
+
+  writeFileSync(TOPICS_PATH, JSON.stringify(topics, null, 2));
+}
+
 async function main() {
   if (!existsSync(RELEVANT_PATH)) {
     console.log('No relevant articles file found. Run filter-articles.ts first.');
@@ -207,6 +232,8 @@ async function main() {
   console.log(`Generating ${relevant.length} articles with Claude Sonnet...\n`);
 
   let created = 0;
+  const newArticles: { slug: string; headline: string; people: string[]; tags: string[] }[] = [];
+
   for (const item of relevant) {
     const headline = item.filterResult.suggestedHeadline || item.title;
     const dateStr = formatDateForSlug(item.pubDate);
@@ -237,12 +264,27 @@ async function main() {
     console.log(`  CREATED: ${slug}`);
     created++;
 
+    // Track for dedup record
+    newArticles.push({
+      slug,
+      headline,
+      people: item.filterResult.mentionedPeople || [],
+      tags: item.filterResult.tags || [],
+    });
+
     // Track processed URL
     processed.processedUrls.push(item.link);
   }
 
   processed.lastRun = new Date().toISOString();
   writeFileSync(PROCESSED_PATH, JSON.stringify(processed, null, 2));
+
+  // Update dedup record with new articles
+  if (newArticles.length > 0) {
+    updateArticleTopics(newArticles);
+    console.log(`Updated article-topics.json with ${newArticles.length} new entries.`);
+  }
+
   console.log(`\nDone. Created ${created} articles.`);
 }
 

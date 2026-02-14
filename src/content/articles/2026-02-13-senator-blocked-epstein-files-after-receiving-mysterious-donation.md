@@ -12,10 +12,10 @@ relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
 tags:
@@ -45,20 +45,20 @@ Hawley's office did not respond to the outlet's requests for comment about the d
 
 ## The Obstruction Campaign
 
-Hawley has built a public brand as a crusader against elite corruption. His opposition to transparency in this case breaks with that image.
+Hawley has publicly positioned himself as an opponent of elite corruption. His vote against the transparency legislation has drawn scrutiny in light of that record.
 
 He joined four other Republicans in voting no: Senators Ted Cruz, Rand Paul, Mike Lee, and Tommy Tuberville. Their stated objections ranged from privacy concerns to states' rights arguments.
 
-Since the act became law, the Justice Department has been [accused of over-redacting released documents](/articles/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) and [monitoring which lawmakers access the files](/articles/2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals). [President Trump called for ending the investigation entirely](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) before reversing course under public pressure.
+Since the act became law, the Justice Department has been [accused of over-redacting released documents](/articles/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) and [monitoring which lawmakers access the files](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches). [President Trump called for ending the investigation entirely](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) before reversing course under public pressure.
 
 ## Follow the Money
 
-Dark money contributions are legal but deliberately opaque. Wealthy donors influence policy while avoiding public scrutiny—the exact arrangement that benefits individuals who prefer certain files stay sealed.
+Dark money contributions are legal but do not require public disclosure of donors. Campaign finance watchdogs have called for greater transparency in such donations.
 
 Americans for Prosperity Action spent over $80 million on the 2024 election cycle, providing similar five-figure donations to at least a dozen other senators. Most of them voted for transparency.
 
-Every week brings new revelations about powerful figures working to minimize their exposure. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. A [DP World CEO was forced out](/articles/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) over similar revelations. [College presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) scrambled to explain their connections.
+Every week brings new revelations about powerful figures working to minimize their exposure. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. A [DP World CEO was forced out](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) over similar revelations. [College presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) scrambled to explain their connections.
 
-The [New York Times is now conducting a massive investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of newly released files. More names will surface. More senators may face questions about who funded their campaigns—and what those donors expected in return.
+The [New York Times is now conducting a major investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of newly released files.
 
 Transparency advocates are calling on Hawley to return the donation and explain his vote.

@@ -7,6 +7,7 @@ import { FILTER_PROMPT } from './config/prompt-templates.js';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
+const TOPICS_PATH = join(__dirname, 'config', 'article-topics.json');
 
 // Max articles to publish per run — with hourly runs, 3 is plenty
 const MAX_ARTICLES_TO_PUBLISH = 3;
@@ -44,6 +45,26 @@ interface FeatureCandidate {
   topic: string;
   articles: RelevantArticle[];
   combinedScore: number;
+}
+
+interface ArticleTopic {
+  slug: string;
+  title: string;
+  topic: string;
+  people: string[];
+  tags: string[];
+}
+
+function loadExistingTopics(): string {
+  try {
+    if (!existsSync(TOPICS_PATH)) return '(No existing articles yet)';
+    const topics: ArticleTopic[] = JSON.parse(readFileSync(TOPICS_PATH, 'utf-8'));
+    return topics
+      .map((t) => `- "${t.title}" — ${t.topic}`)
+      .join('\n');
+  } catch {
+    return '(No existing articles yet)';
+  }
 }
 
 function calculateRankScore(filter: FilterResult, item: RSSItem): number {
@@ -108,13 +129,15 @@ function detectFeatureCandidates(articles: RelevantArticle[]): FeatureCandidate[
 
 async function filterArticle(
   client: Anthropic,
-  item: RSSItem
+  item: RSSItem,
+  existingTopics: string
 ): Promise<FilterResult | null> {
   const prompt = FILTER_PROMPT
     .replace('{title}', item.title)
     .replace('{description}', item.description)
     .replace('{source}', item.source)
-    .replace('{publishedAt}', item.pubDate);
+    .replace('{publishedAt}', item.pubDate)
+    .replace('{existingTopics}', existingTopics);
 
   try {
     const controller = new AbortController();
@@ -157,13 +180,14 @@ async function main() {
 
   const client = new Anthropic();
   const scored: RelevantArticle[] = [];
+  const existingTopics = loadExistingTopics();
 
   console.log(`Filtering ${candidates.length} candidates with Claude Haiku...\n`);
 
   for (const item of candidates) {
-    const result = await filterArticle(client, item);
+    const result = await filterArticle(client, item, existingTopics);
 
-    if (!result || !result.relevant || result.confidence < 0.7) {
+    if (!result || !result.relevant || result.confidence < 0.7 || (result as any).isDuplicate) {
       const conf = result?.confidence ?? 'N/A';
       console.log(`  SKIP (conf=${conf}): ${item.title.slice(0, 70)}`);
       continue;

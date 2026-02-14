@@ -14,11 +14,7 @@ people:
   - leslie-wexner
   - jeffrey-epstein
 relatedArticles:
-  - >-
-  - fbi-begins-epstein-records-review
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
-    2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - fbi-begins-epstein-records-review
   - epstein-transparency-act-signed-into-law
 tags:
@@ -35,7 +31,7 @@ The location change represents a notable concession for a congressional investig
 
 ## Why Wexner Faces Scrutiny
 
-The retail magnate's relationship with Epstein has drawn intense congressional attention since [a House Oversight Committee member publicly labeled him a "co-conspirator"](/articles/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) in Epstein's sex trafficking operation earlier this month.
+The retail magnate's relationship with Epstein has drawn intense congressional attention since [a House Oversight Committee member publicly labeled him a "co-conspirator"](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) in Epstein's sex trafficking operation earlier this month.
 
 Wexner gave Epstein power of attorney over his finances and transferred ownership of a Manhattan mansion that became a hub for abuse. The billionaire founder of Victoria's Secret and L Brands claims Epstein manipulated him and that he severed ties in 2007. But the depth of his knowledge about Epstein's crimes remains unclear.
 

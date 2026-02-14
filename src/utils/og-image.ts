@@ -9,19 +9,25 @@ const fontsDir = join(process.cwd(), 'src/fonts');
 const interBold = readFileSync(join(fontsDir, 'inter-bold.ttf'));
 const notoSerifBold = readFileSync(join(fontsDir, 'noto-serif-bold.ttf'));
 
+function shortenHeadline(title: string): string {
+  if (title.length <= 80) return title;
+  // Try to cut at a natural break point
+  const shortened = title.substring(0, 77);
+  const lastSpace = shortened.lastIndexOf(' ');
+  if (lastSpace > 50) return shortened.substring(0, lastSpace) + '...';
+  return shortened + '...';
+}
+
 export async function generateOgImage(options: {
   title: string;
   subtitle?: string;
   tag?: string;
   date?: string;
 }): Promise<Buffer> {
-  const { title, subtitle, tag, date } = options;
+  const { title, tag, date } = options;
 
-  const displayTitle = title.length > 120 ? title.substring(0, 117) + '...' : title;
-  const displaySubtitle = subtitle
-    ? subtitle.length > 160 ? subtitle.substring(0, 157) + '...' : subtitle
-    : null;
-  const fontSize = displayTitle.length > 80 ? 42 : displayTitle.length > 50 ? 48 : 56;
+  const displayTitle = shortenHeadline(title);
+  const fontSize = displayTitle.length > 60 ? 52 : displayTitle.length > 40 ? 58 : 66;
 
   // Build top label text
   const topLabel = [tag, date].filter(Boolean).join('  |  ');
@@ -86,14 +92,13 @@ export async function generateOgImage(options: {
               : ' ',
           },
         },
-        // Middle: title + subtitle
+        // Middle: title only (no subtitle for cleaner OG cards)
         {
           type: 'div',
           props: {
             style: {
               display: 'flex',
               flexDirection: 'column',
-              gap: '16px',
               flex: '1',
               justifyContent: 'center',
             },
@@ -105,26 +110,13 @@ export async function generateOgImage(options: {
                     fontSize: `${fontSize}px`,
                     fontWeight: 700,
                     color: 'white',
-                    lineHeight: 1.15,
+                    lineHeight: 1.2,
                     letterSpacing: '-0.02em',
                     display: 'flex',
                   },
                   children: displayTitle,
                 },
               },
-              ...(displaySubtitle ? [{
-                type: 'div',
-                props: {
-                  style: {
-                    fontSize: '22px',
-                    color: 'rgba(255,255,255,0.5)',
-                    lineHeight: 1.4,
-                    fontWeight: 400,
-                    display: 'flex',
-                  },
-                  children: displaySubtitle,
-                },
-              }] : []),
             ],
           },
         },

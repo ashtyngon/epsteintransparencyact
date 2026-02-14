@@ -19,23 +19,13 @@ people:
   - thomas-massie
 relatedArticles:
   - >-
-  - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
-  - 2026-02-13-billionaire-ceo-resigns-after-epstein-connection-exposed
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
-  - 2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
     2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor
-  - >-
-    2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails
-  - 2026-02-13-billionaire-ceo-resigns-after-epstein-connection-exposed
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - epstein-transparency-act-signed-into-law
-  - >-
-    2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals
+  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
   - fbi
@@ -47,15 +37,15 @@ confidence: 0.95
 ---
 The FBI has begun explaining why it redacted vast portions of the Epstein files, Bloomberg reported Friday. The bureau cites three justifications: protecting ongoing investigations, shielding intelligence sources and methods, and preventing harm to individuals not charged with crimes.
 
-None of those explanations satisfy transparency advocates or lawmakers demanding to know who the FBI is protecting—and why, more than six years after Epstein's death and two years after Ghislaine Maxwell's conviction, so many names remain hidden.
+Transparency advocates and lawmakers have criticized these justifications, noting that more than six years after Epstein's death and two years after Ghislaine Maxwell's conviction, many names remain hidden.
 
 ## Blanket Justifications Under Fire
 
 The FBI's explanations arrive more than a week after [Attorney General Pam Bondi faced aggressive questioning](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) from the House Judiciary Committee. Members from both parties accused the DOJ of running a cover-up operation for powerful figures linked to Epstein's sex trafficking network.
 
-The timing tracks. After [Rep. Thomas Massie named six individuals on the House floor](/articles/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) whose identities had been redacted—including billionaire Les Wexner, whom he labeled a co-conspirator—pressure on federal agencies became impossible to ignore.
+The FBI's response followed [Rep. Thomas Massie naming six individuals on the House floor](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities had been redacted—including billionaire Les Wexner, whom he labeled a co-conspirator—which intensified pressure on federal agencies.
 
-Massie's disclosure triggered immediate corporate fallout. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) after emails surfaced. [Multiple CEOs stepped down](/articles/2026-02-13-billionaire-ceo-resigns-after-epstein-connection-exposed). [Academic leaders faced calls to resign](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).
+Massie's disclosure triggered immediate corporate fallout. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. [Multiple CEOs stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). [Academic leaders faced calls to resign](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).
 
 ## The Intelligence Shield
 
@@ -63,24 +53,24 @@ The FBI's claim that it must protect "intelligence sources and methods" has draw
 
 Congressional investigators want to know which intelligence agencies knew what, and when. The FBI's blanket redactions make answering that question impossible.
 
-The "ongoing investigation" rationale is equally suspect. Epstein died in August 2019. Maxwell was sentenced in June 2022. What active investigations could justify hiding the names of individuals who communicated with a convicted sex trafficker?
+The "ongoing investigation" rationale has drawn scrutiny given that Epstein died in August 2019 and Maxwell was sentenced in June 2022. Critics have asked what active investigations require hiding the names of individuals who communicated with a convicted sex trafficker.
 
-The third category—protecting people not charged with crimes—invites the obvious question: protecting them from what? Embarrassment? Public scrutiny? Or accountability for their association with a criminal enterprise?
+The third category—protecting people not charged with crimes—raises the question of what specifically those individuals are being protected from, and whether privacy interests outweigh the public interest in disclosure.
 
 ## A Law Without Enforcement
 
-The [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law) mandated the release of documents related to the case. But mandates mean nothing without enforcement, and the FBI's explanations appear designed to satisfy legal requirements while delivering zero transparency.
+The [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law) mandated the release of documents related to the case. But the released documents remain heavily redacted, and critics say the FBI's explanations satisfy legal requirements without providing substantive transparency.
 
-Documents previously obtained by this outlet revealed that the [DOJ has been tracking which lawmakers search the Epstein files](/articles/2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals), raising questions about whether the bureau is monitoring who gets too close to sensitive names.
+Documents previously obtained by this outlet revealed that the [DOJ has been tracking which lawmakers search the Epstein files](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
 
 Congress has the authority to demand unredacted files through its oversight powers. Whether Republican leadership will exercise that authority—particularly after [President Trump called for ending the Epstein investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) entirely—remains uncertain.
 
 ## Who Gets Protected?
 
-The redaction fight exposes a fundamental tension: the government's impulse to shield powerful people from embarrassment versus the public's right to know who participated in a sprawling sex trafficking conspiracy.
+The redaction fight reflects a tension between the government's stated interest in protecting privacy and ongoing investigations, and the public's interest in knowing who was connected to a sex trafficking conspiracy.
 
 Bloomberg's reporting does not specify which individuals the FBI seeks to protect, whether any redacted names belong to foreign nationals or intelligence assets, or how the bureau distinguishes between legitimate security concerns and political convenience.
 
-The question is not complicated: Are these redactions protecting national security, or protecting powerful people from accountability?
+Lawmakers and advocacy groups continue to press for clarity on whether redactions serve legitimate security purposes or shield individuals from public accountability.
 
-The FBI has provided its reasons. It has not provided a compelling answer.
+The FBI has provided its reasons. Congressional investigators say the justifications lack specificity.

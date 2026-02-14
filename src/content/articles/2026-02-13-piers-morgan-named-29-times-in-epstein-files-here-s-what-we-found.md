@@ -8,7 +8,7 @@ people:
   - piers-morgan
   - jeffrey-epstein
 relatedArticles:
-  - 2026-02-13-joe-rogan-addresses-name-in-epstein-files-release
+  - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
 tags:
   - document-release
   - associates
@@ -24,22 +24,22 @@ The tally contradicts Morgan's public posture on the files. BuzzFeed's analysis 
 
 ## Morgan's Response
 
-Morgan has built a career interrogating public figures who dodge uncomfortable questions. His response to his own name appearing nearly three dozen times in Epstein-related documents has been to simply reject the premise.
+Morgan has built a career interrogating public figures on television. His response to his own name appearing nearly three dozen times in Epstein-related documents has been to dispute the reports.
 
-BuzzFeed titled its investigation "Piers Morgan Wouldn't Accept His Name Is In The Epstein Files," signaling that Morgan's denial contradicts the documentary record. The outlet published a detailed breakdown of all 29 mentions.
+BuzzFeed titled its investigation "Piers Morgan Wouldn't Accept His Name Is In The Epstein Files." The outlet published a detailed breakdown of all 29 mentions.
 
 ## A Pattern Across Media Figures
 
-Morgan isn't the only media personality grappling with appearances in the files. [Joe Rogan recently addressed his own name surfacing in the documents](/articles/2026-02-13-joe-rogan-addresses-name-in-epstein-files-release), taking a different approach by acknowledging the mention and providing context.
+Morgan isn't the only media personality grappling with appearances in the files. [Joe Rogan recently addressed his own name surfacing in the documents](/articles/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me), taking a different approach by acknowledging the mention and providing context.
 
-The contrast highlights how public figures are choosing divergent strategies when confronted with their documented proximity to Epstein's network. Some explain. Others deny. Morgan has chosen denial.
+The two responses illustrate different approaches by public figures confronted with their documented proximity to Epstein's network. Rogan acknowledged the mention and provided context. Morgan has disputed the reports.
 
 ## What 29 Mentions Mean
 
 Being named in the files doesn't itself prove wrongdoing. Epstein's operation kept extensive records of contacts, communications, and social connections across media, finance, politics, and academia. 
 
-But 29 mentions isn't incidental contact. That frequency suggests repeated interactions or sustained presence within networks Epstein maintained and documented.
+Twenty-nine mentions across the documents indicate multiple points of contact within the networks Epstein maintained and documented.
 
-The Epstein Transparency Act has made millions of pages public specifically so that the extent of these networks can be examined. Morgan spent years demanding transparency from others. These 29 documented mentions are now his transparency test.
+The Epstein Transparency Act has made millions of pages public specifically so that the extent of these networks can be examined.
 
-BuzzFeed has published the breakdown. The documents are public. Morgan's refusal to accept what the files show doesn't make the mentions disappear.
+BuzzFeed has published the full breakdown. The documents are public. Morgan continues to dispute the reports.
