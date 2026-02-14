@@ -9,8 +9,8 @@ people:
   - jeffrey-epstein
 order: 2
 sources:
-  - title: "Timeline — Reuters"
-    url: "https://reuters.com/legal/epstein-timeline"
+  - title: "A Timeline of the Jeffrey Epstein Investigation — PBS"
+    url: "https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public"
 ---
 
 The Palm Beach Police Department opens an investigation into Jeffrey Epstein after a parent reports that her 14-year-old daughter was sexually abused at Epstein's Palm Beach mansion. The investigation would eventually expand and be referred to the FBI.

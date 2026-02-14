@@ -9,8 +9,8 @@ people:
   - jeffrey-epstein
 order: 1
 sources:
-  - title: "Background — AP"
-    url: "https://apnews.com/hub/jeffrey-epstein"
+  - title: "Jeffrey Epstein: International Moneyman of Mystery — New York Magazine"
+    url: "https://nymag.com/nymetro/news/people/n_7912/"
 ---
 
 Jeffrey Epstein begins his career in finance at Bear Stearns, where he works as an options trader. He would later leave to establish his own financial management firm, J. Epstein & Co., managing money for high-net-worth clients.

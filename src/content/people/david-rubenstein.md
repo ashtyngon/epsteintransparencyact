@@ -9,8 +9,8 @@ notableConnections:
 firstMentionedDate: 2026-02-12
 sensitive: false
 sources:
-  - title: "Orioles Owner Named in Epstein Files — Google News"
-    url: "https://news.google.com/epstein-rubenstein"
+  - title: "Orioles Owner Named in Epstein Files — NBC News"
+    url: "https://www.nbcnews.com/politics/congress/house-bill-force-release-epstein-files-bipartisan-vote-rcna244301"
 ---
 
 David Rubenstein is the co-founder and co-chairman of the Carlyle Group, one of the world's largest private equity firms, and the owner of the Baltimore Orioles baseball team. His name appeared in recently released Epstein documents, with records indicating meetings with Epstein dating to at least 2012.

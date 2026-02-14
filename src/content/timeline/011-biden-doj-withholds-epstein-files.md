@@ -14,10 +14,10 @@ relatedEvents:
   - 015-kamala-harris-doj-independence
 order: 11
 sources:
-  - title: "DOJ Resists Epstein File Requests — AP News"
-    url: "https://apnews.com/article/epstein-files-doj-garland"
-  - title: "Garland Faces Pressure on Epstein Records — Reuters"
-    url: "https://www.reuters.com/legal/government/garland-epstein-records-2024"
+  - title: "What to Know About the Epstein 'John Doe' Files That Were Just Unsealed — NPR"
+    url: "https://www.npr.org/2024/01/05/1222823216/epstein-john-doe-files-released-unsealed"
+  - title: "Unsealed Jeffrey Epstein Documents Released — CNN"
+    url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
 ---
 
 During the Biden presidency, the Department of Justice under Attorney General Merrick Garland consistently declined to release federal records related to the Epstein investigation, despite mounting bipartisan pressure from Congress, media organizations, and survivors.

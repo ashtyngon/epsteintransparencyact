@@ -11,8 +11,8 @@ notableConnections:
 firstMentionedDate: 2019-07-08
 sensitive: false
 sources:
-  - title: "Ghislaine Maxwell — AP Overview"
-    url: "https://apnews.com/hub/ghislaine-maxwell"
+  - title: "Epstein's Former Pilot Testifies Clinton, Trump, Prince Andrew Flew on Plane — CNN"
+    url: "https://www.cnn.com/2021/11/30/us/ghislaine-maxwell-pilot/index.html"
 ---
 
 Ghislaine Maxwell is a British socialite and convicted sex offender. In December 2021, she was found guilty of five of six counts related to her role in recruiting and grooming minors for Jeffrey Epstein.

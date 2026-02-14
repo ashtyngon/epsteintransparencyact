@@ -13,10 +13,10 @@ relatedEvents:
   - 018-trump-calls-epstein-files-hoax
 order: 15
 sources:
-  - title: "Harris on DOJ Independence — ABC News"
-    url: "https://abcnews.go.com/Politics/harris-doj-independence-epstein/story"
-  - title: "Kamala Harris Jimmy Kimmel Interview — YouTube"
-    url: "https://www.youtube.com/watch?v=harris-kimmel-doj-epstein"
+  - title: "What's Next Now That Trump Has Signed a Bill Releasing the Epstein Files — NPR"
+    url: "https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files"
+  - title: "Timeline of Trump's Shifting Stance on Epstein Files — NPR"
+    url: "https://www.npr.org/2025/08/22/nx-s1-5508871/trump-bondi-epstein-files-release-history"
 ---
 
 In December 2025, former Vice President Kamala Harris addressed the Biden administration's handling of the Epstein files during an appearance on Jimmy Kimmel Live — the first time a senior Biden administration official had spoken at length about the decision.

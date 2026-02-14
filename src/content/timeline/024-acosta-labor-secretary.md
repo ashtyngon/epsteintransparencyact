@@ -16,8 +16,8 @@ relatedEvents:
   - 008-miami-herald-perversion-of-justice
 order: 24
 sources:
-  - title: "Acosta Resigns Over Epstein Plea Deal — AP News"
-    url: "https://apnews.com/article/alexander-acosta-resigns-epstein-plea-deal"
+  - title: "Acosta Resigns Amid Epstein Controversy — NPR"
+    url: "https://www.npr.org/2019/07/12/739881163/alexander-acosta-steps-down-as-labor-secretary-amid-epstein-controversy"
   - title: "Trump Announces Acosta Resignation — Reuters"
     url: "https://www.reuters.com/article/us-people-jeffrey-epstein-acosta-idUSKCN1UE1V3"
 ---

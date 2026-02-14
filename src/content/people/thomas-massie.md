@@ -8,8 +8,8 @@ notableConnections:
 sources:
   - title: "Rep. Thomas Massie Official Site"
     url: "https://massie.house.gov"
-  - title: "Massie Files Discharge Petition — The Hill"
-    url: "https://thehill.com/homenews/house/massie-discharge-petition-epstein"
+  - title: "Massie-Khanna Epstein Files Transparency Act Passes House — Massie.house.gov"
+    url: "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395780"
 sensitive: false
 ---
 

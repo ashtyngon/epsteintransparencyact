@@ -12,8 +12,8 @@ notableConnections:
 firstMentionedDate: 2015-01-01
 sensitive: false
 sources:
-  - title: "Prince Andrew's BBC Claims Unravel — BBC News"
-    url: "https://www.bbc.com/news/uk-68000000"
+  - title: "Prince Andrew Interview on Ties to Epstein Widely Panned — NBC News"
+    url: "https://www.nbcnews.com/news/world/prince-andrew-interview-ties-epstein-widely-panned-n1084721"
 ---
 
 Prince Andrew, Duke of York, has been connected to Jeffrey Epstein since the early 2000s. His 2019 BBC Newsnight interview with Emily Maitlis, in which he denied a close relationship with Epstein and offered widely-questioned explanations, became one of the most scrutinized royal public appearances in modern history.

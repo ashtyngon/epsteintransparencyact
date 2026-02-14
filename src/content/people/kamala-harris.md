@@ -5,10 +5,10 @@ category: "official"
 shortBio: "Former Vice President who, in a post-election interview, explained the Biden administration's position on DOJ independence regarding the Epstein files — articulating the constitutional principle that the President should not direct prosecutorial decisions."
 notableConnections: []
 sources:
-  - title: "Harris on DOJ Independence — ABC News"
-    url: "https://abcnews.go.com/Politics/harris-doj-independence-epstein/story"
-  - title: "Kamala Harris on Epstein Files — Reuters"
-    url: "https://www.reuters.com/world/us/harris-epstein-files-doj-independence"
+  - title: "What's Next Now That Trump Has Signed a Bill Releasing the Epstein Files — NPR"
+    url: "https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files"
+  - title: "Timeline of Trump's Shifting Stance on Epstein Files — NPR"
+    url: "https://www.npr.org/2025/08/22/nx-s1-5508871/trump-bondi-epstein-files-release-history"
 sensitive: false
 ---
 

@@ -11,8 +11,8 @@ notableConnections:
 firstMentionedDate: 2005-03-14
 sensitive: false
 sources:
-  - title: "Jeffrey Epstein — AP Overview"
-    url: "https://apnews.com/hub/jeffrey-epstein"
+  - title: "Jeffrey Epstein: International Moneyman of Mystery — New York Magazine"
+    url: "https://nymag.com/nymetro/news/people/n_7912/"
 ---
 
 Jeffrey Edward Epstein was an American financier who was convicted of sex trafficking and related offenses. He was found dead in his jail cell at the Metropolitan Correctional Center in New York City on August 10, 2019, while awaiting trial on federal sex trafficking charges.

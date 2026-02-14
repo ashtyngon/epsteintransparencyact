@@ -11,8 +11,8 @@ firstMentionedDate: 2019-08-01
 sources:
   - title: "Brunel Found Dead in Jail — BBC"
     url: "https://www.bbc.com/news/world-europe-60359655"
-  - title: "Brunel and Epstein's Modeling Connection — AP News"
-    url: "https://apnews.com/article/jean-luc-brunel-epstein-modeling"
+  - title: "Epstein Associate Jean-Luc Brunel Found Dead in French Jail — NPR"
+    url: "https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead"
 sensitive: true
 ---
 

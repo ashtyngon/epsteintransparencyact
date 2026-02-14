@@ -13,10 +13,10 @@ notableConnections:
   - alan-dershowitz
 firstMentionedDate: 2014-01-01
 sources:
-  - title: "Virginia Giuffre's Fight for Justice — AP News"
-    url: "https://apnews.com/article/virginia-giuffre-epstein-maxwell"
-  - title: "Giuffre v. Maxwell — Reuters"
-    url: "https://www.reuters.com/legal/giuffre-maxwell-documents"
+  - title: "Virginia Giuffre, Epstein Accuser, Has Died — NPR"
+    url: "https://www.npr.org/2025/04/26/g-s1-62856/virginia-giuffre-has-died"
+  - title: "Unsealed Jeffrey Epstein Documents Released — CNN"
+    url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
 sensitive: true
 ---
 

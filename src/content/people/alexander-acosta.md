@@ -11,8 +11,8 @@ firstMentionedDate: 2007-06-30
 sources:
   - title: "The Epstein Plea Deal — Miami Herald"
     url: "https://www.miamiherald.com/news/local/article220097825.html"
-  - title: "Acosta Resigns — AP News"
-    url: "https://apnews.com/article/alexander-acosta-resigns-epstein-plea-deal"
+  - title: "Acosta Resigns Amid Epstein Controversy — NPR"
+    url: "https://www.npr.org/2019/07/12/739881163/alexander-acosta-steps-down-as-labor-secretary-amid-epstein-controversy"
 sensitive: false
 ---
 

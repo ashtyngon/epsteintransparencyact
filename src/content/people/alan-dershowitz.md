@@ -10,10 +10,10 @@ notableConnections:
   - ghislaine-maxwell
 firstMentionedDate: 2005-01-01
 sources:
-  - title: "Dershowitz and the Epstein Case — New Yorker"
+  - title: "Alan Dershowitz, Devil's Advocate — New Yorker"
     url: "https://www.newyorker.com/magazine/2019/08/05/alan-dershowitz-devils-advocate"
-  - title: "Giuffre v. Dershowitz — Reuters"
-    url: "https://www.reuters.com/legal/dershowitz-giuffre-epstein"
+  - title: "Unsealed Jeffrey Epstein Documents Released — CNN"
+    url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
 sensitive: true
 ---
 

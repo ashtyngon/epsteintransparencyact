@@ -13,10 +13,10 @@ relatedEvents:
   - 007-transparency-act
 order: 14
 sources:
-  - title: "Discharge Petition Reaches 218 — AP News"
-    url: "https://apnews.com/article/epstein-transparency-discharge-petition-218"
-  - title: "Bipartisan Push Forces Epstein Vote — New York Times"
-    url: "https://www.nytimes.com/2025/11/12/us/politics/epstein-transparency-act-discharge-petition.html"
+  - title: "The Release of the Epstein Files Moves Forward as Grijalva Is Sworn In — The 19th"
+    url: "https://19thnews.org/2025/11/epstein-files-discharge-petition/"
+  - title: "Massie-Led Petition Gets Final Signature, Queuing Up Floor Vote — Louisville Public Media"
+    url: "https://www.lpm.org/news/2025-11-13/thomas-massie-led-petition-on-epstein-files-gets-final-signature-queuing-up-floor-vote"
 ---
 
 On November 12, 2025, the discharge petition for the Epstein Transparency Act reached the required 218 signatures, guaranteeing that the bill would receive a full vote on the House floor. The pivotal 218th signature came from Rep. Adelita Grijalva (D-AZ), a freshman Democrat representing Arizona's 7th congressional district.

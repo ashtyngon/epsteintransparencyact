@@ -13,8 +13,8 @@ relatedEvents:
   - 006-maxwell-conviction
 order: 9
 sources:
-  - title: "Ghislaine Maxwell Arrested — AP News"
-    url: "https://apnews.com/article/ghislaine-maxwell-arrested"
+  - title: "Court Documents Reveal Names of Men Linked to Epstein — NPR"
+    url: "https://www.npr.org/2024/01/03/1222130537/jeffrey-epstein-court-records-reveal-men-clinton-prince-andrew"
   - title: "Maxwell Charged with Epstein Conspiracy — Reuters"
     url: "https://www.reuters.com/article/us-people-ghislaine-maxwell-idUSKBN2430TJ"
 ---
