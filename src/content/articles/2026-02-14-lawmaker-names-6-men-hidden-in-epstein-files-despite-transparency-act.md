@@ -40,6 +40,7 @@ relatedArticles:
   - court-releases-new-batch-of-documents
   - 2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
 tags:
   - transparency-act
   - court-documents
