@@ -169,7 +169,7 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
   return `---
 title: "${headline.replace(/"/g, '\\"')}"
 publishedAt: "${fullDate}"
-source: "${item.source}"
+source: "${/google/i.test(item.source) ? 'Unknown Source' : item.source}"
 sourceUrl: "${item.link}"
 summary: "${summary}"${imageLine}
 people:

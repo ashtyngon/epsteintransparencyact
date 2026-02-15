@@ -96,9 +96,10 @@ async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]>
         // For Google News aggregator, extract actual publisher name
         let sourceName = feed.name;
         if (feed.category === 'aggregator') {
-          // rss-parser may expose <source> element
-          const rssSource = item.source?.name || item.source;
-          if (rssSource && typeof rssSource === 'string') {
+          // rss-parser exposes <source> as string or object with _ / name / $ properties
+          const rssSource = typeof item.source === 'string' ? item.source
+            : (item.source?._ || item.source?.name || item.source?.$?.text || null);
+          if (rssSource && typeof rssSource === 'string' && rssSource.length > 1) {
             sourceName = rssSource;
           } else {
             // Google News titles: "Article Title - Publisher Name"
@@ -106,6 +107,11 @@ async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]>
             if (titleParts.length > 1) {
               sourceName = titleParts[titleParts.length - 1].trim();
             }
+          }
+          // HARD FAILSAFE: never output "Google News" or "Google" as source
+          if (/google/i.test(sourceName)) {
+            const parts = (item.title || '').split(' - ');
+            sourceName = parts.length > 1 ? parts[parts.length - 1].trim() : 'Unknown Source';
           }
         }
 
