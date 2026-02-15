@@ -9,6 +9,9 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - pam-bondi
+  - ghislaine-maxwell
+  - kathryn-ruemmler
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release

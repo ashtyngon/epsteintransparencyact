@@ -9,6 +9,8 @@ people:
   - ghislaine-maxwell
   - jeffrey-epstein
   - leslie-wexner
+  - kathryn-ruemmler
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - epstein-transparency-act-signed-into-law

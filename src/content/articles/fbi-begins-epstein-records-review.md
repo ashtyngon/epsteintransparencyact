@@ -6,6 +6,7 @@ sourceUrl: "https://reuters.com/legal/epstein-records-fbi-review"
 summary: "The FBI initiates its review process for Epstein-related records as mandated by the Epstein Transparency Act, signed into law on November 19, 2025."
 people:
   - jeffrey-epstein
+  - alexander-acosta
 tags:
   - transparency-act
   - fbi

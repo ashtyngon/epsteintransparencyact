@@ -8,6 +8,8 @@ people:
   - les-wexner
   - jeffrey-epstein
   - leslie-wexner
+  - ghislaine-maxwell
+  - ro-khanna
 relatedArticles:
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation

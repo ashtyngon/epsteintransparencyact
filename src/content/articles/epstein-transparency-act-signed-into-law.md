@@ -10,7 +10,10 @@ articleType: news
 status: published
 people:
   - jeffrey-epstein
-relatedArticles: []
+  - ro-khanna
+  - thomas-massie
+relatedArticles:
+  []
 tags:
   - transparency-act
   - legislation

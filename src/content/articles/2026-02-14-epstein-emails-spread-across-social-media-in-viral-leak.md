@@ -8,6 +8,9 @@ people:
   - jeffrey-epstein
   - ghislaine-maxwell
   - pam-bondi
+  - alexander-acosta
+  - kathryn-ruemmler
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files

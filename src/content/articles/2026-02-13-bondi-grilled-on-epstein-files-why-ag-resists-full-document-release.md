@@ -9,6 +9,8 @@ people:
   - pam-bondi
   - jeffrey-epstein
   - donald-trump
+  - kathryn-ruemmler
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

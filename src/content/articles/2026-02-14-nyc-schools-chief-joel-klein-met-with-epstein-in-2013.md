@@ -7,6 +7,8 @@ summary: "Joel Klein, who served as chancellor of New York City's public school 
 people:
   - joel-klein
   - jeffrey-epstein
+  - bill-clinton
+  - kathryn-ruemmler
 relatedArticles:
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

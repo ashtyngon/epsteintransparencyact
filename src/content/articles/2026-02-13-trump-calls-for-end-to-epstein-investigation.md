@@ -7,6 +7,10 @@ summary: "Trump Says U.S. Should Move On From Epstein Investigation in CBS Inter
 people:
   - donald-trump
   - jeffrey-epstein
+  - alan-dershowitz
+  - alexander-acosta
+  - ghislaine-maxwell
+  - pam-bondi
 tags:
   - political
   - investigation

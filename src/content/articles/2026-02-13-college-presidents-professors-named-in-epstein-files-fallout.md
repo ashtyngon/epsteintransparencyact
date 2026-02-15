@@ -6,6 +6,7 @@ sourceUrl: "https://thehill.com/homenews/education/5736016-epstein-files-ohio-st
 summary: "At least three university presidents and multiple professors have been identified in recent Epstein document releases, forcing academic institutions from state "
 people:
   - jeffrey-epstein
+  - leslie-wexner
 relatedArticles:
   - court-releases-new-batch-of-documents
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

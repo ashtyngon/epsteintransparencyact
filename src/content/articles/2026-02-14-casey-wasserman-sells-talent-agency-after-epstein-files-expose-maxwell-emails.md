@@ -8,6 +8,8 @@ people:
   - casey-wasserman
   - ghislaine-maxwell
   - jeffrey-epstein
+  - kathryn-ruemmler
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties

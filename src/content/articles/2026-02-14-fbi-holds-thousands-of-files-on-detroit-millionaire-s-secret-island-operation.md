@@ -6,6 +6,7 @@ sourceUrl: "https://www.independent.co.uk/news/world/americas/crime/north-fox-is
 summary: "FBI Holds Thousands of Documents on Detroit Millionaire's Island Operation Decades Before Epstein Francis Shelden, a Detroit-area millionaire, operated a privat"
 people:
   - jeffrey-epstein
+  - ghislaine-maxwell
 tags:
   - investigation
   - fbi

@@ -6,6 +6,8 @@ sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGh3anRCUjFvRGN
 summary: "Three prominent Indians appear in documents released under the Epstein Transparency Act, according to reporting by The News Minute: Subrata Roy, founder of the "
 people:
   - jeffrey-epstein
+  - ghislaine-maxwell
+  - sultan-ahmed-bin-sulayem
 relatedArticles:
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
   - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties

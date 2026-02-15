@@ -7,6 +7,8 @@ summary: "The Paris prosecutor's office announced Saturday it has formed a dedic
 people:
   - jeffrey-epstein
   - jean-luc-brunel
+  - sultan-ahmed-bin-sulayem
+  - virginia-giuffre
 relatedArticles:
   - epstein-transparency-act-signed-into-law
 tags:

@@ -11,6 +11,9 @@ people:
   - pam-bondi
   - ro-khanna
   - thomas-massie
+  - alan-dershowitz
+  - alexander-acosta
+  - kathryn-ruemmler
 relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release

@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - pam-bondi
+  - kathryn-ruemmler
 relatedArticles:
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation

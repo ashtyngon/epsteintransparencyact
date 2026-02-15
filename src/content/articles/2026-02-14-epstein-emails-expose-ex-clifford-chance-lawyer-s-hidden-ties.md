@@ -13,6 +13,10 @@ people:
   - ro-khanna
   - sultan-ahmed-bin-sulayem
   - thomas-massie
+  - alan-dershowitz
+  - alexander-acosta
+  - kathryn-ruemmler
+  - virginia-giuffre
 relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act

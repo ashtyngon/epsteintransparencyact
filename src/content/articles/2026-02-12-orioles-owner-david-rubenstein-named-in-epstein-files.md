@@ -13,6 +13,7 @@ status: published
 people:
   - david-rubenstein
   - jeffrey-epstein
+  - alexander-acosta
 relatedArticles:
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files

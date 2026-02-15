@@ -9,6 +9,7 @@ people:
   - ghislaine-maxwell
   - jeffrey-epstein
   - sultan-ahmed-bin-sulayem
+  - kathryn-ruemmler
 relatedArticles:
   - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

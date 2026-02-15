@@ -10,6 +10,7 @@ people:
   - larry-summers
   - steve-bannon
   - donald-trump
+  - kathryn-ruemmler
 relatedArticles:
   - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
