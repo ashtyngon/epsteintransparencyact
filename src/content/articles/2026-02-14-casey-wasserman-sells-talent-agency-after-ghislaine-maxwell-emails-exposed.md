@@ -37,9 +37,9 @@ Clients including pop star Chappell Roan and soccer player Abby Wambach cut ties
 
 ## Third Major Resignation
 
-Wasserman's exit follows two other high-profile departures tied to the Epstein document release. [Sultan Ahmed Bin Sulayem stepped down as chair of Dubai's DP World](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after appearing more than 4,700 times in the files. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced showing she referred to Epstein as "Uncle Jeffrey."
+Wasserman's exit follows two other high-profile departures tied to the Epstein document release. [Sultan Ahmed Bin Sulayem stepped down as chair of Dubai's DP World](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after appearing more than 4,700 times in the files. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced showing she referred to Epstein as "Uncle Jeffrey."
 
-The Justice Department released 3.5 million pages, 180,000 images, and 2,000 videos under the [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law), which passed the House 427-1, the Senate unanimously, and was signed into law on November 19, 2025. The records include emails, flight logs, and financial documents spanning decades of Epstein's connections to business leaders, politicians, and celebrities.
+The Justice Department released 3.5 million pages, 180,000 images, and 2,000 videos under the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), which passed the House 427-1, the Senate unanimously, and was signed into law on November 19, 2025. The records include emails, flight logs, and financial documents spanning decades of Epstein's connections to business leaders, politicians, and celebrities.
 
 ## Grandson of Hollywood Legend
 
@@ -47,4 +47,4 @@ Wasserman, 51, is the grandson of Lew Wasserman, who built MCA into an entertain
 
 The agency has not disclosed how many clients left after the Maxwell communications surfaced, or what the emails contained. Wasserman did not announce a timeline for the sale.
 
-[Congressional investigators have subpoenaed multiple people](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) named in the files to testify about their connections to Epstein's network.
+[Congressional investigators have subpoenaed multiple people](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) named in the files to testify about their connections to Epstein's network.

@@ -14,7 +14,7 @@ sources:
   - title: "David Rubenstein Appears in Epstein Documents — Washington Post"
     url: "https://www.washingtonpost.com/business/2026/02/12/rubenstein-carlyle-epstein-files/"
   - title: "Carlyle Group Co-Founder in Epstein Records — Bloomberg"
-    url: "https://www.bloomberg.com/news/articles/2026-02-12/carlyle-rubenstein-epstein-files"
+    url: "https://www.bloomberg.com/news/news/2026-02-12/carlyle-rubenstein-epstein-files"
 sensitive: false
 ---
 

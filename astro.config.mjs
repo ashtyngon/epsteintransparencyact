@@ -7,6 +7,7 @@ import markdoc from '@astrojs/markdoc';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://epsteintransparencyact.com',
+  trailingSlash: 'always',
   vite: {
     plugins: [tailwindcss()],
   },

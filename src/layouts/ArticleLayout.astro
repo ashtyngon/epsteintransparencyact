@@ -37,7 +37,7 @@ const jsonLd = articleJsonLd({
   title={title}
   description={summary}
   ogType="article"
-  ogImage={`/og/articles/${article.id}.png`}
+  ogImage={`/og/news/${article.id}.png`}
   publishedTime={publishedAt}
   modifiedTime={updatedAt}
   jsonLd={jsonLd}
@@ -47,8 +47,8 @@ const jsonLd = articleJsonLd({
     <header class="bg-primary text-white">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
         <Breadcrumbs items={[
-          { name: 'News', href: '/articles' },
-          { name: title, href: `/articles/${article.id}` },
+          { name: 'News', href: '/news' },
+          { name: title, href: `/news/${article.id}` },
         ]} />
       </div>
 
@@ -135,7 +135,7 @@ const jsonLd = articleJsonLd({
           <div class="space-y-3">
             {relatedArticleEntries.map((related: any) => (
               <a
-                href={`/articles/${related.id}`}
+                href={`/news/${related.id}`}
                 class="block group no-underline p-4 border border-border hover:border-accent/30 transition-colors"
               >
                 <div class="flex items-start justify-between gap-3">

@@ -3,7 +3,7 @@ title: FBI Explains Why Epstein Files Remain Heavily Redacted
 publishedAt: 2026-02-13T00:00:00.000Z
 source: Bloomberg
 sourceUrl: >-
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjNPaGFPamxRa0pvckxCVlNRcFIzSktPVTExWXVISEl4TTgxU1AycjBPWW5VYl9XQ1BFS0dPUnBhTUx6US10ZlE3d3JxS2l3QmYtZWg0c3BkZ0ZhNEJvR3ZYS3p5ejF2VzZhaW1iWWd3bFVUN2E1YjNodFpRZWhKbDgzT2NzTzVyNzM4dGJiN2Q4QlBXeDFkaHRLeG5KR3hHazNBQ1A3N0NzQmUwMmc?oc=5
+  https://news.google.com/rss/news/CBMirgFBVV95cUxQMjNPaGFPamxRa0pvckxCVlNRcFIzSktPVTExWXVISEl4TTgxU1AycjBPWW5VYl9XQ1BFS0dPUnBhTUx6US10ZlE3d3JxS2l3QmYtZWg0c3BkZ0ZhNEJvR3ZYS3p5ejF2VzZhaW1iWWd3bFVUN2E1YjNodFpRZWhKbDgzT2NzTzVyNzM4dGJiN2Q4QlBXeDFkaHRLeG5KR3hHazNBQ1A3N0NzQmUwMmc?oc=5
 summary: >-
   The FBI has begun providing its justifications for the extensive redactions
   that have obscured key names and details in the Epstein files, according to a
@@ -55,11 +55,11 @@ Transparency advocates and lawmakers have criticized these justifications, notin
 
 ## Blanket Justifications Under Fire
 
-The FBI's explanations arrive more than a week after [Attorney General Pam Bondi faced aggressive questioning](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) from the House Judiciary Committee. Members from both parties accused the DOJ of running a cover-up operation for powerful figures linked to Epstein's sex trafficking network.
+The FBI's explanations arrive more than a week after [Attorney General Pam Bondi faced aggressive questioning](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) from the House Judiciary Committee. Members from both parties accused the DOJ of running a cover-up operation for powerful figures linked to Epstein's sex trafficking network.
 
-The FBI's response followed [Rep. Thomas Massie naming six individuals on the House floor](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities had been redacted—including billionaire Les Wexner, whom he labeled a co-conspirator—which intensified pressure on federal agencies.
+The FBI's response followed [Rep. Thomas Massie naming six individuals on the House floor](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities had been redacted—including billionaire Les Wexner, whom he labeled a co-conspirator—which intensified pressure on federal agencies.
 
-Massie's disclosure triggered immediate corporate fallout. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. [Multiple CEOs stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). [Academic leaders faced calls to resign](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).
+Massie's disclosure triggered immediate corporate fallout. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. [Multiple CEOs stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). [Academic leaders faced calls to resign](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).
 
 ## The Intelligence Shield
 
@@ -73,11 +73,11 @@ The third category—protecting people not charged with crimes—raises the ques
 
 ## A Law Without Enforcement
 
-The [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law) mandated the release of documents related to the case. But the released documents remain heavily redacted, and critics say the FBI's explanations satisfy legal requirements without providing substantive transparency.
+The [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law) mandated the release of documents related to the case. But the released documents remain heavily redacted, and critics say the FBI's explanations satisfy legal requirements without providing substantive transparency.
 
-Documents previously obtained by this outlet revealed that the [DOJ has been tracking which lawmakers search the Epstein files](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
+Documents previously obtained by this outlet revealed that the [DOJ has been tracking which lawmakers search the Epstein files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
 
-Congress has the authority to demand unredacted files through its oversight powers. Whether Republican leadership will exercise that authority—particularly after [President Trump called for ending the Epstein investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) entirely—remains uncertain.
+Congress has the authority to demand unredacted files through its oversight powers. Whether Republican leadership will exercise that authority—particularly after [President Trump called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) entirely—remains uncertain.
 
 ## Who Gets Protected?
 

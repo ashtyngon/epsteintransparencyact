@@ -39,8 +39,8 @@ The Vatican maintains diplomatic relations with the United States through the Ho
 
 ## Questions About the Files
 
-The released documents have [faced scrutiny over extensive redactions](/articles/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions). Attorney General Pam Bondi has [faced congressional questioning](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about decisions to withhold portions of the records.
+The released documents have [faced scrutiny over extensive redactions](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions). Attorney General Pam Bondi has [faced congressional questioning](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about decisions to withhold portions of the records.
 
-The files have revealed communications between Epstein and business executives, academics, and political figures. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the documents. Congress has issued subpoenas to multiple individuals as part of its investigation into Epstein's network.
+The files have revealed communications between Epstein and business executives, academics, and political figures. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the documents. Congress has issued subpoenas to multiple individuals as part of its investigation into Epstein's network.
 
 The source of the Bannon message—whether email, text, or another format—is not specified in the released materials. The files do not indicate whether Epstein responded or what role, if any, he might have played in Bannon's stated plans.

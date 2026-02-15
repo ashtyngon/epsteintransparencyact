@@ -41,7 +41,7 @@ function timeAgo(date: Date): string {
   <!-- Hero — latest feature article -->
   {heroArticle && (
     <section class="bg-primary text-white">
-      <a href={`/articles/${heroArticle.id}`} class="block no-underline group">
+      <a href={`/news/${heroArticle.id}`} class="block no-underline group">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 md:py-14">
           <div class="flex items-center gap-3 mb-4">
             <span class="breaking-tag">{heroArticle.data.articleType === 'feature' ? 'Featured' : 'Latest'}</span>
@@ -71,7 +71,7 @@ function timeAgo(date: Date): string {
     <!-- Section header -->
     <div class="flex items-center justify-between mb-6 border-b-2 border-primary pb-2">
       <h2 class="text-sm font-semibold uppercase tracking-wider text-primary">Latest Coverage</h2>
-      <a href="/articles" class="text-xs font-semibold uppercase tracking-wider text-accent hover:text-primary transition-colors">
+      <a href="/news" class="text-xs font-semibold uppercase tracking-wider text-accent hover:text-primary transition-colors">
         All stories &rarr;
       </a>
     </div>

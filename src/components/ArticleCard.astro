@@ -27,7 +27,7 @@ function timeAgo(date: Date): string {
 {featured ? (
   <!-- Featured card — large hero style -->
   <article class="group relative">
-    <a href={`/articles/${article.id}`} class="block no-underline">
+    <a href={`/news/${article.id}`} class="block no-underline">
       <!-- Image area -->
       <div class="relative aspect-[16/9] md:aspect-[21/9] overflow-hidden rounded-lg bg-secondary mb-4">
         {image ? (
@@ -78,7 +78,7 @@ function timeAgo(date: Date): string {
 ) : (
   <!-- Standard card -->
   <article class="group border-b border-border last:border-b-0 py-5 first:pt-0">
-    <a href={`/articles/${article.id}`} class="block no-underline">
+    <a href={`/news/${article.id}`} class="block no-underline">
       <div class="flex gap-4">
         <div class="flex-1 min-w-0">
           <!-- Source + time -->

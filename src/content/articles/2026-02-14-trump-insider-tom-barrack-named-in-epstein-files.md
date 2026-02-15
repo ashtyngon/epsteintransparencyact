@@ -44,8 +44,8 @@ Barrack was previously **indicted in July 2021** on federal charges of acting as
 
 Barrack's decades-long friendship with Trump places him among several associates and appointees whose names have surfaced in Epstein-related documents. Barrack raised over **$100 million** for the 2017 inaugural committee and maintained close advisory relationships with the president.
 
-[Trump called for ending the Epstein investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) in a February 13 statement, arguing that continued scrutiny served no public purpose.
+[Trump called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) in a February 13 statement, arguing that continued scrutiny served no public purpose.
 
-[Attorney General Pam Bondi has defended redactions](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) in files released to date, citing ongoing investigations and privacy concerns.
+[Attorney General Pam Bondi has defended redactions](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) in files released to date, citing ongoing investigations and privacy concerns.
 
-Several executives have resigned after appearing in released documents, including [Goldman Sachs' top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and the [chairman of DP World](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties).
+Several executives have resigned after appearing in released documents, including [Goldman Sachs' top lawyer](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and the [chairman of DP World](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties).

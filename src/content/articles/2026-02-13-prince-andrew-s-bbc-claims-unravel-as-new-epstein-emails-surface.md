@@ -41,7 +41,7 @@ The interview was so poorly received that Andrew stepped back from royal duties 
 
 Andrew's case stands apart because he sat for a lengthy, detailed interview making specific factual claims. Most powerful figures connected to Epstein have refused such on-the-record statements. That makes his version of events easier to test against documentary evidence.
 
-The [Epstein Transparency Act is now law](/articles/epstein-transparency-act-signed-into-law), and the [FBI has begun reviewing](/articles/fbi-begins-epstein-records-review) government files related to the case. But the royal family operates outside U.S. jurisdiction, and the British government has shown no appetite for forcing Andrew to answer questions.
+The [Epstein Transparency Act is now law](/news/epstein-transparency-act-signed-into-law), and the [FBI has begun reviewing](/news/fbi-begins-epstein-records-review) government files related to the case. But the royal family operates outside U.S. jurisdiction, and the British government has shown no appetite for forcing Andrew to answer questions.
 
 ## The Accountability Gap
 

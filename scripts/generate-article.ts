@@ -65,7 +65,7 @@ function loadExistingArticlesManifest(): string {
       const content = readFileSync(join(ARTICLES_DIR, file), 'utf-8');
       const titleMatch = content.match(/^title:\s*"(.+?)"/m);
       const title = titleMatch ? titleMatch[1] : slug;
-      entries.push(`- "${title}" → /articles/${slug}`);
+      entries.push(`- "${title}" → /news/${slug}`);
     }
 
     return entries.length > 0 ? entries.join('\n') : '(No existing articles yet)';

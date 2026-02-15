@@ -2,7 +2,7 @@
 title: "Epstein Emails Expose Ex-Clifford Chance Lawyer's Hidden Ties"
 publishedAt: "2026-02-14T03:07:15.000Z"
 source: "The Hill"
-sourceUrl: "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVpMVlp5MEVLcVB5SkJ0QVR4SjN1TTZTeHpRZGxKMWhYTUt0Rm94RC1zcUJLSGptblRLVm5IdURvM1YyaXFyeU1ZQTR2RmZuQjJDQ2E5MzIzLVg4VDl3NllBeExDVjhoY0tFSDlad0hoNF9GZDgtdHgyekRULWNyMjg4R3hTSGw2Wmpn?oc=5"
+sourceUrl: "https://news.google.com/rss/news/CBMiiwFBVV95cUxPcVpMVlp5MEVLcVB5SkJ0QVR4SjN1TTZTeHpRZGxKMWhYTUt0Rm94RC1zcUJLSGptblRLVm5IdURvM1YyaXFyeU1ZQTR2RmZuQjJDQ2E5MzIzLVg4VDl3NllBeExDVjhoY0tFSDlad0hoNF9GZDgtdHgyekRULWNyMjg4R3hTSGw2Wmpn?oc=5"
 summary: "When Justice Officials Name Names: Inside the Escalating Battle Over Epstein File Redactions The dam is beginning to crack. After weeks of mounting pressure ove"
 people:
   - jeffrey-epstein
@@ -83,7 +83,7 @@ This is the heart of the transparency fight: Congress can see what the public ca
 
 The Epstein files have also begun exposing the dead financier's reach into American higher education. According to WVTM, **DOJ records allege Jeffrey Epstein helped arrange a guest speaker at the University of Alabama**—a revelation that expands our understanding of how Epstein leveraged his social connections to gain legitimacy and access.
 
-This fits a documented pattern. [Previous reporting on this site](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) detailed how college presidents and professors appeared in the files, often in contexts suggesting Epstein positioned himself as a philanthropist and intellectual patron rather than the predator he was.
+This fits a documented pattern. [Previous reporting on this site](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) detailed how college presidents and professors appeared in the files, often in contexts suggesting Epstein positioned himself as a philanthropist and intellectual patron rather than the predator he was.
 
 The Alabama connection raises specific questions: Who was the speaker? What was their topic? Did university officials know about Epstein's role in the arrangement? And crucially—was this part of a broader pattern of Epstein inserting himself into academic settings where young women might be present?
 
@@ -99,13 +99,13 @@ The legal profession has largely avoided the spotlight in Epstein coverage, desp
 
 ## The Wexner Web: Campaign Contributions and Political Protection
 
-Perhaps no name in the Epstein saga carries more weight than **Leslie Wexner**, the billionaire founder of Victoria's Secret and Epstein's only confirmed financial client. Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0 — one of the largest residential property transfers in New York City history. [Congressional testimony documented on this site](/articles/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) has labeled Wexner a "co-conspirator."
+Perhaps no name in the Epstein saga carries more weight than **Leslie Wexner**, the billionaire founder of Victoria's Secret and Epstein's only confirmed financial client. Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0 — one of the largest residential property transfers in New York City history. [Congressional testimony documented on this site](/news/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) has labeled Wexner a "co-conspirator."
 
 Now, reporting from WFMJ.com reveals that **Ohio politicians received campaign funds from Wexner** — the same Wexner whose name appears throughout the Epstein files as the source of Epstein's initial wealth and New York properties.
 
 The campaign contribution trail matters because it creates a conflict of interest for elected officials who might otherwise demand aggressive investigation. When a potential Epstein co-conspirator is funding political campaigns, those politicians face enormous pressure to downplay, delay, or derail transparency efforts.
 
-This is not abstract. [Previous reporting](/articles/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation) documented that a senator blocked Epstein files after receiving a mysterious donation. The Ohio revelation suggests this may be part of a broader pattern: Wexner money flowing to politicians who might otherwise ask uncomfortable questions about his relationship with Epstein.
+This is not abstract. [Previous reporting](/news/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation) documented that a senator blocked Epstein files after receiving a mysterious donation. The Ohio revelation suggests this may be part of a broader pattern: Wexner money flowing to politicians who might otherwise ask uncomfortable questions about his relationship with Epstein.
 
 ## Prince Andrew and the Reckoning That Won't Go Away
 
@@ -113,7 +113,7 @@ Across the Atlantic, pressure is mounting on **Prince Andrew** — who settled V
 
 The piece asks directly: "Will Andrew be questioned over his relationship with Epstein?" And suggests "this may be the reckoning Andrew cannot outrun."
 
-[Previous reporting on this site](/articles/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) documented how Andrew's BBC interview claims have unraveled as new emails surface. The picture emerging is of a man who repeatedly minimized his relationship with Epstein and Maxwell, only to be contradicted by documentary evidence showing far deeper involvement.
+[Previous reporting on this site](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) documented how Andrew's BBC interview claims have unraveled as new emails surface. The picture emerging is of a man who repeatedly minimized his relationship with Epstein and Maxwell, only to be contradicted by documentary evidence showing far deeper involvement.
 
 The British establishment has long protected Andrew from the consequences of his associations. But the Epstein Transparency Act was passed by Congress, not Parliament. American investigators don't answer to the House of Windsor. And the files are revealing connections that make continued protection increasingly untenable.
 
@@ -165,13 +165,13 @@ The beneficiaries are a small number of individuals whose Epstein connections ar
 
 Why is the Justice Department prioritizing their privacy over the public interest?
 
-The answer may lie in the [surveillance scandal that erupted earlier this week](/articles/2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals), when documents revealed DOJ tracking which lawmakers searched the Epstein files. That wasn't about security. It was about knowing who to pressure, who to threaten, who might cause trouble.
+The answer may lie in the [surveillance scandal that erupted earlier this week](/news/2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals), when documents revealed DOJ tracking which lawmakers searched the Epstein files. That wasn't about security. It was about knowing who to pressure, who to threaten, who might cause trouble.
 
 The Blanche statement attacking Khanna and Massie fits the same pattern: an attempt to discourage further transparency advocacy through public criticism and implicit threat. It hasn't worked. If anything, it's backfired, drawing more attention to the names they revealed and the reasons DOJ wants them hidden.
 
 ## What Comes Next
 
-The Congressional investigation is expanding, not contracting. [Multiple lawmakers have been subpoenaed or called to testify](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), including high-profile figures like Lord Mandelson and Les Wexner. The House Judiciary Committee continues to grill Attorney General Bondi over the pace and scope of releases.
+The Congressional investigation is expanding, not contracting. [Multiple lawmakers have been subpoenaed or called to testify](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), including high-profile figures like Lord Mandelson and Les Wexner. The House Judiciary Committee continues to grill Attorney General Bondi over the pace and scope of releases.
 
 More resignations are likely. The Goldman and DP World departures signal that corporations are reading the room—better to cut ties with compromised executives now than face Congressional subpoenas and public backlash later.
 

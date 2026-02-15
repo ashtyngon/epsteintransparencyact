@@ -107,7 +107,7 @@ The headline promises the reader something specific. Deliver that information in
 - Do NOT invent quotes or details not in the source
 
 ## Existing Articles on This Site
-Reference these naturally with markdown links if relevant (e.g., [related coverage](/articles/slug)):
+Reference these naturally with markdown links if relevant (e.g., [related coverage](/news/slug)):
 
 {existingArticles}
 
@@ -171,7 +171,7 @@ These articles are already published on the site. Where one is genuinely relevan
 
 {existingArticles}
 
-Good: "This is the second resignation since the files were released — [Goldman Sachs' top lawyer stepped down last week](/articles/slug-here) after similar revelations."
+Good: "This is the second resignation since the files were released — [Goldman Sachs' top lawyer stepped down last week](/news/slug-here) after similar revelations."
 Bad: Forcing a link where there's no real connection.
 Use 0-3 cross-references. Only if they genuinely strengthen the piece.
 

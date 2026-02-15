@@ -33,7 +33,7 @@ At least three British police forces are currently dealing with allegations trig
 
 ## UK Connections Under Scrutiny
 
-The national coordination effort comes as [new emails have contradicted Prince Andrew's public statements](/articles/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) about his relationship with Epstein. [Courts in the U.S. have released new batches](/articles/court-releases-new-batch-of-documents) of Epstein-related documents in recent weeks.
+The national coordination effort comes as [new emails have contradicted Prince Andrew's public statements](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) about his relationship with Epstein. [Courts in the U.S. have released new batches](/news/court-releases-new-batch-of-documents) of Epstein-related documents in recent weeks.
 
 The group will handle both allegations about Epstein's trafficking operations with ties to the UK and claims against his associates.
 

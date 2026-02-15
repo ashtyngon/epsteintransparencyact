@@ -36,7 +36,7 @@ The sale comes amid high-profile departures from the agency, according to The In
 
 ## Other Agency Exits
 
-The Wasserman sale follows other executive exits tied to the Epstein files. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails showed she referred to Epstein as "Uncle Jeffrey." [Sultan Ahmed Bin Sulayem, chairman of DP World, stepped down](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after appearing more than 4,700 times in the files.
+The Wasserman sale follows other executive exits tied to the Epstein files. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails showed she referred to Epstein as "Uncle Jeffrey." [Sultan Ahmed Bin Sulayem, chairman of DP World, stepped down](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after appearing more than 4,700 times in the files.
 
 Maxwell was convicted on December 29, 2021 of sex trafficking minors and sentenced to 20 years in federal prison. The 2003 emails with Wasserman predate Epstein's 2008 guilty plea in Palm Beach County.
 

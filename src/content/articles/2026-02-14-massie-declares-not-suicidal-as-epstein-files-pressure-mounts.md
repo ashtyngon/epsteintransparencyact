@@ -48,9 +48,9 @@ He added: "It's true that my political career is on the line, my political life,
 
 ## Why Now
 
-The statement came at a moment of maximum tension. Earlier this week, Massie and **Rep. Ro Khanna** (D-CA) [reviewed unredacted versions of the Epstein files](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) at the Department of Justice. They emerged to announce that at least **six men's names** had been deliberately redacted from public releases — men who, Massie said, are "likely incriminated by their inclusion in these files."
+The statement came at a moment of maximum tension. Earlier this week, Massie and **Rep. Ro Khanna** (D-CA) [reviewed unredacted versions of the Epstein files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) at the Department of Justice. They emerged to announce that at least **six men's names** had been deliberately redacted from public releases — men who, Massie said, are "likely incriminated by their inclusion in these files."
 
-The revelation triggered an immediate cascade of consequences. **Sultan Ahmed bin Sulayem**, CEO and chairman of the Dubai-based shipping giant **DP World**, [resigned within days](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after Massie confirmed he was the recipient of an April 24, 2009 email from Epstein that read: "where are you? are you ok I loved the torture video." Bin Sulayem's name appeared more than **4,700 times** across the released files, and his correspondence with Epstein included discussions of masseuses, sexual encounters, escort services, and pornography.
+The revelation triggered an immediate cascade of consequences. **Sultan Ahmed bin Sulayem**, CEO and chairman of the Dubai-based shipping giant **DP World**, [resigned within days](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after Massie confirmed he was the recipient of an April 24, 2009 email from Epstein that read: "where are you? are you ok I loved the torture video." Bin Sulayem's name appeared more than **4,700 times** across the released files, and his correspondence with Epstein included discussions of masseuses, sexual encounters, escort services, and pornography.
 
 The fallout reached global financial institutions. Canada's second-largest pension fund, **La Caisse de dépôt**, paused over **$5 billion** in investments with DP World. Britain's development finance arm halted new deals involving the company's African port operations.
 
@@ -60,9 +60,9 @@ Massie said his safety concerns crystallized after a confrontation with **Attorn
 
 "At that point," Massie said, "I concluded the administration had undertaken a cover-up and had no intention of releasing these files."
 
-He has since threatened a ["nuclear option"](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) — using his Congressional speech and debate clause immunity to read redacted names into the public record on the House floor. Khanna [subsequently did exactly that](/articles/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down), reading six names from the House floor.
+He has since threatened a ["nuclear option"](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) — using his Congressional speech and debate clause immunity to read redacted names into the public record on the House floor. Khanna [subsequently did exactly that](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down), reading six names from the House floor.
 
-[Bondi was grilled during Congressional testimony](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about the redactions, while [critics accused the Trump DOJ of a deliberate cover-up](/articles/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions). [Trump himself called for ending the investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation), stating the matter had been "investigated enough."
+[Bondi was grilled during Congressional testimony](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about the redactions, while [critics accused the Trump DOJ of a deliberate cover-up](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions). [Trump himself called for ending the investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), stating the matter had been "investigated enough."
 
 ## A Pattern of Safety Warnings
 
@@ -78,6 +78,6 @@ Massie is paying a political price for his persistence. **President Trump** has 
 
 He has refused to back down, telling reporters that the Epstein files are "bigger than Watergate" and that meeting with survivors of Epstein's trafficking network convinced him the stakes demand full transparency regardless of personal cost.
 
-The [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law), which Massie co-authored with Khanna, passed the House **427 to 1** and the Senate unanimously before being signed into law on **November 19, 2025**. Despite the law's mandate, the DOJ has released documents with [extensive redactions that the FBI has defended](/articles/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) as legally necessary — a position that Massie's unredacted review directly contradicts.
+The [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), which Massie co-authored with Khanna, passed the House **427 to 1** and the Senate unanimously before being signed into law on **November 19, 2025**. Despite the law's mandate, the DOJ has released documents with [extensive redactions that the FBI has defended](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) as legally necessary — a position that Massie's unredacted review directly contradicts.
 
 "It was not a hoax, I cannot be bullied, I am not done," Massie wrote on X, "and this is why those in power are doing everything in their power to defeat me."

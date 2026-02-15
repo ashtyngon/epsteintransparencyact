@@ -38,7 +38,7 @@ French prosecutors had been investigating Epstein's activities in France since 2
 
 ## Document Release Prompts Action
 
-The French response follows the [release of 3.5 million pages, 180,000 images, and 2,000 videos of Epstein-related files](/articles/epstein-transparency-act-signed-into-law) by U.S. authorities. The DOJ release was mandated by the Transparency Act, which passed the House 427-1 and the Senate unanimously. The documents have exposed Epstein's connections to individuals across multiple countries, including the naming of Sultan Ahmed bin Sulayem more than 4,700 times in the files.
+The French response follows the [release of 3.5 million pages, 180,000 images, and 2,000 videos of Epstein-related files](/news/epstein-transparency-act-signed-into-law) by U.S. authorities. The DOJ release was mandated by the Transparency Act, which passed the House 427-1 and the Senate unanimously. The documents have exposed Epstein's connections to individuals across multiple countries, including the naming of Sultan Ahmed bin Sulayem more than 4,700 times in the files.
 
 Epstein maintained a residence in Paris and frequently traveled to France. Virginia Giuffre and other accusers described being trafficked to locations in France. The new document releases may contain communications, travel records, and financial transactions involving French nationals not previously identified.
 

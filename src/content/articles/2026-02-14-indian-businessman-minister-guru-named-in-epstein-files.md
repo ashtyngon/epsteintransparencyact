@@ -2,7 +2,7 @@
 title: "Indian Businessman, Minister & Guru Named in Epstein Files"
 publishedAt: "2026-02-14T13:37:28.000Z"
 source: "The News Minute"
-sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGh3anRCUjFvRGNnRE11TVlQZjRJWjJ3aHZHZWpLcDJjTVJDckMxRmkyVXFkSzlZNnJoQTRmQVZJUjNJUThaMnRaeU05aHhBVFNNN3lWM09LcG9na2l3MXFlZDdIOV9NMFk1WTI4eGF1OFVQTkhOV216b3dMSm5NM3V2RjRTTXpBQXA4MVhMcWRMT21WaF9aZElYb0JvaVJPTDgwQmFqZGZHMUhEb2tjektudjd5TVNKX1HSAccBQVVfeXFMT3Y3R2E0YUJ1ZWFwQlpBX3F4Uk5WUGtmMVd0dnNKb2hwQ3BJdG0zY3RVSnFCVUhhTWtzRk16NHM5SUJGdGN2VkxHSG5WMEVzNWRBLXRBSXd3azQtbmpGczliT0doTEdjTFNkeG9nUHd3S2IzSVZDRWJjcndzWGphcGdPZ09Jdm44R3ZKYmhNV1RkalRlX3FjREk0U2VYYi14VEEtZ3duWHQ1dDNyNGtuSWtYUFhxbTUwWlRDYTlDTy1acU16aWk4TQ?oc=5"
+sourceUrl: "https://news.google.com/rss/news/CBMiugFBVV95cUxNZGh3anRCUjFvRGNnRE11TVlQZjRJWjJ3aHZHZWpLcDJjTVJDckMxRmkyVXFkSzlZNnJoQTRmQVZJUjNJUThaMnRaeU05aHhBVFNNN3lWM09LcG9na2l3MXFlZDdIOV9NMFk1WTI4eGF1OFVQTkhOV216b3dMSm5NM3V2RjRTTXpBQXA4MVhMcWRMT21WaF9aZElYb0JvaVJPTDgwQmFqZGZHMUhEb2tjektudjd5TVNKX1HSAccBQVVfeXFMT3Y3R2E0YUJ1ZWFwQlpBX3F4Uk5WUGtmMVd0dnNKb2hwQ3BJdG0zY3RVSnFCVUhhTWtzRk16NHM5SUJGdGN2VkxHSG5WMEVzNWRBLXRBSXd3azQtbmpGczliT0doTEdjTFNkeG9nUHd3S2IzSVZDRWJjcndzWGphcGdPZ09Jdm44R3ZKYmhNV1RkalRlX3FjREk0U2VYYi14VEEtZ3duWHQ1dDNyNGtuSWtYUFhxbTUwWlRDYTlDTy1acU16aWk4TQ?oc=5"
 summary: "Three prominent Indians appear in documents released under the Epstein Transparency Act, according to reporting by The News Minute: Subrata Roy, founder of the "
 people:
   - jeffrey-epstein
@@ -52,8 +52,8 @@ The News Minute reports his name surfaces in the Epstein files alongside corresp
 
 ## Global Network
 
-The Indian names join international figures documented in Epstein's circle. [Congressional subpoenas have targeted UK politician Lord Peter Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), and [Dubai's DP World chairman Sultan Ahmed bin Sulayem resigned](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after his name appeared more than 4,700 times in the files.
+The Indian names join international figures documented in Epstein's circle. [Congressional subpoenas have targeted UK politician Lord Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), and [Dubai's DP World chairman Sultan Ahmed bin Sulayem resigned](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after his name appeared more than 4,700 times in the files.
 
-[The FBI maintains thousands of files still under review](/articles/fbi-begins-epstein-records-review) as part of the 3.5 million pages, 180,000 images, and 2,000 videos mandated for release. Each document release has named additional figures who intersected with Epstein's operations between his 2008 conviction and his death. Epstein's associate Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years in federal prison.
+[The FBI maintains thousands of files still under review](/news/fbi-begins-epstein-records-review) as part of the 3.5 million pages, 180,000 images, and 2,000 videos mandated for release. Each document release has named additional figures who intersected with Epstein's operations between his 2008 conviction and his death. Epstein's associate Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years in federal prison.
 
 None of the three Indian figures has responded publicly.

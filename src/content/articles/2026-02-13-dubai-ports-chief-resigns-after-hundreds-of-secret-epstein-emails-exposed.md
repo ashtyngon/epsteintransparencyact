@@ -2,7 +2,7 @@
 title: "Dubai Ports Chief Resigns After Hundreds of Secret Epstein Emails Exposed"
 publishedAt: 2026-02-13
 source: "BBC News"
-sourceUrl: "https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss"
+sourceUrl: "https://www.bbc.com/news/news/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss"
 summary: "The chairman of one of the world's largest port operators has stepped down after newly released documents revealed hundreds of email exchanges between him and c"
 people:
   - sultan-ahmed-bin-sulayem
@@ -42,7 +42,7 @@ The content of the thousands of documented interactions between bin Sulayem and 
 
 ## Another Executive Exit
 
-Bin Sulayem joins a growing list of powerful figures forced out after their Epstein connections surfaced. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after the files named him. [Other billionaire executives have stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) under similar pressure.
+Bin Sulayem joins a growing list of powerful figures forced out after their Epstein connections surfaced. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after the files named him. [Other billionaire executives have stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) under similar pressure.
 
 Each resignation follows the same script: documents surface, the executive exits, and the institution stays silent about what the relationship actually entailed. Bin Sulayem's company offered no explanation for his departure and hasn't commented on the nature of his hundreds of emails with Epstein.
 
@@ -50,11 +50,11 @@ In each case, the public learns an executive communicated extensively with a con
 
 ## What's Still Redacted
 
-Rep. Ro Khanna put it bluntly after [another major Epstein associate stepped down](/articles/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down): "Every resignation raises the same question—what are they hiding, and who else is in those files?"
+Rep. Ro Khanna put it bluntly after [another major Epstein associate stepped down](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down): "Every resignation raises the same question—what are they hiding, and who else is in those files?"
 
-Attorney General Pam Bondi has [refused demands for full document release](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), even as members of Congress [publicly name individuals](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) they say are being shielded by redactions.
+Attorney General Pam Bondi has [refused demands for full document release](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), even as members of Congress [publicly name individuals](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) they say are being shielded by redactions.
 
-[The FBI has stated](/articles/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) that redactions protect ongoing investigations and privacy. Transparency advocates have noted a disconnect between those justifications and the pattern of immediate resignations following document releases.
+[The FBI has stated](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) that redactions protect ongoing investigations and privacy. Transparency advocates have noted a disconnect between those justifications and the pattern of immediate resignations following document releases.
 
 ## The Transparency Gap
 
@@ -62,4 +62,4 @@ We know bin Sulayem sent hundreds of emails to Epstein. We don't know what they 
 
 The Epstein files have so far produced resignations without public explanations from the individuals involved. Large portions of the documents remain redacted.
 
-Congress has already moved to [depose Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's closest known financial associate. Whether lawmakers will demand testimony from international figures like bin Sulayem remains unclear.
+Congress has already moved to [depose Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's closest known financial associate. Whether lawmakers will demand testimony from international figures like bin Sulayem remains unclear.

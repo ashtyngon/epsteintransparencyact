@@ -48,16 +48,16 @@ Greene made the remarks on former InfoWars host **Owen Shroyer's** podcast on Fr
 
 ## From MAGA Firebrand to Trump Critic
 
-Greene's criticism represents a dramatic transformation. Once among the president's most combative defenders in Congress, she broke with Trump when she signed the Epstein files discharge petition on **September 2, 2025** — a decision that [triggered Trump's fury](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) and led to her being un-endorsed and publicly attacked as a "traitor."
+Greene's criticism represents a dramatic transformation. Once among the president's most combative defenders in Congress, she broke with Trump when she signed the Epstein files discharge petition on **September 2, 2025** — a decision that [triggered Trump's fury](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) and led to her being un-endorsed and publicly attacked as a "traitor."
 
 Her remarks follow her earlier declaration that Trump's MAGA slogan was "all a lie," saying his first year back in office focused on obliging wealthy supporters, big corporations, and pursuing foreign wars rather than delivering accountability.
 
-Greene [resigned from Congress in January 2026](/articles/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) after losing the support of both party leadership and the president.
+Greene [resigned from Congress in January 2026](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) after losing the support of both party leadership and the president.
 
 ## Bondi and the DOJ Under Fire
 
-Greene suggested that **Attorney General Pam Bondi** is still operating under the president's direction when it comes to the files and the DOJ's handling of potential criminal referrals. [Bondi was grilled during congressional testimony](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about why the DOJ has kept files heavily redacted and was [accused of monitoring Democratic lawmakers' searches](/articles/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) of the files.
+Greene suggested that **Attorney General Pam Bondi** is still operating under the president's direction when it comes to the files and the DOJ's handling of potential criminal referrals. [Bondi was grilled during congressional testimony](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about why the DOJ has kept files heavily redacted and was [accused of monitoring Democratic lawmakers' searches](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) of the files.
 
-Since the files began emerging, the fallout has been swift. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/articles/2026-02-14-casey-wasserman-sells-talent-agency-after-ghislaine-maxwell-emails-exposed) following exposure of emails with **Ghislaine Maxwell**. Congress issued subpoenas to billionaire **Les Wexner** and former EU trade commissioner **Peter Mandelson** to testify about their Epstein connections.
+Since the files began emerging, the fallout has been swift. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-talent-agency-after-ghislaine-maxwell-emails-exposed) following exposure of emails with **Ghislaine Maxwell**. Congress issued subpoenas to billionaire **Les Wexner** and former EU trade commissioner **Peter Mandelson** to testify about their Epstein connections.
 
-Greene's public criticism adds to growing bipartisan pressure on the Trump administration over the pace and completeness of the file releases mandated by the [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law).
+Greene's public criticism adds to growing bipartisan pressure on the Trump administration over the pace and completeness of the file releases mandated by the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law).

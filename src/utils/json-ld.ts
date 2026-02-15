@@ -41,7 +41,7 @@ export function articleJsonLd(article: {
       name: 'Epstein Transparency Project',
       url: 'https://epsteintransparencyact.com',
     },
-    mainEntityOfPage: `https://epsteintransparencyact.com/articles/${article.slug}`,
+    mainEntityOfPage: `https://epsteintransparencyact.com/news/${article.slug}`,
     isBasedOn: {
       '@type': 'NewsArticle',
       url: article.sourceUrl,

@@ -41,7 +41,7 @@ Carl Higbie, who hosts "Carl Higbie Frontline," used his broadcast to blast the 
 
 The criticism is notable coming from Newsmax, which typically provides supportive coverage of the administration. Higbie accused Trump's DOJ of running a "cover-up" by shielding names that should be public.
 
-The criticism arrives as the administration faces pressure from multiple directions on Epstein documents. [Attorney General Pam Bondi faced questioning Tuesday](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about when files would be released and what would remain hidden. Days earlier, [Trump called for ending the Epstein investigation entirely](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation). Transparency advocates criticized that position.
+The criticism arrives as the administration faces pressure from multiple directions on Epstein documents. [Attorney General Pam Bondi faced questioning Tuesday](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about when files would be released and what would remain hidden. Days earlier, [Trump called for ending the Epstein investigation entirely](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation). Transparency advocates criticized that position.
 
 ## Transparency Law, Redacted Results
 
@@ -49,7 +49,7 @@ Trump signed the Epstein Transparency Act into law on November 19, 2025, after i
 
 Higbie's demand for criminal prosecution takes the controversy beyond policy criticism into direct accountability. He's not asking for better processes or more transparency — he wants Justice Department officials prosecuted for limiting what Americans can see.
 
-Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner — who transferred a $77 million Manhattan mansion to Epstein for $0 — a co-conspirator](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing she referred to Epstein as "Uncle Jeffrey"](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files).
+Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner — who transferred a $77 million Manhattan mansion to Epstein for $0 — a co-conspirator](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing she referred to Epstein as "Uncle Jeffrey"](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files).
 
 Higbie's central criticism is that the law mandated disclosure, and the DOJ's redactions contradict that mandate. He asked who decided which names the public can see and which remain protected.
 

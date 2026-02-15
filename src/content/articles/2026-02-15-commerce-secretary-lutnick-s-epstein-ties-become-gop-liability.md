@@ -37,12 +37,12 @@ The Hill report did not detail the specific nature of Lutnick's contacts with Ep
 
 ## Broader Pattern
 
-The concerns emerge against a backdrop of mounting consequences for figures named in Epstein-related files. [Goldman Sachs' top lawyer resigned last week](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Dubai Ports chief stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) following exposure of secret emails with Epstein's network.
+The concerns emerge against a backdrop of mounting consequences for figures named in Epstein-related files. [Goldman Sachs' top lawyer resigned last week](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Dubai Ports chief stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) following exposure of secret emails with Epstein's network.
 
-Congress has issued subpoenas to [billionaire Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [UK diplomat Peter Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) as part of its investigation into Epstein's network of elite contacts.
+Congress has issued subpoenas to [billionaire Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [UK diplomat Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) as part of its investigation into Epstein's network of elite contacts.
 
 The Commerce Secretary oversees trade policy, business regulation, and economic strategy. Lutnick's role gives him significant influence over Trump administration economic decisions.
 
-[President Trump called for ending the Epstein investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation), drawing criticism from members of his own party. Rep. Marjorie Taylor Greene [called Trump's handling of the Epstein files a "political miscalculation"](/articles/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation).
+[President Trump called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), drawing criticism from members of his own party. Rep. Marjorie Taylor Greene [called Trump's handling of the Epstein files a "political miscalculation"](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation).
 
 The midterm elections are scheduled for November 2026.

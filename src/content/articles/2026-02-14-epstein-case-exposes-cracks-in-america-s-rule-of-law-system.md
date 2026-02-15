@@ -2,7 +2,7 @@
 title: "Epstein Case Exposes Cracks in America's Rule of Law System"
 publishedAt: "2026-02-14T05:10:04.000Z"
 source: "CGTN"
-sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYl9RZllRYUw4azgtYnBOLXczQnpaS1U4RG1CQUxrbmpBeGd3a2tjYUdZaXJOS0liOWE1cDM3R1l6SHljdC1IT25TRkU3eVhzbTR3eGswNEVqS1BRbVBaQVk2cUpyS3RIMWxJMlRVQXpUb1dIMTEzVGhVclB3RWFKeWZRdnkzcDBPaXN2TWVxM3ZQUWszM2VEclc5WUYzYndkbzBPWF9RcTM4MkR0M2xtTnZQUlg4S0MxQmc?oc=5"
+sourceUrl: "https://news.google.com/rss/news/CBMiugFBVV95cUxQYl9RZllRYUw4azgtYnBOLXczQnpaS1U4RG1CQUxrbmpBeGd3a2tjYUdZaXJOS0liOWE1cDM3R1l6SHljdC1IT25TRkU3eVhzbTR3eGswNEVqS1BRbVBaQVk2cUpyS3RIMWxJMlRVQXpUb1dIMTEzVGhVclB3RWFKeWZRdnkzcDBPaXN2TWVxM3ZQUWszM2VEclc5WUYzYndkbzBPWF9RcTM4MkR0M2xtTnZQUlg4S0MxQmc?oc=5"
 summary: "A stark critique of American justice emerged this week from an unexpected source. CGTN, China's state-run media outlet, published an editorial claiming the Epst"
 people:
   - donald-trump
@@ -39,7 +39,7 @@ articleType: news
 confidence: 0.85
 ---
 
-China's state media is now using America's Epstein cover-up as propaganda. CGTN published an editorial this week titled "The Epstein case mirrors the decline of America's rule of law"—handing Beijing a ready-made talking point as Washington lectures the world about institutional accountability while [refusing to release its own documents](/articles/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted).
+China's state media is now using America's Epstein cover-up as propaganda. CGTN published an editorial this week titled "The Epstein case mirrors the decline of America's rule of law"—handing Beijing a ready-made talking point as Washington lectures the world about institutional accountability while [refusing to release its own documents](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted).
 
 That's what happens when the Justice Department stonewalls transparency laws passed by Congress.
 
@@ -47,15 +47,15 @@ That's what happens when the Justice Department stonewalls transparency laws pas
 
 For years, State Department officials have issued reports cataloging human rights abuses abroad, demanding access to detention facilities, and calling out authoritarian regimes for opacity. American diplomats routinely invoke "rule of law" as a cornerstone principle.
 
-But at home, the DOJ maintains massive redactions across 3.5 million pages of Epstein files despite the Epstein Transparency Act, which passed the House 427-1, the Senate unanimously, and was signed into law on November 19, 2025. [Attorney General Pam Bondi resists full document release](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her office was caught [tracking which lawmakers searched for specific names](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches) in the files. And [President Trump called for ending the investigation entirely](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation), suggesting the country should "move on."
+But at home, the DOJ maintains massive redactions across 3.5 million pages of Epstein files despite the Epstein Transparency Act, which passed the House 427-1, the Senate unanimously, and was signed into law on November 19, 2025. [Attorney General Pam Bondi resists full document release](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her office was caught [tracking which lawmakers searched for specific names](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches) in the files. And [President Trump called for ending the investigation entirely](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), suggesting the country should "move on."
 
 Foreign adversaries don't miss these contradictions.
 
 ## Two Standards of Justice
 
-A [House member named six men hidden in the redacted files](/articles/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) from the House floor, including billionaire Les Wexner — Epstein's only confirmed financial client, who transferred a $77 million Manhattan mansion to Epstein for $0 — and labeled him a co-conspirator. Congress has [subpoenaed Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Peter Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), former UK Labour cabinet minister and Baron Mandelson, to testify. 
+A [House member named six men hidden in the redacted files](/news/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) from the House floor, including billionaire Les Wexner — Epstein's only confirmed financial client, who transferred a $77 million Manhattan mansion to Epstein for $0 — and labeled him a co-conspirator. Congress has [subpoenaed Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), former UK Labour cabinet minister and Baron Mandelson, to testify. 
 
-Corporate executives started falling. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) after "Uncle Jeffrey" emails surfaced. [Sultan Ahmed Bin Sulayem, CEO and chairman of DP World, was forced out](/articles/2026-02-13-dubai-port-ceo-ousted-over-4-700-epstein-files-mentions) over 4,700 file mentions. A [federal court allowed a trafficking lawsuit against Bank of America to proceed](/articles/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
+Corporate executives started falling. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) after "Uncle Jeffrey" emails surfaced. [Sultan Ahmed Bin Sulayem, CEO and chairman of DP World, was forced out](/news/2026-02-13-dubai-port-ceo-ousted-over-4-700-epstein-files-mentions) over 4,700 file mentions. A [federal court allowed a trafficking lawsuit against Bank of America to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
 
 Yet the individuals at the center—those who funded, facilitated, or enabled Epstein's operation for years—remain largely shielded by DOJ redactions.
 
@@ -63,11 +63,11 @@ Yet the individuals at the center—those who funded, facilitated, or enabled Ep
 
 The pattern is unmistakable: consequences fall on mid-tier players while the institutional machinery protects those at the top. Corporate lawyers resign. Executives step down. But the names still blacked out in FBI documents? Those individuals face no subpoenas, no public accountability, no pressure to explain their role.
 
-The [New York Times is conducting its own investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of documents—work the Justice Department should have completed years ago. Reporters and congressional investigators are doing the FBI's job.
+The [New York Times is conducting its own investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of documents—work the Justice Department should have completed years ago. Reporters and congressional investigators are doing the FBI's job.
 
 ## The Strategic Cost
 
-Every unjustified redaction, every dodged question in congressional hearings, every revelation of [surveillance systems tracking lawmakers' searches](/articles/2026-02-13-democrats-demand-doj-stop-tracking-their-epstein-file-searches)—these become ammunition for adversaries seeking to undermine American credibility abroad.
+Every unjustified redaction, every dodged question in congressional hearings, every revelation of [surveillance systems tracking lawmakers' searches](/news/2026-02-13-democrats-demand-doj-stop-tracking-their-epstein-file-searches)—these become ammunition for adversaries seeking to undermine American credibility abroad.
 
 Beijing is now wielding the Epstein case as a cudgel. That's the price of institutional opacity.
 

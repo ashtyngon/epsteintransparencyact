@@ -50,9 +50,9 @@ The emergence of footage through civil cases outside DOJ control has complicated
 
 ## Drip by Drip
 
-This video is the latest in a series of releases that have exposed [high-profile names in emails and flight logs](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), led to [resignations at major corporations](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), and triggered [congressional subpoenas for billionaires like Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties).
+This video is the latest in a series of releases that have exposed [high-profile names in emails and flight logs](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), led to [resignations at major corporations](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), and triggered [congressional subpoenas for billionaires like Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties).
 
-The [New York Times is now conducting a major investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of records becoming available under the Epstein Transparency Act, which [became law earlier this year](/articles/epstein-transparency-act-signed-into-law).
+The [New York Times is now conducting a major investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of pages of records becoming available under the Epstein Transparency Act, which [became law earlier this year](/news/epstein-transparency-act-signed-into-law).
 
 The incremental pace of releases has drawn criticism. This material existed for years before becoming public through court-ordered disclosure.
 

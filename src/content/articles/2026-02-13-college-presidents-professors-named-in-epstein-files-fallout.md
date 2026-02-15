@@ -56,6 +56,6 @@ Epstein funded research programs, endowed faculty positions, and used those conn
 
 Universities that accepted his money now face scrutiny over their role in enabling a sex trafficker through continued financial relationships. Administrators are also fielding questions about due diligence—specifically, why faculty and administrators continued working with Epstein after his criminal history became public in 2008.
 
-The academic fallout adds another dimension to [the broader Epstein files release](/articles/court-releases-new-batch-of-documents), which has already forced [resignations on Wall Street](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and exposed [financial institutions' ties to trafficking operations](/articles/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
+The academic fallout adds another dimension to [the broader Epstein files release](/news/court-releases-new-batch-of-documents), which has already forced [resignations on Wall Street](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and exposed [financial institutions' ties to trafficking operations](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
 
 Student groups and advocacy organizations are calling on universities to provide full accountings of their financial and institutional relationships with Epstein, including a complete list of donations received, campus visits logged, and faculty who maintained contact after his conviction.

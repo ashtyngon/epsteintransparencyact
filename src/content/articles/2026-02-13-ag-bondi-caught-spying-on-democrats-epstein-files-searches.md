@@ -57,7 +57,7 @@ The reaction from Trump's own base was strongly negative.
 
 A chorus of prominent MAGA voices are now calling for Bondi's removal, Axios reports, prompting public disagreement within the conservative coalition. The Justice Department has ended its release of Epstein-related documents, but "Americans' thirst for answers and additional prosecutions persists," according to the outlet, "causing a headache for President Trump."
 
-On Friday, Trump brought [**Commerce Secretary Howard Lutnick**](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) with him on a visit to Fort Bragg, giving Lutnick a seat on Air Force One despite the secretary having given "conflicting accounts of his Epstein ties," according to The Independent.
+On Friday, Trump brought [**Commerce Secretary Howard Lutnick**](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) with him on a visit to Fort Bragg, giving Lutnick a seat on Air Force One despite the secretary having given "conflicting accounts of his Epstein ties," according to The Independent.
 
 For many Trump supporters, the Epstein files represent exactly the kind of protected elite corruption they voted to expose. The angry reaction to Bondi's handling of the files has come from across the political spectrum, including from within Trump's own base.
 
@@ -65,7 +65,7 @@ For many Trump supporters, the Epstein files represent exactly the kind of prote
 
 While Washington debates surveillance and testimony, the professional consequences for those named in the files continue to accelerate.
 
-**Sultan Ahmed bin Sulayem**, CEO and chairman of Dubai's **DP World**—one of the world's largest port operators—was replaced this week after appearing in the Epstein files "more than 4,700 times," according to CBS News, citing Justice Department data. The sheer volume of references is extraordinary. For context, [multiple corporate executives have already resigned](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) over far fewer mentions.
+**Sultan Ahmed bin Sulayem**, CEO and chairman of Dubai's **DP World**—one of the world's largest port operators—was replaced this week after appearing in the Epstein files "more than 4,700 times," according to CBS News, citing Justice Department data. The sheer volume of references is extraordinary. For context, [multiple corporate executives have already resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) over far fewer mentions.
 
 The Dubai case demonstrates that Epstein's network wasn't limited to American finance and academia—it extended into Middle Eastern infrastructure and global logistics. DP World operates ports on six continents. Sulayem's correspondence with Epstein, whatever its nature, occurred while he controlled critical nodes in global supply chains.
 
@@ -75,7 +75,7 @@ Mandelson, who served as the United Kingdom's ambassador to the United States, i
 
 ## The Misinformation Problem
 
-The avalanche of names has also created a dangerous side effect: misinformation and mistaken identity. The Guardian reported Friday that four men named by **Rep. Ro Khanna** in unredacted files "have no ties to Epstein." Khanna, who has been among the most aggressive Democratic voices demanding [full transparency](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act), appears to have misidentified individuals or referenced incomplete data.
+The avalanche of names has also created a dangerous side effect: misinformation and mistaken identity. The Guardian reported Friday that four men named by **Rep. Ro Khanna** in unredacted files "have no ties to Epstein." Khanna, who has been among the most aggressive Democratic voices demanding [full transparency](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act), appears to have misidentified individuals or referenced incomplete data.
 
 This is a known risk when millions of pages are released without proper context or annotation. Names appear in documents for countless reasons—some incriminating, many entirely innocent. A person mentioned in an email subject line, or included on a forwarded distribution list, is not the same as someone documented traveling to Epstein's island or receiving suspicious payments.
 
@@ -89,19 +89,19 @@ As Giridharadas and others have noted, Epstein offered access, introductions, re
 
 The documented record shows that knowing Epstein was not disqualifying within these institutions.
 
-The answer lies in institutional protection. As our previous reporting documented, elite networks closed ranks around Epstein even after his 2008 conviction. [Major financial institutions continued doing business with him](/articles/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed). Universities accepted his money. Law firms represented his interests. And when victims sought justice, they encountered a legal system that moved glacially, redacted aggressively, and settled quietly.
+The answer lies in institutional protection. As our previous reporting documented, elite networks closed ranks around Epstein even after his 2008 conviction. [Major financial institutions continued doing business with him](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed). Universities accepted his money. Law firms represented his interests. And when victims sought justice, they encountered a legal system that moved glacially, redacted aggressively, and settled quietly.
 
 That system is now under unprecedented stress. Victims are speaking publicly. Corporate boards are forcing resignations. And members of Congress—at least some of them—are demanding answers even at the risk of DOJ surveillance.
 
 ## What Remains Hidden
 
-For all the names now public, vast swaths of the Epstein files remain redacted. The FBI has [explained that ongoing investigations, privacy concerns, and national security considerations](/articles/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) justify the black bars covering entire pages. Some of those justifications may be legitimate. Others have been disputed by lawmakers and legal experts.
+For all the names now public, vast swaths of the Epstein files remain redacted. The FBI has [explained that ongoing investigations, privacy concerns, and national security considerations](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) justify the black bars covering entire pages. Some of those justifications may be legitimate. Others have been disputed by lawmakers and legal experts.
 
 The tension is that legitimate investigative secrecy and illegitimate cover-up look identical from the outside. When the DOJ says it cannot release certain names because doing so would compromise an ongoing probe, the public has no way to verify that claim. Trust in institutions to make that call honestly has been shattered by decades of delayed justice and selective prosecution.
 
 Bondi's combative testimony did nothing to restore that trust. Her refusal to acknowledge survivors in the hearing room, her defensive posture regarding Trump's past association with Epstein, and now the revelation that the DOJ may be tracking congressional searches—all occurred during the same week the DOJ announced it had ended its document releases.
 
-The [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law) was supposed to force this reckoning. It mandated the release of FBI files and created mechanisms for public accountability. But laws are only as strong as their enforcement. Enforcement of the Act has been uneven since its passage.
+The [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law) was supposed to force this reckoning. It mandated the release of FBI files and created mechanisms for public accountability. But laws are only as strong as their enforcement. Enforcement of the Act has been uneven since its passage.
 
 ## The Questions That Matter Now
 

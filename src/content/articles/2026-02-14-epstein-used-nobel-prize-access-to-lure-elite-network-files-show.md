@@ -45,12 +45,12 @@ The files show a pattern: Epstein would host Jagland, then leverage that relatio
 
 ## Gifts and Access
 
-[Emails revealed last week](/articles/2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal) showed Jagland received gifts from Epstein. The new documents show how Epstein capitalized on the relationship, using the Nobel committee leader's visits to position himself as a gateway to one of the world's most prestigious institutions.
+[Emails revealed last week](/news/2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal) showed Jagland received gifts from Epstein. The new documents show how Epstein capitalized on the relationship, using the Nobel committee leader's visits to position himself as a gateway to one of the world's most prestigious institutions.
 
 The files document Epstein's method across multiple contacts: establish a connection with a prominent institutional figure, then use that connection to recruit others. The Nobel Peace Prize provided access to global prestige that Epstein marketed to his network.
 
 ## Broader Network Revealed
 
-Epstein's Nobel-linked outreach was part of a wider pattern of cultivating relationships across business, government, and academia. Recent file releases—part of the 3.5 million pages, 180,000 images, and 2,000 videos released under the Epstein Transparency Act signed November 19, 2025—have exposed his [ties to university leaders](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout), [prominent lawyers](/articles/2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties), and [business executives](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) including Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel.
+Epstein's Nobel-linked outreach was part of a wider pattern of cultivating relationships across business, government, and academia. Recent file releases—part of the 3.5 million pages, 180,000 images, and 2,000 videos released under the Epstein Transparency Act signed November 19, 2025—have exposed his [ties to university leaders](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout), [prominent lawyers](/news/2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties), and [business executives](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) including Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel.
 
 The communications show Epstein's systematic approach: hosting Jagland gave him a talking point that combined institutional prestige with personal access. The files reveal how he used that combination in invitations and chats with elites spanning multiple industries and political affiliations.
