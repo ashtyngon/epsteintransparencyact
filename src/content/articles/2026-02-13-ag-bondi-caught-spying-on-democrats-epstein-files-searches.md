@@ -24,6 +24,12 @@ tags:
   - investigation
   - political
   - breaking
+keyTakeaways:
+  - "AG Pam Bondi was caught reviewing documents tracking which lawmakers searched specific names in unredacted Epstein files during a five-hour House Judiciary Committee hearing."
+  - "Sultan Ahmed Bin Sulayem, CEO of DP World, was forced out after appearing more than 4,700 times in the files."
+  - "Rep. Ted Lieu accused Bondi of lying under oath about Trump's relationship with Epstein; Bondi forcefully rejected the accusation."
+  - "Lord Peter Mandelson, former UK Labour cabinet minister and ambassador to the U.S., faces a congressional request to testify about his Epstein connections."
+  - "Ghislaine Maxwell was convicted December 29, 2021 and sentenced to 20 years; no additional co-conspirators have been prosecuted since the document releases began."
 status: published
 aiGenerated: true
 articleType: feature
@@ -104,7 +110,7 @@ First, whether the DOJ will comply with Democrats' demand to stop tracking congr
 
 Second, whether international figures like Mandelson will comply with congressional subpoenas. The U.S. has limited ability to compel testimony from foreign nationals, particularly those with diplomatic immunity.
 
-Third, whether anyone else will be prosecuted. Epstein is dead. Ghislaine Maxwell is in prison. But the files document a network sustained by enablers, financiers, and institutions. No additional criminal charges have been filed since the document releases began.
+Third, whether anyone else will be prosecuted. Epstein died on August 10, 2019 at the Metropolitan Correctional Center. Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years in federal prison. But the files document a network sustained by enablers, financiers, and institutions. No additional criminal charges have been filed since the document releases began.
 
 The infrastructure of Epstein's power, as Giridharadas termed it, involved a large number of powerful people across multiple institutions. Every name released has created new pressure points, new lobbying campaigns, and new legal fights.
 

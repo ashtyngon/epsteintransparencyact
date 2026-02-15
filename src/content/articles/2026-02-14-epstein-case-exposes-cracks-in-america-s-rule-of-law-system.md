@@ -23,6 +23,12 @@ relatedArticles:
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
 tags:
   - political
+keyTakeaways:
+  - "China's CGTN published an editorial using America's Epstein cover-up as propaganda, claiming the case mirrors the decline of American rule of law."
+  - "The DOJ released 3.5 million pages under the Epstein Transparency Act (signed November 19, 2025, passed House 427-1) but maintained heavy redactions throughout."
+  - "Les Wexner, who transferred a $77 million mansion to Epstein for $0, was subpoenaed by Congress; Lord Peter Mandelson, former UK ambassador to the U.S., was also summoned to testify."
+  - "Kathryn Ruemmler resigned from Goldman Sachs after 'Uncle Jeffrey' emails surfaced; Sultan Ahmed Bin Sulayem left DP World over 4,700 file mentions."
+  - "Epstein's 2008 plea deal, negotiated by Alexander Acosta with defense lawyers Alan Dershowitz and Kenneth Starr, resulted in just 13 months of county jail with work release."
 status: published
 aiGenerated: true
 articleType: news
@@ -37,15 +43,15 @@ That's what happens when the Justice Department stonewalls transparency laws pas
 
 For years, State Department officials have issued reports cataloging human rights abuses abroad, demanding access to detention facilities, and calling out authoritarian regimes for opacity. American diplomats routinely invoke "rule of law" as a cornerstone principle.
 
-But at home, the DOJ maintains massive redactions in Epstein files despite the Epstein Transparency Act. [Attorney General Pam Bondi resists full document release](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her office was caught [tracking which lawmakers searched for specific names](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches) in the files. And [President Trump called for ending the investigation entirely](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation), suggesting the country should "move on."
+But at home, the DOJ maintains massive redactions across 3.5 million pages of Epstein files despite the Epstein Transparency Act, which passed the House 427-1, the Senate unanimously, and was signed into law on November 19, 2025. [Attorney General Pam Bondi resists full document release](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her office was caught [tracking which lawmakers searched for specific names](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches) in the files. And [President Trump called for ending the investigation entirely](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation), suggesting the country should "move on."
 
 Foreign adversaries don't miss these contradictions.
 
 ## Two Standards of Justice
 
-A [House member named six men hidden in the redacted files](/articles/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) from the House floor, including billionaire Les Wexner, whom he labeled a co-conspirator. Congress has [subpoenaed Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Peter Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) to testify. 
+A [House member named six men hidden in the redacted files](/articles/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) from the House floor, including billionaire Les Wexner — Epstein's only confirmed financial client, who transferred a $77 million Manhattan mansion to Epstein for $0 — and labeled him a co-conspirator. Congress has [subpoenaed Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Peter Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), former UK Labour cabinet minister and Baron Mandelson, to testify. 
 
-Corporate executives started falling. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) after "Uncle Jeffrey" emails surfaced. The [Dubai ports CEO was forced out](/articles/2026-02-13-dubai-port-ceo-ousted-over-4-700-epstein-files-mentions) over 4,700 file mentions. A [federal court allowed a trafficking lawsuit against Bank of America to proceed](/articles/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
+Corporate executives started falling. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) after "Uncle Jeffrey" emails surfaced. [Sultan Ahmed Bin Sulayem, CEO and chairman of DP World, was forced out](/articles/2026-02-13-dubai-port-ceo-ousted-over-4-700-epstein-files-mentions) over 4,700 file mentions. A [federal court allowed a trafficking lawsuit against Bank of America to proceed](/articles/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
 
 Yet the individuals at the center—those who funded, facilitated, or enabled Epstein's operation for years—remain largely shielded by DOJ redactions.
 
@@ -61,4 +67,4 @@ Every unjustified redaction, every dodged question in congressional hearings, ev
 
 Beijing is now wielding the Epstein case as a cudgel. That's the price of institutional opacity.
 
-The fix remains simple: release the documents, name the names, and let Americans see what their government knows about who enabled Jeffrey Epstein and why they faced no consequences. Until then, every speech about "rule of law" abroad rings hollow.
+The fix remains simple: release the documents, name the names, and let Americans see what their government knows about who enabled Jeffrey Epstein and why they faced no consequences. Epstein died on August 10, 2019 at the Metropolitan Correctional Center. Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years. No additional co-conspirators have been charged. Until the full record is public, every speech about "rule of law" abroad rings hollow.

@@ -14,22 +14,27 @@ relatedArticles:
 tags:
   - associates
   - document-release
+keyTakeaways:
+  - "Joel Klein, former NYC Schools Chancellor (2002-2010) and later News Corp executive, met repeatedly with Jeffrey Epstein over several months in 2013."
+  - "The meetings occurred five years after Epstein's 2008 Florida conviction for soliciting prostitution from a minor."
+  - "Klein had moved to News Corp as CEO of its education division, Amplify, when the meetings took place."
+  - "The disclosure comes from the New York Times' investigation into millions of pages released under the Epstein Transparency Act."
 status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95
 ---
 
-Joel Klein, who ran the New York City school system before leading an education technology company, met with Jeffrey Epstein over several months in 2013, according to the New York Times.
+Joel Klein, who served as Chancellor of the New York City Department of Education from 2002 to 2010—overseeing the nation's largest public school system with 1.1 million students—met repeatedly with Jeffrey Epstein over several months in 2013, according to the New York Times.
 
-The meetings occurred after Klein left his role as schools chancellor and moved to the private sector.
+The meetings occurred after Klein left his chancellor role and joined Rupert Murdoch's News Corp as CEO of its education division, Amplify. Klein had previously served as U.S. Assistant Attorney General for the Antitrust Division under President Clinton before leading NYC schools under Mayor Michael Bloomberg.
 
-The Times report did not specify the nature or context of the meetings between Klein and Epstein during that period.
+The Times report did not specify the nature or context of the meetings between Klein and Epstein during that period. The 2013 meetings took place five years after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor—a period when many prominent figures continued meeting with Epstein despite his status as a registered sex offender.
 
 ## Part of Broader File Review
 
-The disclosure comes from the [New York Times' ongoing investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into millions of documents related to Epstein's network of contacts.
+The disclosure comes from the [New York Times' ongoing investigation](/articles/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into the 3.5 million pages, 180,000 images, and 2,000 videos released under the Epstein Transparency Act, signed November 19, 2025.
 
-That review has identified connections between Epstein and numerous prominent figures in education, business, and government. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files, and [multiple college presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have been identified in the documents.
+That review has identified connections between Epstein and numerous prominent figures in education, business, and government. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files, and [multiple college presidents and professors](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have been identified in the documents. Epstein donated $9.1 million to Harvard between 1998 and 2008, and MIT Media Lab director Joi Ito resigned in September 2019 after Epstein funding ties were exposed.
 
-Klein's meetings with Epstein took place during 2013, years after Epstein's 2008 conviction.
+Klein's meetings with Epstein took place during 2013, years after Epstein's conviction and six years before Epstein's death on August 10, 2019 at the Metropolitan Correctional Center. Klein has not publicly commented on the nature of the meetings or his relationship with Epstein.

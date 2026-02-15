@@ -18,6 +18,12 @@ tags:
   - document-release
   - associates
   - breaking
+keyTakeaways:
+  - "Casey Wasserman, 51, announced the sale of his Hollywood talent and marketing agency after communications with Ghislaine Maxwell surfaced in DOJ documents."
+  - "Clients including Chappell Roan and Abby Wambach cut ties with the firm; the agency also represents Coldplay, Ed Sheeran, and Kendrick Lamar."
+  - "Sultan Ahmed Bin Sulayem stepped down as chair of DP World after appearing 4,700+ times in Epstein files; Kathryn Ruemmler resigned from Goldman Sachs."
+  - "Wasserman led the LA 2028 Olympics bid; he is the grandson of Lew Wasserman, who built MCA into an entertainment empire."
+  - "The Epstein Transparency Act, signed November 19, 2025, mandated the release of FBI files including emails, flight logs, and financial documents spanning decades."
 status: published
 aiGenerated: true
 articleType: news
@@ -30,13 +36,13 @@ Clients including pop star Chappell Roan and soccer player Abby Wambach cut ties
 
 ## Third Major Resignation
 
-Wasserman's exit follows two other high-profile departures tied to the Epstein document release. [Sultan Ahmed bin Sulayem stepped down as chair of Dubai's DP World](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after hundreds of emails between him and Epstein's network surfaced. [Goldman Sachs lost its top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files.
+Wasserman's exit follows two other high-profile departures tied to the Epstein document release. [Sultan Ahmed Bin Sulayem stepped down as chair of Dubai's DP World](/articles/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after appearing more than 4,700 times in the files. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced showing she referred to Epstein as "Uncle Jeffrey."
 
-The Justice Department released investigative materials on Epstein earlier this month under the [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law), which became law in January. The records include emails, flight logs, and financial documents spanning decades of Epstein's connections to business leaders, politicians, and celebrities.
+The Justice Department released 3.5 million pages, 180,000 images, and 2,000 videos under the [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law), which passed the House 427-1, the Senate unanimously, and was signed into law on November 19, 2025. The records include emails, flight logs, and financial documents spanning decades of Epstein's connections to business leaders, politicians, and celebrities.
 
-## Son of Hollywood Legend
+## Grandson of Hollywood Legend
 
-Wasserman, 51, is the son of Lew Wasserman, who built MCA into an entertainment empire. Beyond representing talent, he led Los Angeles's bid for the 2028 Olympics.
+Wasserman, 51, is the grandson of Lew Wasserman, who built MCA into an entertainment empire. Beyond representing talent, he served as chairman of the LA 2028 Olympic and Paralympic Games organizing committee.
 
 The agency has not disclosed how many clients left after the Maxwell communications surfaced, or what the emails contained. Wasserman did not announce a timeline for the sale.
 

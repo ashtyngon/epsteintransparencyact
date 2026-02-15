@@ -15,6 +15,11 @@ tags:
   - investigation
   - associates
   - document-release
+keyTakeaways:
+  - "British police created a national coordination group to handle allegations tied to Epstein's trafficking network in the United Kingdom."
+  - "At least three UK police forces are currently investigating allegations triggered by the U.S. document releases."
+  - "A senior policing source described the expected volume of claims as a 'tsunami' following the release of papers."
+  - "The task force will investigate both Epstein's trafficking operations with UK ties and claims against his associates, including Prince Andrew."
 status: published
 aiGenerated: true
 articleType: news

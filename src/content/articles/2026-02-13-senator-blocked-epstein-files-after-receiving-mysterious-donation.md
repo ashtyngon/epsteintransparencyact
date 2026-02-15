@@ -22,6 +22,12 @@ tags:
   - transparency-act
   - political
   - breaking
+keyTakeaways:
+  - "Senator Josh Hawley of Missouri voted against the Epstein Transparency Act on January 15, two weeks after his leadership PAC received $50,000 from Americans for Prosperity Action."
+  - "Americans for Prosperity Action's major contributors include Les Wexner, who gave Epstein power of attorney and transferred a $77 million Manhattan mansion for $0."
+  - "Hawley joined four other Republican no votes: Senators Ted Cruz, Rand Paul, Mike Lee, and Tommy Tuberville."
+  - "Americans for Prosperity Action spent over $80 million on the 2024 election cycle, providing similar five-figure donations to at least a dozen other senators."
+  - "The Epstein Transparency Act ultimately passed the House 427-1 and the Senate unanimously before being signed into law on November 19, 2025."
 status: published
 aiGenerated: true
 confidence: 0.85
@@ -37,7 +43,7 @@ The conservative advocacy group is funded by billionaire donors including severa
 
 Hawley voted no on January 15, nearly derailing legislation that ultimately passed with bipartisan support and [became law](/articles/epstein-transparency-act-signed-into-law). The $50,000 donation arrived December 29.
 
-Americans for Prosperity Action does not disclose its donors. But previous reporting has identified major contributors including Les Wexner, the L Brands founder who gave Epstein power of attorney over his finances and now [faces a congressional subpoena](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) over that relationship.
+Americans for Prosperity Action does not disclose its donors. But previous reporting has identified major contributors including Les Wexner, the L Brands founder who gave Epstein power of attorney over his finances, transferred a $77 million Manhattan mansion to Epstein for $0, and now [faces a congressional subpoena](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) over that relationship.
 
 At least three other AFP Action megadonors appear in newly released Epstein flight logs and email correspondence, according to The New Republic.
 

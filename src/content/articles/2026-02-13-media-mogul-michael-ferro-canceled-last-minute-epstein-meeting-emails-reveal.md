@@ -28,6 +28,12 @@ tags:
   - court-documents
   - associates
   - breaking
+keyTakeaways:
+  - "Michael Ferro, former chairman of the Chicago Tribune and Chicago Sun-Times, appears in newly released emails showing he canceled a meeting with Epstein 'at the last minute.'"
+  - "Deputy AG Todd Blanche accused Reps. Ro Khanna and Thomas Massie of naming 'completely random people' with no Epstein ties; The Guardian confirmed four men named by Khanna had no documented connections."
+  - "AG Pam Bondi's five-hour congressional testimony satisfied no one—Democrats accused her of lying under oath, and top MAGA voices called for her removal."
+  - "The January 30, 2026 DOJ release contained 3 million pages of documents, triggering a wave of resignations at Goldman Sachs, DP World, and multiple universities."
+  - "University of Virginia politics expert Larry Sabato called the Epstein files 'a festering sore' for President Trump as the controversy fractures his conservative coalition."
 status: published
 aiGenerated: true
 articleType: feature

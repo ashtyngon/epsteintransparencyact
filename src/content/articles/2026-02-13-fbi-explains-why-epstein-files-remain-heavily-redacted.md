@@ -40,6 +40,12 @@ tags:
   - court-documents
   - transparency-act
   - document-release
+keyTakeaways:
+  - "The FBI cited three justifications for redactions: protecting ongoing investigations, shielding intelligence sources and methods, and preventing harm to individuals not charged with crimes."
+  - "Rep. Thomas Massie named six individuals on the House floor whose identities had been redacted, including Les Wexner, whom he labeled a co-conspirator."
+  - "The FBI's explanations came more than a week after AG Pam Bondi faced a five-hour aggressive questioning session before the House Judiciary Committee."
+  - "Critics question the 'ongoing investigation' rationale given Epstein died in August 2019 and Ghislaine Maxwell was sentenced in June 2022."
+  - "The Epstein Transparency Act mandated document release, but critics say the FBI's explanations satisfy legal requirements without providing substantive transparency."
 aiGenerated: true
 confidence: 0.95
 ---

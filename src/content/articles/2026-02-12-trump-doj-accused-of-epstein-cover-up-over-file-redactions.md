@@ -19,6 +19,12 @@ tags:
   - transparency-act
   - document-release
   - political
+keyTakeaways:
+  - "Newsmax host Carl Higbie accused the Trump DOJ of a 'cover-up' for redacting names from Epstein files and demanded officials 'go to jail.'"
+  - "The Epstein Transparency Act, signed November 19, 2025 after passing the House 427-1, mandated declassification but released documents arrived heavily redacted."
+  - "Les Wexner was labeled a co-conspirator by a congressman who named six individuals hidden in DOJ redactions."
+  - "Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after Epstein communications surfaced."
+  - "The criticism from Newsmax — typically a Trump-friendly outlet — signals a fracture in the conservative coalition over Epstein transparency."
 status: published
 aiGenerated: true
 confidence: 0.85
@@ -38,11 +44,11 @@ The criticism arrives as the administration faces pressure from multiple directi
 
 ## Transparency Law, Redacted Results
 
-Trump signed the Epstein Transparency Act into law, mandating declassification of records related to the financier's crimes and connections. But the documents released so far have arrived heavily redacted, obscuring information the law was designed to make public.
+Trump signed the Epstein Transparency Act into law on November 19, 2025, after it passed the House 427-1 and the Senate unanimously, mandating declassification of records related to the financier's crimes and connections. The DOJ subsequently released 3.5 million pages, 180,000 images, and 2,000 videos — but the documents arrived heavily redacted, obscuring information the law was designed to make public.
 
 Higbie's demand for criminal prosecution takes the controversy beyond policy criticism into direct accountability. He's not asking for better processes or more transparency — he wants Justice Department officials prosecuted for limiting what Americans can see.
 
-Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner a co-conspirator](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). [Goldman Sachs' top lawyer resigned after her communications with Epstein became public](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files).
+Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner — who transferred a $77 million Manhattan mansion to Epstein for $0 — a co-conspirator](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing she referred to Epstein as "Uncle Jeffrey"](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files).
 
 Higbie's central criticism is that the law mandated disclosure, and the DOJ's redactions contradict that mandate. He asked who decided which names the public can see and which remain protected.
 

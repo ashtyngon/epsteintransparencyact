@@ -28,6 +28,12 @@ tags:
   - document-release
   - associates
   - breaking
+keyTakeaways:
+  - "Casey Wasserman, LA 2028 Olympics chief and grandson of MCA founder Lew Wasserman, is selling his talent agency after clients fled following exposure of his emails with convicted accomplice Ghislaine Maxwell."
+  - "Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails referred to Epstein as 'Uncle Jeffrey.'"
+  - "Sultan Ahmed bin Sulayem was ousted from DP World after his name appeared 4,700+ times in the files."
+  - "Les Wexner, who transferred a $77M mansion to Epstein for $0, was subpoenaed by Congress; Ohio politicians received his campaign donations."
+  - "The DOJ released 3.5 million pages under the Transparency Act signed November 19, 2025, but Reps. Khanna and Massie accuse the department of selectively redacting powerful names."
 status: published
 aiGenerated: true
 articleType: feature
@@ -36,7 +42,7 @@ confidence: 0.92
 
 # The Epstein Files Fallout: Olympic Chief's Agency Sale Marks New Wave of Elite Casualties
 
-**Casey Wasserman**, the Los Angeles entertainment executive leading preparations for the **2028 Olympic Games**, is preparing to sell his powerful entertainment agency after a devastating client exodus triggered by the exposure of his email correspondence with **Ghislaine Maxwell**, according to The New York Times. The move marks one of the highest-profile corporate casualties yet in the expanding fallout from the Justice Department's massive release of Epstein-related documents.
+**Casey Wasserman**, the Los Angeles entertainment executive leading preparations for the **2028 Olympic Games** and grandson of MCA founder Lew Wasserman, is preparing to sell his powerful entertainment agency after a devastating client exodus triggered by the exposure of his email correspondence with **Ghislaine Maxwell**, according to The New York Times. Maxwell was convicted on December 29, 2021 on five counts of sex trafficking and conspiracy, and sentenced to 20 years in federal prison. The move marks one of the highest-profile corporate casualties yet in the expanding fallout from the Justice Department's release of 3.5 million pages, 180,000 images, and 2,000 videos of Epstein-related documents under the Transparency Act signed November 19, 2025.
 
 Wasserman's decision to divest from the Wasserman Media Group—which he founded and built into one of the industry's most influential talent agencies—comes as newly revealed emails demonstrate direct communication between the Olympic leader and Maxwell, Jeffrey Epstein's longtime associate and convicted sex trafficker. The revelations have cost Wasserman clients and credibility at a moment when Los Angeles is positioning itself on the global stage.
 
@@ -78,7 +84,7 @@ The University of Alabama revelation is particularly notable because it demonstr
 
 As [Congress subpoenas billionaire Leslie Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) to testify about his decades-long relationship with Epstein, WFMJ has revealed a new wrinkle: **Ohio politicians received campaign funds from Wexner**, who has been [labeled a potential co-conspirator](/articles/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) by members of Congress.
 
-The campaign finance angle adds another layer of political complexity to an already explosive story. Wexner, the founder of Victoria's Secret parent company L Brands, has long been known as Epstein's primary financial patron and the source of much of his wealth. Documents show Wexner gave Epstein power of attorney over his finances and that Epstein operated out of a Manhattan mansion owned by Wexner.
+The campaign finance angle adds another layer of political complexity to an already explosive story. Wexner, the founder of Victoria's Secret parent company L Brands and Epstein's only confirmed financial client, has long been known as Epstein's primary financial patron. Documents show Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0. Epstein operated out of that mansion until his arrest in July 2019.
 
 Now Ohio politicians who accepted Wexner's donations face uncomfortable questions about whether they benefited from money connected to Epstein's network. The revelations complicate what was already shaping up to be contentious congressional testimony, assuming Wexner complies with the subpoena.
 

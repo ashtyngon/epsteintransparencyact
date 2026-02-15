@@ -19,6 +19,12 @@ tags:
   - document-release
   - investigation
   - political
+keyTakeaways:
+  - "The New York Times investigation concluded Epstein was 'a sexual predator given a free ride by the ruling class,' based on millions of pages of documents."
+  - "The Times examination, titled 'The Epstein Files and the Hidden World of an Unaccountable Elite,' focuses on institutional protection at high levels of American power."
+  - "The files have already triggered resignations of Goldman Sachs' top lawyer Kathryn Ruemmler and DP World chairman Sultan Ahmed bin Sulayem."
+  - "Congress has subpoenaed Les Wexner, Epstein's longtime financier, and Rep. Thomas Massie read redacted names into the Congressional Record."
+  - "Attorney General Pam Bondi faces mounting pressure over why the DOJ continues redacting documents without clear legal grounds."
 status: published
 aiGenerated: true
 confidence: 0.95
@@ -36,7 +42,7 @@ But the broader pattern, according to the Times, is already documented. The reco
 
 ## Elite Accountability on Trial
 
-The Times investigation arrives as the Epstein files have already triggered [a wave of high-profile exits](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)—[Goldman Sachs' top lawyer](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), a [billionaire CEO](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), and [DP World's chairman](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) all forced out after their Epstein connections surfaced.
+The Times investigation arrives as the Epstein files have already triggered [a wave of high-profile exits](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)—[Goldman Sachs' top lawyer Kathryn Ruemmler](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), former White House counsel to President Obama, and [DP World chairman Sultan Ahmed bin Sulayem](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), who appeared more than 4,700 times in the files, both forced out after their Epstein connections surfaced.
 
 Meanwhile, [Attorney General Pam Bondi faces mounting pressure](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) over why the Justice Department continues redacting documents without clear legal grounds. [Congress has subpoenaed Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's longtime financier. [One congressman read names into the Congressional Record](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) because DOJ won't.
 
@@ -46,6 +52,6 @@ The question the Times investigation frames isn't whether individual documents p
 
 The phrase "ruling class" is the Times' own language, used in its investigation to describe what the documents reveal: an ecosystem where the wealthy and connected operated under different standards, and where exposing a sexual predator threatened established networks.
 
-The investigation will take months to complete. But its core finding is already documented: power protected a predator, and the cost was borne by his victims.
+The investigation will take months to complete. The Times has assigned **24 journalists** to review the files, which would stack as high as the Empire State Building if printed. But its core finding is already documented: power protected a predator, and the cost was borne by his victims.
 
-Document releases and resignations continue. The Times investigation is focused on determining how many people knew about Epstein's conduct, how many were aware and did not act, and why no one in his circle intervened.
+Document releases and resignations continue. The Times investigation is focused on determining how many people knew about Epstein's conduct, how many were aware and did not act, and why no one in his circle intervened. Epstein died in August 2019 in a Manhattan jail cell. Ghislaine Maxwell was convicted in December 2021 and sentenced to 20 years in June 2022. Yet the full scope of his network remains only partially exposed.

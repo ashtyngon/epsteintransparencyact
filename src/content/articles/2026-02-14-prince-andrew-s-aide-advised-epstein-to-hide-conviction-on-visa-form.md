@@ -44,6 +44,12 @@ tags:
   - document-release
   - associates
   - court-documents
+keyTakeaways:
+  - "David Stern, a close associate of Prince Andrew, advised Jeffrey Epstein to conceal his 2008 child sexual abuse conviction on a Chinese visa application."
+  - "Deliberately omitting a criminal conviction on a visa application constitutes fraud under both U.S. and international law."
+  - "Les Wexner gave Epstein power of attorney over his finances and transferred his $77 million New York mansion for $1."
+  - "Congress subpoenaed Wexner to testify under oath — the first time he will face Congressional questioning about his decades-long Epstein association."
+  - "The House Oversight Committee under Chairman Ro Khanna expanded its investigation with additional subpoenas beyond Wexner and Lord Mandelson."
 status: published
 aiGenerated: true
 articleType: feature

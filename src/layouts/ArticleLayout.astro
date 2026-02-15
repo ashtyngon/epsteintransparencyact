@@ -12,7 +12,7 @@ interface Props {
 }
 
 const { article } = Astro.props;
-const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, relatedArticles, tags, image } = article.data;
+const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, relatedArticles, tags, image, keyTakeaways } = article.data;
 
 // Load related article data for display
 const { getCollection } = await import('astro:content');
@@ -89,6 +89,20 @@ const jsonLd = articleJsonLd({
 
     <!-- Article body -->
     <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+      {keyTakeaways.length > 0 && (
+        <div class="mb-10 border-l-4 border-accent bg-surface-dark px-6 py-5">
+          <h2 class="text-xs font-bold uppercase tracking-widest text-accent mb-3">Key Takeaways</h2>
+          <ul class="space-y-2">
+            {keyTakeaways.map((takeaway) => (
+              <li class="flex items-start gap-2 text-sm leading-relaxed text-text-primary">
+                <span class="text-accent mt-1 flex-shrink-0">&#9654;</span>
+                <span>{takeaway}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
       <div class="prose-article">
         <slot />
       </div>

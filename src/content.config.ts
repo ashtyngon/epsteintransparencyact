@@ -20,6 +20,7 @@ const articles = defineCollection({
     reviewedAt: z.coerce.date().optional(),
     confidence: z.number().min(0).max(1).optional(),
     image: z.string().optional(),
+    keyTakeaways: z.array(z.string()).default([]),
   }),
 });
 

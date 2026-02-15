@@ -23,16 +23,22 @@ tags:
   - associates
   - document-release
   - breaking
+keyTakeaways:
+  - "Sultan Ahmed bin Sulayem, CEO and chairman of DP World, resigned after his name appeared 4,700+ times in the Epstein files, according to CBS News."
+  - "DP World operates ports across six continents and employs approximately 103,000 people; the company cited only 'strategic realignment' for bin Sulayem's departure."
+  - "Rep. Ro Khanna publicly praised the resignation and demanded full disclosure of all names in the Epstein files."
+  - "The resignation follows Goldman Sachs top lawyer Kathryn Ruemmler's departure, marking the second major corporate exit in one week from the Epstein document releases."
+  - "Attorney General Pam Bondi has refused demands for full document release despite mounting congressional pressure."
 status: published
 aiGenerated: true
 confidence: 0.92
 ---
 
-The head of Dubai's massive ports operation has quit after newly released documents showed he exchanged hundreds of emails with Jeffrey Epstein.
+The head of Dubai's massive ports operation has quit after newly released documents showed he was mentioned more than **4,700 times** in the Epstein files, according to CBS News.
 
-Sultan Ahmed bin Sulayem's departure from the Dubai-based ports giant follows the exposure of extensive correspondence with the convicted sex trafficker, according to BBC News.
+**Sultan Ahmed bin Sulayem's** departure from **DP World**—which operates ports across six continents and employs approximately 103,000 people—follows the exposure of extensive correspondence with the convicted sex trafficker, according to BBC News. The company offered only a brief statement citing "strategic realignment."
 
-The content of the hundreds of emails between bin Sulayem and Epstein has not been disclosed.
+The content of the thousands of documented interactions between bin Sulayem and Epstein has not been disclosed.
 
 ## Another Executive Exit
 

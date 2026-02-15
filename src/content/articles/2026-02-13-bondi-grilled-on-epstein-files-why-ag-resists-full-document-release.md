@@ -23,6 +23,12 @@ tags:
   - testimony
   - political
   - breaking
+keyTakeaways:
+  - "AG Pam Bondi faced a contentious House Judiciary Committee hearing over DOJ's handling of the 3.5 million pages of Epstein files released under the Transparency Act."
+  - "Conservative media outlets and MAGA-aligned commentators turned against Bondi after she defended the DOJ's redactions rather than championing transparency."
+  - "Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after her Epstein connections were exposed in the files."
+  - "Sultan Ahmed Bin Sulayem stepped down from DP World after appearing 4,700+ times in Epstein documents."
+  - "The DOJ was found to have tracked which lawmakers searched the Epstein files, raising constitutional concerns about executive surveillance of congressional oversight."
 status: published
 aiGenerated: true
 confidence: 0.92
@@ -40,7 +46,7 @@ Bondi's defense of DOJ's approach contrasted with earlier Republican calls for t
 
 ## The Files Continue Prompting Resignations
 
-While Bondi defended the department's pace, the files themselves continue generating fallout in the private sector. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after the documents exposed his connections. [DP World's chairman stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after secret emails were exposed.
+While Bondi defended the department's pace, the files themselves continue generating fallout in the private sector. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced showing she referred to Epstein as "Uncle Jeffrey." [Sultan Ahmed Bin Sulayem stepped down as chair and CEO of DP World](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after appearing more than 4,700 times in the files.
 
 Corporations have acted within days of document releases, while DOJ has maintained a slower pace on disclosure. The department was also recently found to have been [tracking which lawmakers search the Epstein files](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
 

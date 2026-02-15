@@ -18,6 +18,12 @@ tags:
   - court-documents
   - investigation
   - breaking
+keyTakeaways:
+  - "Video footage from a hidden camera inside Epstein's Palm Beach office has surfaced through civil litigation, not through the DOJ's document release process."
+  - "Epstein's properties—Palm Beach, the Manhattan townhouse at 9 East 71st Street, his New Mexico ranch, and Little St. James island—were all wired with surveillance cameras."
+  - "The FBI seized hard drives, computers, and digital storage during its July 2019 raid on Epstein's properties; the full status of that material has not been publicly disclosed."
+  - "The Palm Beach mansion was the site of Epstein's 2008 plea deal, where he avoided federal trafficking charges by pleading guilty to state prostitution charges."
+  - "Victims' advocates are calling for a full accounting of all surveillance footage in government possession, arguing it could identify additional perpetrators."
 status: published
 aiGenerated: true
 confidence: 0.95
@@ -31,7 +37,7 @@ The footage, captured by a camera in Epstein's office, shows the interior of the
 
 The Independent did not report what the video shows or who appears in it. The existence of office surveillance footage has prompted calls from victims' advocates for a full accounting of all recorded material in government possession.
 
-Epstein's homes were wired with cameras. The Palm Beach mansion, his New York townhouse, his New Mexico ranch, and his private island all had monitoring systems. When the FBI raided his properties in 2019, agents hauled away hard drives, computers, and digital storage. 
+Epstein's homes were wired with cameras. The Palm Beach mansion, his New York townhouse at **9 East 71st Street** (transferred to him by **Les Wexner**), his **Zorro Ranch** in Stanley, New Mexico, and his private island **Little St. James** in the U.S. Virgin Islands all had monitoring systems. When the FBI raided his Manhattan townhouse on **July 6, 2019**, agents seized hard drives, computers, and digital storage devices, including what prosecutors described as a locked safe containing compact discs labeled with handwritten names.
 
 The status of that material—how much still exists and how much has been analyzed—has not been publicly disclosed. This video emerged through civil discovery rather than through the Justice Department's document release process.
 
@@ -49,6 +55,6 @@ The [New York Times is now conducting a major investigation](/articles/2026-02-1
 
 The incremental pace of releases has drawn criticism. This material existed for years before becoming public through court-ordered disclosure.
 
-The Palm Beach mansion was the site of his 2008 sweetheart plea deal, where he avoided federal trafficking charges by pleading guilty to state prostitution charges. Federal prosecutors knew what happened in that house. They cut a deal anyway.
+The Palm Beach mansion was the site of his 2008 sweetheart plea deal, brokered by then-U.S. Attorney **Alexander Acosta**, where Epstein avoided federal trafficking charges by pleading guilty to state prostitution charges and serving just 13 months in a county jail with work-release privileges. Federal prosecutors knew what happened in that house. They cut a deal anyway.
 
 Now, nearly two decades later, we're getting video from inside the office where it all happened — not because the government chose transparency, but because courts are forcing it.

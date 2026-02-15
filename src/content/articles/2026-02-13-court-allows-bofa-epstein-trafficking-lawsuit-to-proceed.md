@@ -10,6 +10,12 @@ tags:
   - court-documents
   - victims
   - investigation
+keyTakeaways:
+  - "A federal court in New York ruled on February 13, 2026 that an Epstein victim's trafficking claims against Bank of America can proceed."
+  - "The lawsuit alleges Bank of America failed to file Suspicious Activity Reports as required by federal banking regulations and profited from Epstein's sex trafficking operation."
+  - "Claims under the Trafficking Victims Protection Act for participation and obstruction survived the bank's motion to dismiss."
+  - "The case will now proceed to discovery, where the victim's legal team can seek internal Bank of America documents related to Epstein's accounts."
+  - "This is one of the first instances where trafficking claims against a major bank in connection with Epstein have survived initial legal challenges."
 status: published
 aiGenerated: true
 confidence: 0.95

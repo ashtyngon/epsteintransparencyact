@@ -29,6 +29,12 @@ tags:
   - associates
   - political
   - breaking
+keyTakeaways:
+  - "Thorbjorn Jagland, former Norwegian prime minister and Nobel Committee chairman (2009-2015), maintained 'mutually beneficial ties' with Epstein, according to the New York Times."
+  - "DP World CEO Sultan Ahmed bin Sulayem appeared 4,700+ times in the Epstein files and was replaced this week; DP World cited only 'strategic realignment.'"
+  - "Top MAGA voices are calling for AG Pam Bondi's removal after her five-hour congressional testimony, fracturing the conservative coalition."
+  - "Commerce Secretary Howard Lutnick received a seat on Air Force One despite giving conflicting accounts of his Epstein ties."
+  - "Reps. Robert Garcia and Suhas Subramanyam formally requested Lord Peter Mandelson testify, stating he 'holds critical information' about Epstein's network."
 status: published
 aiGenerated: true
 articleType: feature

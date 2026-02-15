@@ -22,6 +22,12 @@ tags:
   - associates
   - investigation
   - breaking
+keyTakeaways:
+  - "Congressional investigators agreed to depose billionaire Leslie Wexner, 87, in Ohio rather than compelling him to testify in Washington, D.C."
+  - "Wexner gave Epstein power of attorney over his finances and transferred ownership of a Manhattan mansion at 9 East 71st Street that became a hub for abuse."
+  - "A House Oversight Committee member publicly labeled Wexner a 'co-conspirator' in Epstein's sex trafficking operation on the House floor."
+  - "Wexner, the founder of Victoria's Secret and L Brands, claims he severed ties with Epstein in 2007, but the depth of his knowledge about Epstein's crimes remains unclear."
+  - "The deposition terms—location, whether testimony is under oath, and whether transcripts will be public—have not been disclosed."
 aiGenerated: true
 confidence: 0.92
 ---
@@ -33,7 +39,7 @@ The location change represents a notable concession for a congressional investig
 
 The retail magnate's relationship with Epstein has drawn intense congressional attention since [a House Oversight Committee member publicly labeled him a "co-conspirator"](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) in Epstein's sex trafficking operation earlier this month.
 
-Wexner gave Epstein power of attorney over his finances and transferred ownership of a Manhattan mansion that became a hub for abuse. The billionaire founder of Victoria's Secret and L Brands claims Epstein manipulated him and that he severed ties in 2007. But the depth of his knowledge about Epstein's crimes remains unclear.
+Wexner gave Epstein power of attorney over his finances and transferred ownership of a Manhattan mansion at **9 East 71st Street**—a property valued at approximately $77 million—that became a hub for abuse. The billionaire founder of **Victoria's Secret** and **L Brands** claims Epstein manipulated him and that he severed ties in 2007. But the depth of his knowledge about Epstein's crimes remains unclear. Wexner is also the largest donor to **Ohio State University**, where the **Wexner Medical Center** bears his name.
 
 ## What's Not Known
 

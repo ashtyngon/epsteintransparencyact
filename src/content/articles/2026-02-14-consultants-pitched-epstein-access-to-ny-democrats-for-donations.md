@@ -22,6 +22,12 @@ tags:
   - investigation
   - associates
   - political
+keyTakeaways:
+  - "Democratic consulting firm Dynamic SRG repeatedly solicited donations from Epstein for House races in New York, offering access to top NY Democratic politicians in return."
+  - "The solicitations occurred after Epstein's 2008 guilty plea in Palm Beach County for soliciting prostitution from a minor, a deal negotiated by then-U.S. Attorney Alexander Acosta."
+  - "Les Wexner, who transferred a $77 million Manhattan mansion to Epstein for $0 and gave him power of attorney, was subpoenaed by Congress and labeled a co-conspirator."
+  - "Deputy AG Todd Blanche accused Reps. Ro Khanna and Thomas Massie of naming 'completely random people' from the files, drawing bipartisan pushback."
+  - "Ohio politicians received campaign funds from Wexner, raising questions about conflicts of interest in Epstein oversight."
 status: published
 aiGenerated: true
 articleType: feature
@@ -38,7 +44,7 @@ This wasn't an isolated lapse. From university speaking arrangements to politica
 
 **Dynamic SRG**'s repeated outreach to Epstein is an example of the access-for-dollars culture in American politics. The consulting firm, according to DOJ records reviewed by the Times, approached Epstein multiple times about contributing to Democratic House races.
 
-The implicit offer was clear: donate, and you'll get face time with rising Democratic stars. This was years after Epstein's 2008 guilty plea to soliciting prostitution from a minor—a conviction that required him to register as a sex offender.
+The implicit offer was clear: donate, and you'll get face time with rising Democratic stars. This was years after Epstein's 2008 guilty plea in Palm Beach County to soliciting prostitution from a minor — a plea deal negotiated by then-U.S. Attorney Alexander Acosta with Epstein's defense team, which included Alan Dershowitz and Kenneth Starr. The deal resulted in just 13 months of county jail with work release and required Epstein to register as a sex offender.
 
 The consultants proceeded with this arrangement despite Epstein's criminal record. Political fundraising operates in a gray zone where wealthy donors routinely receive access in exchange for contributions. But Epstein wasn't a typical wealthy donor. He was a convicted sex offender whose crimes involved minors.
 
@@ -74,7 +80,7 @@ Epstein survivors who attended Wednesday's hearing reported they had not been gi
 
 ## The Corporate Exodus Continues
 
-While political and legal battles rage in Washington, the corporate world continues to feel Epstein's posthumous impact. **Goldman Sachs' top lawyer resigned** after emails revealed her close relationship with Epstein, according to PBS NewsHour. The emails reportedly showed her referring to Epstein as "Uncle Jeffrey."
+While political and legal battles rage in Washington, the corporate world continues to feel Epstein's posthumous impact. **Kathryn Ruemmler**, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails revealed her close relationship with Epstein, according to PBS NewsHour. The emails reportedly showed her referring to Epstein as "Uncle Jeffrey."
 
 This follows [a wave of high-profile resignations](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) as the files expose previously hidden connections. Kentucky Rep. Thomas Massie commented on one such resignation, according to Spectrum News, though details of which CEO he referenced were not specified in the available reporting.
 
@@ -82,9 +88,9 @@ The pattern is clear: corporate boards are no longer willing to tolerate executi
 
 ## The Wexner Factor
 
-Behind much of the current congressional scrutiny stands **Les Wexner**, the billionaire founder of Limited Brands (now L Brands) and Epstein's most important patron. Wexner has been [subpoenaed by Congress](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [labeled a potential co-conspirator](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) by Rep. Massie.
+Behind much of the current congressional scrutiny stands **Les Wexner**, the billionaire founder of Limited Brands (now L Brands) and Epstein's only confirmed financial client. Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0 — one of the largest residential property transfers in New York City history. Wexner has been [subpoenaed by Congress](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [labeled a potential co-conspirator](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) by Rep. Massie.
 
-New reporting from WFMJ in Ohio reveals that **Ohio politicians received campaign funds from Wexner**, raising questions about whether financial relationships influenced oversight or investigation of Epstein's operations. Wexner gave Epstein power of attorney over his finances and, according to previously released documents, may have transferred significant assets to him.
+New reporting from WFMJ in Ohio reveals that **Ohio politicians received campaign funds from Wexner**, raising questions about whether financial relationships influenced oversight or investigation of Epstein's operations.
 
 The Wexner connection illustrates a central challenge in the Epstein case: how do you investigate someone who was deeply embedded in elite social, financial, and political networks? Every thread you pull reveals another connection, another relationship, another institution that looked the other way.
 

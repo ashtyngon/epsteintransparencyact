@@ -16,6 +16,11 @@ tags:
   - document-release
   - investigation
   - associates
+keyTakeaways:
+  - "DOJ records show a University of Alabama administrator asked Jeffrey Epstein to help arrange a guest speaker for the school."
+  - "The Alabama connection extends Epstein's documented academic influence beyond Ivy League schools like Harvard ($9.1M in donations) and MIT ($850,000 in donations)."
+  - "Epstein used university relationships to build legitimacy, offering introductions and connections to administrators in exchange for social credibility."
+  - "Congressional investigators have subpoenaed Les Wexner and Lord Peter Mandelson as part of expanding probes into Epstein's institutional network."
 status: published
 aiGenerated: true
 articleType: news
@@ -30,15 +35,15 @@ The revelation places Alabama on the growing list of academic institutions whose
 
 ## Beyond the Ivy League
 
-Universities became critical to Epstein's strategy for building legitimacy. He poured money into MIT, Harvard, and other elite institutions, gaining access to faculty and the social credibility that academic partnerships provided.
+Universities became critical to Epstein's strategy for building legitimacy. He donated $9.1 million to **Harvard**, where he visited campus at least 40 times after his 2008 conviction and met with faculty including **Lawrence Summers** and **Martin Nowak**. He gave $850,000 to **MIT**, where Media Lab director **Joi Ito** resigned over the relationship. Professor **Seth Lloyd** at MIT received a $225,000 personal grant from Epstein.
 
-The Alabama connection suggests his influence reached beyond the coastal universities where he cultivated his image as a science philanthropist. Arranging speakers—connecting institutions with prominent figures—was a low-cost way to make himself valuable to administrators while expanding his network.
+The Alabama connection suggests his influence reached beyond the coastal universities where he cultivated his image as a science philanthropist. Arranging speakers—connecting institutions with prominent figures—was a low-cost way to make himself valuable to administrators while expanding his network. At Bard College, president **Leon Botstein** appeared in Epstein's personal contacts, showing the breadth of his academic reach.
 
 The University of Alabama has not publicly addressed the DOJ records.
 
 ## A Pattern of Access
 
-Epstein's method was consistent: offer connections, donations, or introductions to high-profile individuals, then extract legitimacy and access in return. University administrators often accepted the help without asking hard questions about who they were dealing with.
+Epstein's method was consistent: offer connections, donations, or introductions to high-profile individuals, then extract legitimacy and access in return. At **Ohio State University**, the connection ran through **Les Wexner**, Epstein's only confirmed financial client and the university's largest donor, whose name adorns the Wexner Medical Center. University administrators often accepted the help without asking hard questions about who they were dealing with.
 
 Congressional investigators have subpoenaed multiple figures with academic ties to testify about their Epstein relationships, including [billionaire Les Wexner](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Mandelson](/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe).
 

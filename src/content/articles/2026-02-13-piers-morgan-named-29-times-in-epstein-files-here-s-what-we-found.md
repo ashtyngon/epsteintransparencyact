@@ -13,6 +13,11 @@ tags:
   - document-release
   - associates
   - transparency-act
+keyTakeaways:
+  - "Piers Morgan's name appears 29 times in Epstein files released under the Epstein Transparency Act, according to BuzzFeed's analysis."
+  - "Morgan has publicly disputed and refused to accept that his name appears in the documents despite the documented 29 mentions."
+  - "The files were among 3.5 million pages released by the DOJ following the Epstein Transparency Act, signed into law November 19, 2025."
+  - "Joe Rogan, another media figure named in the files, took a contrasting approach by acknowledging his mention and providing context."
 status: published
 aiGenerated: true
 confidence: 0.85
@@ -36,10 +41,8 @@ The two responses illustrate different approaches by public figures confronted w
 
 ## What 29 Mentions Mean
 
-Being named in the files doesn't itself prove wrongdoing. Epstein's operation kept extensive records of contacts, communications, and social connections across media, finance, politics, and academia. 
+Being named in the files doesn't itself prove wrongdoing. Epstein's operation kept extensive records of contacts, communications, and social connections across media, finance, politics, and academia. The DOJ has released 3.5 million pages, 180,000 images, and 2,000 videos under the Epstein Transparency Act, which passed the House 427-1, passed the Senate unanimously, and was signed into law on November 19, 2025.
 
-Twenty-nine mentions across the documents indicate multiple points of contact within the networks Epstein maintained and documented.
-
-The Epstein Transparency Act has made millions of pages public specifically so that the extent of these networks can be examined.
+Twenty-nine mentions across the documents indicate multiple points of contact within the networks Epstein maintained and documented. For comparison, Sultan Ahmed Bin Sulayem of DP World appeared more than 4,700 times in the files and was subsequently forced out as CEO.
 
 BuzzFeed has published the full breakdown. The documents are public. Morgan continues to dispute the reports.

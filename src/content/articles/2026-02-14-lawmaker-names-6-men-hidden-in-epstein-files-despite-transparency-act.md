@@ -47,6 +47,12 @@ tags:
   - document-release
   - political
   - breaking
+keyTakeaways:
+  - "Reps. Ro Khanna (D-Calif.) and Thomas Massie (R-Ky.) read six redacted names from Epstein files into the Congressional Record, exploiting congressional immunity from defamation suits."
+  - "Deputy AG Todd Blanche attacked the lawmakers, calling the named individuals 'completely random people' with no Epstein connections."
+  - "Casey Wasserman, LA 2028 Olympics chief, sold his agency after clients fled following exposure of emails with convicted accomplice Ghislaine Maxwell."
+  - "Les Wexner, who transferred a $77M mansion to Epstein for $0, was subpoenaed by Congress; Ohio politicians received his campaign donations over multiple election cycles."
+  - "The DOJ released 3.5 million pages under the Transparency Act signed November 19, 2025, but heavy redactions remain despite the law passing the House 427-1."
 status: published
 aiGenerated: true
 articleType: feature
@@ -89,7 +95,7 @@ Lawmakers have noted that the redactions disproportionately protected prominent 
 
 ## The Web of Financial Influence
 
-The Epstein files have also exposed a system of financial influence connected to figures named in the documents. WFMJ.com reported that [Ohio politicians received campaign funds from **Les Wexner**](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWxZcnlZYjNkTTA4VEVOd3BiRGh5OW1wZnZlT0s3RXJxdjNSTHRNSWEyeVdTNXB4UkE1Q0puekJqVkpmNDE5cjlhamdaTWFkV3QwaFp5UEdnOGw3aHU4SnVMaDgxakdfdmF1Q1Nnb04welFud2xrR2lQNWxhdHFES0t4QlFOMi1MS3ozSmNBaUlRaTlOSnVtS0Y1N0wta0tLaHpocmpGNU01X0tzWF9F?oc=5), the billionaire retail magnate whom [Rep. Khanna has labeled an alleged Epstein co-conspirator](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). Wexner, the founder of Victoria's Secret parent company L Brands, employed Epstein as his financial adviser for years and gave him power of attorney over his fortune.
+The Epstein files have also exposed a system of financial influence connected to figures named in the documents. WFMJ.com reported that [Ohio politicians received campaign funds from **Les Wexner**](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWxZcnlZYjNkTTA4VEVOd3BiRGh5OW1wZnZlT0s3RXJxdjNSTHRNSWEyeVdTNXB4UkE1Q0puekJqVkpmNDE5cjlhamdaTWFkV3QwaFp5UEdnOGw3aHU4SnVMaDgxakdfdmF1Q1Nnb04welFud2xrR2lQNWxhdHFES0t4QlFOMi1MS3ozSmNBaUlRaTlOSnVtS0Y1N0wta0tLaHpocmpGNU01X0tzWF9F?oc=5), the billionaire retail magnate whom [Rep. Khanna has labeled an alleged Epstein co-conspirator](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). Wexner, the founder of Victoria's Secret parent company L Brands and Epstein's only confirmed financial client, employed Epstein as his financial adviser and gave him power of attorney over his fortune. Wexner transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0.
 
 [Congress has moved to depose Wexner in Ohio](/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), demanding testimony about the nature and extent of his relationship with Epstein. The subpoena comes as lawmakers investigate whether Wexner's political donations influenced the handling of the Epstein case at various levels of government.
 
@@ -131,4 +137,6 @@ The fight over Epstein documents extends into courtrooms as well. [A federal cou
 
 ## The Political Dimension
 
-The Trump administration's handling of the Epstein files has drawn bipartisan criticism. [President Trump himself called for an end to the Epstein investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation), arguing it has become a "dist
+The Trump administration's handling of the Epstein files has drawn bipartisan criticism. [President Trump himself called for an end to the Epstein investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation), arguing it has become a distraction. Meanwhile, Reps. Khanna and Massie—the co-authors of the original discharge petition that forced the Transparency Act to the floor—have argued that the administration's resistance to full disclosure contradicts the law's intent.
+
+The Epstein Transparency Act passed the House 427-1 and the Senate unanimously before being signed on November 19, 2025. The DOJ has since released 3.5 million pages, 180,000 images, and 2,000 videos. But the continued redactions have turned the document release into an ongoing political battle between Congress and the executive branch, with the identities of Epstein's most powerful associates at the center of the dispute.

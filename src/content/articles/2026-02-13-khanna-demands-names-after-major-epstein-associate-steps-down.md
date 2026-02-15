@@ -22,6 +22,11 @@ tags:
   - breaking
   - associates
   - political
+keyTakeaways:
+  - "Rep. Ro Khanna (D-Calif.) publicly praised Sultan Ahmed Bin Sulayem's resignation from DP World and demanded full disclosure of all names in the Epstein files."
+  - "Bin Sulayem's departure followed Goldman Sachs top lawyer Kathryn Ruemmler's resignation, marking two major corporate exits in one week."
+  - "Khanna's 'name names' demand puts additional pressure on the DOJ, which continues to redact portions of the Epstein files."
+  - "University presidents and professors have also faced mounting scrutiny, and Congress has subpoenaed Les Wexner, Epstein's long-time patron."
 status: published
 aiGenerated: true
 confidence: 0.85
@@ -33,7 +38,7 @@ Khanna publicly praised the resignation and issued a clear demand: "name names."
 
 ## Second Major Resignation
 
-Bin Sulayem's departure follows [Goldman Sachs' top lawyer resignation](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) earlier this week after damaging emails surfaced. Both men held powerful positions at major financial institutions—Bin Sulayem ran the Dubai-based port operator, while Goldman's general counsel served as one of Wall Street's most influential attorneys.
+Bin Sulayem's departure follows [Goldman Sachs top lawyer Kathryn Ruemmler's resignation](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) earlier this week after emails showed she referred to Epstein as "uncle Jeffrey." Both held powerful positions—Bin Sulayem ran **DP World**, which operates ports across six continents and employs approximately 103,000 people, while Ruemmler served as co-chair of Goldman's reputational risk committee and was formerly White House counsel to President Obama.
 
 In both cases, executives named in the Epstein document releases faced immediate pressure to step down. Corporate boards acted before any formal investigations concluded.
 

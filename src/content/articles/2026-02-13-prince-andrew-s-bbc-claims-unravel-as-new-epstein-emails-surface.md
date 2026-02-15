@@ -17,6 +17,12 @@ tags:
   - testimony
   - associates
   - political
+keyTakeaways:
+  - "Prince Andrew's 2019 BBC Newsnight interview claims are being contradicted by newly released Epstein emails from the DOJ document release."
+  - "Andrew settled Virginia Giuffre's civil lawsuit in February 2022 for a reported 12 million pounds without admitting wrongdoing."
+  - "Andrew claimed he could not have been at a London nightclub because he was at a Pizza Express in Woking, and said he could not sweat due to a Falklands War condition."
+  - "The Epstein Transparency Act became law on November 19, 2025, mandating release of FBI files, but the royal family operates outside U.S. jurisdiction."
+  - "Andrew stepped back from royal duties within days of the disastrous November 2019 interview with Emily Maitlis."
 status: published
 aiGenerated: true
 confidence: 0.95
@@ -24,7 +30,7 @@ confidence: 0.95
 
 Prince Andrew's 2019 BBC interview — where he denied sexual abuse allegations and offered explanations that became instant punch lines — is now being held up against newly released Epstein emails. The BBC has published a video comparison, and the network's decision to revisit the disastrous sit-down suggests the documentary record doesn't match what Andrew said on camera.
 
-The timing matters. Andrew settled a civil lawsuit with Virginia Giuffre in 2022 for an undisclosed sum without admitting wrongdoing. He's avoided public comment since. The royal family has shown no interest in addressing the new discrepancies.
+The timing matters. Andrew settled a civil lawsuit with Virginia Giuffre in February 2022 for a reported 12 million pounds without admitting wrongdoing. He's avoided public comment since. The royal family has shown no interest in addressing the new discrepancies.
 
 ## What Andrew Claimed
 

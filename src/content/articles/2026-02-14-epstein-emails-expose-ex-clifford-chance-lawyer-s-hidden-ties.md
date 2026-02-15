@@ -24,6 +24,12 @@ tags:
   - court-documents
   - associates
   - document-release
+keyTakeaways:
+  - "Deputy AG Todd Blanche attacked Reps. Ro Khanna and Thomas Massie for naming individuals from unredacted Epstein files, calling them 'completely random people.'"
+  - "Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails showed she referred to Epstein as 'Uncle Jeffrey.'"
+  - "Sultan Ahmed Bin Sulayem, CEO of DP World, was removed after appearing 4,700 times in Epstein files released under the Transparency Act."
+  - "A former trainee at Clifford Chance, one of the world's largest law firms, was named in newly released documents, expanding the scope of Epstein's legal network."
+  - "Les Wexner, who gave Epstein power of attorney and transferred a $77 million Manhattan mansion for $0, was labeled a co-conspirator by Rep. Massie on the House floor."
 status: published
 aiGenerated: true
 articleType: feature
@@ -50,7 +56,7 @@ The choice of words is telling. "Completely random" implies these individuals ha
 
 ## The Goldman Sachs Resignation: 'Uncle Jeffrey' Comes Home
 
-Blanche's "random people" defense became significantly harder to sustain within hours of his statement. **A top lawyer at Goldman Sachs resigned** after emails surfaced showing what PBS NewsHour described as "her close relationship with Jeffrey Epstein."
+Blanche's "random people" defense became significantly harder to sustain within hours of his statement. **Kathryn Ruemmler**, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing what PBS NewsHour described as "her close relationship with Jeffrey Epstein."
 
 The departure represents one of the highest-profile corporate casualties since the Epstein Transparency Act releases began. Goldman Sachs, already scarred by its extensive business dealings with Epstein during his lifetime, now faces fresh questions about how deeply the relationship penetrated its executive ranks.
 
@@ -84,13 +90,13 @@ A new entry in the Epstein files involves **a former trainee at Clifford Chance*
 
 But the mention itself is significant. It suggests Epstein's network included not just wealthy clients and celebrities, but young professionals at the beginning of their careers in elite institutions. The power dynamics inherent in such relationships—a young lawyer, a billionaire with connections—are exactly the kind that enabled Epstein's predation.
 
-The legal profession has largely avoided the spotlight in Epstein coverage, despite his extensive use of law firms for everything from estate planning to victim intimidation. Each new name from a legal background raises questions about how much the profession knew, when they knew it, and whether professional ethics rules were violated in service of keeping his operation running.
+The legal profession has largely avoided the spotlight in Epstein coverage, despite his extensive use of law firms for everything from estate planning to victim intimidation. Epstein's own defense team during his 2008 plea deal included Alan Dershowitz and Kenneth Starr, both of whom negotiated the lenient agreement with then-U.S. Attorney Alexander Acosta that resulted in just 13 months of county jail with work release privileges. Each new name from a legal background raises questions about how much the profession knew, when they knew it, and whether professional ethics rules were violated in service of keeping his operation running.
 
 ## The Wexner Web: Campaign Contributions and Political Protection
 
-Perhaps no name in the Epstein saga carries more weight than **Leslie Wexner**, the billionaire founder of Victoria's Secret who gave Epstein power of attorney over his finances and, according to some reports, effective control over his life. [Congressional testimony documented on this site](/articles/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) has labeled Wexner a "co-conspirator."
+Perhaps no name in the Epstein saga carries more weight than **Leslie Wexner**, the billionaire founder of Victoria's Secret and Epstein's only confirmed financial client. Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0 — one of the largest residential property transfers in New York City history. [Congressional testimony documented on this site](/articles/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) has labeled Wexner a "co-conspirator."
 
-Now, reporting from WFMJ.com reveals that **Ohio politicians received campaign funds from Wexner**—the same Wexner whose name appears throughout the Epstein files as the source of Epstein's initial wealth and New York properties.
+Now, reporting from WFMJ.com reveals that **Ohio politicians received campaign funds from Wexner** — the same Wexner whose name appears throughout the Epstein files as the source of Epstein's initial wealth and New York properties.
 
 The campaign contribution trail matters because it creates a conflict of interest for elected officials who might otherwise demand aggressive investigation. When a potential Epstein co-conspirator is funding political campaigns, those politicians face enormous pressure to downplay, delay, or derail transparency efforts.
 
@@ -98,7 +104,7 @@ This is not abstract. [Previous reporting](/articles/2026-02-13-senator-blocked-
 
 ## Prince Andrew and the Reckoning That Won't Go Away
 
-Across the Atlantic, pressure is mounting on **Prince Andrew**—or as he is now known after being stripped of his titles, **Andrew Mountbatten-Windsor**—to cooperate with police investigations. The Guardian reports that **former Prime Minister Gordon Brown** has been applying his "forensic mind" to the Epstein files, with calls for police investigation becoming "deafening."
+Across the Atlantic, pressure is mounting on **Prince Andrew** — who settled Virginia Giuffre's civil lawsuit in February 2022 for a reported 12 million pounds without admitting wrongdoing — to cooperate with police investigations. The Guardian reports that **former Prime Minister Gordon Brown** has been applying his "forensic mind" to the Epstein files, with calls for police investigation becoming "deafening."
 
 The piece asks directly: "Will Andrew be questioned over his relationship with Epstein?" And suggests "this may be the reckoning Andrew cannot outrun."
 

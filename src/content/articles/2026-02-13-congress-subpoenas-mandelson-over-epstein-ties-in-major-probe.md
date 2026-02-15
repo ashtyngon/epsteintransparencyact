@@ -24,6 +24,12 @@ tags:
   - testimony
   - associates
   - political
+keyTakeaways:
+  - "Peter Mandelson, former UK ambassador to the U.S. and ex-British Business Secretary, was summoned to testify before the House Committee on Oversight and Government Reform."
+  - "Two committee members—Reps. Robert Garcia and Suhas Subramanyam—sent the request, stating Mandelson 'holds critical information' about Epstein's network."
+  - "Mandelson is the first foreign ambassador, current or former, called to answer questions about Epstein connections before Congress."
+  - "The summons creates diplomatic tension between Washington and London, as Congress lacks power to compel testimony from foreign nationals on foreign soil."
+  - "The request came amid a broader congressional probe that has also subpoenaed billionaire Les Wexner and pressured AG Pam Bondi over document redactions."
 status: published
 aiGenerated: true
 confidence: 0.92
@@ -31,7 +37,7 @@ confidence: 0.92
 
 **Peter Mandelson**, former UK ambassador to the United States, has been summoned to testify before Congress over his ties to Jeffrey Epstein. Two members of the House Committee on Oversight and Government Reform sent the request Friday, pulling a former foreign diplomat into the expanding investigation.
 
-The summons extends the congressional investigation beyond American executives and officials. Mandelson is the first foreign ambassador—current or former—called to answer questions about Epstein connections.
+The summons extends the congressional investigation beyond American executives and officials. Mandelson, who previously served as British Business Secretary and European Commissioner for Trade, is the first foreign ambassador—current or former—called to answer questions about Epstein connections.
 
 ## What Congress Wants
 

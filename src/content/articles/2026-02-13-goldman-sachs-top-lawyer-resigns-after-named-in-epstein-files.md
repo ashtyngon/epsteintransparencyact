@@ -12,6 +12,11 @@ tags:
   - document-release
   - associates
   - breaking
+keyTakeaways:
+  - "Kathryn Ruemmler, Goldman Sachs' top lawyer and former White House counsel to President Obama, resigned effective June 30 after being named in the Epstein files."
+  - "Released emails show a 'Kathy Ruemmler' referred to Epstein as 'uncle Jeffrey' and thanked him for gifts in 2018 and 2019 correspondence."
+  - "Ruemmler served as co-chair of Goldman's reputational risk committee, adding significance to her departure from the bank."
+  - "The January 30, 2026 DOJ release contained 3 million documents related to Epstein, triggering a wave of high-profile resignations."
 status: published
 aiGenerated: true
 confidence: 0.95
