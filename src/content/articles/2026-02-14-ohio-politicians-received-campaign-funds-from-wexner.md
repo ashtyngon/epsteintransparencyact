@@ -5,9 +5,8 @@ source: "WFMJ"
 sourceUrl: "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWxZcnlZYjNkTTA4VEVOd3BiRGh5OW1wZnZlT0s3RXJxdjNSTHRNSWEyeVdTNXB4UkE1Q0puekJqVkpmNDE5cjlhamdaTWFkV3QwaFp5UEdnOGw3aHU4SnVMaDgxakdfdmF1Q1Nnb04welFud2xrR2lQNWxhdHFES0t4QlFOMi1MS3ozSmNBaUlRaTlOSnVtS0Y1N0wta0tLaHpocmpGNU01X0tzWF9F?oc=5"
 summary: "Leslie Wexner, the billionaire retail magnate subpoenaed by Congress last week/articles/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-t"
 people:
-  - les-wexner
-  - jeffrey-epstein
   - leslie-wexner
+  - jeffrey-epstein
   - ghislaine-maxwell
   - ro-khanna
 relatedArticles:

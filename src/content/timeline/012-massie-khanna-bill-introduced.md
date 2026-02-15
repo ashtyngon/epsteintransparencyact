@@ -3,7 +3,7 @@ title: "Massie and Khanna introduce Epstein Transparency Act in Congress"
 date: 2025-07-16
 era: transparency
 category: legislation
-significance: major
+significance: standard
 summary: "Rep. Thomas Massie (R-KY) and Rep. Ro Khanna (D-CA) introduce the Epstein Transparency Act, a bipartisan bill modeled on the JFK Records Act to mandate the release of federal Epstein-related records."
 people:
   - jeffrey-epstein

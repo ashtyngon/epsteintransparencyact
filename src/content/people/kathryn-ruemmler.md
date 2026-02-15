@@ -8,6 +8,7 @@ shortBio: "Former White House counsel to President Obama and Goldman Sachs top l
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-13
+image: "/images/people/kathryn-ruemmler.jpg"
 sources:
   - title: "Goldman Sachs Top Lawyer Resigns After Named in Epstein Files — Axios"
     url: "https://www.axios.com/2026/02/13/epstein-files-goldman-sachs-lawyer-kathryn-ruemmler-resigns"

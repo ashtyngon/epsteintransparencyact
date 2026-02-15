@@ -5,9 +5,8 @@ source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss"
 summary: "The disastrous 2019 BBC Newsnight interview where Prince Andrew denied sexual abuse allegations is now being measured against newly released Epstein files — and"
 people:
-  - andrew-windsor
-  - jeffrey-epstein
   - prince-andrew
+  - jeffrey-epstein
   - virginia-giuffre
 relatedArticles:
   - epstein-transparency-act-signed-into-law

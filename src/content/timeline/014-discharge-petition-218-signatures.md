@@ -3,7 +3,7 @@ title: "Discharge petition reaches 218 signatures, forcing House vote"
 date: 2025-11-12
 era: transparency
 category: legislation
-significance: major
+significance: standard
 summary: "The discharge petition for the Epstein Transparency Act reaches the required 218 signatures when Rep. Adelita Grijalva (D-AZ) becomes the final signatory, forcing a full House vote on the bill."
 people:
   - jeffrey-epstein

@@ -4,7 +4,7 @@ date: 2007-06-30
 endDate: 2008-06-30
 era: first-prosecution
 category: legal
-significance: major
+significance: standard
 summary: "U.S. Attorney Alexander Acosta negotiates a widely criticized non-prosecution agreement with Epstein's legal team, allowing him to plead to minor state charges and serve just 13 months in county jail with work release — shielding potential co-conspirators from federal prosecution."
 people:
   - jeffrey-epstein

@@ -3,7 +3,7 @@ title: "Marjorie Taylor Greene resigns from Congress after Trump fallout"
 date: 2026-01-06
 era: transparency
 category: other
-significance: major
+significance: standard
 summary: "Rep. Marjorie Taylor Greene announces her resignation from Congress following her dramatic break with Trump over the Epstein files. Once one of his fiercest defenders, Greene said 'MAGA was a lie' after Trump un-endorsed her and called her a 'traitor.'"
 people:
   - jeffrey-epstein

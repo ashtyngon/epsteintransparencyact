@@ -3,7 +3,7 @@ title: "Trump calls Epstein files 'a big hoax,' attacks supporters demanding tra
 date: 2025-07-16
 era: transparency
 category: other
-significance: major
+significance: standard
 summary: "After being briefed that his name appears in Epstein files, President Trump reverses course — calling the case 'boring,' labeling it a 'Democrat Hoax,' and attacking his own supporters who push for release as 'weaklings.'"
 people:
   - jeffrey-epstein

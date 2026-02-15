@@ -4,7 +4,7 @@ date: 2023-06-01
 endDate: 2024-11-01
 era: aftermath
 category: legal
-significance: major
+significance: standard
 summary: "Throughout the Biden administration, Attorney General Merrick Garland's DOJ resists calls to release Epstein-related federal records, citing ongoing investigations, grand jury secrecy, and the Maxwell appeal."
 people:
   - jeffrey-epstein

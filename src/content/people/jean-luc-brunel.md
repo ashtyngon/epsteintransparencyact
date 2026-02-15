@@ -9,6 +9,7 @@ notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
 firstMentionedDate: 2019-08-01
+image: "/images/people/jean-luc-brunel.jpg"
 sources:
   - title: "Brunel Found Dead in Jail — BBC"
     url: "https://www.bbc.com/news/world-europe-60359655"

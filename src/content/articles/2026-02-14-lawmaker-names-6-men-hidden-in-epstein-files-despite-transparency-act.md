@@ -5,7 +5,7 @@ source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men/"
 summary: "The documents were sitting in government vaults for years, millions of pages of emails, flight logs, and calendars detailing Jeffrey Epstein's connections to so"
 people:
-  - khanna
+  - ro-khanna
   - david-rubenstein
   - donald-trump
   - ghislaine-maxwell

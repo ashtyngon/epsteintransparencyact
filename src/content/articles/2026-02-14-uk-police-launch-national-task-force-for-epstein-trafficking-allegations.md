@@ -6,7 +6,6 @@ sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/14/uk-police-set-up-nat
 summary: "British authorities have created a national police unit to coordinate investigations into allegations tied to Jeffrey Epstein's trafficking network in the Unite"
 people:
   - jeffrey-epstein
-  - andrew-mountbatten-windsor
   - prince-andrew
 relatedArticles:
   - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface

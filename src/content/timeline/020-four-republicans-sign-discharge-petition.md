@@ -3,7 +3,7 @@ title: "Four Republicans defy Trump to sign Epstein discharge petition"
 date: 2025-09-02
 era: transparency
 category: legislation
-significance: major
+significance: standard
 summary: "Reps. Thomas Massie, Nancy Mace, Lauren Boebert, and Marjorie Taylor Greene become the only Republicans to sign the discharge petition, joining all 214 Democrats. The White House calls it 'a very hostile act.'"
 people:
   - jeffrey-epstein

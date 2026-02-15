@@ -3,7 +3,7 @@ title: "AG Bondi grilled on Epstein at House Judiciary hearing"
 date: 2026-02-11
 era: transparency
 category: investigation
-significance: major
+significance: standard
 summary: "Attorney General Pam Bondi faces intense bipartisan questioning at a House Judiciary Committee hearing over the DOJ's handling of the Epstein files, zero co-conspirator indictments, the Maxwell prison transfer, and leaked survivor identities."
 people:
   - pam-bondi

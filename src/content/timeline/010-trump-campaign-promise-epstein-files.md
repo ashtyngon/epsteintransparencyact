@@ -3,7 +3,7 @@ title: "Trump pledges to release Epstein files if elected"
 date: 2024-06-14
 era: aftermath
 category: other
-significance: major
+significance: standard
 summary: "During his 2024 presidential campaign, Donald Trump repeatedly promises to release Epstein-related files if returned to office — a pledge that resonated across the political spectrum and would later haunt his administration."
 people:
   - jeffrey-epstein

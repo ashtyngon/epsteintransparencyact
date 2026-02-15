@@ -3,7 +3,7 @@ title: "Maxwell transferred to minimum-security prison camp in Texas"
 date: 2025-08-01
 era: transparency
 category: legal
-significance: major
+significance: minor
 summary: "Ghislaine Maxwell is transferred from FCI Tallahassee to Federal Prison Camp Bryan in Texas — a minimum-security facility housing white-collar offenders — just days after a nine-hour meeting with Deputy AG Todd Blanche, sparking outrage from survivors and lawmakers."
 people:
   - ghislaine-maxwell
