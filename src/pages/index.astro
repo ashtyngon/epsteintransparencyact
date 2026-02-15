@@ -9,8 +9,10 @@ import { getEra, getEraCategoryLabel } from '../utils/timeline-eras';
 const allArticles = (await getCollection('articles', (a) => a.data.status === 'published'))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
-// Hero: most recent feature article (falls back to most recent article)
-const heroArticle = allArticles.find((a) => a.data.articleType === 'feature') || allArticles[0];
+// Hero: most recent feature article if published within last 24h, otherwise latest article
+const oneDayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
+const recentFeature = allArticles.find((a) => a.data.articleType === 'feature' && a.data.publishedAt > oneDayAgo);
+const heroArticle = recentFeature || allArticles[0];
 const remainingArticles = allArticles.filter((a) => a.id !== heroArticle?.id).slice(0, 9);
 
 const people = (await getCollection('people')).slice(0, 4);
