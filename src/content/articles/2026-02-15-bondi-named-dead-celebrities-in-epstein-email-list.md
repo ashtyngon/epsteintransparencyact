@@ -21,6 +21,10 @@ tags:
   - document-release
   - political
   - breaking
+keyTakeaways:
+  - "AG Bondi released a DOJ list of Epstein email contacts that included individuals who had already died before the emails were sent."
+  - "The release provided no dates of death or explanatory context, raising questions about what vetting occurred before publication."
+  - "The list marks Bondi's third controversial Epstein file release in one week, following redaction accusations and surveillance of Democratic lawmakers."
 status: published
 aiGenerated: true
 articleType: news

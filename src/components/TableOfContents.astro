@@ -1,0 +1,40 @@
+---
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+  minHeadings?: number;
+}
+
+const { headings, minHeadings = 3 } = Astro.props;
+
+// Only show for H2 and H3 headings, and only if enough headings exist
+const tocHeadings = headings.filter((h) => h.depth === 2 || h.depth === 3);
+const showToc = tocHeadings.length >= minHeadings;
+---
+
+{showToc && (
+  <nav class="toc mb-8 border border-border bg-surface-dark p-5" aria-label="Table of contents">
+    <details open>
+      <summary class="text-xs font-bold uppercase tracking-widest text-primary cursor-pointer select-none mb-3">
+        In this article
+      </summary>
+      <ul class="space-y-1.5">
+        {tocHeadings.map((heading) => (
+          <li class:list={[heading.depth === 3 && 'ml-4']}>
+            <a
+              href={`#${heading.slug}`}
+              class="text-sm text-text-muted hover:text-accent transition-colors no-underline leading-snug block py-0.5"
+            >
+              {heading.text}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </details>
+  </nav>
+)}

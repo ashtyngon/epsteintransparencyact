@@ -19,6 +19,10 @@ tags:
   - investigation
   - associates
   - breaking
+keyTakeaways:
+  - "French prosecutors are examining three new complaints linked to the released Epstein files and revisiting an earlier investigation into a deceased Epstein associate."
+  - "France set up a specialized team to review the files for French nationals who had contact with Epstein."
+  - "The action follows broader European responses including UK police launching a national task force and a Dubai ports chief resigning."
 status: published
 aiGenerated: true
 articleType: news

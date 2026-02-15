@@ -23,6 +23,10 @@ tags:
   - associates
   - political
   - breaking
+keyTakeaways:
+  - "Republican senators view Commerce Secretary Howard Lutnick's documented ties to Jeffrey Epstein as a potential political liability ahead of the 2026 midterms."
+  - "Lutnick's situation follows a pattern of high-profile resignations and exits from figures named in the Epstein files."
+  - "The concerns reflect growing GOP anxiety that Epstein-linked revelations could damage the party's electoral prospects."
 status: published
 aiGenerated: true
 articleType: news

@@ -11,7 +11,7 @@ people:
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-casey-wasserman-sells-talent-agency-after-ghislaine-maxwell-emails-exposed
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
@@ -19,6 +19,10 @@ tags:
   - associates
   - document-release
   - breaking
+keyTakeaways:
+  - "Schools canceled yearbook photo sessions with a photography company after founder Leon Black, also founder of Apollo Global Management, was named in Epstein files."
+  - "The cancellations extend Epstein-related institutional scrutiny from universities to K-12 schools and their vendor relationships."
+  - "Black joins a growing list of executives facing professional consequences from Epstein document releases."
 status: published
 aiGenerated: true
 articleType: news

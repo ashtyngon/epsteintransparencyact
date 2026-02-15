@@ -7,7 +7,7 @@ aliases:
   - "Donald J. Trump"
 role: "45th & 47th President of the United States"
 category: "named-in-documents"
-shortBio: "The second most mentioned name in 3.5 million pages of Epstein files — appearing more than 38,000 times, more than Harry Potter in the Harry Potter books. Pledged during his 2024 campaign to release the files, then fought for months to suppress them after learning his name was in the documents, calling supporters who demanded transparency 'weaklings.' Signed the Transparency Act only after a 427-1 House vote made resistance impossible — then his DOJ removed a photo of him from the release within hours."
+shortBio: "The second most mentioned name in 3.5 million pages of Epstein files — appearing more than 38,000 times, more than Harry Potter in the Harry Potter books. Pledged during his 2024 campaign to release the files, then fought for months to suppress them after learning his name was in the documents, calling supporters who demanded transparency 'weaklings.' Signed the Transparency Act only after a 427-1 House vote made resistance impossible — then his DOJ repeatedly removed and restored files from the release website."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -47,6 +47,12 @@ sources:
     url: "https://abcnews.com/US/bill-clintons-spokesperson-calls-release-epstein-files-related/story?id=128643851"
   - title: "Which House Republicans Helped Force a Vote on Epstein Files — TIME"
     url: "https://time.com/7333573/epstein-files-discharge-petition-republicans-trump-massie-mace-boebert-greene/"
+  - title: "Epstein Files Reveal Birthday Letter to Trump — WSJ"
+    url: "https://www.wsj.com/us-news/epstein-files-trump-birthday-letter"
+  - title: "Stacey Williams Alleges Trump Groped Her at Epstein's Apartment — NPR"
+    url: "https://www.npr.org/2024/10/23/nx-s1-5162490/trump-groping-allegation-stacey-williams-epstein"
+  - title: "Trump Says 'I Wish Her Well' About Ghislaine Maxwell — CNN"
+    url: "https://www.cnn.com/2020/07/21/politics/trump-ghislaine-maxwell/index.html"
 sensitive: false
 ---
 
@@ -58,21 +64,39 @@ Not all of those mentions indicate wrongdoing. Many are press clippings, duplica
 
 Trump and Epstein moved in overlapping circles in Palm Beach and Manhattan beginning in the late 1980s. Both were prominent figures in Palm Beach society — Trump as owner of Mar-a-Lago (purchased in 1985), Epstein as a financier with a mansion on El Brillo Way.
 
-Epstein was a member of Mar-a-Lago. His contacts book, seized by the FBI in 2005, contained 14 phone numbers for Trump — including numbers for Mar-a-Lago, his New York apartment, his car, and his then-girlfriend Melania.
+Epstein was a member of Mar-a-Lago. His contacts book, seized by the FBI in 2005, contained 14 phone numbers for Trump — including numbers for Mar-a-Lago, his New York apartment, his car, and his then-girlfriend Melania. No other individual in the black book had as many contact numbers listed.
 
 The most widely quoted evidence of their relationship comes from a 2002 New York Magazine profile of Epstein by Landon Thomas Jr., in which Trump said: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side. No doubt about it — Jeffrey enjoys his social life."
 
 That quote — particularly "many of them are on the younger side" — would become one of the most scrutinized statements in the entire Epstein case. Trump later claimed it was intended as a veiled warning. That interpretation has been widely disputed.
 
-In November 1992, NBC cameras filmed Trump and Epstein together at a party at Mar-a-Lago attended by cheerleaders from the Buffalo Bills and Miami Dolphins. The footage, originally shot for an NBC segment and not aired until its release in July 2019, shows the two men laughing, talking, and pointing out women to each other. It remains the most widely seen visual evidence of their social relationship.
+### The Birthday Letter
+
+Among the documents released under the Transparency Act was a birthday letter from Epstein to Trump, first reported by The Wall Street Journal and confirmed by The New York Times and PBS. The letter included a hand-drawn illustration by Epstein depicting a naked woman. The accompanying message read: "May every day of your life be another wonderful secret that time longs to reveal." Trump's representatives have not publicly addressed the letter's contents.
+
+### The 1992 Calendar Girl Party
+
+In November 1992, NBC cameras filmed Trump and Epstein at a "Calendar Girl" party at Mar-a-Lago attended by approximately 28 women, including cheerleaders from the Buffalo Bills and Miami Dolphins. Trump and Epstein were the only two men present besides their staffers. The footage, originally shot for an NBC segment on Trump's social life and not aired until its release in July 2019, shows the two men laughing, talking, and pointing out women to each other. It remains the most widely seen visual evidence of their social relationship.
+
+### Epstein's Private Emails About Trump
+
+DOJ-released emails from Epstein's accounts, spanning 2011 to 2019, reveal how Epstein viewed the relationship — and what he believed he knew about Trump:
+
+- **April 2011**: In an email to a confidant, Epstein wrote that "the dog that hasn't barked in all this is Trump" — suggesting Trump had escaped scrutiny relative to their actual relationship.
+- **February 2017**: Epstein wrote to an associate: "none as bad as trump" — in the context of discussing powerful men with problematic behavior.
+- **August 2018**: Epstein told an associate: "I know how dirty donald is" and described Trump as "dangerous."
+- **January 2019**: In an email to his lawyer, Epstein wrote that Trump "knew about the girls" — one of the most incriminating single statements in the released documents.
+- **December 2015**: After Trump was asked about Epstein during a CNN interview, emails show Epstein communicated with journalist Michael Wolff about crafting Trump's response. The exchange suggests a level of coordination between Epstein and Trump's media strategy that neither party has publicly acknowledged.
+
+These emails have not been disputed by Trump's legal team. The DOJ stated that the emails contained "untrue and sensationalist claims" but did not specify which claims it considered untrue.
 
 ## The Mar-a-Lago Ban
 
-Trump has claimed he banned Epstein from Mar-a-Lago in the mid-2000s, around 2004–2005, before Epstein's 2006 arrest. Attorney Brad Edwards — who represented Epstein's victims — offered partial corroboration. In a 2018 interview, Edwards said Trump was "the only person who picked up the phone and said, 'Let's just talk. I'll give you as much time as you want'" when Edwards was investigating Epstein's network. Edwards described Trump as "very helpful."
+Trump has claimed he banned Epstein from Mar-a-Lago in the mid-2000s, around 2004–2005, before Epstein's 2006 arrest. Attorney Brad Edwards — who represented Epstein's victims — offered partial corroboration. In a 2018 interview, Edwards said Trump was "the only person who picked up the phone and said, 'Let's just talk. I'll give you as much time as you want'" when Edwards was investigating Epstein's network. Edwards described Trump as "very helpful." Former Mar-a-Lago house manager Juan Alessi testified in a deposition that he never witnessed any inappropriate behavior by Trump toward underage girls at the club.
 
-However, documents released under the Transparency Act complicated this account. According to Rep. Jamie Raskin, who viewed unredacted files, Epstein's lawyers recorded Trump as saying Epstein "was not a member of his club at Mar-a-Lago, but he was a guest," and that "he had never been asked to leave" — a claim at odds with Trump's public statements about kicking Epstein out.
+However, documents released under the Transparency Act complicated this account. According to Rep. Jamie Raskin, who viewed unredacted files, Epstein's lawyers recorded Trump as saying Epstein "was not a member of his club at Mar-a-Lago, but he was a guest," and that "he had never been asked to leave" — a claim at odds with Trump's public statements about kicking Epstein out. Mar-a-Lago records confirm Epstein remained a club member until at least October 2007 — more than a year after his July 2006 indictment in Palm Beach.
 
-The reason for any separation is also disputed. Some accounts attribute it to a real estate dispute. Edwards suggested it was related to Epstein approaching a member's young daughter at the club — a detail that, if accurate, places Trump's knowledge of Epstein's behavior earlier than his public statements acknowledged.
+The reason for any separation is also disputed. Some accounts attribute it to a real estate dispute. Edwards suggested it was related to Epstein approaching a member's young daughter at the club — a detail that, if accurate, places Trump's knowledge of Epstein's behavior earlier than his public statements acknowledged. Palm Beach Police Chief Michael Reiter has said Trump contacted him voluntarily during the initial Epstein investigation — a fact that Trump's defenders cite as evidence of cooperation.
 
 ## Virginia Giuffre and Mar-a-Lago
 
@@ -84,9 +108,13 @@ Giuffre has not accused Trump of sexual misconduct. But the recruitment of an un
 
 ## Flight Logs
 
-The released files revealed more extensive flight connections than were previously known. A 2020 email from a federal prosecutor, included in the DOJ document release, states that Trump was listed as a passenger on at least eight Epstein flights between 1993 and 1996. On at least four of those flights, Ghislaine Maxwell was also a passenger. On one 1993 flight, Trump and Epstein were the only two passengers listed in the logs.
+The released files revealed more extensive flight connections than were previously known. A 2020 email from a federal prosecutor, included in the DOJ document release, states that Trump was listed as a passenger on at least eight Epstein flights between 1993 and 1997. On at least four of those flights, Ghislaine Maxwell was also a passenger. On one 1993 flight, Trump and Epstein were the only two passengers listed in the logs.
 
 This is significantly more than the single documented flight that was publicly known before the file releases. The documented flights are domestic, on the Palm Beach–New York corridor. There is no evidence in the flight logs of Trump traveling to Little St. James Island, Epstein's private island in the U.S. Virgin Islands.
+
+## The Stacey Williams Allegation (2024)
+
+In October 2024, during the presidential campaign, a woman named Stacey Williams publicly alleged that Trump groped her at Epstein's Manhattan apartment in 1993. Williams, who said she had been in a relationship with Epstein at the time, described being led by Epstein to Trump Tower and then to Epstein's apartment, where — she claimed — Trump touched her inappropriately while Epstein watched. She alleged that Epstein later told her Trump was "not good enough for you." Williams first made the allegation publicly in an interview with NPR and during a Survivors for Kamala call. Trump denied the allegations through a campaign spokesperson, calling them "made up." The allegation has not been the subject of any legal proceeding.
 
 ## The Jane Doe Lawsuit (2016)
 
@@ -107,6 +135,8 @@ After the Miami Herald's "Perversion of Justice" investigation in 2018 and Epste
 On July 9, 2019 — three days after Epstein was arrested on new federal sex trafficking charges — Trump addressed the media: "I knew him like everybody in Palm Beach knew him. I was not a fan of his, that I can tell you." He added: "I had a falling out with him. I haven't spoken to him in 15 years. I was not a fan of Jeffrey Epstein."
 
 After Epstein was found dead in his cell at the Metropolitan Correctional Center on August 10, 2019, Trump retweeted a conspiracy theory linking Epstein's death to Bill Clinton using the hashtag #ClintonBodyCount. The medical examiner ruled the death a suicide by hanging.
+
+When asked about [Ghislaine Maxwell](/people/ghislaine-maxwell) after her July 2020 arrest on sex trafficking charges, Trump said from the White House briefing room: "I just wish her well, frankly." He added: "I've met her numerous times over the years, especially since I lived in Palm Beach." The comment drew widespread criticism and became one of the most replayed clips of his presidency related to the Epstein case.
 
 ## The 2024 Campaign Promise
 
@@ -176,7 +206,7 @@ But Reps. Khanna and Massie said the releases had too many redactions and missin
 
 The comparison with [Bill Clinton](/people/bill-clinton) is instructive. Clinton's documented contacts with Epstein are extensive — at least 26 flight segments, trips with Maxwell, White House visits. But when the files were released, Clinton's spokesperson Angel Urena issued a statement demanding the DOJ release everything: "What the Department of Justice has released so far, and the manner in which it did so, makes one thing clear: someone or something is being protected. We do not know whom, what or why. But we do know this: We need no such protection." Urena specifically called on Trump to direct Bondi to "immediately release any remaining materials referring to, mentioning, or containing a photograph of Bill Clinton."
 
-Clinton called for more transparency. Trump fought to prevent it — and when forced to allow it, his DOJ removed files from the website within hours.
+Clinton called for more transparency. Trump fought to prevent it — and when forced to allow it, his DOJ repeatedly removed and restored files from the release website, including a photograph of Trump with Epstein. The pattern of selective removals and restorations has continued across multiple release batches.
 
 No one involved in this case emerges cleanly. But the distinction matters: one former president asked the public to see everything; the sitting president used the apparatus of the federal government to limit what the public could see.
 
@@ -184,6 +214,6 @@ No one involved in this case emerges cleanly. But the distinction matters: one f
 
 Trump has never been charged with any crime related to Epstein. He was never a target of the Epstein criminal investigations according to public records. Virginia Giuffre, who was recruited at Trump's property, has not accused Trump of sexual misconduct. The DOJ itself stated that the files contained "untrue and sensationalist claims" about Trump that did not warrant prosecution.
 
-What is established is this: Trump had a documented social relationship with Epstein spanning at least a decade. He flew on Epstein's plane at least eight times. An underage victim was recruited at his club. He nominated the prosecutor who gave Epstein a lenient plea deal to his cabinet. He promised transparency and then fought it for months once he learned his name was in the files. He called his own supporters "weaklings" for demanding accountability. He pressured members of Congress to withdraw from the discharge petition, bringing a sitting congresswoman into the Situation Room for that purpose. He signed the Transparency Act only when the political cost of opposition exceeded the cost of compliance. And his Department of Justice removed a photograph of him from the release site within hours of posting it.
+What is established is this: Trump had a documented social relationship with Epstein spanning at least a decade. He flew on Epstein's plane at least eight times. Epstein's private emails — released by the DOJ — describe Trump as "dangerous," claim he "knew about the girls," and refer to knowing "how dirty donald is." A birthday letter from Epstein to Trump included a drawing of a naked woman. An underage victim was recruited at his club. He nominated the prosecutor who gave Epstein a lenient plea deal to his cabinet. He wished Ghislaine Maxwell "well" after her arrest. He promised transparency and then fought it for months once he learned his name was in the files. He called his own supporters "weaklings" for demanding accountability. He pressured members of Congress to withdraw from the discharge petition, bringing a sitting congresswoman into the Situation Room for that purpose. He signed the Transparency Act only when the political cost of opposition exceeded the cost of compliance. And his Department of Justice repeatedly removed and restored files from the release website, including a photograph of him alongside Epstein.
 
 His name appears in the Epstein files more than 38,000 times — more than Harry Potter in the Harry Potter books, more than the name of any person except Jeffrey Epstein himself.

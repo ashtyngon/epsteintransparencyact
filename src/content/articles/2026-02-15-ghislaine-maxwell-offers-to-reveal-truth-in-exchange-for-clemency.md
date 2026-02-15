@@ -20,6 +20,10 @@ tags:
   - testimony
   - associates
   - breaking
+keyTakeaways:
+  - "Ghislaine Maxwell offered to reveal 'the truth' about Jeffrey Epstein through her legal team — but only if freed from her 20-year prison sentence."
+  - "Maxwell refused to testify before Congress under oath, making the offer through lawyers instead."
+  - "The proposal came as Congress subpoenaed multiple Epstein associates including billionaire Les Wexner."
 status: published
 aiGenerated: true
 articleType: news

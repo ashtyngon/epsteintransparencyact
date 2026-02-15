@@ -13,6 +13,10 @@ tags:
   - victims
   - survivors
   - testimony
+keyTakeaways:
+  - "Juliette Bryant told investigators she thought she was 'going to die' during an assault on Epstein's private jet while being flown to his island."
+  - "Once the plane landed on Little St. James, Bryant said she had 'no way of getting away' without Epstein's cooperation."
+  - "The testimony appears in documents released under the Epstein Transparency Act."
 status: published
 aiGenerated: true
 articleType: news

@@ -172,8 +172,34 @@ async function main() {
       continue;
     }
 
-    // Write back with original frontmatter + edited body
-    const newContent = `${parts.frontmatter}\n\n${editedBody.trim()}\n`;
+    // Extract key takeaways from editor output if present
+    let finalBody = editedBody;
+    let keyTakeaways: string[] = [];
+    const takeawaysMatch = editedBody.match(/KEY_TAKEAWAYS_START\n([\s\S]*?)KEY_TAKEAWAYS_END/);
+    if (takeawaysMatch) {
+      const rawTakeaways = takeawaysMatch[1].trim();
+      keyTakeaways = rawTakeaways
+        .split('\n')
+        .map((line: string) => line.replace(/^-\s*/, '').trim())
+        .filter((line: string) => line.length > 0);
+      // Remove the takeaways block from the body
+      finalBody = editedBody.replace(/KEY_TAKEAWAYS_START\n[\s\S]*?KEY_TAKEAWAYS_END\n*/, '').trim();
+    }
+
+    // Inject keyTakeaways into frontmatter if extracted and not already present
+    let finalFrontmatter = parts.frontmatter;
+    if (keyTakeaways.length > 0 && !parts.frontmatter.includes('keyTakeaways:')) {
+      const takeawaysYaml = 'keyTakeaways:\n' + keyTakeaways.map((t: string) => `  - ${t}`).join('\n');
+      // Insert before "status:" line
+      finalFrontmatter = finalFrontmatter.replace(
+        /^(status:\s)/m,
+        `${takeawaysYaml}\n$1`
+      );
+      console.log(`  TAKEAWAYS: Added ${keyTakeaways.length} key takeaways`);
+    }
+
+    // Write back with (possibly updated) frontmatter + edited body
+    const newContent = `${finalFrontmatter}\n\n${finalBody.trim()}\n`;
     writeFileSync(filePath, newContent);
     console.log(`  EDITED: ${slug}`);
     edited++;

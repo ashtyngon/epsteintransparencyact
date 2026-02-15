@@ -3,15 +3,18 @@ import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import SourceAttribution from '../components/SourceAttribution.astro';
 import RelatedPeople from '../components/RelatedPeople.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 import { articleJsonLd } from '../utils/json-ld';
 import { formatDate } from '../utils/slugify';
 import type { CollectionEntry } from 'astro:content';
+import type { MarkdownHeading } from 'astro';
 
 interface Props {
   article: CollectionEntry<'articles'>;
+  headings?: MarkdownHeading[];
 }
 
-const { article } = Astro.props;
+const { article, headings = [] } = Astro.props;
 const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, relatedArticles, tags, image, keyTakeaways } = article.data;
 
 // Load related article data for display
@@ -102,6 +105,8 @@ const jsonLd = articleJsonLd({
           </ul>
         </div>
       )}
+
+      <TableOfContents headings={headings} minHeadings={4} />
 
       <div class="prose-article">
         <slot />

@@ -5,9 +5,9 @@ seoDescription: "Virginia Giuffre, recruited at 16 by Maxwell at Mar-a-Lago, acc
 aliases:
   - "Virginia Roberts"
   - "Virginia Roberts Giuffre"
-role: "Epstein accuser, trafficking survivor, and advocate"
+role: "Epstein accuser, trafficking survivor, and advocate (1983–2025)"
 category: "victim-survivor"
-shortBio: "One of the most prominent Epstein accusers, Giuffre was recruited at Mar-a-Lago at age 16 by Ghislaine Maxwell and alleges she was trafficked to powerful men including Prince Andrew. Her defamation lawsuit against Maxwell produced thousands of pages of evidence that became central to public understanding of the case. The January 2024 document unsealing named dozens of individuals. She settled a civil case against Prince Andrew for a reported 12 million pounds."
+shortBio: "One of the most prominent Epstein accusers, Giuffre was recruited at Mar-a-Lago at age 16 by Ghislaine Maxwell and alleges she was trafficked to powerful men including Prince Andrew. Her defamation lawsuit against Maxwell produced thousands of pages of evidence that became central to public understanding of the case. She settled a civil case against Prince Andrew for a reported 12 million pounds. Giuffre died in April 2025; her posthumous memoir Nobody's Girl was published in October 2025."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -33,6 +33,10 @@ sources:
     url: "https://www.bbc.com/news/uk-60393843"
   - title: "Giuffre Settlement with Dershowitz — Associated Press"
     url: "https://apnews.com/article/dershowitz-giuffre-settlement-epstein-defamation-a43f0bc5b2e64e0c9f7d8a1b2c3d4e5f"
+  - title: "Epstein Survivor Virginia Giuffre's Posthumous Memoir — PBS"
+    url: "https://www.pbs.org/newshour/show/epstein-survivor-virginia-giuffres-posthumous-memoir-exposes-abuse-by-powerful-men"
+  - title: "Virginia Giuffre Recounts a Lifetime of Abuse in Her Memoir — NPR"
+    url: "https://www.npr.org/2025/10/20/nx-s1-5514834/epstein-accuser-virginia-roberts-giuffre-nobodys-girl-memoir"
 ---
 
 Virginia Giuffre (born Virginia Roberts) is the most prominent accuser in the [Jeffrey Epstein](/people/jeffrey-epstein) case. Her willingness to identify herself publicly, file civil lawsuits against powerful individuals, and provide detailed testimony about the trafficking operation made her the single most important witness in bringing the Epstein network to public accountability.
@@ -121,7 +125,11 @@ Giuffre's impact on the Epstein case extended beyond her own allegations. She be
 
 Her lawsuit against Maxwell produced the document trove that named dozens of individuals and exposed the mechanics of Epstein's operation in unprecedented detail. Without Giuffre v. Maxwell, much of what the public now knows about the Epstein network would remain sealed.
 
-She has spoken publicly about the personal toll of her advocacy — the threats, the legal costs, the scrutiny of her own past, and the difficulty of reliving her experiences through years of litigation. She described feeling re-victimized by the legal process while simultaneously using it as the only available tool for accountability.
+She spoke publicly about the personal toll of her advocacy — the threats, the legal costs, the scrutiny of her own past, and the difficulty of reliving her experiences through years of litigation. She described feeling re-victimized by the legal process while simultaneously using it as the only available tool for accountability.
+
+## Death and Memoir
+
+Virginia Giuffre died in April 2025. Her posthumous memoir, *Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice*, co-written with Amy Wallace, was published by Alfred A. Knopf on October 21, 2025. The book documents her account of surviving Epstein's abuse, her recruitment at Mar-a-Lago, the years of trafficking, and her long fight for justice through the courts. It was released per her explicit wishes. The memoir was covered extensively by PBS, NPR, and other outlets, and provided additional detail about her experiences beyond what had been entered into court records.
 
 ## What Is and Is Not Established
 

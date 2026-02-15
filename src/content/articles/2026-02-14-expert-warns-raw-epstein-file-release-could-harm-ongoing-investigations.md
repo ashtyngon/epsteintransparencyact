@@ -28,6 +28,10 @@ tags:
   - transparency-act
   - document-release
   - investigation
+keyTakeaways:
+  - "A legal expert warned that releasing Epstein files without proper review 'can be counterproductive' and may harm ongoing investigations."
+  - "Other governments have adopted structured review processes: France created a special team; UK police launched a task force."
+  - "The expert's position challenges the mass-disclosure approach while proponents note releases have already triggered resignations and subpoenas."
 status: published
 aiGenerated: true
 articleType: news

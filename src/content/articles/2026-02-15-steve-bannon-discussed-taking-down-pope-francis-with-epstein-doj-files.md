@@ -17,6 +17,10 @@ tags:
   - document-release
   - associates
   - political
+keyTakeaways:
+  - "Steve Bannon sent Jeffrey Epstein a message in June 2019 stating 'Will take down Francis,' referring to Pope Francis, according to DOJ files."
+  - "The communication occurred one month before Epstein's arrest on federal sex trafficking charges in July 2019."
+  - "The documents do not detail what actions Bannon planned, whether Epstein responded, or what role Epstein might have played."
 status: published
 aiGenerated: true
 articleType: news

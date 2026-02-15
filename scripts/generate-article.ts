@@ -186,7 +186,7 @@ ${body}
 `;
 }
 
-function updateArticleTopics(newArticles: { slug: string; headline: string; people: string[]; tags: string[] }[]) {
+function updateArticleTopics(newArticles: { slug: string; headline: string; summary: string; people: string[]; tags: string[] }[]) {
   let topics: any[] = [];
   try {
     if (existsSync(TOPICS_PATH)) {
@@ -200,8 +200,8 @@ function updateArticleTopics(newArticles: { slug: string; headline: string; peop
     topics.push({
       slug: article.slug,
       title: article.headline,
-      summary: '',
-      topic: article.headline,
+      summary: article.summary,
+      topic: article.summary || article.headline,
       people: article.people,
       tags: article.tags,
     });
@@ -232,7 +232,7 @@ async function main() {
   console.log(`Generating ${relevant.length} articles with Claude Sonnet...\n`);
 
   let created = 0;
-  const newArticles: { slug: string; headline: string; people: string[]; tags: string[] }[] = [];
+  const newArticles: { slug: string; headline: string; summary: string; people: string[]; tags: string[] }[] = [];
 
   for (const item of relevant) {
     const headline = item.filterResult.suggestedHeadline || item.title;
@@ -264,10 +264,13 @@ async function main() {
     console.log(`  CREATED: ${slug}`);
     created++;
 
-    // Track for dedup record
+    // Track for dedup record — extract summary from generated body
+    const summaryMatch = body.match(/^(.{10,200}?)(?:\.\s|\n)/);
+    const articleSummary = summaryMatch ? summaryMatch[1].trim() : headline;
     newArticles.push({
       slug,
       headline,
+      summary: articleSummary,
       people: item.filterResult.mentionedPeople || [],
       tags: item.filterResult.tags || [],
     });

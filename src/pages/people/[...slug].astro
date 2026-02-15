@@ -11,9 +11,9 @@ export async function getStaticPaths() {
 }
 
 const { person } = Astro.props;
-const { Content } = await render(person);
+const { Content, headings } = await render(person);
 ---
 
-<PersonLayout person={person}>
+<PersonLayout person={person} headings={headings}>
   <Content />
 </PersonLayout>

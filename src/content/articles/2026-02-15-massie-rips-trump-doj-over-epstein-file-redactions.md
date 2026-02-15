@@ -31,6 +31,11 @@ tags:
   - transparency-act
   - political
   - breaking
+keyTakeaways:
+  - "Rep. Thomas Massie called Trump's administration 'the Epstein administration,' his sharpest rebuke yet over the handling of Epstein files."
+  - "Massie told the Washington Examiner: 'If you're not going to be transparent about this, you don't deserve to be called the transparency administration.'"
+  - "Multiple Trump administration figures appear in released files, including Commerce Secretary Howard Lutnick and Trump insider Tom Barrack."
+  - "International responses include a French investigation into a diplomat and a UK national task force for trafficking allegations."
 status: published
 aiGenerated: true
 articleType: news

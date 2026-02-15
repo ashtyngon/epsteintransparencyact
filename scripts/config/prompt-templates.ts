@@ -177,8 +177,26 @@ Use 0-3 cross-references. Only if they genuinely strengthen the piece.
 
 ---
 
+### 7. KEY TAKEAWAYS
+Write 3-5 bullet-point key takeaways for this article. These will appear in a summary box at the top of the page. Each takeaway should:
+- Be a single factual sentence, 15-30 words
+- Include specific names, numbers, dates, or document references
+- Summarize a distinct finding or development — no overlap between bullets
+- Be understandable on its own without reading the article
+
+### 8. DOJ DOCUMENT IMAGES
+If the source material references DOJ-released documents, court filings, lists, or official records that would be available as public-domain images (e.g., "politically exposed persons" lists, email screenshots, flight logs, booking photos), note them in your output so they can be embedded. Government-produced documents are copyright-free.
+
 ## Output
-Return ONLY the improved article body in Markdown. No frontmatter. No meta-commentary about your edits. No title heading. Just the article.
+Return your response in this EXACT format:
+
+KEY_TAKEAWAYS_START
+- "First takeaway here."
+- "Second takeaway here."
+- "Third takeaway here."
+KEY_TAKEAWAYS_END
+
+Then the improved article body in Markdown. No frontmatter. No meta-commentary about your edits. No title heading. Just the article.
 
 {wordCount}. Short paragraphs. ## subheadings where useful.
 

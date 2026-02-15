@@ -181,7 +181,15 @@ function loadExistingArticleTitles(): string[] {
     for (const file of files) {
       const content = readFileSync(join(ARTICLES_DIR, file), 'utf-8');
       const titleMatch = content.match(/^title:\s*"(.+?)"/m);
-      if (titleMatch) titles.push(titleMatch[1]);
+      const summaryMatch = content.match(/^summary:\s*"(.+?)"/m);
+      if (titleMatch) {
+        // Store title + summary combined for richer matching surface
+        // This catches cases where titles differ but summaries describe the same event
+        const combined = summaryMatch
+          ? `${titleMatch[1]} ${summaryMatch[1]}`
+          : titleMatch[1];
+        titles.push(combined);
+      }
     }
     return titles;
   } catch {
@@ -200,18 +208,20 @@ function textsAreSimilar(a: string, b: string, threshold: number): boolean {
 }
 
 function deduplicateByTitle(items: RSSItem[], existingTitles: string[]): RSSItem[] {
-  const groups: { words: string[]; best: RSSItem | null }[] = [];
+  const groups: { words: string[]; text: string; best: RSSItem | null }[] = [];
 
   // Seed groups with existing published articles — these block but don't output
+  // existingTitles now contain "title summary" combined strings for richer matching
   for (const title of existingTitles) {
     const words = getSignificantWords(title);
     if (words.length > 0) {
-      groups.push({ words, best: null });
+      groups.push({ words, text: title, best: null });
     }
   }
 
   for (const item of items) {
     const words = getSignificantWords(item.title);
+    const itemText = `${item.title} ${item.description.slice(0, 200)}`;
     let merged = false;
 
     for (const group of groups) {
@@ -225,23 +235,30 @@ function deduplicateByTitle(items: RSSItem[], existingTitles: string[]): RSSItem
         if (item.sourcePriority < group.best.sourcePriority) {
           group.best = item;
           group.words = words;
+          group.text = itemText;
         }
         merged = true;
         break;
       }
     }
 
-    // If not matched by title, check description similarity against existing groups
+    // If not matched by title, check description similarity against ALL groups
+    // (including existing articles where best is null)
     if (!merged) {
       for (const group of groups) {
-        if (group.best && textsAreSimilar(
-          `${item.title} ${item.description.slice(0, 200)}`,
-          `${group.best.title} ${group.best.description.slice(0, 200)}`,
-          0.35
-        )) {
+        const groupText = group.best
+          ? `${group.best.title} ${group.best.description.slice(0, 200)}`
+          : group.text;
+        if (textsAreSimilar(itemText, groupText, 0.3)) {
+          if (group.best === null) {
+            // Matches existing published article — skip
+            merged = true;
+            break;
+          }
           if (item.sourcePriority < group.best.sourcePriority) {
             group.best = item;
             group.words = words;
+            group.text = itemText;
           }
           merged = true;
           break;
