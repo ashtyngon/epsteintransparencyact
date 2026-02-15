@@ -16,7 +16,6 @@ const heroArticle = recentFeature || allArticles[0];
 const remainingArticles = allArticles.filter((a) => a.id !== heroArticle?.id).slice(0, 9);
 
 const people = (await getCollection('people')).slice(0, 4);
-const totalArticles = allArticles.length;
 
 // Timeline preview — 4 most recent events
 const timelineEntries = (await getCollection('timeline'))
@@ -37,7 +36,7 @@ function timeAgo(date: Date): string {
 
 <BaseLayout
   title="Home"
-  description="Tracking every development around the Epstein Files and the Epstein Transparency Act. Every article sourced and cited. Every name. Every document."
+  description="Tracking every development around the Epstein Files and the Epstein Transparency Act. Every name. Every document. Every story sourced and cited."
   jsonLd={websiteJsonLd()}
 >
   <!-- Hero — latest feature article -->
@@ -48,8 +47,6 @@ function timeAgo(date: Date): string {
           <div class="flex items-center gap-3 mb-4">
             <span class="breaking-tag">{heroArticle.data.articleType === 'feature' ? 'Featured' : 'Latest'}</span>
             <span class="text-xs text-white/40 font-mono">{timeAgo(heroArticle.data.publishedAt)}</span>
-            <span class="text-xs text-white/40">&middot;</span>
-            <span class="text-xs text-white/40 font-mono">{heroArticle.data.source}</span>
           </div>
           <h1 class="text-3xl md:text-5xl font-serif font-bold mb-4 leading-[1.15] tracking-tight max-w-4xl group-hover:text-white/90 transition-colors">
             {heroArticle.data.title}
@@ -61,7 +58,6 @@ function timeAgo(date: Date): string {
             <span class="text-sm font-semibold text-highlight group-hover:text-white transition-colors">
               Read full story &rarr;
             </span>
-            <span class="text-xs text-white/30 font-mono">{totalArticles} articles tracked</span>
           </div>
         </div>
       </a>
@@ -168,7 +164,7 @@ function timeAgo(date: Date): string {
           <div class="mt-6 p-5 border border-border">
             <h3 class="text-xs font-semibold uppercase tracking-wider text-primary mb-3">About This Site</h3>
             <p class="text-sm text-text-muted leading-relaxed">
-              Every article sourced and cited. Every article links back to its original source. No opinion. No editorial spin.
+              We track the latest developments around the Epstein Files. No opinion. No editorial spin. Every piece links to its original source.
             </p>
             <a
               href="/about"
@@ -181,9 +177,9 @@ function timeAgo(date: Date): string {
       </div>
     ) : (
       <div class="text-center py-16">
-        <p class="text-text-muted text-lg font-serif">No articles yet.</p>
+        <p class="text-text-muted text-lg font-serif">No stories yet.</p>
         <p class="text-text-muted text-sm mt-2">
-          The automated pipeline will populate this section with news from major outlets.
+          Check back soon — we're tracking the latest developments.
         </p>
       </div>
     )}
