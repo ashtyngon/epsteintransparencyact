@@ -1,5 +1,7 @@
 ---
 name: "Bill Clinton"
+seoTitle: "Bill Clinton Epstein Flights — 26 Times on Private Jet"
+seoDescription: "Former president flew on Epstein's jet at least 26 times with Maxwell, including Africa trip. No accusers allege misconduct by Clinton."
 aliases:
   - "President Clinton"
   - "William Jefferson Clinton"

@@ -1,5 +1,7 @@
 ---
 name: "Martin Nowak"
+seoTitle: "Martin Nowak Epstein Funding — Harvard Evolutionary Dynamics"
+seoDescription: "Harvard professor Martin Nowak directed the $6.5M Epstein-funded Program for Evolutionary Dynamics and met Epstein after his 2008 conviction."
 aliases:
   - "Martin A. Nowak"
 role: "Harvard Professor of Biology and Mathematics, Director of Program for Evolutionary Dynamics"

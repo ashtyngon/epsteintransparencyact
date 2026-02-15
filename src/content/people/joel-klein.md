@@ -1,5 +1,7 @@
 ---
 name: "Joel Klein"
+seoTitle: "Joel Klein Epstein Meetings — NYC Schools Chancellor Connection"
+seoDescription: "Former NYC schools chancellor met repeatedly with Epstein in 2013, five years after conviction. Led 1.1M student system, then News Corp exec."
 aliases: []
 role: "Former NYC Schools Chancellor (2002-2010), former News Corp executive"
 category: "named-in-documents"

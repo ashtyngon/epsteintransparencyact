@@ -1,5 +1,7 @@
 ---
 name: "Steve Bannon"
+seoTitle: "Steve Bannon Named in Epstein Files — Nobel Outreach"
+seoDescription: "Former White House strategist Steve Bannon was contacted by Epstein, who used his Nobel Committee chairman connection to recruit Bannon."
 aliases:
   - "Stephen K. Bannon"
   - "Stephen Bannon"

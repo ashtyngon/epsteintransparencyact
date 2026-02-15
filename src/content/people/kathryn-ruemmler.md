@@ -1,5 +1,7 @@
 ---
 name: "Kathryn Ruemmler"
+seoTitle: "Kathryn Ruemmler Epstein — Goldman Sachs Lawyer Resigns"
+seoDescription: "Obama White House counsel and Goldman Sachs top lawyer resigned after 'Uncle Jeffrey' emails surfaced. Thanked Epstein for gifts in messages."
 aliases:
   - "Kathy Ruemmler"
 role: "Former Goldman Sachs General Counsel, Former White House Counsel"

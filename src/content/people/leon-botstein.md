@@ -1,5 +1,7 @@
 ---
 name: "Leon Botstein"
+seoTitle: "Leon Botstein Epstein Connection — Bard College President"
+seoDescription: "Leon Botstein, Bard College president since 1975, appeared in Jeffrey Epstein's personal contacts, extending scrutiny beyond Ivy League schools."
 aliases: []
 role: "President of Bard College, Conductor"
 category: "associate"

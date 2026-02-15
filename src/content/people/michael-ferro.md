@@ -1,5 +1,7 @@
 ---
 name: "Michael Ferro"
+seoTitle: "Michael Ferro Epstein — Tribune Media Mogul Connection"
+seoDescription: "Chicago Tribune and Sun-Times chairman Michael Ferro canceled a last-minute Epstein meeting. Emails revealed in February 2026 Epstein files."
 aliases:
   - "Michael W. Ferro Jr."
 role: "Media executive, former chairman of the Chicago Tribune and Chicago Sun-Times"

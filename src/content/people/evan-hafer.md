@@ -1,5 +1,7 @@
 ---
 name: "Evan Hafer"
+seoTitle: "Evan Hafer Epstein Files — Joe Rogan Interview on Black Rifle"
+seoDescription: "Black Rifle Coffee CEO interviewed Joe Rogan when Rogan said Epstein files 'scare the hell out of me' and called them 'not a hoax.'"
 aliases: []
 role: "CEO and Founder of Black Rifle Coffee Company"
 category: "other"

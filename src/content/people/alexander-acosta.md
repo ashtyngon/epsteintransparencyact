@@ -1,5 +1,7 @@
 ---
 name: "Alexander Acosta"
+seoTitle: "Acosta Epstein Plea Deal — How Trump's Labor Secretary Protected Him"
+seoDescription: "U.S. Attorney who gave Epstein 13 months in jail with work release and immunity for co-conspirators. Told Trump team Epstein 'belonged to intelligence.'"
 aliases:
   - "Alex Acosta"
   - "R. Alexander Acosta"

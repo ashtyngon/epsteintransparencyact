@@ -1,5 +1,7 @@
 ---
 name: "Nancy Mace"
+seoTitle: "Nancy Mace Epstein Files — Survivor Defies Trump"
+seoDescription: "Rep. Nancy Mace, a sexual violence survivor, defied White House pressure to sign the Epstein files discharge petition. 'NEVER abandon survivors.'"
 aliases: []
 role: "U.S. Representative (R-SC)"
 category: "official"

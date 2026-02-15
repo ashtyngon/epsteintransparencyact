@@ -1,5 +1,7 @@
 ---
 name: "David Rubenstein"
+seoTitle: "David Rubenstein Epstein Files — Orioles Owner Named"
+seoDescription: "Carlyle Group billionaire and Baltimore Orioles owner named in Epstein documents with meetings dating to 2010, after conviction."
 aliases: []
 role: "Co-founder of Carlyle Group, Owner of the Baltimore Orioles"
 category: "named-in-documents"

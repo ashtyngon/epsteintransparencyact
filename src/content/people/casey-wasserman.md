@@ -1,5 +1,7 @@
 ---
 name: "Casey Wasserman"
+seoTitle: "Casey Wasserman Epstein Files — LA Olympics Chief Resigns"
+seoDescription: "LA 2028 Olympics chairman quit and sold agency after 2003 'flirtatious' Maxwell emails surfaced. Chappell Roan, Abby Wambach cut ties."
 aliases: []
 role: "Entertainment executive, LA 2028 Olympics organizing committee chairman"
 category: "named-in-documents"

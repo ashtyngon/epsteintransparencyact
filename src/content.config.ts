@@ -28,6 +28,8 @@ const people = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/people' }),
   schema: z.object({
     name: z.string(),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
     aliases: z.array(z.string()).default([]),
     role: z.string(),
     category: z.enum([

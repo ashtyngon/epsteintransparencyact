@@ -1,5 +1,7 @@
 ---
 name: "Steven Pinker"
+seoTitle: "Steven Pinker Epstein — Harvard Professor, Legal Opinion"
+seoDescription: "Harvard psychologist Steven Pinker flew on Epstein's plane, appeared in connection with Epstein's campus visits, provided 2007 legal opinion."
 aliases:
   - "Steven Arthur Pinker"
 role: "Harvard Cognitive Scientist and Author"

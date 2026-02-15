@@ -1,5 +1,7 @@
 ---
 name: "Ghislaine Maxwell"
+seoTitle: "Ghislaine Maxwell Epstein Conviction — 20 Years for Trafficking"
+seoDescription: "Epstein's partner convicted on 5 counts of sex trafficking. Recruited Virginia Giuffre at Mar-a-Lago. Serving 20 years at FPC Bryan, Texas."
 aliases:
   - "Maxwell"
   - "G. Maxwell"

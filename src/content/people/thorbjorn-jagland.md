@@ -1,5 +1,7 @@
 ---
 name: "Thorbjorn Jagland"
+seoTitle: "Thorbjorn Jagland Epstein — Nobel Committee Chairman"
+seoDescription: "Nobel Peace Prize Committee chairman Thorbjorn Jagland had 'mutually beneficial ties' with Epstein. Received gifts, promised influence."
 aliases:
   - "Thorbjørn Jagland"
 role: "Former Norwegian Prime Minister, former Nobel Committee chairman, former Council of Europe Secretary General"

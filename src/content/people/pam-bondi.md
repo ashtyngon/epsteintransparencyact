@@ -1,5 +1,7 @@
 ---
 name: "Pam Bondi"
+seoTitle: "Pam Bondi Epstein Files — AG Hearing, Redactions"
+seoDescription: "AG Bondi gave contradictory testimony in 5-hour congressional hearing, refused to acknowledge survivors, caught carrying DOJ surveillance memo."
 aliases:
   - "Pamela Bondi"
   - "Attorney General Bondi"

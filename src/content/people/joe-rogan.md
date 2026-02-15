@@ -1,5 +1,7 @@
 ---
 name: "Joe Rogan"
+seoTitle: "Joe Rogan Epstein Files — Named in Documents, Reacts On Air"
+seoDescription: "Podcast host named in Epstein files said they 'scare the hell out of me' and are 'definitely not a hoax' on air. Slammed Trump's 'gaslighting.'"
 aliases: []
 role: "Podcast host, comedian, UFC commentator"
 category: "other"

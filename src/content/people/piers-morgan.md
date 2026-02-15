@@ -1,5 +1,7 @@
 ---
 name: "Piers Morgan"
+seoTitle: "Piers Morgan Named 29 Times in Epstein Files"
+seoDescription: "Piers Morgan's name appears 29 times in Epstein files per BuzzFeed. Morgan publicly disputes and refuses to accept that he's in the documents."
 aliases:
   - "Piers Stefan Pughe-Morgan"
 role: "British broadcaster, journalist, television presenter"

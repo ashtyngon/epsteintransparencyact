@@ -1,5 +1,7 @@
 ---
 name: "Sultan Ahmed Bin Sulayem"
+seoTitle: "Bin Sulayem Epstein — DP World CEO Forced Out"
+seoDescription: "DP World CEO Sultan Ahmed bin Sulayem forced out after appearing 4,700+ times in Epstein files. Managed 80+ ports globally, P&O Ferries."
 aliases:
   - "Bin Sulayem"
 role: "Former Chairman and CEO of DP World"

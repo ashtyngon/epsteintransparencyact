@@ -1,5 +1,7 @@
 ---
 name: "Tom Barrack"
+seoTitle: "Tom Barrack Epstein — Trump Inaugural Chair Named in Files"
+seoDescription: "Billionaire Tom Barrack, Trump's 2017 inaugural chair and Colony Capital founder, networked and socialized with Epstein for years per CBS News."
 aliases:
   - "Thomas Barrack"
   - "Thomas J. Barrack Jr."

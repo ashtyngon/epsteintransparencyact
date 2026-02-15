@@ -1,5 +1,7 @@
 ---
 name: "Jean-Luc Brunel"
+seoTitle: "Jean-Luc Brunel Epstein — Modeling Agent Found Dead in Jail"
+seoDescription: "French modeling agent funded by Epstein who used MC2 agency to recruit victims. Charged with rape of minors, found dead in Paris cell 2022."
 aliases:
   - "Brunel"
 role: "French Modeling Agent"

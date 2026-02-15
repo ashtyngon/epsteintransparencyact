@@ -1,5 +1,7 @@
 ---
 name: "Leslie Wexner"
+seoTitle: "Les Wexner & Epstein — Victoria's Secret, Mansion Transfer"
+seoDescription: "Les Wexner gave Epstein sweeping power of attorney and a $77M NYC mansion for $0. Subpoenaed by Congress in 2026 after being labeled a 'co-conspirator.'"
 aliases:
   - "Les Wexner"
   - "Leslie H. Wexner"

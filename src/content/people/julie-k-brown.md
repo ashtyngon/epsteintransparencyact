@@ -1,5 +1,7 @@
 ---
 name: "Julie K. Brown"
+seoTitle: "Julie K. Brown Epstein — Reporter Who Reopened the Case"
+seoDescription: "Miami Herald reporter whose 'Perversion of Justice' series found 80 victims, exposed plea deal, and led to Epstein's 2019 federal arrest."
 aliases:
   - "Julie Brown"
 role: "Investigative Reporter, Miami Herald"

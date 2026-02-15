@@ -1,5 +1,7 @@
 ---
 name: "Virginia Giuffre"
+seoTitle: "Virginia Giuffre Epstein Victim — Prince Andrew Settlement"
+seoDescription: "Virginia Giuffre, recruited at 16 by Maxwell at Mar-a-Lago, accused Prince Andrew (£12M settlement), Dershowitz (recanted), and others."
 aliases:
   - "Virginia Roberts"
   - "Virginia Roberts Giuffre"

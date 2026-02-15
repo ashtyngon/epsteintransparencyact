@@ -1,5 +1,7 @@
 ---
 name: "David Stern"
+seoTitle: "David Stern Epstein Files — Prince Andrew Aide's Visa Fraud"
+seoDescription: "Prince Andrew associate advised Epstein to hide child abuse conviction on Chinese visa application. Files show illegal guidance on fraud."
 aliases: []
 role: "Close associate of Prince Andrew, Epstein advisor"
 category: "associate"

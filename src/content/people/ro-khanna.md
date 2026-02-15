@@ -1,5 +1,7 @@
 ---
 name: "Ro Khanna"
+seoTitle: "Ro Khanna Epstein Transparency Act — Named Wexner Co-Conspirator"
+seoDescription: "Rep. Ro Khanna co-authored the Epstein Transparency Act, named 6 redacted individuals from the House floor, labeled Wexner an FBI 'co-conspirator.'"
 aliases: []
 role: "U.S. Representative (D-CA)"
 category: "official"

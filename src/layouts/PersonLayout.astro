@@ -10,7 +10,11 @@ interface Props {
 }
 
 const { person } = Astro.props;
-const { name, role, category, shortBio, aliases, notableConnections, sources, image } = person.data;
+const { name, seoTitle, seoDescription, role, category, shortBio, aliases, notableConnections, sources, image } = person.data;
+
+// SEO: keyword-rich title and description for search
+const pageTitle = seoTitle || `${name} & Jeffrey Epstein — Connection, Files & Documents`;
+const pageDescription = seoDescription || `${name}'s documented connections to Jeffrey Epstein. ${shortBio.slice(0, 130)}${shortBio.length > 130 ? '...' : ''}`;
 
 const categoryLabels: Record<string, string> = {
   'named-in-documents': 'Named in Documents',
@@ -43,8 +47,8 @@ const jsonLd = personJsonLd({
 ---
 
 <BaseLayout
-  title={name}
-  description={shortBio}
+  title={pageTitle}
+  description={pageDescription}
   ogType="profile"
   ogImage={`/og/people/${person.id}.png`}
   jsonLd={jsonLd}

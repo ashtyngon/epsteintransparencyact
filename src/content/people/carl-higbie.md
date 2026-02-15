@@ -1,5 +1,7 @@
 ---
 name: "Carl Higbie"
+seoTitle: "Carl Higbie Epstein Files — Newsmax Host Calls Out DOJ Cover-Up"
+seoDescription: "Newsmax host accused Trump DOJ of 'cover-up' for redacting names from Epstein files, demanding prosecution of officials responsible."
 aliases: []
 role: "Newsmax Host, Conservative Media Personality"
 category: "other"

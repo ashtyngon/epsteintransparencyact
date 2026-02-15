@@ -1,5 +1,7 @@
 ---
 name: "Lauren Boebert"
+seoTitle: "Lauren Boebert Epstein Files — Refused to Back Down in Situation Room"
+seoDescription: "Colorado Rep signed Epstein discharge petition, then refused to withdraw in White House Situation Room meeting with AG Bondi and FBI director."
 aliases: []
 role: "U.S. Representative (R-CO)"
 category: "official"

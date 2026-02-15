@@ -1,5 +1,7 @@
 ---
 name: "Kamala Harris"
+seoTitle: "Kamala Harris Epstein Files — Why Biden Admin Didn't Release"
+seoDescription: "Former VP explained Biden DOJ didn't release files to preserve independence. Contrasted with Trump's suppression after learning his name appeared."
 aliases: []
 role: "Vice President of the United States (2021-2025)"
 category: "official"

@@ -1,5 +1,7 @@
 ---
 name: "Prince Andrew"
+seoTitle: "Prince Andrew & Epstein — Lawsuit, Settlement, Files"
+seoDescription: "Prince Andrew's ties to Epstein: Virginia Giuffre's allegations, disastrous BBC interview, £12M settlement, stripped titles, contradicted by 2026 emails."
 aliases:
   - "Duke of York"
   - "Andrew Windsor"

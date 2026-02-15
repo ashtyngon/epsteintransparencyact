@@ -1,5 +1,7 @@
 ---
 name: "Lawrence Summers"
+seoTitle: "Larry Summers Epstein — Harvard President Met After Conviction"
+seoDescription: "Former Treasury Secretary and Harvard president met with Epstein after 2008 conviction. Epstein donated $9.1M to Harvard, visited 40+ times."
 aliases:
   - "Larry Summers"
   - "Lawrence H. Summers"

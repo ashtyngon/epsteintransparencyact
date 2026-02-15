@@ -1,5 +1,7 @@
 ---
 name: "Thomas Massie"
+seoTitle: "Thomas Massie Epstein Transparency Act — Discharge Petition"
+seoDescription: "Rep. Thomas Massie co-authored the Epstein Transparency Act, led the discharge petition that forced a floor vote over White House opposition."
 aliases:
   - "Rep. Massie"
 role: "U.S. Representative (R-KY)"

@@ -1,5 +1,7 @@
 ---
 name: "Richard Branson"
+seoTitle: "Richard Branson Epstein — Necker Island, Nobel Connection"
+seoDescription: "Epstein visited Richard Branson's Necker Island and used his Nobel Prize Committee chairman connection to reach out to the Virgin Group founder."
 aliases:
   - "Sir Richard Branson"
 role: "Founder of Virgin Group"

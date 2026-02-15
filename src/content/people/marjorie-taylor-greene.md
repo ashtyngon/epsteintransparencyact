@@ -1,5 +1,7 @@
 ---
 name: "Marjorie Taylor Greene"
+seoTitle: "MTG Epstein Files — Discharge Petition, Trump Fallout"
+seoDescription: "MTG signed the Epstein files discharge petition, was un-endorsed by Trump, declared 'MAGA was a lie,' and resigned from Congress in early 2026."
 aliases:
   - "MTG"
 role: "Former U.S. Representative (R-GA)"

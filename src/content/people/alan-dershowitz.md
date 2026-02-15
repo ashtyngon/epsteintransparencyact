@@ -1,5 +1,7 @@
 ---
 name: "Alan Dershowitz"
+seoTitle: "Alan Dershowitz Epstein Connection — Attorney Role"
+seoDescription: "Harvard Law professor who defended Epstein in 2008 plea deal and was accused by Virginia Giuffre. She recanted in 2024 settlement."
 aliases:
   - "Professor Dershowitz"
   - "Alan M. Dershowitz"

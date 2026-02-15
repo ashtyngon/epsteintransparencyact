@@ -1,5 +1,7 @@
 ---
 name: "Donald Trump"
+seoTitle: "Trump Epstein Files — Named 38,000+ Times in Documents"
+seoDescription: "Second most-mentioned name in Epstein files with 38,000+ references. Flew 8 times on Epstein's jet. Fought release, called supporters 'weaklings.'"
 aliases:
   - "President Trump"
   - "Donald J. Trump"

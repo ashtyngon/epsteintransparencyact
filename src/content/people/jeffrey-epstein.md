@@ -1,5 +1,7 @@
 ---
 name: "Jeffrey Epstein"
+seoTitle: "Jeffrey Epstein Files — 3.5M Pages Released on Trafficking Case"
+seoDescription: "Convicted sex trafficker who died in federal custody August 2019. Epstein Transparency Act released 3.5M pages documenting decades-long abuse network."
 aliases:
   - "Epstein"
   - "Jeffrey E. Epstein"

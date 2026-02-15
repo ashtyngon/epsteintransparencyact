@@ -1,5 +1,7 @@
 ---
 name: "Joi Ito"
+seoTitle: "Joi Ito Epstein MIT — Media Lab Director Resigned Over Ties"
+seoDescription: "MIT Media Lab director resigned 2019 after concealing $850K in Epstein donations. Used 'he who shall not be named' in emails about funding."
 aliases:
   - "Joichi Ito"
 role: "Former Director of MIT Media Lab"

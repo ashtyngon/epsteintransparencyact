@@ -1,5 +1,7 @@
 ---
 name: "Peter Mandelson"
+seoTitle: "Peter Mandelson Epstein — UK Ambassador Subpoenaed"
+seoDescription: "Lord Mandelson, former UK Ambassador to the US, subpoenaed by Congress in February 2026 — first foreign ambassador called over Epstein ties."
 aliases:
   - "Lord Mandelson"
   - "Baron Mandelson"
