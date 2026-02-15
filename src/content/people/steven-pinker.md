@@ -11,7 +11,7 @@ notableConnections:
   - jeffrey-epstein
   - alan-dershowitz
 firstMentionedDate: 2019-07-12
-image: ""
+image: "/images/people/steven-pinker.jpg"
 sources:
   - title: "Steven Pinker's Connections to Jeffrey Epstein — Business Insider"
     url: "https://www.businessinsider.com/steven-pinker-jeffrey-epstein-connections-2019-7"

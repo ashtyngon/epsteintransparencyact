@@ -10,7 +10,7 @@ shortBio: "British billionaire founder of the Virgin Group. Jeffrey Epstein visi
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2019-08-14
-image: ""
+image: "/images/people/richard-branson.jpg"
 sources:
   - title: "Epstein Used Nobel Prize Access to Lure Elite Network, Files Show — The Independent"
     url: "https://www.independent.co.uk/news/world/americas/jeffrey-epstein-steve-bannon-norway-donald-trump-larry-summers-b2920430.html"

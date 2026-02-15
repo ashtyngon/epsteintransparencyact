@@ -10,7 +10,7 @@ shortBio: "Former director of the MIT Media Lab who resigned in September 2019 a
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2019-09-07
-image: ""
+image: "/images/people/joi-ito.jpg"
 sources:
   - title: "Joi Ito Resigns From M.I.T. Media Lab Over Epstein Ties — New York Times"
     url: "https://www.nytimes.com/2019/09/07/business/mit-media-lab-jeffrey-epstein-joichi-ito.html"

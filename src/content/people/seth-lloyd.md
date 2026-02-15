@@ -9,7 +9,7 @@ shortBio: "Professor of mechanical engineering at MIT who received a $225,000 pe
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2019-09-13
-image: ""
+image: "/images/people/seth-lloyd.jpg"
 sources:
   - title: "M.I.T. Professor's Apology for Taking Money From Jeffrey Epstein — New York Times"
     url: "https://www.nytimes.com/2019/09/13/business/seth-lloyd-mit-jeffrey-epstein.html"

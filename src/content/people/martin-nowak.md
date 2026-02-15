@@ -10,7 +10,7 @@ shortBio: "Harvard professor of biology and mathematics who directed the Epstein
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2019-09-12
-image: ""
+image: "/images/people/martin-nowak.jpg"
 sources:
   - title: "Harvard Review of Jeffrey Epstein Donations — Harvard Crimson"
     url: "https://www.thecrimson.com/article/2020/5/1/harvard-epstein-report/"

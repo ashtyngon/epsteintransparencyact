@@ -9,7 +9,7 @@ shortBio: "President of Bard College since 1975 and music director of the Americ
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2019-08-01
-image: ""
+image: "/images/people/leon-botstein.jpg"
 sources:
   - title: "College Presidents, Professors Named in Epstein Files Fallout — The Hill"
     url: "https://thehill.com/homenews/education/5736016-epstein-files-ohio-state-harvard-bard-yale/"

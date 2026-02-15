@@ -17,6 +17,7 @@ notableConnections:
   - bill-clinton
   - leslie-wexner
 firstMentionedDate: 2011-03-01
+image: "/images/people/virginia-giuffre.jpg"
 sensitive: true
 sources:
   - title: "Unsealed Jeffrey Epstein Documents Released — CNN"

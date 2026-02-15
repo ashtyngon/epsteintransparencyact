@@ -10,7 +10,7 @@ notableConnections:
   - jeffrey-epstein
   - prince-andrew
 firstMentionedDate: 2026-02-14
-image: ""
+image: "/images/people/david-stern-advisor.jpg"
 sources:
   - title: "Prince Andrew's Aide Advised Epstein to Hide Conviction on Visa Form — The Guardian"
     url: "https://www.theguardian.com/us-news/2026/feb/14/david-stern-jeffrey-epstein-hide-conviction-china-visa"
