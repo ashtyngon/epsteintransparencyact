@@ -1,6 +1,6 @@
 ---
 title: "Epstein Transparency Act signed into law"
-date: 2025-01-07
+date: 2025-11-19
 era: transparency
 category: legislation
 significance: major

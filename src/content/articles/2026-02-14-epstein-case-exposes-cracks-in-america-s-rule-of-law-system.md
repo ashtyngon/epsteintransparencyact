@@ -1,7 +1,7 @@
 ---
 title: "Epstein Case Exposes Cracks in America's Rule of Law System"
 publishedAt: "2026-02-14T05:10:04.000Z"
-source: "Google News (Epstein)"
+source: "CGTN"
 sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYl9RZllRYUw4azgtYnBOLXczQnpaS1U4RG1CQUxrbmpBeGd3a2tjYUdZaXJOS0liOWE1cDM3R1l6SHljdC1IT25TRkU3eVhzbTR3eGswNEVqS1BRbVBaQVk2cUpyS3RIMWxJMlRVQXpUb1dIMTEzVGhVclB3RWFKeWZRdnkzcDBPaXN2TWVxM3ZQUWszM2VEclc5WUYzYndkbzBPWF9RcTM4MkR0M2xtTnZQUlg4S0MxQmc?oc=5"
 summary: "A stark critique of American justice emerged this week from an unexpected source. CGTN, China's state-run media outlet, published an editorial claiming the Epst"
 people:

@@ -1,7 +1,7 @@
 ---
 title: "Epstein Emails Expose Ex-Clifford Chance Lawyer's Hidden Ties"
 publishedAt: "2026-02-14T03:07:15.000Z"
-source: "Google News (Epstein)"
+source: "The Hill"
 sourceUrl: "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVpMVlp5MEVLcVB5SkJ0QVR4SjN1TTZTeHpRZGxKMWhYTUt0Rm94RC1zcUJLSGptblRLVm5IdURvM1YyaXFyeU1ZQTR2RmZuQjJDQ2E5MzIzLVg4VDl3NllBeExDVjhoY0tFSDlad0hoNF9GZDgtdHgyekRULWNyMjg4R3hTSGw2Wmpn?oc=5"
 summary: "When Justice Officials Name Names: Inside the Escalating Battle Over Epstein File Redactions The dam is beginning to crack. After weeks of mounting pressure ove"
 people:

@@ -8,6 +8,7 @@ shortBio: "Dubai-based executive forced out as head of DP World — the global p
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-13
+image: "/images/people/sultan-ahmed-bin-sulayem.jpg"
 sources:
   - title: "DP World CEO Forced Out Over Epstein Emails — The Guardian"
     url: "https://www.theguardian.com/business/2026/feb/13/dp-world-ceo-epstein-emails"

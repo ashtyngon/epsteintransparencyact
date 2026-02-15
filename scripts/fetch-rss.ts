@@ -93,12 +93,28 @@ async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]>
           if (imgMatch) image = imgMatch[1];
         }
 
+        // For Google News aggregator, extract actual publisher name
+        let sourceName = feed.name;
+        if (feed.category === 'aggregator') {
+          // rss-parser may expose <source> element
+          const rssSource = item.source?.name || item.source;
+          if (rssSource && typeof rssSource === 'string') {
+            sourceName = rssSource;
+          } else {
+            // Google News titles: "Article Title - Publisher Name"
+            const titleParts = (item.title || '').split(' - ');
+            if (titleParts.length > 1) {
+              sourceName = titleParts[titleParts.length - 1].trim();
+            }
+          }
+        }
+
         return {
           title: item.title || '',
           link: item.link || '',
           description: (item.contentSnippet || item.content || '').slice(0, 1000),
           pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
-          source: feed.name,
+          source: sourceName,
           sourceId: feed.id,
           sourcePriority: feed.priority,
           image,

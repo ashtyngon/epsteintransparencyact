@@ -10,6 +10,7 @@ notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
 firstMentionedDate: 2002-09-01
+image: "/images/people/leslie-wexner.jpg"
 sensitive: false
 sources:
   - title: "Les Wexner and Jeffrey Epstein: What We Know — New York Times"
