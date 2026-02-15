@@ -11,6 +11,8 @@ people:
   - steve-bannon
   - donald-trump
   - kathryn-ruemmler
+  - lawrence-summers
+  - thorbjorn-jagland
 relatedArticles:
   - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout

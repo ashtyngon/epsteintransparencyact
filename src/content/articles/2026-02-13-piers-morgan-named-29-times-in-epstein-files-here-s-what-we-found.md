@@ -8,6 +8,7 @@ people:
   - piers-morgan
   - jeffrey-epstein
   - sultan-ahmed-bin-sulayem
+  - joe-rogan
 relatedArticles:
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
 tags:

@@ -7,6 +7,12 @@ summary: "A University of Alabama administrator requested Jeffrey Epstein's help
 people:
   - jeffrey-epstein
   - leslie-wexner
+  - joi-ito
+  - lawrence-summers
+  - leon-botstein
+  - martin-nowak
+  - peter-mandelson
+  - seth-lloyd
 relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties

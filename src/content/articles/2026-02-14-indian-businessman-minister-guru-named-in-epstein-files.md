@@ -8,6 +8,7 @@ people:
   - jeffrey-epstein
   - ghislaine-maxwell
   - sultan-ahmed-bin-sulayem
+  - peter-mandelson
 relatedArticles:
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
   - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties

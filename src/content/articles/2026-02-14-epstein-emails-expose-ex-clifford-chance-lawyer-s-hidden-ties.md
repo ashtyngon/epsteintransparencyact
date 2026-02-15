@@ -17,6 +17,7 @@ people:
   - alexander-acosta
   - kathryn-ruemmler
   - virginia-giuffre
+  - peter-mandelson
 relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act

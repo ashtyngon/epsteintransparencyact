@@ -12,6 +12,8 @@ people:
   - pam-bondi
   - ro-khanna
   - thomas-massie
+  - joe-rogan
+  - peter-mandelson
 relatedArticles:
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed

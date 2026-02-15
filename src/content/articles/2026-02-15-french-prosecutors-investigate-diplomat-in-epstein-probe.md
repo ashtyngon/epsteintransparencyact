@@ -7,6 +7,7 @@ summary: "French prosecutors opened an investigation into a diplomat with ties t
 people:
   - jeffrey-epstein
   - pam-bondi
+  - peter-mandelson
 relatedArticles:
   - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed

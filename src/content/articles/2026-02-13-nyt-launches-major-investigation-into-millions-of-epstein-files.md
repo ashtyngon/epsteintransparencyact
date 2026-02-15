@@ -10,6 +10,8 @@ people:
   - leslie-wexner
   - pam-bondi
   - sultan-ahmed-bin-sulayem
+  - peter-mandelson
+  - thorbjorn-jagland
 tags:
   - court-documents
   - document-release

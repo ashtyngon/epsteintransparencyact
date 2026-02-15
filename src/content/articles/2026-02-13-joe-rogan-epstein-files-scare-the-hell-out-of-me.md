@@ -14,6 +14,7 @@ people:
   - kathryn-ruemmler
   - sultan-ahmed-bin-sulayem
   - thomas-massie
+  - peter-mandelson
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed

@@ -13,8 +13,13 @@ people:
   - leslie-wexner
   - pam-bondi
   - prince-andrew
-  - ro-khanna
   - thomas-massie
+  - casey-wasserman
+  - joe-rogan
+  - michael-ferro
+  - peter-mandelson
+  - piers-morgan
+  - thorbjorn-jagland
 relatedArticles:
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

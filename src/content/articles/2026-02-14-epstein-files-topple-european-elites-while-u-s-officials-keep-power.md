@@ -16,6 +16,10 @@ people:
   - sultan-ahmed-bin-sulayem
   - kathryn-ruemmler
   - virginia-giuffre
+  - casey-wasserman
+  - peter-mandelson
+  - thorbjorn-jagland
+  - tom-barrack
 relatedArticles:
   - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

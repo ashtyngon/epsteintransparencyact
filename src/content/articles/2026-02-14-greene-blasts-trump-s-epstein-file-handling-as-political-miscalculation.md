@@ -14,6 +14,8 @@ people:
   - thomas-massie
   - nancy-mace
   - lauren-boebert
+  - casey-wasserman
+  - peter-mandelson
 relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions

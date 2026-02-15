@@ -7,6 +7,12 @@ summary: "At least three university presidents and multiple professors have been
 people:
   - jeffrey-epstein
   - leslie-wexner
+  - joi-ito
+  - lawrence-summers
+  - leon-botstein
+  - martin-nowak
+  - seth-lloyd
+  - steven-pinker
 relatedArticles:
   - court-releases-new-batch-of-documents
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

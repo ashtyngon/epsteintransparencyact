@@ -12,6 +12,11 @@ people:
   - leslie-wexner
   - pam-bondi
   - ro-khanna
+  - david-stern-advisor
+  - joe-rogan
+  - michael-ferro
+  - peter-mandelson
+  - piers-morgan
 relatedArticles:
   - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
