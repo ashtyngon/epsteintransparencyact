@@ -39,7 +39,3 @@ The video materials represent one component of millions of pages released follow
 Lawmakers including Rep. Thomas Massie and Rep. Nancy Mace [accused the department of continuing to hide names through redactions](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release). The [New York Times launched a major investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into the complete file release.
 
 JeffTube provides centralized access to the video portion of the DOJ disclosures.
-
----
-
-**DOJ DOCUMENT IMAGES:** Video screenshots from JeffTube platform interface showing browsing features; screenshots of DOJ-released video files from Epstein's office (if available as public-domain government records).

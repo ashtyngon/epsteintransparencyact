@@ -39,8 +39,3 @@ The record is among millions of pages released under the [Epstein Transparency A
 The document surfaced as lawmakers press Attorney General Bondi over the file release. Rep. Thomas Massie and other members of Congress have [accused the DOJ](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) of maintaining excessive redactions.
 
 The New York Times has [launched an investigation](/news/nyt-launches-major-investigation-into-millions-of-epstein-files) into the released documents. [France](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) and the [United Kingdom](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) established specialized teams to review files for their nationals.
-
----
-
-**DOJ DOCUMENT IMAGES NEEDED:**
-- Screenshot/image of the Craven County middle school immunization record as it appears in the DOJ Epstein files (if publicly available in the released documents)

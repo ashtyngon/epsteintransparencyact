@@ -206,10 +206,8 @@ Write 3-5 bullet-point key takeaways for this article. These will appear in a su
 - Summarize a distinct finding or development — no overlap between bullets
 - Be understandable on its own without reading the article
 
-### 9. DOJ DOCUMENT IMAGES
-If the source material references DOJ-released documents, court filings, lists, or official records that would be available as public-domain images (e.g., "politically exposed persons" lists, email screenshots, flight logs, booking photos), note them in your output so they can be embedded. Government-produced documents are copyright-free.
-
 ## Output
+IMPORTANT: Output ONLY the KEY_TAKEAWAYS block followed by the article body. Do NOT include any meta-commentary, image suggestions, editorial notes, or instructions to yourself. The output goes directly to the website.
 Return your response in this EXACT format:
 
 KEY_TAKEAWAYS_START

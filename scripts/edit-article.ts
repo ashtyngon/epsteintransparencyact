@@ -186,8 +186,14 @@ async function main() {
       finalBody = editedBody.replace(/KEY_TAKEAWAYS_START\n[\s\S]*?KEY_TAKEAWAYS_END\n*/, '').trim();
     }
 
-    // Strip any DOJ Document Image notes the AI may have left in the output
-    finalBody = finalBody.replace(/---\s*\n\s*\*\*DOJ Document Image[\s\S]*$/m, '').trim();
+    // Strip any AI meta-notes that leaked into the article body
+    // Catches: "DOJ Document Image...", "DOJ DOCUMENT IMAGES NEEDED:", "Image Opportunities:", etc.
+    finalBody = finalBody
+      .replace(/---\s*\n+\s*\*\*DOJ[\s\S]*$/i, '')
+      .replace(/\n+\*\*DOJ\s+DOCUMENT[\s\S]*$/i, '')
+      .replace(/\n+\*\*(?:Image|Document)\s+(?:Opportunities|Notes|Suggestions|Needed)[\s\S]*$/i, '')
+      .replace(/\n+---\s*$/g, '')
+      .trim();
 
     // Inject keyTakeaways into frontmatter if extracted and not already present
     let finalFrontmatter = parts.frontmatter;

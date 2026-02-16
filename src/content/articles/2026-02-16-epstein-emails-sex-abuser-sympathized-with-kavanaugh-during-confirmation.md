@@ -27,8 +27,6 @@ articleType: news
 confidence: 0.95
 ---
 
----
-
 Jeffrey Epstein sympathized with Brett Kavanaugh during the Supreme Court nominee's 2018 confirmation and suggested Republicans should have attacked Christine Blasey Ford more aggressively, according to emails and text messages released by the Department of Justice.
 
 The messages show Epstein, already a convicted sex offender, closely monitored the confirmation proceedings and believed Ford's sexual assault allegation could derail Kavanaugh's appointment to the court.
@@ -48,9 +46,3 @@ The Kavanaugh confirmation became one of the most divisive in modern Supreme Cou
 Epstein died in a Manhattan jail cell in August 2019 while awaiting trial on federal sex trafficking charges. The medical examiner ruled his death a suicide. His associate Ghislaine Maxwell was convicted of sex trafficking in 2021 and is serving a 20-year federal sentence.
 
 Starr died in 2022. Kavanaugh remains on the Supreme Court.
-
----
-
-**DOJ DOCUMENT IMAGES NEEDED:**
-- Screenshots of Epstein emails/text messages about Kavanaugh confirmation (if available in DOJ release)
-- Any DOJ document pages showing Epstein-Starr communications regarding Christine Blasey Ford
