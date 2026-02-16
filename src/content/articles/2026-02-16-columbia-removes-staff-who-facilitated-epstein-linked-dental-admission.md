@@ -1,9 +1,9 @@
 ---
-title: "Columbia Punishes Two Staff Members for Helping Maxwell Enter Dental College"
+title: "Columbia Removes Staff Who Facilitated Epstein-Linked Dental School Admission"
 publishedAt: "2026-02-16T18:45:23.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/16/nyregion/columbia-epstein-dental-shuliak.html"
-summary: "Columbia University disciplined two officials who helped Jeffrey Epstein's girlfriend gain entry to its dental college in 2013, according to documents released "
+summary: "Columbia University removed officials who helped Karyna Shuliak, Epstein's last girlfriend, gain entry to its dental college through an irregular admissions process tied to fundraising solicitations."
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -29,7 +29,7 @@ articleType: feature
 confidence: 0.95
 ---
 
-**Columbia University** disciplined two officials who helped **Jeffrey Epstein's girlfriend** gain entry to its dental college in 2013, according to documents released as part of the ongoing Epstein files disclosure. The university's actions follow revelations that Epstein leveraged his connections to secure admission for **Karyna Shuliak** despite standard procedures.
+**Columbia University** removed officials who helped **Karyna Shuliak**, Jeffrey Epstein's last girlfriend, gain entry to its College of Dental Medicine through what the university described as an "irregular process" tied to fundraising solicitations. Shuliak, who moved to the U.S. from Belarus in 2010, was initially denied admission in February 2012 but was admitted as a transfer student just months later after Epstein and his associates intervened. Epstein paid **$631,000** in tuition on Shuliak's behalf, and the university identified roughly **$210,000** in related donations.
 
 The disciplinary measures at Columbia mark the latest institutional response to the document release, which now spans multiple continents and has triggered investigations in at least five countries. In Texas, a **"Trump Republican"** candidate's family purchased Epstein's **New Mexico ranch** where abuse occurred, while newly released communications show **Steve Bannon** maintained contact with Epstein years after his 2008 conviction.
 
@@ -37,9 +37,9 @@ The documents continue to reveal how Epstein embedded himself in academic, polit
 
 ## Columbia Officials Face Discipline
 
-Columbia University confirmed it disciplined two administrators who facilitated Shuliak's enrollment at its College of Dental Medicine in 2013, according to the New York Times. The documents show Epstein personally intervened to help his girlfriend gain admission to the program.
+Columbia University said individuals still affiliated with the university who were connected to the irregular admissions process have been removed from administrative and volunteer leadership positions. Among those identified is Manhattan dentist **Dr. Thomas Magnani**, a prominent fundraiser who was removed from admissions roles and other university affiliations.
 
-The university has not publicly identified the disciplined officials or specified the nature of their punishment. Columbia declined to comment on whether the officials remain employed at the institution.
+Former dental college dean **Ira Lamster**, who left the university voluntarily in 2017, was not disciplined. Lamster said Epstein asked him about "someone who I believed to be in his employ who was a dental student in Belarus," and agreed to refer Shuliak to a faculty member in charge of admissions because the school was "pursuing a major gift" from Epstein. The university also announced it would donate **$105,000 each** to two nonprofits supporting survivors of sexual abuse and human trafficking. Shuliak, now 36, was the last person to speak to Epstein before his death in 2019 and was left **$100 million** in his estate.
 
 The revelation adds Columbia to a growing list of universities facing scrutiny over Epstein connections. Earlier document releases [named college presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) who maintained contact with Epstein, while separate files showed [he pulled strings at the University of Alabama](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama).
 
