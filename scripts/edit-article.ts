@@ -186,13 +186,14 @@ async function main() {
       finalBody = editedBody.replace(/KEY_TAKEAWAYS_START\n[\s\S]*?KEY_TAKEAWAYS_END\n*/, '').trim();
     }
 
-    // Strip any AI meta-notes that leaked into the article body
-    // Catches: "DOJ Document Image...", "DOJ DOCUMENT IMAGES NEEDED:", "Image Opportunities:", etc.
+    // Strip any AI meta-notes that leaked into the article body.
+    // The AI sometimes appends image suggestions, editorial notes, or source notes
+    // after a "---" separator. Catch all variants aggressively.
     finalBody = finalBody
-      .replace(/---\s*\n+\s*\*\*DOJ[\s\S]*$/i, '')
-      .replace(/\n+\*\*DOJ\s+DOCUMENT[\s\S]*$/i, '')
-      .replace(/\n+\*\*(?:Image|Document)\s+(?:Opportunities|Notes|Suggestions|Needed)[\s\S]*$/i, '')
-      .replace(/\n+---\s*$/g, '')
+      .replace(/\n---\s*\n+\*\*[\s\S]*$/i, '')      // --- followed by any bold note block at end
+      .replace(/\n+\*\*DOJ[\s\S]*$/i, '')             // **DOJ anything at end
+      .replace(/\n+\*\*(?:IMAGE|DOCUMENT|NOTE|SOURCE|EDITOR)[\s\S]*$/i, '') // other bold meta-notes
+      .replace(/\n+---\s*$/g, '')                      // trailing ---
       .trim();
 
     // Inject keyTakeaways into frontmatter if extracted and not already present

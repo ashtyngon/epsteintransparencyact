@@ -52,10 +52,3 @@ Campbell's representatives did not respond to requests for comment from The New 
 The DOJ release includes millions of pages of documents from Epstein's files. Multiple executives and officials have [resigned from positions](/news/2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power) after their names appeared in the files.
 
 Campbell continues to work in the fashion industry and maintains her charitable foundation. She has not addressed the newly released emails publicly.
-
----
-
-**IMAGE OPPORTUNITIES:**
-- DOJ-released email correspondence between Campbell and Epstein (if specific messages are excerpted in public records)
-- Email timestamp documentation showing 2002-2010 timeframe
-- Any publicly released scheduling or travel coordination emails
