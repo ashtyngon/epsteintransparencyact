@@ -57,6 +57,8 @@ The exact count has varied across reports — from a single confirmed visit to a
 
 This is the most extensively documented aspect of the relationship. Flight logs for Epstein's Boeing 727 — known colloquially as the "Lolita Express" — were subpoenaed and entered into evidence in the Giuffre v. Maxwell civil lawsuit.
 
+![A page from the flight manifests for Epstein's Boeing 727 listing passenger names](/images/documents/flight-logs-page.jpg)
+
 Clinton's name appears on the flight manifests at least 26 times. However, this represents 26 flight *segments*, not 26 separate trips. A single round trip with a stop could generate three or four log entries. The flights are documented between approximately 2001 and 2003.
 
 Clinton, through a spokesperson, claimed in 2019 that he took "a total of four trips" on Epstein's plane. Independent analyses — including by FactCheck.org — have noted that while multi-leg trips account for a significant portion of the gap between "4 trips" and "26 flights," the actual number of distinct trips may be five or six, not four. The Clinton statement appears to understate the number of trips.

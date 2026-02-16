@@ -2,7 +2,7 @@
 title: "Rep. Mace Accuses DOJ of Hiding Names in Epstein Files Release"
 publishedAt: "2026-02-15T23:10:00.000Z"
 source: "The Hill"
-sourceUrl: "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rX1c1ZU1LWFo0RjZsTFlnWE9kM1U2X09iNDlzNmROaHZpVFZIMm52bmR4ZTJnNGl5ZEotYzFXXzVmUnEyOTE4cldaR0txVTU5OEo5SGk2el8wTml3UjVrU2UwQU1hUUlCSF9xdldCZVdTVjh3Vm1SZjB4d3VuQjDSAYQBQVVfeXFMTVowbVRUc05sd0QxYWVEWkdETlg1TE9ESldMazYtSDBjM0hBa3FoMlhDZzZvY1lnem56WTAyajFlTExfbjNxWERhOTBlSGxSWDdrUk14cEhHZnhQeGhfQXBvLXVJbVZ0OWx6aXZLYW5Sc0FwZWZ3UFNhcW1pSjU1MnlpYXB6?oc=5"
+sourceUrl: "https://thehill.com/homenews/house/5739802-mace-criticizes-doj-redactions/"
 summary: "Rep. Nancy Mace criticized the Department of Justice over its recent letter announcing the completion of the Epstein files release, claiming key names were excl"
 people:
   - nancy-mace
@@ -51,8 +51,3 @@ Congress passed the [Epstein Transparency Act](/news/epstein-transparency-act-si
 
 Multiple document batches have been released, naming dozens of individuals who had contact with Epstein. [Courts have also released](/news/court-releases-new-batch-of-documents) separate batches of Epstein-related materials.
 
----
-
-**DOJ DOCUMENT IMAGES TO CONSIDER:**
-- The DOJ letter to Congress declaring the Epstein files release complete
-- Any lists or documents Mace referenced showing missing names (if publicly available)

@@ -29,6 +29,8 @@ The documents were released following legal challenges from media organizations 
 
 The released materials include deposition testimony from **Ghislaine Maxwell**, who was convicted on **December 29, 2021** of sex trafficking and sentenced to **20 years** in federal prison. The transcripts contain references to prominent individuals in Epstein's social, financial, and political networks.
 
+![A page from Epstein's flight manifests documenting passengers on his private aircraft](/images/documents/flight-logs-cover.jpg)
+
 The documents also include flight logs, scheduling records, and correspondence that detail the operations of Epstein's trafficking network across multiple properties — his Manhattan townhouse at **9 East 71st Street** (transferred from **Les Wexner** for a reported $0), his Palm Beach estate, his ranch in New Mexico, and his private island **Little St. James** in the U.S. Virgin Islands.
 
 ## Ongoing Unsealing Process

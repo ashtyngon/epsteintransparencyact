@@ -2,7 +2,7 @@
 title: "GOP Senators View Lutnick's Epstein Contacts as Political Liability"
 publishedAt: "2026-02-15T20:35:00.000Z"
 source: "KFOR"
-sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcTdzZ3poamRCVlE3cFE4UmdtZktvRm52dmVUdzh1ZGV0Vk9YS0tVdlBPeEdybU5rc2V0UWVsNEhvaV9lRnItdnY5aWFvdHQ2OExOdEEtYVl5cGhKRWc5a2xEQXRMeDJNZ3dueXJFUXR3cno2b0JUU05MeHNjZDNCOEhZMWpiVUVYam9NdUlJQXZSLVNFNGd1QkdVQjMwYmVhdGpqWEhR0gGrAUFVX3lxTE5qUHJFaldzQmx4Qm9MdVUtSW9uMndWZWktc3NJbE9mb2F1LXlFcjZ5eEsyUW5IRmFHNXBscjRsVngyMndVYzJDM2t4RlV6TlFIS3BRYmM1YXRzMVNUOHMzOU5hc1dkb2JaM21mMGw5aTM5YUVtbHlQRVk5RGhVTFVndXJ2THlkZnlHMVFwYkZDZzVSYzVUbVdLclRxUklDNGlWdG1zMXpOaVY4dw?oc=5"
+sourceUrl: "https://kfor.com/news/politics/gop-senators-view-lutnicks-contacts-with-epstein-as-political-liability/"
 summary: "Republican senators have privately expressed concern that Commerce Secretary Howard Lutnick's documented contacts with Jeffrey Epstein could damage the party ah"
 people:
   - marco-lutnick

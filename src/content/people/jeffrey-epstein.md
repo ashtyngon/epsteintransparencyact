@@ -77,6 +77,8 @@ Epstein maintained properties across the globe, each of which featured in victim
 
 His fleet of aircraft — most notably a Boeing 727-200 known publicly as the "Lolita Express" — served as the logistical backbone of the trafficking operation. Flight logs subpoenaed during litigation listed hundreds of passengers over more than a decade.
 
+![Flight manifests from Epstein's aircraft documenting passenger lists spanning 1995–2013](/images/documents/flight-manifests-1995.jpg)
+
 ## The Trafficking Operation
 
 According to court filings, victim testimony, and law enforcement records, Epstein's trafficking operation followed a consistent pattern. Young women and girls — many from economically vulnerable backgrounds — were recruited through a pyramid scheme of referrals. Initial contact often came through offers of employment, frequently as a "masseuse."
@@ -120,6 +122,8 @@ Michael Baden, a forensic pathologist hired by Epstein's brother Mark, publicly 
 The death eliminated the possibility of a criminal trial and the public testimony it would have produced. Multiple investigations were underway at the time, and prosecutors had been developing cases that extended well beyond Epstein himself.
 
 ## The Contacts Book
+
+![Page from Epstein's personal contacts book, known as the "black book," seized by the FBI](/images/documents/black-book-cover.jpg)
 
 Epstein's personal contacts book, often referred to as his "black book," was obtained by the FBI during a 2005 search. It contained approximately 1,500 names with contact information. The book was leaked to the public in 2015 and entered into evidence in the Giuffre v. Maxwell lawsuit.
 

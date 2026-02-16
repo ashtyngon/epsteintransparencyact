@@ -2,7 +2,7 @@
 title: "Senator blocked Epstein files after receiving mysterious donation"
 publishedAt: 2026-02-13
 source: "The New Republic"
-sourceUrl: "https://news.google.com/rss/news/CBMimgFBVV95cUxPLVMtS3RmMVpoMXFicHJ1VGFzWkJhanc3a3A0WnpPcEhUZ29GN2toYWx1RF9Nck5VVHFUdTVmNUhjS0NuSFI1dTA2cEI5bWtjRkhCdHZWM0IwWms3Njg0NzVFMHZOR2FpVDNITUVkQVhJekpZemNZY1RJUnluVUQycnVYaVdFZEtlNnVkZUJPd0NrV2g2UmZlWTVn?oc=5"
+sourceUrl: "https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files"
 summary: "A Republican senator who voted to block the release of unredacted Epstein files received a $50,000 donation from a dark money group with ties to wealthy individ"
 people:
   - jeffrey-epstein

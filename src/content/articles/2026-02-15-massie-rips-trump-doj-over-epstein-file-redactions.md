@@ -2,7 +2,7 @@
 title: "Massie Rips Trump DOJ Over Epstein File Redactions"
 publishedAt: "2026-02-15T16:57:15.000Z"
 source: "Washington Examiner"
-sourceUrl: "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVRxbG1KTDd0NW1MdEVMelJpckRoUkRPVmN6T2xsY1B6c0lST2tYb2ZTQzVJeUs5VW9zVWJvSHktbGIyQTZndk5WcktYaTBZT21aVXJkWk13R3N2eEZYc1RUUnlENHRtX3pkTXQxWXk2Tm02S3ZNdEl0YUtwWGJtb1duR2VRRjdzd183amI2YzVkMGhGWUlRczBPYVZidUlLSThtT1BCODNzLWJKT0FqRA?oc=5"
+sourceUrl: "https://www.washingtonexaminer.com/news/house/4452272/thomas-massie-todd-blanche-redactions-epstein-files-les-wexner/"
 summary: "Rep. Thomas Massie, a Kentucky Republican and chair of the House subcommittee investigating Jeffrey Epstein's network, criticized President Trump on Sunday for "
 people:
   - thomas-massie

@@ -29,8 +29,8 @@ sources:
     url: "https://www.nytimes.com/2021/08/09/nyregion/prince-andrew-virginia-giuffre-lawsuit.html"
   - title: "Unsealed Jeffrey Epstein Documents Released — CNN"
     url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
-  - title: "Prince Andrew's Emails with Epstein Contradict Newsnight Claims — The Times"
-    url: "https://www.thetimes.co.uk/article/prince-andrew-epstein-emails-newsnight-2026"
+  - title: "King Charles 'Ready to Support' Police Over Andrew-Epstein Claims — CNN"
+    url: "https://www.cnn.com/2026/02/09/uk/andrew-mountbatten-police-epstein-trade-intl"
 ---
 
 Prince Andrew, Duke of York, the second son of Queen Elizabeth II and Prince Philip, became one of the most prominent figures linked to [Jeffrey Epstein](/people/jeffrey-epstein)'s trafficking network. His connection to the case — through his longstanding friendship with [Ghislaine Maxwell](/people/ghislaine-maxwell), his documented visits to Epstein's properties, and the specific allegations made against him by [Virginia Giuffre](/people/virginia-giuffre) — led to a civil lawsuit, a multimillion-pound settlement, the loss of his military titles and royal patronages, and lasting damage to the British monarchy's reputation.

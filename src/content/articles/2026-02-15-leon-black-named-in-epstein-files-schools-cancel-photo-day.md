@@ -2,7 +2,7 @@
 title: "Leon Black Named in Epstein Files: Schools Cancel Photo Day"
 publishedAt: "2026-02-15T12:15:57.000Z"
 source: "Daily Kos"
-sourceUrl: "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhQMUVjS1B3Um1janJuanpiQjlEaG1ta0RISnQxTHBEYk9LYVNERnhTdGp4Z1pHb2xSMVVFZC04SElCVGVRQkhyNGhHZWhxN00yUkxlNG4zelpKbFVzX1pBeS1RNDVjZDZKVGRBRG4wQXJidzlXbXBKWkZwaF92bGUxZDNjYngyc3A4WjZQSU82OVd3OTNmZ1BSRWx6ZGRQYktlbVNNc3Vvd0JVSG95U0gtQk1jSTFNN2lwOVU4QQ?oc=5"
+sourceUrl: "https://www.dailykos.com/stories/2026/2/15/2368819/-Schools-Cancel-Yearbook-Photos-After-Leon-Black-Named-in-Epstein-Files"
 summary: "Several schools have canceled scheduled yearbook photo sessions with a photography company after its founder Leon Black appeared in recently released Epstein fi"
 people:
   - leon-black

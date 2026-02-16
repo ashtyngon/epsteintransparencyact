@@ -2,7 +2,7 @@
 title: "Casey Wasserman Sells Agency After Epstein Files Expose Ties"
 publishedAt: "2026-02-14T09:42:25.000Z"
 source: "The Hollywood Reporter"
-sourceUrl: "https://news.google.com/rss/news/CBMiqgFBVV95cUxOd0V6ZnR2Um02ajJIeWg2RTVHOVFsTXlnbmlNRHB0RmQ0TGNLTE0yaW1PLTlkQzlDM2Foc0R0SVBfM2thdDNFd0k1REhQQzRFUktmOUhxdTdaMkVBWFR5TDRMbnM2bjkwc1RsRlF2cVJHWDNEZVgySlRKQ3ZpMTI1ZDhEZFpjeW5wZ2tQc3E4QmlJSWlJYlZzbjRycUpYNUNZZWVxaEJyNXRNZw?oc=5"
+sourceUrl: "https://www.hollywoodreporter.com/music/music-industry-news/casey-wasserman-selling-agency-epstein-files-scandal-1236502827/"
 summary: "Casey Wasserman announced he will sell his namesake sports and entertainment agency following revelations in recently released Epstein-related documents. The sa"
 people:
   - casey-wasserman

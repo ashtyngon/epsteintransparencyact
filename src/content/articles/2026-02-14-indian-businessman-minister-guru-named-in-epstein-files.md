@@ -2,7 +2,7 @@
 title: "Indian Businessman, Minister & Guru Named in Epstein Files"
 publishedAt: "2026-02-14T13:37:28.000Z"
 source: "The News Minute"
-sourceUrl: "https://news.google.com/rss/news/CBMiugFBVV95cUxNZGh3anRCUjFvRGNnRE11TVlQZjRJWjJ3aHZHZWpLcDJjTVJDckMxRmkyVXFkSzlZNnJoQTRmQVZJUjNJUThaMnRaeU05aHhBVFNNN3lWM09LcG9na2l3MXFlZDdIOV9NMFk1WTI4eGF1OFVQTkhOV216b3dMSm5NM3V2RjRTTXpBQXA4MVhMcWRMT21WaF9aZElYb0JvaVJPTDgwQmFqZGZHMUhEb2tjektudjd5TVNKX1HSAccBQVVfeXFMT3Y3R2E0YUJ1ZWFwQlpBX3F4Uk5WUGtmMVd0dnNKb2hwQ3BJdG0zY3RVSnFCVUhhTWtzRk16NHM5SUJGdGN2VkxHSG5WMEVzNWRBLXRBSXd3azQtbmpGczliT0doTEdjTFNkeG9nUHd3S2IzSVZDRWJjcndzWGphcGdPZ09Jdm44R3ZKYmhNV1RkalRlX3FjREk0U2VYYi14VEEtZ3duWHQ1dDNyNGtuSWtYUFhxbTUwWlRDYTlDTy1acU16aWk4TQ?oc=5"
+sourceUrl: "https://www.thenewsminute.com/news/a-businessman-a-minister-and-a-guru-the-indians-in-epsteins-web-of-power-and-access"
 summary: "Three prominent Indians appear in documents released under the Epstein Transparency Act, according to reporting by The News Minute: Subrata Roy, founder of the "
 people:
   - jeffrey-epstein

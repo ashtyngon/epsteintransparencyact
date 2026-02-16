@@ -66,6 +66,8 @@ Trump and Epstein moved in overlapping circles in Palm Beach and Manhattan begin
 
 Epstein was a member of Mar-a-Lago. His contacts book, seized by the FBI in 2005, contained 14 phone numbers for Trump — including numbers for Mar-a-Lago, his New York apartment, his car, and his then-girlfriend Melania. No other individual in the black book had as many contact numbers listed.
 
+![The page from Epstein's contacts book listing Donald Trump's 14 phone numbers](/images/documents/black-book-trump-page.jpg)
+
 The most widely quoted evidence of their relationship comes from a 2002 New York Magazine profile of Epstein by Landon Thomas Jr., in which Trump said: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side. No doubt about it — Jeffrey enjoys his social life."
 
 That quote — particularly "many of them are on the younger side" — would become one of the most scrutinized statements in the entire Epstein case. Trump later claimed it was intended as a veiled warning. That interpretation has been widely disputed.

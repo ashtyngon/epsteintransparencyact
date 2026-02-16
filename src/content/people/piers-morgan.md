@@ -13,7 +13,7 @@ firstMentionedDate: 2026-02-13
 image: "/images/people/piers-morgan.jpg"
 sources:
   - title: "Piers Morgan Named 29 Times in Epstein Files — BuzzFeed"
-    url: "https://www.buzzfeed.com/piersmorgan-epstein-files-29-mentions"
+    url: "https://www.buzzfeed.com/stephaniesoteriou/piers-morgan-epstein-files-explained"
   - title: "Prince Andrew's Aide Advised Epstein to Hide Conviction on Visa Form — The Guardian"
     url: "https://www.theguardian.com/us-news/2026/feb/14/david-stern-jeffrey-epstein-hide-conviction-china-visa"
 sensitive: false

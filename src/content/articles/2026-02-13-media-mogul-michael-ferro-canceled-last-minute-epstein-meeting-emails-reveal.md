@@ -1,8 +1,8 @@
 ---
 title: "Media Mogul Michael Ferro Canceled Last-Minute Epstein Meeting, Emails Reveal"
 publishedAt: "2026-02-13T23:00:39.000Z"
-source: "Axios"
-sourceUrl: "https://news.google.com/rss/news/CBMiekFVX3lxTE1heHpBUTFwRzF3TGFvSktUejdtbXFvS0huMVViODNsZ0h1S0FjaTZMQThSbTRQVzNMc3NsazJVYTM2YUg0aHlvZU9laGxPQ1dyaUR4MFNrZ09EV1Z5alRkUVNOOElFTkhZY1dpQkk4X0RaajF6c096TTd3?oc=5"
+source: "Chicago Tribune"
+sourceUrl: "https://www.chicagotribune.com/2026/02/13/michael-ferro-epstein-files/"
 summary: "The names kept coming—splashed across congressional speeches, leaked in emails, surfacing in millions of newly released documents. But not all of them belonged."
 people:
   - michael-ferro

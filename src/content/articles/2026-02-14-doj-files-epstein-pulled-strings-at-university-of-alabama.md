@@ -1,8 +1,8 @@
 ---
 title: "DOJ Files: Epstein Pulled Strings at University of Alabama"
 publishedAt: "2026-02-14T00:24:00.000Z"
-source: "WVTM"
-sourceUrl: "https://news.google.com/rss/news/CBMiggFBVV95cUxOaHVLVEwzOHZ3OEF5bTAtWUgwWEdKVjJ3eEZPWU9KOTRsYzRVYnpMdG5EZHRiZGd6dVRVRmgzTVZaemNJeGc2d3dVWWh3QWptMEVNZmd5OEk1TTZKWWFyU2l0RXVXTVVCOG9tSEVqeHROZWk0YXlCRWFHNmNWZ3A1QkNB?oc=5"
+source: "CBS 42"
+sourceUrl: "https://www.cbs42.com/news/the-time-jeffrey-epstein-was-invited-to-graduation-at-the-university-of-alabama/"
 summary: "A University of Alabama administrator requested Jeffrey Epstein's help securing a guest speaker for the school, according to newly surfaced Department of Justic"
 people:
   - jeffrey-epstein

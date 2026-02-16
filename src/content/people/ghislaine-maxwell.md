@@ -28,8 +28,8 @@ sources:
     url: "https://www.cnn.com/2021/12/07/us/ghislaine-maxwell-trial-key-moments/index.html"
   - title: "Ghislaine Maxwell: The Making of a Monster — The Guardian"
     url: "https://www.theguardian.com/us-news/2021/nov/28/ghislaine-maxwell-epstein-trial"
-  - title: "Ghislaine Maxwell Transferred to Low-Security Prison — Associated Press"
-    url: "https://apnews.com/article/ghislaine-maxwell-prison-transfer-epstein-6a7e4f5c0f1c4b5d8e9f2a3b4c5d6e7f"
+  - title: "Ghislaine Maxwell Transferred to Texas Prison Camp — NPR"
+    url: "https://www.npr.org/2025/09/03/nx-s1-5519224/ghislaine-maxwell-prison-texas-epstein"
   - title: "Unsealed Jeffrey Epstein Documents Released — CNN"
     url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
   - title: "Robert Maxwell: A Supervillain's Daughter — Vanity Fair"
@@ -55,6 +55,8 @@ The precise nature of the Maxwell-Epstein relationship has been described differ
 Epstein provided Maxwell with financial support, housing, and social access. In return — according to prosecutors and victim testimony — Maxwell served as the central figure in Epstein's trafficking operation. She recruited young women and girls, normalized sexual abuse through a grooming process, and managed Epstein's household staff and properties.
 
 Maxwell was listed as the primary resident of Epstein's Manhattan townhouse on East 71st Street. She had access to all of his properties. Flight logs show her as one of the most frequent passengers on Epstein's aircraft.
+
+![Flight log records entered as evidence during the Maxwell trial](/images/documents/flight-logs-maxwell.jpg)
 
 ## Her Role in Recruiting and Grooming
 

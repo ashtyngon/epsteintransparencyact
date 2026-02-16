@@ -1,8 +1,8 @@
 ---
 title: "Epstein Emails Spread Across Social Media in Viral Leak"
 publishedAt: "2026-02-14T11:22:00.000Z"
-source: "Business Insider"
-sourceUrl: "https://news.google.com/rss/news/CBMifEFVX3lxTE9VLUhqMG1waXJ2SUpKV2liNUJka3VHZm54NXZzWTRQcVZSeGs4emNDQU1UOFluR3ZUWUpyak1jTHo2WEhQdTc1ckw0UWpjY2lUTU84MUQ5WWNGdDFENWczZWNyMlVQVWhCSG0yVnlTa2JqSTdibm84VlpCTTg?oc=5"
+source: "NBC News"
+sourceUrl: "https://www.nbcnews.com/tech/tech-news/jeffrey-epstein-files-reveal-deep-tech-ties-musk-gates-rcna257092"
 summary: "A Business Insider analysis published Saturday traces how private emails between Jeffrey Epstein and prominent figures reached public view, detailing the path f"
 people:
   - jeffrey-epstein

@@ -2,7 +2,7 @@
 title: "Texas GOP Alarmed Over Comptroller Candidate's Epstein Ranch Purchase"
 publishedAt: "2026-02-15T18:14:00.000Z"
 source: "The Center Square"
-sourceUrl: "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFlKNU5BUXpjWmZWU0U1ekRjUVVuc0tiSzVvRHhZdFZxb1owaHBQWFVJbHE2R2pYRVJnUzBHRklWZ0QwaHBvaHh5YnJjNmplQmwwNktvX1ZfQ2pMbncwX2doQjZuZ2NQRVBlTnNiTUNlNzNpeG95Z3YyeTR0d3YyODVTb1BjQmpVbVNSNEI2TjbSAZYBQVVfeXFMT2F1T3RUU21nMW5jbU4zbThLQzNFaUE5OGpoeklmNHhaaU90a2Y4Vi04ZVd0ejFicllWSWR5ZlVRU1dhWW84d2UtVjJ4QmJZQndUcUgxcmhIZkxxdVV3SUYtMXpBQnh2WFpJRTZXNG9JaWxPdHdFQWVCamtlQmlWaEFBMjJIU1hMZ0lUbEEwaDhraEdxVDR3?oc=5"
+sourceUrl: "https://www.thecentersquare.com/texas/article_dcfbb739-8b36-4e33-b9f3-4385c93f1497.html"
 summary: "Texas Republicans have raised concerns after learning that a candidate for state comptroller purchased Jeffrey Epstein's former New Mexico ranch. The candidate "
 people:
   - jeffrey-epstein

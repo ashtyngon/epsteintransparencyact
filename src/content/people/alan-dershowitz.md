@@ -27,8 +27,8 @@ sources:
     url: "https://www.miamiherald.com/news/local/article220097825.html"
   - title: "Alan Dershowitz and the Epstein Scandal — Vanity Fair"
     url: "https://www.vanityfair.com/news/2019/08/alan-dershowitz-jeffrey-epstein-contact"
-  - title: "Dershowitz Claims Vindication After Giuffre Recantation — Fox News"
-    url: "https://www.foxnews.com/media/alan-dershowitz-virginia-giuffre-recantation-vindicated"
+  - title: "Dershowitz Denies Sex Abuse Allegations, Condemns Accuser — Fox News"
+    url: "https://www.foxnews.com/media/alan-dershowitz-denies-sex-abuse-jeffrey-epstein"
 ---
 
 Alan Dershowitz is a prominent American attorney, Harvard Law School professor emeritus, and one of the most recognizable legal figures in the country. In the Epstein case, he occupies a unique and deeply contested position: he was part of the legal team that secured [Jeffrey Epstein](/people/jeffrey-epstein)'s controversial 2008 plea deal; he was subsequently named by [Virginia Giuffre](/people/virginia-giuffre) as someone she was directed to have sexual encounters with as a minor; he vigorously denied those allegations for a decade; and in 2024, Giuffre's legal team acknowledged the allegations may have been "mistaken."

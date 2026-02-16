@@ -2,7 +2,7 @@
 title: "Khanna Demands Names After Major Epstein Associate Steps Down"
 publishedAt: 2026-02-13
 source: "Spectrum News"
-sourceUrl: "https://news.google.com/rss/news/CBMilwFBVV95cUxObWQwNmY2TjZoTjIydTN2amNKMDB0Q2lRdmtzMFh2cGRDcXZDV1FscUFOR2NldDBGeGlydGpaaVFLX2V6M2l0ZzFGaUVtUzlxZ2ZIcTRqTXo2aWVSZ0hQTGJyR0xzMjZBellaWVI1Qjd4WElGcUphSG12R1dkN0UtRS0tbC1vVWtETU9JSEhtdHVtRGYzVG44?oc=5"
+sourceUrl: "https://spectrumnews1.com/ky/louisville/news/2026/02/13/massie-epstein-records-sulayem"
 summary: "Representative Ro Khanna is publicly applauding the resignation of Sultan Ahmed Bin Sulayem, the Dubai port executive who stepped down after being named in newl"
 people:
   - ro-khanna
