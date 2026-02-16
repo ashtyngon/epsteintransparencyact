@@ -7,7 +7,12 @@ Evaluate this article:
 - Published: {publishedAt}
 
 ## Already Published on Our Site
-These topics are already covered. Do NOT recommend articles that cover the same event/story, even from a different angle or source. Only recommend if there is genuinely NEW information (new names, new documents, new legal action — not just a different outlet reporting the same facts).
+These topics are already covered. Mark isDuplicate=true ONLY if the candidate article reports on the EXACT SAME specific event as an existing article (same press conference, same document release, same resignation, same hearing).
+
+A new article about the same PERSON or TOPIC is NOT a duplicate if it covers a DIFFERENT event or new development. For example:
+- "Massie criticizes DOJ redactions" and "Massie says Bondi was afraid to face survivors" are DIFFERENT events — NOT duplicates
+- "Bondi says all files released" and "Bondi names dead celebrities in list" are DIFFERENT events — NOT duplicates
+- Two articles both reporting on the same resignation announcement ARE duplicates
 
 {existingTopics}
 

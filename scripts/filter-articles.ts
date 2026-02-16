@@ -187,9 +187,11 @@ async function main() {
   for (const item of candidates) {
     const result = await filterArticle(client, item, existingTopics);
 
-    if (!result || !result.relevant || result.confidence < 0.7 || (result as any).isDuplicate) {
+    if (!result || !result.relevant || result.confidence < 0.7) {
+      const isDup = (result as any)?.isDuplicate === true;
+      const reason = !result ? 'no-result' : isDup ? 'duplicate' : (!result.relevant ? 'irrelevant' : 'low-conf');
       const conf = result?.confidence ?? 'N/A';
-      console.log(`  SKIP (conf=${conf}): ${item.title.slice(0, 70)}`);
+      console.log(`  SKIP (conf=${conf}, reason=${reason}): ${item.title.slice(0, 70)}`);
       continue;
     }
 
