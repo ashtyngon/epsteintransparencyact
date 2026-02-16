@@ -1,0 +1,207 @@
+---
+export const prerender = false;
+
+import AdminLayout from '../../../components/admin/AdminLayout.astro';
+import { listContentFiles, getContentFile, updateFile, buildMarkdownContent } from '../../../lib/github';
+
+const user = (Astro.locals as any).user;
+const runtime = (Astro.locals as any).runtime;
+const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const token = user?.githubToken || '';
+
+let message = '';
+let messageType = '';
+
+// Handle bulk actions
+if (Astro.request.method === 'POST') {
+  const formData = await Astro.request.formData();
+  const action = formData.get('_action') as string;
+  const slugs = formData.getAll('slugs') as string[];
+
+  if (action === 'approve' && slugs.length > 0) {
+    let approved = 0;
+    for (const slug of slugs) {
+      const file = await getContentFile(token, repo, 'articles', slug);
+      if (file) {
+        const fm = { ...file.frontmatter };
+        fm.status = 'published';
+        fm.reviewedBy = user?.login || 'cms';
+        fm.reviewedAt = new Date().toISOString();
+        const content = buildMarkdownContent(fm, file.body);
+        const ok = await updateFile(token, repo, file.path, content, file.sha, `cms: approve ${slug}`);
+        if (ok) approved++;
+      }
+    }
+    message = `Approved ${approved} article${approved !== 1 ? 's' : ''}.`;
+    messageType = 'success';
+  }
+
+  if (action === 'reject' && slugs.length > 0) {
+    let rejected = 0;
+    for (const slug of slugs) {
+      const file = await getContentFile(token, repo, 'articles', slug);
+      if (file) {
+        const fm = { ...file.frontmatter };
+        fm.status = 'unpublished';
+        const content = buildMarkdownContent(fm, file.body);
+        const ok = await updateFile(token, repo, file.path, content, file.sha, `cms: reject ${slug}`);
+        if (ok) rejected++;
+      }
+    }
+    message = `Rejected ${rejected} article${rejected !== 1 ? 's' : ''}.`;
+    messageType = 'success';
+  }
+
+  if (action === 'approve-single') {
+    const slug = formData.get('slug') as string;
+    if (slug) {
+      const file = await getContentFile(token, repo, 'articles', slug);
+      if (file) {
+        const fm = { ...file.frontmatter };
+        fm.status = 'published';
+        fm.reviewedBy = user?.login || 'cms';
+        fm.reviewedAt = new Date().toISOString();
+        const content = buildMarkdownContent(fm, file.body);
+        const ok = await updateFile(token, repo, file.path, content, file.sha, `cms: approve ${slug}`);
+        message = ok ? `Approved: ${fm.title}` : 'Failed to approve.';
+        messageType = ok ? 'success' : 'error';
+      }
+    }
+  }
+
+  if (action === 'reject-single') {
+    const slug = formData.get('slug') as string;
+    if (slug) {
+      const file = await getContentFile(token, repo, 'articles', slug);
+      if (file) {
+        const fm = { ...file.frontmatter };
+        fm.status = 'unpublished';
+        const content = buildMarkdownContent(fm, file.body);
+        const ok = await updateFile(token, repo, file.path, content, file.sha, `cms: reject ${slug}`);
+        message = ok ? `Rejected: ${fm.title}` : 'Failed to reject.';
+        messageType = ok ? 'success' : 'error';
+      }
+    }
+  }
+}
+
+// Load all articles and filter for review status
+const files = await listContentFiles(token, repo, 'articles');
+const sorted = files.sort((a, b) => b.slug.localeCompare(a.slug));
+
+const reviewArticles = [];
+for (const f of sorted) {
+  const file = await getContentFile(token, repo, 'articles', f.slug);
+  if (file && file.frontmatter.status === 'review') {
+    reviewArticles.push({
+      slug: f.slug,
+      title: file.frontmatter.title || f.slug,
+      source: file.frontmatter.source || '-',
+      sourceUrl: file.frontmatter.sourceUrl || '',
+      publishedAt: file.frontmatter.publishedAt || '',
+      articleType: file.frontmatter.articleType || 'news',
+      aiGenerated: file.frontmatter.aiGenerated !== false,
+      confidence: file.frontmatter.confidence ?? null,
+      summary: file.frontmatter.summary || '',
+      tags: Array.isArray(file.frontmatter.tags) ? file.frontmatter.tags : [],
+      people: Array.isArray(file.frontmatter.people) ? file.frontmatter.people : [],
+    });
+  }
+}
+---
+
+<AdminLayout title="Review Queue" activeNav="Review Queue">
+  {message && <div class={`alert alert-${messageType}`}>{message}</div>}
+
+  <div class="flex justify-between items-center mb-4">
+    <div>
+      <span class="text-muted">{reviewArticles.length} article{reviewArticles.length !== 1 ? 's' : ''} pending review</span>
+    </div>
+    {reviewArticles.length > 0 && (
+      <form method="POST" style="display: inline;">
+        {reviewArticles.map((a) => (
+          <input type="hidden" name="slugs" value={a.slug} />
+        ))}
+        <div class="flex gap-2">
+          <button type="submit" name="_action" value="approve" class="btn btn-success btn-sm"
+            onclick="return confirm(`Approve all ${reviewArticles.length} articles?`)">
+            ✓ Approve All
+          </button>
+          <button type="submit" name="_action" value="reject" class="btn btn-danger btn-sm"
+            onclick="return confirm(`Reject all ${reviewArticles.length} articles?`)">
+            ✕ Reject All
+          </button>
+        </div>
+      </form>
+    )}
+  </div>
+
+  {reviewArticles.length === 0 ? (
+    <div class="card" style="text-align: center; padding: 48px;">
+      <div style="font-size: 48px; margin-bottom: 16px;">✅</div>
+      <h3 style="color: #e2e8f0; margin-bottom: 8px;">All caught up!</h3>
+      <p class="text-muted">No articles waiting for review. Pipeline-generated articles will appear here.</p>
+    </div>
+  ) : (
+    <div style="display: flex; flex-direction: column; gap: 16px;">
+      {reviewArticles.map((article) => (
+        <div class="card">
+          <div class="flex justify-between items-center mb-4">
+            <div style="flex: 1;">
+              <div class="flex items-center gap-2" style="margin-bottom: 4px;">
+                <span class="badge badge-yellow">Review</span>
+                {article.aiGenerated && <span class="badge badge-blue">AI Generated</span>}
+                {article.confidence !== null && (
+                  <span class="badge badge-gray">
+                    {Math.round((article.confidence as number) * 100)}% confidence
+                  </span>
+                )}
+                <span class="badge badge-gray">{article.articleType}</span>
+              </div>
+              <h3 style="font-size: 16px; font-weight: 600; color: #f1f5f9; margin: 8px 0 4px;">
+                <a href={`/admin/articles/${article.slug}/`} style="color: inherit; text-decoration: none;">
+                  {article.title}
+                </a>
+              </h3>
+              <div class="text-sm text-muted" style="margin-bottom: 6px;">
+                {article.source}
+                {article.sourceUrl && (
+                  <span> · <a href={article.sourceUrl} target="_blank" rel="noopener" style="color: #f97316;">source ↗</a></span>
+                )}
+                {article.publishedAt && (
+                  <span> · {String(article.publishedAt).slice(0, 10)}</span>
+                )}
+              </div>
+              {article.summary && (
+                <p class="text-sm" style="color: #94a3b8; margin-bottom: 8px; max-width: 700px;">{article.summary}</p>
+              )}
+              <div class="flex gap-2" style="flex-wrap: wrap;">
+                {article.tags.map((tag: string) => (
+                  <span style="font-size: 11px; color: #64748b; background: #0f172a; padding: 2px 6px; border-radius: 3px;">
+                    {tag}
+                  </span>
+                ))}
+                {article.people.map((person: string) => (
+                  <span style="font-size: 11px; color: #f97316; background: #1c1917; padding: 2px 6px; border-radius: 3px;">
+                    👤 {person}
+                  </span>
+                ))}
+              </div>
+            </div>
+            <div class="flex gap-2" style="flex-shrink: 0; margin-left: 16px;">
+              <a href={`/admin/articles/${article.slug}/`} class="btn btn-secondary btn-sm">Edit</a>
+              <form method="POST" style="display: inline;">
+                <input type="hidden" name="slug" value={article.slug} />
+                <button type="submit" name="_action" value="approve-single" class="btn btn-success btn-sm">✓ Approve</button>
+              </form>
+              <form method="POST" style="display: inline;">
+                <input type="hidden" name="slug" value={article.slug} />
+                <button type="submit" name="_action" value="reject-single" class="btn btn-danger btn-sm">✕ Reject</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  )}
+</AdminLayout>

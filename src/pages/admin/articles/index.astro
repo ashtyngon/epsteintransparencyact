@@ -1,0 +1,105 @@
+---
+export const prerender = false;
+
+import AdminLayout from '../../../components/admin/AdminLayout.astro';
+import { listContentFiles, getContentFile } from '../../../lib/github';
+
+const user = (Astro.locals as any).user;
+const runtime = (Astro.locals as any).runtime;
+const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const token = user?.githubToken || '';
+
+const files = await listContentFiles(token, repo, 'articles');
+const sorted = files.sort((a, b) => b.slug.localeCompare(a.slug));
+
+// Load frontmatter for all articles (paginated — first 50)
+const page = parseInt(Astro.url.searchParams.get('page') || '1');
+const perPage = 50;
+const start = (page - 1) * perPage;
+const pageFiles = sorted.slice(start, start + perPage);
+
+const articles = await Promise.all(
+  pageFiles.map(async (f) => {
+    const file = await getContentFile(token, repo, 'articles', f.slug);
+    return file ? {
+      slug: f.slug,
+      title: file.frontmatter.title || f.slug,
+      source: file.frontmatter.source || '-',
+      status: file.frontmatter.status || 'published',
+      articleType: file.frontmatter.articleType || 'news',
+      publishedAt: file.frontmatter.publishedAt || '',
+    } : {
+      slug: f.slug,
+      title: f.slug,
+      source: '-',
+      status: 'unknown',
+      articleType: '-',
+      publishedAt: '',
+    };
+  })
+);
+
+const totalPages = Math.ceil(sorted.length / perPage);
+
+const statusFilter = Astro.url.searchParams.get('status') || '';
+const filtered = statusFilter
+  ? articles.filter((a) => a.status === statusFilter)
+  : articles;
+---
+
+<AdminLayout title="Articles" activeNav="Articles">
+  <div class="flex justify-between items-center mb-4">
+    <div class="flex gap-2">
+      <a href="/admin/articles/" class={`btn btn-sm ${!statusFilter ? 'btn-primary' : 'btn-secondary'}`}>All ({articles.length})</a>
+      <a href="/admin/articles/?status=published" class={`btn btn-sm ${statusFilter === 'published' ? 'btn-primary' : 'btn-secondary'}`}>Published</a>
+      <a href="/admin/articles/?status=review" class={`btn btn-sm ${statusFilter === 'review' ? 'btn-primary' : 'btn-secondary'}`}>Review</a>
+      <a href="/admin/articles/?status=draft" class={`btn btn-sm ${statusFilter === 'draft' ? 'btn-primary' : 'btn-secondary'}`}>Draft</a>
+    </div>
+    <a href="/admin/articles/new/" class="btn btn-primary">+ New Article</a>
+  </div>
+
+  <div class="card" style="padding: 0; overflow: hidden;">
+    <table>
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Source</th>
+          <th>Status</th>
+          <th>Type</th>
+          <th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {filtered.map((article) => (
+          <tr>
+            <td>
+              <a href={`/admin/articles/${article.slug}/`} style="color: #e2e8f0; text-decoration: none; font-weight: 500;">
+                <span class="truncate" style="display: block;">{article.title}</span>
+              </a>
+            </td>
+            <td class="text-sm text-muted">{article.source}</td>
+            <td>
+              {article.status === 'published' && <span class="badge badge-green">Published</span>}
+              {article.status === 'review' && <span class="badge badge-yellow">Review</span>}
+              {article.status === 'draft' && <span class="badge badge-blue">Draft</span>}
+              {article.status === 'unpublished' && <span class="badge badge-red">Unpublished</span>}
+            </td>
+            <td class="text-sm text-muted">{article.articleType}</td>
+            <td class="text-sm text-muted">{article.slug.slice(0, 10)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  {totalPages > 1 && (
+    <div class="flex gap-2 mt-4" style="justify-content: center;">
+      {Array.from({ length: totalPages }, (_, i) => i + 1).map((p) => (
+        <a href={`/admin/articles/?page=${p}${statusFilter ? `&status=${statusFilter}` : ''}`}
+          class={`btn btn-sm ${p === page ? 'btn-primary' : 'btn-secondary'}`}>
+          {p}
+        </a>
+      ))}
+    </div>
+  )}
+</AdminLayout>

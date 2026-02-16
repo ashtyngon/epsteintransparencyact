@@ -1,0 +1,117 @@
+---
+export const prerender = false;
+
+import AdminLayout from '../../components/admin/AdminLayout.astro';
+import { listContentFiles, getWorkflowRuns } from '../../lib/github';
+
+const user = (Astro.locals as any).user;
+const runtime = (Astro.locals as any).runtime;
+const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const token = user?.githubToken || '';
+
+// Fetch counts in parallel
+const [articles, people, timeline, runs] = await Promise.all([
+  listContentFiles(token, repo, 'articles'),
+  listContentFiles(token, repo, 'people'),
+  listContentFiles(token, repo, 'timeline'),
+  getWorkflowRuns(token, repo, 5),
+]);
+
+// We need to check article statuses — fetch a few recent ones to count review queue
+// For efficiency, we just count files; a full status check would require reading each file
+const totalArticles = articles.length;
+const totalPeople = people.length;
+const totalTimeline = timeline.length;
+
+// Get recent articles (last 10 by filename sort — filenames start with dates)
+const recentArticles = articles
+  .sort((a, b) => b.slug.localeCompare(a.slug))
+  .slice(0, 10);
+
+// Format workflow runs
+const recentRuns = runs.slice(0, 5).map((run: any) => ({
+  id: run.id,
+  status: run.status,
+  conclusion: run.conclusion,
+  created: new Date(run.created_at).toLocaleString(),
+  url: run.html_url,
+}));
+---
+
+<AdminLayout title="Dashboard" activeNav="Dashboard">
+  <!-- Stats -->
+  <div class="grid-4 mb-6">
+    <div class="card stat-card">
+      <div class="stat-value">{totalArticles}</div>
+      <div class="stat-label">Articles</div>
+    </div>
+    <div class="card stat-card">
+      <div class="stat-value">{totalPeople}</div>
+      <div class="stat-label">People</div>
+    </div>
+    <div class="card stat-card">
+      <div class="stat-value">{totalTimeline}</div>
+      <div class="stat-label">Timeline</div>
+    </div>
+    <div class="card stat-card">
+      <div class="stat-value" style="color: #fcd34d;">-</div>
+      <div class="stat-label">Pending Review</div>
+    </div>
+  </div>
+
+  <!-- Quick Actions -->
+  <div class="flex gap-2 mb-6">
+    <a href="/admin/review/" class="btn btn-primary">Review Queue</a>
+    <a href="/admin/articles/new/" class="btn btn-secondary">New Article</a>
+    <a href="/admin/people/new/" class="btn btn-secondary">New Person</a>
+    <form method="POST" action="/admin/api/trigger-pipeline/" style="display:inline;">
+      <button type="submit" class="btn btn-secondary">Trigger Pipeline</button>
+    </form>
+  </div>
+
+  <div class="grid-2 gap-4">
+    <!-- Recent Articles -->
+    <div class="card">
+      <h2 style="font-size: 14px; font-weight: 600; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 12px;">Recent Articles</h2>
+      <table>
+        <tbody>
+          {recentArticles.map((article) => (
+            <tr>
+              <td>
+                <a href={`/admin/articles/${article.slug}/`} style="color: #e2e8f0; text-decoration: none;">
+                  <span class="truncate" style="display: block; max-width: 300px;">{article.slug}</span>
+                </a>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Pipeline Status -->
+    <div class="card">
+      <h2 style="font-size: 14px; font-weight: 600; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 12px;">Pipeline Runs</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Time</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          {recentRuns.map((run: any) => (
+            <tr>
+              <td><a href={run.url} target="_blank" style="color: #94a3b8; text-decoration: none; font-size: 12px;">{run.created}</a></td>
+              <td>
+                {run.conclusion === 'success' && <span class="badge badge-green">Success</span>}
+                {run.conclusion === 'failure' && <span class="badge badge-red">Failed</span>}
+                {run.status === 'in_progress' && <span class="badge badge-yellow">Running</span>}
+                {!run.conclusion && run.status !== 'in_progress' && <span class="badge badge-gray">{run.status}</span>}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</AdminLayout>

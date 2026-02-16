@@ -1,0 +1,190 @@
+---
+export const prerender = false;
+
+import AdminLayout from '../../../components/admin/AdminLayout.astro';
+import { createFile, buildMarkdownContent } from '../../../lib/github';
+
+const user = (Astro.locals as any).user;
+const runtime = (Astro.locals as any).runtime;
+const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const token = user?.githubToken || '';
+
+let message = '';
+let messageType = '';
+
+if (Astro.request.method === 'POST') {
+  const formData = await Astro.request.formData();
+  const name = formData.get('name') as string;
+  const role = formData.get('role') as string || '';
+  const category = formData.get('category') as string || 'other';
+  const shortBio = formData.get('shortBio') as string || '';
+  const image = formData.get('image') as string || '';
+  const seoTitle = formData.get('seoTitle') as string || '';
+  const seoDescription = formData.get('seoDescription') as string || '';
+  const sensitive = formData.get('sensitive') === 'true';
+  const aliasesStr = formData.get('aliases') as string || '';
+  const connectionsStr = formData.get('notableConnections') as string || '';
+  const firstMentioned = formData.get('firstMentionedDate') as string || '';
+  const sourcesStr = formData.get('sources') as string || '';
+  const body = formData.get('body') as string || '';
+
+  if (!name) {
+    message = 'Name is required.';
+    messageType = 'error';
+  } else {
+    const slug = name
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/(^-|-$)/g, '')
+      .slice(0, 80);
+
+    const fm: Record<string, any> = {
+      name,
+      role,
+      category,
+      shortBio,
+      sensitive,
+    };
+
+    if (seoTitle) fm.seoTitle = seoTitle;
+    if (seoDescription) fm.seoDescription = seoDescription;
+    if (image) fm.image = image;
+    if (firstMentioned) fm.firstMentionedDate = firstMentioned;
+
+    fm.aliases = aliasesStr.split(',').map((a: string) => a.trim()).filter(Boolean);
+    fm.notableConnections = connectionsStr.split(',').map((c: string) => c.trim()).filter(Boolean);
+
+    fm.sources = sourcesStr.split('\n')
+      .map((line: string) => line.trim())
+      .filter(Boolean)
+      .map((line: string) => {
+        const parts = line.split('|').map((p: string) => p.trim());
+        return parts.length >= 2 ? { title: parts[0], url: parts[1] } : null;
+      })
+      .filter(Boolean);
+
+    const content = buildMarkdownContent(fm, body);
+    const path = `src/content/people/${slug}.md`;
+    const ok = await createFile(token, repo, path, content, `cms: create person ${slug}`);
+
+    if (ok) {
+      return Astro.redirect(`/admin/people/${slug}/`);
+    }
+    message = 'Failed to create person. They may already exist.';
+    messageType = 'error';
+  }
+}
+---
+
+<AdminLayout title="New Person" activeNav="People">
+  {message && <div class={`alert alert-${messageType}`}>{message}</div>}
+
+  <form method="POST">
+    <div class="flex justify-between items-center mb-4">
+      <a href="/admin/people/" class="btn btn-secondary">&larr; Back</a>
+      <button type="submit" class="btn btn-success">Create Person</button>
+    </div>
+
+    <div class="card mb-4">
+      <div class="grid-2 gap-4">
+        <div class="form-group">
+          <label>Name</label>
+          <input type="text" name="name" class="form-input" required />
+        </div>
+        <div class="form-group">
+          <label>Role</label>
+          <input type="text" name="role" class="form-input" placeholder="e.g. Former U.S. President" />
+        </div>
+        <div class="form-group">
+          <label>Category</label>
+          <select name="category" class="form-input">
+            <option value="named-in-documents">Named in Documents</option>
+            <option value="witness">Witness</option>
+            <option value="associate">Associate</option>
+            <option value="official">Official</option>
+            <option value="legal">Legal</option>
+            <option value="victim-survivor">Victim/Survivor</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Image Path</label>
+          <input type="text" name="image" class="form-input" placeholder="/images/people/slug.jpg" />
+        </div>
+        <div class="form-group">
+          <label>Aliases (comma-separated)</label>
+          <input type="text" name="aliases" class="form-input" />
+        </div>
+        <div class="form-group">
+          <label>Notable Connections (comma-separated slugs)</label>
+          <input type="text" name="notableConnections" class="form-input" />
+        </div>
+        <div class="form-group">
+          <label>First Mentioned Date</label>
+          <input type="date" name="firstMentionedDate" class="form-input" />
+        </div>
+        <div class="form-group">
+          <label>Sensitive</label>
+          <select name="sensitive" class="form-input">
+            <option value="false">No</option>
+            <option value="true">Yes</option>
+          </select>
+        </div>
+        <div class="form-group" style="grid-column: span 2;">
+          <label>SEO Title</label>
+          <input type="text" name="seoTitle" class="form-input" placeholder="Optional custom page title" />
+        </div>
+        <div class="form-group" style="grid-column: span 2;">
+          <label>SEO Description</label>
+          <input type="text" name="seoDescription" class="form-input" placeholder="Optional meta description" />
+        </div>
+        <div class="form-group" style="grid-column: span 2;">
+          <label>Short Bio</label>
+          <textarea name="shortBio" class="form-input" style="min-height: 100px;" placeholder="Brief summary of this person's connection to the case..."></textarea>
+        </div>
+        <div class="form-group" style="grid-column: span 2;">
+          <label>Sources (one per line: title|url)</label>
+          <textarea name="sources" class="form-input" style="min-height: 80px;"
+            placeholder="Source Title|https://example.com/article"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="editor-container">
+      <div class="editor-pane">
+        <div class="editor-pane-header">Profile Body (Markdown)</div>
+        <textarea name="body" class="form-input" id="editor"
+          style="min-height: 500px;" placeholder="Write the person's profile here..."></textarea>
+      </div>
+      <div class="editor-pane">
+        <div class="editor-pane-header">Preview</div>
+        <div class="preview-pane" id="preview"></div>
+      </div>
+    </div>
+  </form>
+
+  <script is:inline>
+    const editor = document.getElementById('editor');
+    const preview = document.getElementById('preview');
+
+    function renderMarkdown(md) {
+      let html = md
+        .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+        .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+        .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.+?)\*/g, '<em>$1</em>')
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+        .replace(/^- (.+)$/gm, '<li>$1</li>')
+        .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
+        .replace(/\n\n/g, '</p><p>');
+      return '<p>' + html + '</p>';
+    }
+
+    function updatePreview() {
+      preview.innerHTML = renderMarkdown(editor.value);
+    }
+
+    editor.addEventListener('input', updatePreview);
+  </script>
+</AdminLayout>

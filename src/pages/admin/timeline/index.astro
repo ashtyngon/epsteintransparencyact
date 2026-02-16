@@ -1,0 +1,131 @@
+---
+export const prerender = false;
+
+import AdminLayout from '../../../components/admin/AdminLayout.astro';
+import { listContentFiles, getContentFile } from '../../../lib/github';
+
+const user = (Astro.locals as any).user;
+const runtime = (Astro.locals as any).runtime;
+const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const token = user?.githubToken || '';
+
+const files = await listContentFiles(token, repo, 'timeline');
+const sorted = files.sort((a, b) => a.slug.localeCompare(b.slug));
+
+const events = await Promise.all(
+  sorted.map(async (f) => {
+    const file = await getContentFile(token, repo, 'timeline', f.slug);
+    return file ? {
+      slug: f.slug,
+      title: file.frontmatter.title || f.slug,
+      date: file.frontmatter.date || '',
+      era: file.frontmatter.era || 'origins',
+      category: file.frontmatter.category || 'other',
+      significance: file.frontmatter.significance || 'standard',
+      order: file.frontmatter.order ?? 0,
+    } : {
+      slug: f.slug,
+      title: f.slug,
+      date: '',
+      era: 'origins',
+      category: 'other',
+      significance: 'standard',
+      order: 0,
+    };
+  })
+);
+
+// Sort by order number
+events.sort((a, b) => (a.order as number) - (b.order as number));
+
+const eraFilter = Astro.url.searchParams.get('era') || '';
+const filtered = eraFilter ? events.filter((e) => e.era === eraFilter) : events;
+
+const eraLabels: Record<string, string> = {
+  origins: 'Origins',
+  'first-prosecution': 'First Prosecution',
+  exposure: 'Exposure',
+  reckoning: 'Reckoning',
+  aftermath: 'Aftermath',
+  transparency: 'Transparency',
+};
+
+const eraBadgeColors: Record<string, string> = {
+  origins: 'badge-gray',
+  'first-prosecution': 'badge-red',
+  exposure: 'badge-yellow',
+  reckoning: 'badge-blue',
+  aftermath: 'badge-gray',
+  transparency: 'badge-green',
+};
+
+const significanceBadgeColors: Record<string, string> = {
+  major: 'badge-red',
+  standard: 'badge-blue',
+  minor: 'badge-gray',
+};
+
+const categoryLabels: Record<string, string> = {
+  biography: 'Biography',
+  legal: 'Legal',
+  'document-release': 'Document Release',
+  legislation: 'Legislation',
+  investigation: 'Investigation',
+  media: 'Media',
+  'civil-litigation': 'Civil Litigation',
+  network: 'Network',
+  other: 'Other',
+};
+---
+
+<AdminLayout title="Timeline" activeNav="Timeline">
+  <div class="flex justify-between items-center mb-4">
+    <div class="flex gap-2" style="flex-wrap: wrap;">
+      <a href="/admin/timeline/" class={`btn btn-sm ${!eraFilter ? 'btn-primary' : 'btn-secondary'}`}>All ({events.length})</a>
+      {Object.entries(eraLabels).map(([era, label]) => (
+        <a href={`/admin/timeline/?era=${era}`}
+          class={`btn btn-sm ${eraFilter === era ? 'btn-primary' : 'btn-secondary'}`}>{label}</a>
+      ))}
+    </div>
+    <a href="/admin/timeline/new/" class="btn btn-primary">+ New Event</a>
+  </div>
+
+  <div class="card" style="padding: 0; overflow: hidden;">
+    <table>
+      <thead>
+        <tr>
+          <th style="width: 50px;">#</th>
+          <th>Title</th>
+          <th>Date</th>
+          <th>Era</th>
+          <th>Category</th>
+          <th>Significance</th>
+        </tr>
+      </thead>
+      <tbody>
+        {filtered.map((event) => (
+          <tr>
+            <td class="text-sm text-muted">{event.order}</td>
+            <td>
+              <a href={`/admin/timeline/${event.slug}/`} style="color: #e2e8f0; text-decoration: none; font-weight: 500;">
+                <span class="truncate" style="display: block;">{event.title}</span>
+              </a>
+            </td>
+            <td class="text-sm text-muted">{String(event.date).slice(0, 10)}</td>
+            <td>
+              <span class={`badge ${eraBadgeColors[event.era] || 'badge-gray'}`}>
+                {eraLabels[event.era] || event.era}
+              </span>
+            </td>
+            <td class="text-sm text-muted">{categoryLabels[event.category] || event.category}</td>
+            <td>
+              <span class={`badge ${significanceBadgeColors[event.significance] || 'badge-gray'}`}>
+                {event.significance}
+              </span>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</AdminLayout>

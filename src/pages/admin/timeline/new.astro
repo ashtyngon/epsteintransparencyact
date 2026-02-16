@@ -1,0 +1,217 @@
+---
+export const prerender = false;
+
+import AdminLayout from '../../../components/admin/AdminLayout.astro';
+import { createFile, buildMarkdownContent, listContentFiles } from '../../../lib/github';
+
+const user = (Astro.locals as any).user;
+const runtime = (Astro.locals as any).runtime;
+const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const token = user?.githubToken || '';
+
+let message = '';
+let messageType = '';
+
+// Get next order number
+const existingFiles = await listContentFiles(token, repo, 'timeline');
+const nextOrder = existingFiles.length + 1;
+
+if (Astro.request.method === 'POST') {
+  const formData = await Astro.request.formData();
+  const title = formData.get('title') as string;
+  const date = formData.get('date') as string || '';
+  const endDate = formData.get('endDate') as string || '';
+  const era = formData.get('era') as string || 'origins';
+  const category = formData.get('category') as string || 'other';
+  const significance = formData.get('significance') as string || 'standard';
+  const summary = formData.get('summary') as string || '';
+  const order = parseInt(formData.get('order') as string || String(nextOrder), 10);
+  const image = formData.get('image') as string || '';
+  const imageCaption = formData.get('imageCaption') as string || '';
+  const peopleStr = formData.get('people') as string || '';
+  const relatedArticlesStr = formData.get('relatedArticles') as string || '';
+  const relatedEventsStr = formData.get('relatedEvents') as string || '';
+  const sourcesStr = formData.get('sources') as string || '';
+  const body = formData.get('body') as string || '';
+
+  if (!title || !date) {
+    message = 'Title and date are required.';
+    messageType = 'error';
+  } else {
+    const slugPart = title
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/(^-|-$)/g, '')
+      .slice(0, 80);
+    const slug = `${String(order).padStart(3, '0')}-${slugPart}`;
+
+    const fm: Record<string, any> = {
+      title,
+      date,
+      era,
+      category,
+      significance,
+      summary,
+      order,
+    };
+
+    if (endDate) fm.endDate = endDate;
+    if (image) fm.image = image;
+    if (imageCaption) fm.imageCaption = imageCaption;
+
+    fm.people = peopleStr.split(',').map((p: string) => p.trim()).filter(Boolean);
+    fm.relatedArticles = relatedArticlesStr.split(',').map((r: string) => r.trim()).filter(Boolean);
+    fm.relatedEvents = relatedEventsStr.split(',').map((r: string) => r.trim()).filter(Boolean);
+
+    fm.sources = sourcesStr.split('\n')
+      .map((line: string) => line.trim())
+      .filter(Boolean)
+      .map((line: string) => {
+        const parts = line.split('|').map((p: string) => p.trim());
+        return parts.length >= 2 ? { title: parts[0], url: parts[1] } : null;
+      })
+      .filter(Boolean);
+
+    const content = buildMarkdownContent(fm, body);
+    const path = `src/content/timeline/${slug}.md`;
+    const ok = await createFile(token, repo, path, content, `cms: create timeline ${slug}`);
+
+    if (ok) {
+      return Astro.redirect(`/admin/timeline/${slug}/`);
+    }
+    message = 'Failed to create timeline event. It may already exist.';
+    messageType = 'error';
+  }
+}
+---
+
+<AdminLayout title="New Timeline Event" activeNav="Timeline">
+  {message && <div class={`alert alert-${messageType}`}>{message}</div>}
+
+  <form method="POST">
+    <div class="flex justify-between items-center mb-4">
+      <a href="/admin/timeline/" class="btn btn-secondary">&larr; Back</a>
+      <button type="submit" class="btn btn-success">Create Event</button>
+    </div>
+
+    <div class="card mb-4">
+      <div class="grid-2 gap-4">
+        <div class="form-group" style="grid-column: span 2;">
+          <label>Title</label>
+          <input type="text" name="title" class="form-input" required />
+        </div>
+        <div class="form-group">
+          <label>Date</label>
+          <input type="date" name="date" class="form-input" required />
+        </div>
+        <div class="form-group">
+          <label>End Date (optional)</label>
+          <input type="date" name="endDate" class="form-input" />
+        </div>
+        <div class="form-group">
+          <label>Era</label>
+          <select name="era" class="form-input">
+            <option value="origins">Origins</option>
+            <option value="first-prosecution">First Prosecution</option>
+            <option value="exposure">Exposure</option>
+            <option value="reckoning">Reckoning</option>
+            <option value="aftermath">Aftermath</option>
+            <option value="transparency" selected>Transparency</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Category</label>
+          <select name="category" class="form-input">
+            <option value="biography">Biography</option>
+            <option value="legal">Legal</option>
+            <option value="document-release" selected>Document Release</option>
+            <option value="legislation">Legislation</option>
+            <option value="investigation">Investigation</option>
+            <option value="media">Media</option>
+            <option value="civil-litigation">Civil Litigation</option>
+            <option value="network">Network</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Significance</label>
+          <select name="significance" class="form-input">
+            <option value="major">Major</option>
+            <option value="standard" selected>Standard</option>
+            <option value="minor">Minor</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Order</label>
+          <input type="number" name="order" value={nextOrder} class="form-input" />
+        </div>
+        <div class="form-group">
+          <label>Image Path</label>
+          <input type="text" name="image" class="form-input" placeholder="/images/timeline/event.jpg" />
+        </div>
+        <div class="form-group">
+          <label>Image Caption</label>
+          <input type="text" name="imageCaption" class="form-input" />
+        </div>
+        <div class="form-group" style="grid-column: span 2;">
+          <label>Summary</label>
+          <textarea name="summary" class="form-input" style="min-height: 80px;" placeholder="Brief summary of this event..."></textarea>
+        </div>
+        <div class="form-group">
+          <label>People (comma-separated slugs)</label>
+          <input type="text" name="people" class="form-input" />
+        </div>
+        <div class="form-group">
+          <label>Related Articles (comma-separated slugs)</label>
+          <input type="text" name="relatedArticles" class="form-input" />
+        </div>
+        <div class="form-group" style="grid-column: span 2;">
+          <label>Related Events (comma-separated slugs)</label>
+          <input type="text" name="relatedEvents" class="form-input" />
+        </div>
+        <div class="form-group" style="grid-column: span 2;">
+          <label>Sources (one per line: title|url)</label>
+          <textarea name="sources" class="form-input" style="min-height: 80px;"
+            placeholder="Source Title|https://example.com/article"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="editor-container">
+      <div class="editor-pane">
+        <div class="editor-pane-header">Body (Markdown)</div>
+        <textarea name="body" class="form-input" id="editor"
+          style="min-height: 400px;" placeholder="Write the event details here..."></textarea>
+      </div>
+      <div class="editor-pane">
+        <div class="editor-pane-header">Preview</div>
+        <div class="preview-pane" id="preview"></div>
+      </div>
+    </div>
+  </form>
+
+  <script is:inline>
+    const editor = document.getElementById('editor');
+    const preview = document.getElementById('preview');
+
+    function renderMarkdown(md) {
+      let html = md
+        .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+        .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+        .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.+?)\*/g, '<em>$1</em>')
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+        .replace(/^- (.+)$/gm, '<li>$1</li>')
+        .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
+        .replace(/\n\n/g, '</p><p>');
+      return '<p>' + html + '</p>';
+    }
+
+    function updatePreview() {
+      preview.innerHTML = renderMarkdown(editor.value);
+    }
+
+    editor.addEventListener('input', updatePreview);
+  </script>
+</AdminLayout>

@@ -1,0 +1,127 @@
+---
+export const prerender = false;
+
+import AdminLayout from '../../../components/admin/AdminLayout.astro';
+import { listContentFiles, getContentFile } from '../../../lib/github';
+
+const user = (Astro.locals as any).user;
+const runtime = (Astro.locals as any).runtime;
+const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const token = user?.githubToken || '';
+
+const files = await listContentFiles(token, repo, 'people');
+const sorted = files.sort((a, b) => a.slug.localeCompare(b.slug));
+
+const page = parseInt(Astro.url.searchParams.get('page') || '1');
+const perPage = 50;
+const start = (page - 1) * perPage;
+const pageFiles = sorted.slice(start, start + perPage);
+
+const people = await Promise.all(
+  pageFiles.map(async (f) => {
+    const file = await getContentFile(token, repo, 'people', f.slug);
+    return file ? {
+      slug: f.slug,
+      name: file.frontmatter.name || f.slug,
+      role: file.frontmatter.role || '-',
+      category: file.frontmatter.category || 'other',
+      hasImage: !!file.frontmatter.image,
+      sensitive: !!file.frontmatter.sensitive,
+    } : {
+      slug: f.slug,
+      name: f.slug,
+      role: '-',
+      category: 'other',
+      hasImage: false,
+      sensitive: false,
+    };
+  })
+);
+
+const totalPages = Math.ceil(sorted.length / perPage);
+
+const categoryFilter = Astro.url.searchParams.get('category') || '';
+const filtered = categoryFilter
+  ? people.filter((p) => p.category === categoryFilter)
+  : people;
+
+const categoryLabels: Record<string, string> = {
+  'named-in-documents': 'Named in Docs',
+  'witness': 'Witness',
+  'associate': 'Associate',
+  'official': 'Official',
+  'legal': 'Legal',
+  'victim-survivor': 'Victim/Survivor',
+  'other': 'Other',
+};
+
+const categoryBadgeColors: Record<string, string> = {
+  'named-in-documents': 'badge-yellow',
+  'witness': 'badge-blue',
+  'associate': 'badge-red',
+  'official': 'badge-gray',
+  'legal': 'badge-gray',
+  'victim-survivor': 'badge-green',
+  'other': 'badge-gray',
+};
+---
+
+<AdminLayout title="People" activeNav="People">
+  <div class="flex justify-between items-center mb-4">
+    <div class="flex gap-2" style="flex-wrap: wrap;">
+      <a href="/admin/people/" class={`btn btn-sm ${!categoryFilter ? 'btn-primary' : 'btn-secondary'}`}>All ({people.length})</a>
+      {Object.entries(categoryLabels).map(([cat, label]) => (
+        <a href={`/admin/people/?category=${cat}`}
+          class={`btn btn-sm ${categoryFilter === cat ? 'btn-primary' : 'btn-secondary'}`}>{label}</a>
+      ))}
+    </div>
+    <a href="/admin/people/new/" class="btn btn-primary">+ New Person</a>
+  </div>
+
+  <div class="card" style="padding: 0; overflow: hidden;">
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Role</th>
+          <th>Category</th>
+          <th>Photo</th>
+        </tr>
+      </thead>
+      <tbody>
+        {filtered.map((person) => (
+          <tr>
+            <td>
+              <a href={`/admin/people/${person.slug}/`} style="color: #e2e8f0; text-decoration: none; font-weight: 500;">
+                {person.name}
+                {person.sensitive && <span style="color: #f97316; margin-left: 4px;" title="Sensitive">⚠️</span>}
+              </a>
+            </td>
+            <td class="text-sm text-muted">
+              <span class="truncate" style="display: block; max-width: 300px;">{person.role}</span>
+            </td>
+            <td>
+              <span class={`badge ${categoryBadgeColors[person.category] || 'badge-gray'}`}>
+                {categoryLabels[person.category] || person.category}
+              </span>
+            </td>
+            <td class="text-sm">
+              {person.hasImage ? <span style="color: #6ee7b7;">✓</span> : <span style="color: #64748b;">—</span>}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  {totalPages > 1 && (
+    <div class="flex gap-2 mt-4" style="justify-content: center;">
+      {Array.from({ length: totalPages }, (_, i) => i + 1).map((p) => (
+        <a href={`/admin/people/?page=${p}${categoryFilter ? `&category=${categoryFilter}` : ''}`}
+          class={`btn btn-sm ${p === page ? 'btn-primary' : 'btn-secondary'}`}>
+          {p}
+        </a>
+      ))}
+    </div>
+  )}
+</AdminLayout>
