@@ -15,11 +15,11 @@ tags:
   - document-release
   - associates
 keyTakeaways:
-  - MIT Media Lab director Joi Ito resigned in 2019 after helping Jeffrey Epstein donate status: .7 million while concealing the source from university officials.
-  - Harvard professor Martin Nowak received $6.5 million from Epstein and visited his private island multiple times between 2012 and 2014.
-  - Former Harvard president Lawrence Summers met with Epstein at least six times after his 2008 sex offender conviction.
-  - Bard College president Leon Botstein invited Epstein to campus twice in 2013 and met with him at least four times.
-  - Epstein wrote in a 2014 email that his university connections provided "social cover" and helped him "seem legitimate."
+  - "MIT Media Lab director Joi Ito resigned in 2019 after helping Jeffrey Epstein donate $1.7 million while concealing the source from university officials."
+  - "Harvard professor Martin Nowak received $6.5 million from Epstein and visited his private island multiple times between 2012 and 2014."
+  - "Former Harvard president Lawrence Summers met with Epstein at least six times after his 2008 sex offender conviction."
+  - "Bard College president Leon Botstein invited Epstein to campus twice in 2013 and met with him at least four times."
+  - "Epstein wrote in a 2014 email that his university connections provided 'social cover' and helped him 'seem legitimate.'"
 status: published
 aiGenerated: true
 articleType: news
@@ -52,11 +52,4 @@ Stephen Kosslyn, a former Harvard psychology professor who became founding dean 
 
 Ruth Simmons, now president of Prairie View A&M University and former president of Brown University, served on Epstein's foundation board in 2000. Simmons resigned before Epstein's first arrest in 2006. She declined to comment.
 
-MIT announced new donor screening procedures in 2020. Harvard created a committee to review donor relationships. 
-
----
-
-**DOJ Document Image Opportunities:**
-- Flight logs and visitor records showing Nowak's visits to Epstein properties (2012-2014)
-- 2014 email from Epstein to Ghislaine Maxwell mentioning "social cover" 
-- MIT internal documents showing concealed Epstein donations to Media Lab
+MIT announced new donor screening procedures in 2020. Harvard created a committee to review donor relationships.

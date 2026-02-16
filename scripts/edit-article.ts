@@ -186,10 +186,17 @@ async function main() {
       finalBody = editedBody.replace(/KEY_TAKEAWAYS_START\n[\s\S]*?KEY_TAKEAWAYS_END\n*/, '').trim();
     }
 
+    // Strip any DOJ Document Image notes the AI may have left in the output
+    finalBody = finalBody.replace(/---\s*\n\s*\*\*DOJ Document Image[\s\S]*$/m, '').trim();
+
     // Inject keyTakeaways into frontmatter if extracted and not already present
     let finalFrontmatter = parts.frontmatter;
     if (keyTakeaways.length > 0 && !parts.frontmatter.includes('keyTakeaways:')) {
-      const takeawaysYaml = 'keyTakeaways:\n' + keyTakeaways.map((t: string) => `  - ${t}`).join('\n');
+      const takeawaysYaml = 'keyTakeaways:\n' + keyTakeaways.map((t: string) => {
+        // Strip existing quotes if the AI wrapped them, then always re-quote
+        const clean = t.replace(/^["']|["']$/g, '').replace(/"/g, '\\"');
+        return `  - "${clean}"`;
+      }).join('\n');
       // Insert before "status:" line
       finalFrontmatter = finalFrontmatter.replace(
         /^(status:\s)/m,
