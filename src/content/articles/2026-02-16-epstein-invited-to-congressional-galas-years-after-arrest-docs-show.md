@@ -18,6 +18,7 @@ people:
   - ro-khanna
   - steve-bannon
   - thomas-massie
+  - howard-lutnick
 tags:
   - document-release
   - associates

@@ -13,6 +13,7 @@ people:
   - sultan-ahmed-bin-sulayem
   - donald-trump
   - peter-mandelson
+  - howard-lutnick
 relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed

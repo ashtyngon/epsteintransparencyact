@@ -16,6 +16,7 @@ people:
   - marjorie-taylor-greene
   - nancy-mace
   - thomas-massie
+  - howard-lutnick
 tags:
   - document-release
   - transparency-act

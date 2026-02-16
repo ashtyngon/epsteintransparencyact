@@ -11,6 +11,7 @@ people:
   - marjorie-taylor-greene
   - pam-bondi
   - tom-barrack
+  - howard-lutnick
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
