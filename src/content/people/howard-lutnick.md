@@ -12,6 +12,7 @@ notableConnections:
   - donald-trump
   - ghislaine-maxwell
 firstMentionedDate: 2026-02-15
+image: "/images/people/howard-lutnick.jpg"
 sources:
   - title: "GOP Senators View Lutnick's Epstein Contacts as Political Liability — The Hill"
     url: "https://thehill.com/homenews/senate/5738208-republican-senators-lutnick-epstein/"
