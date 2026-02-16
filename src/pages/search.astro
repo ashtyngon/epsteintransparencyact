@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Search"
+  description="Search the Epstein Transparency Project — articles, people profiles, timeline events, and documents."
+>
+  <section class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <h1 class="text-2xl font-serif font-bold text-primary mb-6">Search</h1>
+    <div id="search" class="pagefind-search"></div>
+  </section>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search',
+      showSubResults: true,
+      showImages: false,
+      resetStyles: false,
+    });
+  });
+</script>
+
+<style is:global>
+  /* Override Pagefind UI styles to match site design */
+  .pagefind-ui {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: #1a1a2e;
+    --pagefind-ui-text: #2d2d3f;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #e2e2e8;
+    --pagefind-ui-tag: #f4f4f6;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0;
+    --pagefind-ui-font: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  .pagefind-ui__search-input {
+    font-size: 1rem !important;
+    padding: 0.75rem 1rem !important;
+    border: 1px solid #e2e2e8 !important;
+    border-radius: 0 !important;
+  }
+
+  .pagefind-ui__search-input:focus {
+    border-color: #c4a35a !important;
+    outline: none !important;
+    box-shadow: 0 0 0 2px rgba(196, 163, 90, 0.2) !important;
+  }
+
+  .pagefind-ui__result {
+    border-bottom: 1px solid #e2e2e8 !important;
+    padding: 1rem 0 !important;
+  }
+
+  .pagefind-ui__result-link {
+    font-family: 'Source Serif 4', Georgia, serif !important;
+    font-weight: 700 !important;
+    color: #1a1a2e !important;
+    font-size: 1.1rem !important;
+  }
+
+  .pagefind-ui__result-link:hover {
+    color: #c4a35a !important;
+  }
+
+  .pagefind-ui__result-excerpt {
+    font-size: 0.875rem !important;
+    color: #6b6b80 !important;
+    line-height: 1.6 !important;
+  }
+
+  .pagefind-ui__button {
+    background: #1a1a2e !important;
+    color: #fff !important;
+    border-radius: 0 !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    font-size: 0.75rem !important;
+    letter-spacing: 0.05em !important;
+  }
+
+  .pagefind-ui__button:hover {
+    background: #2d2d3f !important;
+  }
+
+  mark.pagefind-ui__result-highlight {
+    background: rgba(196, 163, 90, 0.25) !important;
+    color: inherit !important;
+  }
+
+  .pagefind-ui__message {
+    font-size: 0.875rem !important;
+    color: #6b6b80 !important;
+  }
+</style>

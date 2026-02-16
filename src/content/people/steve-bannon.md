@@ -1,27 +1,31 @@
 ---
 name: "Steve Bannon"
-seoTitle: "Steve Bannon Named in Epstein Files — Nobel Outreach"
-seoDescription: "Former White House strategist Steve Bannon was contacted by Epstein, who used his Nobel Committee chairman connection to recruit Bannon."
+seoTitle: "Steve Bannon Named in Epstein Files — Pope Francis Plot, Nobel Connection"
+seoDescription: "DOJ files reveal Bannon and Epstein plotted to 'take down' Pope Francis via a documentary. Exchanged texts and emails through June 2019."
 aliases:
   - "Stephen K. Bannon"
   - "Stephen Bannon"
 role: "Former White House Chief Strategist, Political Commentator"
-category: "other"
-shortBio: "Former White House chief strategist under President Trump (January–August 2017) and executive chairman of Breitbart News. Referenced in Epstein files as a recipient of outreach from Epstein, who used his Nobel committee connections to contact Bannon."
+category: "named-in-documents"
+shortBio: "Former White House chief strategist under President Trump (January–August 2017) and executive chairman of Breitbart News. DOJ files released in January 2026 revealed text messages and emails between Bannon and Jeffrey Epstein from 2018 and 2019, including a scheme to produce a documentary designed to 'take down' Pope Francis. Bannon designated Epstein as executive producer. The communications continued until weeks before Epstein's July 2019 arrest."
 notableConnections:
   - jeffrey-epstein
   - donald-trump
 firstMentionedDate: 2026-02-14
 image: "/images/people/steve-bannon.jpg"
 sources:
+  - title: "Steve Bannon Courted Epstein in Efforts to 'Take Down' Pope Francis — CNN"
+    url: "https://www.cnn.com/2026/02/14/world/bannon-epstein-take-down-pope-francis-latam-intl"
+  - title: "MAGA Architect Steve Bannon Plotted With Epstein Against Pope Francis — The Daily Beast"
+    url: "https://www.thedailybeast.com/maga-architect-steve-bannon-plotted-with-epstein-against-pope-francis/"
   - title: "Epstein Used Nobel Prize Access to Lure Elite Network, Files Show — The Independent"
     url: "https://www.independent.co.uk/news/world/americas/jeffrey-epstein-steve-bannon-norway-donald-trump-larry-summers-b2920430.html"
-  - title: "Jeffrey Epstein Files Document Releases — DOJ"
-    url: "https://www.justice.gov/d9/2026-02/epstein-transparency-act-documents.pdf"
+  - title: "Epstein Files Reveal Ties to Catholic Conservatives' Anti-Francis Campaign — Religion News Service"
+    url: "https://religionnews.com/2026/02/11/epstein-files-reveal-ties-to-catholic-conservatives-anti-francis-campaign-steve-bannon-raymond-burke/"
 sensitive: false
 ---
 
-Steve Bannon is a political strategist, media executive, and commentator who served as White House chief strategist under President [Donald Trump](/people/donald-trump) from January to August 2017. He previously served as executive chairman of Breitbart News (2012-2018) and was a key figure in Trump's 2016 presidential campaign. Bannon's name appeared in Epstein files released in 2026, in the context of outreach from [Jeffrey Epstein](/people/jeffrey-epstein).
+Steve Bannon is a political strategist, media executive, and commentator who served as White House chief strategist under President [Donald Trump](/people/donald-trump) from January to August 2017. He previously served as executive chairman of Breitbart News (2012–2018) and was a key figure in Trump's 2016 presidential campaign. DOJ files released in January 2026 revealed a far deeper personal relationship between Bannon and [Jeffrey Epstein](/people/jeffrey-epstein) than previously known — including a joint scheme to produce a documentary designed to "take down" Pope Francis.
 
 ## Background
 
@@ -29,16 +33,44 @@ Born in 1953 in Norfolk, Virginia, Bannon served in the U.S. Navy, attended Harv
 
 In August 2020, Bannon was arrested on fraud charges related to the "We Build the Wall" crowdfunding campaign. He was pardoned by President Trump on January 20, 2021. In a separate case, he was convicted in July 2022 of contempt of Congress for defying a subpoena from the House January 6th Committee and served a four-month sentence at a federal prison in Danbury, Connecticut, beginning in October 2024.
 
-## Appearance in Epstein Files
+## The Bannon-Epstein Communications
 
-Documents released under the Epstein Transparency Act, signed into law on November 19, 2025, show that Epstein contacted Bannon as part of a broader pattern of outreach to politically connected individuals. Specifically, Epstein name-dropped Thorbjorn Jagland — former Norwegian prime minister and chairman of the Norwegian Nobel Committee — in communications directed at Bannon, using the Nobel connection as a prestige tool.
+Text messages and emails between Bannon and Epstein from 2018 and 2019 were discovered in the 3.5 million pages of documents released by the DOJ on January 30, 2026. The communications were first reported by the Substack newsletter "Letters from Leo" and subsequently covered by CNN, The Daily Beast, and Religion News Service.
 
-The files show Epstein used this same strategy with multiple high-profile targets simultaneously, including Virgin Group founder Richard Branson and former Treasury Secretary Larry Summers. Epstein would host Jagland, then reference those meetings when reaching out to other contacts. Bannon was among the political figures targeted through this method.
+The exchanges reveal a relationship that was personal, strategic, and ongoing well after Epstein's 2008 conviction — contradicting any suggestion that Bannon was merely a passive recipient of Epstein's outreach.
+
+### 2018: Shared Grievances
+
+Earlier correspondence from 2018 shows Bannon and Epstein lamenting the Vatican's stance against xenophobia, racism, and populism, as well as the Holy See's diplomatic relationship with China. Bannon had long viewed Pope Francis as an obstacle to his vision of nationalist populism in Europe. In a 2018 interview with The Spectator, Bannon called Pope Francis "beneath contempt."
+
+### April 2019: The Pope Francis Plot Begins
+
+On April 1, 2019, Epstein sent Bannon an article titled "Pope Francis or Steve Bannon? Catholics must choose." Bannon replied: "easy choice."
+
+Around the same time, Bannon conceived a plan to adapt Frederic Martel's book "In the Closet of the Vatican" — which claimed that approximately 80 percent of clergy working in the Vatican are gay — into a documentary film. Bannon met Martel in Paris at the Hotel Le Bristol to discuss film rights. Martel told CNN he declined, saying his French publisher controlled the rights, and that he believed Bannon wanted to "instrumentalize" his book.
+
+### June 2019: "Will Take Down Francis"
+
+In June 2019 — weeks before Epstein's July 6 arrest — Bannon messaged Epstein about the proposed documentary: "Will take down Francis." He added: "The Clintons, Xi, Francis, EU — come on brother."
+
+Bannon told Epstein: "You are now exec producer of 'ITCOTV'" — an abbreviation of "In the Closet of the Vatican." Epstein responded with a single word: "Porn."
+
+In another exchange, Epstein wrote to Bannon: "Better to reign in Hell, than serve in Heaven."
+
+### Cardinal Burke's Break
+
+U.S. Cardinal Raymond Burke learned of Bannon's interest in the Martel film and cut ties with the Dignitatis Humanae Institute, a conservative Catholic organization he felt had become too closely identified with Bannon. In a June 25, 2019 letter, Burke wrote: "I am not at all of the mind that the book should be made into a film."
+
+## Nobel Committee Connection
+
+Separately, the files show Epstein used [Thorbjorn Jagland](/people/thorbjorn-jagland) — former Norwegian prime minister and chairman of the Norwegian Nobel Committee — as a prestige tool in outreach to Bannon. Epstein name-dropped Jagland when contacting Bannon, employing the same strategy he used with [Richard Branson](/people/richard-branson) and [Lawrence Summers](/people/lawrence-summers).
 
 ## Role in Epstein Files Discourse
 
-Bannon has been a prominent voice in the broader political conversation around the Epstein files, using his "War Room" podcast and media appearances to call for full disclosure of Epstein's associates. He has framed the Epstein case as emblematic of elite corruption and has pushed for the release of unredacted documents. His commentary has positioned the Epstein files as a populist issue, arguing that powerful figures are being protected from accountability.
+Bannon has been a prominent voice in the broader political conversation around the Epstein files, using his "War Room" podcast and media appearances to call for full disclosure of Epstein's associates. He has framed the Epstein case as emblematic of elite corruption and pushed for the release of unredacted documents. His commentary has positioned the Epstein files as a populist issue, arguing that powerful figures are being protected from accountability.
 
-## Context
+As of February 15, 2026, Bannon has not publicly responded to the revelations about his communications with Epstein or the Pope Francis documentary scheme. CNN and The Daily Beast both reported contacting Bannon's representatives for comment without receiving a response.
 
-Bannon's appearance in the Epstein files places him in the category of political figures who were contacted by Epstein as part of his network-building efforts. The released communications do not indicate a deep personal relationship between Bannon and Epstein, but rather that Bannon was among the prominent figures Epstein attempted to draw into his orbit using institutional prestige as bait. Bannon's dual role — as someone named in the files and as a commentator demanding full transparency — has made him a distinctive figure in the ongoing Epstein discourse.
+## What Is Established
+
+The released files show that Bannon maintained a personal, communicative relationship with Epstein through at least June 2019 — three weeks before Epstein's arrest. The communications included strategic planning for a media project designed to damage Pope Francis, with Epstein designated as the project's executive producer. Bannon's position as both a named figure in the Epstein files and a public advocate for their release has created a significant credibility problem, particularly given his silence about his own documented communications with Epstein.

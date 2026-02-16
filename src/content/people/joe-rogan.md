@@ -4,7 +4,7 @@ seoTitle: "Joe Rogan Epstein Files — Named in Documents, Reacts On Air"
 seoDescription: "Podcast host named in Epstein files said they 'scare the hell out of me' and are 'definitely not a hoax' on air. Slammed Trump's 'gaslighting.'"
 aliases: []
 role: "Podcast host, comedian, UFC commentator"
-category: "other"
+category: "named-in-documents"
 shortBio: "Host of The Joe Rogan Experience, one of the most-listened-to podcasts in the world. His own name appeared in the Epstein files, which he acknowledged on air. Became a prominent public voice on the Epstein case, telling guest Evan Hafer that the files 'scare the hell out of me' and calling them 'definitely not a hoax.' Previously delivered sustained on-air criticism of the Trump administration's handling of the files in 2025."
 notableConnections:
   - jeffrey-epstein
