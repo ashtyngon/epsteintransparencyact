@@ -257,6 +257,15 @@ async function main() {
       : await generateArticleBody(client, item, existingArticles);
     if (!body) continue;
 
+    // Enforce minimum word count — reject thin articles
+    const wordCount = body.split(/\s+/).filter(w => w.length > 0).length;
+    const minWords = item.isFeature ? 800 : 300;
+    if (wordCount < minWords) {
+      console.log(`  SKIP (too short: ${wordCount} words, min ${minWords}): ${headline.slice(0, 60)}`);
+      processed.processedUrls.push(item.link);
+      continue;
+    }
+
     if (item.image) console.log(`  IMAGE: ${item.image.slice(0, 60)}...`);
 
     const markdown = buildMarkdown(item, body);

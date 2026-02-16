@@ -5,7 +5,7 @@ source: "KFOR"
 sourceUrl: "https://kfor.com/news/politics/gop-senators-view-lutnicks-contacts-with-epstein-as-political-liability/"
 summary: "Republican senators have privately expressed concern that Commerce Secretary Howard Lutnick's documented contacts with Jeffrey Epstein could damage the party ah"
 people:
-  - marco-lutnick
+  - howard-lutnick
   - casey-wasserman
   - ghislaine-maxwell
   - jeffrey-epstein

@@ -2,7 +2,7 @@
 title: "Reader Letter: Epstein List Perpetrators Must Face Justice"
 publishedAt: "2026-02-16T06:00:00.000Z"
 source: "Bangor Daily News"
-sourceUrl: "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tFYmcwSG04YzdVQjFDLV8xTjNMUU1tdnZTd214SHZlOEFWQ1VqS19xMnI3T0h4SlZOZW84WnJ6ZWpjZGVqMjUtcE9xazRsWERMdTRqX2RzbFYwclVlUFJMdDJrOFZiN0IxVVF2SEVJUVZpUUlxNlFkTWoxVnA4NVJTLWszaTk4UmMxTHpmcDdhaURKM3FsZGtCcWRtNl9ELTVzRklZcw?oc=5"
+sourceUrl: "https://www.bangordailynews.com/2026/02/16/opinion/letter-epstein-list-perpetrators-identified-punished/"
 summary: "A letter to the editor published in the Bangor Daily News calls for identification and punishment of individuals connected to Jeffrey Epstein, joining a growing"
 people:
   - jeffrey-epstein

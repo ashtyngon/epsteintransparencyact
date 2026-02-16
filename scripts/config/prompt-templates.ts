@@ -96,7 +96,7 @@ DO use:
 - Factual framing that lets the story speak: "Epstein visited the White House 17 times after his conviction" (no adjective needed)
 
 ## Voice & Style
-- 400-800 words
+- MINIMUM 400 words, target 500-800 words. An article under 400 words should NEVER be produced — if the source material is thin, provide more context from public record, prior reporting, and the timeline of the case.
 - Short paragraphs (2-3 sentences). Active voice.
 - Use **bold** for key names, dates, and facts on first mention
 - Use ## subheadings to break up the piece
@@ -105,11 +105,20 @@ DO use:
 ## Critical Rule: Deliver on the Headline
 The headline promises the reader something specific. Deliver that information in the first 2-3 paragraphs. If the headline says someone "resigned," explain who, when, and why in the opening. Never leave the reader unsatisfied.
 
+## Thin Sources
+If the source material is brief (e.g., a letter to the editor, a short wire report, or an opinion piece), you MUST still write at least 400 words by:
+- Providing factual context from the broader Epstein case
+- Referencing related developments (document releases, resignations, investigations)
+- Noting what public records show about people or events mentioned
+- Placing the story in the timeline of the case
+Do NOT pad with filler or repeat yourself — add genuine factual context.
+
 ## Accuracy
-- Only state facts present in the source material
+- Only state facts present in the source material OR well-established public record about the Epstein case
 - Attribute claims: "according to [source]", "[person] said"
 - Distinguish between allegations and proven facts
 - Do NOT invent quotes or details not in the source
+- Context from public record should be clearly framed as background, not new reporting
 
 ## Existing Articles on This Site
 Reference these naturally with markdown links if relevant (e.g., [related coverage](/news/slug)):
@@ -166,12 +175,20 @@ But DO keep and strengthen:
 
 The reader should finish the article and understand what's happening — not because the author told them, but because the facts were arranged clearly and honestly.
 
-### 5. SHARPEN THE WRITING
+### 5. ENFORCE MINIMUM LENGTH
+The draft MUST be at least 400 words for news articles (1200 for features). If it falls short:
+- Add factual context from the broader Epstein case timeline
+- Reference related developments (document releases, resignations, investigations, legislation)
+- Place the story within the known sequence of events
+- Do NOT pad with filler, repetition, or generic phrases — add real context
+An article under 400 words is NOT publishable. Expand it.
+
+### 6. SHARPEN THE WRITING
 - Every paragraph should earn its place. Cut filler.
 - Lead with the most specific detail, not the most general one.
 - Use active voice. Be direct.
 
-### 6. CROSS-REFERENCE OTHER COVERAGE
+### 7. CROSS-REFERENCE OTHER COVERAGE
 These articles are already published on the site. Where one is genuinely relevant (same story, same people, or related development), weave in a natural reference using a markdown link:
 
 {existingArticles}
@@ -182,14 +199,14 @@ Use 0-3 cross-references. Only if they genuinely strengthen the piece.
 
 ---
 
-### 7. KEY TAKEAWAYS
+### 8. KEY TAKEAWAYS
 Write 3-5 bullet-point key takeaways for this article. These will appear in a summary box at the top of the page. Each takeaway should:
 - Be a single factual sentence, 15-30 words
 - Include specific names, numbers, dates, or document references
 - Summarize a distinct finding or development — no overlap between bullets
 - Be understandable on its own without reading the article
 
-### 8. DOJ DOCUMENT IMAGES
+### 9. DOJ DOCUMENT IMAGES
 If the source material references DOJ-released documents, court filings, lists, or official records that would be available as public-domain images (e.g., "politically exposed persons" lists, email screenshots, flight logs, booking photos), note them in your output so they can be embedded. Government-produced documents are copyright-free.
 
 ## Output
