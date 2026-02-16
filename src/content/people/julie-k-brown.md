@@ -11,6 +11,7 @@ notableConnections:
   - jeffrey-epstein
   - alexander-acosta
 firstMentionedDate: 2018-11-28
+image: "/images/people/julie-brown.jpg"
 sources:
   - title: "Perversion of Justice — Miami Herald"
     url: "https://www.miamiherald.com/topics/jeffrey-epstein"

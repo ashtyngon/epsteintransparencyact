@@ -10,7 +10,7 @@ notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
 firstMentionedDate: 2026-02-14
-image: ""
+image: "/images/people/casey-wasserman.jpg"
 sources:
   - title: "Casey Wasserman Sells Talent Agency After Epstein Files Expose Maxwell Emails — The Independent"
     url: "https://www.independent.co.uk/news/world/americas/casey-wasserman-epstein-files-agency-for-sale-b2920588.html"

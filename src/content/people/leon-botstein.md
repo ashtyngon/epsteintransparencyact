@@ -4,7 +4,7 @@ seoTitle: "Leon Botstein Epstein Connection — Bard College President"
 seoDescription: "Leon Botstein, Bard College president since 1975, appeared in Jeffrey Epstein's personal contacts, extending scrutiny beyond Ivy League schools."
 aliases: []
 role: "President of Bard College, Conductor"
-category: "associate"
+category: "named-in-documents"
 shortBio: "President of Bard College since 1975 and music director of the American Symphony Orchestra. Appeared in Jeffrey Epstein's personal contacts, extending scrutiny beyond Ivy League institutions to smaller liberal arts colleges."
 notableConnections:
   - jeffrey-epstein

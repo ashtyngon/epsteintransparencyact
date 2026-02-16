@@ -10,7 +10,7 @@ shortBio: "Chicago-based media mogul who served as chairman of both the Chicago 
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-13
-image: ""
+image: "/images/people/michael-ferro.jpg"
 sources:
   - title: "Media Mogul Michael Ferro Canceled Last-Minute Epstein Meeting, Emails Reveal — Chicago Tribune"
     url: "https://www.chicagotribune.com/2026/02/13/michael-ferro-epstein-emails/"

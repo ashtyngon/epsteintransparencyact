@@ -12,7 +12,7 @@ notableConnections:
   - jeffrey-epstein
   - bill-clinton
 firstMentionedDate: 2019-09-01
-image: ""
+image: "/images/people/lawrence-summers.jpg"
 sources:
   - title: "Epstein Used Nobel Prize Access to Lure Elite Network, Files Show — The Independent"
     url: "https://www.independent.co.uk/news/world/americas/jeffrey-epstein-steve-bannon-norway-donald-trump-larry-summers-b2920430.html"

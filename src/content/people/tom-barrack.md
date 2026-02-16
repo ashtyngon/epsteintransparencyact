@@ -12,7 +12,7 @@ notableConnections:
   - jeffrey-epstein
   - donald-trump
 firstMentionedDate: 2026-02-14
-image: ""
+image: "/images/people/tom-barrack.jpg"
 sources:
   - title: "Trump Insider Tom Barrack Named in Epstein Files — CBS News"
     url: "https://www.cbsnews.com/news/tom-barrack-jeffrey-epstein-files/"

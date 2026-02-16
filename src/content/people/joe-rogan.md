@@ -9,7 +9,7 @@ shortBio: "Host of The Joe Rogan Experience, one of the most-listened-to podcast
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2025-07-17
-image: ""
+image: "/images/people/joe-rogan.png"
 sources:
   - title: "Joe Rogan: Epstein Files 'Scare the Hell Out of Me' — The Hill"
     url: "https://thehill.com/blogs/in-the-know/5737969-rogan-podcast-epstein-files/"

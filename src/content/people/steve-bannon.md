@@ -12,7 +12,7 @@ notableConnections:
   - jeffrey-epstein
   - donald-trump
 firstMentionedDate: 2026-02-14
-image: ""
+image: "/images/people/steve-bannon.jpg"
 sources:
   - title: "Epstein Used Nobel Prize Access to Lure Elite Network, Files Show — The Independent"
     url: "https://www.independent.co.uk/news/world/americas/jeffrey-epstein-steve-bannon-norway-donald-trump-larry-summers-b2920430.html"

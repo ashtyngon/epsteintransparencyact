@@ -10,7 +10,7 @@ shortBio: "British broadcaster and journalist whose name appears 29 times in Eps
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-13
-image: ""
+image: "/images/people/piers-morgan.jpg"
 sources:
   - title: "Piers Morgan Named 29 Times in Epstein Files — BuzzFeed"
     url: "https://www.buzzfeed.com/piersmorgan-epstein-files-29-mentions"

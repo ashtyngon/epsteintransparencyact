@@ -4,7 +4,7 @@ seoTitle: "Seth Lloyd Epstein — MIT Professor's $225K Grant"
 seoDescription: "MIT professor Seth Lloyd received $225,000 personally from Epstein, visited his island, and continued the relationship after the 2008 conviction."
 aliases: []
 role: "MIT Professor of Mechanical Engineering"
-category: "associate"
+category: "named-in-documents"
 shortBio: "Professor of mechanical engineering at MIT who received a $225,000 personal research grant from Jeffrey Epstein. Lloyd also visited Epstein's private island and continued the financial relationship after Epstein's 2008 conviction."
 notableConnections:
   - jeffrey-epstein

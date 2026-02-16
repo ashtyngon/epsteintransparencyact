@@ -5,7 +5,7 @@ seoDescription: "Harvard psychologist Steven Pinker flew on Epstein's plane, app
 aliases:
   - "Steven Arthur Pinker"
 role: "Harvard Cognitive Scientist and Author"
-category: "associate"
+category: "named-in-documents"
 shortBio: "Johnstone Family Professor of Psychology at Harvard University and bestselling author. Appeared in connection with Jeffrey Epstein's visits to Harvard and flew on Epstein's aircraft. Provided a legal opinion for Epstein's defense team in 2007."
 notableConnections:
   - jeffrey-epstein

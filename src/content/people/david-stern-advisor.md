@@ -4,7 +4,7 @@ seoTitle: "David Stern Epstein Files — Prince Andrew Aide's Visa Fraud"
 seoDescription: "Prince Andrew associate advised Epstein to hide child abuse conviction on Chinese visa application. Files show illegal guidance on fraud."
 aliases: []
 role: "Close associate of Prince Andrew, Epstein advisor"
-category: "associate"
+category: "named-in-documents"
 shortBio: "Close associate of Prince Andrew who advised Jeffrey Epstein to illegally conceal his 2008 child sexual abuse conviction when applying for a Chinese visa. Documents released under the Epstein Transparency Act showed Stern guided Epstein to omit criminal charges and prior visa denials from the application form, which constitutes fraud under both U.S. and international law."
 notableConnections:
   - jeffrey-epstein

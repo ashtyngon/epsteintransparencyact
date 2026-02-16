@@ -11,7 +11,7 @@ notableConnections:
   - donald-trump
   - pam-bondi
 firstMentionedDate: 2026-02-12
-image: ""
+image: "/images/people/carl-higbie.png"
 sources:
   - title: "Trump DOJ Accused of Epstein Cover-Up Over File Redactions — The Hill"
     url: "https://thehill.com/media/5736235-epstein-files-doj-redactions-controversy/"

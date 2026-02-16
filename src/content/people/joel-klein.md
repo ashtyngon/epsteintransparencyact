@@ -9,7 +9,7 @@ shortBio: "Attorney and education executive who served as Chancellor of the New 
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-14
-image: ""
+image: "/images/people/joel-klein.jpg"
 sources:
   - title: "How Former NYC Schools Chief Joel Klein Became Friendly With Epstein — New York Times"
     url: "https://www.nytimes.com/2026/02/14/us/how-former-nyc-schools-chief-joel-klein-became-friendly-with-epstein.html"

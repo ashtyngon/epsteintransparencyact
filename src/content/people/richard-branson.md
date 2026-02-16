@@ -5,7 +5,7 @@ seoDescription: "Epstein visited Richard Branson's Necker Island and used his No
 aliases:
   - "Sir Richard Branson"
 role: "Founder of Virgin Group"
-category: "associate"
+category: "named-in-documents"
 shortBio: "British billionaire founder of the Virgin Group. Jeffrey Epstein visited Branson's private Necker Island in the British Virgin Islands, and newly released files show Epstein used his connection to the Nobel Peace Prize committee chairman to reach out to Branson."
 notableConnections:
   - jeffrey-epstein

@@ -5,7 +5,7 @@ seoDescription: "MIT Media Lab director resigned 2019 after concealing $850K in 
 aliases:
   - "Joichi Ito"
 role: "Former Director of MIT Media Lab"
-category: "associate"
+category: "named-in-documents"
 shortBio: "Former director of the MIT Media Lab who resigned in September 2019 after investigative reporting revealed he had concealed the lab's financial ties to Jeffrey Epstein, including $850,000 in donations to MIT and efforts to disguise the source of the funds."
 notableConnections:
   - jeffrey-epstein

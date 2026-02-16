@@ -5,7 +5,7 @@ seoDescription: "Harvard professor Martin Nowak directed the $6.5M Epstein-funde
 aliases:
   - "Martin A. Nowak"
 role: "Harvard Professor of Biology and Mathematics, Director of Program for Evolutionary Dynamics"
-category: "associate"
+category: "named-in-documents"
 shortBio: "Harvard professor of biology and mathematics who directed the Epstein-funded Program for Evolutionary Dynamics. Epstein donated $6.5 million to establish the program in 2003, and Nowak continued meeting with Epstein after his 2008 conviction."
 notableConnections:
   - jeffrey-epstein

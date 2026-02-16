@@ -10,7 +10,7 @@ shortBio: "Norwegian politician who served as Prime Minister of Norway (1996-199
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-13
-image: ""
+image: "/images/people/thorbjorn-jagland.webp"
 sources:
   - title: "Nobel Chief Jagland Got Gifts From Epstein, Emails Reveal — New York Times"
     url: "https://www.nytimes.com/2026/02/13/world/europe/norway-jagland-epstein.html"

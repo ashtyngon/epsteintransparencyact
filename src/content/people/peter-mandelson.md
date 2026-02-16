@@ -12,7 +12,7 @@ notableConnections:
   - jeffrey-epstein
   - prince-andrew
 firstMentionedDate: 2026-02-13
-image: ""
+image: "/images/people/peter-mandelson.jpg"
 sources:
   - title: "Congress Subpoenas Mandelson Over Epstein Ties in Major Probe — The Hill"
     url: "https://thehill.com/homenews/house/5737647-jeffrey-epstein-peter-mandelson-testimony/"

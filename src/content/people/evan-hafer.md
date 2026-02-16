@@ -9,7 +9,7 @@ shortBio: "Founder and CEO of Black Rifle Coffee Company and podcast host. Refer
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-13
-image: ""
+image: "/images/people/evan-hafer.jpg"
 sources:
   - title: "Joe Rogan: Epstein Files 'Scare the Hell Out of Me' — The Hill"
     url: "https://thehill.com/blogs/in-the-know/5737969-rogan-podcast-epstein-files/"
