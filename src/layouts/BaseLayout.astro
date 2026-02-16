@@ -20,6 +20,14 @@ const props = Astro.props;
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VP428HEEDS"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-VP428HEEDS');
+    </script>
     <SEOHead {...props} />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   </head>
