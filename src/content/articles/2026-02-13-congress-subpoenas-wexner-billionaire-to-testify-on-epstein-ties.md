@@ -2,8 +2,7 @@
 title: Congress to Depose Wexner in Ohio Over Epstein Ties
 publishedAt: 2026-02-13T00:00:00.000Z
 source: The Columbus Dispatch
-sourceUrl: >-
-  https://news.google.com/rss/news/CBMiswFBVV95cUxNNmt2U3FiTGxRX0tRZkpRck00NkMzRUlwVDUxV0FOSkpQSG9uZEhfWF9pb3FmRVdfWUZYNlVwM3VlN2NlVTV1UEVuUDZGLXZWUlh1dFc2dFgyb1NTM2hRQkg5Sm1vWnRiN2tOb1pPOHg2X0NDZGMzd0hhSnJzd2Q5ZVd0enN0WHZVX244SUJHc0xJNmFMR0FnSW01eXRiaFQtQWZpZEhGUzFUOWpjQnhwYTl2aw?oc=5
+sourceUrl: "https://www.wosu.org/politics-government/2026-02-12/les-wexners-congressional-deposition-about-jeffrey-epstein-moved-to-ohio-from-d-c"
 summary: >-
   Congressional investigators have backed down from their demand that Leslie
   Wexner testify in Washington, agreeing instead to depose the billionaire

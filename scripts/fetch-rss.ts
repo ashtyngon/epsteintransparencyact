@@ -57,6 +57,39 @@ const parser = new RSSParser({
   },
 });
 
+/**
+ * Resolve Google News redirect URLs to their actual destination.
+ * Google News RSS links are base64-encoded redirects — we follow them
+ * to get the real publisher URL for sourceUrl in frontmatter.
+ */
+async function resolveGoogleNewsUrl(url: string): Promise<string> {
+  if (!url.includes('news.google.com')) return url;
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 5000);
+    const response = await fetch(url, {
+      redirect: 'follow',
+      signal: controller.signal,
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)' },
+    });
+    clearTimeout(timer);
+    // After following redirects, response.url is the real destination
+    const resolved = response.url;
+    if (resolved && !resolved.includes('news.google.com')) {
+      return resolved;
+    }
+    // If still Google News, try extracting from HTML meta refresh/redirect
+    const html = await response.text();
+    const metaMatch = html.match(/content=["']\d+;\s*url=([^"']+)/i);
+    if (metaMatch) return metaMatch[1];
+    const jsMatch = html.match(/window\.location\.replace\(["']([^"']+)/);
+    if (jsMatch) return jsMatch[1];
+    return url; // Give up, return original
+  } catch {
+    return url; // On error, keep original
+  }
+}
+
 async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]> {
   try {
     const controller = new AbortController();
@@ -131,6 +164,19 @@ async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]>
         const itemDate = new Date(item.pubDate);
         return !isNaN(itemDate.getTime()) && itemDate >= cutoffDate;
       });
+
+    // For aggregator feeds (Google News), resolve redirect URLs to real publisher URLs
+    if (feed.category === 'aggregator') {
+      const resolved = await Promise.allSettled(
+        items.map(async (item) => {
+          item.link = await resolveGoogleNewsUrl(item.link);
+          return item;
+        })
+      );
+      return resolved
+        .filter((r): r is PromiseFulfilledResult<RSSItem> => r.status === 'fulfilled')
+        .map((r) => r.value);
+    }
 
     return items;
   } catch (error) {

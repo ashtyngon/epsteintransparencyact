@@ -125,7 +125,7 @@ As the political battle over file releases continues, several critical questions
 
 The Epstein case has become a test of whether American institutions can police themselves and whether the public will have access to information about how power really operates.
 
-[Attorney General Bondi claims](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) that privacy concerns and ongoing investigations justify the extensive redactions. But as [University of Virginia politics professor Larry Sabato noted](https://news.google.com/rss/news/CBMi3wFBVV95cUxQQktiOHNERDVFZFpkRk1GUzh2bHJDcnI2ZUstak91cmpNYjVMWVF5VWhEUEEzMWpxSjFkTkYzUGRYNVBRRGJNSG9kNGQ1cy1KT192d2lQQ1ZyVGVqSWJVekJJWThxRXFldGJTTU9kSXBpU0gtUjZpcTM4VzgtTm5QTzR6ZzBOTEVrNllEc3FXaHV3QnBydnplMGRURHQ2Tno3YWJiMTFFdEhnb2dEb1ZxX0VKRlF4SFhLeDRXVmdwTHpiSU9Eb0g4d3MwX1llUG9XejhQMU5qa3RRdHI3eGxN?oc=5), the files have become a "festering sore" for the administration.
+[Attorney General Bondi claims](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) that privacy concerns and ongoing investigations justify the extensive redactions. But as [University of Virginia politics professor Larry Sabato noted](https://www.npr.org/2026/02/14/nx-s1-5714031/epstein-files-massie-bondi-doj), the files have become a "festering sore" for the administration.
 
 Public pressure for full disclosure has continued despite the DOJ's position that its releases are complete.
 

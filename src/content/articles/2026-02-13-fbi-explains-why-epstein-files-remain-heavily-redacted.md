@@ -2,8 +2,7 @@
 title: FBI Explains Why Epstein Files Remain Heavily Redacted
 publishedAt: 2026-02-13T00:00:00.000Z
 source: Bloomberg
-sourceUrl: >-
-  https://news.google.com/rss/news/CBMirgFBVV95cUxQMjNPaGFPamxRa0pvckxCVlNRcFIzSktPVTExWXVISEl4TTgxU1AycjBPWW5VYl9XQ1BFS0dPUnBhTUx6US10ZlE3d3JxS2l3QmYtZWg0c3BkZ0ZhNEJvR3ZYS3p5ejF2VzZhaW1iWWd3bFVUN2E1YjNodFpRZWhKbDgzT2NzTzVyNzM4dGJiN2Q4QlBXeDFkaHRLeG5KR3hHazNBQ1A3N0NzQmUwMmc?oc=5
+sourceUrl: "https://www.bloomberg.com/news/newsletters/2026-02-13/epstein-files-fbi-s-reasons-for-redacting-the-documents"
 summary: >-
   The FBI has begun providing its justifications for the extensive redactions
   that have obscured key names and details in the Epstein files, according to a
