@@ -25,7 +25,7 @@ keyTakeaways:
   - "France, UK, and other nations have launched investigations or task forces following the file release earlier this month."
   - "Multiple high-profile figures including Goldman Sachs' top lawyer and Dubai ports chief have resigned since files became public."
   - "Independent analysis found DOJ released only 2% of Epstein files held by federal agencies despite claims of complete disclosure."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95

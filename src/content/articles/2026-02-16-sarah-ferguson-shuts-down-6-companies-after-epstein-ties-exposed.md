@@ -19,7 +19,7 @@ people:
 tags:
   - associates
   - breaking
-status: review
+status: published
 aiGenerated: true
 articleType: feature
 confidence: 0.92

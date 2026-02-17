@@ -18,7 +18,7 @@ keyTakeaways:
   - "A search for \"Staten Island\" in DOJ Epstein files returns hundreds of results across three categories: underwear, attorney, and autopsy records."
   - "SILive.com first reported the search results, identifying the categories in files released by the Department of Justice in February."
   - "The findings add to mounting pressure on federal agencies to release unredacted files after lawmakers accused DOJ of withholding documents."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.92

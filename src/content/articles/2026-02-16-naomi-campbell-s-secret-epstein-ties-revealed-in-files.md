@@ -20,7 +20,7 @@ tags:
   - document-release
   - associates
   - transparency-act
-status: review
+status: published
 aiGenerated: true
 articleType: feature
 confidence: 0.95

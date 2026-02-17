@@ -5,7 +5,7 @@ updatedAt: ''
 source: BBC News
 sourceUrl: https://www.bbc.com/news/articles/czx47k34yqxo
 summary: Hillary Clinton accused the Trump administration of conducting a "cover-up" by slow-walking the release of Jeffrey Epstein files during a BBC interview publishe
-status: review
+status: published
 articleType: feature
 people:
   - hillary-clinton

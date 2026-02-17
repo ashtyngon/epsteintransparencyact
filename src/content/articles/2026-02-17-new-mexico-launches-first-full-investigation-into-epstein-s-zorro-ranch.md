@@ -18,8 +18,8 @@ keyTakeaways:
   - "New Mexico House unanimously passed legislation Tuesday creating a 'Truth Commission' to investigate Jeffrey Epstein's Zorro Ranch."
   - "State Rep. Andrea Romero called it the 'first full investigation' into alleged trafficking and abuse at the nearly 10,000-acre property."
   - "The commission will seek survivor testimony and publicly name suspected perpetrators, according to Romero."
-  - "The ranch, located 30 miles south of Santa Fe, was purchased last year by the family of Texas GOP candidate Don Huffines for status: 3.4 million."
-status: review
+  - "The ranch, located 30 miles south of Santa Fe, was purchased last year by the family of Texas GOP candidate Don Huffines for $13.4 million."
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95

@@ -22,7 +22,7 @@ keyTakeaways:
   - "Applications to dissolve the companies were submitted last month, shortly after millions of pages were released by U.S. authorities."
   - "Messages from Ferguson to Epstein, sent after his 2008 conviction, came to light in the document release."
   - "The closures follow a pattern of corporate consequences, including resignations at Goldman Sachs, Dubai Ports, and Wasserman Media Group."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.92
