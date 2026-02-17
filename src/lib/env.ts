@@ -13,11 +13,18 @@ export function getEnv(locals: any): {
   const runtime = locals?.runtime;
   const env = runtime?.env || {};
 
+  // Helper to get string env var, trimming whitespace from keys with trailing spaces
+  const str = (name: string): string => {
+    // Try exact match first, then try with trailing space (Cloudflare dashboard quirk)
+    const val = env[name] || env[name + ' '] || import.meta.env[name] || '';
+    return typeof val === 'string' ? val.trim() : val || '';
+  };
+
   return {
-    GITHUB_CLIENT_ID: env.GITHUB_CLIENT_ID || import.meta.env.GITHUB_CLIENT_ID || '',
-    GITHUB_CLIENT_SECRET: env.GITHUB_CLIENT_SECRET || import.meta.env.GITHUB_CLIENT_SECRET || '',
-    GITHUB_REPO: env.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact',
-    ADMIN_SESSION_SECRET: env.ADMIN_SESSION_SECRET || import.meta.env.ADMIN_SESSION_SECRET || '',
+    GITHUB_CLIENT_ID: str('GITHUB_CLIENT_ID'),
+    GITHUB_CLIENT_SECRET: str('GITHUB_CLIENT_SECRET'),
+    GITHUB_REPO: str('GITHUB_REPO') || 'ashtyngon/epsteintransparencyact',
+    ADMIN_SESSION_SECRET: str('ADMIN_SESSION_SECRET'),
     ADMIN_SESSIONS: env.ADMIN_SESSIONS || null,
   };
 }

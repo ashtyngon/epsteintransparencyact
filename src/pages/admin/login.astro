@@ -22,10 +22,6 @@ if (Astro.url.searchParams.get('logout') === '1') {
   });
 }
 
-// Debug: show what env vars are available
-const runtime = (Astro.locals as any).runtime;
-const envKeys = runtime?.env ? Object.keys(runtime.env) : [];
-
 const clientId = cfEnv.GITHUB_CLIENT_ID;
 const callbackUrl = `${Astro.url.origin}/admin/callback/`;
 const loginUrl = getLoginUrl(clientId, callbackUrl);
@@ -59,13 +55,6 @@ const loginUrl = getLoginUrl(clientId, callbackUrl);
       Sign in with GitHub
     </a>
     <p class="note">You must be a collaborator on the repository to access the CMS.</p>
-    <!-- debug: remove after testing -->
-    <p class="note" style="margin-top: 12px; word-break: break-all;">
-      runtime: {runtime ? 'yes' : 'no'} |
-      env: {runtime?.env ? 'yes' : 'no'} |
-      keys: {envKeys.length > 0 ? envKeys.join(', ') : 'none'} |
-      clientId: {clientId ? 'set' : 'empty'}
-    </p>
   </div>
 </body>
 </html>
