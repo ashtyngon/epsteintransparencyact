@@ -2,8 +2,8 @@ backend:
   name: github
   repo: ashtyngon/epsteintransparencyact
   branch: main
-  base_url: https://epsteintransparencyact.com
-  auth_endpoint: /api/auth/
+  base_url: https://decap-oauth.ezrikson.workers.dev
+  auth_endpoint: auth
 
 publish_mode: editorial_workflow
 
