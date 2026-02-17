@@ -1,20 +1,14 @@
-export const prerender = false;
-
-import type { APIRoute } from 'astro';
-import { getEnv } from '../../lib/env';
-
-export const GET: APIRoute = async ({ url, locals }) => {
+export async function onRequestGet(context) {
+  const url = new URL(context.request.url);
   const code = url.searchParams.get('code');
 
   if (!code) {
     return new Response('Missing code parameter', { status: 400 });
   }
 
-  const cfEnv = getEnv(locals);
-  const clientId = cfEnv.GITHUB_CLIENT_ID;
-  const clientSecret = cfEnv.GITHUB_CLIENT_SECRET;
+  const clientId = (context.env.GITHUB_CLIENT_ID || '').trim();
+  const clientSecret = (context.env.GITHUB_CLIENT_SECRET || '').trim();
 
-  // Exchange code for access token
   const tokenRes = await fetch('https://github.com/login/oauth/access_token', {
     method: 'POST',
     headers: {
@@ -32,7 +26,7 @@ export const GET: APIRoute = async ({ url, locals }) => {
     return new Response('Failed to exchange code for token', { status: 500 });
   }
 
-  const data = (await tokenRes.json()) as { access_token?: string; error?: string };
+  const data = await tokenRes.json();
 
   if (data.error || !data.access_token) {
     return new Response(`OAuth error: ${data.error || 'No access token'}`, {
@@ -42,23 +36,20 @@ export const GET: APIRoute = async ({ url, locals }) => {
 
   const token = data.access_token;
 
-  // Send token back to Decap CMS via postMessage
   const html = `<!DOCTYPE html>
 <html>
 <head><title>Authenticating...</title></head>
 <body>
   <script>
     (function() {
-      function recieveMessage(e) {
-        console.log("recieveMessage %o", e);
-        // send message to main window with auth result
+      function receiveMessage(e) {
+        console.log("receiveMessage %o", e);
         window.opener.postMessage(
-          'authorization:github:success:${JSON.stringify({ token, provider: 'github' })}',
+          'authorization:github:success:{"token":"${token}","provider":"github"}',
           e.origin
         );
       }
-      window.addEventListener("message", recieveMessage, false);
-      // Start handshake with parent
+      window.addEventListener("message", receiveMessage, false);
       window.opener.postMessage("authorizing:github", "*");
     })();
   </script>
@@ -69,4 +60,4 @@ export const GET: APIRoute = async ({ url, locals }) => {
     status: 200,
     headers: { 'Content-Type': 'text/html' },
   });
-};
+}
