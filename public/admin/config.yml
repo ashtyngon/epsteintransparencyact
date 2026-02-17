@@ -120,21 +120,46 @@ collections:
 
       - label: "People"
         name: "people"
-        widget: "list"
+        widget: "relation"
+        collection: "people"
+        value_field: "{{slug}}"
+        display_fields: ["{{name}} — {{role}}"]
+        search_fields: ["name", "aliases", "role"]
+        multiple: true
         required: false
-        hint: "Person slugs (e.g., pam-bondi, jeffrey-epstein)"
+        hint: "Search and select people mentioned in this article"
 
       - label: "Related Articles"
         name: "relatedArticles"
-        widget: "list"
+        widget: "relation"
+        collection: "articles"
+        value_field: "{{slug}}"
+        display_fields: ["{{title}}"]
+        search_fields: ["title", "source"]
+        multiple: true
         required: false
-        hint: "Slugs of related articles"
+        hint: "Search and link related articles"
 
       - label: "Tags"
         name: "tags"
-        widget: "list"
+        widget: "select"
+        multiple: true
         required: false
-        hint: "Press Enter after each tag"
+        hint: "Select relevant tags"
+        options:
+          - { label: "Document Release", value: "document-release" }
+          - { label: "Associates", value: "associates" }
+          - { label: "Political", value: "political" }
+          - { label: "Breaking", value: "breaking" }
+          - { label: "Transparency Act", value: "transparency-act" }
+          - { label: "Investigation", value: "investigation" }
+          - { label: "Court Documents", value: "court-documents" }
+          - { label: "Testimony", value: "testimony" }
+          - { label: "FBI", value: "fbi" }
+          - { label: "Survivors", value: "survivors" }
+          - { label: "Victims", value: "victims" }
+          - { label: "Legislation", value: "legislation" }
+          - { label: "Records Review", value: "records-review" }
 
       - label: "Key Takeaways"
         name: "keyTakeaways"
@@ -262,9 +287,14 @@ collections:
 
       - label: "Notable Connections"
         name: "notableConnections"
-        widget: "list"
+        widget: "relation"
+        collection: "people"
+        value_field: "{{slug}}"
+        display_fields: ["{{name}} — {{role}}"]
+        search_fields: ["name", "aliases"]
+        multiple: true
         required: false
-        hint: "Person slugs of connected individuals"
+        hint: "Search and select connected individuals"
 
       - label: "First Mentioned Date"
         name: "firstMentionedDate"
@@ -412,21 +442,36 @@ collections:
 
       - label: "People"
         name: "people"
-        widget: "list"
+        widget: "relation"
+        collection: "people"
+        value_field: "{{slug}}"
+        display_fields: ["{{name}} — {{role}}"]
+        search_fields: ["name", "aliases"]
+        multiple: true
         required: false
-        hint: "Person slugs"
+        hint: "Search and select people involved in this event"
 
       - label: "Related Articles"
         name: "relatedArticles"
-        widget: "list"
+        widget: "relation"
+        collection: "articles"
+        value_field: "{{slug}}"
+        display_fields: ["{{title}}"]
+        search_fields: ["title", "source"]
+        multiple: true
         required: false
-        hint: "Article slugs"
+        hint: "Search and link related articles"
 
       - label: "Related Events"
         name: "relatedEvents"
-        widget: "list"
+        widget: "relation"
+        collection: "timeline"
+        value_field: "{{slug}}"
+        display_fields: ["{{title}} — {{date}}"]
+        search_fields: ["title"]
+        multiple: true
         required: false
-        hint: "Timeline event slugs"
+        hint: "Search and link related timeline events"
 
       - label: "Sources"
         name: "sources"
@@ -511,14 +556,34 @@ collections:
 
       - label: "People"
         name: "people"
-        widget: "list"
+        widget: "relation"
+        collection: "people"
+        value_field: "{{slug}}"
+        display_fields: ["{{name}} — {{role}}"]
+        search_fields: ["name", "aliases"]
+        multiple: true
         required: false
-        hint: "Person slugs"
+        hint: "Search and select related people"
 
       - label: "Tags"
         name: "tags"
-        widget: "list"
+        widget: "select"
+        multiple: true
         required: false
+        options:
+          - { label: "Document Release", value: "document-release" }
+          - { label: "Associates", value: "associates" }
+          - { label: "Political", value: "political" }
+          - { label: "Breaking", value: "breaking" }
+          - { label: "Transparency Act", value: "transparency-act" }
+          - { label: "Investigation", value: "investigation" }
+          - { label: "Court Documents", value: "court-documents" }
+          - { label: "Testimony", value: "testimony" }
+          - { label: "FBI", value: "fbi" }
+          - { label: "Survivors", value: "survivors" }
+          - { label: "Victims", value: "victims" }
+          - { label: "Legislation", value: "legislation" }
+          - { label: "Records Review", value: "records-review" }
 
       - label: "Body"
         name: "body"
