@@ -80,10 +80,6 @@ Among the documents released under the Transparency Act was a birthday letter fr
 
 ![](https://news.artnet.com/app/news-upload/2025/07/trump-epstein-birthday-book-drawing-1627x2048.png)
 
-```plain
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i_Xm26DikxE?si=fBRkXIBHqlWMP1h6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-```
-
 ### Epstein's Private Emails About Trump
 
 DOJ-released emails from Epstein's accounts, spanning 2011 to 2019, reveal how Epstein viewed the relationship — and what he believed he knew about Trump:
