@@ -24,6 +24,11 @@ Write a 1-sentence "novelty statement" that captures the ONE specific new thing.
 
 If you CANNOT write a specific novelty statement because the article covers the same event/facts as something already published — it's a duplicate.
 
+## REJECT ROUNDUPS
+If the source article covers 3+ different topics/people/events in a single article (e.g., "Bondi testified AND Clinton accused AND Wasserman resigned AND international probes launched"), it is a ROUNDUP. Roundups are ALWAYS duplicates because each sub-topic has already been covered individually. Mark isDuplicate=true and noveltyStatement="DUPLICATE: roundup covering multiple already-reported stories".
+
+The ONLY exception is if the roundup's PRIMARY topic (70%+ of the text) is genuinely new. In that case, your noveltyStatement should describe ONLY that primary new topic, and the suggestedHeadline should focus on it.
+
 ## Scoring Criteria
 
 1. **noveltyStatement** (string): The 1-sentence specific new thing this article reports. If it's a duplicate, write "DUPLICATE: [reason]".

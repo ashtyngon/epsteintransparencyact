@@ -473,6 +473,13 @@ async function main() {
       continue;
     }
 
+    // HARD GUARD: Too many people = roundup article, reject
+    const MAX_PEOPLE_FILTER = 8;
+    if ((result.mentionedPeople || []).length > MAX_PEOPLE_FILTER) {
+      console.log(`  SKIP (roundup: ${result.mentionedPeople.length} people): ${item.title.slice(0, 60)}`);
+      continue;
+    }
+
     // AI's noveltyStatement starts with DUPLICATE: — treat as duplicate
     if (result.noveltyStatement?.toUpperCase().startsWith('DUPLICATE:')) {
       console.log(`  SKIP (AI novelty=dup): ${item.title.slice(0, 60)}`);
