@@ -1,0 +1,162 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+
+const people = (await getCollection('people'))
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const categoryLabels: Record<string, string> = {
+  'named-in-documents': 'Named in Documents',
+  witness: 'Witness',
+  associate: 'Associate',
+  official: 'Official',
+  legal: 'Legal',
+  'victim-survivor': 'Victim / Survivor',
+  other: 'Other',
+};
+
+const categoryColors: Record<string, string> = {
+  'named-in-documents': 'bg-highlight text-white',
+  witness: 'bg-amber-600 text-white',
+  associate: 'bg-red-700 text-white',
+  official: 'bg-blue-700 text-white',
+  legal: 'bg-purple-700 text-white',
+  'victim-survivor': 'bg-emerald-700 text-white',
+  other: 'bg-gray-600 text-white',
+};
+
+// Group by first letter for A-Z nav
+const letters = [...new Set(people.map((p) => p.data.name[0].toUpperCase()))].sort();
+
+// Counts
+const namedCount = people.filter((p) => p.data.category === 'named-in-documents').length;
+const totalCount = people.length;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Full List of Names in the Epstein Files',
+  description: `All ${totalCount} individuals documented in connection with the Jeffrey Epstein case — named in DOJ files, associates, officials, witnesses, and survivors.`,
+  numberOfItems: totalCount,
+  itemListElement: people.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: p.data.name,
+    url: `https://epsteintransparencyact.com/people/${p.id}`,
+  })),
+};
+---
+
+<BaseLayout
+  title="Full List of Names in the Epstein Files"
+  description={`Complete A-Z list of all ${totalCount} individuals named in the Epstein Files — politicians, billionaires, royals, academics, associates, and officials documented in DOJ releases.`}
+  jsonLd={jsonLd}
+>
+  <!-- Header -->
+  <header class="bg-primary text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+      <Breadcrumbs items={[{ name: 'Names', href: '/names' }]} />
+    </div>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
+      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.1] mb-3">
+        Full List of Names in the Epstein Files
+      </h1>
+      <p class="text-base text-white/50 leading-relaxed max-w-2xl mb-4">
+        Every individual documented in connection with the Jeffrey Epstein case — {totalCount} people total, including {namedCount} named directly in DOJ files. Click any name for their full profile with sources and related coverage.
+      </p>
+      <p class="text-xs text-white/30 leading-relaxed max-w-2xl">
+        Inclusion in this list does not imply guilt or wrongdoing. Many individuals appear in the files only in passing or as part of routine correspondence. Each profile specifies the nature of their connection.
+      </p>
+    </div>
+  </header>
+
+  <!-- Letter jump nav -->
+  <div class="border-b border-border bg-white sticky top-[57px] z-40">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <nav class="flex flex-wrap gap-0" aria-label="Jump to letter">
+        {letters.map((letter) => (
+          <a
+            href={`#letter-${letter}`}
+            class="px-3 py-2.5 text-xs font-bold text-text-muted hover:text-primary hover:bg-surface-dark transition-colors"
+          >
+            {letter}
+          </a>
+        ))}
+      </nav>
+    </div>
+  </div>
+
+  <!-- Names list -->
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Stats bar -->
+    <div class="flex flex-wrap gap-4 mb-8 text-xs text-text-muted font-mono">
+      <span>{totalCount} people total</span>
+      <span class="text-border">|</span>
+      <span>{namedCount} named in documents</span>
+      <span class="text-border">|</span>
+      <span>Updated daily</span>
+    </div>
+
+    <!-- Table -->
+    <div class="border border-border">
+      <!-- Table header -->
+      <div class="hidden sm:grid sm:grid-cols-[1fr_200px_140px] gap-4 px-4 py-2.5 bg-primary text-white text-[11px] font-semibold uppercase tracking-wider">
+        <span>Name</span>
+        <span>Role</span>
+        <span>Category</span>
+      </div>
+
+      {letters.map((letter) => {
+        const letterPeople = people.filter((p) => p.data.name[0].toUpperCase() === letter);
+        return (
+          <>
+            <div id={`letter-${letter}`} class="scroll-mt-32 px-4 py-2 bg-surface-dark border-t border-border">
+              <span class="text-lg font-serif font-bold text-primary">{letter}</span>
+              <span class="text-xs text-text-muted ml-2 font-mono">({letterPeople.length})</span>
+            </div>
+            {letterPeople.map((person) => (
+              <a
+                href={`/people/${person.id}`}
+                class="group no-underline grid sm:grid-cols-[1fr_200px_140px] gap-1 sm:gap-4 px-4 py-3 border-t border-border hover:bg-accent/5 transition-colors"
+              >
+                <div>
+                  <span class="font-semibold text-primary group-hover:text-accent transition-colors text-sm sm:text-base">
+                    {person.data.name}
+                  </span>
+                  {/* Mobile-only role + category */}
+                  <div class="sm:hidden flex items-center gap-2 mt-0.5">
+                    <span class="text-xs text-text-muted">{person.data.role}</span>
+                    <span class:list={[
+                      'text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5',
+                      categoryColors[person.data.category] || 'bg-gray-600 text-white',
+                    ]}>
+                      {categoryLabels[person.data.category] || person.data.category}
+                    </span>
+                  </div>
+                </div>
+                <span class="hidden sm:block text-sm text-text-muted self-center truncate">{person.data.role}</span>
+                <span class="hidden sm:block self-center">
+                  <span class:list={[
+                    'text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5',
+                    categoryColors[person.data.category] || 'bg-gray-600 text-white',
+                  ]}>
+                    {categoryLabels[person.data.category] || person.data.category}
+                  </span>
+                </span>
+              </a>
+            ))}
+          </>
+        );
+      })}
+    </div>
+
+    <!-- Bottom note -->
+    <div class="mt-8 p-5 border border-border bg-surface-dark">
+      <h2 class="text-xs font-semibold uppercase tracking-wider text-primary mb-2">About This List</h2>
+      <p class="text-sm text-text-muted leading-relaxed">
+        This list is compiled from DOJ document releases under the Epstein Files Transparency Act, court filings, congressional testimony, and investigative reporting. It is updated as new names are identified in released documents. For detailed profiles with full source citations, click any name above. For the categorized database view, visit <a href="/people" class="text-accent hover:text-primary transition-colors">People Database</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
