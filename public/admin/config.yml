@@ -3,7 +3,7 @@ backend:
   repo: ashtyngon/epsteintransparencyact
   branch: main
   base_url: https://epsteintransparencyact.com
-  auth_endpoint: /api/auth
+  auth_endpoint: /api/auth/
 
 publish_mode: editorial_workflow
 
