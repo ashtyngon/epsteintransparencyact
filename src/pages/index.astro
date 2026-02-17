@@ -36,9 +36,18 @@ function timeAgo(date: Date): string {
 
 <BaseLayout
   title="Home"
-  description="Epstein Transparency Act latest news and updates. Tracking every development in the Epstein Files — names, documents, investigations, and court records. Sourced and cited."
+  description="Track every name, document, and DOJ release from the Epstein Files. Searchable database of 300+ people named in documents, timeline of events, and daily sourced coverage of the Epstein Transparency Act."
   jsonLd={websiteJsonLd()}
 >
+  <!-- Site tagline — persistent H1 for SEO -->
+  <section class="bg-primary text-white border-b border-white/10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4">
+      <h1 class="text-sm md:text-base font-semibold tracking-wide text-white/70 max-w-3xl">
+        The most complete public tracker of the Epstein Files — every name, document, and investigation, sourced and cited.
+      </h1>
+    </div>
+  </section>
+
   <!-- Hero — latest feature article -->
   {heroArticle && (
     <section class="bg-primary text-white">
@@ -48,9 +57,9 @@ function timeAgo(date: Date): string {
             <span class="breaking-tag">{heroArticle.data.articleType === 'feature' ? 'Featured' : 'Latest'}</span>
             <span class="text-xs text-white/40 font-mono">{timeAgo(heroArticle.data.publishedAt)}</span>
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold mb-4 leading-[1.15] tracking-tight max-w-4xl group-hover:text-white/90 transition-colors">
+          <h2 class="text-3xl md:text-5xl font-serif font-bold mb-4 leading-[1.15] tracking-tight max-w-4xl group-hover:text-white/90 transition-colors">
             {heroArticle.data.title}
-          </h1>
+          </h2>
           <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-3xl mb-6">
             {heroArticle.data.summary}
           </p>
@@ -164,7 +173,7 @@ function timeAgo(date: Date): string {
           <div class="mt-6 p-5 border border-border">
             <h3 class="text-xs font-semibold uppercase tracking-wider text-primary mb-3">About This Site</h3>
             <p class="text-sm text-text-muted leading-relaxed">
-              Tracking every development around the Epstein Transparency Act — document releases, investigations, court filings, and the latest news on the Epstein Files.
+              Independent, source-first tracker of the Epstein Files. Every claim cited, every name cross-referenced, every document linked to the original DOJ release.
             </p>
             <a
               href="/about"

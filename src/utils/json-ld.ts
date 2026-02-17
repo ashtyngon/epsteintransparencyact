@@ -2,11 +2,11 @@ export function websiteJsonLd() {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'Epstein Transparency Project',
-    alternateName: 'Epstein Transparency Act News',
+    name: 'Epstein Files Tracker',
+    alternateName: ['Epstein Transparency Project', 'Epstein Transparency Act News'],
     url: 'https://epsteintransparencyact.com',
     description:
-      'Epstein Transparency Act latest news and updates. Tracking every development in the Epstein Files — names, documents, investigations, and court records.',
+      'Track every name, document, and DOJ release from the Epstein Files. Searchable database of people named in documents, timeline of events, and daily sourced coverage.',
     potentialAction: {
       '@type': 'SearchAction',
       target: 'https://epsteintransparencyact.com/search?q={search_term_string}',
@@ -24,7 +24,14 @@ export function articleJsonLd(article: {
   source: string;
   sourceUrl: string;
   image?: string;
+  sources?: { title: string; url: string }[];
 }) {
+  const citations = article.sources?.map((s) => ({
+    '@type': 'CreativeWork' as const,
+    name: s.title,
+    url: s.url,
+  })) || [];
+
   return {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
@@ -34,12 +41,12 @@ export function articleJsonLd(article: {
     dateModified: (article.updatedAt ?? article.publishedAt).toISOString(),
     author: {
       '@type': 'Organization',
-      name: 'Epstein Transparency Project',
+      name: 'Epstein Files Tracker',
       url: 'https://epsteintransparencyact.com',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Epstein Transparency Project',
+      name: 'Epstein Files Tracker',
       url: 'https://epsteintransparencyact.com',
       logo: {
         '@type': 'ImageObject',
@@ -54,6 +61,7 @@ export function articleJsonLd(article: {
       url: article.sourceUrl,
       publisher: { '@type': 'Organization', name: article.source },
     },
+    ...(citations.length > 0 ? { citation: citations } : {}),
     ...(article.image ? { image: article.image } : {}),
   };
 }
@@ -61,16 +69,26 @@ export function articleJsonLd(article: {
 export function personJsonLd(person: {
   name: string;
   shortBio: string;
+  role: string;
   slug: string;
   image?: string;
+  sources?: { title: string; url: string }[];
 }) {
   return {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: person.name,
     description: person.shortBio,
+    jobTitle: person.role,
     url: `https://epsteintransparencyact.com/people/${person.slug}`,
     ...(person.image ? { image: person.image } : {}),
+    ...(person.sources?.length ? {
+      subjectOf: person.sources.map((s) => ({
+        '@type': 'NewsArticle',
+        name: s.title,
+        url: s.url,
+      })),
+    } : {}),
   };
 }
 
@@ -95,8 +113,8 @@ export function newsListJsonLd(
   return {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Epstein Transparency Act — Latest News',
-    description: 'Breaking news and updates on the Epstein Files, DOJ document releases, investigations, and court proceedings.',
+    name: 'Epstein Files News — Document Releases, Investigations & Updates',
+    description: 'Daily coverage of the Epstein Files — DOJ document releases, names revealed, congressional hearings, and criminal investigations.',
     url: 'https://epsteintransparencyact.com/news/',
     mainEntity: {
       '@type': 'ItemList',
@@ -116,7 +134,7 @@ export function timelineJsonLd(
   return {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: 'The Epstein Case — Complete Timeline',
+    name: 'Epstein Case Timeline — 1994 to Present',
     itemListElement: entries.map((entry, i) => ({
       '@type': 'ListItem',
       position: i + 1,

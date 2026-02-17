@@ -99,6 +99,18 @@ collections:
         public_folder: "/images/articles"
         hint: "Article header image"
 
+      - label: "Image Caption"
+        name: "imageCaption"
+        widget: "string"
+        required: false
+        hint: "Describe the image (used as alt text and caption)"
+
+      - label: "Image Credit"
+        name: "imageCredit"
+        widget: "string"
+        required: false
+        hint: "Photographer or source (e.g., 'AP Photo / John Smith')"
+
       - label: "Status"
         name: "status"
         widget: "select"

@@ -25,6 +25,8 @@ const articles = defineCollection({
     reviewedAt: optionalDate,
     confidence: z.number().min(0).max(1).optional(),
     image: optionalString,
+    imageCaption: optionalString,
+    imageCredit: optionalString,
     keyTakeaways: z.array(z.string()).default([]),
   }),
 });

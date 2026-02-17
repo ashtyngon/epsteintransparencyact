@@ -15,7 +15,7 @@ interface Props {
 }
 
 const { article, headings = [] } = Astro.props;
-const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, relatedArticles, tags, image, keyTakeaways } = article.data;
+const { title, publishedAt, updatedAt, source, sourceUrl, summary, people, relatedArticles, tags, image, imageCaption, imageCredit, keyTakeaways } = article.data;
 
 // Load related article data for display
 const { getCollection } = await import('astro:content');
@@ -83,16 +83,23 @@ const hasToc = tocHeadings.length >= 4;
 
     <!-- Hero image (if exists) -->
     {image && (
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 -mt-4">
+      <figure class="max-w-4xl mx-auto px-4 sm:px-6 -mt-4">
         <div class="aspect-[16/9] overflow-hidden rounded-lg bg-surface-dark">
           <img
             src={image}
-            alt={title}
+            alt={imageCaption || title}
             class="w-full h-full object-cover"
             loading="eager"
           />
         </div>
-      </div>
+        {(imageCaption || imageCredit) && (
+          <figcaption class="mt-2 text-xs text-text-muted leading-relaxed">
+            {imageCaption && <span>{imageCaption}</span>}
+            {imageCaption && imageCredit && <span> — </span>}
+            {imageCredit && <span class="text-text-muted/70">{imageCredit}</span>}
+          </figcaption>
+        )}
+      </figure>
     )}
 
     <!-- Article body with optional sidebar -->

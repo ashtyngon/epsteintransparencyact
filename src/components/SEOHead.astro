@@ -23,10 +23,8 @@ const {
 
 const siteUrl = 'https://epsteintransparencyact.com';
 const fullTitle = title === 'Home'
-  ? 'Epstein Transparency Act Latest News — Epstein Files Updates | Epstein Transparency Project'
-  : title === 'News'
-  ? 'Epstein Transparency Act News — Latest Updates on the Epstein Files'
-  : `${title} — Epstein Transparency Project`;
+  ? 'Epstein Files Tracker — Names, Documents & DOJ Releases (Updated Daily)'
+  : `${title} — Epstein Files Tracker`;
 const canonicalUrl = canonical || Astro.url.href;
 const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
 

@@ -44,8 +44,10 @@ const initials = name.split(' ').map((n: string) => n[0]).join('').slice(0, 2);
 const jsonLd = personJsonLd({
   name,
   shortBio,
+  role,
   slug: person.id,
   image,
+  sources,
 });
 ---
 
