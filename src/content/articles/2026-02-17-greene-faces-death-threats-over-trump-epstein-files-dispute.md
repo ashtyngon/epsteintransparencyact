@@ -6,7 +6,7 @@ source: The Independent (US)
 sourceUrl: https://www.independent.co.uk/news/world/americas/us-politics/trump-marjorie-taylor-greene-special-election-georgia-b2921610.html
 summary: Donald Trump has broken his silence on Marjorie Taylor Greene, posting a social media attack on the former Georgia congresswoman who recently lost her seat afte
 image: https://static.independent.co.uk/2026/02/17/4/03/TrumpMTG.jpeg
-status: review
+status: published
 articleType: feature
 people:
   - donald-trump
