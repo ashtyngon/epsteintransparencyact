@@ -5,7 +5,7 @@ updatedAt: ''
 source: PBS NewsHour
 sourceUrl: https://www.pbs.org/newshour/nation/thomas-pritzker-steps-down-from-hyatt-board-saying-he-deeply-regrets-association-with-epstein
 summary: Thomas Pritzker stepped down from the board of Hyatt Hotels Corporation on Tuesday, citing his contact with Jeffrey Epstein as the reason for his departure.
-image: https://pritzkerorg.com/wp-content/uploads/2021/04/tom-pritzker.jpg
+image: ''
 status: published
 articleType: news
 people:
@@ -16,7 +16,6 @@ relatedArticles:
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
 tags:
-  - associates
   - document-release
 keyTakeaways:
   - Thomas Pritzker resigned from Hyatt Hotels board, citing 'terrible judgment' in maintaining contact with Jeffrey Epstein.
@@ -31,7 +30,7 @@ reviewedAt: 2026-02-17T13:22:00.000-05:00
 
 Thomas Pritzker resigned from the board of Hyatt Hotels Corporation, citing his contact with Jeffrey Epstein as the reason for his departure.
 
-`"I exercised terrible judgment in maintaining contact with them, and there is no excuse for failing to distance myself sooner," Pritzker said in a `[`statement`](https://newsroom.hyatt.com/021626-Hyatt-Announces-Thomas-J-Pritzker-Retires-as-Executive-Chairman-and-Will-Not-Seek-Re-Election-to-Board-of-Directors-Mark-S-Hoplamazian-Assumes-Combined-Role-of-Chairman-of-the-Board-and-Chief-Executive-Officer)`.`
+> "I exercised terrible judgment in maintaining contact with them, and there is no excuse for failing to distance myself sooner," Pritzker said in a [statement](https://newsroom.hyatt.com/021626-Hyatt-Announces-Thomas-J-Pritzker-Retires-as-Executive-Chairman-and-Will-Not-Seek-Re-Election-to-Board-of-Directors-Mark-S-Hoplamazian-Assumes-Combined-Role-of-Chairman-of-the-Board-and-Chief-Executive-Officer).
 
 His statement did not specify when his contact with Epstein began or ended, what their interactions involved, or whether they included business dealings. Pritzker also did not say whether he has been contacted by law enforcement.
 
