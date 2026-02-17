@@ -49,6 +49,11 @@ collections:
       - label: "Analysis"
         field: articleType
         pattern: "analysis"
+    view_groups:
+      - label: "By Status"
+        field: status
+      - label: "By Type"
+        field: articleType
     summary: "{{title}} — {{source}} ({{status}})"
     fields:
       - label: "Title"
@@ -118,28 +123,12 @@ collections:
         widget: "list"
         required: false
         hint: "Person slugs (e.g., pam-bondi, jeffrey-epstein)"
-        field:
-          label: "Person"
-          name: "person"
-          widget: "relation"
-          collection: "people"
-          value_field: "{{slug}}"
-          search_fields: ["name", "role"]
-          display_fields: ["name"]
 
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
         required: false
         hint: "Slugs of related articles"
-        field:
-          label: "Article"
-          name: "article"
-          widget: "relation"
-          collection: "articles"
-          value_field: "{{slug}}"
-          search_fields: ["title"]
-          display_fields: ["title"]
 
       - label: "Tags"
         name: "tags"
@@ -215,6 +204,9 @@ collections:
       - label: "Victim/Survivor"
         field: category
         pattern: "victim-survivor"
+    view_groups:
+      - label: "By Category"
+        field: category
     summary: "{{name}} — {{role}} ({{category}})"
     fields:
       - label: "Name"
@@ -273,14 +265,6 @@ collections:
         widget: "list"
         required: false
         hint: "Person slugs of connected individuals"
-        field:
-          label: "Connection"
-          name: "connection"
-          widget: "relation"
-          collection: "people"
-          value_field: "{{slug}}"
-          search_fields: ["name"]
-          display_fields: ["name"]
 
       - label: "First Mentioned Date"
         name: "firstMentionedDate"
@@ -321,7 +305,7 @@ collections:
     slug: "{{slug}}"
     extension: "md"
     format: "yaml-frontmatter"
-    sortable_fields: ["date", "title", "era", "significance"]
+    sortable_fields: ["date", "title", "era", "significance", "order"]
     view_filters:
       - label: "Major"
         field: significance
@@ -341,6 +325,11 @@ collections:
       - label: "Transparency"
         field: era
         pattern: "transparency"
+    view_groups:
+      - label: "By Era"
+        field: era
+      - label: "By Significance"
+        field: significance
     summary: "{{title}} — {{date}} ({{era}})"
     fields:
       - label: "Title"
@@ -425,40 +414,19 @@ collections:
         name: "people"
         widget: "list"
         required: false
-        field:
-          label: "Person"
-          name: "person"
-          widget: "relation"
-          collection: "people"
-          value_field: "{{slug}}"
-          search_fields: ["name"]
-          display_fields: ["name"]
+        hint: "Person slugs"
 
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
         required: false
-        field:
-          label: "Article"
-          name: "article"
-          widget: "relation"
-          collection: "articles"
-          value_field: "{{slug}}"
-          search_fields: ["title"]
-          display_fields: ["title"]
+        hint: "Article slugs"
 
       - label: "Related Events"
         name: "relatedEvents"
         widget: "list"
         required: false
-        field:
-          label: "Event"
-          name: "event"
-          widget: "relation"
-          collection: "timeline"
-          value_field: "{{slug}}"
-          search_fields: ["title"]
-          display_fields: ["title"]
+        hint: "Timeline event slugs"
 
       - label: "Sources"
         name: "sources"
@@ -545,14 +513,7 @@ collections:
         name: "people"
         widget: "list"
         required: false
-        field:
-          label: "Person"
-          name: "person"
-          widget: "relation"
-          collection: "people"
-          value_field: "{{slug}}"
-          search_fields: ["name"]
-          display_fields: ["name"]
+        hint: "Person slugs"
 
       - label: "Tags"
         name: "tags"
