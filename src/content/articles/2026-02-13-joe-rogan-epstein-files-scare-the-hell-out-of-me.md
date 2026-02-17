@@ -26,7 +26,7 @@ tags:
   - political
 keyTakeaways:
   - "Joe Rogan told Black Rifle Coffee Company chair Evan Hafer that the Epstein files 'scare the s--- out of me' and called them 'definitely not a hoax.'"
-  - "Rogan's comments came days after his own name appeared in the Epstein files, making his reaction particularly notable."
+  - "Rogan's name appeared in a 2017 email where Epstein asked physicist Lawrence Krauss to introduce them after seeing Krauss on Rogan's show. Krauss tried but Rogan never responded, and no meeting occurred."
   - "The podcast episode aired as the files had already forced out executives at Goldman Sachs and DP World, and triggered congressional subpoenas for Les Wexner and Lord Mandelson."
   - "Rogan hosts one of the most-listened-to podcasts in the world, amplifying public attention to the Epstein document releases."
 status: published
@@ -39,7 +39,7 @@ Joe Rogan said the Epstein files "scare the s--- out of me" and called them "def
 
 "This is the one that I hate the most," Rogan told Black Rifle Coffee Company chair Evan Hafer, according to The Hill.<sup>[1](#ref-1)</sup>
 
-The comments came days after Rogan's own name appeared in the files.<sup>[1](#ref-1)</sup> Rogan hosts one of the most-listened-to podcasts in the world.
+The comments came days after Rogan's own name appeared in the files — specifically in a September 2017 email exchange where Epstein asked physicist Lawrence Krauss to introduce them after seeing Krauss on Rogan's show. Krauss attempted the introduction but reported back that Rogan was unresponsive. No meeting or direct contact between Rogan and Epstein ever occurred.<sup>[1](#ref-1)</sup><sup>[5](#ref-5)</sup> Rogan hosts one of the most-listened-to podcasts in the world.
 
 ## Context
 
@@ -57,3 +57,4 @@ Rogan's comments reflect growing public attention to the Epstein files and the o
 2. <span id="ref-2"></span>[Goldman Sachs Top Lawyer Resigns After Named in Epstein Files](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)
 3. <span id="ref-3"></span>[Dubai Ports Chief Resigns After Hundreds of Secret Epstein Emails](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed)
 4. <span id="ref-4"></span>[Lawmaker Names 6 Men Hidden in Epstein Files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act)
+5. <span id="ref-5"></span>[Joe Rogan Clarifies Epstein Files Appearance, Slams DOJ Redactions](https://thehill.com/blogs/in-the-know/5736664-joe-rogan-epstein-doj-files/) — The Hill

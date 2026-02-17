@@ -31,7 +31,7 @@ The released emails did not detail the purpose of the planned meeting, when it w
 
 Ferro's case is notable for what it illustrates about Epstein's reach into American media. His newspapers controlled editorial coverage across major metropolitan markets. While canceling the meeting suggests Ferro did not follow through on whatever engagement was proposed, the correspondence demonstrates that Epstein's network actively attempted to cultivate relationships with media executives who controlled news coverage and editorial direction.
 
-Ferro's appearance in the files came during the same week that brought other media-related revelations: British broadcaster Piers Morgan was documented 29 times in the files, and podcast host Joe Rogan addressed his own name appearing in the documents.
+Ferro's appearance in the files came during the same week that brought other media-related revelations: British broadcaster Piers Morgan was documented 29 times in the files, and podcast host [Joe Rogan](/people/joe-rogan) addressed his own name appearing in the documents — his name surfaced in a 2017 email where Epstein asked physicist Lawrence Krauss to introduce them, though Rogan never responded and no meeting occurred.
 
 ## Context
 

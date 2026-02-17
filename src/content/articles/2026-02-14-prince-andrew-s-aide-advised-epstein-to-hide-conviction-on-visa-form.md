@@ -119,7 +119,7 @@ An earlier Times investigation reported on how Epstein maintained access to prom
 
 ## Public Reaction Intensifies
 
-Podcast host Joe Rogan said the files "scare the hell out of me" during his broadcast this week, reflecting broader public reaction to the scope of connections revealed. Newly released video from Epstein's office showed interactions with visitors whose identities remain under analysis.
+Podcast host Joe Rogan — whose name appeared in a 2017 email where Epstein asked physicist Lawrence Krauss to introduce them, though Rogan never responded and no meeting occurred — said the files "scare the hell out of me" during his broadcast this week, reflecting broader public reaction to the scope of connections revealed. Newly released video from Epstein's office showed interactions with visitors whose identities remain under analysis.
 
 Media mogul Michael Ferro canceled a last-minute meeting with Epstein, according to correspondence. Piers Morgan appeared 29 times in the files, primarily in connection with social events and potential media projects.
 

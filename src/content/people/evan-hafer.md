@@ -28,7 +28,7 @@ Hafer is a U.S. Army veteran who served in the Special Forces (Green Berets) and
 
 In February 2026, Hafer was the interviewer during a podcast conversation in which Joe Rogan delivered his most notable comments about the Epstein files. During the exchange, Rogan told Hafer that the Epstein files "scare the s--- out of me" and called them "definitely not a hoax." Rogan added, "This is the one that I hate the most."
 
-The conversation, reported by The Hill, took place days after Rogan's own name appeared in the Epstein files — making his reaction, delivered to Hafer on the podcast, particularly significant. Rogan hosts one of the most-listened-to podcasts in the world, and his comments amplified public attention to the document releases at a moment when the files had already forced resignations at Goldman Sachs and DP World and triggered congressional subpoenas for [Leslie Wexner](/people/leslie-wexner) and Lord Mandelson.
+The conversation, reported by The Hill, took place days after Rogan's own name appeared in the Epstein files — specifically in a 2017 email where Epstein asked physicist Lawrence Krauss to introduce them, though Rogan never responded and no meeting occurred — making his reaction, delivered to Hafer on the podcast, particularly significant. Rogan hosts one of the most-listened-to podcasts in the world, and his comments amplified public attention to the document releases at a moment when the files had already forced resignations at Goldman Sachs and DP World and triggered congressional subpoenas for [Leslie Wexner](/people/leslie-wexner) and Lord Mandelson.
 
 ## Context
 

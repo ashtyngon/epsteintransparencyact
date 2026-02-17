@@ -87,7 +87,7 @@ Being named in the files does not establish wrongdoing. But it has resulted in s
 
 Multiple questions remain unanswered: how many others may have been named incorrectly; which relationships documented in the files reflect substantive contact versus incidental mention; and what information is still being withheld and on what basis.<sup>[1](#ref-1)</sup>
 
-Joe Rogan stated this week that the Epstein files "scare the hell out of me."<sup>[9](#ref-9)</sup>
+Joe Rogan — whose name appeared in a 2017 email where Epstein asked physicist Lawrence Krauss to introduce them, though Rogan never responded and no meeting occurred — stated this week that the Epstein files "scare the hell out of me."<sup>[9](#ref-9)</sup>
 
 ## References
 

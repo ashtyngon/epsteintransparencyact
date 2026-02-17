@@ -33,7 +33,7 @@ The 29 mentions appeared primarily in connection with social events and potentia
 
 Morgan has publicly disputed and refused to accept that his name appears in the documents. His denial has persisted despite BuzzFeed's published breakdown documenting each of the 29 instances. Morgan has not provided an alternative explanation for the documented mentions.
 
-His approach stands in contrast to other media figures named in the files. Podcast host Joe Rogan, whose name also appeared in the released documents, acknowledged the mention on air and provided context about the nature of the reference. The two responses illustrate different strategies by public figures confronted with their documented proximity to [Jeffrey Epstein](/people/jeffrey-epstein)'s network.
+His approach stands in contrast to other media figures named in the files. Podcast host [Joe Rogan](/people/joe-rogan), whose name appeared in a 2017 email where Epstein asked physicist Lawrence Krauss to introduce them (Rogan never responded and no meeting occurred), publicly acknowledged the mention on air and explained the full context. The two responses illustrate different strategies by public figures confronted with their documented proximity to [Jeffrey Epstein](/people/jeffrey-epstein)'s network.
 
 ## Context
 

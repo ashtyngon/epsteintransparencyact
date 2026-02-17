@@ -41,7 +41,7 @@ The files do not detail what Rubenstein and Epstein discussed or where the meeti
 
 ## Responses to the Files
 
-Rubenstein has not publicly addressed the documents. [Joe Rogan addressed his appearance](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me) in the files, providing context about his contact.<sup>[2](#ref-2)</sup> Most individuals named in the documents have not commented publicly.
+Rubenstein has not publicly addressed the documents. [Joe Rogan addressed his appearance](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me) in the files — his name surfaced in a 2017 email where Epstein asked physicist Lawrence Krauss to introduce them, but Rogan never responded and no meeting occurred.<sup>[2](#ref-2)</sup> Most individuals named in the documents have not commented publicly.
 
 The documents continue to surface as journalists work through [millions of files](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) released following passage of [the Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law).<sup>[3](#ref-3)</sup>
 

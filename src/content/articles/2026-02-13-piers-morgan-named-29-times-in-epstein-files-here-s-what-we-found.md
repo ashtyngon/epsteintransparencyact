@@ -37,9 +37,9 @@ BuzzFeed titled its article "Piers Morgan Wouldn't Accept His Name Is In The Eps
 
 ## Other Media Figures in the Files
 
-Morgan is not the only media personality whose name appears in the files. [Joe Rogan recently addressed his own name surfacing in the documents](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me), acknowledging the mention and providing context about his contact.<sup>[2](#ref-2)</sup>
+Morgan is not the only media personality whose name appears in the files. [Joe Rogan's name surfaced](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me) in a 2017 email exchange where Epstein asked physicist Lawrence Krauss to introduce him to Rogan; Krauss tried but Rogan never responded, and no meeting occurred.<sup>[2](#ref-2)</sup> Rogan publicly acknowledged the mention and explained he declined after looking up Epstein online.
 
-The two responses represent different approaches by public figures whose names appear in the documents. Rogan acknowledged the mention. Morgan has disputed the reports.
+The two responses represent different approaches by public figures whose names appear in the documents. Rogan acknowledged the mention and provided full context. Morgan has disputed the reports.
 
 ## Being Named in the Files
 

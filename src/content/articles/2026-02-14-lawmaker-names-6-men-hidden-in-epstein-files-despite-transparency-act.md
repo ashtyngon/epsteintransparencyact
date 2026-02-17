@@ -104,7 +104,7 @@ The Justice Department's position is that it should determine what information i
 
 ## What the Public Already Knows
 
-Some redacted names were already in the public domain. Orioles owner David Rubenstein was named in Epstein files, though his connection had been previously reported. Piers Morgan appeared 29 times in the files, largely in contexts related to his journalism career. Joe Rogan addressed his name appearing in the files on his podcast, stating the files "scare the hell out of me."
+Some redacted names were already in the public domain. Orioles owner David Rubenstein was named in Epstein files, though his connection had been previously reported. Piers Morgan appeared 29 times in the files, largely in contexts related to his journalism career. Joe Rogan addressed his name appearing in the files on his podcast — his name surfaced in a 2017 email where Epstein asked physicist Lawrence Krauss to arrange an introduction, but Rogan never responded and no meeting occurred — stating the files "scare the hell out of me."
 
 Released emails contradicted several of Prince Andrew's statements from his 2019 BBC interview about his relationship with Epstein and Ghislaine Maxwell. Nobel Committee leader Thorbjorn Jagland received gifts from Epstein, according to emails that were initially redacted.
 

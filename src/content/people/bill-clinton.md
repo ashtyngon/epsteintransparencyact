@@ -1,7 +1,7 @@
 ---
 name: "Bill Clinton"
-seoTitle: "Bill Clinton Epstein Flights — 26 Times on Private Jet"
-seoDescription: "Former president flew on Epstein's jet at least 26 times with Maxwell, including Africa trip. No accusers allege misconduct by Clinton."
+seoTitle: "Bill Clinton Epstein Flight Logs — 26 Flights, How Many Trips, Island Visits"
+seoDescription: "Bill Clinton appeared on Epstein flight logs 26 times (at least 5-6 trips). Documented flights 2001-2003 including Africa trip. No flights to Epstein's island in logs. Full sourced breakdown."
 aliases:
   - "President Clinton"
   - "William Jefferson Clinton"
@@ -37,6 +37,8 @@ sensitive: false
 
 Bill Clinton's relationship with Jeffrey Epstein is among the most extensively documented of any public figure's — and among the most difficult to fully assess. The flight logs are extensive. The photographs are numerous. The public statements have been carefully lawyered. And the central question — what exactly Clinton knew about Epstein's crimes — remains unresolved.
 
+**Key facts:** Clinton's name appears on Epstein's flight logs **26 times** (representing at least 5-6 distinct trips, not the "4 trips" Clinton claimed). All documented flights occurred between 2001 and 2003. **No flight logs place Clinton on flights to Epstein's island** (Little St. James). No accuser has alleged criminal misconduct by Clinton under oath.
+
 What distinguishes the Clinton-Epstein connection from many others in the case is the sheer volume of documented contact: at least 26 flight segments on Epstein's aircraft, trips with [Ghislaine Maxwell](/people/ghislaine-maxwell), White House visits by Epstein, and Foundation donations. This is not a case of a name in a contacts book. It is a documented, multi-year association.
 
 ## How They Connected (Early to Mid-1990s)
@@ -53,17 +55,23 @@ White House visitor logs show Jeffrey Epstein visited the Clinton White House. R
 
 The exact count has varied across reports — from a single confirmed visit to as many as 17, depending on the source and methodology. The most rigorously documented claim is at least one visit. Clinton White House visitor logs are available through the National Archives under FOIA.
 
-## The Flight Logs
+## The Flight Logs: How Many Times Did Clinton Fly on Epstein's Plane?
 
 This is the most extensively documented aspect of the relationship. Flight logs for Epstein's Boeing 727 — known colloquially as the "Lolita Express" — were subpoenaed and entered into evidence in the Giuffre v. Maxwell civil lawsuit.
 
 ![A page from the flight manifests for Epstein's Boeing 727 listing passenger names](/images/documents/flight-logs-page.jpg)
 
-Clinton's name appears on the flight manifests at least 26 times. However, this represents 26 flight *segments*, not 26 separate trips. A single round trip with a stop could generate three or four log entries. The flights are documented between approximately 2001 and 2003.
+**Clinton's name appears on the flight manifests at least 26 times.** However, this represents 26 flight *segments*, not 26 separate trips. A single round trip with a stop could generate three or four log entries. The flights are documented between approximately 2001 and 2003.
 
-Clinton, through a spokesperson, claimed in 2019 that he took "a total of four trips" on Epstein's plane. Independent analyses — including by FactCheck.org — have noted that while multi-leg trips account for a significant portion of the gap between "4 trips" and "26 flights," the actual number of distinct trips may be five or six, not four. The Clinton statement appears to understate the number of trips.
+### Number of Trips vs. Number of Flights
 
-The key destinations documented in the logs include countries in Africa (the September 2002 trip), Europe, and Asia, as well as various U.S. cities. No flight logs show Clinton as a passenger on flights to Little St. James Island — Epstein's private island in the U.S. Virgin Islands.
+Clinton, through a spokesperson, claimed in 2019 that he took "a total of four trips" on Epstein's plane. Independent analyses — including by FactCheck.org — have noted that while multi-leg trips account for a significant portion of the gap between "4 trips" and "26 flights," **the actual number of distinct trips may be five or six, not four.** The Clinton statement appears to understate the number of trips.
+
+The key destinations documented in the logs include countries in Africa (the September 2002 trip), Europe, and Asia, as well as various U.S. cities.
+
+### Did Clinton Fly to Epstein's Island?
+
+**No flight logs show Clinton as a passenger on flights to Little St. James Island** — Epstein's private island in the U.S. Virgin Islands. This specific question is addressed in more detail below.
 
 ## The Africa Trip (September 2002)
 
@@ -84,7 +92,7 @@ Countries visited reportedly included Ghana, Nigeria, Rwanda, Mozambique, and So
 
 This trip accounts for a large share of the flight log entries. A photograph from the trip, published by the New York Post in 2020, shows Clinton receiving a neck massage from Chauntae Davies — a former Epstein associate who has said she was a victim. Davies confirmed the photograph was real but told media she did not consider Clinton to have done anything inappropriate and that the massage was brief and consensual in a casual context.
 
-## The Question of Little St. James
+## Did Clinton Visit Epstein's Island?
 
 Whether Clinton visited Epstein's private island is one of the most persistent questions in the case. The available evidence is mixed:
 
@@ -126,9 +134,9 @@ However, some flight legs do not list Secret Service personnel. This has raised 
 
 The Secret Service has not publicly commented in detail on the specific arrangements for Clinton's travel on Epstein's aircraft. The question remains unresolved.
 
-## The Post-Conviction Contact Question
+## Contact After Epstein's 2008 Conviction
 
-Clinton's 2019 statement placed his Epstein contacts in the early 2000s — before Epstein's legal troubles. However, reporting — particularly from the New York Post — has indicated that Clinton visited Epstein's Manhattan townhouse in 2010 or 2011, after Epstein had served his Florida sentence for the 2008 plea deal.
+Clinton's 2019 statement placed his Epstein contacts in the early 2000s — before Epstein's legal troubles. **No flight logs document Clinton on Epstein's plane after 2003**, and no publicly available evidence places Clinton on Epstein's aircraft after the 2008 plea deal. However, reporting — particularly from the New York Post — has indicated that Clinton visited Epstein's Manhattan townhouse in 2010 or 2011, after Epstein had served his Florida sentence for the 2008 plea deal.
 
 Clinton's representatives have not specifically confirmed or denied a post-conviction visit. The distinction matters: contact before Epstein's conviction can be characterized as an association with a philanthropist; contact after the conviction — when Epstein was a registered sex offender — requires a different explanation.
 
