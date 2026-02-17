@@ -1,7 +1,6 @@
 ---
 title: Greene Faces Death Threats Over Trump Epstein Files Dispute
 publishedAt: 2026-02-16T23:31:00.000-05:00
-updatedAt: ''
 source: The Independent (US)
 sourceUrl: https://www.independent.co.uk/news/world/americas/us-politics/trump-marjorie-taylor-greene-special-election-georgia-b2921610.html
 summary: Donald Trump has broken his silence on Marjorie Taylor Greene, posting a social media attack on the former Georgia congresswoman who recently lost her seat afte
@@ -26,8 +25,6 @@ keyTakeaways:
   - The former Georgia congresswoman was among the most vocal Republicans demanding unredacted release of Epstein-related documents.
 aiGenerated: true
 confidence: 0.85
-reviewedBy: ''
-reviewedAt: ''
 ---
 
 ## Trump Attacks Greene as Death Threats Mount

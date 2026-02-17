@@ -1,7 +1,6 @@
 ---
 title: Clinton Accuses Trump DOJ of Epstein Files 'Cover-Up' in BBC Interview
 publishedAt: 2026-02-16T22:32:00.000-05:00
-updatedAt: ''
 source: BBC News
 sourceUrl: https://www.bbc.com/news/articles/czx47k34yqxo
 summary: Hillary Clinton accused the Trump administration of conducting a "cover-up" by slow-walking the release of Jeffrey Epstein files during a BBC interview publishe
