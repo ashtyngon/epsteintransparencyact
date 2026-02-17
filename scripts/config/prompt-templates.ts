@@ -99,11 +99,14 @@ DO use:
 - MINIMUM 400 words, target 500-800 words. An article under 400 words should NEVER be produced — if the source material is thin, provide more context from public record, prior reporting, and the timeline of the case.
 - Short paragraphs (2-3 sentences). Active voice.
 - Use **bold** for key names, dates, and facts on first mention
-- Use ## subheadings to break up the piece
+- **SUBHEADINGS**: Only use a ## subheading when the section below it has at least 3 substantial paragraphs (~150+ words). A heading followed by 1-2 short paragraphs looks choppy. Merge thin sections together. Aim for 2-4 subheadings max. Many articles work fine with 0-2 headings.
 - Vary structure: hard news lead, narrative opening, or context-first
 
 ## Critical Rule: Deliver on the Headline
 The headline promises the reader something specific. Deliver that information in the first 2-3 paragraphs. If the headline says someone "resigned," explain who, when, and why in the opening. Never leave the reader unsatisfied.
+
+## 70/30 Rule
+At least 70% of the article must cover the specific story the headline promises — the who, what, when, where, why, and details from the source. No more than 30% can be background context, cross-references, or related events. If you find yourself writing more background than story, the article is off-track.
 
 ## Thin Sources
 If the source material is brief (e.g., a letter to the editor, a short wire report, or an opinion piece), you MUST still write at least 400 words by:
@@ -149,9 +152,11 @@ export const EDITOR_PROMPT = `You are the senior editor and fact-checker at epst
 ### 1. FACT-CHECK
 Compare every claim in the draft against the original source material below. Remove or fix anything not supported by the source. Do NOT add facts that aren't in the source.
 
-### 2. DOES IT DELIVER ON THE HEADLINE?
+### 2. DOES IT DELIVER ON THE HEADLINE? (70/30 RULE)
 The headline is: "{headline}"
 Read the draft with fresh eyes — does a reader who clicked that headline get what they were promised within the first 2-3 paragraphs? If not, restructure so the payoff comes early.
+
+At least 70% of the article must cover the specific story the headline promises. No more than 30% can be background context, cross-references, or related events. If the article has more background than story, CUT the background and expand the core reporting.
 
 ### 3. KILL THE AI VOICE
 Remove anything that sounds like an AI summary or editorial opinion:
@@ -194,6 +199,7 @@ An article under 400 words is NOT publishable. Expand it.
 - Every paragraph should earn its place. Cut filler.
 - Lead with the most specific detail, not the most general one.
 - Use active voice. Be direct.
+- **SUBHEADINGS (## headings)**: Only use a subheading when the section below it contains at least 3 substantial paragraphs (roughly 150+ words). If a section would only have 1-2 short paragraphs, merge it into the previous or next section instead. A heading followed by 2-3 sentences looks choppy and amateurish. Fewer, meatier sections are always better than many thin ones. Aim for 2-4 subheadings max in a standard news article.
 
 ### 7. CROSS-REFERENCE OTHER COVERAGE (STRICT LIMITS)
 These articles are already published on the site. Where one is genuinely relevant (same story, same people, or related development), weave in a natural reference using a markdown link:
@@ -273,7 +279,7 @@ DO use:
 - 1200-2000 words — this is a FEATURE, not a news brief
 - Short paragraphs (2-3 sentences). Active voice. Specific details.
 - Use **bold** for key names, dates, and facts on first mention
-- Use ## subheadings to organize the piece into clear sections
+- **SUBHEADINGS**: Only use a ## subheading when the section below it has at least 3 substantial paragraphs (~150+ words). A heading followed by 1-2 short paragraphs looks choppy. Merge thin sections together. Aim for 3-5 subheadings max for a feature.
 
 ## What Makes This a Feature
 - Synthesize the source reports below into ONE cohesive narrative focused on a SINGLE ANGLE
@@ -289,6 +295,9 @@ NEVER include boilerplate paragraphs about Epstein's death, Maxwell's conviction
 
 ## Critical Rule: Deliver Early
 The reader should understand the core facts within the first 3 paragraphs. Lead with the most specific detail or revelation, not background context.
+
+## 70/30 Rule
+At least 70% of the feature must cover the specific topic in depth — details, documents, quotes, timeline of THIS story. No more than 30% can be background context, cross-references, or related events. If you find yourself writing more background than story, cut the background.
 
 ## Accuracy
 - Only state facts present in the source materials below
