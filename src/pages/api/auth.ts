@@ -1,9 +1,26 @@
 export const prerender = false;
 
-// OAuth is handled in middleware.ts to run before trailing slash redirects.
-// This file exists so Astro registers /api/auth as a valid SSR route.
 import type { APIRoute } from 'astro';
+import { getEnv } from '../../lib/env';
 
-export const GET: APIRoute = async () => {
-  return new Response('OAuth handler not reached', { status: 500 });
+export const GET: APIRoute = async ({ locals, url }) => {
+  const cfEnv = getEnv(locals);
+  const clientId = cfEnv.GITHUB_CLIENT_ID;
+
+  if (!clientId) {
+    return new Response('GitHub Client ID not configured. Check Cloudflare env vars.', { status: 500 });
+  }
+
+  const callbackUrl = `${url.origin}/api/callback/`;
+  const params = new URLSearchParams({
+    client_id: clientId,
+    redirect_uri: callbackUrl,
+    scope: 'repo,user',
+    state: crypto.randomUUID(),
+  });
+
+  return Response.redirect(
+    `https://github.com/login/oauth/authorize?${params}`,
+    302
+  );
 };
