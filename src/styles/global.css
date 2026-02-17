@@ -123,6 +123,68 @@
   font-weight: 700;
 }
 
+/* Inline citation superscripts */
+.prose-article sup {
+  font-size: 0.7em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.4em;
+}
+
+.prose-article sup a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-family: 'Inter', system-ui, sans-serif;
+  padding: 0 1px;
+}
+
+.prose-article sup a:hover {
+  text-decoration: underline;
+}
+
+/* References section at bottom of article */
+.prose-article h2#references {
+  font-size: 0.875rem;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  border-top: 1px solid var(--color-border);
+  padding-top: 1.5em;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+.prose-article h2#references + ol,
+.prose-article h2#references ~ ol {
+  font-size: 0.8125rem;
+  font-family: 'Inter', system-ui, sans-serif;
+  line-height: 1.6;
+  color: var(--color-text-muted);
+  padding-left: 1.5em;
+  list-style-type: decimal;
+}
+
+.prose-article h2#references + ol li,
+.prose-article h2#references ~ ol li {
+  margin-bottom: 0.4em;
+}
+
+.prose-article h2#references + ol a,
+.prose-article h2#references ~ ol a {
+  color: var(--color-accent);
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.prose-article h2#references + ol a:hover,
+.prose-article h2#references ~ ol a:hover {
+  text-decoration: underline;
+}
+
 /* Source badge pill */
 .source-badge {
   display: inline-flex;

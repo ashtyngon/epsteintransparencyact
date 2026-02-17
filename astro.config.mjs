@@ -14,7 +14,7 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   integrations: [
-    markdoc(),
+    markdoc({ allowHTML: true }),
     sitemap(),
   ],
 });
