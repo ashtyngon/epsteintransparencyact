@@ -36,7 +36,7 @@ reviewedAt: ''
 
 Wexner's portrait hangs at Ohio State University's Wexner Medical Center. His name appears on buildings and programs across the institution following decades of philanthropic donations. The university has not announced any review of these naming rights following the document release.
 
-[![](https://trustees.osu.edu/sites/default/files/styles/square_large/public/media/image/2018/11/wexner_les.jpg "Photo of Wexner from the Ohio State University Board of Trustees")](https://trustees.osu.edu/sites/default/files/styles/square_large/public/media/image/2018/11/wexner_les.jpg?itok=6E_j3Npj)
+![Photo of Wexner from the Ohio State University Board of Trustees](https://trustees.osu.edu/sites/default/files/styles/square_large/public/media/image/2018/11/wexner_les.jpg)
 
 Documents show Wexner allegedly sent Epstein a note for his 50th birthday in 2003 that included a hand-drawn image of a woman's breasts. Wexner founded Victoria's Secret and built his fortune as a retail mogul.
 
