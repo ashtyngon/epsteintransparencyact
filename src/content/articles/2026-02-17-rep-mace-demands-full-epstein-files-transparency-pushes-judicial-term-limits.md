@@ -1,9 +1,12 @@
 ---
-title: "Rep. Mace Demands Full Epstein Files Transparency, Pushes Judicial Term Limits"
-publishedAt: "2026-02-17T04:48:17.000Z"
-source: "ABC Columbia"
-sourceUrl: "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ05BcVROdHdtdzE3VlNoeGRaSElzcVl1QTVNUkRwbU9rNkJ6UkxPMUc4Z3VfOU1WRGNQRkQ4NE83SkdJdWFtVzBtMFhuNFpTOWRPRHFUaTFmMGFKM1FRN3hpTEhoNGlGUng1ZTdXUlUtazUyenZmTUd0UWNDa25Pb2JpS21IZTJxN1A3NW8zSmZBdHlNc0F4LThmcTBKTHVFVnlsRXdXZDhkQmhWYVJzV29qUG5ZTXdMU3lHeXFxbENBRjBPWG5DSDA5ejhWSWs?oc=5"
-summary: "Rep. Nancy Mace on Monday called for complete transparency in the Epstein files and proposed term limits for federal judges during an appearance on ABC Columbia"
+title: Rep. Mace Demands Full Epstein Files Transparency, Pushes Judicial Term Limits
+publishedAt: 2026-02-16T23:48:00.000-05:00
+updatedAt: ''
+source: ABC Columbia
+sourceUrl: https://www.abccolumbia.com/2026/02/16/were-going-to-expose-it-mace-calls-for-full-transparency-in-epstein-files-judicial-term-limits/
+summary: Rep. Nancy Mace on Monday called for complete transparency in the Epstein files and proposed term limits for federal judges during an appearance on ABC Columbia
+status: review
+articleType: news
 people:
   - nancy-mace
   - jeffrey-epstein
@@ -18,14 +21,14 @@ tags:
   - political
   - breaking
 keyTakeaways:
-  - "Rep. Nancy Mace called for full transparency in Epstein files on ABC Columbia, stating 'We're going to expose it.'"
-  - "Mace proposed term limits for federal judges, which would require a constitutional amendment approved by Congress and states."
-  - "Recent study found Trump DOJ released only 2% of Epstein files despite AG Bondi's claim of releasing 'all' documents."
-  - "GOP lawmakers including Massie and Greene have challenged administration's handling of files as congressional pressure mounts."
-status: review
+  - Rep. Nancy Mace called for full transparency in Epstein files on ABC Columbia, stating 'We're going to expose it.'
+  - Mace proposed term limits for federal judges, which would require a constitutional amendment approved by Congress and states.
+  - Recent study found Trump DOJ released only 2% of Epstein files despite AG Bondi's claim of releasing 'all' documents.
+  - GOP lawmakers including Massie and Greene have challenged administration's handling of files as congressional pressure mounts.
 aiGenerated: true
-articleType: news
 confidence: 0.92
+reviewedBy: ''
+reviewedAt: ''
 ---
 
 Rep. Nancy Mace called for complete transparency in the Epstein files and proposed term limits for federal judges during an appearance on ABC Columbia. The South Carolina Republican pledged to "expose" hidden information about the convicted sex offender's network.
