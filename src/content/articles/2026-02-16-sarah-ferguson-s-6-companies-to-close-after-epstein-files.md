@@ -20,6 +20,7 @@ relatedArticles:
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-16-global-investigations-into-epstein-s-international-network-expand
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
 tags:
   - document-release
   - associates

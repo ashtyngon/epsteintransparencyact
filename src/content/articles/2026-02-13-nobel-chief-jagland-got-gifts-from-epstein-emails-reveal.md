@@ -19,6 +19,7 @@ relatedArticles:
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - document-release
   - associates

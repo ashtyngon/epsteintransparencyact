@@ -14,6 +14,7 @@ relatedArticles:
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - epstein-transparency-act-signed-into-law
+  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
 tags:
   - transparency-act
   - political

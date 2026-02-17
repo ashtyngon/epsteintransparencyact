@@ -20,6 +20,7 @@ relatedArticles:
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
   - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
 tags:
   - investigation
   - transparency-act

@@ -22,6 +22,7 @@ relatedArticles:
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
+  - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
 tags:
   - transparency-act
   - document-release
