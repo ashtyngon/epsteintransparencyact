@@ -3,7 +3,7 @@ title: "Bondi Says DOJ Released 'All' Epstein Files—Full Names Listed"
 publishedAt: "2026-02-16T03:47:27.000Z"
 source: "Mercer County Outlook"
 sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1RIQVFkWFJRSFZYQ1Z1TEp2Q19QRTRaVnJsZ3ZuR2dpMXFnNTVPM2Y4Sk9qdFByZzIxMU9ZUkZIN002bW01MjJFaGZwdGYzMXduU3FFclU5SlpfSU14QlBYcWhfY1g3azBDOWM4bXpEMmduUDRKUkJNQnZFNXJwZDRKdzZfSDVEY0ZSVldEVi1HTE5TRFlDa0NkTVJzR0RKUTVv?oc=5"
-summary: "Attorney General Pam Bondi told reporters the Department of Justice has released \"all\" Epstein files in its possession, according to a statement made on Februar"
+summary: "AG Bondi claimed the DOJ released 'all' Epstein files and provided a list of names, but multiple lawmakers say key individuals remain hidden in redactions."
 people:
   - pam-bondi
   - jeffrey-epstein

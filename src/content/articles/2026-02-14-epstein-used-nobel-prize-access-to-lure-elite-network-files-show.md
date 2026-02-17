@@ -3,15 +3,14 @@ title: "Epstein Used Nobel Prize Access to Lure Elite Network, Files Show"
 publishedAt: "2026-02-14T13:06:59.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/jeffrey-epstein-steve-bannon-norway-donald-trump-larry-summers-b2920430.html"
-summary: "Jeffrey Epstein leveraged his connection to the head of the Nobel Peace Prize committee as a recruitment tool, using the prestige of the institution to attract "
+summary: "Jeffrey Epstein leveraged his ties to the Nobel Peace Prize committee chairman to recruit elite contacts, using institutional prestige to expand his network."
 people:
   - jeffrey-epstein
   - richard-branson
-  - larry-summers
+  - lawrence-summers
   - steve-bannon
   - donald-trump
   - kathryn-ruemmler
-  - lawrence-summers
   - thorbjorn-jagland
 relatedArticles:
   - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal

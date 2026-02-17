@@ -3,7 +3,7 @@ title: "How Elite Immunity Protected Epstein: NYT Investigation Reveals"
 publishedAt: 2026-02-13
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/12/us/politics/epstein-files.html"
-summary: "The message from the newly released Epstein files isn't hidden in coded emails or encrypted hard drives. It's staring us in the face: a sexual predator operated"
+summary: "A New York Times investigation concluded Epstein was given a 'free ride by the ruling class,' revealing how institutional power protected a sexual predator for decades."
 people:
   - jeffrey-epstein
   - leslie-wexner
@@ -57,4 +57,4 @@ The phrase "ruling class" is the Times' own language, used in its investigation 
 
 The investigation will take months to complete. The Times has assigned **24 journalists** to review the files, which would stack as high as the Empire State Building if printed. But its core finding is already documented: power protected a predator, and the cost was borne by his victims.
 
-Document releases and resignations continue. The Times investigation is focused on determining how many people knew about Epstein's conduct, how many were aware and did not act, and why no one in his circle intervened. Epstein died in August 2019 in a Manhattan jail cell. Ghislaine Maxwell was convicted in December 2021 and sentenced to 20 years in June 2022. Yet the full scope of his network remains only partially exposed.
+Document releases and resignations continue. The Times investigation is focused on determining how many people knew about Epstein's conduct, how many were aware and did not act, and why no one in his circle intervened. Yet the full scope of his network remains only partially exposed.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "Documents show Wexner allegedly sent Epstein a 2003 birthday note featuring a hand-drawn image of a woman's breasts."
   - "Wexner's name and portrait remain displayed at Ohio State University, which received over status: 00 million in donations from him."
   - "Congress subpoenaed Wexner this month to testify about his relationship with Epstein spanning 1985 through 2019."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95

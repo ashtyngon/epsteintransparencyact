@@ -3,7 +3,7 @@ title: "Rep. Mace Accuses DOJ of Hiding Names in Epstein Files Release"
 publishedAt: "2026-02-15T23:10:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5739802-mace-criticizes-doj-redactions/"
-summary: "Rep. Nancy Mace criticized the Department of Justice over its recent letter announcing the completion of the Epstein files release, claiming key names were excl"
+summary: "Rep. Nancy Mace accused the DOJ of hiding names in the Epstein files, saying 'they're missing names' after the agency declared its document release complete."
 people:
   - nancy-mace
   - ghislaine-maxwell

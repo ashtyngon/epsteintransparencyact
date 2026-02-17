@@ -3,7 +3,7 @@ title: "Trump Calls for End to Epstein Investigation"
 publishedAt: 2026-02-13
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/video/24-the-takeout-with-major-garrett/"
-summary: "Trump Says U.S. Should Move On From Epstein Investigation in CBS Interview President Donald Trump stated the United States should move on from the Jeffrey Epste"
+summary: "President Trump told CBS News the U.S. should move on from the Epstein investigation, signaling resistance to further transparency as congressional probes continue."
 people:
   - donald-trump
   - jeffrey-epstein
@@ -24,8 +24,6 @@ aiGenerated: true
 confidence: 0.75
 ---
 
-# Trump Says U.S. Should Move On From Epstein Investigation in CBS Interview
-
 **President Donald Trump** stated the United States should move on from the **Jeffrey Epstein investigation** during an interview on CBS News' "The Takeout with Major Garrett" aired **February 12, 2026**. The comments mark Trump's most direct position on the ongoing Epstein files controversy since returning to office.
 
 The statement comes as multiple investigations into Epstein's network remain active and public pressure continues for full transparency regarding the deceased financier's associates and activities. Trump's remarks may signal a shift in federal priorities regarding document releases and prosecutorial efforts connected to the case.
@@ -43,5 +41,3 @@ Trump's statement raises questions about the future of federal investigations in
 Epstein's original 2008 plea deal, negotiated by then-U.S. Attorney Alexander Acosta with Epstein's defense team — which included Alan Dershowitz and Kenneth Starr — has long been criticized for its leniency, resulting in just 13 months of county jail with work release privileges.
 
 Multiple civil lawsuits against Epstein's estate and alleged associates remain pending. Several survivors have called for full disclosure of documents that could identify additional perpetrators and enablers in Epstein's trafficking operation. It remains unclear whether Trump's remarks represent official policy or personal opinion, and whether they will affect Justice Department priorities under Attorney General Pam Bondi.
-
-Source: [CBS News](https://www.cbsnews.com/video/24-the-takeout-with-major-garrett/)

@@ -3,7 +3,7 @@ title: "Massie Rips Trump DOJ Over Epstein File Redactions"
 publishedAt: "2026-02-15T16:57:15.000Z"
 source: "Washington Examiner"
 sourceUrl: "https://www.washingtonexaminer.com/news/house/4452272/thomas-massie-todd-blanche-redactions-epstein-files-les-wexner/"
-summary: "Rep. Thomas Massie, a Kentucky Republican and chair of the House subcommittee investigating Jeffrey Epstein's network, criticized President Trump on Sunday for "
+summary: "Rep. Thomas Massie criticized President Trump and the DOJ over continued redactions of Epstein files, escalating a rift within the Republican Party over transparency."
 people:
   - thomas-massie
   - donald-trump
@@ -47,24 +47,24 @@ Rep. Thomas Massie criticized President Trump's Justice Department over its hand
 
 "If you're not going to be transparent about this, you don't deserve to be called the transparency administration," Massie said.
 
-The Kentucky Republican chairs the House subcommittee investigating Jeffrey Epstein's network. His comments target the DOJ's approach to documents mandated for release under the [Epstein Transparency Act](/articles/epstein-transparency-act-signed-into-law), which Congress passed with bipartisan support.
+The Kentucky Republican chairs the House subcommittee investigating Jeffrey Epstein's network. His comments target the DOJ's approach to documents mandated for release under the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), which Congress passed with bipartisan support.
 
 ## Redactions Controversy
 
-The Trump DOJ has faced [accusations of covering up](/articles/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) information through excessive redactions in released files. The FBI has [defended its redactions](/articles/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) by citing ongoing investigations and privacy concerns.
+The Trump DOJ has faced [accusations of covering up](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) information through excessive redactions in released files. The FBI has [defended its redactions](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) by citing ongoing investigations and privacy concerns.
 
-Massie [previously named six men](/articles/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities remained redacted in official releases despite the transparency law. Last week, he [declared "I am not suicidal"](/articles/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted over his investigation.
+Massie [previously named six men](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities remained redacted in official releases despite the transparency law. Last week, he [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted over his investigation.
 
 ## Republican Split
 
-Massie joins other Republicans who have broken with Trump over Epstein file handling. Rep. Marjorie Taylor Greene [called the administration's approach](/articles/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) a "political miscalculation." Trump has [called for ending the Epstein investigation](/articles/2026-02-13-trump-calls-for-end-to-epstein-investigation) entirely.
+Massie joins other Republicans who have broken with Trump over Epstein file handling. Rep. Marjorie Taylor Greene [called the administration's approach](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) a "political miscalculation." Trump has [called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) entirely.
 
-Multiple Trump administration figures appear in released files, including Commerce Secretary Howard Lutnick, whose [Epstein ties have become a political liability](/articles/2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability), and [Trump insider Tom Barrack](/articles/2026-02-14-trump-insider-tom-barrack-named-in-epstein-files).
+Multiple Trump administration figures appear in released files, including Commerce Secretary Howard Lutnick, whose [Epstein ties have become a political liability](/news/2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability), and [Trump insider Tom Barrack](/news/2026-02-14-trump-insider-tom-barrack-named-in-epstein-files).
 
-Attorney General Pam Bondi has [resisted calls for complete unredacted releases](/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her office faced scrutiny after reports it [monitored Democrats' searches](/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches) of the Epstein files database.
+Attorney General Pam Bondi has [resisted calls for complete unredacted releases](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her office faced scrutiny after reports it [monitored Democrats' searches](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches) of the Epstein files database.
 
 ## International Response
 
-[European officials have faced consequences](/articles/2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power) for Epstein connections while U.S. figures have largely retained their positions. [France opened an investigation](/articles/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe) into a diplomat named in the files. The [UK launched a national task force](/articles/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations.
+[European officials have faced consequences](/news/2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power) for Epstein connections while U.S. figures have largely retained their positions. [France opened an investigation](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe) into a diplomat named in the files. The [UK launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations.
 
-The FBI [began its mandated review](/articles/fbi-begins-epstein-records-review) of Epstein-related records following the law's passage. The agency has not provided a timeline for releasing additional unredacted documents.
+The FBI [began its mandated review](/news/fbi-begins-epstein-records-review) of Epstein-related records following the law's passage. The agency has not provided a timeline for releasing additional unredacted documents.

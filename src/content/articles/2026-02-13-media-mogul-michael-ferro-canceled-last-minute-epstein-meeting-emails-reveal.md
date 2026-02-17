@@ -3,7 +3,7 @@ title: "Media Mogul Michael Ferro Canceled Last-Minute Epstein Meeting, Emails R
 publishedAt: "2026-02-13T23:00:39.000Z"
 source: "Chicago Tribune"
 sourceUrl: "https://www.chicagotribune.com/2026/02/13/michael-ferro-epstein-files/"
-summary: "The names kept coming—splashed across congressional speeches, leaked in emails, surfacing in millions of newly released documents. But not all of them belonged."
+summary: "Media mogul Michael Ferro canceled a last-minute meeting with Jeffrey Epstein, according to emails in the DOJ release, as Deputy AG Blanche accused lawmakers of naming 'random people.'"
 people:
   - michael-ferro
   - jeffrey-epstein
@@ -88,7 +88,7 @@ When you synthesize this week's revelations with the months of reporting that pr
 
 Epstein cultivated relationships with power. That's documented and undeniable. But those relationships ranged from co-conspirators to casual acquaintances to people who accepted donations or attended events without knowledge of his crimes. The files don't always distinguish between these categories. Neither, increasingly, does public discourse.
 
-[Congressional investigations into Les Wexner](/news/2026-02-13-congress-to-depose-wexner-in-ohio-over-epstein-ties), [legal battles against Bank of America](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), and [resignations at Goldman Sachs and DP World](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) tell part of this story. But the Ferro emails and the University of Alabama revelation tell another: Epstein embedded himself in institutions—media, academia, finance—through seemingly ordinary professional channels.
+[Congressional investigations into Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), [legal battles against Bank of America](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), and [resignations at Goldman Sachs and DP World](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) tell part of this story. But the Ferro emails and the University of Alabama revelation tell another: Epstein embedded himself in institutions—media, academia, finance—through seemingly ordinary professional channels.
 
 That access didn't make everyone complicit. But it did make everyone vulnerable—to blackmail, to association, to the kind of reputational destruction that's unfolding now.
 

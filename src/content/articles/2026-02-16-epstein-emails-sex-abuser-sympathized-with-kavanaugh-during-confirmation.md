@@ -3,7 +3,7 @@ title: "Epstein Emails: Sex Abuser Sympathized With Kavanaugh During Confirmatio
 publishedAt: "2026-02-16T12:00:26.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/16/jeffrey-epstein-brett-kavanaugh-supreme-court"
-summary: "Jeffrey Epstein closely tracked Brett Kavanaugh's Supreme Court confirmation in 2018 and exchanged messages with Ken Starr and others expressing sympathy for th"
+summary: "Jeffrey Epstein tracked Brett Kavanaugh's 2018 Supreme Court confirmation and exchanged messages expressing sympathy for the nominee, according to released DOJ emails."
 people:
   - jeffrey-epstein
   - brett-kavanaugh
@@ -42,7 +42,5 @@ Ford testified before the Senate Judiciary Committee in September 2018 that Kava
 The communications were released as part of disclosures following the Epstein Transparency Act. [Attorney General Pam Bondi has defended the release](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) as complete, though members of Congress from both parties say key information [remains heavily redacted](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions).
 
 The Kavanaugh confirmation became one of the most divisive in modern Supreme Court history.
-
-Epstein died in a Manhattan jail cell in August 2019 while awaiting trial on federal sex trafficking charges. The medical examiner ruled his death a suicide. His associate Ghislaine Maxwell was convicted of sex trafficking in 2021 and is serving a 20-year federal sentence.
 
 Starr died in 2022. Kavanaugh remains on the Supreme Court.

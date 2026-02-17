@@ -3,7 +3,7 @@ title: "Olympic Chief Casey Wasserman Exits After Maxwell Email Revelations"
 publishedAt: "2026-02-14T04:28:03.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/13/us/casey-wasserman-agency-epstein.html"
-summary: "The Epstein Files Fallout: Olympic Chief's Agency Sale Marks New Wave of Elite Casualties Casey Wasserman, the Los Angeles entertainment executive leading prepa"
+summary: "Casey Wasserman resigned from the LA 2028 Olympics committee and will sell his agency after documents revealed email correspondence with convicted trafficker Ghislaine Maxwell."
 people:
   - casey-wasserman
   - ghislaine-maxwell
@@ -41,8 +41,6 @@ articleType: feature
 confidence: 0.92
 ---
 
-# The Epstein Files Fallout: Olympic Chief's Agency Sale Marks New Wave of Elite Casualties
-
 **Casey Wasserman**, the Los Angeles entertainment executive leading preparations for the **2028 Olympic Games** and grandson of MCA founder Lew Wasserman, is preparing to sell his powerful entertainment agency after a devastating client exodus triggered by the exposure of his email correspondence with **Ghislaine Maxwell**, according to The New York Times. Maxwell was convicted on December 29, 2021 on five counts of sex trafficking and conspiracy, and sentenced to 20 years in federal prison. The move marks one of the highest-profile corporate casualties yet in the expanding fallout from the Justice Department's release of 3.5 million pages, 180,000 images, and 2,000 videos of Epstein-related documents under the Transparency Act signed November 19, 2025.
 
 Wasserman's decision to divest from the Wasserman Media Group—which he founded and built into one of the industry's most influential talent agencies—comes as newly revealed emails demonstrate direct communication between the Olympic leader and Maxwell, Jeffrey Epstein's longtime associate and convicted sex trafficker. The revelations have cost Wasserman clients and credibility at a moment when Los Angeles is positioning itself on the global stage.
@@ -51,7 +49,7 @@ The pattern is becoming unmistakable: as millions of pages of Epstein documents 
 
 ## The Accelerating Corporate Reckoning
 
-Wasserman joins a rapidly growing list of executives forced from their positions since the document releases began. Within the past week alone, [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) after emails referred to Epstein as "Uncle Jeffrey." [DP World's CEO was ousted](/news/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) after his name appeared thousands of times in the files. Multiple [college presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have stepped down or faced intense pressure.
+Wasserman joins a rapidly growing list of executives forced from their positions since the document releases began. Within the past week alone, [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails referred to Epstein as "Uncle Jeffrey." [DP World's CEO was ousted](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after his name appeared thousands of times in the files. Multiple [college presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have stepped down or faced intense pressure.
 
 The entertainment industry had largely escaped the initial waves of resignations—until now. Wasserman's fall is particularly striking given his prominence in both entertainment and international sports. As chairman of the LA28 Olympic organizing committee, he has been the public face of the city's Olympic preparations, meeting with sponsors, government officials, and international sports leaders.
 
@@ -67,7 +65,7 @@ Blanche accused the lawmakers of outing "completely random people" and character
 
 The exchange reveals a fundamental disagreement about what constitutes a legitimate public interest in disclosure. The DOJ position—that many names in the files are "random people" without criminal culpability—runs headlong into the congressional view that the public deserves to know the full scope of Epstein's network, regardless of whether individuals face charges.
 
-Rep. Massie, speaking to Spectrum News about recent CEO resignations, defended the transparency push. [Massie has been particularly vocal](/news/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) about demanding the release of names, previously identifying six men on the House floor whose identities remain redacted in official documents.
+Rep. Massie, speaking to Spectrum News about recent CEO resignations, defended the transparency push. [Massie has been particularly vocal](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) about demanding the release of names, previously identifying six men on the House floor whose identities remain redacted in official documents.
 
 The tension between DOJ caution and congressional pressure has created a chaotic information environment where some names leak through floor speeches and media reports while official documents remain heavily redacted—a dynamic that [Attorney General Bondi has faced repeated questioning about](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release).
 
@@ -83,7 +81,7 @@ The University of Alabama revelation is particularly notable because it demonstr
 
 ## The Wexner Money Trail: Campaign Finance Complications
 
-As [Congress subpoenas billionaire Leslie Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) to testify about his decades-long relationship with Epstein, WFMJ has revealed a new wrinkle: **Ohio politicians received campaign funds from Wexner**, who has been [labeled a potential co-conspirator](/news/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) by members of Congress.
+As [Congress subpoenas billionaire Leslie Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) to testify about his decades-long relationship with Epstein, WFMJ has revealed a new wrinkle: **Ohio politicians received campaign funds from Wexner**, who has been [labeled a potential co-conspirator](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) by members of Congress.
 
 The campaign finance angle adds another layer of political complexity to an already explosive story. Wexner, the founder of Victoria's Secret parent company L Brands and Epstein's only confirmed financial client, has long been known as Epstein's primary financial patron. Documents show Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0. Epstein operated out of that mansion until his arrest in July 2019.
 
@@ -95,7 +93,7 @@ The Wexner situation exemplifies a broader challenge with the Epstein files: the
 
 Legal industry publication Above the Law raised pointed questions this week about **Brad Karp**, the chairman of elite law firm **Paul, Weiss**. In an article titled "Hubris Or Poor Judgment? As Epstein Files Loomed, The Clock Was Ticking On Brad Karp's Power," the legal trade press is now openly speculating about whether top law firm leaders can survive their own Epstein associations.
 
-The scrutiny of Karp and Paul, Weiss comes as multiple law firms face questions about partners' or clients' connections to Epstein. The [Goldman Sachs resignation](/news/2026-02-13-goldmans-top-lawyer-forced-out-over-uncle-jeffrey-emails) demonstrated that even top general counsels at major financial institutions aren't immune from career-ending fallout.
+The scrutiny of Karp and Paul, Weiss comes as multiple law firms face questions about partners' or clients' connections to Epstein. The [Goldman Sachs resignation](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) demonstrated that even top general counsels at major financial institutions aren't immune from career-ending fallout.
 
 Legal industry leaders face a particular credibility challenge: as counselors to the powerful and gatekeepers of professional ethics, any suggestion of compromising associations carries additional reputational weight. The Above the Law piece suggests law firm management saw the Epstein file releases coming and had time to prepare—raising questions about why some chose not to act preemptively.
 
@@ -115,7 +113,7 @@ This distinction matters legally but has largely collapsed in the court of publi
 
 ## The Transparency Paradox
 
-The document releases have created a transparency paradox: massive volumes of information are now public, yet key details remain redacted. The DOJ's [heavy redactions](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) continue despite the passage of the Epstein Transparency Act. Meanwhile, [allegations emerged](/news/2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals) that DOJ was tracking which lawmakers searched the files.
+The document releases have created a transparency paradox: massive volumes of information are now public, yet key details remain redacted. The DOJ's [heavy redactions](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) continue despite the passage of the Epstein Transparency Act. Meanwhile, [allegations emerged](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches) that DOJ was tracking which lawmakers searched the files.
 
 Congressional critics argue this selective transparency serves powerful interests. Rep. Khanna and others have used floor speeches to reveal names that remain officially redacted—a workaround that provides some accountability but lacks the systematic disclosure transparency advocates demand.
 
@@ -145,6 +143,6 @@ Executives are being judged not by criminal standards—guilt beyond reasonable 
 
 The broader question is whether this represents justice or mob rule. Transparency advocates argue the public has a right to know who associated with a convicted sex trafficker and to draw their own conclusions. Critics worry about guilt by association and the destruction of careers based on emails that may not reflect criminal conduct.
 
-What's undeniable is that the consequences are real and mounting. From [Goldman Sachs](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) to [DP World](/news/2026-02-13-dp-world-ceo-sultan-ahmed-bin-sulayem-forced-out-over-epstein-emails) to now Wasserman's entertainment empire, the professional costs of documented Epstein association are proving severe—with no end in sight as more documents continue to surface.
+What's undeniable is that the consequences are real and mounting. From [Goldman Sachs](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) to [DP World](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) to now Wasserman's entertainment empire, the professional costs of documented Epstein association are proving severe—with no end in sight as more documents continue to surface.
 
 The Casey Wasserman case is unlikely to be the last. As the Times investigation proceeds and more documents emerge, the roster of resignations and forced sales will probably grow. The only question is how high the professional carnage will climb before the full scope of Epstein's elite network is finally exposed.

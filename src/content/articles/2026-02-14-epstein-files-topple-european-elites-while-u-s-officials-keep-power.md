@@ -3,7 +3,7 @@ title: "Epstein Files Topple European Elites While U.S. Officials Keep Power"
 publishedAt: "2026-02-14T23:04:44.000Z"
 source: "NPR"
 sourceUrl: "https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout"
-summary: "European Officials Fall While U.S. Figures Hold Power European officials tied to Jeffrey Epstein have resigned or faced forced departures in recent weeks, while"
+summary: "European officials tied to Epstein have resigned or been forced out, while their American counterparts remain in power, exposing a transatlantic accountability gap."
 people:
   - david-rubenstein
   - donald-trump
@@ -21,7 +21,7 @@ people:
   - thorbjorn-jagland
   - tom-barrack
 relatedArticles:
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
@@ -46,7 +46,7 @@ At least three prominent European figures have stepped down since the latest Eps
 
 ## European Exits
 
-Sultan Ahmed bin Sulayem, chairman of DP World and one of Dubai's most powerful business figures, [left his position](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after his name appeared more than 4,700 times in released files, including hundreds of emails between his associates and Epstein's network. The port operator's board announced his departure within days.
+Sultan Ahmed bin Sulayem, chairman of DP World and one of Dubai's most powerful business figures, [left his position](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after his name appeared more than 4,700 times in released files, including hundreds of emails between his associates and Epstein's network. The port operator's board announced his departure within days.
 
 Peter Mandelson, the British peer and former European trade commissioner, faced a congressional subpoena after his name appeared repeatedly in Epstein's correspondence. Prince Andrew's aide was revealed to have advised Epstein on concealing his criminal conviction on visa applications.
 
@@ -70,4 +70,4 @@ The U.S. Justice Department response has drawn scrutiny. Attorney General Bondi 
 
 President Trump [called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation). Congressional Democrats including Ro Khanna demanded full disclosure of names after the DP World chairman's departure. One senator who blocked Epstein files legislation received donations weeks before the vote, according to campaign finance filings.
 
-The Epstein Transparency Act passed the House 427-1 and the Senate unanimously before being signed into law on November 19, 2025. The DOJ has since released 3.5 million pages, 180,000 images, and 2,000 videos. Courts continue releasing documents on a rolling schedule. Epstein died on August 10, 2019 at the Metropolitan Correctional Center in Manhattan. Prince Andrew settled with accuser Virginia Giuffre for a reported 12 million pounds in 2022.
+The Epstein Transparency Act passed the House 427-1 and the Senate unanimously before being signed into law on November 19, 2025. The DOJ has since released 3.5 million pages, 180,000 images, and 2,000 videos. Courts continue releasing documents on a rolling schedule.

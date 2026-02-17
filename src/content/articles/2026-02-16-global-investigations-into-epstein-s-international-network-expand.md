@@ -21,7 +21,7 @@ keyTakeaways:
   - "Multiple corporate executives have resigned since file release, including Goldman Sachs' top lawyer and Dubai's ports authority chief."
   - "UN human rights experts called for international investigation, warning some conduct could constitute crimes against humanity."
   - "Federal court allowed trafficking lawsuit against Bank of America to proceed over alleged payment processing for Epstein."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95

@@ -20,7 +20,7 @@ keyTakeaways:
   - "Under the Epstein Transparency Act, members of Congress can access unredacted files without making them public."
   - "Representatives Thomas Massie, Nancy Mace, and Ro Khanna have committed to reviewing unredacted documents."
   - "Independent analysis found Trump DOJ released only 2% of Epstein files, despite Bondi's claim of complete disclosure."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.85

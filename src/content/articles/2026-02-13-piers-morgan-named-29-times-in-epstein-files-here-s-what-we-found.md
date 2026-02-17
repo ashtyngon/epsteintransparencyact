@@ -3,7 +3,7 @@ title: "Piers Morgan Named 29 Times in Epstein Files—Here's What We Found"
 publishedAt: 2026-02-13
 source: "BuzzFeed"
 sourceUrl: "https://www.buzzfeed.com/stephaniesoteriou/piers-morgan-epstein-files-explained"
-summary: "British broadcaster Piers Morgan is pushing back against the revelation that his name appears in newly released Epstein files—but the documents tell a different"
+summary: "Piers Morgan's name appears 29 times in newly released Epstein files, according to BuzzFeed, despite the British broadcaster's public denials of any connection."
 people:
   - piers-morgan
   - jeffrey-epstein

@@ -3,7 +3,7 @@ title: Rep. Mace Demands Full Epstein Files Transparency, Pushes Judicial Term L
 publishedAt: 2026-02-16T23:48:00.000-05:00
 source: ABC Columbia
 sourceUrl: https://www.abccolumbia.com/2026/02/16/were-going-to-expose-it-mace-calls-for-full-transparency-in-epstein-files-judicial-term-limits/
-summary: Rep. Nancy Mace on Monday called for complete transparency in the Epstein files and proposed term limits for federal judges during an appearance on ABC Columbia
+summary: "Rep. Nancy Mace called for complete transparency in the Epstein files and proposed term limits for federal judges during an appearance on ABC Columbia."
 status: published
 articleType: news
 people:
@@ -50,7 +50,7 @@ Documents show [Epstein sympathized with Justice Brett Kavanaugh](/news/2026-02-
 
 Congressional Republicans have split over the administration's handling of the files. Rep. Marjorie Taylor Greene [called it a "political miscalculation"](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) by the Trump White House.
 
-The files have triggered resignations across multiple industries. [Goldman Sachs' top lawyer stepped down](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Hyatt heir Tom Pritzker resigned](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) from his position after contact with Epstein was documented. [Sarah Ferguson shut down six companies](/news/2026-02-16-sarah-ferguson-shuts-down-6-companies-after-epstein-ties-exposed) following revelations about her ties to the financier.
+The files have triggered resignations across multiple industries. [Goldman Sachs' top lawyer stepped down](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Hyatt heir Tom Pritzker resigned](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) from his position after contact with Epstein was documented. [Sarah Ferguson shut down six companies](/news/2026-02-16-sarah-ferguson-s-6-companies-to-close-after-epstein-files) following revelations about her ties to the financier.
 
 International authorities have taken action. [France established a special team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) to review files for French nationals. [UK police launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations. [New Mexico opened its first full investigation](/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch) into Epstein's Zorro Ranch.
 

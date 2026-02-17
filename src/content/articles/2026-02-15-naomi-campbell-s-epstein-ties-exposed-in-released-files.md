@@ -3,7 +3,7 @@ title: "Naomi Campbell's Epstein Ties Exposed in Released Files"
 publishedAt: "2026-02-15T15:42:00.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/15/style/epstein-files-naomi-campbell.html"
-summary: "Naomi Campbell described Jeffrey Epstein as \"an acquaintance\" in past statements. Newly released emails from the Department of Justice's document release show t"
+summary: "Naomi Campbell called Epstein 'an acquaintance,' but newly released DOJ emails show years of correspondence including coordinated flights and meetings at his properties."
 people:
   - naomi-campbell
   - jeffrey-epstein

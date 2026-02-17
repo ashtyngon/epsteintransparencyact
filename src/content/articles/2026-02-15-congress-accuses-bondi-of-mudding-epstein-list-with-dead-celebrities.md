@@ -3,11 +3,9 @@ title: "Congress Accuses Bondi of 'Mudding' Epstein List With Dead Celebrities"
 publishedAt: "2026-02-15T17:50:53.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/pam-bondi-epstein-files-names-b2920770.html"
-summary: "Attorney General Pam Bondi released a six-page letter to Congress on February 15, 2026, listing more than 300 names associated with the Epstein files and declar"
+summary: "Lawmakers accused AG Pam Bondi of 'mudding' the Epstein files by listing 300-plus names alongside deceased celebrities, obscuring meaningful connections to the case."
 people:
   - pam-bondi
-  - marilyn-monroe
-  - janis-joplin
   - casey-wasserman
   - david-rubenstein
   - donald-trump
@@ -121,7 +119,5 @@ Internal GOP tensions have emerged over the handling of disclosures. **Rep. Marj
 The administration faces accusations of a [cover-up over file redactions](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions). Allegations surfaced that [AG Bondi was caught spying on Democrats' searches of Epstein files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches), though details of that monitoring have not been fully disclosed.
 
 During testimony, Bondi was [grilled on why the AG resists full document release](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her explanations cited law enforcement sensitivity and victim privacy, but critics point to the inclusion of dead celebrities in the name list as evidence those justifications lack credibility.
-
-A [reader letter published February 16](/news/2026-02-16-reader-letter-epstein-list-perpetrators-must-face-justice) demanded perpetrators face justice, reflecting public pressure for accountability beyond document releases.
 
 Congressional hearings on the Transparency Act's implementation continue. The DOJ's assertion that

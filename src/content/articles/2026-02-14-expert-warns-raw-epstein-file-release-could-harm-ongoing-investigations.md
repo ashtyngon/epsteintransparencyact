@@ -3,7 +3,7 @@ title: "Expert Warns Raw Epstein File Release Could Harm Ongoing Investigations"
 publishedAt: "2026-02-14T13:26:24.000Z"
 source: "RFI"
 sourceUrl: "https://www.rfi.fr/en/international-news/20260214-epstein-files-releasing-documents-raw-state-counterproductive"
-summary: "A legal expert warned that mass document releases in the Epstein case may hinder rather than advance accountability efforts, according to an interview published"
+summary: "A legal expert warned that releasing Epstein files without proper review could be counterproductive and may harm ongoing investigations, according to RFI."
 people:
   - ghislaine-maxwell
   - jeffrey-epstein

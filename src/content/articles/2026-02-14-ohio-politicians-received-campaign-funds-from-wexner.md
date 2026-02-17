@@ -3,7 +3,7 @@ title: "Ohio Politicians Received Campaign Funds From Wexner"
 publishedAt: "2026-02-14T05:29:52.000Z"
 source: "WFMJ"
 sourceUrl: "https://www.wfmj.com/story/53436751/ohio-politicians-received-campaign-funds-from-wexner-epstein-coconspirator"
-summary: "Leslie Wexner, the billionaire retail magnate subpoenaed by Congress last week/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-t"
+summary: "Ohio politicians received campaign contributions from Leslie Wexner, Epstein's only confirmed financial client who was subpoenaed by Congress and labeled a co-conspirator."
 people:
   - leslie-wexner
   - jeffrey-epstein
@@ -35,4 +35,4 @@ Wexner, who employed Epstein as his personal financial adviser, granted Epstein 
 
 The report comes as multiple states examine political contributions from individuals named in the 3.5 million pages of Epstein-related documents released under the Epstein Transparency Act, signed November 19, 2025. [A senator in another state faced scrutiny](/news/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation) after receiving a donation and subsequently blocking transparency legislation.
 
-WFMJ did not report whether any Ohio politicians plan to return the contributions or comment on their acceptance of funds from Wexner. Epstein died on August 10, 2019 at the Metropolitan Correctional Center. His associate Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years in federal prison.
+WFMJ did not report whether any Ohio politicians plan to return the contributions or comment on their acceptance of funds from Wexner.

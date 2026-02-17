@@ -3,7 +3,7 @@ title: "Epstein Case Exposes Cracks in America's Rule of Law System"
 publishedAt: "2026-02-14T05:10:04.000Z"
 source: "CGTN"
 sourceUrl: "https://news.cgtn.com/news/2026-02-14/The-Epstein-case-mirrors-the-decline-of-America-s-rule-of-law-1KKFDGc0klq/p.html"
-summary: "A stark critique of American justice emerged this week from an unexpected source. CGTN, China's state-run media outlet, published an editorial claiming the Epst"
+summary: "China's state-run CGTN published an editorial using the Epstein case as evidence of declining American rule of law, citing DOJ redactions and elite impunity."
 people:
   - donald-trump
   - jeffrey-epstein
@@ -53,9 +53,9 @@ Foreign adversaries don't miss these contradictions.
 
 ## Two Standards of Justice
 
-A [House member named six men hidden in the redacted files](/news/2026-02-13-congressman-names-6-men-hidden-in-epstein-files-on-house-floor) from the House floor, including billionaire Les Wexner — Epstein's only confirmed financial client, who transferred a $77 million Manhattan mansion to Epstein for $0 — and labeled him a co-conspirator. Congress has [subpoenaed Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), former UK Labour cabinet minister and Baron Mandelson, to testify. 
+A [House member named six men hidden in the redacted files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) from the House floor, including billionaire Les Wexner — Epstein's only confirmed financial client, who transferred a $77 million Manhattan mansion to Epstein for $0 — and labeled him a co-conspirator. Congress has [subpoenaed Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), former UK Labour cabinet minister and Baron Mandelson, to testify. 
 
-Corporate executives started falling. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-over-secret-epstein-ties-revealed-in-emails) after "Uncle Jeffrey" emails surfaced. [Sultan Ahmed Bin Sulayem, CEO and chairman of DP World, was forced out](/news/2026-02-13-dubai-port-ceo-ousted-over-4-700-epstein-files-mentions) over 4,700 file mentions. A [federal court allowed a trafficking lawsuit against Bank of America to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
+Corporate executives started falling. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after "Uncle Jeffrey" emails surfaced. [Sultan Ahmed Bin Sulayem, CEO and chairman of DP World, was forced out](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) over 4,700 file mentions. A [federal court allowed a trafficking lawsuit against Bank of America to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
 
 Yet the individuals at the center—those who funded, facilitated, or enabled Epstein's operation for years—remain largely shielded by DOJ redactions.
 
@@ -67,8 +67,8 @@ The [New York Times is conducting its own investigation](/news/2026-02-13-nyt-la
 
 ## The Strategic Cost
 
-Every unjustified redaction, every dodged question in congressional hearings, every revelation of [surveillance systems tracking lawmakers' searches](/news/2026-02-13-democrats-demand-doj-stop-tracking-their-epstein-file-searches)—these become ammunition for adversaries seeking to undermine American credibility abroad.
+Every unjustified redaction, every dodged question in congressional hearings, every revelation of [surveillance systems tracking lawmakers' searches](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches)—these become ammunition for adversaries seeking to undermine American credibility abroad.
 
 Beijing is now wielding the Epstein case as a cudgel. That's the price of institutional opacity.
 
-The fix remains simple: release the documents, name the names, and let Americans see what their government knows about who enabled Jeffrey Epstein and why they faced no consequences. Epstein died on August 10, 2019 at the Metropolitan Correctional Center. Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years. No additional co-conspirators have been charged. Until the full record is public, every speech about "rule of law" abroad rings hollow.
+The fix remains simple: release the documents, name the names, and let Americans see what their government knows about who enabled Jeffrey Epstein and why they faced no consequences. Until the full record is public, every speech about "rule of law" abroad rings hollow.

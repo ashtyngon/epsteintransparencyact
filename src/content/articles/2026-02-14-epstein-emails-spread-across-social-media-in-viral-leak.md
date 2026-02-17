@@ -3,7 +3,7 @@ title: "Epstein Emails Spread Across Social Media in Viral Leak"
 publishedAt: "2026-02-14T11:22:00.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/tech/tech-news/jeffrey-epstein-files-reveal-deep-tech-ties-musk-gates-rcna257092"
-summary: "A Business Insider analysis published Saturday traces how private emails between Jeffrey Epstein and prominent figures reached public view, detailing the path f"
+summary: "Private Epstein emails have gone viral on social media, with screenshots circulating millions of times often stripped of context about the nature of the communications."
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -38,7 +38,7 @@ confidence: 0.95
 
 Private emails between Jeffrey Epstein and business leaders, academics, and public figures have spread across Twitter, Reddit, and Facebook in recent weeks, with screenshots of court documents circulating millions of times — often stripped of context about the nature of the communications.
 
-A lunch meeting mention generated the same viral reach as emails discussing financial transactions or travel arrangements. The emails emerged through court cases brought by Epstein's victims, which forced the unsealing of documents including correspondence, flight logs, and calendars. Federal prosecutors released additional materials following Epstein's July 2019 arrest and his death on August 10, 2019 at the Metropolitan Correctional Center in Manhattan. Ghislaine Maxwell was subsequently convicted on December 29, 2021 and sentenced to 20 years in federal prison.
+A lunch meeting mention generated the same viral reach as emails discussing financial transactions or travel arrangements. The emails emerged through court cases brought by Epstein's victims, which forced the unsealing of documents including correspondence, flight logs, and calendars.
 
 ## From Court Files to Feeds
 

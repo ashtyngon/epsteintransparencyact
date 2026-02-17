@@ -3,7 +3,7 @@ title: Clinton Accuses Trump DOJ of Epstein Files 'Cover-Up' in BBC Interview
 publishedAt: 2026-02-16T22:32:00.000-05:00
 source: BBC News
 sourceUrl: https://www.bbc.com/news/articles/czx47k34yqxo
-summary: Hillary Clinton accused the Trump administration of conducting a "cover-up" by slow-walking the release of Jeffrey Epstein files during a BBC interview publishe
+summary: "Hillary Clinton accused the Trump administration of a 'cover-up' by slow-walking Epstein file releases during a BBC interview, the highest-profile Democratic criticism yet."
 status: published
 articleType: feature
 people:
@@ -90,7 +90,7 @@ The files release triggered global consequences beyond U.S. partisan disputes. [
 
 The files triggered waves of resignations across sectors. [Dubai ports chief resigned after hundreds of secret emails surfaced](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). [Goldman Sachs top lawyer resigned after being named](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files). [Casey Wasserman sold his agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) and [stepped down from Olympic roles](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) after Maxwell emails emerged.
 
-[Hyatt heir Tom Pritzker stepped down over contact links](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links). [Sarah Ferguson shut down six companies after ties were exposed](/news/2026-02-16-sarah-ferguson-shuts-down-6-companies-after-epstein-ties-exposed). [Columbia University removed staff who facilitated an Epstein-linked dental school admission](/news/2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission).
+[Hyatt heir Tom Pritzker stepped down over contact links](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links). [Sarah Ferguson shut down six companies after ties were exposed](/news/2026-02-16-sarah-ferguson-s-6-companies-to-close-after-epstein-files). [Columbia University removed staff who facilitated an Epstein-linked dental school admission](/news/2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission).
 
 [Congress subpoenaed Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) and [Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) to testify. [A court allowed a Bank of America trafficking lawsuit to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed).
 

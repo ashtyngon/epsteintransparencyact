@@ -3,7 +3,7 @@ title: "Hyatt Heir Tom Pritzker Steps Down Over Epstein Contact Links"
 publishedAt: "2026-02-16T21:09:50.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/16/us/politics/tom-pritzker-hyatt-epstein.html"
-summary: "Hyatt Heir Tom Pritzker Resigns as Files Show Regular Contact with Epstein Tom Pritzker, executive chairman of the Hyatt Hotels Corporation and scion of one of "
+summary: "Hyatt Hotels executive chairman Tom Pritzker stepped down after documents revealed he maintained regular contact with Jeffrey Epstein, according to the New York Times."
 people:
   - tom-pritzker
   - jeffrey-epstein
@@ -27,8 +27,6 @@ aiGenerated: true
 articleType: feature
 confidence: 0.95
 ---
-
-# Hyatt Heir Tom Pritzker Resigns as Files Show Regular Contact with Epstein
 
 **Tom Pritzker**, executive chairman of the **Hyatt Hotels Corporation** and scion of one of America's wealthiest families, stepped down from his position on **February 16, 2026**, after documents showed he maintained regular contact with convicted sex offender **Jeffrey Epstein**, according to the New York Times. The resignation marks the latest in a series of high-profile departures triggered by the ongoing release of Epstein-related files.
 
@@ -92,13 +90,13 @@ Pritzker's resignation continues a pattern of departures among corporate and pol
 
 [Dubai's ports chief resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of secret Epstein emails emerged showing previously undisclosed communications.
 
-[**Sarah Ferguson** shut down six companies](/news/2026-02-16-sarah-ferguson-shuts-down-6-companies-after-epstein-ties-exposed) after her Epstein ties were exposed in documents released February 16.
+[**Sarah Ferguson** shut down six companies](/news/2026-02-16-sarah-ferguson-s-6-companies-to-close-after-epstein-files) after her Epstein ties were exposed in documents released February 16.
 
 The pattern stands in contrast to U.S. officials who have retained their positions despite being named in files. [An analysis found that Epstein files have toppled European elites while U.S. officials keep power](/news/2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power), published February 14.
 
 ## Academic and Political Fallout Continues
 
-[Multiple college presidents and professors](/news/2026-02-16-college-presidents-professors-named-in-epstein-files-fallout) have been named in the ongoing file releases. [Columbia University removed staff who facilitated an Epstein-linked dental school admission](/news/2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission), according to a February 16 announcement.
+[Multiple college presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have been named in the ongoing file releases. [Columbia University removed staff who facilitated an Epstein-linked dental school admission](/news/2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission), according to a February 16 announcement.
 
 [DOJ files show Epstein pulled strings at the University of Alabama](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama), influencing admissions and funding decisions, according to documents released February 14.
 
@@ -112,7 +110,7 @@ Political connections continue to surface. [Documents show Epstein was invited t
 
 [**Commerce Secretary Howard Lutnick's** Epstein ties have become a GOP liability](/news/2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability), according to reports published February 15. [GOP senators view Lutnick's Epstein contacts as a political liability](/news/2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability) heading into midterm elections.
 
-In Texas, [GOP officials expressed alarm over comptroller candidate **Don Huffines'** family purchase of Epstein's Zorro Ranch](/news/2026-02-16-maga-candidate-don-huffines-owned-epstein-s-zorro-ranch) for $13.4 million. [The Trump GOP candidate's family bought Epstein's abuse ranch](/news/2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m), where multiple victims reported abuse occurred.
+In Texas, [GOP officials expressed alarm over comptroller candidate **Don Huffines'** family purchase of Epstein's Zorro Ranch](/news/2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m) for $13.4 million. [The Trump GOP candidate's family bought Epstein's abuse ranch](/news/2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m), where multiple victims reported abuse occurred.
 
 ## Maxwell Clemency Offer Remains Unaddressed
 

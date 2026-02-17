@@ -3,7 +3,7 @@ title: "UN Experts Call for Investigation Into Epstein Files, Warn of Crimes Aga
 publishedAt: "2026-02-16T18:22:43.000Z"
 source: "Anadolu Agency"
 sourceUrl: "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRlppMWxCT1c2VkdoYWtnTVN1dVk3dFNtZ0JBWi1WQWd6U1Nyd3pid1dXZlQ2TFlJWERBa2d5di1LU09SaHpidFVDNmFWRVdSUXN1TkJCUE5HVGxNYURLQThad0szbHh2YlR3T01TRUx5aVhTMGN3Nl83ZzN3eU5OVklZZDQ4S21panRWaUhqNmtUeXlWejRVSFowekZLUi1LU2JZSUJUMlc5SVpWYzhwVFNBRWVEaU1oOGFQVkdGN05UQjJEMVVrSXlqLTk?oc=5"
-summary: "United Nations human rights experts have called for an international investigation into the recently released Epstein files, warning the documents may contain e"
+summary: "UN human rights experts called for an international investigation into the Epstein files, warning the documents may contain evidence of crimes against humanity."
 people:
   - casey-wasserman
   - ghislaine-maxwell

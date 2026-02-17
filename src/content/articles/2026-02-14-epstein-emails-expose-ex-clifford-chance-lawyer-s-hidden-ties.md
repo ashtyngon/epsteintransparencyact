@@ -3,7 +3,7 @@ title: "Epstein Emails Expose Ex-Clifford Chance Lawyer's Hidden Ties"
 publishedAt: "2026-02-14T03:07:15.000Z"
 source: "Law.com"
 sourceUrl: "https://www.law.com/international-edition/2026/02/04/epstein-files-show-regular-contact-with-ex-junior-clifford-chance-lawyer/"
-summary: "When Justice Officials Name Names: Inside the Escalating Battle Over Epstein File Redactions The dam is beginning to crack. After weeks of mounting pressure ove"
+summary: "Congress began reading redacted names into the public record as DOJ officials pushed back, while a former Clifford Chance trainee was named in newly released Epstein documents."
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -40,8 +40,6 @@ aiGenerated: true
 articleType: feature
 confidence: 0.85
 ---
-
-# When Justice Officials Name Names: Inside the Escalating Battle Over Epstein File Redactions
 
 The dam is beginning to crack.
 
@@ -99,7 +97,7 @@ The legal profession has largely avoided the spotlight in Epstein coverage, desp
 
 ## The Wexner Web: Campaign Contributions and Political Protection
 
-Perhaps no name in the Epstein saga carries more weight than **Leslie Wexner**, the billionaire founder of Victoria's Secret and Epstein's only confirmed financial client. Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0 — one of the largest residential property transfers in New York City history. [Congressional testimony documented on this site](/news/2026-02-13-congressman-reveals-6-named-in-epstein-files-labels-wexner-co-conspirator) has labeled Wexner a "co-conspirator."
+Perhaps no name in the Epstein saga carries more weight than **Leslie Wexner**, the billionaire founder of Victoria's Secret and Epstein's only confirmed financial client. Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0 — one of the largest residential property transfers in New York City history. [Congressional testimony documented on this site](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) has labeled Wexner a "co-conspirator."
 
 Now, reporting from WFMJ.com reveals that **Ohio politicians received campaign funds from Wexner** — the same Wexner whose name appears throughout the Epstein files as the source of Epstein's initial wealth and New York properties.
 
@@ -165,7 +163,7 @@ The beneficiaries are a small number of individuals whose Epstein connections ar
 
 Why is the Justice Department prioritizing their privacy over the public interest?
 
-The answer may lie in the [surveillance scandal that erupted earlier this week](/news/2026-02-13-doj-tracking-lawmaker-epstein-file-searches-bondi-document-reveals), when documents revealed DOJ tracking which lawmakers searched the Epstein files. That wasn't about security. It was about knowing who to pressure, who to threaten, who might cause trouble.
+The answer may lie in the [surveillance scandal that erupted earlier this week](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches), when documents revealed DOJ tracking which lawmakers searched the Epstein files. That wasn't about security. It was about knowing who to pressure, who to threaten, who might cause trouble.
 
 The Blanche statement attacking Khanna and Massie fits the same pattern: an attempt to discourage further transparency advocacy through public criticism and implicit threat. It hasn't worked. If anything, it's backfired, drawing more attention to the names they revealed and the reasons DOJ wants them hidden.
 

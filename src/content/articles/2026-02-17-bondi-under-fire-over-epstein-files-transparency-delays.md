@@ -24,7 +24,7 @@ keyTakeaways:
   - "Multiple members of Congress accused DOJ of hiding names and \"mudding\" the list by including dead celebrities in initial releases."
   - "UN experts called for investigation into Epstein files and warned of potential crimes against humanity related to trafficking network."
   - "Rep. Marjorie Taylor Greene faced death threats after calling Trump's Epstein file handling a \"political miscalculation."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.85

@@ -3,7 +3,7 @@ title: "Epstein Invited to Congressional Galas Years After Arrest, Docs Show"
 publishedAt: "2026-02-16T14:47:46.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/jeffrey-epstein-invites-congress-senators-b2920103.html"
-summary: "A dozen members of Congress received invitations to events with Jeffrey Epstein years after his 2008 conviction for soliciting prostitution from a minor, accord"
+summary: "A dozen members of Congress received invitations to events with Jeffrey Epstein years after his 2008 conviction, according to documents released under the Transparency Act."
 people:
   - casey-wasserman
   - donald-trump

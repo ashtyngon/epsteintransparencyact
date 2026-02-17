@@ -3,10 +3,7 @@ title: FBI Explains Why Epstein Files Remain Heavily Redacted
 publishedAt: 2026-02-13T00:00:00.000Z
 source: Bloomberg
 sourceUrl: "https://www.bloomberg.com/news/newsletters/2026-02-13/epstein-files-fbi-s-reasons-for-redacting-the-documents"
-summary: >-
-  The FBI has begun providing its justifications for the extensive redactions
-  that have obscured key names and details in the Epstein files, according to a
-  Bloomb
+summary: "The FBI cited ongoing investigations, intelligence sources, and privacy rights as justifications for heavy redactions in the Epstein files, according to Bloomberg."
 articleType: news
 status: published
 people:
@@ -17,7 +14,6 @@ people:
   - donald-trump
   - thomas-massie
 relatedArticles:
-  - >-
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
@@ -26,14 +22,6 @@ relatedArticles:
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-    2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
   - fbi
   - court-documents

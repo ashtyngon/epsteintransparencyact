@@ -3,7 +3,7 @@ title: "AG Bondi Defends Complete Epstein File Release as Lawmakers Demand More"
 publishedAt: "2026-02-15T21:32:23.000Z"
 source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&at_campaign=rss"
-summary: "Attorney General Pam Bondi told lawmakers last week that all Jeffrey Epstein files have been released by the Department of Justice. Members of Congress who wrot"
+summary: "AG Bondi claimed all Epstein files have been released, but lawmakers who wrote the Transparency Act say that claim is false and the document set is incomplete."
 people:
   - pam-bondi
   - donald-trump

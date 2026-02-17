@@ -20,7 +20,7 @@ relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-casey-wasserman-sells-talent-agency-after-ghislaine-maxwell-emails-exposed
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - epstein-transparency-act-signed-into-law
@@ -46,6 +46,8 @@ Greene made the remarks on former InfoWars host **Owen Shroyer's** podcast on Fr
 
 "Thomas Massie, myself, Nancy Mace, Lauren Boebert, actually had to vote with all of the Democrats" to get the files released, Greene said, referencing the **discharge petition** that forced the bill to the House floor after committee leaders blocked it. The bill passed **427 to 1**.
 
+Greene also told fellow conservatives they sound like "cult fools" when defending the administration's handling of the files, warning: "Good luck trying to get women to vote for you."
+
 ## From MAGA Firebrand to Trump Critic
 
 Greene's criticism represents a dramatic transformation. Once among the president's most combative defenders in Congress, she broke with Trump when she signed the Epstein files discharge petition on **September 2, 2025** — a decision that [triggered Trump's fury](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) and led to her being un-endorsed and publicly attacked as a "traitor."
@@ -58,6 +60,6 @@ Greene [resigned from Congress in January 2026](/news/2026-02-14-massie-declares
 
 Greene suggested that **Attorney General Pam Bondi** is still operating under the president's direction when it comes to the files and the DOJ's handling of potential criminal referrals. [Bondi was grilled during congressional testimony](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about why the DOJ has kept files heavily redacted and was [accused of monitoring Democratic lawmakers' searches](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) of the files.
 
-Since the files began emerging, the fallout has been swift. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-talent-agency-after-ghislaine-maxwell-emails-exposed) following exposure of emails with **Ghislaine Maxwell**. Congress issued subpoenas to billionaire **Les Wexner** and former EU trade commissioner **Peter Mandelson** to testify about their Epstein connections.
+Since the files began emerging, the fallout has been swift. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) following exposure of emails with **Ghislaine Maxwell**. Congress issued subpoenas to billionaire **Les Wexner** and former EU trade commissioner **Peter Mandelson** to testify about their Epstein connections.
 
 Greene's public criticism adds to growing bipartisan pressure on the Trump administration over the pace and completeness of the file releases mandated by the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law).

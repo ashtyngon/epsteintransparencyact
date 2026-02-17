@@ -3,7 +3,7 @@ title: "UK Top Prosecutor Says 'Nobody Above Law' as Police Probe Prince Andrew"
 publishedAt: "2026-02-15T19:24:24.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/15/uks-top-prosecutor-says-nobody-above-law-as-detectives-investigate-andrews-epstein-links"
-summary: "Thames Valley Police are in active discussions with the Crown Prosecution Service over allegations of misconduct in public office against Andrew Mountbatten-Win"
+summary: "Thames Valley Police are consulting the Crown Prosecution Service over Prince Andrew misconduct allegations, as the UK's top prosecutor said 'nobody is above the law.'"
 people:
   - prince-andrew
   - jeffrey-epstein

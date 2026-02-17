@@ -3,7 +3,7 @@ title: "Trump Insider Tom Barrack Named in Epstein Files"
 publishedAt: "2026-02-14T17:00:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/news/tom-barrack-jeffrey-epstein-files/"
-summary: "Tom Barrack, a longtime Trump confidant who served as U.S. special envoy to the Middle East, maintained years of contact with Jeffrey Epstein through networking"
+summary: "Tom Barrack, a longtime Trump confidant and former U.S. special envoy to the Middle East, was named in Epstein files showing years of contact with the financier."
 people:
   - tom-barrack
   - donald-trump
@@ -13,7 +13,7 @@ relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - document-release
   - associates
@@ -48,4 +48,4 @@ Barrack's decades-long friendship with Trump places him among several associates
 
 [Attorney General Pam Bondi has defended redactions](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) in files released to date, citing ongoing investigations and privacy concerns.
 
-Several executives have resigned after appearing in released documents, including [Goldman Sachs' top lawyer](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and the [chairman of DP World](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties).
+Several executives have resigned after appearing in released documents, including [Goldman Sachs' top lawyer](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and the [chairman of DP World](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed).

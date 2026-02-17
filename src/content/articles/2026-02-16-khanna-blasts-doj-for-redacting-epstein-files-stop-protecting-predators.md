@@ -3,7 +3,7 @@ title: "Khanna Blasts DOJ for Redacting Epstein Files: 'Stop Protecting Predator
 publishedAt: "2026-02-16T23:40:51.000Z"
 source: "PBS NewsHour"
 sourceUrl: "https://www.pbs.org/newshour/show/khanna-says-stop-protecting-predators-as-doj-gives-reasoning-for-redacting-epstein-files"
-summary: "Rep. Ro Khanna delivered a blunt message Sunday: \"stop protecting predators.\" The California Democrat joined a growing chorus of lawmakers demanding answers abo"
+summary: "Rep. Ro Khanna told the DOJ to 'stop protecting predators,' joining bipartisan lawmakers demanding answers about heavy redactions in the Epstein files release."
 people:
   - ro-khanna
   - pam-bondi
@@ -50,7 +50,7 @@ Clinton's accusation represents the highest-profile Democratic attack on the Tru
 
 ## Files Reveal Widespread Connections
 
-The released documents continue to expose connections across business, politics, and academia. Recent revelations include [**Sarah Ferguson**, former wife of Prince Andrew, whose messages to Epstein after his conviction](/news/2026-02-16-sarah-ferguson-shuts-down-6-companies-after-epstein-ties-exposed) prompted the closure of six companies linked to her, according to Companies House records reviewed by The Guardian.
+The released documents continue to expose connections across business, politics, and academia. Recent revelations include [**Sarah Ferguson**, former wife of Prince Andrew, whose messages to Epstein after his conviction](/news/2026-02-16-sarah-ferguson-s-6-companies-to-close-after-epstein-files) prompted the closure of six companies linked to her, according to Companies House records reviewed by The Guardian.
 
 The companies filed strike-off applications after details of Ferguson's contact with Epstein emerged in the document release last month. The Guardian reported the filings came directly after new information about her relationship with the convicted sex offender came to light.
 
@@ -68,7 +68,7 @@ The documents have also exposed institutional failures. [Columbia University rem
 
 ## Technology and Transparency Efforts
 
-A new platform called [JeffTube launched to make the DOJ files easier to browse](/news/2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse), addressing complaints about the difficulty of searching through millions of pages. The FBI holds [thousands of files on a Detroit millionaire's island operation](/news/2026-02-16-fbi-holds-thousands-of-files-on-detroit-millionaire-s-island-operation) that have not been released.
+A new platform called [JeffTube launched to make the DOJ files easier to browse](/news/2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse), addressing complaints about the difficulty of searching through millions of pages. The FBI holds [thousands of files on a Detroit millionaire's island operation](/news/2026-02-14-fbi-holds-thousands-of-files-on-detroit-millionaire-s-secret-island-operation) that have not been released.
 
 [**Ghislaine Maxwell** offered to reveal the "truth" in exchange for clemency](/news/2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency), according to reports. Maxwell is currently serving a 20-year sentence for sex trafficking.
 

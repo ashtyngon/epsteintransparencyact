@@ -3,7 +3,7 @@ title: "JeffTube: New Platform Makes DOJ Epstein Files Easier to Browse"
 publishedAt: "2026-02-16T08:53:01.000Z"
 source: "The Sunday Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbk5lU3MzUVdjT1o1V0hNS0N1QWpndExSMzR1aWdXTzZDV0FHNXViSmdYR25wX2h4SlNSRlVmU2FWMVhZWnBCUnZXdmtkRURkM3E0RTF4MVZ0eEZwNGo0bHlYSmhGdmpYbkRTV0hsSGNOTEV0dk5DdTU0cEU5bE53UklGOVV1RGkzcFhfTlFXbHJsUUVUOVpLTEhJV1JCTUZseHJCb3NKWlBtYUNVejdGQnJUSmNSekI4N2RzLVVPZ1hjWXBwMkt1TG12eVB1eks1QkFfM1IwZkxmbWNrN0UtLUJlRHM3MUtWbHdaVUFaWU8tVE1JSklSVDc1c2FvNnJvWFFOaDhQdXV3NGVNckNNOXRB?oc=5"
-summary: "A YouTube-style platform called JeffTube has been created to host video files released by the Department of Justice in the Epstein case, according to The Sunday"
+summary: "A YouTube-style platform called JeffTube now hosts video files released by the DOJ in the Epstein case, making the content browsable for the first time."
 people:
   - jeffrey-epstein
   - nancy-mace

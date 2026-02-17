@@ -3,12 +3,10 @@ title: "Trump DOJ Released Only 2% of Epstein Files, Study Shows"
 publishedAt: "2026-02-16T15:59:06.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/epstein-files-released-trump-percent-b2921206.html"
-summary: "Attorney General Pam Bondi declared over the weekend that the Department of Justice has released \"all\" files related to Jeffrey Epstein, naming over 300 individ"
+summary: "An independent analysis found the Trump DOJ released only about 2% of Epstein files in its possession, contradicting AG Bondi's claim of releasing 'all' documents."
 people:
   - donald-trump
   - pam-bondi
-  - elvis-presley
-  - marilyn-monroe
   - jeffrey-epstein
   - leslie-wexner
   - marjorie-taylor-greene
@@ -91,7 +89,7 @@ During her testimony, Bondi diverted to discussing the stock market, according t
 
 The file releases have triggered [global resignations and new investigations](/news/2026-02-16-epstein-files-trigger-global-resignations-new-investigations). Multiple high-profile figures have stepped down from positions after being named in communications.
 
-Academic institutions face continued scrutiny. [College presidents and professors were named in the Epstein files fallout](/news/2026-02-16-college-presidents-professors-named-in-epstein-files-fallout). Documents showed [Epstein pulled strings at the University of Alabama](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama).
+Academic institutions face continued scrutiny. [College presidents and professors were named in the Epstein files fallout](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout). Documents showed [Epstein pulled strings at the University of Alabama](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama).
 
 **Craven County Schools** in North Carolina [responded after student records were found in Epstein files](/news/2026-02-16-craven-county-schools-responds-to-student-records-found-in-epstein-files). The district stated it is reviewing the documents to understand how student information appeared in Epstein's possession.
 

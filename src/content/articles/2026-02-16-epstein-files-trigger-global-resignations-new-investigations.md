@@ -3,7 +3,7 @@ title: "Epstein Files Trigger Global Resignations, New Investigations"
 publishedAt: "2026-02-16T01:25:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/video/epstein-files-causing-wide-ranging-international-fallout/"
-summary: "Attorney General Pam Bondi sent a six-page letter to Congress on February 15 claiming the Department of Justice has released \"all\" documents related to the Epst"
+summary: "Epstein files have triggered global resignations, new international investigations, and bipartisan congressional clashes with the DOJ over the scope of document releases."
 people:
   - casey-wasserman
   - david-rubenstein

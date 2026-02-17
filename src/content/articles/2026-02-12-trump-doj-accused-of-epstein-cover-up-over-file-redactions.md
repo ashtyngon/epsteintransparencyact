@@ -3,7 +3,7 @@ title: "Trump DOJ Accused of Epstein Cover-Up Over File Redactions"
 publishedAt: 2026-02-12
 source: "The Hill"
 sourceUrl: "https://thehill.com/media/5736235-epstein-files-doj-redactions-controversy/"
-summary: "A conservative television host is accusing the Trump administration of orchestrating a cover-up in the Epstein case, demanding criminal accountability for offic"
+summary: "Newsmax host Carl Higbie accused the Trump DOJ of a cover-up for redacting Epstein file names, demanding officials 'go to jail' in a rare break from Trump allies."
 people:
   - donald-trump
   - carl-higbie

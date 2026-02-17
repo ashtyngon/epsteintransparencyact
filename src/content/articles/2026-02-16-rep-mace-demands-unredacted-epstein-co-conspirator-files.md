@@ -3,14 +3,13 @@ title: "Rep. Mace Demands Unredacted Epstein Co-Conspirator Files"
 publishedAt: "2026-02-16T17:52:21.000Z"
 source: "WCIV"
 sourceUrl: "https://news.google.com/rss/articles/CBMipwJBVV95cUxPWXVSdjVMaWhYcW9PWHVEVHFaMlFnME1nUUJHWlhvREFNYWlPRDExbHkzeE5YQXBqT1Z5ME9qYlBUQ2ZoejBSN1ZiT1FBektSLUE4eXpZbFh0dERRUm1OTHRBdFFXMlpwNFFZOVhuRlUydHIxb016QWhpOHlZbWV3Wm5qLVFiSHQ3OGt3dVlsUnlKLXJSWVk2ODd5Mk8zSzdPUnpmU2Zvb3gxcXZYSno4MG01ZktxRVd4eTVTYVRmNjRQNDBOZEl1WVBhOW9Rb1BVY0ppamo3bjdxTjJjU1RwMFVVOU5JRmgtRlYxd21PWlUxWko4bzIwYWlDMUdfejFCR2YwSmZnZDJqeVJOVGhaeGI5OEo4Y1RzM2pVV2g5SGtuWHU1ZGlN?oc=5"
-summary: "Rep. Nancy Mace formally requested unredacted files on potential co-conspirators in the Jeffrey Epstein case, according to reports from WCIV, as new documents c"
+summary: "Rep. Nancy Mace formally requested unredacted files on potential Epstein co-conspirators as new documents continued to reveal ties between powerful figures and the financier."
 people:
-  - rep-nancy-mace
+  - nancy-mace
   - ghislaine-maxwell
   - jeffrey-epstein
   - leslie-wexner
   - marjorie-taylor-greene
-  - nancy-mace
   - pam-bondi
   - peter-mandelson
   - prince-andrew
@@ -39,7 +38,7 @@ The pressure on federal authorities intensifies as new Epstein-related revelatio
 
 **Columbia University** punished two administrators who helped Jeffrey Epstein's girlfriend gain entry to its dental college, according to a New York Times investigation published February 16. The university took disciplinary action against officials involved in admitting a woman connected to Epstein into the prestigious program.
 
-The Times reported that documents released as part of the ongoing Epstein file disclosure "sent ripples through the worlds of business, politics and academia," with Columbia becoming the latest institution forced to confront its ties to the convicted sex offender. The university's response follows earlier reporting on [college presidents and professors named in Epstein files](/news/2026-02-16-college-presidents-professors-named-in-epstein-files-fallout).
+The Times reported that documents released as part of the ongoing Epstein file disclosure "sent ripples through the worlds of business, politics and academia," with Columbia becoming the latest institution forced to confront its ties to the convicted sex offender. The university's response follows earlier reporting on [college presidents and professors named in Epstein files](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).
 
 Epstein's influence at academic institutions extended beyond Columbia. [Documents previously revealed](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama) that Epstein "pulled strings" at the University of Alabama, while other files showed his attempts to leverage relationships with Nobel Prize officials to expand his network of elite contacts.
 
@@ -101,7 +100,7 @@ Rep. Mace's demand for unredacted files adds to mounting congressional pressure 
 
 Congress has issued subpoenas to multiple figures, including [Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), the billionaire whose financial ties to Epstein spanned decades. **Rep. Ro Khanna** stated that Epstein's network ["knew enough to know better"](/news/2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better) about the financier's crimes.
 
-The Justice Department faces criticism from both parties. Rep. Massie stated he [lost confidence in AG Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over the handling of file releases, while [Rep. Greene described Trump's handling](/news/2026-02-16-mtg-criticizes-trump-s-epstein-files-handling-as-political-miscalculation) of the Epstein files as a "political miscalculation."
+The Justice Department faces criticism from both parties. Rep. Massie stated he [lost confidence in AG Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over the handling of file releases, while [Rep. Greene described Trump's handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) of the Epstein files as a "political miscalculation."
 
 ## Technology Aids Public Review
 

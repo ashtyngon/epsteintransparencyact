@@ -176,7 +176,7 @@ people:
 ${people || '  []'}
 tags:
 ${tags || '  []'}
-status: review
+status: published
 aiGenerated: true
 articleType: ${item.isFeature ? 'feature' : 'news'}
 confidence: ${item.filterResult.confidence}

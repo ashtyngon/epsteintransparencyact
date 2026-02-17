@@ -3,7 +3,7 @@ title: "Congress Subpoenas Mandelson Over Epstein Ties in Major Probe"
 publishedAt: 2026-02-13
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5737647-jeffrey-epstein-peter-mandelson-testimony/"
-summary: "Peter Mandelson, the UK's ambassador to the United States until last month, has been summoned to testify before Congress about his connections to Jeffrey Epstei"
+summary: "Peter Mandelson, former UK ambassador to the U.S., was summoned to testify before Congress about his Epstein connections, the first foreign envoy called to answer."
 image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26033470028233-e1770237677695.jpg?w=900"
 people:
   - peter-mandelson

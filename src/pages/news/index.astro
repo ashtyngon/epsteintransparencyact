@@ -3,25 +3,36 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
+import { newsListJsonLd } from '../../utils/json-ld';
 
 const articles = (await getCollection('articles', (a) => a.data.status === 'published'))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
 const featuredArticle = articles[0];
 const remainingArticles = articles.slice(1);
+
+const jsonLd = newsListJsonLd(
+  articles.map((a) => ({
+    title: a.data.title,
+    slug: a.id,
+    publishedAt: a.data.publishedAt,
+    summary: a.data.summary,
+  }))
+);
 ---
 
 <BaseLayout
   title="News"
-  description="Latest developments on the Epstein Files and the Epstein Transparency Act. Every story sourced and cited."
+  description="Epstein Transparency Act latest news — breaking updates on the Epstein Files, DOJ document releases, investigations, and court proceedings. Every story sourced and cited."
+  jsonLd={jsonLd}
 >
   <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
     <Breadcrumbs items={[{ name: 'News', href: '/news' }]} />
 
     <div class="mb-8">
-      <h1 class="text-3xl md:text-4xl font-serif font-bold text-primary mb-2">Latest Coverage</h1>
+      <h1 class="text-3xl md:text-4xl font-serif font-bold text-primary mb-2">Epstein Transparency Act — Latest News</h1>
       <p class="text-sm text-text-muted max-w-2xl">
-        Tracking the latest developments around the Epstein Files. Every story links to its original source.
+        Breaking news and updates on the Epstein Files, DOJ document releases, and investigations. Every story links to its original source.
       </p>
     </div>
 

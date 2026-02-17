@@ -25,7 +25,7 @@ keyTakeaways:
   - "Resignations span multiple continents, with UK launching national trafficking task force and France establishing special review team."
   - "UN human rights experts called for investigations, warning files may reveal crimes against humanity."
   - "Analysis found DOJ released only 2% of Epstein files, prompting bipartisan lawmakers to demand complete transparency."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95

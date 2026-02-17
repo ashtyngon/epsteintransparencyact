@@ -120,8 +120,15 @@ Do NOT pad with filler or repeat yourself — add genuine factual context.
 - Do NOT invent quotes or details not in the source
 - Context from public record should be clearly framed as background, not new reporting
 
-## Existing Articles on This Site
-Reference these naturally with markdown links if relevant (e.g., [related coverage](/news/slug)):
+## Cross-References (STRICT LIMITS)
+You may reference up to 3 existing articles from our site using markdown links like [text](/news/slug). Only include a cross-reference if:
+- It covers the SAME person, event, or document discussed in THIS article
+- It adds genuine context the reader needs
+- The link appears INLINE where the fact is mentioned, NOT in a roundup section at the end
+
+NEVER create "roundup" or "context" sections that list unrelated articles (resignations, investigations, international responses, etc. that are not part of THIS story). Stay focused on the story you are writing. If the source material only covers one person or event, the article should ONLY cover that person or event.
+
+NEVER include boilerplate paragraphs about Epstein's death, Maxwell's conviction, or the Transparency Act vote count unless they are directly relevant to THIS article's specific topic.
 
 {existingArticles}
 
@@ -188,14 +195,18 @@ An article under 400 words is NOT publishable. Expand it.
 - Lead with the most specific detail, not the most general one.
 - Use active voice. Be direct.
 
-### 7. CROSS-REFERENCE OTHER COVERAGE
+### 7. CROSS-REFERENCE OTHER COVERAGE (STRICT LIMITS)
 These articles are already published on the site. Where one is genuinely relevant (same story, same people, or related development), weave in a natural reference using a markdown link:
 
 {existingArticles}
 
 Good: "This is the second resignation since the files were released — [Goldman Sachs' top lawyer stepped down last week](/news/slug-here) after similar revelations."
 Bad: Forcing a link where there's no real connection.
-Use 0-3 cross-references. Only if they genuinely strengthen the piece.
+Use 0-3 cross-references. Only if they genuinely strengthen the piece. Links must appear INLINE where the fact is mentioned, NOT in a roundup section at the end.
+
+NEVER create "roundup" or "context" sections that list unrelated articles (resignations, investigations, international responses, etc. that are not part of THIS story). Stay focused on the story you are editing.
+
+NEVER include boilerplate paragraphs about Epstein's death, Maxwell's conviction, or the Transparency Act vote count unless they are directly relevant to THIS article's specific topic.
 
 ---
 
@@ -265,11 +276,16 @@ DO use:
 - Use ## subheadings to organize the piece into clear sections
 
 ## What Makes This a Feature
-- Synthesize ALL the source reports below into ONE cohesive narrative
-- Provide factual context: timeline of events, documented connections, public record
-- Connect documented facts between the different reports
-- Include relevant background from public records and prior reporting
+- Synthesize the source reports below into ONE cohesive narrative focused on a SINGLE ANGLE
+- A feature goes DEEPER on one topic — it does NOT go WIDER across all topics
+- Provide factual context: timeline of events, documented connections, public record for THIS story
+- Connect documented facts between the different source reports
 - End with documented next steps: scheduled hearings, pending legislation, announced investigations
+
+## CRITICAL: Stay on Topic
+Your feature article must have ONE clear subject. If the sources are about a person's resignation, write about that resignation — do NOT add sections about unrelated resignations, international investigations, congressional disputes, or other stories. Every section must serve the main narrative. A 1500-word article about ONE topic is better than a 2000-word article about twelve topics.
+
+NEVER include boilerplate paragraphs about Epstein's death, Maxwell's conviction, or the Transparency Act vote count unless they are directly relevant to THIS feature's specific topic.
 
 ## Critical Rule: Deliver Early
 The reader should understand the core facts within the first 3 paragraphs. Lead with the most specific detail or revelation, not background context.
@@ -281,8 +297,8 @@ The reader should understand the core facts within the first 3 paragraphs. Lead 
 - Do NOT invent quotes or details not in the sources
 - When sources contradict each other, note the discrepancy
 
-## Existing Articles on This Site
-Reference these naturally with markdown links if relevant:
+## Cross-References (STRICT LIMITS)
+You may reference up to 5 existing articles from our site. Only include references that are directly relevant to THIS feature's topic. Place links INLINE where facts are mentioned. Do NOT create roundup sections listing unrelated articles.
 
 {existingArticles}
 

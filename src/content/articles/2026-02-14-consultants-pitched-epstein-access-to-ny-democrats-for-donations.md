@@ -3,7 +3,7 @@ title: "Consultants Pitched Epstein Access to NY Democrats for Donations"
 publishedAt: "2026-02-14T00:42:50.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/13/nyregion/epstein-donations-democrats-hochul-jeffries.html"
-summary: "In the shadow of Jeffrey Epstein's death, a new cast of characters has emerged from the document releases that followed the Epstein Transparency Act—not as alle"
+summary: "A Democratic consulting firm repeatedly solicited donations from Epstein for New York House races, offering access to top politicians in return, according to released documents."
 people:
   - jeffrey-epstein
   - donald-trump

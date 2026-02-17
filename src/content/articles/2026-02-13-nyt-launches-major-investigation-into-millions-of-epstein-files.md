@@ -3,7 +3,7 @@ title: "NYT Launches Major Investigation Into Millions of Epstein Files"
 publishedAt: 2026-02-13
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-documents.html"
-summary: "New York Times Deploys Two Dozen Journalists to Review Millions of Epstein Files The New York Times has assigned 24 journalists to analyze a massive trove of Je"
+summary: "The New York Times assigned 24 journalists to analyze millions of pages of Epstein documents, one of the largest resource commitments to the case by any outlet."
 people:
   - jeffrey-epstein
   - kathryn-ruemmler
@@ -26,8 +26,6 @@ aiGenerated: true
 confidence: 0.95
 ---
 
-# New York Times Deploys Two Dozen Journalists to Review Millions of Epstein Files
-
 **The New York Times** has assigned **24 journalists** to analyze a massive trove of **Jeffrey Epstein documents** that would physically stack as high as the Empire State Building if printed, according to an article published **February 13, 2026**. The investigation aims to uncover new revelations in the sprawling case that has captured international attention.
 
 This large-scale journalistic effort signals continued public and media interest in the Epstein case. The investigation comes after the **January 30, 2026** DOJ release of approximately **3 million documents** related to Epstein's criminal activities. The Times' commitment of resources demonstrates that major news organizations believe significant undisclosed information remains buried in the files, particularly given that large portions remain redacted by the FBI and DOJ.
@@ -47,5 +45,3 @@ The document releases have already prompted the resignation of **Goldman Sachs t
 The investigation comes amid broader calls for transparency, particularly after the **Epstein Transparency Act** mandated document release but the FBI and DOJ continue to redact significant portions. Attorney General **Pam Bondi** has faced bipartisan pressure over the redaction policy.
 
 The timeline for publication of the Times' findings was not disclosed.
-
-Source: [New York Times](https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-documents.html)

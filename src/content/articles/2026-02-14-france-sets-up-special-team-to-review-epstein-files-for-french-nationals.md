@@ -3,7 +3,7 @@ title: "France Sets Up Special Team to Review Epstein Files for French Nationals
 publishedAt: "2026-02-14T21:27:08.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/world/2026/feb/14/french-prosecutors-to-set-up-special-team-to-review-epstein-files"
-summary: "The Paris prosecutor's office announced Saturday it has formed a dedicated team of magistrates to review evidence from recently released U.S. documents that may"
+summary: "The Paris prosecutor's office formed a dedicated team of magistrates to review U.S. Epstein documents for evidence implicating French nationals in related crimes."
 people:
   - jeffrey-epstein
   - jean-luc-brunel

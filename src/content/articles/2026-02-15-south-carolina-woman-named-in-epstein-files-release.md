@@ -3,7 +3,7 @@ title: "South Carolina Woman Named in Epstein Files Release"
 publishedAt: "2026-02-15T10:00:00.000Z"
 source: "Post and Courier"
 sourceUrl: "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOWpYQ3I5d2hjMDEtYUlKRnd1VkJZU0xzUV9BSFRSVklSNld0ODFlcExGNm9HYTJWem82RVVZaGc3VGxDY2xORk13ZTVBNUtTMGNvNnJiZmVTMHF5RjlJMjFZN0haVDNyVkk2QWk2bnB5MGlDNExTSGt6Mk1uc25Ua0EyXy0tczczMnE1LXk5TTFxaTg5SE9yc1JWUFpMN05OSkFCSTJoMzM0WGM3RWhFN0dmUjFnWEh4eGJ1TGR0THNQR1RELVFSUWlnakN1R2tuaTE0RDVpUGtRQlZIRGc?oc=5"
-summary: "A South Carolina Upstate woman maintained contact with Jeffrey Epstein over multiple years, according to documents released as part of the ongoing federal file "
+summary: "A South Carolina woman maintained contact with Jeffrey Epstein over multiple years, according to documents reviewed by the Post and Courier."
 people:
   - jeffrey-epstein
   - nancy-mace

@@ -3,7 +3,7 @@ title: "Massie: Bondi Avoided Eye Contact With Epstein Survivors at Hearing"
 publishedAt: "2026-02-15T16:25:00.000Z"
 source: "The Hill"
 sourceUrl: "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzkzb2JqemVxVFBVbENfVHFSTUxfajJaMy1EQmdvZnJwS3NXS0hFTXBPY0xVZW1GNlYwdHNxWEtlZXhfUmNxSkJ3QVdHamFtSkZQRHAxTy1ZZ1JLaHBXLTcwa2tUd2lnc19oV3lILVBSY0RVV2ZYaFBpVFUxVWRpUGxWTHI1emJibW9FazBHZTQ5TGp3c2pxTdIBngFBVV95cUxPMUJsNmstY043bERwRS1zRi1PWVNsRi1ENmRKc09oYjNTX2FqSHNqM1g4VzFsZFh6Z1hvYXVPWW5DcFZyN2t3NTd1UTZ0cnI2cldhMk5YV0ljM3VGbGlhTkpvVjA5U1VwNURRT1RqbXp4MUVGdFFHTWdJeHJLVWxGUzNtR2xjV0FmWklUcnhsRjVtMUVzeHBNWi1PWHN5UQ?oc=5"
-summary: "Rep. Thomas Massie said Attorney General Pam Bondi \"was 'afraid to' look at Epstein survivors\" during a recent congressional hearing on the handling of document"
+summary: "Rep. Thomas Massie said AG Bondi was 'afraid to' look at Epstein survivors during a congressional hearing on the DOJ's handling of document releases."
 people:
   - thomas-massie
   - pam-bondi

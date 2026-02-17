@@ -3,7 +3,7 @@ title: "Rep. Khanna: Epstein's Network Knew 'Enough to Know Better'"
 publishedAt: "2026-02-16T02:53:34.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/15/opinion/jeffrey-epstein-ro-khanna.html"
-summary: "Rep. Ro Khanna told The New York Times he has been disturbed by what he has learned from the Epstein files, acknowledging that members of the convicted sex offe"
+summary: "Rep. Ro Khanna wrote in the New York Times that Epstein's network 'knew enough to know better,' addressing the moral responsibility of elites who maintained post-conviction ties."
 people:
   - ro-khanna
   - jeffrey-epstein

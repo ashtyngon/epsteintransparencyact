@@ -61,25 +61,35 @@ function loadPeople(): PersonEntry[] {
   });
 }
 
+const MAX_PEOPLE_PER_ARTICLE = 10;
+
 function findMentionedPeople(body: string, people: PersonEntry[]): string[] {
-  const mentioned: Set<string> = new Set();
   const lowerBody = body.toLowerCase();
+  const matches: { slug: string; position: number }[] = [];
 
   for (const person of people) {
     const namesToCheck = [person.name, ...person.aliases];
+    let earliestPos = Infinity;
     for (const name of namesToCheck) {
-      if (name && lowerBody.includes(name.toLowerCase())) {
-        mentioned.add(person.slug);
-        break;
+      if (name) {
+        const pos = lowerBody.indexOf(name.toLowerCase());
+        if (pos !== -1 && pos < earliestPos) {
+          earliestPos = pos;
+        }
       }
+    }
+    if (earliestPos !== Infinity) {
+      matches.push({ slug: person.slug, position: earliestPos });
     }
   }
 
-  return [...mentioned];
+  // Sort by order of first appearance, cap at MAX_PEOPLE_PER_ARTICLE
+  matches.sort((a, b) => a.position - b.position);
+  return matches.slice(0, MAX_PEOPLE_PER_ARTICLE).map((m) => m.slug);
 }
 
 function findLinkedArticles(body: string, existingFiles: Set<string>): string[] {
-  const linkPattern = /\/articles\/([\w-]+)/g;
+  const linkPattern = /\/news\/([\w-]+)/g;
   const slugs = new Set<string>();
   let match;
   while ((match = linkPattern.exec(body)) !== null) {

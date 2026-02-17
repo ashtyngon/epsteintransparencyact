@@ -3,7 +3,7 @@ title: "Dubai Ports Chief Resigns After Hundreds of Secret Epstein Emails Expose
 publishedAt: 2026-02-13
 source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/news/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss"
-summary: "The chairman of one of the world's largest port operators has stepped down after newly released documents revealed hundreds of email exchanges between him and c"
+summary: "DP World CEO Sultan Ahmed bin Sulayem resigned after his name appeared 4,700-plus times in newly released Epstein files, marking a major corporate casualty of the document release."
 people:
   - sultan-ahmed-bin-sulayem
   - jeffrey-epstein

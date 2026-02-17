@@ -26,7 +26,6 @@ people:
   - thomas-massie
   - thorbjorn-jagland
   - tom-barrack
-  - howard-lutnick
 tags:
   - document-release
   - associates

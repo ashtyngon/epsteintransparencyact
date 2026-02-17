@@ -3,7 +3,7 @@ title: "Indian Businessman, Minister & Guru Named in Epstein Files"
 publishedAt: "2026-02-14T13:37:28.000Z"
 source: "The News Minute"
 sourceUrl: "https://www.thenewsminute.com/news/a-businessman-a-minister-and-a-guru-the-indians-in-epsteins-web-of-power-and-access"
-summary: "Three prominent Indians appear in documents released under the Epstein Transparency Act, according to reporting by The News Minute: Subrata Roy, founder of the "
+summary: "Three prominent Indians — businessman Subrata Roy, ex-minister Kapil Sibal, and guru Sri Sri Ravi Shankar — appear in documents released under the Epstein Transparency Act."
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -11,7 +11,7 @@ people:
   - peter-mandelson
 relatedArticles:
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - fbi-begins-epstein-records-review
 tags:
   - document-release
@@ -52,8 +52,8 @@ The News Minute reports his name surfaces in the Epstein files alongside corresp
 
 ## Global Network
 
-The Indian names join international figures documented in Epstein's circle. [Congressional subpoenas have targeted UK politician Lord Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), and [Dubai's DP World chairman Sultan Ahmed bin Sulayem resigned](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) after his name appeared more than 4,700 times in the files.
+The Indian names join international figures documented in Epstein's circle. [Congressional subpoenas have targeted UK politician Lord Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), and [Dubai's DP World chairman Sultan Ahmed bin Sulayem resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after his name appeared more than 4,700 times in the files.
 
-[The FBI maintains thousands of files still under review](/news/fbi-begins-epstein-records-review) as part of the 3.5 million pages, 180,000 images, and 2,000 videos mandated for release. Each document release has named additional figures who intersected with Epstein's operations between his 2008 conviction and his death. Epstein's associate Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years in federal prison.
+[The FBI maintains thousands of files still under review](/news/fbi-begins-epstein-records-review) as part of the 3.5 million pages, 180,000 images, and 2,000 videos mandated for release. Each document release has named additional figures who intersected with Epstein's operations between his 2008 conviction and his death.
 
 None of the three Indian figures has responded publicly.

@@ -3,7 +3,7 @@ title: "Leon Black Named in Epstein Files: Schools Cancel Photo Day"
 publishedAt: "2026-02-15T12:15:57.000Z"
 source: "Daily Kos"
 sourceUrl: "https://www.dailykos.com/stories/2026/2/15/2368819/-Schools-Cancel-Yearbook-Photos-After-Leon-Black-Named-in-Epstein-Files"
-summary: "Several schools have canceled scheduled yearbook photo sessions with a photography company after its founder Leon Black appeared in recently released Epstein fi"
+summary: "Schools canceled yearbook photo sessions with a company after its founder Leon Black, also founder of Apollo Global Management, appeared in released Epstein files."
 people:
   - leon-black
   - casey-wasserman
@@ -35,11 +35,11 @@ Black is the founder of Apollo Global Management. Schools terminated contracts w
 
 ## Pattern of Professional Fallout
 
-The cancellations mark the latest professional consequence for figures named in the files. [Goldman Sachs' top lawyer resigned](/articles/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/articles/2026-02-14-casey-wasserman-sells-talent-agency-after-ghislaine-maxwell-emails-exposed) after emails with Ghislaine Maxwell surfaced. A [Dubai ports executive stepped down](/articles/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails were exposed.
+The cancellations mark the latest professional consequence for figures named in the files. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) after emails with Ghislaine Maxwell surfaced. A [Dubai ports executive stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails were exposed.
 
 ## Educational Institutions Respond
 
-[Universities have faced Epstein-related scrutiny](/articles/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama), with DOJ files showing Epstein had influence at the University of Alabama. [Multiple college presidents and professors were named](/articles/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) in earlier document releases.
+[Universities have faced Epstein-related scrutiny](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama), with DOJ files showing Epstein had influence at the University of Alabama. [Multiple college presidents and professors were named](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) in earlier document releases.
 
 The school photography cancellations extend that scrutiny to K-12 institutions and their vendor relationships.
 

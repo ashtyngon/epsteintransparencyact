@@ -3,7 +3,7 @@ title: "New Mexico Launches First Full Investigation Into Epstein's Zorro Ranch"
 publishedAt: "2026-02-17T04:00:50.000Z"
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/02/17/epstein-new-mexico-ranch-state-house-review"
-summary: "New Mexico lawmakers voted unanimously Monday to launch the first comprehensive investigation into Jeffrey Epstein's Zorro Ranch, a nearly 10,000-acre property "
+summary: "New Mexico lawmakers voted unanimously to launch the first full investigation into Jeffrey Epstein's Zorro Ranch, creating a 'Truth Commission' to seek survivor testimony."
 people:
   - jeffrey-epstein
   - andrea-romero

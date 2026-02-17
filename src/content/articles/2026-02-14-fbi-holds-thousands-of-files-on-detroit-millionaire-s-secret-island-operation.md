@@ -3,7 +3,7 @@ title: "FBI Holds Thousands of Files on Detroit Millionaire's Secret Island Oper
 publishedAt: "2026-02-14T14:10:29.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/crime/north-fox-island-frank-shelden-fbi-files-epstein-b2918769.html"
-summary: "FBI Holds Thousands of Documents on Detroit Millionaire's Island Operation Decades Before Epstein Francis Shelden, a Detroit-area millionaire, operated a privat"
+summary: "The FBI holds thousands of files on Francis Shelden, a Detroit millionaire who ran a secret abuse operation on North Fox Island decades before Epstein's crimes."
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -35,8 +35,6 @@ The FBI continues to retain the thousands of pages on Shelden's island operation
 ## Parallels to the Epstein Case
 
 Shelden's use of a private island for criminal activity predates Epstein's operations by decades. Both cases share core elements: wealthy individuals operating on remote, privately-controlled islands where normal oversight was limited, and law enforcement accumulating extensive documentation without securing full accountability.
-
-Epstein purchased Little St. James Island in the U.S. Virgin Islands in 1998 and used it as a base for trafficking minors. He died on August 10, 2019 at the Metropolitan Correctional Center in Manhattan. His associate Ghislaine Maxwell was convicted on December 29, 2021 and sentenced to 20 years in federal prison.
 
 The retention of extensive FBI documentation on Shelden without public release follows a pattern that transparency advocates have criticized in the Epstein case as well. The DOJ has released 3.5 million pages, 180,000 images, and 2,000 videos of Epstein-related files, but significant redactions remain. The Shelden files predate the Transparency Act and are not covered by its disclosure requirements.
 

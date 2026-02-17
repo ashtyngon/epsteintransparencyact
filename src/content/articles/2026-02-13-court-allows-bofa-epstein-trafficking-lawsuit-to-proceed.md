@@ -3,7 +3,7 @@ title: "Court Allows BofA Epstein Trafficking Lawsuit to Proceed"
 publishedAt: 2026-02-13
 source: "Courthouse News"
 sourceUrl: "https://www.courthousenews.com/bofa-and-epstein/"
-summary: "Court Allows Epstein Victim's Trafficking Claims Against Bank of America to Proceed A federal court in New York has ruled that an Jeffrey Epstein victim can mov"
+summary: "A federal court ruled an Epstein victim can proceed with trafficking claims against Bank of America, alleging the bank ignored red flags and profited from his operation."
 people:
   - jeffrey-epstein
 tags:
@@ -21,8 +21,6 @@ aiGenerated: true
 confidence: 0.95
 ---
 
-# Court Allows Epstein Victim's Trafficking Claims Against Bank of America to Proceed
-
 A federal court in New York has ruled that an **Jeffrey Epstein** victim can move forward with key claims in her lawsuit against **Bank of America**, alleging the financial institution knowingly ignored red flags in Epstein's transactions and profited from his sex trafficking operation. The ruling, issued **February 13, 2026**, allows claims under the **Trafficking Victims Protection Act** to proceed.
 
 The decision marks a significant legal development in efforts to hold financial institutions accountable for their alleged role in facilitating Epstein's criminal enterprise. Banks are required by law to monitor suspicious activity and report it to federal authorities, obligations that the victim alleges Bank of America failed to fulfill.
@@ -38,5 +36,3 @@ The court found these allegations sufficient to allow the victim's **participati
 The ruling represents one of the first instances where trafficking claims against a major financial institution in connection with the Epstein case have survived initial legal challenges. The decision suggests courts may hold banks to account when they allegedly turn a blind eye to trafficking-related financial activity.
 
 The case will now proceed to discovery, where the victim's legal team can seek internal Bank of America documents and communications related to Epstein's accounts. No trial date has been announced.
-
-Source: [Courthouse News](https://www.courthousenews.com/bofa-and-epstein/)

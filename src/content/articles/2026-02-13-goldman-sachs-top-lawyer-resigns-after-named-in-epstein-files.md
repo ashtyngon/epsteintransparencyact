@@ -3,7 +3,7 @@ title: "Goldman Sachs Top Lawyer Resigns After Named in Epstein Files"
 publishedAt: 2026-02-13
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/02/13/epstein-files-goldman-sachs-lawyer-kathryn-ruemmler-resigns"
-summary: "Top Goldman Sachs Lawyer Kathryn Ruemmler Resigns After Epstein Files Release Kathryn Ruemmler, Goldman Sachs' top lawyer and former White House counsel to Pres"
+summary: "Goldman Sachs top lawyer Kathryn Ruemmler resigned after released emails showed her referring to Epstein as 'Uncle Jeffrey' in years of personal correspondence."
 people:
   - kathryn-ruemmler
   - jeffrey-epstein
@@ -22,8 +22,6 @@ aiGenerated: true
 confidence: 0.95
 ---
 
-# Top Goldman Sachs Lawyer Kathryn Ruemmler Resigns After Epstein Files Release
-
 **Kathryn Ruemmler**, Goldman Sachs' top lawyer and former White House counsel to President Obama, resigned Thursday night after her name appeared in documents from the Department of Justice's recent Epstein files release. The resignation, effective **June 30**, makes Ruemmler the latest high-profile figure to step down following the **January 30** release of **3 million documents** related to convicted sex offender **Jeffrey Epstein**.
 
 The resignation comes as the DOJ's massive document release continues to expose previously unknown connections between Epstein and prominent figures in business and politics. Ruemmler served as co-chair of Goldman's reputational risk committee, a role that adds significance to her departure.
@@ -41,5 +39,3 @@ According to Axios, Ruemmler is the latest high-profile figure to resign or be o
 Ruemmler's White House service under President Obama and her subsequent role overseeing reputational risk at one of the world's largest investment banks makes her resignation particularly notable among the fallout from the document release.
 
 The source article indicates Ruemmler gave a Thursday interview addressing the emails, though the full statement was not included in the available excerpt.
-
-Source: [Axios](https://www.axios.com/2026/02/13/epstein-files-goldman-sachs-lawyer-kathryn-ruemmler-resigns)

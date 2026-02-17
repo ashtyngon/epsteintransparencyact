@@ -3,7 +3,7 @@ title: "Steve Bannon Texted With Epstein Despite Toxicity: NYT"
 publishedAt: "2026-02-16T15:08:50.000Z"
 source: "New York Times (US)"
 sourceUrl: "https://www.nytimes.com/2026/02/16/us/politics/jeffrey-epstein-steve-bannon.html"
-summary: "Steve Bannon maintained contact with Jeffrey Epstein for years after the financier's 2008 conviction for soliciting prostitution from a minor, according to newl"
+summary: "Steve Bannon maintained contact with Jeffrey Epstein for years after the financier's 2008 conviction, according to newly released DOJ files reported by the New York Times."
 people:
   - steve-bannon
   - jeffrey-epstein

@@ -3,7 +3,7 @@ title: "Joe Rogan: Epstein Files 'Scare the Hell Out of Me'"
 publishedAt: "2026-02-13T20:45:57.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/blogs/in-the-know/5737969-rogan-podcast-epstein-files/"
-summary: "Joe Rogan said the Epstein files \"scare the s--- out of me\" and are \"definitely not a hoax\" during a recent podcast episode—his most extensive comments yet on t"
+summary: "Joe Rogan said the Epstein files 'scare the hell out of me' and are 'definitely not a hoax' during his most extensive podcast comments yet on the documents."
 image: "https://thehill.com/wp-content/uploads/sites/2/2025/11/AP25098600628596-e1762958764929.jpg?w=900"
 people:
   - joe-rogan

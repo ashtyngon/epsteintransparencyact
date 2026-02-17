@@ -3,7 +3,7 @@ title: "UK Police Launch National Task Force for Epstein Trafficking Allegations
 publishedAt: "2026-02-14T13:10:56.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/14/uk-police-set-up-national-group-uk-jeffrey-epstein-allegations"
-summary: "British authorities have created a national police unit to coordinate investigations into allegations tied to Jeffrey Epstein's trafficking network in the Unite"
+summary: "British police created a national task force to coordinate investigations into Epstein trafficking allegations in the UK, with a senior source calling the expected claims a 'tsunami.'"
 people:
   - jeffrey-epstein
   - prince-andrew

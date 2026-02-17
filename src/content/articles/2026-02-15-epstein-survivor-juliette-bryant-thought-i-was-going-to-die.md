@@ -3,7 +3,7 @@ title: "Epstein Survivor Juliette Bryant: 'Thought I Was Going to Die'"
 publishedAt: "2026-02-15T19:36:14.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/crime/jeffrey-epstein-files-trafficked-juliette-bryant-b2920767.html"
-summary: "A woman who says she was trafficked by Jeffrey Epstein has described fearing for her life during an assault on his private jet, according to testimony included "
+summary: "Epstein survivor Juliette Bryant told investigators she thought she was 'going to die' during an assault on his private jet while being flown to his island."
 people:
   - jeffrey-epstein
   - juliette-bryant

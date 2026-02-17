@@ -53,7 +53,7 @@ Huffines, who describes himself as a "Trump Republican," has not publicly addres
 
 The Guardian reported that the property changed hands two years ago, well after Epstein's 2019 death and Maxwell's 2021 conviction on sex trafficking charges. Texas GOP officials have expressed concern about the purchase becoming a political liability in Huffines's comptroller race.
 
-Earlier reporting showed Huffines [owned Epstein's Zorro Ranch](/news/2026-02-16-maga-candidate-don-huffines-owned-epstein-s-zorro-ranch), prompting alarm among Republican voters in the state. The purchase coincided with ongoing investigations into Epstein's network.
+Earlier reporting showed Huffines [owned Epstein's Zorro Ranch](/news/2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m), prompting alarm among Republican voters in the state. The purchase coincided with ongoing investigations into Epstein's network.
 
 ## Bannon Maintained Epstein Contact
 

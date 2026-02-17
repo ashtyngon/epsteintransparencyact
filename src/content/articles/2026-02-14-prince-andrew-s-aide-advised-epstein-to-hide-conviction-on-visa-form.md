@@ -3,7 +3,7 @@ title: "Prince Andrew's Aide Advised Epstein to Hide Conviction on Visa Form"
 publishedAt: "2026-02-14T07:00:47.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/14/david-stern-jeffrey-epstein-hide-conviction-china-visa"
-summary: "A close associate of Prince Andrew advised Jeffrey Epstein to illegally conceal his child sexual abuse conviction when applying for a Chinese visa, according to"
+summary: "A Prince Andrew associate advised Jeffrey Epstein to conceal his sex abuse conviction on a Chinese visa application, according to newly released DOJ documents."
 people:
   - prince-andrew
   - jeffrey-epstein
@@ -21,7 +21,7 @@ relatedArticles:
   - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties
@@ -93,7 +93,7 @@ Above the Law reported on internal discussions about whether Karp's tenure would
 
 The firm previously represented **Goldman Sachs** in various matters. [Goldman's top lawyer resigned this week](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. The resignation marked the first C-suite departure at a major investment bank directly linked to the document release.
 
-[Multiple corporate executives and board members have resigned](/news/2026-02-13-dp-world-chair-forced-out-as-epstein-documents-expose-global-ties) since the files became public. The pattern spans industries from shipping to entertainment to finance.
+[Multiple corporate executives and board members have resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) since the files became public. The pattern spans industries from shipping to entertainment to finance.
 
 ## School Photo Company Responds to Concerns
 

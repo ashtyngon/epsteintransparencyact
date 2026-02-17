@@ -3,7 +3,7 @@ title: "Bondi Grilled on Epstein Files: Why AG Resists Full Document Release"
 publishedAt: 2026-02-13
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/media/5737123-bondi-sparks-outrage-epstein/"
-summary: "The Attorney General came to defend the Justice Department's handling of the Epstein files. She left with a target on her back. Pam Bondi is now facing fierce c"
+summary: "AG Pam Bondi faced fierce bipartisan criticism during a five-hour House hearing on Epstein files, with Democrats accusing her of lying under oath about DOJ releases."
 image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/bondipam_021126gn23_w.jpg?w=900"
 people:
   - pam-bondi

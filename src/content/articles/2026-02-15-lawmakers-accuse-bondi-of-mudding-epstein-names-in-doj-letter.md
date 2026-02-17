@@ -3,7 +3,7 @@ title: "Lawmakers Accuse Bondi of 'Mudding' Epstein Names in DOJ Letter"
 publishedAt: "2026-02-15T17:50:00.000Z"
 source: "The Independent"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObF83eXJ3RUw0b3A4MS1NTXlGU3NnUG9QNjEtWDdRR3I0aXRYV01wZGRZeXlkaUlyUG9naDVxaE5Na0EyekdURnlrenNtTkdRNy1lNE5zZW53NUZKN0VaT3p2a2xZbTRuNm9mMlktUUxVc3JwOE9EMUxGZ09TUklPRGRvYmE5bWlQVlktQW5zNkdCTG5oQXF5elhPQndoMHBISDhOUXg2Mnk?oc=5"
-summary: "Congressional lawmakers sent a letter to Attorney General Pam Bondi accusing her of obscuring accountability in the Epstein case by publicly naming deceased cel"
+summary: "Lawmakers accused AG Bondi of 'purposefully mudding' the Epstein name list by including deceased celebrities, obscuring meaningful connections to the case."
 people:
   - pam-bondi
   - jeffrey-epstein

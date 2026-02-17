@@ -3,10 +3,7 @@ title: Orioles Owner David Rubenstein Named in Epstein Files
 publishedAt: 2026-02-12T00:00:00.000Z
 source: CBS News
 sourceUrl: "https://www.cbsnews.com/baltimore/news/baltimore-orioles-owner-david-rubenstein-named-jeffrey-epstein-files/"
-summary: >-
-  David Rubenstein, the billionaire co-founder of the Carlyle Group and owner of
-  the Baltimore Orioles, met with Jeffrey Epstein in 2012, according to newly
-  surfa
+summary: "Orioles owner David Rubenstein met with Jeffrey Epstein in 2012, four years after Epstein's conviction, according to newly released files reported by CBS News."
 articleType: news
 status: published
 people:

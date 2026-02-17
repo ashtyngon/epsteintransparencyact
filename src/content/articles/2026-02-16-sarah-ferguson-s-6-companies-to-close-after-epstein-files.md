@@ -3,7 +3,7 @@ title: "Sarah Ferguson's 6 Companies to Close After Epstein Files"
 publishedAt: "2026-02-16T23:53:18.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations"
-summary: "Six companies linked to Sarah Ferguson, ex-wife of Prince Andrew, are being shuttered following the release of documents showing her continued contact with Jeff"
+summary: "Six companies linked to Sarah Ferguson are being dissolved after released documents showed her continued contact with Jeffrey Epstein following his 2008 conviction."
 people:
   - sarah-ferguson
   - andrew-mountbatten-windsor

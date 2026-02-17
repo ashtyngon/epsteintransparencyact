@@ -22,7 +22,7 @@ keyTakeaways:
   - "In 2002, Trump called Epstein 'a terrific guy' and said 'he likes beautiful women as much as I do, and many of them are on the younger side.'"
   - "Multiple Republicans, including Rep. Thomas Massie and Rep. Marjorie Taylor Greene, have criticized the administration's handling of the files."
   - "International law enforcement agencies in the UK, France, and New Mexico have launched new Epstein investigations based on released documents."
-status: review
+status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95

@@ -3,7 +3,7 @@ title: "Trump GOP Candidate's Family Bought Epstein's Abuse Ranch for $13.4M"
 publishedAt: "2026-02-16T16:55:18.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/16/epstein-ranch-new-mexico-purchase-republican-candidate"
-summary: "Donald Huffines, a Texas businessman and former Republican state senator now running for Texas comptroller, confirmed through a spokesperson that his family pur"
+summary: "Donald Huffines, a Texas GOP candidate for comptroller, confirmed his family purchased Epstein's Zorro Ranch for $13.4 million, a property tied to trafficking and abuse."
 people:
   - jeffrey-epstein
   - donald-huffines
@@ -76,6 +76,6 @@ The comparison also highlighted differences in how the documents were released. 
 
 [Rep. Ro Khanna stated](/news/2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better) that Epstein's network "knew enough to know better" in comments about the figures documented in the files. [Rep. Nancy Mace demanded](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files) unredacted co-conspirator files from the DOJ.
 
-Lawmakers from both parties have criticized the scope of DOJ's release. [Rep. Marjorie Taylor Greene](/news/2026-02-16-mtg-criticizes-trump-s-epstein-files-handling-as-political-miscalculation) described Trump's handling of the Epstein files as a "political miscalculation."
+Lawmakers from both parties have criticized the scope of DOJ's release. [Rep. Marjorie Taylor Greene](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) described Trump's handling of the Epstein files as a "political miscalculation."
 
 [Congress previously subpoenaed billionaire Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) to testify on his Epstein ties. That subpoena remains active as part of the ongoing congressional investigation into Epstein's network of contacts.
