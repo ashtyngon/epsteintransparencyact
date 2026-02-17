@@ -81,7 +81,6 @@ Among the documents released under the Transparency Act was a birthday letter fr
 ![](https://news.artnet.com/app/news-upload/2025/07/trump-epstein-birthday-book-drawing-1627x2048.png)
 
 ```plain
-In November 1992, NBC cameras filmed Trump and Epstein at a "Calendar Girl" party at Mar-a-Lago attended by approximately 28 women, including cheerleaders from the Buffalo Bills and Miami Dolphins. Trump and Epstein were the only two men present besides their staffers. The footage, originally shot for an NBC segment on Trump's social life and not aired until its release in July 2019, shows the two men laughing, talking, and pointing out women to each other. It remains the most widely seen visual evidence of their social relationship.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i_Xm26DikxE?si=fBRkXIBHqlWMP1h6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
