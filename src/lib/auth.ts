@@ -59,6 +59,8 @@ export async function getGitHubUser(token: string): Promise<GitHubUser | null> {
     headers: {
       Authorization: `Bearer ${token}`,
       Accept: 'application/vnd.github.v3+json',
+      'User-Agent': 'EpsteinTransparencyCMS/1.0',
+      'X-GitHub-Api-Version': '2022-11-28',
     },
   });
 
@@ -74,6 +76,8 @@ export async function checkRepoAccess(
     headers: {
       Authorization: `Bearer ${token}`,
       Accept: 'application/vnd.github.v3+json',
+      'User-Agent': 'EpsteinTransparencyCMS/1.0',
+      'X-GitHub-Api-Version': '2022-11-28',
     },
   });
 
