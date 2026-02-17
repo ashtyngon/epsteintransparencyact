@@ -15,6 +15,25 @@ people:
   - peter-mandelson
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-16-epstein-emails-sex-abuser-sympathized-with-kavanaugh-during-confirmation
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
+  - 2026-02-16-sarah-ferguson-s-6-companies-to-close-after-epstein-files
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
+  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
+  - fbi-begins-epstein-records-review
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
 tags:
   - transparency-act
   - political

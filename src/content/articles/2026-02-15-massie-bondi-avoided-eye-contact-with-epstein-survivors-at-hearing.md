@@ -9,6 +9,16 @@ people:
   - pam-bondi
   - jeffrey-epstein
   - nancy-mace
+relatedArticles:
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - epstein-transparency-act-signed-into-law
 tags:
   - testimony
   - survivors

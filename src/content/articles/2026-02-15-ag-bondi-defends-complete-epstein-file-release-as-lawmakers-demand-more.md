@@ -16,6 +16,28 @@ people:
   - prince-andrew
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
+  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
+  - 2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
+  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
+  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
+  - 2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency
 tags:
   - transparency-act
   - document-release

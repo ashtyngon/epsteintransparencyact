@@ -11,6 +11,8 @@ people:
   - lawrence-summers
   - leon-botstein
   - martin-nowak
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
 tags:
   - document-release
   - associates

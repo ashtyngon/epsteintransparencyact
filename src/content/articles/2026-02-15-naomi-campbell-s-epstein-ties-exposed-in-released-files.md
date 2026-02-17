@@ -8,6 +8,8 @@ people:
   - naomi-campbell
   - jeffrey-epstein
   - virginia-giuffre
+relatedArticles:
+  - 2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power
 tags:
   - document-release
   - associates

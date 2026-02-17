@@ -11,6 +11,25 @@ people:
   - pam-bondi
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-17-greene-faces-death-threats-over-trump-epstein-files-dispute
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
+  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
+  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
 tags:
   - transparency-act
   - document-release

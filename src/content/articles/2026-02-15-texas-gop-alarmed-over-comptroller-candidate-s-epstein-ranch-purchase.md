@@ -6,6 +6,8 @@ sourceUrl: "https://www.thecentersquare.com/texas/article_dcfbb739-8b36-4e33-b9f
 summary: "Texas Republicans raised concerns after a state comptroller candidate purchased Jeffrey Epstein's former Zorro Ranch, a property tied to his trafficking operation."
 people:
   - jeffrey-epstein
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
 tags:
   - associates
   - political

@@ -10,6 +10,17 @@ people:
   - pam-bondi
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
+  - 2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse
+  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
+  - 2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m
 tags:
   - document-release
   - transparency-act

@@ -1,0 +1,69 @@
+---
+title: "GOP Epstein Law Author Issues Dire Warning to Fellow Republicans"
+publishedAt: "2026-02-17T14:59:00.000Z"
+source: "MassLive.com"
+sourceUrl: "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUJzYTRDM1dmdGJaamUtTGNrS284U3A3bGtZVzM4aHJlR0VCdkJOeV9kLTZ2ZDdHNFhrdjU2ZjJRWU5mTU1BaVFSWUpyeWRZckEtNWU5eUhSWDVXb1B4ZjN2SDhwSUhYQ2RjMENhTzJzVTRiVGxGREdkX3BFLWVmRXNnZDFGSmxDUWh5RlJNcnd0ZFU5QnF4b1MwWG5xTVhoZnR5eHFJRTAwQUtwYnd1dUh2UkxGVU0zSXJUX2t4LUpScEdDbEtwLTl2M1c4dEdyN0E?oc=5"
+summary: "Rep. Thomas Massie, the Kentucky Republican who authored the Epstein Transparency Act, predicted last week that some of his party colleagues could face politica"
+people:
+  - gop-lawmaker
+  - thomas-massie
+  - jeffrey-epstein
+  - pam-bondi
+  - marjorie-taylor-greene
+  - casey-wasserman
+  - ghislaine-maxwell
+  - leslie-wexner
+  - nancy-mace
+  - ro-khanna
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-16-mtg-criticizes-trump-s-epstein-files-handling-as-political-miscalculation
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
+tags:
+  - political
+  - transparency-act
+keyTakeaways:
+  - "Rep. Thomas Massie, author of the Epstein Transparency Act, predicted some Republican colleagues will face political consequences as more files become public."
+  - "Massie made the statement after a House Judiciary Committee hearing where AG Pam Bondi testified about DOJ document releases."
+  - "The Kentucky congressman said both Republicans and Democrats will be 'uncomfortable' as the case files continue emerging."
+  - "Massie has publicly criticized the Trump administration's handling of file releases, calling redactions excessive despite the transparency law's mandate."
+  - "Multiple executives have resigned after appearing in released files, including Olympic organizing chief Casey Wasserman and Hyatt chairman Tom Pritzker."
+status: published
+aiGenerated: true
+articleType: news
+confidence: 0.85
+---
+
+Rep. Thomas Massie, the Kentucky Republican who authored the Epstein Transparency Act, predicted last week that members of his own party will face political consequences as more files from the case become public.
+
+"I think there are going to be some Republicans who are uncomfortable," Massie told reporters. "There are going to be some Democrats who are uncomfortable. That's just the nature of what we're dealing with here."
+
+Massie made the statement after a House Judiciary Committee hearing where Attorney General Pam Bondi testified about the Department of Justice's release of Epstein-related documents. The hearing centered on [whether the DOJ had complied with the transparency law](/news/epstein-transparency-act-signed-into-law) Massie championed.
+
+## Massie's Growing Conflict With Trump Administration
+
+The congressman's prediction comes as he has publicly broken with the Trump administration over the file release. Massie [criticized what he called excessive redactions](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) in documents released by the DOJ, saying thousands of names remain blacked out despite the transparency law's mandate.
+
+He attended the February 13 hearing with survivors of Epstein's abuse. Massie later said Bondi ["avoided eye contact" with the survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) during her testimony. He subsequently said he had [lost confidence in the attorney general](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over the file release handling.
+
+An independent analysis found the DOJ [released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) in its possession. Massie [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) in a public statement as pressure mounted around the file release.
+
+Rep. Marjorie Taylor Greene, a Georgia Republican and Trump ally, also [criticized the administration's handling of the files](/news/2026-02-16-mtg-criticizes-trump-s-epstein-files-handling-as-political-miscalculation) as a "political miscalculation."
+
+## Bipartisan Fallout Already Underway
+
+Massie's prediction acknowledges that Epstein's connections crossed party lines. Court documents and emails released by the DOJ show the financier maintained relationships with prominent figures in both major political parties.
+
+Multiple executives and officials have resigned after their names appeared in released files. Casey Wasserman, chairman of the 2028 Los Angeles Olympics organizing committee, [stepped down after Maxwell email revelations](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations). Tom Pritzker, heir to the Hyatt hotel fortune, [resigned from his position](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) as executive chairman after documents showed contact with Epstein's network.
+
+Les Wexner, the billionaire founder of Victoria's Secret parent company, faces scrutiny after his name appeared unredacted in files. Congress [issued a subpoena for Wexner to testify](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) about his relationship with Epstein. Wexner gave Epstein power of attorney over his finances for years.
+
+Bondi released a letter listing approximately 300 names from Epstein's contacts, but lawmakers from both parties have demanded fuller disclosure. Rep. Nancy Mace, a South Carolina Republican, [called for unredacted co-conspirator files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files). Rep. Ro Khanna, a California Democrat, issued similar demands for complete document releases.

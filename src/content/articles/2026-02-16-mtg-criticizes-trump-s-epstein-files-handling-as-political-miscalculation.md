@@ -12,6 +12,15 @@ people:
   - nancy-mace
   - pam-bondi
   - thomas-massie
+relatedArticles:
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
+  - 2026-02-15-lawmakers-accuse-bondi-of-mudding-epstein-names-in-doj-letter
+  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
 tags:
   - political
 keyTakeaways:

@@ -12,6 +12,9 @@ people:
   - bill-clinton
   - ghislaine-maxwell
   - pam-bondi
+relatedArticles:
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
 tags:
   - document-release
   - associates

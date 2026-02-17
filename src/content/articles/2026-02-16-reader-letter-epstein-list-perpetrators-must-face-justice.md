@@ -8,6 +8,15 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - peter-mandelson
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - fbi-begins-epstein-records-review
 tags:
   []
 keyTakeaways:

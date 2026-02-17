@@ -15,6 +15,29 @@ people:
   - prince-andrew
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties
+  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - 2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission
+  - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
+  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
+  - 2026-02-14-fbi-holds-thousands-of-files-on-detroit-millionaire-s-secret-island-operation
+  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
+  - 2026-02-16-global-investigations-into-epstein-s-international-network-expand
 tags:
   - document-release
   - associates

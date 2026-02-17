@@ -12,6 +12,21 @@ people:
   - marjorie-taylor-greene
   - nancy-mace
   - thomas-massie
+relatedArticles:
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
+  - 2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
 tags:
   - testimony
   - political

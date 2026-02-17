@@ -14,6 +14,29 @@ people:
   - peter-mandelson
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
+  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
+  - 2026-02-16-minnesota-iowa-lawmakers-plan-review-of-unredacted-epstein-files
+  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-17-greene-faces-death-threats-over-trump-epstein-files-dispute
+  - 2026-02-17-clinton-accuses-trump-doj-of-epstein-cover-up-as-files-released
+  - 2026-02-17-trump-denies-epstein-links-again-claims-nothing-to-hide
 tags:
   - transparency-act
   - document-release

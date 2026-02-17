@@ -9,6 +9,10 @@ people:
   - juliette-bryant
   - ghislaine-maxwell
   - pam-bondi
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
 tags:
   - victims
   - survivors

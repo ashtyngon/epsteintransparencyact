@@ -15,6 +15,30 @@ people:
   - prince-andrew
   - thomas-massie
   - thorbjorn-jagland
+relatedArticles:
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
+  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
+  - 2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations
+  - 2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show
+  - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
 tags:
   - investigation
   - transparency-act

@@ -12,6 +12,19 @@ people:
   - pam-bondi
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
+  - epstein-transparency-act-signed-into-law
+  - fbi-begins-epstein-records-review
+  - court-releases-new-batch-of-documents
 tags:
   - transparency-act
   - document-release

@@ -10,6 +10,19 @@ people:
   - marjorie-taylor-greene
   - nancy-mace
   - thomas-massie
+relatedArticles:
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
 tags:
   - transparency-act
   - document-release

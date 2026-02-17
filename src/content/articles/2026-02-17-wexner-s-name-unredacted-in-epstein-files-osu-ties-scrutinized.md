@@ -9,6 +9,15 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - pam-bondi
+relatedArticles:
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-14-ohio-politicians-received-campaign-funds-from-wexner
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
+  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
 tags:
   - document-release
   - associates

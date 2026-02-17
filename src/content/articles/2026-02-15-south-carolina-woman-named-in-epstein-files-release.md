@@ -9,6 +9,17 @@ people:
   - nancy-mace
   - pam-bondi
   - thomas-massie
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - associates
   - document-release

@@ -19,6 +19,48 @@ people:
   - steve-bannon
   - thomas-massie
   - thorbjorn-jagland
+relatedArticles:
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
+  - 2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m
+  - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
+  - 2026-02-14-indian-businessman-minister-guru-named-in-epstein-files
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show
+  - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
+  - 2026-02-15-leon-black-named-in-epstein-files-schools-cancel-photo-day
+  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
+  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-14-ohio-politicians-received-campaign-funds-from-wexner
+  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
+  - 2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability
+  - 2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability
+  - 2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse
+  - 2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak
+  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
+  - court-releases-new-batch-of-documents
+  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
+  - 2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die
+  - 2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency
+  - 2026-02-14-fbi-holds-thousands-of-files-on-detroit-millionaire-s-secret-island-operation
 tags:
   - document-release
   - associates

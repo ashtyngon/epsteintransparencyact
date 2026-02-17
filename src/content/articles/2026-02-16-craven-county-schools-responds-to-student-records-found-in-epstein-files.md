@@ -8,6 +8,12 @@ people:
   - jeffrey-epstein
   - pam-bondi
   - thomas-massie
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
 tags:
   - document-release
   - transparency-act

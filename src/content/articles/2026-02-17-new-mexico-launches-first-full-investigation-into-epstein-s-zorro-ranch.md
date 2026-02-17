@@ -9,6 +9,14 @@ people:
   - andrea-romero
   - nancy-mace
   - pam-bondi
+relatedArticles:
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m
+  - 2026-02-15-texas-gop-alarmed-over-comptroller-candidate-s-epstein-ranch-purchase
 tags:
   - investigation
   - legislation

@@ -9,6 +9,13 @@ people:
   - pam-bondi
   - jeffrey-epstein
   - marjorie-taylor-greene
+relatedArticles:
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
 tags:
   - political
   - transparency-act

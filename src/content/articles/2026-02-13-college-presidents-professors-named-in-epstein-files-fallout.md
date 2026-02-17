@@ -13,6 +13,7 @@ people:
   - martin-nowak
   - seth-lloyd
   - steven-pinker
+  - ghislaine-maxwell
 relatedArticles:
   - court-releases-new-batch-of-documents
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

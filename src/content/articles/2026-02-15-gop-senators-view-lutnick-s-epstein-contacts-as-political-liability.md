@@ -12,6 +12,14 @@ people:
   - marjorie-taylor-greene
   - pam-bondi
   - thomas-massie
+relatedArticles:
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
 tags:
   - associates
   - political

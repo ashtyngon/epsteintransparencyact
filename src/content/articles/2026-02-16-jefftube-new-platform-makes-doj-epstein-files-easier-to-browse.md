@@ -9,6 +9,11 @@ people:
   - nancy-mace
   - pam-bondi
   - thomas-massie
+relatedArticles:
+  - 2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
 tags:
   - document-release
   - transparency-act

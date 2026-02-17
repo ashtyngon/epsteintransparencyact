@@ -17,6 +17,14 @@ people:
   - nancy-mace
   - thomas-massie
   - howard-lutnick
+relatedArticles:
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - epstein-transparency-act-signed-into-law
+  - fbi-begins-epstein-records-review
+  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
+  - 2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
 tags:
   - document-release
   - transparency-act

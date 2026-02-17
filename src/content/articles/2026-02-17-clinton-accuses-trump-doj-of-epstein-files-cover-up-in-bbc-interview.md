@@ -29,6 +29,69 @@ people:
   - thomas-massie
   - thorbjorn-jagland
   - tom-barrack
+relatedArticles:
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse
+  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
+  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
+  - 2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability
+  - 2026-02-14-trump-insider-tom-barrack-named-in-epstein-files
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
+  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
+  - 2026-02-14-prince-andrew-s-aide-advised-epstein-to-hide-conviction-on-visa-form
+  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
+  - 2026-02-16-sarah-ferguson-s-6-companies-to-close-after-epstein-files
+  - 2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
+  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - 2026-02-16-craven-county-schools-responds-to-student-records-found-in-epstein-files
+  - 2026-02-14-nyc-schools-chief-joel-klein-met-with-epstein-in-2013
+  - 2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show
+  - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
+  - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
+  - 2026-02-13-piers-morgan-named-29-times-in-epstein-files-here-s-what-we-found
+  - 2026-02-15-naomi-campbell-s-epstein-ties-exposed-in-released-files
+  - 2026-02-12-orioles-owner-david-rubenstein-named-in-epstein-files
+  - 2026-02-14-indian-businessman-minister-guru-named-in-epstein-files
+  - 2026-02-15-leon-black-named-in-epstein-files-schools-cancel-photo-day
+  - 2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations
+  - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation
+  - 2026-02-14-ohio-politicians-received-campaign-funds-from-wexner
+  - 2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m
+  - 2026-02-15-texas-gop-alarmed-over-comptroller-candidate-s-epstein-ranch-purchase
+  - 2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die
+  - 2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency
+  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
+  - 2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump
+  - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
+  - 2026-02-16-epstein-emails-sex-abuser-sympathized-with-kavanaugh-during-confirmation
+  - 2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties
+  - 2026-02-14-fbi-holds-thousands-of-files-on-detroit-millionaire-s-secret-island-operation
+  - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
+  - 2026-02-16-tim-dillon-blasts-bondi-s-epstein-hearing-testimony-completely-unprepared
+  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
+  - 2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals
 tags:
   - transparency-act
   - political

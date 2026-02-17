@@ -17,6 +17,33 @@ people:
   - steve-bannon
   - thomas-massie
   - tom-barrack
+relatedArticles:
+  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
+  - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
+  - 2026-02-14-trump-insider-tom-barrack-named-in-epstein-files
+  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
+  - 2026-02-15-texas-gop-alarmed-over-comptroller-candidate-s-epstein-ranch-purchase
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
+  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
+  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse
+  - 2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak
 tags:
   - transparency-act
   - document-release

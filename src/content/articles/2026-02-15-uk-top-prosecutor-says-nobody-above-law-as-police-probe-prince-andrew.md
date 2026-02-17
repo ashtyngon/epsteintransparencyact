@@ -8,6 +8,10 @@ people:
   - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
+relatedArticles:
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
 tags:
   - investigation
   - associates

@@ -10,6 +10,20 @@ people:
   - nancy-mace
   - ro-khanna
   - thomas-massie
+relatedArticles:
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
+  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
+  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
+  - 2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power
+  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
 tags:
   - transparency-act
   - document-release
