@@ -2,17 +2,18 @@
 export const prerender = false;
 
 import { exchangeCodeForToken, getGitHubUser, checkRepoAccess, createSession, setSessionCookie } from '../../lib/auth';
+import { getEnv } from '../../lib/env';
 
 const code = Astro.url.searchParams.get('code');
 if (!code) {
   return Astro.redirect('/admin/login/');
 }
 
-const runtime = (Astro.locals as any).runtime;
-const clientId = runtime?.env?.GITHUB_CLIENT_ID || import.meta.env.GITHUB_CLIENT_ID || '';
-const clientSecret = runtime?.env?.GITHUB_CLIENT_SECRET || import.meta.env.GITHUB_CLIENT_SECRET || '';
-const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
-const kv = runtime?.env?.ADMIN_SESSIONS;
+const cfEnv = getEnv(Astro.locals);
+const clientId = cfEnv.GITHUB_CLIENT_ID;
+const clientSecret = cfEnv.GITHUB_CLIENT_SECRET;
+const repo = cfEnv.GITHUB_REPO;
+const kv = cfEnv.ADMIN_SESSIONS;
 
 let error = '';
 

@@ -1,5 +1,6 @@
 import { defineMiddleware } from 'astro:middleware';
 import { getSessionIdFromCookie, getSession } from './lib/auth';
+import { getEnv } from './lib/env';
 
 export const onRequest = defineMiddleware(async (context, next) => {
   const { pathname } = context.url;
@@ -23,8 +24,8 @@ export const onRequest = defineMiddleware(async (context, next) => {
   }
 
   // Get KV binding from Cloudflare runtime
-  const runtime = (context.locals as any).runtime;
-  const kv = runtime?.env?.ADMIN_SESSIONS;
+  const cfEnv = getEnv(context.locals);
+  const kv = cfEnv.ADMIN_SESSIONS;
 
   if (!kv) {
     // KV not available (local dev without bindings) — allow access in dev
