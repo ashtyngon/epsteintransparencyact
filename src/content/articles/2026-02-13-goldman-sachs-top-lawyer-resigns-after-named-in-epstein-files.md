@@ -22,20 +22,24 @@ aiGenerated: true
 confidence: 0.95
 ---
 
-**Kathryn Ruemmler**, Goldman Sachs' top lawyer and former White House counsel to President Obama, resigned Thursday night after her name appeared in documents from the Department of Justice's recent Epstein files release. The resignation, effective **June 30**, makes Ruemmler the latest high-profile figure to step down following the **January 30** release of **3 million documents** related to convicted sex offender **Jeffrey Epstein**.
+**Kathryn Ruemmler**, Goldman Sachs' general counsel and former White House counsel to President Obama, resigned Thursday night after her name appeared in documents from the Department of Justice's Epstein files release, according to Axios.<sup>[1](#ref-1)</sup> The resignation, effective **June 30**, followed the **January 30** release of **3 million documents** related to convicted sex offender **Jeffrey Epstein**.<sup>[1](#ref-1)</sup>
 
-The resignation comes as the DOJ's massive document release continues to expose previously unknown connections between Epstein and prominent figures in business and politics. Ruemmler served as co-chair of Goldman's reputational risk committee, a role that adds significance to her departure.
+Ruemmler served as co-chair of Goldman's reputational risk committee.<sup>[1](#ref-1)</sup>
 
-## Emails Show Years-Long Relationship
+## Emails in the Files
 
-The released files include emails spanning several years from a "**Kathy Ruemmler**" who referred to Epstein as "uncle Jeffrey." In a **2018 email**, the Kathy Ruemmler in the files thanks him for a "lovely and thoughtful" gift.
+The released files include emails spanning several years from a "**Kathy Ruemmler**" who referred to Epstein as "uncle Jeffrey," according to Axios.<sup>[1](#ref-1)</sup> In a **2018 email**, the person identified as Kathy Ruemmler in the files thanks Epstein for a gift.<sup>[1](#ref-1)</sup>
 
-A **January 2019 email** states: "Am totally tricked out by Uncle Jeffrey today! Jeffrey boots, handbag, and w=tch!" The emails suggest a personal relationship that extended beyond professional interactions.
+A **January 2019 email** references gifts from Epstein.<sup>[1](#ref-1)</sup> The emails indicate a personal relationship between the parties.<sup>[1](#ref-1)</sup>
 
-## Latest in Series of Resignations
+## Context
 
-According to Axios, Ruemmler is the latest high-profile figure to resign or be ousted following the DOJ's document release. The **January 30, 2026** release represented one of the largest disclosures of Epstein-related materials to date, containing 3 million pages of documents from various investigations into the disgraced financier.
+According to Axios, Ruemmler is one of several high-profile figures to resign or depart their positions following the DOJ's document release.<sup>[1](#ref-1)</sup> The **January 30, 2026** release was one of the largest disclosures of Epstein-related materials to date, containing 3 million pages of documents from various investigations.<sup>[1](#ref-1)</sup>
 
-Ruemmler's White House service under President Obama and her subsequent role overseeing reputational risk at one of the world's largest investment banks makes her resignation particularly notable among the fallout from the document release.
+Ruemmler's White House service under President Obama and her subsequent role at Goldman Sachs have made her departure one of the most prominent among the fallout from the document release.<sup>[1](#ref-1)</sup>
 
-The source article indicates Ruemmler gave a Thursday interview addressing the emails, though the full statement was not included in the available excerpt.
+The source article indicates Ruemmler gave a Thursday interview addressing the emails, though the full statement was not included in the available reporting.<sup>[1](#ref-1)</sup>
+
+## References
+
+1. <span id="ref-1"></span>[Axios: Epstein Files Goldman Sachs Lawyer Kathryn Ruemmler Resigns](https://www.axios.com/2026/02/13/epstein-files-goldman-sachs-lawyer-kathryn-ruemmler-resigns)

@@ -29,16 +29,23 @@ articleType: news
 confidence: 0.95
 ---
 
-Ghislaine Maxwell refused to testify before Congress last week but told lawmakers she would reveal the "truth" about Jeffrey Epstein — if they free her from prison first.
+Ghislaine Maxwell declined to testify before Congress last week but communicated through her legal team that she would provide information about Jeffrey Epstein if granted clemency, according to The Guardian.<sup>[1](#ref-1)</sup>
 
-Maxwell, convicted of helping Epstein draw teenage girls into sexual abuse, made the offer through her legal team rather than appearing herself. Experts quoted by The Guardian questioned her motivations for the proposal.
+Maxwell, convicted of sex trafficking minors in connection with Epstein, made the offer through her attorneys rather than appearing herself. Legal experts quoted by The Guardian questioned her motivations for the proposal.<sup>[1](#ref-1)</sup>
 
 ## The Offer
 
-Maxwell dangled information before Congress and the public while declining to provide testimony under oath. She is currently serving a federal prison sentence for sex trafficking.
+Maxwell communicated the offer while declining to provide testimony under oath. She is currently serving a 20-year federal prison sentence for sex trafficking.<sup>[1](#ref-1)</sup>
 
-Her refusal to testify came as Congress has [subpoenaed multiple Epstein associates](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), including billionaire Les Wexner. Lawmakers have also pressed the [Justice Department over redacted files](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) and [questioned Attorney General Bondi](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about sealed documents.
+Her refusal to testify came as Congress has [subpoenaed multiple Epstein associates](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), including billionaire Les Wexner.<sup>[2](#ref-2)</sup> Lawmakers have also pressed the [Justice Department over redacted files](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) and [questioned Attorney General Bondi](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about sealed documents.<sup>[3](#ref-3)</sup><sup>[4](#ref-4)</sup>
 
-The Epstein Transparency Act has led to the release of thousands of pages identifying dozens of individuals connected to Epstein. The disclosures have triggered resignations and investigations in France.
+The Epstein Transparency Act has led to the release of thousands of pages naming dozens of individuals who had contact with Epstein. The disclosures have prompted resignations and investigations in multiple countries.
 
-Maxwell maintains her innocence.
+Maxwell maintains her innocence.<sup>[1](#ref-1)</sup>
+
+## References
+
+1. <span id="ref-1"></span>[Ghislaine Maxwell Epstein Clemency Offer](https://www.theguardian.com/us-news/2026/feb/15/ghislaine-maxwell-epstein-clemency)
+2. <span id="ref-2"></span>[Congress Subpoenas Wexner to Testify on Epstein Ties](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties)
+3. <span id="ref-3"></span>[Trump DOJ Accused Over Epstein File Redactions](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions)
+4. <span id="ref-4"></span>[Bondi Grilled on Epstein Files](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release)

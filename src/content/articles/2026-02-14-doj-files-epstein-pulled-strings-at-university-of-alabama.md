@@ -33,24 +33,29 @@ articleType: news
 confidence: 0.85
 ---
 
-Jeffrey Epstein helped arrange a guest speaker for the University of Alabama, according to Department of Justice records reported by WVTM.
+A University of Alabama administrator asked Jeffrey Epstein to help arrange a guest speaker, according to Department of Justice records reported by CBS 42.<sup>[1](#ref-1)</sup>
 
-The DOJ files allege Epstein facilitated the speaker arrangement, though details about when this occurred, who at the university was involved, and the identity of the speaker have not been disclosed.
+The DOJ files indicate Epstein was involved in the speaker arrangement, though details about when this occurred, who at the university was involved, and the identity of the speaker have not been disclosed.<sup>[1](#ref-1)</sup>
 
-The revelation places Alabama on the growing list of academic institutions whose Epstein connections have surfaced since the Epstein Transparency Act forced the release of millions of pages of documents. [College presidents and professors at multiple universities](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have already faced scrutiny after being named in the files.
+Alabama is among the academic institutions whose Epstein connections have surfaced since the Epstein Transparency Act mandated the release of millions of pages of documents. [College presidents and professors at multiple universities](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have been named in the files.<sup>[2](#ref-2)</sup>
 
-## Beyond the Ivy League
+## Other Academic Connections
 
-Universities became critical to Epstein's strategy for building legitimacy. He donated $9.1 million to **Harvard**, where he visited campus at least 40 times after his 2008 conviction and met with faculty including **Lawrence Summers** and **Martin Nowak**. He gave $850,000 to **MIT**, where Media Lab director **Joi Ito** resigned over the relationship. Professor **Seth Lloyd** at MIT received a $225,000 personal grant from Epstein.
+Epstein donated $9.1 million to **Harvard**, where, according to a 2020 internal review, he visited campus at least 40 times after his 2008 conviction and met with faculty including **Lawrence Summers** and **Martin Nowak**.<sup>[2](#ref-2)</sup> He donated $850,000 to **MIT**, where Media Lab director **Joi Ito** resigned in 2019 over his relationship with Epstein.<sup>[2](#ref-2)</sup> Professor **Seth Lloyd** at MIT received a $225,000 personal grant from Epstein.<sup>[2](#ref-2)</sup>
 
-The Alabama connection suggests his influence reached beyond the coastal universities where he cultivated his image as a science philanthropist. Arranging speakers—connecting institutions with prominent figures—was a low-cost way to make himself valuable to administrators while expanding his network. At Bard College, president **Leon Botstein** appeared in Epstein's personal contacts, showing the breadth of his academic reach.
+The Alabama connection indicates Epstein's institutional contacts extended beyond the coastal universities where he was most active as a donor. At Bard College, president **Leon Botstein** appeared in Epstein's personal contacts, according to the New York Times.<sup>[2](#ref-2)</sup>
 
-The University of Alabama has not publicly addressed the DOJ records.
+The University of Alabama has not publicly addressed the DOJ records.<sup>[1](#ref-1)</sup>
 
-## A Pattern of Access
+## Congressional Investigation
 
-Epstein's method was consistent: offer connections, donations, or introductions to high-profile individuals, then extract legitimacy and access in return. At **Ohio State University**, the connection ran through **Les Wexner**, Epstein's only confirmed financial client and the university's largest donor, whose name adorns the Wexner Medical Center. University administrators often accepted the help without asking hard questions about who they were dealing with.
+At **Ohio State University**, the connection runs through **Les Wexner**, Epstein's only confirmed financial client and the university's largest donor, whose name is on the Wexner Medical Center.<sup>[2](#ref-2)</sup>
 
-Congressional investigators have subpoenaed multiple figures with academic ties to testify about their Epstein relationships, including [billionaire Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe).
+Congressional investigators have called multiple figures to testify about their Epstein relationships, including [billionaire Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Lord Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe).<sup>[3](#ref-3)</sup><sup>[4](#ref-4)</sup>
 
-Each document release expands the map of institutions that gave Epstein a foothold. Universities that accepted his help now face questions about whether their vetting failures provided cover for a serial predator—and why so many were willing to take his calls in the first place.
+## References
+
+1. <span id="ref-1"></span>[CBS 42: The Time Jeffrey Epstein Was Invited to Graduation at the University of Alabama](https://www.cbs42.com/news/the-time-jeffrey-epstein-was-invited-to-graduation-at-the-university-of-alabama/)
+2. <span id="ref-2"></span>[College Presidents, Professors Named in Epstein Files Fallout](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout)
+3. <span id="ref-3"></span>[Congress Subpoenas Wexner Over Epstein Ties](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties)
+4. <span id="ref-4"></span>[Congress Subpoenas Mandelson Over Epstein Ties](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe)

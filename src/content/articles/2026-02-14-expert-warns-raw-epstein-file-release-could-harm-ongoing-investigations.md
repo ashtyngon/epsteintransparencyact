@@ -31,22 +31,26 @@ articleType: news
 confidence: 0.85
 ---
 
-A legal expert warned that releasing Epstein files without proper review "can be counterproductive," according to RFI.
+A legal expert warned that releasing Epstein files without proper review "can be counterproductive," according to RFI.<sup>[1](#ref-1)</sup>
 
-The comment directly challenges the approach taken under the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), which mandated release of FBI and DOJ records related to Jeffrey Epstein and Ghislaine Maxwell. The law has resulted in [millions of files spreading across social media](/news/2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak) with minimal processing.
+The statement addresses the approach taken under the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), which mandated release of FBI and DOJ records related to Jeffrey Epstein and Ghislaine Maxwell.<sup>[1](#ref-1)</sup> The law has resulted in [millions of files spreading across social media](/news/2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak) with minimal processing.
 
 ## Investigation Concerns
 
-The expert's warning centers on potential harm to ongoing investigations from unfiltered document dumps. The [FBI has cited active investigations](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) as reason for maintaining redactions, though critics call this a stalling tactic.
+The expert's warning focused on potential harm to ongoing investigations from unfiltered document releases, according to RFI.<sup>[1](#ref-1)</sup> The [FBI has cited active investigations](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) as reason for maintaining redactions.
 
-Attorney General Bondi faced congressional questioning about DOJ resistance to full disclosure. She defended redactions on investigative and privacy grounds. The Trump administration has called for ending the investigation entirely, drawing criticism from Rep. Marjorie Taylor Greene.
+Attorney General Bondi faced congressional questioning about DOJ resistance to full disclosure. She defended redactions on investigative and privacy grounds. The Trump administration called for ending the investigation, drawing criticism from Rep. Marjorie Taylor Greene.
 
 ## Competing Models
 
-Other governments have adopted structured review processes. France created a special team to examine files for French nationals before taking action. UK police launched a task force to investigate trafficking allegations systematically.
+Other governments have adopted structured review processes.<sup>[1](#ref-1)</sup> France created a special team to examine files for French nationals before taking action. UK police launched a task force to investigate trafficking allegations systematically.
 
 Members of Congress have pushed for immediate full transparency. Rep. Thomas Massie declared "I am not suicidal" while demanding complete disclosure. Rep. Ro Khanna called for naming all individuals in the files.
 
-The raw document approach has produced high-profile resignations and congressional subpoenas, but the expert's position suggests unvetted releases may compromise prosecutorial efforts.
+The document releases have produced high-profile resignations and congressional subpoenas. The expert stated that unvetted releases could compromise prosecutorial efforts, according to RFI.<sup>[1](#ref-1)</sup>
 
 Courts continue to release new batches of Epstein-related documents while the debate over release methodology continues.
+
+## References
+
+1. <span id="ref-1"></span>[Epstein files: Releasing documents in raw state 'counterproductive' - RFI](https://www.rfi.fr/en/international-news/20260214-epstein-files-releasing-documents-raw-state-counterproductive)

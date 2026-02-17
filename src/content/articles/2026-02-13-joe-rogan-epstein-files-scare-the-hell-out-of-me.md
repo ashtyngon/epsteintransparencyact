@@ -35,18 +35,25 @@ articleType: news
 confidence: 0.85
 ---
 
-Joe Rogan said the Epstein files **"scare the s--- out of me"** and called them **"definitely not a hoax"** during his podcast this week.
+Joe Rogan said the Epstein files "scare the s--- out of me" and called them "definitely not a hoax" during his podcast this week, according to The Hill.<sup>[1](#ref-1)</sup>
 
-**"This is the one that I hate the most,"** Rogan told Black Rifle Coffee Company chair Evan Hafer, according to The Hill.
+"This is the one that I hate the most," Rogan told Black Rifle Coffee Company chair Evan Hafer, according to The Hill.<sup>[1](#ref-1)</sup>
 
-The comments came days after [Rogan addressed his own name appearing in the files](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me). Rogan hosts one of the most-listened-to podcasts in the world.
+The comments came days after Rogan's own name appeared in the files.<sup>[1](#ref-1)</sup> Rogan hosts one of the most-listened-to podcasts in the world.
 
-## Why It Matters
+## Context
 
-Rogan's reaction—broadcast to millions of listeners—comes as documents continue to reveal a network of powerful people connected to a convicted sex trafficker.
+Rogan's comments were broadcast to millions of listeners as documents continued to name individuals in connection with the convicted sex trafficker.<sup>[1](#ref-1)</sup>
 
-The files have already forced out [Goldman Sachs top lawyer Kathryn Ruemmler](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), a former White House counsel, and [DP World chairman Sultan Ahmed bin Sulayem](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), who appeared more than 4,700 times in the documents. Congress has subpoenaed billionaire Leslie Wexner, Epstein's only confirmed financial client, and Lord Mandelson, the former UK ambassador. Rep. Thomas Massie named six men on the House floor whose identities remain officially redacted.
+The file releases have been followed by the departure of [Goldman Sachs top lawyer Kathryn Ruemmler](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), a former White House counsel, and [DP World chairman Sultan Ahmed bin Sulayem](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), who appeared more than 4,700 times in the documents.<sup>[2](#ref-2)</sup><sup>[3](#ref-3)</sup> Congress has subpoenaed billionaire Leslie Wexner, described in documents as Epstein's financial client, and Lord Mandelson, the former UK ambassador.<sup>[1](#ref-1)</sup> Rep. Thomas Massie named six individuals on the House floor whose identities remain officially redacted.<sup>[4](#ref-4)</sup>
 
-Attorney General Pam Bondi continues facing pressure over why so much remains hidden, even as the DOJ tracks which lawmakers are searching the files.
+Attorney General Pam Bondi continues facing congressional pressure over the scope of redactions.<sup>[1](#ref-1)</sup>
 
 Rogan's comments reflect growing public attention to the Epstein files and the ongoing debate over full document disclosure.
+
+## References
+
+1. <span id="ref-1"></span>[Rogan podcast: Epstein files 'scare the hell out of me'](https://thehill.com/blogs/in-the-know/5737969-rogan-podcast-epstein-files/) — The Hill
+2. <span id="ref-2"></span>[Goldman Sachs Top Lawyer Resigns After Named in Epstein Files](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)
+3. <span id="ref-3"></span>[Dubai Ports Chief Resigns After Hundreds of Secret Epstein Emails](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed)
+4. <span id="ref-4"></span>[Lawmaker Names 6 Men Hidden in Epstein Files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act)

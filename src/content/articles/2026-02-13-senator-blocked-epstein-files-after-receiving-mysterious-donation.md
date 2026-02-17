@@ -29,38 +29,40 @@ aiGenerated: true
 confidence: 0.85
 ---
 
-A Republican senator voted against releasing unredacted Epstein files weeks after his political committee received a $50,000 donation from a dark money group with ties to billionaires named in the documents, The New Republic reports.
+Senator Josh Hawley of Missouri voted against releasing unredacted Epstein files weeks after his political committee received a $50,000 donation from a political action committee whose donors include individuals named in the documents, The New Republic reported.<sup>[1](#ref-1)</sup>
 
-Senator Josh Hawley of Missouri cast one of five GOP votes in January opposing the Epstein Transparency Act. The legislation required full disclosure of government files related to Jeffrey Epstein's sex trafficking network. Two weeks before that vote, his leadership PAC received the maximum allowable contribution from Americans for Prosperity Action, according to Federal Election Commission records reviewed by the outlet.
+Hawley cast one of five GOP votes in January opposing the Epstein Transparency Act, which required full disclosure of government files related to Jeffrey Epstein's sex trafficking network.<sup>[1](#ref-1)</sup> Two weeks before that vote, his leadership PAC received the maximum allowable contribution from Americans for Prosperity Action, according to Federal Election Commission records reviewed by the outlet.<sup>[1](#ref-1)</sup>
 
-The conservative advocacy group is funded by billionaire donors including several with documented connections to Epstein, The New Republic found.
+The conservative advocacy group is funded by billionaire donors including several whose names appear in Epstein-related documents, according to The New Republic.<sup>[1](#ref-1)</sup>
 
 ## The Timeline
 
-Hawley voted no on January 15, nearly derailing legislation that ultimately passed with bipartisan support and [became law](/news/epstein-transparency-act-signed-into-law). The $50,000 donation arrived December 29.
+Hawley voted no on January 15. The legislation ultimately passed with bipartisan support and [became law](/news/epstein-transparency-act-signed-into-law).<sup>[1](#ref-1)</sup> The $50,000 donation was recorded on December 29, according to FEC records cited by the outlet.<sup>[1](#ref-1)</sup>
 
-Americans for Prosperity Action does not disclose its donors. But previous reporting has identified major contributors including Les Wexner, the L Brands founder who gave Epstein power of attorney over his finances, transferred a $77 million Manhattan mansion to Epstein for $0, and now [faces a congressional subpoena](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) over that relationship.
+Americans for Prosperity Action does not disclose its donors. Previous reporting has identified major contributors including Les Wexner, the L Brands founder who gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion to Epstein for $0, according to public records.<sup>[1](#ref-1)</sup> Wexner now [faces a congressional deposition](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) about that relationship.
 
-At least three other AFP Action megadonors appear in newly released Epstein flight logs and email correspondence, according to The New Republic.
+At least three other AFP Action major donors appear in newly released Epstein flight logs and email correspondence, according to The New Republic.<sup>[1](#ref-1)</sup>
 
-Hawley's office did not respond to the outlet's requests for comment about the donation or his vote.
+Hawley's office did not respond to the outlet's requests for comment about the donation or his vote.<sup>[1](#ref-1)</sup>
 
-## The Obstruction Campaign
+## The Vote
 
-Hawley has publicly positioned himself as an opponent of elite corruption. His vote against the transparency legislation has drawn scrutiny in light of that record.
+Hawley joined four other Republicans in voting no: Senators Ted Cruz, Rand Paul, Mike Lee, and Tommy Tuberville. Their stated objections ranged from privacy concerns to states' rights arguments.<sup>[1](#ref-1)</sup>
 
-He joined four other Republicans in voting no: Senators Ted Cruz, Rand Paul, Mike Lee, and Tommy Tuberville. Their stated objections ranged from privacy concerns to states' rights arguments.
+Since the act became law, the Justice Department has been [accused of over-redacting released documents](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) and has reportedly been monitoring which lawmakers access the files.<sup>[2](#ref-2)</sup>
 
-Since the act became law, the Justice Department has been [accused of over-redacting released documents](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) and monitoring which lawmakers access the files. President Trump called for ending the investigation entirely before reversing course under public pressure.
+## Campaign Finance Context
 
-## Follow the Money
+Dark money contributions are legal but do not require public disclosure of donors.<sup>[1](#ref-1)</sup>
 
-Dark money contributions are legal but do not require public disclosure of donors. Campaign finance watchdogs have called for greater transparency in such donations.
+Americans for Prosperity Action spent over $80 million on the 2024 election cycle, providing similar five-figure donations to at least a dozen other senators, according to The New Republic. Most of those senators voted for transparency.<sup>[1](#ref-1)</sup>
 
-Americans for Prosperity Action spent over $80 million on the 2024 election cycle, providing similar five-figure donations to at least a dozen other senators. Most of them voted for transparency.
+The New York Times has begun an investigation into millions of pages of newly released files.<sup>[3](#ref-3)</sup>
 
-Every week brings new revelations about powerful figures working to minimize their exposure. Goldman Sachs' top lawyer resigned after emails surfaced. A DP World CEO was forced out over similar revelations. College presidents and professors scrambled to explain their connections.
+Transparency advocates have called on Hawley to return the donation and explain his vote.<sup>[1](#ref-1)</sup>
 
-The New York Times is now conducting a major investigation into millions of pages of newly released files.
+## References
 
-Transparency advocates are calling on Hawley to return the donation and explain his vote.
+1. <span id="ref-1"></span>[The New Republic: MAGA Senator Donation Epstein Conspirator Vote Block Files](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files)
+2. <span id="ref-2"></span>[AG Bondi Caught Spying on Democrats' Epstein Files Searches](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches)
+3. <span id="ref-3"></span>[NYT Launches Major Investigation into Millions of Epstein Files](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files)

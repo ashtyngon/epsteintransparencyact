@@ -34,34 +34,42 @@ reviewedBy: ''
 reviewedAt: ''
 ---
 
-**Les Wexner's** name appeared unredacted this week in federal files related to Jeffrey Epstein, placing new attention on the billionaire's ties to the convicted sex offender and his [prominent role at **Ohio State University**.](https://trustees.osu.edu/people/leslie-wexner)
+**Les Wexner's** name appeared unredacted this week in federal files related to Jeffrey Epstein, drawing attention to the billionaire's documented contacts with the convicted sex offender and his [prominent role at **Ohio State University**](https://trustees.osu.edu/people/leslie-wexner), according to The Guardian.<sup>[1](#ref-1)</sup>
 
-Wexner's portrait hangs at Ohio State University's Wexner Medical Center. His name appears on buildings and programs across the institution following decades of philanthropic donations. The university has not announced any review of these naming rights following the document release.
+Wexner's portrait hangs at Ohio State University's Wexner Medical Center. His name appears on buildings and programs across the institution following decades of philanthropic donations. The university has not announced any review of these naming rights following the document release.<sup>[1](#ref-1)</sup>
 
 ![Photo of Wexner from the Ohio State University Board of Trustees](https://trustees.osu.edu/sites/default/files/styles/square_large/public/media/image/2018/11/wexner_les.jpg)
 
-Documents show Wexner allegedly sent Epstein a note for his 50th birthday in 2003 that included a hand-drawn image of a woman's breasts. Wexner founded Victoria's Secret and built his fortune as a retail mogul.
+Documents show Wexner allegedly sent Epstein a note for his 50th birthday in 2003 that included a hand-drawn image, according to The Guardian.<sup>[1](#ref-1)</sup> Wexner founded Victoria's Secret and built his fortune as a retail executive.
 
 ## Congressional and Political Scrutiny
 
-Congress [subpoenaed Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) earlier this month to testify about his relationship with Epstein. The subpoena covers the period from 1985 through Epstein's death in 2019.
+Congress [subpoenaed Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) earlier this month to testify about his contacts with Epstein.<sup>[2](#ref-2)</sup> The subpoena covers the period from 1985 through Epstein's death in 2019.
 
-[Ohio politicians received campaign funds from Wexner](/news/2026-02-14-ohio-politicians-received-campaign-funds-from-wexner) across multiple election cycles, according to state campaign finance records. The contributions went to gubernatorial campaigns, state legislative races, and local officials in central Ohio.
+[Ohio politicians received campaign funds from Wexner](/news/2026-02-14-ohio-politicians-received-campaign-funds-from-wexner) across multiple election cycles, according to state campaign finance records.<sup>[3](#ref-3)</sup> The contributions went to gubernatorial campaigns, state legislative races, and local officials in central Ohio.
 
-The unredacted documents emerged as part of a wider release of Epstein-related files. [Attorney General Bondi listed 300 names](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release) from the files, though lawmakers have accused the Justice Department of incomplete disclosure.
+The unredacted documents emerged as part of a wider release of Epstein-related files. [Attorney General Bondi listed 300 names](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release) from the files, though lawmakers have accused the Justice Department of incomplete disclosure.<sup>[4](#ref-4)</sup>
 
-## Model Town Reference
+## New Albany Reference
 
-Wexner built New Albany, Ohio, as a planned community outside Columbus in the 1990s. The Guardian report referenced questions about "how did he and his model town fuel Epstein's rise," though details remain limited in the publicly released documents.
+Wexner built New Albany, Ohio, as a planned community outside Columbus in the 1990s. The Guardian report raised questions about the community's connection to Epstein's activities, though details remain limited in the publicly released documents.<sup>[1](#ref-1)</sup>
 
-The billionaire has not been charged with any crime related to Epstein. His attorneys have previously stated he had no knowledge of Epstein's abuse of underage girls.
+Wexner has not been charged with any crime related to Epstein. His attorneys have previously stated he had no knowledge of Epstein's alleged abuse.
 
 ## Broader Document Release
 
-The Wexner documents form part of thousands of pages released by the Justice Department under the Epstein Transparency Act. Trump called for ending the Epstein investigation earlier this month, drawing criticism from members of Congress.
+The Wexner documents form part of thousands of pages released by the Justice Department under the Epstein Transparency Act. Trump called for ending the Epstein investigation earlier this month, drawing criticism from members of Congress.<sup>[5](#ref-5)</sup>
 
-Representative Massie lost confidence in Attorney General Bondi over the handling of file redactions. Representative Mace accused the DOJ of hiding names in the released documents.
+Representative Massie said he lost confidence in Attorney General Bondi over the handling of file redactions. Representative Mace accused the DOJ of withholding names in the released documents.
 
-The files have triggered consequences for other prominent figures. Goldman Sachs' top lawyer resigned after being named in the files. Hyatt heir Tom Pritzker stepped down over documented contact with Epstein.
+The files have prompted consequences for other prominent figures. Goldman Sachs' top lawyer resigned after being named in the files. Hyatt heir Tom Pritzker stepped down after contact with Epstein was documented.
 
-Ohio State University received more than $100 million in donations from Wexner and his wife Abigail over three decades. The institution has not commented on whether the unredacted documents will prompt any review of Wexner's prominent presence on campus.
+Ohio State University received more than $100 million in donations from Wexner and his wife Abigail over three decades, according to reporting. The institution has not commented on whether the unredacted documents will prompt any review of Wexner's presence on campus.<sup>[1](#ref-1)</sup>
+
+## References
+
+1. <span id="ref-1"></span>[Wexner's name unredacted in Epstein files: OSU ties scrutinized](https://www.theguardian.com/us-news/2026/feb/17/les-wexner-jeffrey-epstein) - The Guardian
+2. <span id="ref-2"></span>[Congress subpoenas Wexner, billionaire to testify on Epstein ties](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties)
+3. <span id="ref-3"></span>[Ohio politicians received campaign funds from Wexner](/news/2026-02-14-ohio-politicians-received-campaign-funds-from-wexner)
+4. <span id="ref-4"></span>[AG Bondi lists 300 names in Epstein files release](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release)
+5. <span id="ref-5"></span>[Trump calls for end to Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation)

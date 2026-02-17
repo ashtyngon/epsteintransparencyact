@@ -33,30 +33,35 @@ aiGenerated: true
 confidence: 0.92
 ---
 
-**Peter Mandelson**, former UK ambassador to the United States, has been summoned to testify before Congress over his ties to Jeffrey Epstein. Two members of the House Committee on Oversight and Government Reform sent the request Friday, pulling a former foreign diplomat into the expanding investigation.
+**Peter Mandelson**, former UK ambassador to the United States, has been asked to testify before Congress about his contacts with Jeffrey Epstein, according to The Hill.<sup>[1](#ref-1)</sup> Two members of the House Committee on Oversight and Government Reform sent the request Friday.
 
-The summons extends the congressional investigation beyond American executives and officials. Mandelson, who previously served as British Business Secretary and European Commissioner for Trade, is the first foreign ambassador—current or former—called to answer questions about Epstein connections.
+Mandelson, who previously served as British Business Secretary and European Commissioner for Trade, is the first foreign ambassador -- current or former -- called to answer questions about Epstein connections before Congress.<sup>[1](#ref-1)</sup>
 
-## What Congress Wants
+## What Congress Requested
 
-The Friday email from committee members requested Mandelson's testimony as part of the panel's investigation into Epstein's activities. The lawmakers did not detail what specific evidence or allegations prompted the summons.
+The Friday communication from committee members Reps. Robert Garcia and Suhas Subramanyam requested Mandelson's testimony as part of the panel's investigation into Epstein's activities, according to The Hill.<sup>[1](#ref-1)</sup> The lawmakers did not publicly detail what specific evidence or allegations prompted the request.
 
-Mandelson's name has appeared in reporting about Epstein's network of contacts, though the full scope of their relationship remains unclear. The committee has requested he testify under oath.
+Mandelson's name has appeared in reporting about Epstein's network of contacts, though the full scope of their relationship has not been publicly established.<sup>[1](#ref-1)</sup> The committee has requested he testify under oath.<sup>[1](#ref-1)</sup>
 
-## Expanding Pressure Campaign
+## Broader Congressional Investigation
 
-The Oversight Committee has subpoenaed or summoned multiple high-profile figures in recent weeks. Billionaire retail magnate Les Wexner was [ordered to testify in Ohio](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) about his financial relationship with Epstein, with one congressman [labeling Wexner a co-conspirator](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) from the House floor.
+The Oversight Committee has summoned multiple high-profile figures in recent weeks. Billionaire retail magnate Les Wexner was [ordered to testify in Ohio](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) about his financial relationship with Epstein, with one congressman [referring to Wexner as a co-conspirator](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) from the House floor.<sup>[2](#ref-2)</sup>
 
-Multiple executives have been forced out as names surfaced in documents. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after "Uncle Jeffrey" emails became public. A Dubai ports executive was ousted after hundreds of messages with Epstein emerged.
+Multiple executives have departed after being named in documents. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails referring to Epstein as "Uncle Jeffrey" became public.<sup>[3](#ref-3)</sup> A Dubai ports executive departed after appearing thousands of times in the files.<sup>[4](#ref-4)</sup>
 
-Congress has also battled the Justice Department over continued redactions. Attorney General Bondi has faced repeated grilling about why DOJ resists releasing full documents, even as the FBI explained its redaction process to lawmakers.
+Congress has also pressed the Justice Department over continued redactions. Attorney General Bondi has faced questioning about why DOJ has not released full documents.<sup>[1](#ref-1)</sup>
 
-## Diplomatic Complications
+## Diplomatic Considerations
 
-Mandelson's summons creates potential friction between Washington and London. No sitting or former British ambassador has been called before Congress for questioning related to personal conduct during or after their service.
+Mandelson's summons creates potential friction between Washington and London. No sitting or former British ambassador has previously been called before Congress for questioning related to personal conduct during or after their service.<sup>[1](#ref-1)</sup>
 
-The UK government has not indicated whether it will encourage Mandelson to cooperate or attempt to shield him from testimony.
+The UK government has not indicated whether it will encourage Mandelson to cooperate.<sup>[1](#ref-1)</sup>
 
-Representative Ro Khanna demanded full name disclosure after the wave of executive resignations, and the committee has moved to compel testimony from individuals linked to Epstein's network.
+The committee has not announced a hearing date. Whether Mandelson will appear has not been confirmed.<sup>[1](#ref-1)</sup>
 
-The committee has not announced a hearing date. Whether Mandelson will appear has not been confirmed. The summons marks the first time the congressional investigation has targeted an international figure.
+## References
+
+1. <span id="ref-1"></span>[The Hill: Jeffrey Epstein Peter Mandelson Testimony](https://thehill.com/homenews/house/5737647-jeffrey-epstein-peter-mandelson-testimony/)
+2. <span id="ref-2"></span>[Congress Subpoenas Wexner Over Epstein Ties](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties)
+3. <span id="ref-3"></span>[Goldman Sachs Top Lawyer Resigns After Named in Epstein Files](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)
+4. <span id="ref-4"></span>[Dubai Ports Chief Resigns After Epstein Emails](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed)

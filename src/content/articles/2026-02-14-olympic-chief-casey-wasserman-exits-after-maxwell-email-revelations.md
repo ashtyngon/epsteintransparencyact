@@ -36,108 +36,80 @@ articleType: feature
 confidence: 0.92
 ---
 
-**Casey Wasserman**, the Los Angeles entertainment executive leading preparations for the **2028 Olympic Games** and grandson of MCA founder Lew Wasserman, is preparing to sell his powerful entertainment agency after a devastating client exodus triggered by the exposure of his email correspondence with **Ghislaine Maxwell**, according to The New York Times. Maxwell was convicted on December 29, 2021 on five counts of sex trafficking and conspiracy, and sentenced to 20 years in federal prison. The move marks one of the highest-profile corporate casualties yet in the expanding fallout from the Justice Department's release of 3.5 million pages, 180,000 images, and 2,000 videos of Epstein-related documents under the Transparency Act signed November 19, 2025.
+**Casey Wasserman**, the Los Angeles entertainment executive leading preparations for the **2028 Olympic Games** and grandson of MCA founder Lew Wasserman, is preparing to sell his entertainment agency after clients departed following the publication of his email correspondence with **Ghislaine Maxwell**, according to The New York Times.<sup>[1](#ref-1)</sup> Maxwell was convicted on December 29, 2021 on five counts of sex trafficking and conspiracy, and sentenced to 20 years in federal prison. The sale follows the Justice Department's release of 3.5 million pages, 180,000 images, and 2,000 videos of Epstein-related documents under the Transparency Act signed November 19, 2025.
 
-Wasserman's decision to divest from the Wasserman Media Group—which he founded and built into one of the industry's most influential talent agencies—comes as newly revealed emails demonstrate direct communication between the Olympic leader and Maxwell, Jeffrey Epstein's longtime associate and convicted sex trafficker. The revelations have cost Wasserman clients and credibility at a moment when Los Angeles is positioning itself on the global stage.
-
-The pattern is becoming unmistakable: as millions of pages of Epstein documents continue surfacing, corporate boards, university administrators, and investors are no longer waiting for criminal charges. Association alone, documented in emails and phone records, is now a career-ending liability.
+Wasserman's decision to divest from the Wasserman Media Group -- which he founded -- comes as newly released emails show direct communication between the Olympic committee leader and Maxwell, Jeffrey Epstein's longtime associate convicted on sex trafficking charges, according to The New York Times.<sup>[1](#ref-1)</sup> The Times reported that Wasserman "has lost clients since his emails with Ghislaine Maxwell surfaced."<sup>[1](#ref-1)</sup>
 
 ## The Accelerating Corporate Reckoning
 
-Wasserman joins a rapidly growing list of executives forced from their positions since the document releases began. Within the past week alone, [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails referred to Epstein as "Uncle Jeffrey." [DP World's CEO was ousted](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after his name appeared thousands of times in the files. Multiple [college presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have stepped down or faced intense pressure.
+Wasserman joins a list of executives who have departed their positions since the document releases began. Within the past week, [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails referred to Epstein as "Uncle Jeffrey." [DP World's CEO resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after his name appeared thousands of times in the files. Multiple [college presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have stepped down or faced pressure.
 
-The entertainment industry had largely escaped the initial waves of resignations—until now. Wasserman's fall is particularly striking given his prominence in both entertainment and international sports. As chairman of the LA28 Olympic organizing committee, he has been the public face of the city's Olympic preparations, meeting with sponsors, government officials, and international sports leaders.
+As chairman of the LA28 Olympic organizing committee, Wasserman has been the public face of the city's Olympic preparations, meeting with sponsors, government officials, and international sports leaders.
 
-PBS NewsHour's coverage on Friday confirmed that Goldman Sachs' resignation came specifically after "emails showed her close relationship with Jeffrey Epstein"—language that suggests the content of these communications, not merely their existence, proved professionally fatal. The same calculus appears to have doomed Wasserman's continued leadership of his agency.
+PBS NewsHour reported Friday that Goldman Sachs' resignation came after "emails showed her close relationship with Jeffrey Epstein."
 
-According to reporting from LawFuel, the email revelations have now reached into international law firms, with documents casting "shadow over ex-Clifford Chance trainee"—an indication that junior professionals who had even tangential connections to Epstein are facing career consequences years later.
+According to LawFuel, the email releases have also reached into international law firms, with documents naming a former Clifford Chance trainee.
 
-## The DOJ's Defensive Crouch
+## DOJ Response
 
-Even as more executives fall, the Justice Department has adopted an increasingly defensive posture about the document releases themselves. **Deputy Attorney General Todd Blanche** on Friday attacked congressional critics pushing for fuller transparency, specifically targeting **Reps. Ro Khanna (D-Calif.)** and **Thomas Massie (R-Ky.)** for revealing names in House floor speeches.
+**Deputy Attorney General Todd Blanche** on Friday criticized **Reps. Ro Khanna (D-Calif.)** and **Thomas Massie (R-Ky.)** for naming individuals in House floor speeches. Blanche accused the lawmakers of naming "completely random people" and characterized their approach as reckless, according to The Hill.
 
-Blanche accused the lawmakers of outing "completely random people" and characterized their transparency push as reckless. The Hill reported that Khanna and Massie "have been at the forefront of a bipartisan push to release all of the files" related to Epstein.
+The Hill reported that Khanna and Massie "have been at the forefront of a bipartisan push to release all of the files" related to Epstein. The DOJ has stated that many names in the files belong to individuals without criminal culpability. Khanna and Massie have argued that the public should know the full scope of individuals named in Epstein's records.
 
-The exchange reveals a fundamental disagreement about what constitutes a legitimate public interest in disclosure. The DOJ position—that many names in the files are "random people" without criminal culpability—runs headlong into the congressional view that the public deserves to know the full scope of Epstein's network, regardless of whether individuals face charges.
+Rep. Massie, speaking to Spectrum News about recent CEO resignations, defended the transparency push. Massie previously identified six men on the House floor whose identities remain redacted in official documents.
 
-Rep. Massie, speaking to Spectrum News about recent CEO resignations, defended the transparency push. Massie has been particularly vocal about demanding the release of names, previously identifying six men on the House floor whose identities remain redacted in official documents.
-
-The tension between DOJ caution and congressional pressure has created a chaotic information environment where some names leak through floor speeches and media reports while official documents remain heavily redacted—a dynamic that Attorney General Bondi has faced repeated questioning about.
+Some names have become public through floor speeches and media reports while the same names remain redacted in official documents. Attorney General Bondi has faced questioning about this dynamic.
 
 ## Epstein's Reach Into Academia: The Alabama Connection
 
-New documents revealed this week show Epstein's influence extended into unexpected corners of American higher education. WVTM reported that DOJ records indicate **Jeffrey Epstein helped arrange** a **guest speaker at the University of Alabama**—the latest in a series of revelations about his connections to academic institutions.
+WVTM reported that DOJ records indicate **Jeffrey Epstein was involved in arranging** a **guest speaker at the University of Alabama**. The report is part of broader reporting on college presidents and professors named in the files.
 
-The Alabama disclosure follows broader reporting on college presidents and professors named in the files, suggesting Epstein used speaker arrangements, donations, and social connections to embed himself in academic networks nationwide.
-
-Universities have been slower than corporations to act on these revelations, perhaps because academic freedom norms create higher bars for forced departures. But the pressure is building. Each new disclosure about Epstein's campus presence—whether arranging speakers, funding research, or maintaining relationships with faculty—raises questions about institutional vetting and oversight.
-
-The University of Alabama revelation is particularly notable because it demonstrates Epstein's reach beyond elite coastal institutions. While much attention has focused on his relationships with Harvard and MIT, the documents show he cultivated influence across American higher education.
+The documents show contacts between Epstein and academic institutions beyond Harvard and MIT, where his donations and relationships have been previously reported. Universities named in the files have not taken the same actions as corporations whose executives resigned after being named.
 
 ## The Wexner Money Trail: Campaign Finance Complications
 
-As Congress subpoenas billionaire Leslie Wexner to testify about his decades-long relationship with Epstein, WFMJ has revealed a new wrinkle: **Ohio politicians received campaign funds from Wexner**, who has been labeled a potential co-conspirator by members of Congress.
+Congress subpoenaed billionaire Leslie Wexner to testify about his decades-long relationship with Epstein. WFMJ reported that **Ohio politicians received campaign funds from Wexner**, whom members of Congress have described as an alleged co-conspirator.
 
-The campaign finance angle adds another layer of political complexity to an already explosive story. Wexner, the founder of Victoria's Secret parent company L Brands and Epstein's only confirmed financial client, has long been known as Epstein's primary financial patron. Documents show Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0. Epstein operated out of that mansion until his arrest in July 2019.
+Wexner, the founder of Victoria's Secret parent company L Brands and Epstein's only confirmed financial client, employed Epstein as his financial adviser, according to public records. Documents show Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0. Epstein operated out of that mansion until his arrest in July 2019.
 
-Now Ohio politicians who accepted Wexner's donations face uncomfortable questions about whether they benefited from money connected to Epstein's network. The revelations complicate what was already shaping up to be contentious congressional testimony, assuming Wexner complies with the subpoena.
-
-The Wexner situation exemplifies a broader challenge with the Epstein files: they reveal networks of financial, social, and political relationships that extend far beyond the core criminal conspiracy. Untangling legitimate business relationships from potentially problematic associations requires case-by-case analysis—but the public appetite for that nuance appears limited.
+WFMJ's review of campaign finance records showed Wexner's donations to Ohio politicians spanning multiple election cycles. The outlet did not specify which politicians received the contributions or the amounts.
 
 ## Elite Law Firms in the Spotlight
 
-Legal industry publication Above the Law raised pointed questions this week about **Brad Karp**, the chairman of elite law firm **Paul, Weiss**. In an article titled "Hubris Or Poor Judgment? As Epstein Files Loomed, The Clock Was Ticking On Brad Karp's Power," the legal trade press is now openly speculating about whether top law firm leaders can survive their own Epstein associations.
+Legal industry publication Above the Law reported on **Brad Karp**, the chairman of law firm **Paul, Weiss**, and his firm's connections appearing in the documents.
 
-The scrutiny of Karp and Paul, Weiss comes as multiple law firms face questions about partners' or clients' connections to Epstein. The Goldman Sachs resignation demonstrated that even top general counsels at major financial institutions aren't immune from career-ending fallout.
+The scrutiny of Karp and Paul, Weiss comes as multiple law firms face questions about partners' or clients' connections to Epstein. The Goldman Sachs general counsel's resignation showed that senior legal professionals have also been affected by the document releases.
 
-Legal industry leaders face a particular credibility challenge: as counselors to the powerful and gatekeepers of professional ethics, any suggestion of compromising associations carries additional reputational weight. The Above the Law piece suggests law firm management saw the Epstein file releases coming and had time to prepare—raising questions about why some chose not to act preemptively.
+## What the Documents Show
 
-## What the Documents Actually Show
+The emails and records released so far include:
 
-Amid the chaos of resignations and political fights, it's worth clarifying what the documents actually reveal—and what they don't. The emails and records released so far show:
-
-**Direct correspondence** between Epstein, Maxwell, and hundreds of prominent figures in business, politics, academia, and entertainment. Many of these communications concern seemingly ordinary matters: meeting requests, dinner invitations, introductions, thank-you notes.
+**Direct correspondence** between Epstein, Maxwell, and hundreds of figures in business, politics, academia, and entertainment. Many of these communications concern meeting requests, dinner invitations, introductions, and thank-you notes.
 
 **Financial relationships** including money management, investments, donations, and business dealings. Some documents show Epstein facilitating introductions between wealthy individuals and institutions seeking funding.
 
-**Social connections** documented through flight logs, phone records, and email threads showing attendance at dinners, parties, and events. Many prominent names appear simply as guests at large gatherings.
+**Social connections** documented through flight logs, phone records, and email threads showing attendance at dinners, parties, and events. Many names appear as guests at large gatherings.
 
-What the documents generally do **not** show—at least in the portions released publicly—is direct evidence of criminal conduct by most of the named individuals. The vast majority of people mentioned in the files have not been accused of crimes, and being in Epstein's contacts doesn't constitute evidence of criminal knowledge or participation.
+The released portions of the documents generally do not contain direct evidence of criminal conduct by most of the named individuals. The majority of people mentioned in the files have not been accused of crimes. Being named in Epstein's contacts does not constitute evidence of criminal knowledge or participation.
 
-This distinction matters legally but has largely collapsed in the court of public opinion. The pattern of resignations shows that boards, investors, and institutions are treating Epstein association as disqualifying regardless of criminal culpability.
+## Document Release Status
 
-## The Transparency Paradox
+Large volumes of information are now public, but the DOJ's heavy redactions continue despite the passage of the Epstein Transparency Act. Allegations also emerged that DOJ was tracking which lawmakers searched the files.
 
-The document releases have created a transparency paradox: massive volumes of information are now public, yet key details remain redacted. The DOJ's heavy redactions continue despite the passage of the Epstein Transparency Act. Meanwhile, allegations emerged that DOJ was tracking which lawmakers searched the files.
+Congressional critics have stated that the redactions protect prominent individuals. Rep. Khanna and others have used floor speeches to name individuals whose names remain officially redacted in the documents.
 
-Congressional critics argue this selective transparency serves powerful interests. Rep. Khanna and others have used floor speeches to reveal names that remain officially redacted—a workaround that provides some accountability but lacks the systematic disclosure transparency advocates demand.
+## LA 2028 Olympics
 
-The result is a drip-drip-drip of revelations rather than comprehensive public understanding. Each new disclosure triggers its own news cycle, resignation, and round of speculation. This pattern may actually serve the interests of those implicated: individual revelations dominate headlines briefly before being replaced by the next scandal, preventing sustained focus on the systemic patterns.
-
-## What Comes Next: The 2028 Question
-
-Wasserman's impending sale of his agency raises immediate questions about his continued leadership of the LA28 Olympic organizing committee. The Olympics represent one of the world's highest-profile events, with billions in corporate sponsorships and global media attention. Can someone whose business partnerships collapsed amid Epstein revelations maintain credibility as the face of the Games?
-
-The International Olympic Committee has not commented publicly on Wasserman's status. But Olympic organizing committees depend on maintaining relationships with sponsors, government officials, and international sports federations. If major sponsors or the IOC lose confidence in LA28's leadership, Wasserman's position could become untenable regardless of his continued role with the agency.
-
-The entertainment industry more broadly faces a reckoning about how much Epstein money and influence shaped deals, relationships, and careers. Unlike finance or academia—where Epstein's role has been more extensively documented—the full scope of his entertainment industry connections remains murky.
+Wasserman's planned sale of his agency has raised questions about his continued leadership of the LA28 Olympic organizing committee. The International Olympic Committee has not commented publicly on Wasserman's status.<sup>[1](#ref-1)</sup>
 
 ## The Continuing Investigation
 
-While executives resign and politicians spar over document releases, actual investigations continue. Courts are allowing civil cases to proceed. Congressional committees have issued subpoenas to key figures including Wexner and Lord Mandelson.
+Courts are allowing civil cases to proceed. Congressional committees have issued subpoenas to key figures including Wexner and Lord Mandelson.
 
-The New York Times has launched a major investigation into the millions of pages of documents. That reporting will likely drive future waves of revelations and resignations.
+The New York Times has launched a major investigation into the millions of pages of documents.<sup>[1](#ref-1)</sup>
 
-What remains uncertain is whether any of this leads to criminal charges beyond those already brought against Ghislaine Maxwell. The DOJ has been adamant that most people in the files are not targets of criminal investigation—though critics argue this reflects prosecutorial discretion rather than lack of evidence.
+The DOJ has stated that most people in the files are not targets of criminal investigation. No criminal charges beyond those brought against Ghislaine Maxwell have been announced in connection with the document releases. Additional document releases are expected under the Transparency Act's provisions.
 
-## The Accountability Gap
+## References
 
-The Wasserman revelation underscores a fundamental accountability gap in the Epstein case: the criminal justice system has largely concluded its work, but the public is still discovering the scope of his network and influence. This gap between legal and social accountability is driving the corporate casualties.
-
-Executives are being judged not by criminal standards—guilt beyond reasonable doubt—but by professional standards: did you maintain relationships that compromise your judgment or institutional credibility? By that measure, the Maxwell emails appear to have cost Wasserman his agency.
-
-The broader question is whether this represents justice or mob rule. Transparency advocates argue the public has a right to know who associated with a convicted sex trafficker and to draw their own conclusions. Critics worry about guilt by association and the destruction of careers based on emails that may not reflect criminal conduct.
-
-What's undeniable is that the consequences are real and mounting. From Goldman Sachs to DP World to now Wasserman's entertainment empire, the professional costs of documented Epstein association are proving severe—with no end in sight as more documents continue to surface.
-
-The Casey Wasserman case is unlikely to be the last. As the Times investigation proceeds and more documents emerge, the roster of resignations and forced sales will probably grow. The only question is how high the professional carnage will climb before the full scope of Epstein's elite network is finally exposed.
+1. <span id="ref-1"></span>[Casey Wasserman to sell agency after Epstein email revelations - The New York Times](https://www.nytimes.com/2026/02/13/us/casey-wasserman-agency-epstein.html)

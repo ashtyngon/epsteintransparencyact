@@ -33,42 +33,43 @@ keyTakeaways:
 aiGenerated: true
 confidence: 0.95
 ---
-The FBI has begun explaining why it redacted vast portions of the Epstein files, Bloomberg reported Friday. The bureau cites three justifications: protecting ongoing investigations, shielding intelligence sources and methods, and preventing harm to individuals not charged with crimes.
+The FBI has provided its justifications for redacting portions of the Epstein files, Bloomberg reported Friday.<sup>[1](#ref-1)</sup> The bureau cited three reasons: protecting ongoing investigations, shielding intelligence sources and methods, and preventing harm to individuals not charged with crimes.
 
-Transparency advocates and lawmakers have criticized these justifications, noting that more than six years after Epstein's death and two years after Ghislaine Maxwell's conviction, many names remain hidden.
+Transparency advocates and lawmakers have criticized these justifications, noting that more than six years after Epstein's death in August 2019 and more than two years after Ghislaine Maxwell's conviction, many names remain withheld.<sup>[1](#ref-1)</sup>
 
-## Blanket Justifications Under Fire
+## FBI Justifications Questioned
 
-The FBI's explanations arrive more than a week after [Attorney General Pam Bondi faced aggressive questioning](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) from the House Judiciary Committee. Members from both parties accused the DOJ of running a cover-up operation for powerful figures linked to Epstein's sex trafficking network.
+The FBI's explanations came more than a week after [Attorney General Pam Bondi faced questioning](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) from the House Judiciary Committee.<sup>[2](#ref-2)</sup> Members from both parties questioned the DOJ's handling of the files.
 
-The FBI's response followed [Rep. Thomas Massie naming six individuals on the House floor](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities had been redacted—including billionaire Les Wexner, whom he labeled a co-conspirator—which intensified pressure on federal agencies.
+The FBI statement followed [Rep. Thomas Massie naming six individuals on the House floor](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities had been redacted — including billionaire Les Wexner, whom Massie described as a co-conspirator.<sup>[3](#ref-3)</sup>
 
-Massie's disclosure triggered immediate corporate fallout. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. Multiple CEOs stepped down. Academic leaders faced calls to resign.
+Those disclosures were followed by corporate departures. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced.<sup>[4](#ref-4)</sup> Multiple executives left their positions. Academic leaders faced calls to step down.
 
-## The Intelligence Shield
+## Intelligence Sources Justification
 
-The FBI's claim that it must protect "intelligence sources and methods" has drawn particular scrutiny. Critics note this is the same justification historically used to shield Saudi intelligence connections and foreign intelligence services that may have enabled Epstein's operation.
+The FBI's stated need to protect "intelligence sources and methods" has drawn scrutiny from lawmakers, according to Bloomberg.<sup>[1](#ref-1)</sup> Congressional investigators have asked which intelligence agencies had knowledge of Epstein's activities and when.
 
-Congressional investigators want to know which intelligence agencies knew what, and when. The FBI's blanket redactions make answering that question impossible.
+The "ongoing investigation" rationale has also been questioned given that Epstein died in August 2019 and Maxwell was sentenced in June 2022.<sup>[1](#ref-1)</sup> Lawmakers have asked what active investigations require withholding the names of individuals who communicated with a convicted sex trafficker.
 
-The "ongoing investigation" rationale has drawn scrutiny given that Epstein died in August 2019 and Maxwell was sentenced in June 2022. Critics have asked what active investigations require hiding the names of individuals who communicated with a convicted sex trafficker.
+The third category — protecting people not charged with crimes — has prompted debate about whether privacy interests outweigh the public interest in disclosure.<sup>[1](#ref-1)</sup>
 
-The third category—protecting people not charged with crimes—raises the question of what specifically those individuals are being protected from, and whether privacy interests outweigh the public interest in disclosure.
+## Transparency Act and Compliance
 
-## A Law Without Enforcement
+The Epstein Transparency Act mandated the release of documents related to the case. The released documents remain heavily redacted, and critics say the FBI's explanations satisfy technical legal requirements without providing substantive transparency, according to Bloomberg.<sup>[1](#ref-1)</sup>
 
-The Epstein Transparency Act mandated the release of documents related to the case. But the released documents remain heavily redacted, and critics say the FBI's explanations satisfy legal requirements without providing substantive transparency.
+Congress has the authority to demand unredacted files through its oversight powers. Whether Republican leadership will exercise that authority remains uncertain, particularly after President Trump called for ending the Epstein investigation.<sup>[1](#ref-1)</sup>
 
-Documents previously obtained by this outlet revealed that the DOJ has been tracking which lawmakers search the Epstein files.
+## Redaction Debate
 
-Congress has the authority to demand unredacted files through its oversight powers. Whether Republican leadership will exercise that authority—particularly after President Trump called for ending the Epstein investigation entirely—remains uncertain.
+Bloomberg's reporting does not specify which individuals the FBI seeks to protect, whether any redacted names belong to foreign nationals, or how the bureau distinguishes between the stated justifications.<sup>[1](#ref-1)</sup>
 
-## Who Gets Protected?
+Lawmakers and advocacy groups continue to press for specifics on whether redactions serve the stated security purposes.
 
-The redaction fight reflects a tension between the government's stated interest in protecting privacy and ongoing investigations, and the public's interest in knowing who was connected to a sex trafficking conspiracy.
+The FBI has provided its justifications. Congressional investigators have said the explanations lack specificity.<sup>[1](#ref-1)</sup>
 
-Bloomberg's reporting does not specify which individuals the FBI seeks to protect, whether any redacted names belong to foreign nationals or intelligence assets, or how the bureau distinguishes between legitimate security concerns and political convenience.
+## References
 
-Lawmakers and advocacy groups continue to press for clarity on whether redactions serve legitimate security purposes or shield individuals from public accountability.
-
-The FBI has provided its reasons. Congressional investigators say the justifications lack specificity.
+1. <span id="ref-1"></span>[Epstein Files: FBI's Reasons for Redacting the Documents](https://www.bloomberg.com/news/newsletters/2026-02-13/epstein-files-fbi-s-reasons-for-redacting-the-documents) — Bloomberg
+2. <span id="ref-2"></span>[Bondi Grilled on Epstein Files](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release)
+3. <span id="ref-3"></span>[Lawmaker Names 6 Men Hidden in Epstein Files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act)
+4. <span id="ref-4"></span>[Goldman Sachs Top Lawyer Resigns After Named in Epstein Files](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)

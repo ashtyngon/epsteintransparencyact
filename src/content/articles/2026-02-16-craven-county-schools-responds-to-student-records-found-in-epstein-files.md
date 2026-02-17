@@ -27,11 +27,11 @@ articleType: news
 confidence: 0.85
 ---
 
-Craven County Schools issued a statement after an immunization record from one of its middle schools appeared in the Justice Department's Epstein files release, according to WITN.
+Craven County Schools issued a statement after an immunization record from one of its middle schools appeared in the Justice Department's Epstein files release, according to WITN.<sup>[1](#ref-1)</sup>
 
-The North Carolina district confirmed the document originated from a Craven County middle school. The statement came after WITN reported the record's presence in the files.
+The North Carolina district confirmed the document originated from a Craven County middle school. The statement came after WITN reported the record's presence in the files.<sup>[1](#ref-1)</sup>
 
-The district did not disclose which school, which student, or what its statement said beyond acknowledging the document.
+The district did not disclose which school, which student, or what its statement said beyond acknowledging the document.<sup>[1](#ref-1)</sup>
 
 ## Protected Records
 
@@ -41,6 +41,12 @@ The record is among millions of pages released under the [Epstein Transparency A
 
 ## Congressional Pressure Continues
 
-The document surfaced as lawmakers press Attorney General Bondi over the file release. Rep. Thomas Massie and other members of Congress have [accused the DOJ](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) of maintaining excessive redactions.
+The document surfaced as lawmakers press Attorney General Bondi over the file release. Rep. Thomas Massie and other members of Congress have [criticized the DOJ](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) over the extent of redactions in released files.<sup>[2](#ref-2)</sup>
 
-The New York Times has [launched an investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into the released documents. France and the United Kingdom established specialized teams to review files for their nationals.
+The New York Times has [assigned reporters to investigate](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) the released documents.<sup>[3](#ref-3)</sup> France and the United Kingdom established specialized teams to review files for their nationals.
+
+## References
+
+1. <span id="ref-1"></span>[Craven County Schools Responds to Student Records in Epstein Files](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFFxTGJYTWlFeHVEclVRSGwweC1MWEFRVzlhdzFyQk1PRzhBQUI2ek8xZE1NOW4yRGZKZnp5TjF5ZVY0am42TmY3VWdVaGV0bmRuNUNuRjdSUDRNaG9hU2dlUHJrQ29jOHNGWnJZMl9PT3VJa3VLRXV5VUp4OXlmNlh2WVN6RFFwdVNfSUtIY3lSWERmbkV4OVpkWTVrX0xPUXNKa2dVTDFiQVZWREZUSVZuZmJxNzJHMmVUeEJnRVNTVWRVY1REem1BQk12RUXSAeMBQVVfeXFMTm1PcHVZYVpuWlhkTTFXVzdzcVBBRnBNT2ttWFpUSm9iQWZnRTFrNkZmNWE2SE1lM3hYUHdqOE9pc25JVG9pQzJGcHJiM3BBejNpRURFdXpobVpsa3oyNGxfazlGMTE1OFFTaTIzTkdCbUd6WHFsM3Zkb0I5VVpjY0o5N24weWduSFJpaWpfV2xmNy1OdXFhckJWSkd1VFFfbUFsRFVLTWhYYjU4eW15RUU5U3V5ekllSjJfVURGam5oTk5wS2lUR3VvRmtzZWExZXk1VzQ5VHVtY2hJdUV0dkd6V00?oc=5) - WITN
+2. <span id="ref-2"></span>[Massie Rips Trump DOJ Over Epstein File Redactions](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions)
+3. <span id="ref-3"></span>[NYT Launches Major Investigation Into Millions of Epstein Files](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files)

@@ -41,146 +41,102 @@ articleType: feature
 confidence: 0.85
 ---
 
-The dam is beginning to crack.
+Members of Congress have begun reading names into the public record from the House floor -- a constitutional maneuver that bypasses DOJ redactions. In response, **Deputy Attorney General Todd Blanche** accused the lawmakers of naming "completely random people," according to The Hill.<sup>[2](#ref-2)</sup> At the same time, executives at Goldman Sachs and DP World have departed following the release of documents containing their names.<sup>[3](#ref-3)</sup><sup>[4](#ref-4)</sup>
 
-After weeks of mounting pressure over heavily redacted Epstein files, members of Congress have begun reading names into the public record from the House floor—a constitutional maneuver that bypasses DOJ redactions entirely. Now, in a remarkable turn, the **Deputy Attorney General himself has publicly attacked these lawmakers**, accusing them of naming "completely random people" while top executives at Goldman Sachs and global shipping conglomerates resign in the wake of email revelations they never expected to see daylight.
+## Congressional Floor Speeches
 
-The collision between transparency advocates and government officials scrambling to justify continued secrecy has reached a breaking point. And the casualties are piling up faster than the Justice Department can explain why so many names remain blacked out.
+**Rep. Ro Khanna (D-Calif.)** and **Rep. Thomas Massie (R-Ky.)** have used the Speech and Debate Clause of the Constitution -- which provides immunity for statements made on the House floor -- to name individuals whose identities remain redacted in the official Epstein files release.<sup>[5](#ref-5)</sup> **Massie named six men** during one floor speech.<sup>[5](#ref-5)</sup>
 
-## The Nuclear Option: Reading Names from the House Floor
+**Deputy Attorney General Todd Blanche** responded by accusing Khanna and Massie of naming "completely random people" in relation to the DOJ's Epstein investigation, according to The Hill.<sup>[2](#ref-2)</sup>
 
-**Rep. Ro Khanna (D-Calif.)** and **Rep. Thomas Massie (R-Ky.)** have emerged as the most aggressive transparency advocates in Congress, and they've discovered a powerful weapon: the Speech and Debate Clause of the Constitution grants them absolute immunity for statements made on the House floor. No defamation lawsuit, no DOJ pressure, no threat of prosecution can touch them there.
+## The Goldman Sachs Departure
 
-Both lawmakers have used that protection to name individuals whose identities remain redacted in the official Epstein files release. Their speeches have already been documented on this site, with **Massie naming six men** during one floor speech and Khanna following suit with his own revelations.
+**Kathryn Ruemmler**, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing what PBS NewsHour described as a relationship with Jeffrey Epstein.<sup>[3](#ref-3)</sup>
 
-The Justice Department's response came swiftly—and personally. **Deputy Attorney General Todd Blanche** broke with the usual bureaucratic restraint on Friday, directly attacking the congressmen by name. According to The Hill, Blanche accused Khanna and Massie of revealing "completely random people" in relation to the DOJ's Epstein investigation.
+Previous reporting detailed emails in the files referring to Epstein as "Uncle Jeffrey."<sup>[3](#ref-3)</sup> Ruemmler's resignation was effective June 30, according to Axios.<sup>[3](#ref-3)</sup>
 
-The choice of words is telling. "Completely random" implies these individuals have no significant connection to Epstein. But if that's true, why are their names redacted at all? And why is the second-highest-ranking official at the Justice Department spending his Friday attacking members of Congress instead of explaining the redaction criteria?
+## The DP World CEO Departure
 
-## The Goldman Sachs Resignation: 'Uncle Jeffrey' Comes Home
+**Sultan Ahmed Bin Sulayem**, CEO and chairman of **DP World**, one of the world's largest port operators, departed after appearing **4,700 times in the Epstein files**, according to CBS News.<sup>[4](#ref-4)</sup>
 
-Blanche's "random people" defense became significantly harder to sustain within hours of his statement. **Kathryn Ruemmler**, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing what PBS NewsHour described as "her close relationship with Jeffrey Epstein."
+The nature of these mentions has not been publicly disclosed. DP World issued a statement citing "strategic realignment."<sup>[4](#ref-4)</sup> **Rep. Massie** commented on the departure, according to Spectrum News.<sup>[5](#ref-5)</sup>
 
-The departure represents one of the highest-profile corporate casualties since the Epstein Transparency Act releases began. Goldman Sachs, already scarred by its extensive business dealings with Epstein during his lifetime, now faces fresh questions about how deeply the relationship penetrated its executive ranks.
+## University of Alabama Connection
 
-Previous reporting on this site detailed emails referring to Epstein as "Uncle Jeffrey"—a term of endearment that suggests far more than a transactional banking relationship. The Goldman lawyer's resignation indicates those personal connections extended beyond wealth management into the inner circles of one of the world's most powerful financial institutions.
+According to WVTM, **DOJ records indicate Jeffrey Epstein helped arrange a guest speaker at the University of Alabama**.<sup>[6](#ref-6)</sup>
 
-The timing is particularly notable. The resignation came the same day Blanche dismissed Congressional name-dropping as irrelevant—a juxtaposition that suggests either remarkable coincidence or a Justice Department badly out of sync with the actual significance of the names being revealed.
+[Previous reporting](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) documented how college presidents and professors appeared in the files in connection with Epstein's academic contacts.<sup>[7](#ref-7)</sup> Details about the Alabama speaker arrangement -- including the identity of the speaker and the timing of the event -- have not been disclosed.<sup>[6](#ref-6)</sup>
 
-## The Global Shipping Giant and the Mystery of 4,700 Mentions
+## The Clifford Chance Connection
 
-The Goldman resignation wasn't an isolated incident. Multiple reports on this site have documented the forced departure of **Sultan Ahmed Bin Sulayem**, CEO and chairman of **DP World**, one of the world's largest port operators, after emails revealed extensive correspondence with Epstein's network.
+A former trainee at **Clifford Chance**, one of the world's largest law firms, was named in newly released Epstein documents, according to Law.com.<sup>[1](#ref-1)</sup> Details about the nature of the contact remain limited.<sup>[1](#ref-1)</sup>
 
-One report cited **4,700 mentions in the Epstein files**—an almost incomprehensible volume that raises immediate questions. Were these routine business emails? Personal correspondence? Something else entirely?
+Epstein's defense team during his 2008 plea deal included Alan Dershowitz and Kenneth Starr, who negotiated an agreement with then-U.S. Attorney Alexander Acosta that resulted in 13 months of county jail with work release.<sup>[1](#ref-1)</sup>
 
-The Justice Department has offered no explanation for why an Emirati billionaire running a global logistics empire would appear thousands of times in records related to a convicted sex trafficker. The redactions prevent journalists and investigators from understanding the nature of this relationship. And **Rep. Massie** specifically commented on the resignation, according to Spectrum News, suggesting he has access to unredacted information that explains the connection.
+## Wexner and Campaign Contributions
 
-This is the heart of the transparency fight: Congress can see what the public cannot. And increasingly, lawmakers are deciding the public has a right to know what they know.
+**Leslie Wexner**, the billionaire founder of Victoria's Secret and Epstein's only confirmed financial client, gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0, according to public records.<sup>[8](#ref-8)</sup> [A congressman labeled Wexner a "co-conspirator"](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) on the House floor.<sup>[5](#ref-5)</sup> Wexner has not been charged with any crime related to Epstein.
 
-## Universities, Speakers, and the Alabama Connection
+Reporting from WFMJ.com found that **Ohio politicians received campaign funds from Wexner**.<sup>[9](#ref-9)</sup>
 
-The Epstein files have also begun exposing the dead financier's reach into American higher education. According to WVTM, **DOJ records allege Jeffrey Epstein helped arrange a guest speaker at the University of Alabama**—a revelation that expands our understanding of how Epstein leveraged his social connections to gain legitimacy and access.
+[A separate report](/news/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation) documented that a senator voted against the Epstein Transparency Act after his PAC received a donation from a group whose donors include individuals named in the files.<sup>[10](#ref-10)</sup>
 
-This fits a documented pattern. [Previous reporting on this site](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) detailed how college presidents and professors appeared in the files, often in contexts suggesting Epstein positioned himself as a philanthropist and intellectual patron rather than the predator he was.
+## Prince Andrew
 
-The Alabama connection raises specific questions: Who was the speaker? What was their topic? Did university officials know about Epstein's role in the arrangement? And crucially—was this part of a broader pattern of Epstein inserting himself into academic settings where young women might be present?
+**Prince Andrew** settled Virginia Giuffre's civil lawsuit in February 2022 for a reported 12 million pounds without admitting wrongdoing.<sup>[11](#ref-11)</sup> The Guardian reported that **former Prime Minister Gordon Brown** has reviewed portions of the Epstein files, and calls for a police investigation have increased.<sup>[11](#ref-11)</sup>
 
-These questions matter because they speak to method. Epstein didn't operate in isolation. He built a network of institutions, individuals, and access points. Universities were part of that architecture.
+Previous reporting on this site documented how [Andrew's BBC interview claims have been contradicted by newly released emails](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface).<sup>[12](#ref-12)</sup>
 
-## The Clifford Chance Shadow: When Law Firms Enter the Files
+## The DOJ Response
 
-A new entry in the Epstein files involves **a former trainee at Clifford Chance**, one of the world's most prestigious law firms, according to LawFuel. Details remain sparse—the report surfaced Saturday and has not been expanded with additional context.
+Deputy Attorney General Blanche's decision to publicly criticize Congressional transparency advocates was notable, as DOJ officials rarely call out members of Congress by name.<sup>[2](#ref-2)</sup>
 
-But the mention itself is significant. It suggests Epstein's network included not just wealthy clients and celebrities, but young professionals at the beginning of their careers in elite institutions. The power dynamics inherent in such relationships—a young lawyer, a billionaire with connections—are exactly the kind that enabled Epstein's predation.
+The characterization of the named individuals as "completely random people" has been disputed. The Guardian confirmed that four men named by Khanna had no documented Epstein ties, but other individuals named from the floor have subsequently departed their positions.<sup>[13](#ref-13)</sup><sup>[3](#ref-3)</sup><sup>[4](#ref-4)</sup>
 
-The legal profession has largely avoided the spotlight in Epstein coverage, despite his extensive use of law firms for everything from estate planning to victim intimidation. Epstein's own defense team during his 2008 plea deal included Alan Dershowitz and Kenneth Starr, both of whom negotiated the lenient agreement with then-U.S. Attorney Alexander Acosta that resulted in just 13 months of county jail with work release privileges. Each new name from a legal background raises questions about how much the profession knew, when they knew it, and whether professional ethics rules were violated in service of keeping his operation running.
+## The Disclosure Gap
 
-## The Wexner Web: Campaign Contributions and Political Protection
+Members of Congress have access to unredacted files through their oversight authority. The public does not.<sup>[2](#ref-2)</sup>
 
-Perhaps no name in the Epstein saga carries more weight than **Leslie Wexner**, the billionaire founder of Victoria's Secret and Epstein's only confirmed financial client. Wexner gave Epstein power of attorney over his finances and transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0 — one of the largest residential property transfers in New York City history. [Congressional testimony documented on this site](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) has labeled Wexner a "co-conspirator."
+The Epstein Transparency Act was designed to mandate broad disclosure. In practice, members of Congress have been reading names from the House floor that remain redacted in the official DOJ releases, while the DOJ has criticized those disclosures.<sup>[2](#ref-2)</sup><sup>[5](#ref-5)</sup>
 
-Now, reporting from WFMJ.com reveals that **Ohio politicians received campaign funds from Wexner** — the same Wexner whose name appears throughout the Epstein files as the source of Epstein's initial wealth and New York properties.
+## This Week's Developments
 
-The campaign contribution trail matters because it creates a conflict of interest for elected officials who might otherwise demand aggressive investigation. When a potential Epstein co-conspirator is funding political campaigns, those politicians face enormous pressure to downplay, delay, or derail transparency efforts.
+This week's developments include:
 
-This is not abstract. [Previous reporting](/news/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation) documented that a senator blocked Epstein files after receiving a mysterious donation. The Ohio revelation suggests this may be part of a broader pattern: Wexner money flowing to politicians who might otherwise ask uncomfortable questions about his relationship with Epstein.
+- A Goldman Sachs general counsel departed after emails surfaced in the files<sup>[3](#ref-3)</sup>
+- A DP World CEO departed after 4,700 file mentions<sup>[4](#ref-4)</sup>
+- A former Clifford Chance trainee was named in newly released documents<sup>[1](#ref-1)</sup>
+- University officials were named in connection with Epstein's academic contacts<sup>[7](#ref-7)</sup>
+- Ohio politicians face questions about Wexner campaign contributions<sup>[9](#ref-9)</sup>
+- Prince Andrew faces increased pressure to cooperate with authorities<sup>[11](#ref-11)</sup>
+- The Deputy AG criticized congressmen who named individuals from the files<sup>[2](#ref-2)</sup>
 
-## Prince Andrew and the Reckoning That Won't Go Away
+## Outstanding Questions
 
-Across the Atlantic, pressure is mounting on **Prince Andrew** — who settled Virginia Giuffre's civil lawsuit in February 2022 for a reported 12 million pounds without admitting wrongdoing — to cooperate with police investigations. The Guardian reports that **former Prime Minister Gordon Brown** has been applying his "forensic mind" to the Epstein files, with calls for police investigation becoming "deafening."
+Victims have called for full disclosure of the files. Transparency advocates have argued that redactions fuel speculation about those with incidental connections to Epstein. The DOJ has maintained that privacy concerns and ongoing investigations justify the redactions.<sup>[2](#ref-2)</sup>
 
-The piece asks directly: "Will Andrew be questioned over his relationship with Epstein?" And suggests "this may be the reckoning Andrew cannot outrun."
-
-Previous reporting on this site documented how Andrew's BBC interview claims have unraveled as new emails surface. The picture emerging is of a man who repeatedly minimized his relationship with Epstein and Maxwell, only to be contradicted by documentary evidence showing far deeper involvement.
-
-The British establishment has long protected Andrew from the consequences of his associations. But the Epstein Transparency Act was passed by Congress, not Parliament. American investigators don't answer to the House of Windsor. And the files are revealing connections that make continued protection increasingly untenable.
-
-## The Blanche Defense: Random People or Coordinated Damage Control?
-
-Deputy Attorney General Blanche's decision to personally attack Congressional transparency advocates represents a significant escalation. DOJ officials rarely call out members of Congress by name, particularly when those members are exercising their constitutional prerogatives.
-
-The "random people" characterization deserves scrutiny. If the individuals named by Khanna and Massie are truly random—peripheral figures with no significant Epstein connection—then their presence in the files is odd enough to warrant explanation. Why collect information on random people? Why redact their names if there's nothing there?
-
-But if they're not random—if they're precisely the opposite, individuals whose connections to Epstein are significant and embarrassing—then Blanche's statement becomes something else entirely: damage control masquerading as indignation.
-
-The resignation wave supports the second interpretation. Goldman Sachs doesn't force out top lawyers over nothing. DP World doesn't remove its CEO and chairman because of "random" mentions. Universities don't scramble to explain guest speaker arrangements that amount to trivia.
-
-These are consequential revelations about powerful people. And the Justice Department's response—attacking the messengers rather than explaining the redactions—suggests an agency more committed to protecting reputations than pursuing justice.
-
-## The Transparency Gap: What Congress Sees vs. What We See
-
-This entire conflict stems from a fundamental asymmetry: members of Congress have access to unredacted files through classified briefings and their oversight authority. The public does not.
-
-That gap creates opportunity for abuse. It allows DOJ to tell lawmakers one story in private while maintaining a different narrative in public. It lets officials claim "random people" while knowing the actual connections are anything but random.
-
-The only way to resolve this tension is full transparency. Not the selective leaking we're seeing now. Not the floor speeches that reveal names without context. Not the drip-drip of resignations that hint at scandal without explaining it.
-
-Full release. Minimal redactions. Let the public see what Congress sees.
-
-The Epstein Transparency Act was supposed to accomplish exactly that. Instead, we're watching a strange dance where elected officials read from documents the Justice Department won't let anyone else see, while the Justice Department attacks them for it, and corporate executives quietly resign hoping no one notices the pattern.
-
-## What the Pattern Reveals
-
-Step back and look at what's emerged just this week:
-
-- A Goldman Sachs lawyer forced out over "Uncle Jeffrey" emails
-- A global shipping CEO removed after 4,700 file mentions
-- A former Clifford Chance trainee named in newly released documents  
-- University officials scrambling to explain Epstein's role in academic programming
-- Ohio politicians facing scrutiny over Wexner campaign contributions
-- Prince Andrew under mounting pressure to cooperate with police
-- The Deputy AG attacking congressmen for transparency advocacy
-
-These aren't random events. They're the fruit of a single tree: an extensive network of powerful people who interacted with Jeffrey Epstein, and who are now facing accountability as the documentary record emerges.
-
-The Justice Department's job is to investigate that network, not protect it. Every unnecessary redaction, every delay tactic, every attack on transparency advocates suggests mission drift—a department more concerned with managing fallout than pursuing truth.
-
-## The Questions That Remain
-
-Who benefits from continued redactions? Not the victims, who have been demanding full disclosure. Not the public, which has a right to know how a serial predator operated at the highest levels of society. Not even most of the people named in the files—those with innocent or tangential connections would be better served by transparency that provides context rather than redactions that fuel speculation.
-
-The beneficiaries are a small number of individuals whose Epstein connections are both substantial and damaging. Those are precisely the people who should face the most scrutiny, not the most protection.
-
-Why is the Justice Department prioritizing their privacy over the public interest?
-
-The answer may lie in the surveillance scandal that erupted earlier this week, when documents revealed DOJ tracking which lawmakers searched the Epstein files. That wasn't about security. It was about knowing who to pressure, who to threaten, who might cause trouble.
-
-The Blanche statement attacking Khanna and Massie fits the same pattern: an attempt to discourage further transparency advocacy through public criticism and implicit threat. It hasn't worked. If anything, it's backfired, drawing more attention to the names they revealed and the reasons DOJ wants them hidden.
+Earlier this week, documents indicated the DOJ had been [tracking which lawmakers searched the Epstein files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches), according to The Hill.<sup>[14](#ref-14)</sup>
 
 ## What Comes Next
 
-The Congressional investigation is expanding, not contracting. Multiple lawmakers have been subpoenaed or called to testify, including high-profile figures like Lord Mandelson and Les Wexner. The House Judiciary Committee continues to grill Attorney General Bondi over the pace and scope of releases.
+The congressional investigation continues. Multiple figures have been called to testify, including Lord Mandelson and Les Wexner.<sup>[8](#ref-8)</sup><sup>[15](#ref-15)</sup> The House Judiciary Committee has questioned Attorney General Bondi over the pace and scope of releases.<sup>[2](#ref-2)</sup>
 
-More resignations are likely. The Goldman and DP World departures signal that corporations are reading the room—better to cut ties with compromised executives now than face Congressional subpoenas and public backlash later.
+The Epstein Transparency Act mandated a methodical review and release of documents. The process has instead involved congressional floor speeches disclosing redacted names, DOJ criticism of those disclosures, and a series of executive departures.<sup>[2](#ref-2)</sup><sup>[5](#ref-5)</sup>
 
-And more names will be read from the House floor. Khanna and Massie have shown other lawmakers the path. The Speech and Debate Clause provides immunity. The public is demanding answers. And the political cost of continued secrecy is beginning to exceed the political cost of transparency.
+## References
 
-The Justice Department can attack congressmen all it wants. But it cannot stop them from speaking on the House floor. It cannot prevent resignations that validate their revelations. And it cannot explain why "random people" keep turning out to be senior executives at major corporations and institutions.
-
-The Epstein Transparency Act was supposed to make this process orderly—a methodical review and release of documents with minimal necessary redactions. Instead, we're getting chaos: leaks and counter-leaks, speeches and recriminations, resignations and denials.
-
-But chaos has its virtues. It reveals what careful bureaucracy often hides: the truth about who Jeffrey Epstein knew, what they did together, and why so many powerful people want that information to stay buried.
-
-The names are coming out. The question now is whether they'll emerge through proper investigation and transparent process, or through continued confrontation between Congress and a Justice Department that seems determined to protect Epstein's network even after his death.
-
-The dam is cracking. What comes next depends on whether officials at DOJ decide to open the floodgates—or wait for Congress to blow them open instead.
+1. <span id="ref-1"></span>[Law.com: Epstein Files Show Regular Contact with Ex-Junior Clifford Chance Lawyer](https://www.law.com/international-edition/2026/02/04/epstein-files-show-regular-contact-with-ex-junior-clifford-chance-lawyer/)
+2. <span id="ref-2"></span>[The Hill: Epstein Files DOJ Bondi House Democrats](https://thehill.com/homenews/house/5738162-epstein-files-doj-bondi-house-democrats/)
+3. <span id="ref-3"></span>[Axios: Goldman Sachs Lawyer Kathryn Ruemmler Resigns](https://www.axios.com/2026/02/13/epstein-files-goldman-sachs-lawyer-kathryn-ruemmler-resigns)
+4. <span id="ref-4"></span>[CBS News: DP World CEO Epstein Files](https://www.cbsnews.com/news/dp-world-ceo-epstein-files/)
+5. <span id="ref-5"></span>[Lawmaker Names 6 Men Hidden in Epstein Files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act)
+6. <span id="ref-6"></span>[CBS 42/WVTM: Epstein University of Alabama](https://www.cbs42.com/news/the-time-jeffrey-epstein-was-invited-to-graduation-at-the-university-of-alabama/)
+7. <span id="ref-7"></span>[College Presidents, Professors Named in Epstein Files Fallout](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout)
+8. <span id="ref-8"></span>[Congress Subpoenas Wexner Over Epstein Ties](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties)
+9. <span id="ref-9"></span>[WFMJ: Ohio Politicians Received Wexner Campaign Funds](https://www.wfmj.com/story/ohio-politicians-wexner-epstein)
+10. <span id="ref-10"></span>[Senator Blocked Epstein Files After Receiving Donation](/news/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation)
+11. <span id="ref-11"></span>[The Guardian: Prince Andrew Epstein Investigation](https://www.theguardian.com/uk-news/prince-andrew-epstein)
+12. <span id="ref-12"></span>[Prince Andrew's BBC Claims Unravel as New Epstein Emails Surface](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface)
+13. <span id="ref-13"></span>[The Guardian: Four Men Named by Khanna Have No Epstein Ties](https://www.theguardian.com/us-news/2026/feb/13/khanna-epstein-files-names)
+14. <span id="ref-14"></span>[AG Bondi Caught Spying on Democrats' Epstein Files Searches](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches)
+15. <span id="ref-15"></span>[Congress Subpoenas Mandelson Over Epstein Ties](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe)

@@ -21,18 +21,22 @@ aiGenerated: true
 confidence: 0.95
 ---
 
-A federal court in New York has ruled that an **Jeffrey Epstein** victim can move forward with key claims in her lawsuit against **Bank of America**, alleging the financial institution knowingly ignored red flags in Epstein's transactions and profited from his sex trafficking operation. The ruling, issued **February 13, 2026**, allows claims under the **Trafficking Victims Protection Act** to proceed.
+A federal court in New York ruled that a **Jeffrey Epstein** victim can move forward with key claims in her lawsuit against **Bank of America**, according to Courthouse News.<sup>[1](#ref-1)</sup> The lawsuit alleges the financial institution failed to act on red flags in Epstein's transactions and benefited financially from his sex trafficking operation. The ruling, issued **February 13, 2026**, allows claims under the **Trafficking Victims Protection Act** to proceed.<sup>[1](#ref-1)</sup>
 
-The decision marks a significant legal development in efforts to hold financial institutions accountable for their alleged role in facilitating Epstein's criminal enterprise. Banks are required by law to monitor suspicious activity and report it to federal authorities, obligations that the victim alleges Bank of America failed to fulfill.
+Banks are required by federal law to monitor suspicious activity and report it to authorities, obligations the victim alleges Bank of America did not fulfill.<sup>[1](#ref-1)</sup>
 
-## Allegations of Non-Routine Banking Services
+## Allegations in the Complaint
 
-According to **Courthouse News**, the victim alleges that **Bank of America** provided specialized services that aided Epstein's operations. The complaint specifically claims the bank facilitated suspicious account transfers and failed to file **Suspicious Activity Reports** in a timely manner as required by federal banking regulations.
+According to Courthouse News, the victim alleges that **Bank of America** provided specialized services that facilitated Epstein's operations.<sup>[1](#ref-1)</sup> The complaint specifically claims the bank facilitated suspicious account transfers and failed to file **Suspicious Activity Reports** in a timely manner as required by federal banking regulations.<sup>[1](#ref-1)</sup>
 
-The court found these allegations sufficient to allow the victim's **participation and obstruction claims** under the **Trafficking Victims Protection Act** to advance. This federal law allows victims of human trafficking to sue those who knowingly benefit from trafficking ventures.
+The court found these allegations sufficient to allow the victim's **participation and obstruction claims** under the **Trafficking Victims Protection Act** to advance.<sup>[1](#ref-1)</sup> This federal law allows victims of human trafficking to sue those who allegedly benefited from trafficking ventures.
 
-## What This Means for Financial Institution Accountability
+## Next Steps
 
-The ruling represents one of the first instances where trafficking claims against a major financial institution in connection with the Epstein case have survived initial legal challenges. The decision suggests courts may hold banks to account when they allegedly turn a blind eye to trafficking-related financial activity.
+The ruling is one of the first instances where trafficking claims against a major financial institution in connection with the Epstein case have survived a motion to dismiss.<sup>[1](#ref-1)</sup>
 
-The case will now proceed to discovery, where the victim's legal team can seek internal Bank of America documents and communications related to Epstein's accounts. No trial date has been announced.
+The case will now proceed to discovery, where the victim's legal team can seek internal Bank of America documents and communications related to Epstein's accounts. No trial date has been announced.<sup>[1](#ref-1)</sup>
+
+## References
+
+1. <span id="ref-1"></span>[Courthouse News: BofA and Epstein](https://www.courthousenews.com/bofa-and-epstein/)

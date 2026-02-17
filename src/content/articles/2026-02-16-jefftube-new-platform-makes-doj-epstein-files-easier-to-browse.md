@@ -27,20 +27,27 @@ articleType: news
 confidence: 0.85
 ---
 
-A YouTube-style platform called JeffTube now hosts video files released by the Department of Justice in the Epstein case, The Sunday Guardian reported.
+A YouTube-style platform called JeffTube now hosts video files released by the Department of Justice in the Epstein case, The Sunday Guardian reported.<sup>[1](#ref-1)</sup>
 
-The platform organizes DOJ video releases into a browsable interface modeled after YouTube. The site hosts only materials released by the Justice Department.
+The platform organizes DOJ video releases into a browsable interface modeled after YouTube. The site hosts only materials released by the Justice Department.<sup>[1](#ref-1)</sup>
 
 ## Separating Video From Documents
 
-JeffTube structures video content with navigation features found on mainstream video platforms. Users can browse the DOJ's video releases without sorting through thousands of pages of documents and other file types.
+JeffTube structures video content with navigation features found on mainstream video platforms. Users can browse the DOJ's video releases without sorting through thousands of pages of documents and other file types.<sup>[1](#ref-1)</sup>
 
-The DOJ [released video footage from Epstein's office](/news/2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump) in mid-February as part of a broader file disclosure. The release included recordings, emails, and other materials collected during federal investigations.
+The DOJ [released video footage from Epstein's office](/news/2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump) in mid-February as part of a broader file disclosure.<sup>[2](#ref-2)</sup> The release included recordings, emails, and other materials collected during federal investigations.
 
 ## Release Under Scrutiny
 
-The video materials represent one component of millions of pages released following the Epstein Transparency Act. Attorney General Pam Bondi [stated the DOJ released "all" Epstein files](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) with full names listed.
+The video materials represent one component of millions of pages released following the Epstein Transparency Act. Attorney General Pam Bondi [stated the DOJ released "all" Epstein files](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) with full names listed.<sup>[3](#ref-3)</sup>
 
-Lawmakers including Rep. Thomas Massie and Rep. Nancy Mace [accused the department of continuing to hide names through redactions](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release). The New York Times launched a major investigation into the complete file release.
+Lawmakers including Rep. Thomas Massie and Rep. Nancy Mace [accused the department of continuing to withhold names through redactions](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release).<sup>[4](#ref-4)</sup> The New York Times launched a separate investigation into the complete file release.
 
 JeffTube provides centralized access to the video portion of the DOJ disclosures.
+
+## References
+
+1. <span id="ref-1"></span>[JeffTube: New Platform Makes DOJ Epstein Files Easier to Browse](https://news.google.com/rss/articles/CBMikgJBVV95cUxNbk5lU3MzUVdjT1o1V0hNS0N1QWpndExSMzR1aWdXTzZDV0FHNXViSmdYR25wX2h4SlNSRlVmU2FWMVhZWnBCUnZXdmtkRURkM3E0RTF4MVZ0eEZwNGo0bHlYSmhGdmpYbkRTV0hsSGNOTEV0dk5DdTU0cEU5bE53UklGOVV1RGkzcFhfTlFXbHJsUUVUOVpLTEhJV1JCTUZseHJCb3NKWlBtYUNVejdGQnJUSmNSekI4N2RzLVVPZ1hjWXBwMkt1TG12eVB1eks1QkFfM1IwZkxmbWNrN0UtLUJlRHM3MUtWbHdaVUFaWU8tVE1JSklSVDc1c2FvNnJvWFFOaDhQdXV3NGVNckNNOXRB?oc=5) - The Sunday Guardian
+2. <span id="ref-2"></span>[Newly released video from Epstein's office revealed in latest files dump](/news/2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump)
+3. <span id="ref-3"></span>[AG Bondi defends complete Epstein file release as lawmakers demand more](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more)
+4. <span id="ref-4"></span>[Rep. Mace accuses DOJ of hiding names in Epstein files release](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release)

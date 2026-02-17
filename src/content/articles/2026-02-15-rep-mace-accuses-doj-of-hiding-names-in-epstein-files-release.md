@@ -32,23 +32,23 @@ articleType: news
 confidence: 0.95
 ---
 
-Rep. Nancy Mace accused the Department of Justice of excluding names from the Epstein files after the agency sent a letter to Congress declaring its document release complete.
+Rep. Nancy Mace accused the Department of Justice of excluding names from the Epstein files after the agency sent a letter to Congress declaring its document release complete, according to The Hill.<sup>[1](#ref-1)</sup>
 
-"They're missing names," the South Carolina Republican said in response to the DOJ letter about completing the Epstein files release.
+"They're missing names," the South Carolina Republican said in response to the DOJ letter about completing the Epstein files release.<sup>[1](#ref-1)</sup>
 
-## Growing Republican Pressure
+## Congressional Criticism
 
-Mace's accusation adds to mounting criticism from congressional Republicans over the handling of documents related to Jeffrey Epstein and Ghislaine Maxwell.
+Mace's statement adds to criticism from congressional Republicans over the handling of documents related to Jeffrey Epstein and Ghislaine Maxwell.<sup>[1](#ref-1)</sup>
 
-Rep. Thomas Massie has [repeatedly challenged](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) Attorney General Pam Bondi over file redactions and [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted. Rep. Marjorie Taylor Greene [called the Trump administration's file handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) a "political miscalculation."
+Rep. Thomas Massie has [repeatedly challenged](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) Attorney General Pam Bondi over file redactions and [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted.<sup>[2](#ref-2)</sup><sup>[3](#ref-3)</sup> Rep. Marjorie Taylor Greene [called the Trump administration's file handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) a "political miscalculation."<sup>[4](#ref-4)</sup>
 
-Rep. Ro Khanna demanded full transparency after high-profile resignations linked to the files. One lawmaker publicly named six men allegedly hidden in the files despite the transparency law.
+Rep. Ro Khanna called for full transparency after high-profile departures connected to the files.<sup>[5](#ref-5)</sup> One lawmaker publicly named six men whose identities remained redacted despite the transparency law.
 
 ## Redaction Disputes
 
-The Justice Department has maintained that redactions protect ongoing investigations and privacy interests. Legal experts warned that releasing unredacted materials could damage pending prosecutions.
+The Justice Department has maintained that redactions protect ongoing investigations and privacy interests. Legal experts have said that releasing unredacted materials could affect pending prosecutions.<sup>[1](#ref-1)</sup>
 
-Attorney General Bondi was grilled during congressional testimony about why the department resists full document release. The administration also faced accusations of a cover-up over redactions.
+Attorney General Bondi faced congressional questioning about why the department has not released fully unredacted documents. The administration also faced criticism over the extent of redactions.<sup>[1](#ref-1)</sup>
 
 ## Transparency Act Implementation
 
@@ -56,3 +56,10 @@ Congress passed the Epstein Transparency Act requiring federal agencies to revie
 
 Multiple document batches have been released, naming dozens of individuals who had contact with Epstein. Courts have also released separate batches of Epstein-related materials.
 
+## References
+
+1. <span id="ref-1"></span>[Mace Criticizes DOJ Redactions in Epstein Files](https://thehill.com/homenews/house/5739802-mace-criticizes-doj-redactions/)
+2. <span id="ref-2"></span>[Massie Rips Trump DOJ Over Epstein File Redactions](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions)
+3. <span id="ref-3"></span>[Massie Declares 'Not Suicidal' as Epstein Files Pressure Mounts](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts)
+4. <span id="ref-4"></span>[Greene Blasts Trump's Epstein File Handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation)
+5. <span id="ref-5"></span>[Khanna Demands Names After Major Epstein Associate Steps Down](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down)

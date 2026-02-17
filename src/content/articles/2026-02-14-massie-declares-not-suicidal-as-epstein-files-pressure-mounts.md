@@ -35,44 +35,48 @@ articleType: news
 confidence: 0.95
 ---
 
-**Rep. Thomas Massie** (R-KY), co-author of the Epstein Transparency Act, posted a detailed public statement on X on February 13 declaring that he is "not suicidal" — a grim warning that underscores the personal risks facing lawmakers who have pushed hardest for full disclosure of the Epstein files.
+**Rep. Thomas Massie** (R-KY), co-author of the Epstein Transparency Act, posted a public statement on X on February 13 declaring that he is "not suicidal," according to Mediaite.<sup>[1](#ref-1)</sup>
 
-"I am not suicidal. I eat healthy food," Massie wrote. "The brakes on my car and truck are in good shape. I practice good trigger discipline and never point a gun at anyone, including myself. There are no deep pools of water on my farm and I'm a pretty good swimmer."
+"I am not suicidal. I eat healthy food," Massie wrote. "The brakes on my car and truck are in good shape. I practice good trigger discipline and never point a gun at anyone, including myself. There are no deep pools of water on my farm and I'm a pretty good swimmer."<sup>[1](#ref-1)</sup>
 
-He added: "It's true that my political career is on the line, my political life, but my own health and well-being could very well be too. I've upset a lot of billionaires who obviously aren't of high moral character and have done some really shady stuff."
+He added: "It's true that my political career is on the line, my political life, but my own health and well-being could very well be too. I've upset a lot of billionaires who obviously aren't of high moral character and have done some really shady stuff."<sup>[1](#ref-1)</sup>
 
-## Why Now
+## Context
 
-The statement came at a moment of maximum tension. Earlier this week, Massie and **Rep. Ro Khanna** (D-CA) [reviewed unredacted versions of the Epstein files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) at the Department of Justice. They emerged to announce that at least **six men's names** had been deliberately redacted from public releases — men who, Massie said, are "likely incriminated by their inclusion in these files."
+The statement followed Massie and **Rep. Ro Khanna's** (D-CA) [review of unredacted versions of the Epstein files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) at the Department of Justice earlier this week. They announced that at least **six men's names** had been redacted from public releases -- men who, Massie said, are "likely incriminated by their inclusion in these files."<sup>[1](#ref-1)</sup>
 
-The revelation triggered an immediate cascade of consequences. **Sultan Ahmed bin Sulayem**, CEO and chairman of the Dubai-based shipping giant **DP World**, [resigned within days](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after Massie confirmed he was the recipient of an April 24, 2009 email from Epstein that read: "where are you? are you ok I loved the torture video." Bin Sulayem's name appeared more than **4,700 times** across the released files, and his correspondence with Epstein included discussions of masseuses, sexual encounters, escort services, and pornography.
+Following the disclosure, **Sultan Ahmed bin Sulayem**, CEO and chairman of the Dubai-based shipping company **DP World**, [resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after Massie confirmed he was the recipient of an April 24, 2009 email from Epstein that read: "where are you? are you ok I loved the torture video." Bin Sulayem's name appeared more than **4,700 times** across the released files, and his correspondence with Epstein included discussions of masseuses, sexual encounters, escort services, and pornography, according to the documents.
 
-The fallout reached global financial institutions. Canada's second-largest pension fund, **La Caisse de dépôt**, paused over **$5 billion** in investments with DP World. Britain's development finance arm halted new deals involving the company's African port operations.
+Canada's second-largest pension fund, **La Caisse de depot**, paused over **$5 billion** in investments with DP World. Britain's development finance arm halted new deals involving the company's African port operations.
 
-## The Cover-Up Accusation
+## Massie's Accusation
 
-Massie said his safety concerns crystallized after a confrontation with **Attorney General Pam Bondi**. When Bondi distributed folders to social media influencers labeled "The Epstein Files: Phase 1," Massie asked when Phase 2 would come. Bondi reportedly responded that nothing remained but child exploitation material.
+Massie said his concerns grew after an exchange with **Attorney General Pam Bondi**, according to Mediaite.<sup>[1](#ref-1)</sup> When Bondi distributed folders to social media influencers labeled "The Epstein Files: Phase 1," Massie asked when Phase 2 would come. Bondi reportedly responded that nothing remained but child exploitation material.
 
-"At that point," Massie said, "I concluded the administration had undertaken a cover-up and had no intention of releasing these files."
+"At that point," Massie said, "I concluded the administration had undertaken a cover-up and had no intention of releasing these files."<sup>[1](#ref-1)</sup>
 
-He has since threatened a ["nuclear option"](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) — using his Congressional speech and debate clause immunity to read redacted names into the public record on the House floor. Khanna subsequently did exactly that, reading six names from the House floor.
+He subsequently stated he would use his Congressional Speech or Debate Clause immunity to [read redacted names into the public record](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) on the House floor. Khanna did so, reading six names from the House floor.
 
-Bondi was grilled during Congressional testimony about the redactions, while critics accused the Trump DOJ of a deliberate cover-up. Trump himself called for ending the investigation, stating the matter had been "investigated enough."
+Bondi was questioned during Congressional testimony about the redactions. Trump called for ending the investigation, stating the matter had been "investigated enough."
 
-## A Pattern of Safety Warnings
+## Similar Statements by Other Lawmakers
 
-Massie is not alone. Former **Rep. Marjorie Taylor Greene** responded to his post: "These are not the type of public statements that any of us should have to make. But I'll back this up as his friend. Thomas is one of the happiest people I know. He loves his kids and grandkids. He loves his wife. He loves his life. And he loves our country and Kentucky."
+Former **Rep. Marjorie Taylor Greene** responded to Massie's post: "These are not the type of public statements that any of us should have to make. But I'll back this up as his friend. Thomas is one of the happiest people I know. He loves his kids and grandkids. He loves his wife. He loves his life. And he loves our country and Kentucky."<sup>[1](#ref-1)</sup>
 
-Greene had previously made her own declaration, writing: "If something happens to me, I ask you all to find out" who might be trying "to stop the information from coming out."
+Greene had previously written: "If something happens to me, I ask you all to find out" who might be trying "to stop the information from coming out."
 
-**Rep. Nancy Mace** (R-SC) made a similar statement, joining a pattern of elected officials publicly documenting their health and mental state — an implicit reference to the circumstances of Epstein's own death at the **Metropolitan Correctional Center** on **August 10, 2019**, which was ruled a suicide but has been widely questioned.
+**Rep. Nancy Mace** (R-SC) made a similar statement. Epstein died at the **Metropolitan Correctional Center** on **August 10, 2019**, in a death that was ruled a suicide.
 
-## Political Price
+## Political Consequences
 
-Massie is paying a political price for his persistence. **President Trump** has vowed to "primary" him in Kentucky over the lawmaker's opposition to the administration's legislative agenda, and Massie acknowledged it "would be a whole lot easier politically to get reelected" if he dropped the Epstein issue.
+**President Trump** has stated he will support a primary challenger against Massie in Kentucky, and Massie acknowledged it "would be a whole lot easier politically to get reelected" if he dropped the Epstein issue, according to Mediaite.<sup>[1](#ref-1)</sup>
 
-He has refused to back down, telling reporters that the Epstein files are "bigger than Watergate" and that meeting with survivors of Epstein's trafficking network convinced him the stakes demand full transparency regardless of personal cost.
+Massie told reporters the Epstein files are "bigger than Watergate" and that meeting with survivors of Epstein's alleged trafficking network convinced him to continue pursuing full transparency.<sup>[1](#ref-1)</sup>
 
-The Epstein Transparency Act, which Massie co-authored with Khanna, passed the House **427 to 1** and the Senate unanimously before being signed into law on **November 19, 2025**. Despite the law's mandate, the DOJ has released documents with extensive redactions that the FBI has defended as legally necessary — a position that Massie's unredacted review directly contradicts.
+The Epstein Transparency Act, which Massie co-authored with Khanna, passed the House **427 to 1** and the Senate unanimously before being signed into law on **November 19, 2025**. The DOJ has released documents with extensive redactions that the FBI has defended as legally necessary. Massie has stated his review of unredacted files contradicts the DOJ's justifications for those redactions.
 
-"It was not a hoax, I cannot be bullied, I am not done," Massie wrote on X, "and this is why those in power are doing everything in their power to defeat me."
+"It was not a hoax, I cannot be bullied, I am not done," Massie wrote on X, "and this is why those in power are doing everything in their power to defeat me."<sup>[1](#ref-1)</sup>
+
+## References
+
+1. <span id="ref-1"></span>[Thomas Massie posts statement saying he's 'not suicidal' amid Epstein files pressure - Mediaite](https://www.mediaite.com/online/thomas-massie-posts-grim-tweet-saying-hes-not-suicidal-amid-trump-epstein-files-fracas/)

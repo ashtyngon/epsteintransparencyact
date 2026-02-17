@@ -25,16 +25,20 @@ articleType: news
 confidence: 0.95
 ---
 
-British police have set up a national group to handle allegations that Jeffrey Epstein's trafficking of women had ties to Britain and claims against his associates, including Andrew Mountbatten-Windsor.
+British police have set up a national group to handle allegations that Jeffrey Epstein's alleged trafficking of women had ties to Britain and claims against his associates, including Andrew Mountbatten-Windsor, according to The Guardian.<sup>[1](#ref-1)</sup>
 
-A senior policing source described the expected volume of claims as a "tsunami" following the U.S. release of papers relating to Epstein.
+A senior policing source described the expected volume of claims as a "tsunami" following the U.S. release of papers relating to Epstein, the report stated.<sup>[1](#ref-1)</sup>
 
-At least three British police forces are currently dealing with allegations triggered by the revelations about Epstein and his associates in documents released in the United States. Police officials expect more claims of wrongdoing.
+At least three British police forces are currently dealing with allegations triggered by information about Epstein and his associates in documents released in the United States, according to The Guardian.<sup>[1](#ref-1)</sup> Police officials expect additional claims.
 
-## UK Connections Under Scrutiny
+## UK Connections
 
-The national coordination effort comes as [new emails have contradicted Prince Andrew's public statements](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) about his relationship with Epstein. [Courts in the U.S. have released new batches](/news/court-releases-new-batch-of-documents) of Epstein-related documents in recent weeks.
+The national coordination effort comes as [released emails showed more contact between Prince Andrew and Epstein](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) than the prince previously acknowledged. [Courts in the U.S. have released new batches](/news/court-releases-new-batch-of-documents) of Epstein-related documents in recent weeks.
 
-The group will handle both allegations about Epstein's trafficking operations with ties to the UK and claims against his associates.
+The group will handle both allegations about Epstein's alleged trafficking operations with ties to the UK and claims against his associates.<sup>[1](#ref-1)</sup>
 
 British police have not specified how many allegations are currently under investigation or identified individuals named in those complaints.
+
+## References
+
+1. <span id="ref-1"></span>[UK police set up national group to handle Jeffrey Epstein allegations - The Guardian](https://www.theguardian.com/uk-news/2026/feb/14/uk-police-set-up-national-group-uk-jeffrey-epstein-allegations)
