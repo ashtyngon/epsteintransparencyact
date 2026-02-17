@@ -1,13 +1,14 @@
 ---
-name: "Donald Trump"
-seoTitle: "Trump Epstein Files — Named 38,000+ Times in Documents"
-seoDescription: "Second most-mentioned name in Epstein files with 38,000+ references. Flew 8 times on Epstein's jet. Fought release, called supporters 'weaklings.'"
+name: Donald Trump
+seoTitle: Trump Epstein Files — Named 38,000+ Times in Documents
+seoDescription: Second most-mentioned name in Epstein files with 38,000+ references. Flew 8 times on Epstein's jet. Fought release, called supporters 'weaklings.'
+role: 45th & 47th President of the United States
+category: named-in-documents
+shortBio: The second most mentioned name in 3.5 million pages of Epstein files — appearing more than 38,000 times. Pledged during his 2024 campaign to release the files, then fought for months to suppress them after learning his name was in the documents. Called it a 'hoax,' branded supporters demanding transparency 'weaklings,' sued the Wall Street Journal for $20 billion over its Epstein reporting, and pressured Congress to block the Transparency Act. Signed only after a 427-1 House vote made resistance impossible. After the files were released, claimed they 'absolve' him, told the country to 'move on,' attacked the reporter who asked about survivors, and called himself '100% exonerated.'
+image: /images/people/donald-trump.jpg
 aliases:
-  - "President Trump"
-  - "Donald J. Trump"
-role: "45th & 47th President of the United States"
-category: "named-in-documents"
-shortBio: "The second most mentioned name in 3.5 million pages of Epstein files — appearing more than 38,000 times. Pledged during his 2024 campaign to release the files, then fought for months to suppress them after learning his name was in the documents. Called it a 'hoax,' branded supporters demanding transparency 'weaklings,' sued the Wall Street Journal for $20 billion over its Epstein reporting, and pressured Congress to block the Transparency Act. Signed only after a 427-1 House vote made resistance impossible. After the files were released, claimed they 'absolve' him, told the country to 'move on,' attacked the reporter who asked about survivors, and called himself '100% exonerated.'"
+  - President Trump
+  - Donald J. Trump
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -15,44 +16,43 @@ notableConnections:
   - alexander-acosta
   - virginia-giuffre
 firstMentionedDate: 1992-11-28
-image: "/images/people/donald-trump.jpg"
 sources:
-  - title: "Jeffrey Epstein: International Moneyman of Mystery — New York Magazine"
-    url: "https://nymag.com/nymetro/news/people/n_7912/"
-  - title: "Trump and Epstein: A Timeline — NPR"
-    url: "https://www.npr.org/2025/08/22/nx-s1-5508871/trump-bondi-epstein-files-release-history"
-  - title: "Trump Calls Epstein Files a Hoax — CBS News"
-    url: "https://www.cbsnews.com/news/trump-jeffrey-epstein-hoax-republicans/"
-  - title: "Bondi Briefed Trump on His Name in Files — CNN"
-    url: "https://www.cnn.com/2025/07/23/politics/bondi-trump-epstein-list-files"
-  - title: "Fighting It for Months, Trump Signs Epstein Bill — PBS"
-    url: "https://www.pbs.org/newshour/politics/fighting-it-for-months-trump-signs-bill-to-release-jeffrey-epstein-case-files"
-  - title: "The Epstein Connections Fueling Conspiracy Theories — FactCheck.org"
-    url: "https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/"
-  - title: "Trump and Epstein Party Footage — NBC News"
-    url: "https://www.nbcnews.com/news/us-news/tape-shows-donald-trump-jeffrey-epstein-discussing-women-1992-party-n1030686"
-  - title: "Epstein Victims' Attorney Talks About Donald Trump Claims — Newsweek"
-    url: "https://www.newsweek.com/jeffrey-epstein-victims-attorney-talks-about-donald-trump-claims-1857298"
-  - title: "Trump Backs Full Release in Sharp Reversal — Al Jazeera"
-    url: "https://www.aljazeera.com/news/2025/11/17/trump-backs-full-release-of-epstein-files-in-sharp-reversal"
-  - title: "Trump's 'Weaklings' Post — CNN"
-    url: "https://www.cnn.com/2025/07/16/politics/trump-epstein-weaklings-supporters"
-  - title: "How Often Trump Is Mentioned in New Epstein Files — New Republic"
-    url: "https://newrepublic.com/post/206023/how-often-donald-trump-mentioned-epstein-files"
-  - title: "16 Files Disappear from DOJ Site Including Trump Photo — PBS"
-    url: "https://www.pbs.org/newshour/politics/at-least-16-files-disappear-from-doj-site-for-epstein-documents-including-trump-photo"
-  - title: "Second Batch of Epstein Files Includes Many Mentions of Trump — Washington Post"
-    url: "https://www.washingtonpost.com/national-security/2025/12/22/epstein-trump-file-release/"
-  - title: "Clinton Spokesperson Calls for Release of All Epstein Files — ABC News"
-    url: "https://abcnews.com/US/bill-clintons-spokesperson-calls-release-epstein-files-related/story?id=128643851"
-  - title: "Which House Republicans Helped Force a Vote on Epstein Files — TIME"
-    url: "https://time.com/7333573/epstein-files-discharge-petition-republicans-trump-massie-mace-boebert-greene/"
-  - title: "Jeffrey Epstein's Friends Sent Bawdy Letters for Birthday Album. One Was From Trump — WSJ"
-    url: "https://www.wsj.com/politics/trump-jeffrey-epstein-birthday-letter-we-have-certain-things-in-common-f918d796"
-  - title: "Former Model Stacey Williams Is Latest Woman to Accuse Trump — NPR"
-    url: "https://www.npr.org/2024/10/25/g-s1-29963/stacey-williams-donald-trump-jeffrey-epstein"
-  - title: "Trump Wishes Ghislaine Maxwell 'Well' as She Faces Charges — CNN"
-    url: "https://www.cnn.com/2020/07/21/politics/donald-trump-ghislaine-maxwell-i-wish-her-well"
+  - title: 'Jeffrey Epstein: International Moneyman of Mystery — New York Magazine'
+    url: https://nymag.com/nymetro/news/people/n_7912/
+  - title: 'Trump and Epstein: A Timeline — NPR'
+    url: https://www.npr.org/2025/08/22/nx-s1-5508871/trump-bondi-epstein-files-release-history
+  - title: Trump Calls Epstein Files a Hoax — CBS News
+    url: https://www.cbsnews.com/news/trump-jeffrey-epstein-hoax-republicans/
+  - title: Bondi Briefed Trump on His Name in Files — CNN
+    url: https://www.cnn.com/2025/07/23/politics/bondi-trump-epstein-list-files
+  - title: Fighting It for Months, Trump Signs Epstein Bill — PBS
+    url: https://www.pbs.org/newshour/politics/fighting-it-for-months-trump-signs-bill-to-release-jeffrey-epstein-case-files
+  - title: The Epstein Connections Fueling Conspiracy Theories — FactCheck.org
+    url: https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/
+  - title: Trump and Epstein Party Footage — NBC News
+    url: https://www.nbcnews.com/news/us-news/tape-shows-donald-trump-jeffrey-epstein-discussing-women-1992-party-n1030686
+  - title: Epstein Victims' Attorney Talks About Donald Trump Claims — Newsweek
+    url: https://www.newsweek.com/jeffrey-epstein-victims-attorney-talks-about-donald-trump-claims-1857298
+  - title: Trump Backs Full Release in Sharp Reversal — Al Jazeera
+    url: https://www.aljazeera.com/news/2025/11/17/trump-backs-full-release-of-epstein-files-in-sharp-reversal
+  - title: Trump's 'Weaklings' Post — CNN
+    url: https://www.cnn.com/2025/07/16/politics/trump-epstein-weaklings-supporters
+  - title: How Often Trump Is Mentioned in New Epstein Files — New Republic
+    url: https://newrepublic.com/post/206023/how-often-donald-trump-mentioned-epstein-files
+  - title: 16 Files Disappear from DOJ Site Including Trump Photo — PBS
+    url: https://www.pbs.org/newshour/politics/at-least-16-files-disappear-from-doj-site-for-epstein-documents-including-trump-photo
+  - title: Second Batch of Epstein Files Includes Many Mentions of Trump — Washington Post
+    url: https://www.washingtonpost.com/national-security/2025/12/22/epstein-trump-file-release/
+  - title: Clinton Spokesperson Calls for Release of All Epstein Files — ABC News
+    url: https://abcnews.com/US/bill-clintons-spokesperson-calls-release-epstein-files-related/story?id=128643851
+  - title: Which House Republicans Helped Force a Vote on Epstein Files — TIME
+    url: https://time.com/7333573/epstein-files-discharge-petition-republicans-trump-massie-mace-boebert-greene/
+  - title: Jeffrey Epstein's Friends Sent Bawdy Letters for Birthday Album. One Was From Trump — WSJ
+    url: https://www.wsj.com/politics/trump-jeffrey-epstein-birthday-letter-we-have-certain-things-in-common-f918d796
+  - title: Former Model Stacey Williams Is Latest Woman to Accuse Trump — NPR
+    url: https://www.npr.org/2024/10/25/g-s1-29963/stacey-williams-donald-trump-jeffrey-epstein
+  - title: Trump Wishes Ghislaine Maxwell 'Well' as She Faces Charges — CNN
+    url: https://www.cnn.com/2020/07/21/politics/donald-trump-ghislaine-maxwell-i-wish-her-well
 sensitive: false
 ---
 
@@ -66,19 +66,24 @@ Trump and Epstein moved in overlapping circles in Palm Beach and Manhattan begin
 
 Epstein was a member of Mar-a-Lago. His contacts book, seized by the FBI in 2005, contained 14 phone numbers for Trump — including numbers for Mar-a-Lago, his New York apartment, his car, and his then-girlfriend Melania. No other individual in the black book had as many contact numbers listed.
 
-![The page from Epstein's contacts book listing Donald Trump's 14 phone numbers](/images/documents/black-book-trump-page.jpg)
+![The page from Epstein's contacts book listing Donald Trump's 14 phone numbers](https://static01.nyt.com/images/2026/02/01/multimedia/01inv-epstein-trump-photo-bzfm/01inv-epstein-trump-photo-bzfm-superJumbo.jpg?quality=75&auto=webp "House Oversight Democrats")
 
 The most widely quoted evidence of their relationship comes from a 2002 New York Magazine profile of Epstein by Landon Thomas Jr., in which Trump said: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side. No doubt about it — Jeffrey enjoys his social life."
 
 That quote — particularly "many of them are on the younger side" — would become one of the most scrutinized statements in the entire Epstein case. Trump later claimed it was intended as a veiled warning. That interpretation has been widely disputed.
 
+![President Trump with Jeffrey Epstein at Mar-a-Lago in 1997.](https://images.wsj.net/im-98847625?width=1280&size=0.800&pixel_ratio=2)
+
 ### The Birthday Letter
 
 Among the documents released under the Transparency Act was a birthday letter from Epstein to Trump, first reported by The Wall Street Journal and confirmed by The New York Times and PBS. The letter included a hand-drawn illustration by Epstein depicting a naked woman. The accompanying message read: "May every day of your life be another wonderful secret that time longs to reveal." Trump's representatives have not publicly addressed the letter's contents.
 
-### The 1992 Calendar Girl Party
+![](https://news.artnet.com/app/news-upload/2025/07/trump-epstein-birthday-book-drawing-1627x2048.png)
 
+```plain
 In November 1992, NBC cameras filmed Trump and Epstein at a "Calendar Girl" party at Mar-a-Lago attended by approximately 28 women, including cheerleaders from the Buffalo Bills and Miami Dolphins. Trump and Epstein were the only two men present besides their staffers. The footage, originally shot for an NBC segment on Trump's social life and not aired until its release in July 2019, shows the two men laughing, talking, and pointing out women to each other. It remains the most widely seen visual evidence of their social relationship.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i_Xm26DikxE?si=fBRkXIBHqlWMP1h6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 
 ### Epstein's Private Emails About Trump
 
@@ -150,11 +155,7 @@ Running mate JD Vance reinforced the promise on the Theo Von podcast: "We should
 
 These promises helped consolidate grassroots support and became a rallying point across the political spectrum.
 
-## AG Bondi's Contradictory Statements (2025)
-
 After taking office, AG [Pam Bondi](/people/pam-bondi) initially signaled transparency. In February 2025, she stated a client list was "sitting on my desk." In May 2025, she claimed there were "tens of thousands of videos" related to the case. Both statements were later contradicted by the DOJ's July 7, 2025 memo, which stated that no "client list" existed and no further releases were warranted.
-
-## The Briefing That Changed Everything
 
 In May 2025, Bondi and Deputy AG Todd Blanche briefed Trump that his name appeared in the Epstein files. CNN reported on July 23, 2025 that this briefing preceded Trump's dramatic shift.
 
