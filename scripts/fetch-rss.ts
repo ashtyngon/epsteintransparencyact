@@ -146,6 +146,17 @@ async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]>
             const parts = (item.title || '').split(' - ');
             sourceName = parts.length > 1 ? parts[parts.length - 1].trim() : 'Unknown Source';
           }
+          // HARD FAILSAFE: source names must be English/ASCII — reject non-Latin scripts
+          if (/[^\x00-\x7F]/.test(sourceName)) {
+            // Try extracting from title "Article Title - Publisher" pattern
+            const parts = (item.title || '').split(' - ');
+            const lastPart = parts.length > 1 ? parts[parts.length - 1].trim() : '';
+            if (lastPart && !/[^\x00-\x7F]/.test(lastPart)) {
+              sourceName = lastPart;
+            } else {
+              sourceName = 'Unknown Source';
+            }
+          }
         }
 
         return {

@@ -16,17 +16,6 @@ relatedArticles:
   - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
-  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
-  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
-  - 2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
 tags:
   - investigation
   - document-release
@@ -53,34 +42,34 @@ The UK's top prosecutor stated "nobody is above the law" when asked about high-p
 
 ## France Opens Diplomatic Investigation
 
-France created a specialized team within its justice ministry to identify French nationals in the files. [French prosecutors opened an investigation into at least one diplomat](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe) named in the documents.
+France created a specialized team within its justice ministry to identify French nationals in the files. French prosecutors opened an investigation into at least one diplomat named in the documents.
 
 The team is working with prosecutors to determine whether criminal charges are warranted under French law.
 
 ## U.S. Investigations Expand
 
-[New Mexico launched its first comprehensive investigation](/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch) into activities at Epstein's Zorro Ranch property. State authorities said the probe will examine whether criminal activity occurred on the property and whether local officials failed to act on complaints.
+New Mexico launched its first comprehensive investigation into activities at Epstein's Zorro Ranch property. State authorities said the probe will examine whether criminal activity occurred on the property and whether local officials failed to act on complaints.
 
-Congress issued subpoenas to multiple individuals, including [retail billionaire Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties). Both Wexner and Mandelson are scheduled to testify before congressional committees.
+Congress issued subpoenas to multiple individuals, including retail billionaire Les Wexner. Both Wexner and Mandelson are scheduled to testify before congressional committees.
 
-[A federal court allowed a trafficking lawsuit against Bank of America to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed). The suit alleges the bank facilitated Epstein's trafficking operation by processing payments and failing to report suspicious transactions.
+A federal court allowed a trafficking lawsuit against Bank of America to proceed. The suit alleges the bank facilitated Epstein's trafficking operation by processing payments and failing to report suspicious transactions.
 
 ## Corporate Resignations Follow File Release
 
-[Dubai's ports authority chief resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails between him and Epstein surfaced in the document release. UAE officials said they are reviewing whether any Emirati laws were violated.
+Dubai's ports authority chief resigned after hundreds of emails between him and Epstein surfaced in the document release. UAE officials said they are reviewing whether any Emirati laws were violated.
 
-[Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after his name appeared in the files. [Hyatt heir Tom Pritzker stepped down](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) from corporate positions after the files revealed contact with Epstein.
+Goldman Sachs' top lawyer resigned after his name appeared in the files. Hyatt heir Tom Pritzker stepped down from corporate positions after the files revealed contact with Epstein.
 
-[Olympic chief Casey Wasserman exited his role](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) after emails between him and Ghislaine Maxwell became public. Wasserman also [sold his talent agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) following the revelations.
+Olympic chief Casey Wasserman exited his role after emails between him and Ghislaine Maxwell became public. Wasserman also sold his talent agency following the revelations.
 
 ## Academic Institutions Respond
 
-[Columbia University removed staff members](/news/2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission) who facilitated the admission of an Epstein-linked applicant to its dental school. The university said it is conducting a broader review of Epstein's connections to the institution.
+Columbia University removed staff members who facilitated the admission of an Epstein-linked applicant to its dental school. The university said it is conducting a broader review of Epstein's connections to the institution.
 
-[Multiple college presidents and professors were named in the files](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout), prompting internal reviews at several universities.
+Multiple college presidents and professors were named in the files, prompting internal reviews at several universities.
 
 ## UN Calls for International Coordination
 
-[UN human rights experts called for a comprehensive international investigation](/news/2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma) into the files and warned that some conduct described in the documents could constitute crimes against humanity.
+UN human rights experts called for a comprehensive international investigation into the files and warned that some conduct described in the documents could constitute crimes against humanity.
 
 The experts issued a statement urging member states to cooperate in identifying potential criminal activity within their jurisdictions. The statement noted that trafficking networks often cross multiple borders and that effective prosecution requires international coordination through Interpol channels.

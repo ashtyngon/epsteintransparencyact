@@ -14,9 +14,6 @@ relatedArticles:
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
   - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m
-  - 2026-02-15-texas-gop-alarmed-over-comptroller-candidate-s-epstein-ranch-purchase
 tags:
   - investigation
   - legislation
@@ -51,11 +48,11 @@ The New Mexico investigation comes as federal handling of Epstein files faces mo
 
 Rep. Nancy Mace [accused the DOJ of hiding names in redacted files](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release), while a recent analysis found that [the Trump DOJ released only 2% of available Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows).
 
-Other governments have launched parallel efforts. [France established a special team to review Epstein files](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) for French nationals, and [UK police created a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations.
+Other governments have launched parallel efforts. France established a special team to review Epstein files for French nationals, and UK police created a national task force to investigate trafficking allegations.
 
 ## Ranch Ownership Drew Recent Scrutiny
 
-The Zorro Ranch property has attracted renewed attention after [Texas GOP candidate Don Huffines' family purchased it for $13.4 million](/news/2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m). Huffines, running for Texas comptroller, faced questions from [alarmed state Republican officials](/news/2026-02-15-texas-gop-alarmed-over-comptroller-candidate-s-epstein-ranch-purchase) about his family's acquisition of the property where abuse allegedly occurred.
+The Zorro Ranch property has attracted renewed attention after Texas GOP candidate Don Huffines' family purchased it for $13.4 million. Huffines, running for Texas comptroller, faced questions from alarmed state Republican officials about his family's acquisition of the property where abuse allegedly occurred.
 
 The New Mexico commission represents the first government body dedicated specifically to investigating what happened at the ranch, which had remained largely outside the scope of federal prosecutions that led to Epstein's 2008 plea deal and 2019 indictment.
 

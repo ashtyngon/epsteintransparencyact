@@ -15,15 +15,6 @@ relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
-  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
-  - 2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power
-  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
 tags:
   - transparency-act
   - document-release
@@ -47,20 +38,20 @@ Bondi [previously defended the scope of the document release](/news/2026-02-15-a
 
 Rep. Thomas Massie [declared he has lost confidence in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over what he characterized as excessive redactions hiding key individuals. Rep. Nancy Mace [accused the DOJ of deliberately hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) in released materials.
 
-Rep. Ro Khanna reviewed unredacted files and [named six men whose identities remain hidden](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) despite the Epstein Transparency Act requiring disclosure.
+Rep. Ro Khanna reviewed unredacted files and named six men whose identities remain hidden despite the Epstein Transparency Act requiring disclosure.
 
-The DOJ [has been accused of running a cover-up](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) through its redaction practices.
+The DOJ has been accused of running a cover-up through its redaction practices.
 
 ## Shifting Positions
 
-Bondi initially [resisted full document disclosure](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) during Senate testimony on February 13, citing investigative concerns. Days later, she [named several dead celebrities](/news/2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list) whose identities appeared in email lists. The selective disclosure of deceased individuals while withholding living persons drew criticism from transparency advocates.
+Bondi initially resisted full document disclosure during Senate testimony on February 13, citing investigative concerns. Days later, she named several dead celebrities whose identities appeared in email lists. The selective disclosure of deceased individuals while withholding living persons drew criticism from transparency advocates.
 
 Bondi did not address the discrepancy between her "all files released" claim and lawmakers' statements that critical documents remain concealed.
 
 ## International Action
 
-France [established a special team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) to review files involving French nationals. The United Kingdom [launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations, with prosecutors stating ["nobody is above the law"](/news/2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew).
+France established a special team to review files involving French nationals. The United Kingdom launched a national task force to investigate trafficking allegations, with prosecutors stating "nobody is above the law".
 
-The file release has [triggered resignations and investigations globally](/news/2026-02-16-epstein-files-trigger-global-resignations-new-investigations), with [European elites facing consequences](/news/2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power) that have largely eluded their American counterparts.
+The file release has triggered resignations and investigations globally, with European elites facing consequences that have largely eluded their American counterparts.
 
-Rep. Massie [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) after intensifying his demands for full transparency.
+Rep. Massie declared "I am not suicidal" after intensifying his demands for full transparency.

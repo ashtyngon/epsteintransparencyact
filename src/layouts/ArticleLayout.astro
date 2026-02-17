@@ -22,7 +22,8 @@ const { getCollection } = await import('astro:content');
 const allArticles = await getCollection('articles');
 const relatedArticleEntries = relatedArticles
   .map((slug: string) => allArticles.find((a) => a.id === slug))
-  .filter(Boolean);
+  .filter(Boolean)
+  .slice(0, 4); // Cap at 4 most relevant
 
 const jsonLd = articleJsonLd({
   title,

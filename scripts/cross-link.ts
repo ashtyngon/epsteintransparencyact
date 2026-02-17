@@ -88,18 +88,23 @@ function findMentionedPeople(body: string, people: PersonEntry[]): string[] {
   return matches.slice(0, MAX_PEOPLE_PER_ARTICLE).map((m) => m.slug);
 }
 
+const MAX_RELATED_ARTICLES = 5;
+
 function findLinkedArticles(body: string, existingFiles: Set<string>): string[] {
   const linkPattern = /\/news\/([\w-]+)/g;
-  const slugs = new Set<string>();
+  const slugs: string[] = [];
+  const seen = new Set<string>();
   let match;
   while ((match = linkPattern.exec(body)) !== null) {
     const slug = match[1];
-    // Only include if the article file actually exists
-    if (existingFiles.has(`${slug}.md`)) {
-      slugs.add(slug);
+    // Only include if the article file actually exists, preserve order of appearance
+    if (existingFiles.has(`${slug}.md`) && !seen.has(slug)) {
+      seen.add(slug);
+      slugs.push(slug);
     }
   }
-  return [...slugs];
+  // Cap at MAX_RELATED_ARTICLES — keep only the first (most relevant, appear earliest in body)
+  return slugs.slice(0, MAX_RELATED_ARTICLES);
 }
 
 function updateArticleFrontmatter(

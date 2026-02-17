@@ -13,19 +13,10 @@ people:
   - peter-mandelson
   - howard-lutnick
 relatedArticles:
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
-  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - epstein-transparency-act-signed-into-law
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
 tags:
   - document-release
   - associates
@@ -105,7 +96,7 @@ The files document thousands of introductions, facilitated meetings, brokered ac
 
 This week, **Rep. Robert Garcia**, ranking member of the House Committee on Oversight and Government Reform, and **Rep. Suhas Subramanyam** formally requested **Lord Peter Mandelson** testify to Congress regarding his Epstein relationship. Their letter states it is "clear" Mandelson "holds critical information."
 
-[Congress has already subpoenaed Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), though whether a British peer will comply with an American congressional subpoena remains uncertain. The request itself is significant: American lawmakers asserting jurisdiction over a foreign political figure based on his documented ties to an American sex offender.
+Congress has already subpoenaed Mandelson, though whether a British peer will comply with an American congressional subpoena remains uncertain. The request itself is significant: American lawmakers asserting jurisdiction over a foreign political figure based on his documented ties to an American sex offender.
 
 Mandelson served as British Business Secretary and European Commissioner for Trade before becoming the UK's ambassador to the United States. His documented relationship with Epstein spans years and continents. What information he "holds" about Epstein's network—and who else comprised it—could prove more valuable than any single cache of documents.
 
@@ -113,37 +104,37 @@ The challenge is jurisdiction. Congress lacks the power to compel testimony from
 
 ## What the Redactions Conceal
 
-The [FBI has explained](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) that files remain "heavily redacted" to protect ongoing investigations and individual privacy. But this explanation has faced increasing scrutiny as executives have resigned, as more names have emerged through congressional testimony rather than official releases, and as the DOJ has announced it has ended document production.
+The FBI has explained that files remain "heavily redacted" to protect ongoing investigations and individual privacy. But this explanation has faced increasing scrutiny as executives have resigned, as more names have emerged through congressional testimony rather than official releases, and as the DOJ has announced it has ended document production.
 
 Critics have noted that the DOJ has simultaneously cited ongoing investigations as justification for redactions while announcing the end of document releases. Lawmakers have also pointed out that privacy-based redactions have disproportionately protected prominent figures while victims' identities have been exposed repeatedly.
 
 Consider the asymmetry: Sultan Ahmed bin Sulayem's name appears 4,700 times in documents the Justice Department possesses. Yet until his forced resignation, the public knew nothing of this. The documents existed. The DOJ had them. They weren't released.
 
-When Bondi [testified](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) before the House Judiciary Committee this week, she offered no timeline for when remaining redactions might be lifted, no criteria for what justifies continued secrecy, no acknowledgment that the pattern of selective disclosure has destroyed public confidence.
+When Bondi testified before the House Judiciary Committee this week, she offered no timeline for when remaining redactions might be lifted, no criteria for what justifies continued secrecy, no acknowledgment that the pattern of selective disclosure has destroyed public confidence.
 
-One congressman [read six names into the Congressional Record](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act)—names still redacted in official releases. Elected representatives are using parliamentary privilege to disclose what executive agencies have refused to release. Information about Epstein's network has emerged primarily through leaks and forced resignations rather than systematic transparency.
+One congressman read six names into the Congressional Record—names still redacted in official releases. Elected representatives are using parliamentary privilege to disclose what executive agencies have refused to release. Information about Epstein's network has emerged primarily through leaks and forced resignations rather than systematic transparency.
 
 ## The Pattern Across Institutions
 
-The resignations keep coming. [Goldman Sachs' top lawyer](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) stepped down after "Uncle Jeffrey" emails emerged. [DP World's chairman](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) was forced out. [Multiple college presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have faced consequences.
+The resignations keep coming. Goldman Sachs' top lawyer stepped down after "Uncle Jeffrey" emails emerged. DP World's chairman was forced out. Multiple college presidents and professors have faced consequences.
 
 The response has followed a consistent pattern: resignation without explanation. No one contests the authenticity of the documents. No one claims they've been misunderstood. They simply leave, often with generous severance packages and non-disclosure agreements that prevent them from explaining what actually happened.
 
 In each case, the individual exits, the institution expresses concern, and no systematic investigation has examined how someone connected to a sex trafficking operation rose to organizational leadership, or what institutional processes failed to flag those connections.
 
-The [Bank of America lawsuit](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), allowed to proceed by a federal court, hints at the deeper institutional complicity. The suit alleges the bank facilitated Epstein's trafficking operation through its banking services.
+The Bank of America lawsuit, allowed to proceed by a federal court, hints at the deeper institutional complicity. The suit alleges the bank facilitated Epstein's trafficking operation through its banking services.
 
 ## What Comes Next
 
-The DOJ insists its document release is complete. Congressional investigations continue. Civil lawsuits grind forward through courts. Journalists at [The New York Times have launched](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) a "major investigation into millions of Epstein files." Individual revelations will keep coming.
+The DOJ insists its document release is complete. Congressional investigations continue. Civil lawsuits grind forward through courts. Journalists at The New York Times have launched a "major investigation into millions of Epstein files." Individual revelations will keep coming.
 
 The full extent of the network's reach has not been established. The infrastructure Giridharadas describes was not built in isolation. For every name in the files, dozens more enabled the system to function. Assistants who scheduled meetings. Lawyers who negotiated agreements. Accountants who moved money. Security personnel who looked away. Household staff who kept silent.
 
 And above them all, the institutions themselves: universities that accepted Epstein's money, museums that gave him board seats, foundations that facilitated his public image, banks that processed his transactions, intelligence agencies whose awareness of his activities is under investigation, and law enforcement agencies that granted him a 2008 plea deal widely criticized as lenient.
 
-**President Trump** this week [called for ending the Epstein investigation entirely](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), arguing it had become a "distraction." The comment came days before reports emerged of Lutnick's Air Force One invitation—a decision that drew attention given the administration's own documented connections to Epstein's network.
+**President Trump** this week called for ending the Epstein investigation entirely, arguing it had become a "distraction." The comment came days before reports emerged of Lutnick's Air Force One invitation—a decision that drew attention given the administration's own documented connections to Epstein's network.
 
-The [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law) was supposed to force disclosure. Instead, we have selective releases, strategic redactions, and a Justice Department that monitors [which lawmakers search the files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches)—a practice lawmakers have called a violation of congressional oversight.
+The Epstein Transparency Act was supposed to force disclosure. Instead, we have selective releases, strategic redactions, and a Justice Department that monitors which lawmakers search the files—a practice lawmakers have called a violation of congressional oversight.
 
 ## The Unanswered Questions
 

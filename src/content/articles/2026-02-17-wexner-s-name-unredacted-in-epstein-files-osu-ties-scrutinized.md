@@ -14,10 +14,6 @@ relatedArticles:
   - 2026-02-14-ohio-politicians-received-campaign-funds-from-wexner
   - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
 tags:
   - document-release
   - associates
@@ -55,10 +51,10 @@ The billionaire has not been charged with any crime related to Epstein. His atto
 
 ## Broader Document Release
 
-The Wexner documents form part of thousands of pages released by the Justice Department under the Epstein Transparency Act. [Trump called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) earlier this month, drawing criticism from members of Congress.
+The Wexner documents form part of thousands of pages released by the Justice Department under the Epstein Transparency Act. Trump called for ending the Epstein investigation earlier this month, drawing criticism from members of Congress.
 
-[Representative Massie lost confidence in Attorney General Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over the handling of file redactions. [Representative Mace accused the DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) in the released documents.
+Representative Massie lost confidence in Attorney General Bondi over the handling of file redactions. Representative Mace accused the DOJ of hiding names in the released documents.
 
-The files have triggered consequences for other prominent figures. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. [Hyatt heir Tom Pritzker stepped down](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) over documented contact with Epstein.
+The files have triggered consequences for other prominent figures. Goldman Sachs' top lawyer resigned after being named in the files. Hyatt heir Tom Pritzker stepped down over documented contact with Epstein.
 
 Ohio State University received more than $100 million in donations from Wexner and his wife Abigail over three decades. The institution has not commented on whether the unredacted documents will prompt any review of Wexner's prominent presence on campus.

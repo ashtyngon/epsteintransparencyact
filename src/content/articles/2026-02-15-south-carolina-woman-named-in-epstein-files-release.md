@@ -14,12 +14,6 @@ relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
-  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
-  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - associates
   - document-release
@@ -50,10 +44,10 @@ Documents released under the [Epstein Transparency Act](/news/epstein-transparen
 
 The Department of Justice released thousands of pages in February. Attorney General Pam Bondi said DOJ had disclosed ["all" Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed) with full names listed. 
 
-Several members of Congress disputed that claim. Representative Nancy Mace [accused DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) in the release. Representative Thomas Massie said Bondi [avoided eye contact with survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) during a congressional hearing on the files.
+Several members of Congress disputed that claim. Representative Nancy Mace accused DOJ of hiding names in the release. Representative Thomas Massie said Bondi avoided eye contact with survivors during a congressional hearing on the files.
 
 ## Global Fallout
 
-The files have triggered [resignations and investigations worldwide](/news/2026-02-16-epstein-files-trigger-global-resignations-new-investigations). France established a [special review team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) to examine files for French nationals. UK police launched a [national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations.
+The files have triggered resignations and investigations worldwide. France established a special review team to examine files for French nationals. UK police launched a national task force to investigate trafficking allegations.
 
-[Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. Dubai's ports chief [stepped down after hundreds of emails surfaced](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed).
+Goldman Sachs' top lawyer resigned after being named in the files. Dubai's ports chief stepped down after hundreds of emails surfaced.

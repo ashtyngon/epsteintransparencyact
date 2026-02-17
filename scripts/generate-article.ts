@@ -19,6 +19,7 @@ interface FilterResult {
   tags: string[];
   mentionedPeople: string[];
   suggestedHeadline: string;
+  noveltyStatement?: string;
 }
 
 interface RelevantArticle {
@@ -57,7 +58,11 @@ function formatDateForSlug(dateStr: string): string {
 
 function loadExistingArticlesManifest(): string {
   try {
-    const files = readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md'));
+    const files = readdirSync(ARTICLES_DIR)
+      .filter((f) => f.endsWith('.md'))
+      .sort()
+      .reverse()
+      .slice(0, 15); // Only show 15 most recent to limit over-linking
     const entries: string[] = [];
 
     for (const file of files) {
@@ -169,7 +174,7 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
   return `---
 title: "${headline.replace(/"/g, '\\"')}"
 publishedAt: "${fullDate}"
-source: "${/google/i.test(item.source) ? 'Unknown Source' : item.source}"
+source: "${/google/i.test(item.source) ? 'Unknown Source' : /[^\x00-\x7F]/.test(item.source) ? 'Unknown Source' : item.source}"
 sourceUrl: "${item.link}"
 summary: "${summary}"${imageLine}
 people:
@@ -186,7 +191,7 @@ ${body}
 `;
 }
 
-function updateArticleTopics(newArticles: { slug: string; headline: string; summary: string; people: string[]; tags: string[] }[]) {
+function updateArticleTopics(newArticles: { slug: string; headline: string; summary: string; novelty: string; people: string[]; tags: string[] }[]) {
   let topics: any[] = [];
   try {
     if (existsSync(TOPICS_PATH)) {
@@ -201,7 +206,8 @@ function updateArticleTopics(newArticles: { slug: string; headline: string; summ
       slug: article.slug,
       title: article.headline,
       summary: article.summary,
-      topic: article.summary || article.headline,
+      novelty: article.novelty,
+      topic: article.novelty || article.summary || article.headline,
       people: article.people,
       tags: article.tags,
     });
@@ -232,7 +238,7 @@ async function main() {
   console.log(`Generating ${relevant.length} articles with Claude Sonnet...\n`);
 
   let created = 0;
-  const newArticles: { slug: string; headline: string; summary: string; people: string[]; tags: string[] }[] = [];
+  const newArticles: { slug: string; headline: string; summary: string; novelty: string; people: string[]; tags: string[] }[] = [];
 
   for (const item of relevant) {
     const headline = item.filterResult.suggestedHeadline || item.title;
@@ -280,6 +286,7 @@ async function main() {
       slug,
       headline,
       summary: articleSummary,
+      novelty: item.filterResult.noveltyStatement || articleSummary,
       people: item.filterResult.mentionedPeople || [],
       tags: item.filterResult.tags || [],
     });

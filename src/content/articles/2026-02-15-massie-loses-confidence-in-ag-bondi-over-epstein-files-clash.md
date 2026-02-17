@@ -14,8 +14,6 @@ relatedArticles:
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
-  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
-  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
 tags:
   - political
   - transparency-act
@@ -44,12 +42,12 @@ Days before his statement to ABC, [Massie criticized the Trump DOJ's file redact
 
 ## Bondi Under Fire
 
-The attorney general has faced multiple controversies over Epstein file handling. She was [accused of monitoring which Democrats searched for Epstein-related documents](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches). She also [named dead celebrities in public statements about Epstein email lists](/news/2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list).
+The attorney general has faced multiple controversies over Epstein file handling. She was accused of monitoring which Democrats searched for Epstein-related documents. She also named dead celebrities in public statements about Epstein email lists.
 
 The DOJ has released millions of pages under the transparency law but maintained extensive redactions citing privacy concerns, ongoing investigations, and national security.
 
 ## Other Republicans Break Ranks
 
-Rep. Marjorie Taylor Greene [called Trump's handling of the files a "political miscalculation"](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation). Some Republican senators have expressed concern about political fallout from names appearing in the documents.
+Rep. Marjorie Taylor Greene called Trump's handling of the files a "political miscalculation". Some Republican senators have expressed concern about political fallout from names appearing in the documents.
 
 Massie did not specify what actions Bondi could take to restore his confidence or whether he would support efforts to remove her from office.

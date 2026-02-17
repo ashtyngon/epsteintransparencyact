@@ -13,10 +13,6 @@ relatedArticles:
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - fbi-begins-epstein-records-review
 tags:
   []
 keyTakeaways:
@@ -37,8 +33,8 @@ The letter to the editor joins public demands for accountability as federal agen
 
 Law enforcement agencies in multiple countries have opened investigations since document releases began. The UK [established a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to examine trafficking allegations. French prosecutors [opened an investigation](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe) into a diplomat named in files.
 
-High-profile resignations have followed document releases. [Goldman Sachs' top lawyer stepped down](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in files. [Dubai's ports chief resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails surfaced.
+High-profile resignations have followed document releases. Goldman Sachs' top lawyer stepped down after being named in files. Dubai's ports chief resigned after hundreds of emails surfaced.
 
-Congress issued subpoenas to [billionaire Leslie Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) for testimony.
+Congress issued subpoenas to billionaire Leslie Wexner and Peter Mandelson for testimony.
 
-The FBI [began its review](/news/fbi-begins-epstein-records-review) of records following the law's passage, though lawmakers have criticized the Justice Department for maintaining redactions in released materials.
+The FBI began its review of records following the law's passage, though lawmakers have criticized the Justice Department for maintaining redactions in released materials.

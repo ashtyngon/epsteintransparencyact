@@ -16,20 +16,6 @@ relatedArticles:
   - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
   - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
-  - 2026-02-17-greene-faces-death-threats-over-trump-epstein-files-dispute
-  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
-  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
-  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
-  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
-  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
-  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
-  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
 tags:
   - transparency-act
   - document-release
@@ -61,22 +47,22 @@ Rep. Thomas Massie of Kentucky and Rep. Nancy Mace of South Carolina have both c
 
 Rep. Ro Khanna of California [accused the DOJ of "protecting predators"](/news/2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators) by redacting portions of the files. Mace [demanded unredacted co-conspirator files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files), calling the current release inadequate.
 
-Rep. Marjorie Taylor Greene of Georgia [criticized Trump's handling of the files](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) as a "political miscalculation." She later [received death threats](/news/2026-02-17-greene-faces-death-threats-over-trump-epstein-files-dispute) over her public criticism.
+Rep. Marjorie Taylor Greene of Georgia criticized Trump's handling of the files as a "political miscalculation." She later received death threats over her public criticism.
 
 ## Dispute Over Release Completeness
 
-Bondi [testified before Congress](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) that the DOJ had released "all" files. Lawmakers from both parties disputed that claim.
+Bondi testified before Congress that the DOJ had released "all" files. Lawmakers from both parties disputed that claim.
 
-The DOJ provided a list of approximately 300 names, including [deceased celebrities](/news/2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list) such as David Bowie and Michael Jackson. Congress [accused Bondi of "mudding" the list](/news/2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities) by including people with no alleged criminal involvement.
+The DOJ provided a list of approximately 300 names, including deceased celebrities such as David Bowie and Michael Jackson. Congress accused Bondi of "mudding" the list by including people with no alleged criminal involvement.
 
-One independent analysis found the Trump DOJ [released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows). The FBI's Epstein file collection spans millions of pages.
+One independent analysis found the Trump DOJ released only 2% of Epstein files. The FBI's Epstein file collection spans millions of pages.
 
-Documents released so far show [Epstein maintained ties to elite institutions](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama) and [received invitations to congressional events](/news/2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show) years after his initial conviction.
+Documents released so far show Epstein maintained ties to elite institutions and received invitations to congressional events years after his initial conviction.
 
 ## International Investigations Expand
 
-The United Kingdom [launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations. France [established a special team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) to review files for French nationals. New Mexico [opened its first full investigation](/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch) into Epstein's Zorro Ranch property.
+The United Kingdom launched a national task force to investigate trafficking allegations. France established a special team to review files for French nationals. New Mexico opened its first full investigation into Epstein's Zorro Ranch property.
 
-A [Goldman Sachs lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. The [Dubai ports chief stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails surfaced. [Hyatt heir Tom Pritzker](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) left his position over contact links revealed in the files.
+A Goldman Sachs lawyer resigned after being named in documents. The Dubai ports chief stepped down after hundreds of emails surfaced. Hyatt heir Tom Pritzker left his position over contact links revealed in the files.
 
-United Nations experts [called for a formal investigation](/news/2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma), warning the case could involve crimes against humanity.
+United Nations experts called for a formal investigation, warning the case could involve crimes against humanity.

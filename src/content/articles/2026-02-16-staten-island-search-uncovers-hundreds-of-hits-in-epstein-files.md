@@ -15,12 +15,6 @@ relatedArticles:
   - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
-  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
-  - 2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse
-  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
-  - 2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m
 tags:
   - document-release
   - transparency-act
@@ -49,22 +43,22 @@ The findings come as transparency advocates analyze the more than 2,800 pages re
 
 Rep. Thomas Massie and Rep. Nancy Mace have [demanded unredacted files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files) from the Justice Department, particularly records identifying co-conspirators. Attorney General Pam Bondi [testified before Congress](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) that the DOJ released "all" relevant documents, a claim disputed by lawmakers who cited ongoing redactions in financial and communication records.
 
-[Rep. Ro Khanna has called for full transparency](/news/2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better), stating that individuals in Epstein's network "knew enough to know better" about the financier's crimes. The California congressman said federal agencies must provide a complete accounting of all associates who maintained contact with Epstein after his 2008 conviction.
+Rep. Ro Khanna has called for full transparency, stating that individuals in Epstein's network "knew enough to know better" about the financier's crimes. The California congressman said federal agencies must provide a complete accounting of all associates who maintained contact with Epstein after his 2008 conviction.
 
 ## International Investigations Expand
 
-The file release has triggered investigations across multiple countries. [UK police launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to examine trafficking allegations, while [French prosecutors opened investigations](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe) into French nationals named in the documents.
+The file release has triggered investigations across multiple countries. UK police launched a national task force to examine trafficking allegations, while French prosecutors opened investigations into French nationals named in the documents.
 
-[United Nations experts called for a full investigation](/news/2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma) into the files, warning that some allegations could constitute crimes against humanity if proven. The UN working group on discrimination against women said member states have an obligation to investigate credible trafficking claims involving their citizens.
+United Nations experts called for a full investigation into the files, warning that some allegations could constitute crimes against humanity if proven. The UN working group on discrimination against women said member states have an obligation to investigate credible trafficking claims involving their citizens.
 
 ## Public Tools for Document Review
 
-Technology platforms have emerged to help the public search the released files. [JeffTube, a new search platform](/news/2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse), allows users to browse DOJ documents by keyword, date, or individual name. The tool has processed the February release and enables searches similar to the Staten Island query conducted by SILive.com.
+Technology platforms have emerged to help the public search the released files. JeffTube, a new search platform, allows users to browse DOJ documents by keyword, date, or individual name. The tool has processed the February release and enables searches similar to the Staten Island query conducted by SILive.com.
 
 The platform's developers said they created the tool after observing the difficulty journalists and researchers faced navigating thousands of pages of unsorted PDF documents. Users have conducted searches for geographic locations, company names, and individuals, generating reports on document frequency and context.
 
 ## State-Level Investigations
 
-Beyond federal efforts, state authorities have opened investigations based on file contents. [New Mexico launched its first full investigation into Epstein's Zorro Ranch](/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch), the 10,000-acre property where witnesses reported abuse occurred. The property [was purchased by the family of Texas GOP comptroller candidate Don Huffines](/news/2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m) for $13.4 million in 2020.
+Beyond federal efforts, state authorities have opened investigations based on file contents. New Mexico launched its first full investigation into Epstein's Zorro Ranch, the 10,000-acre property where witnesses reported abuse occurred. The property was purchased by the family of Texas GOP comptroller candidate Don Huffines for $13.4 million in 2020.
 
 Congressional investigators continue reviewing files for evidence of criminal conduct or obstruction. Multiple lawmakers have signaled they will subpoena additional witnesses and documents if the DOJ does not provide unredacted files in response to pending Freedom of Information Act requests.

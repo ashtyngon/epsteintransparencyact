@@ -17,14 +17,6 @@ relatedArticles:
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - epstein-transparency-act-signed-into-law
-  - fbi-begins-epstein-records-review
-  - court-releases-new-batch-of-documents
 tags:
   - transparency-act
   - document-release
@@ -50,17 +42,17 @@ Mace's accusation adds to mounting criticism from congressional Republicans over
 
 Rep. Thomas Massie has [repeatedly challenged](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) Attorney General Pam Bondi over file redactions and [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted. Rep. Marjorie Taylor Greene [called the Trump administration's file handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) a "political miscalculation."
 
-Rep. Ro Khanna [demanded full transparency](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down) after high-profile resignations linked to the files. One lawmaker [publicly named six men](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) allegedly hidden in the files despite the transparency law.
+Rep. Ro Khanna demanded full transparency after high-profile resignations linked to the files. One lawmaker publicly named six men allegedly hidden in the files despite the transparency law.
 
 ## Redaction Disputes
 
-The Justice Department has [maintained that redactions protect ongoing investigations](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) and privacy interests. Legal experts [warned that releasing unredacted materials](/news/2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations) could damage pending prosecutions.
+The Justice Department has maintained that redactions protect ongoing investigations and privacy interests. Legal experts warned that releasing unredacted materials could damage pending prosecutions.
 
-Attorney General Bondi was [grilled during congressional testimony](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about why the department resists full document release. The administration also faced accusations of a [cover-up over redactions](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions).
+Attorney General Bondi was grilled during congressional testimony about why the department resists full document release. The administration also faced accusations of a cover-up over redactions.
 
 ## Transparency Act Implementation
 
-Congress passed the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law) requiring federal agencies to review and release documents related to Epstein's criminal activities and associations. The FBI [began its review](/news/fbi-begins-epstein-records-review) after the law took effect.
+Congress passed the Epstein Transparency Act requiring federal agencies to review and release documents related to Epstein's criminal activities and associations. The FBI began its review after the law took effect.
 
-Multiple document batches have been released, naming dozens of individuals who had contact with Epstein. [Courts have also released](/news/court-releases-new-batch-of-documents) separate batches of Epstein-related materials.
+Multiple document batches have been released, naming dozens of individuals who had contact with Epstein. Courts have also released separate batches of Epstein-related materials.
 

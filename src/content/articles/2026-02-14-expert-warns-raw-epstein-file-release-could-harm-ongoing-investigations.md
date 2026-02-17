@@ -12,18 +12,10 @@ people:
   - ro-khanna
   - thomas-massie
 relatedArticles:
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
-  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - court-releases-new-batch-of-documents
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak
 tags:
   - transparency-act
   - document-release
@@ -46,14 +38,14 @@ The comment directly challenges the approach taken under the [Epstein Transparen
 
 The expert's warning centers on potential harm to ongoing investigations from unfiltered document dumps. The [FBI has cited active investigations](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) as reason for maintaining redactions, though critics call this a stalling tactic.
 
-[Attorney General Bondi faced congressional questioning](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about DOJ resistance to full disclosure. She defended redactions on investigative and privacy grounds. The Trump administration has [called for ending the investigation entirely](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), drawing [criticism from Rep. Marjorie Taylor Greene](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation).
+Attorney General Bondi faced congressional questioning about DOJ resistance to full disclosure. She defended redactions on investigative and privacy grounds. The Trump administration has called for ending the investigation entirely, drawing criticism from Rep. Marjorie Taylor Greene.
 
 ## Competing Models
 
-Other governments have adopted structured review processes. [France created a special team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) to examine files for French nationals before taking action. [UK police launched a task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations systematically.
+Other governments have adopted structured review processes. France created a special team to examine files for French nationals before taking action. UK police launched a task force to investigate trafficking allegations systematically.
 
-Members of Congress have pushed for immediate full transparency. [Rep. Thomas Massie declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) while demanding complete disclosure. [Rep. Ro Khanna called for naming all individuals](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down) in the files.
+Members of Congress have pushed for immediate full transparency. Rep. Thomas Massie declared "I am not suicidal" while demanding complete disclosure. Rep. Ro Khanna called for naming all individuals in the files.
 
-The raw document approach has produced high-profile resignations and [congressional subpoenas](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), but the expert's position suggests unvetted releases may compromise prosecutorial efforts.
+The raw document approach has produced high-profile resignations and congressional subpoenas, but the expert's position suggests unvetted releases may compromise prosecutorial efforts.
 
-[Courts continue to release new batches](/news/court-releases-new-batch-of-documents) of Epstein-related documents while the debate over release methodology continues.
+Courts continue to release new batches of Epstein-related documents while the debate over release methodology continues.

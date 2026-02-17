@@ -13,7 +13,6 @@ relatedArticles:
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
   - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
 tags:
   - document-release
   - transparency-act
@@ -44,4 +43,4 @@ The record is among millions of pages released under the [Epstein Transparency A
 
 The document surfaced as lawmakers press Attorney General Bondi over the file release. Rep. Thomas Massie and other members of Congress have [accused the DOJ](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) of maintaining excessive redactions.
 
-The New York Times has [launched an investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into the released documents. [France](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) and the [United Kingdom](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) established specialized teams to review files for their nationals.
+The New York Times has [launched an investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into the released documents. France and the United Kingdom established specialized teams to review files for their nationals.

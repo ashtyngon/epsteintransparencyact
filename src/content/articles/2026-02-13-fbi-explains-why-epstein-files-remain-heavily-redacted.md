@@ -15,13 +15,9 @@ people:
   - thomas-massie
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - epstein-transparency-act-signed-into-law
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
   - fbi
   - court-documents
@@ -46,7 +42,7 @@ The FBI's explanations arrive more than a week after [Attorney General Pam Bondi
 
 The FBI's response followed [Rep. Thomas Massie naming six individuals on the House floor](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities had been redacted—including billionaire Les Wexner, whom he labeled a co-conspirator—which intensified pressure on federal agencies.
 
-Massie's disclosure triggered immediate corporate fallout. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. [Multiple CEOs stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). [Academic leaders faced calls to resign](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).
+Massie's disclosure triggered immediate corporate fallout. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced. Multiple CEOs stepped down. Academic leaders faced calls to resign.
 
 ## The Intelligence Shield
 
@@ -60,11 +56,11 @@ The third category—protecting people not charged with crimes—raises the ques
 
 ## A Law Without Enforcement
 
-The [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law) mandated the release of documents related to the case. But the released documents remain heavily redacted, and critics say the FBI's explanations satisfy legal requirements without providing substantive transparency.
+The Epstein Transparency Act mandated the release of documents related to the case. But the released documents remain heavily redacted, and critics say the FBI's explanations satisfy legal requirements without providing substantive transparency.
 
-Documents previously obtained by this outlet revealed that the [DOJ has been tracking which lawmakers search the Epstein files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
+Documents previously obtained by this outlet revealed that the DOJ has been tracking which lawmakers search the Epstein files.
 
-Congress has the authority to demand unredacted files through its oversight powers. Whether Republican leadership will exercise that authority—particularly after [President Trump called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) entirely—remains uncertain.
+Congress has the authority to demand unredacted files through its oversight powers. Whether Republican leadership will exercise that authority—particularly after President Trump called for ending the Epstein investigation entirely—remains uncertain.
 
 ## Who Gets Protected?
 

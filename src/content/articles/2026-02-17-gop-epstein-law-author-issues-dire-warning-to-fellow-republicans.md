@@ -20,13 +20,6 @@ relatedArticles:
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
   - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
-  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
-  - 2026-02-16-mtg-criticizes-trump-s-epstein-files-handling-as-political-miscalculation
-  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
 tags:
   - political
   - transparency-act
@@ -52,18 +45,18 @@ Massie made the statement after a House Judiciary Committee hearing where Attorn
 
 The congressman's prediction comes as he has publicly broken with the Trump administration over the file release. Massie [criticized what he called excessive redactions](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) in documents released by the DOJ, saying thousands of names remain blacked out despite the transparency law's mandate.
 
-He attended the February 13 hearing with survivors of Epstein's abuse. Massie later said Bondi ["avoided eye contact" with the survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) during her testimony. He subsequently said he had [lost confidence in the attorney general](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over the file release handling.
+He attended the February 13 hearing with survivors of Epstein's abuse. Massie later said Bondi ["avoided eye contact" with the survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) during her testimony. He subsequently said he had lost confidence in the attorney general over the file release handling.
 
-An independent analysis found the DOJ [released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) in its possession. Massie [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) in a public statement as pressure mounted around the file release.
+An independent analysis found the DOJ released only 2% of Epstein files in its possession. Massie declared "I am not suicidal" in a public statement as pressure mounted around the file release.
 
-Rep. Marjorie Taylor Greene, a Georgia Republican and Trump ally, also [criticized the administration's handling of the files](/news/2026-02-16-mtg-criticizes-trump-s-epstein-files-handling-as-political-miscalculation) as a "political miscalculation."
+Rep. Marjorie Taylor Greene, a Georgia Republican and Trump ally, also criticized the administration's handling of the files as a "political miscalculation."
 
 ## Bipartisan Fallout Already Underway
 
 Massie's prediction acknowledges that Epstein's connections crossed party lines. Court documents and emails released by the DOJ show the financier maintained relationships with prominent figures in both major political parties.
 
-Multiple executives and officials have resigned after their names appeared in released files. Casey Wasserman, chairman of the 2028 Los Angeles Olympics organizing committee, [stepped down after Maxwell email revelations](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations). Tom Pritzker, heir to the Hyatt hotel fortune, [resigned from his position](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) as executive chairman after documents showed contact with Epstein's network.
+Multiple executives and officials have resigned after their names appeared in released files. Casey Wasserman, chairman of the 2028 Los Angeles Olympics organizing committee, stepped down after Maxwell email revelations. Tom Pritzker, heir to the Hyatt hotel fortune, resigned from his position as executive chairman after documents showed contact with Epstein's network.
 
-Les Wexner, the billionaire founder of Victoria's Secret parent company, faces scrutiny after his name appeared unredacted in files. Congress [issued a subpoena for Wexner to testify](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) about his relationship with Epstein. Wexner gave Epstein power of attorney over his finances for years.
+Les Wexner, the billionaire founder of Victoria's Secret parent company, faces scrutiny after his name appeared unredacted in files. Congress issued a subpoena for Wexner to testify about his relationship with Epstein. Wexner gave Epstein power of attorney over his finances for years.
 
-Bondi released a letter listing approximately 300 names from Epstein's contacts, but lawmakers from both parties have demanded fuller disclosure. Rep. Nancy Mace, a South Carolina Republican, [called for unredacted co-conspirator files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files). Rep. Ro Khanna, a California Democrat, issued similar demands for complete document releases.
+Bondi released a letter listing approximately 300 names from Epstein's contacts, but lawmakers from both parties have demanded fuller disclosure. Rep. Nancy Mace, a South Carolina Republican, called for unredacted co-conspirator files. Rep. Ro Khanna, a California Democrat, issued similar demands for complete document releases.

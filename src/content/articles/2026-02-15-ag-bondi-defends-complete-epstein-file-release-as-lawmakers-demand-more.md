@@ -21,23 +21,6 @@ relatedArticles:
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
-  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
-  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
-  - 2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
-  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
-  - 2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency
 tags:
   - transparency-act
   - document-release
@@ -77,17 +60,17 @@ The dispute highlights a gap between technical compliance with the Epstein Trans
 
 DOJ officials have defended the releases as meeting statutory requirements. Bondi told the House Judiciary Committee the department has published all releasable documents under the act's provisions for protecting ongoing investigations and classified information.
 
-Congressional critics counter that the volume of released material falls short of the FBI's documented holdings. [The New York Times obtained access to millions of Epstein files](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) for an investigation, suggesting extensive records exist beyond what DOJ has made public.
+Congressional critics counter that the volume of released material falls short of the FBI's documented holdings. The New York Times obtained access to millions of Epstein files for an investigation, suggesting extensive records exist beyond what DOJ has made public.
 
-The Justice Department has also maintained heavy redactions in released documents, [citing protection of investigation sources and methods](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted). Congressional Republicans and Democrats have both challenged these redactions as excessive.
+The Justice Department has also maintained heavy redactions in released documents, citing protection of investigation sources and methods. Congressional Republicans and Democrats have both challenged these redactions as excessive.
 
 ## Pattern of Document Controversies
 
-The current dispute follows weeks of conflict between Congress and the Trump administration over Epstein files. Massie and other lawmakers [accused the DOJ of covering up names](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) through extensive redactions in the initial document release.
+The current dispute follows weeks of conflict between Congress and the Trump administration over Epstein files. Massie and other lawmakers accused the DOJ of covering up names through extensive redactions in the initial document release.
 
-Rep. **Nancy Mace** separately [accused DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) in its handling of the files. The South Carolina Republican pointed to specific redacted sections she said concealed identities of Epstein associates.
+Rep. **Nancy Mace** separately accused DOJ of hiding names in its handling of the files. The South Carolina Republican pointed to specific redacted sections she said concealed identities of Epstein associates.
 
-[Rep. Marjorie Taylor Greene criticized Trump's handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) of the file release as a "political miscalculation." The Georgia Republican said the administration's approach had damaged its credibility with the Republican base.
+Rep. Marjorie Taylor Greene criticized Trump's handling of the file release as a "political miscalculation." The Georgia Republican said the administration's approach had damaged its credibility with the Republican base.
 
 ## Khanna's Criticism of Name List Method
 
@@ -99,17 +82,17 @@ By including such names alongside individuals who met with Epstein, attended his
 
 ## International Response Contrasts
 
-The controversy over U.S. file releases has coincided with more aggressive action by foreign governments. [France established a special team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) to review files for French nationals, and [UK police launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) for Epstein trafficking allegations.
+The controversy over U.S. file releases has coincided with more aggressive action by foreign governments. France established a special team to review files for French nationals, and UK police launched a national task force for Epstein trafficking allegations.
 
-British prosecutors announced that ["nobody is above the law"](/news/2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew) as authorities opened investigations into UK citizens named in files. [Prince Andrew faces renewed scrutiny](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) after released emails contradicted his BBC interview claims.
+British prosecutors announced that "nobody is above the law" as authorities opened investigations into UK citizens named in files. Prince Andrew faces renewed scrutiny after released emails contradicted his BBC interview claims.
 
-Several [European elites lost positions](/news/2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power) after the file releases, while most U.S. officials named in documents have retained their roles. The [Dubai Ports chief resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails surfaced, and the [Goldman Sachs top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) following his inclusion in files.
+Several European elites lost positions after the file releases, while most U.S. officials named in documents have retained their roles. The Dubai Ports chief resigned after hundreds of emails surfaced, and the Goldman Sachs top lawyer resigned following his inclusion in files.
 
 ## Survivor Presence at Hearing
 
 Massie's comment about Bondi being "afraid to look at" survivors referenced Epstein victims who attended the congressional hearing. Survivor advocates have pressed for full transparency about individuals who enabled or ignored Epstein's trafficking operation.
 
-[Juliette Bryant, an Epstein survivor, recently told media](/news/2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die) she "thought I was going to die" during her time in Epstein's orbit. Bryant and other survivors have advocated for complete document releases to establish accountability.
+Juliette Bryant, an Epstein survivor, recently told media she "thought I was going to die" during her time in Epstein's orbit. Bryant and other survivors have advocated for complete document releases to establish accountability.
 
 The presence of survivors at the hearing added pressure on Bondi to explain DOJ's redaction choices and document release strategy. Congressional sources indicated survivors held photos and placards identifying themselves during Bondi's testimony.
 
@@ -117,18 +100,18 @@ The presence of survivors at the hearing added pressure on Bondi to explain DOJ'
 
 House Judiciary Committee members have not announced specific next steps following last week's hearing. The committee has subpoena power to compel additional document production from DOJ if it determines the department has not met statutory obligations.
 
-[Congress previously subpoenaed Lord Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) and [Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) to testify about their Epstein connections. The committee's authority extends to demanding internal DOJ documents about the file review and release process.
+Congress previously subpoenaed Lord Peter Mandelson and Les Wexner to testify about their Epstein connections. The committee's authority extends to demanding internal DOJ documents about the file review and release process.
 
-[Rep. Khanna previously called for names to be released](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down) after a major Epstein associate stepped down from a prominent position. The California Democrat has been among the most vocal critics of DOJ's redaction practices.
+Rep. Khanna previously called for names to be released after a major Epstein associate stepped down from a prominent position. The California Democrat has been among the most vocal critics of DOJ's redaction practices.
 
 The House could also pursue contempt proceedings if DOJ officials refuse to cooperate with document demands. Such proceedings would require a floor vote and referral to the U.S. Attorney's Office, which operates under Bondi's supervision.
 
 ## Ongoing Investigations
 
-The Justice Department has cited ongoing investigations as justification for some redactions and withheld documents. [Some experts have warned](/news/2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations) that releasing raw files could compromise active prosecutions or alert targets that they face scrutiny.
+The Justice Department has cited ongoing investigations as justification for some redactions and withheld documents. Some experts have warned that releasing raw files could compromise active prosecutions or alert targets that they face scrutiny.
 
-[Court filings have allowed a Bank of America trafficking lawsuit](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed) to proceed, potentially generating additional document discoveries. Several civil cases remain pending in multiple jurisdictions.
+Court filings have allowed a Bank of America trafficking lawsuit to proceed, potentially generating additional document discoveries. Several civil cases remain pending in multiple jurisdictions.
 
-[Ghislaine Maxwell has offered to reveal "the truth"](/news/2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency) in exchange for clemency from her federal prison sentence. Maxwell, Epstein's longtime associate, was convicted of sex trafficking in 2021 and is serving a 20-year sentence. DOJ has not indicated any willingness to negotiate with Maxwell.
+Ghislaine Maxwell has offered to reveal "the truth" in exchange for clemency from her federal prison sentence. Maxwell, Epstein's longtime associate, was convicted of sex trafficking in 2021 and is serving a 20-year sentence. DOJ has not indicated any willingness to negotiate with Maxwell.
 
 House and Senate committees continue reviewing the documents DOJ has released. Additional hearings have not been scheduled but remain possible as lawmakers assess whether the Justice Department has fulfilled its legal obligations under the Epstein Transparency Act.

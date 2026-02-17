@@ -12,13 +12,10 @@ people:
   - kathryn-ruemmler
   - sultan-ahmed-bin-sulayem
 relatedArticles:
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - transparency-act
   - document-release
@@ -48,13 +45,13 @@ Bondi's defense of DOJ's approach contrasted with earlier Republican calls for t
 
 ## The Files Continue Prompting Resignations
 
-While Bondi defended the department's pace, the files themselves continue generating fallout in the private sector. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced showing she referred to Epstein as "Uncle Jeffrey." [Sultan Ahmed Bin Sulayem stepped down as chair and CEO of DP World](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after appearing more than 4,700 times in the files.
+While Bondi defended the department's pace, the files themselves continue generating fallout in the private sector. [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after emails surfaced showing she referred to Epstein as "Uncle Jeffrey." Sultan Ahmed Bin Sulayem stepped down as chair and CEO of DP World after appearing more than 4,700 times in the files.
 
-Corporations have acted within days of document releases, while DOJ has maintained a slower pace on disclosure. The department was also recently found to have been [tracking which lawmakers search the Epstein files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
+Corporations have acted within days of document releases, while DOJ has maintained a slower pace on disclosure. The department was also recently found to have been tracking which lawmakers search the Epstein files.
 
 ## Congress Moves Faster Than Justice
 
-The hearing underscored a widening gap between congressional Republicans demanding transparency and an administration increasingly hesitant about where the documents lead. When [a congressman stood on the House floor and named six individuals still hidden in redacted files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act), it made clear: lawmakers are moving faster than the department supposedly investigating.
+The hearing underscored a widening gap between congressional Republicans demanding transparency and an administration increasingly hesitant about where the documents lead. When a congressman stood on the House floor and named six individuals still hidden in redacted files, it made clear: lawmakers are moving faster than the department supposedly investigating.
 
 Bondi now faces political pressure from both sides. Congressional Republicans are demanding faster disclosure, while the administration has signaled hesitance about where the documents lead.
 

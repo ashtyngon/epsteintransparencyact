@@ -10,11 +10,9 @@ people:
   - leslie-wexner
   - pam-bondi
 relatedArticles:
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
 tags:
   - testimony
@@ -40,6 +38,6 @@ Maxwell dangled information before Congress and the public while declining to pr
 
 Her refusal to testify came as Congress has [subpoenaed multiple Epstein associates](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), including billionaire Les Wexner. Lawmakers have also pressed the [Justice Department over redacted files](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) and [questioned Attorney General Bondi](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about sealed documents.
 
-The Epstein Transparency Act has led to the release of thousands of pages identifying [dozens of individuals](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) connected to Epstein. The disclosures have triggered [resignations](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and [investigations in France](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe).
+The Epstein Transparency Act has led to the release of thousands of pages identifying dozens of individuals connected to Epstein. The disclosures have triggered resignations and investigations in France.
 
 Maxwell maintains her innocence.

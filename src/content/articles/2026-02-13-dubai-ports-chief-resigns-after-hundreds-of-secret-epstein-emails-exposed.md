@@ -11,14 +11,10 @@ people:
   - pam-bondi
   - ro-khanna
 relatedArticles:
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
 tags:
   - associates
   - document-release
@@ -52,9 +48,9 @@ In each case, the public learns an executive communicated extensively with a con
 
 Rep. Ro Khanna put it bluntly after [another major Epstein associate stepped down](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down): "Every resignation raises the same question—what are they hiding, and who else is in those files?"
 
-Attorney General Pam Bondi has [refused demands for full document release](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), even as members of Congress [publicly name individuals](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) they say are being shielded by redactions.
+Attorney General Pam Bondi has refused demands for full document release, even as members of Congress publicly name individuals they say are being shielded by redactions.
 
-[The FBI has stated](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) that redactions protect ongoing investigations and privacy. Transparency advocates have noted a disconnect between those justifications and the pattern of immediate resignations following document releases.
+The FBI has stated that redactions protect ongoing investigations and privacy. Transparency advocates have noted a disconnect between those justifications and the pattern of immediate resignations following document releases.
 
 ## The Transparency Gap
 
@@ -62,4 +58,4 @@ We know bin Sulayem sent hundreds of emails to Epstein. We don't know what they 
 
 The Epstein files have so far produced resignations without public explanations from the individuals involved. Large portions of the documents remain redacted.
 
-Congress has already moved to [depose Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's closest known financial associate. Whether lawmakers will demand testimony from international figures like bin Sulayem remains unclear.
+Congress has already moved to depose Les Wexner, Epstein's closest known financial associate. Whether lawmakers will demand testimony from international figures like bin Sulayem remains unclear.

@@ -19,12 +19,10 @@ people:
   - virginia-giuffre
   - peter-mandelson
 relatedArticles:
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation
-  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
 tags:
   - court-documents
   - associates
@@ -111,7 +109,7 @@ Across the Atlantic, pressure is mounting on **Prince Andrew** — who settled V
 
 The piece asks directly: "Will Andrew be questioned over his relationship with Epstein?" And suggests "this may be the reckoning Andrew cannot outrun."
 
-[Previous reporting on this site](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface) documented how Andrew's BBC interview claims have unraveled as new emails surface. The picture emerging is of a man who repeatedly minimized his relationship with Epstein and Maxwell, only to be contradicted by documentary evidence showing far deeper involvement.
+Previous reporting on this site documented how Andrew's BBC interview claims have unraveled as new emails surface. The picture emerging is of a man who repeatedly minimized his relationship with Epstein and Maxwell, only to be contradicted by documentary evidence showing far deeper involvement.
 
 The British establishment has long protected Andrew from the consequences of his associations. But the Epstein Transparency Act was passed by Congress, not Parliament. American investigators don't answer to the House of Windsor. And the files are revealing connections that make continued protection increasingly untenable.
 
@@ -163,13 +161,13 @@ The beneficiaries are a small number of individuals whose Epstein connections ar
 
 Why is the Justice Department prioritizing their privacy over the public interest?
 
-The answer may lie in the [surveillance scandal that erupted earlier this week](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches), when documents revealed DOJ tracking which lawmakers searched the Epstein files. That wasn't about security. It was about knowing who to pressure, who to threaten, who might cause trouble.
+The answer may lie in the surveillance scandal that erupted earlier this week, when documents revealed DOJ tracking which lawmakers searched the Epstein files. That wasn't about security. It was about knowing who to pressure, who to threaten, who might cause trouble.
 
 The Blanche statement attacking Khanna and Massie fits the same pattern: an attempt to discourage further transparency advocacy through public criticism and implicit threat. It hasn't worked. If anything, it's backfired, drawing more attention to the names they revealed and the reasons DOJ wants them hidden.
 
 ## What Comes Next
 
-The Congressional investigation is expanding, not contracting. [Multiple lawmakers have been subpoenaed or called to testify](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), including high-profile figures like Lord Mandelson and Les Wexner. The House Judiciary Committee continues to grill Attorney General Bondi over the pace and scope of releases.
+The Congressional investigation is expanding, not contracting. Multiple lawmakers have been subpoenaed or called to testify, including high-profile figures like Lord Mandelson and Les Wexner. The House Judiciary Committee continues to grill Attorney General Bondi over the pace and scope of releases.
 
 More resignations are likely. The Goldman and DP World departures signal that corporations are reading the room—better to cut ties with compromised executives now than face Congressional subpoenas and public backlash later.
 

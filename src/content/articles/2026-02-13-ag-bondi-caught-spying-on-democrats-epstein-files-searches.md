@@ -15,12 +15,10 @@ people:
   - peter-mandelson
   - howard-lutnick
 relatedArticles:
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - epstein-transparency-act-signed-into-law
 tags:
   - transparency-act
   - investigation
@@ -90,19 +88,19 @@ As Giridharadas and others have noted, Epstein offered access, introductions, re
 
 The documented record shows that knowing Epstein was not disqualifying within these institutions.
 
-The answer lies in institutional protection. As our previous reporting documented, elite networks closed ranks around Epstein even after his 2008 conviction. [Major financial institutions continued doing business with him](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed). Universities accepted his money. Law firms represented his interests. And when victims sought justice, they encountered a legal system that moved glacially, redacted aggressively, and settled quietly.
+The answer lies in institutional protection. As our previous reporting documented, elite networks closed ranks around Epstein even after his 2008 conviction. Major financial institutions continued doing business with him. Universities accepted his money. Law firms represented his interests. And when victims sought justice, they encountered a legal system that moved glacially, redacted aggressively, and settled quietly.
 
 That system is now under unprecedented stress. Victims are speaking publicly. Corporate boards are forcing resignations. And members of Congress—at least some of them—are demanding answers even at the risk of DOJ surveillance.
 
 ## What Remains Hidden
 
-For all the names now public, vast swaths of the Epstein files remain redacted. The FBI has [explained that ongoing investigations, privacy concerns, and national security considerations](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) justify the black bars covering entire pages. Some of those justifications may be legitimate. Others have been disputed by lawmakers and legal experts.
+For all the names now public, vast swaths of the Epstein files remain redacted. The FBI has explained that ongoing investigations, privacy concerns, and national security considerations justify the black bars covering entire pages. Some of those justifications may be legitimate. Others have been disputed by lawmakers and legal experts.
 
 The tension is that legitimate investigative secrecy and illegitimate cover-up look identical from the outside. When the DOJ says it cannot release certain names because doing so would compromise an ongoing probe, the public has no way to verify that claim. Trust in institutions to make that call honestly has been shattered by decades of delayed justice and selective prosecution.
 
 Bondi's combative testimony did nothing to restore that trust. Her refusal to acknowledge survivors in the hearing room, her defensive posture regarding Trump's past association with Epstein, and now the revelation that the DOJ may be tracking congressional searches—all occurred during the same week the DOJ announced it had ended its document releases.
 
-The [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law) was supposed to force this reckoning. It mandated the release of FBI files and created mechanisms for public accountability. But laws are only as strong as their enforcement. Enforcement of the Act has been uneven since its passage.
+The Epstein Transparency Act was supposed to force this reckoning. It mandated the release of FBI files and created mechanisms for public accountability. But laws are only as strong as their enforcement. Enforcement of the Act has been uneven since its passage.
 
 ## The Questions That Matter Now
 

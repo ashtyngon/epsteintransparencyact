@@ -18,15 +18,6 @@ relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
-  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
-  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
-  - 2026-02-17-greene-faces-death-threats-over-trump-epstein-files-dispute
-  - 2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
-  - 2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
   - political
   - associates
@@ -58,22 +49,22 @@ Epstein was convicted of soliciting prostitution from a minor in 2008. He died i
 
 Trump's comments follow sustained criticism of Attorney General Pam Bondi's handling of Epstein files. An independent analysis found the DOJ [released only 2% of Epstein-related files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) in its recent document dump, despite Bondi's claims the department released "all" materials.
 
-Rep. Thomas Massie, a Kentucky Republican, [said he lost confidence in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after a congressional hearing where he said she [avoided eye contact with Epstein survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing). Rep. Nancy Mace of South Carolina [accused the DOJ of "hiding names"](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) through redactions that obscure alleged perpetrators while removing victim identities.
+Rep. Thomas Massie, a Kentucky Republican, [said he lost confidence in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after a congressional hearing where he said she [avoided eye contact with Epstein survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing). Rep. Nancy Mace of South Carolina accused the DOJ of "hiding names" through redactions that obscure alleged perpetrators while removing victim identities.
 
-Rep. Ro Khanna, a California Democrat, told the DOJ to ["stop protecting predators"](/news/2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators) and release unredacted files.
+Rep. Ro Khanna, a California Democrat, told the DOJ to "stop protecting predators" and release unredacted files.
 
 ## GOP Split
 
-The files controversy has created fractures within Trump's party. Rep. Marjorie Taylor Greene, typically a Trump ally, [called the handling of files a "political miscalculation"](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) and said she [received death threats](/news/2026-02-17-greene-faces-death-threats-over-trump-epstein-files-dispute) after publicly criticizing the redactions.
+The files controversy has created fractures within Trump's party. Rep. Marjorie Taylor Greene, typically a Trump ally, called the handling of files a "political miscalculation" and said she received death threats after publicly criticizing the redactions.
 
-[Commerce Secretary Howard Lutnick's documented Epstein contacts](/news/2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability) have become what GOP senators view as a political liability for the administration.
+Commerce Secretary Howard Lutnick's documented Epstein contacts have become what GOP senators view as a political liability for the administration.
 
 ## International Probes Expand
 
 While Trump maintains he has "nothing to hide," law enforcement agencies in multiple countries have opened investigations based on the limited files released.
 
-The United Kingdom [launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations. France [established a special review team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) for French nationals named in files. New Mexico [opened its first full investigation](/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch) into Epstein's Zorro Ranch property.
+The United Kingdom launched a national task force to investigate trafficking allegations. France established a special review team for French nationals named in files. New Mexico opened its first full investigation into Epstein's Zorro Ranch property.
 
-UN experts [called for investigation](/news/2026-02-16-un-experts-call-for-investigation-into-epstein-files-warn-of-crimes-against-huma) into potential crimes against humanity based on the scope of allegations in released documents.
+UN experts called for investigation into potential crimes against humanity based on the scope of allegations in released documents.
 
-Trump [called for an end to Epstein investigations](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) shortly after taking office in 2025. His statement that he has "nothing to hide" comes as the Justice Department under his authority continues to withhold the majority of investigative files from public release.
+Trump called for an end to Epstein investigations shortly after taking office in 2025. His statement that he has "nothing to hide" comes as the Justice Department under his authority continues to withhold the majority of investigative files from public release.

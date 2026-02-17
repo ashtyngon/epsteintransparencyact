@@ -20,25 +20,6 @@ relatedArticles:
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
   - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
-  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
-  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
-  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
-  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
-  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
-  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
-  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
-  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
-  - 2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations
-  - 2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show
-  - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
 tags:
   - investigation
   - transparency-act
@@ -65,30 +46,30 @@ The designation requires proof of widespread or systematic attacks against civil
 
 The files have triggered official responses in multiple nations. France [established a special team to review the documents for French nationals](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) and [opened an investigation into at least one diplomat](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe).
 
-The United Kingdom [launched a national task force to investigate trafficking allegations](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations). Britain's top prosecutor stated ["nobody is above the law"](/news/2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew) as police examined evidence involving Prince Andrew.
+The United Kingdom [launched a national task force to investigate trafficking allegations](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations). Britain's top prosecutor stated "nobody is above the law" as police examined evidence involving Prince Andrew.
 
 ## Pattern of Elite Resignations
 
-Multiple high-profile figures have stepped down since the file release. The [chief of Dubai's ports authority resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails surfaced. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the documents. Casey Wasserman [sold his talent agency and left his Olympic organizing role](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) following revelations about his communications with Ghislaine Maxwell.
+Multiple high-profile figures have stepped down since the file release. The chief of Dubai's ports authority resigned after hundreds of emails surfaced. Goldman Sachs' top lawyer resigned after being named in the documents. Casey Wasserman sold his talent agency and left his Olympic organizing role following revelations about his communications with Ghislaine Maxwell.
 
 ## Dispute Over Completeness of Release
 
-The Department of Justice [released what it described as the complete Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed) in mid-February after months of pressure from lawmakers. Attorney General Pam Bondi testified that the DOJ disclosed all available materials.
+The Department of Justice released what it described as the complete Epstein files in mid-February after months of pressure from lawmakers. Attorney General Pam Bondi testified that the DOJ disclosed all available materials.
 
-[Independent analysis found the release represented only 2% of files held by federal agencies](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows).
+Independent analysis found the release represented only 2% of files held by federal agencies.
 
-Representative Thomas Massie [accused the department of excessive redactions](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) and said Bondi [avoided eye contact with Epstein survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) during congressional testimony. Massie later [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted over the files.
+Representative Thomas Massie accused the department of excessive redactions and said Bondi avoided eye contact with Epstein survivors during congressional testimony. Massie later declared "I am not suicidal" as pressure mounted over the files.
 
-Representative Nancy Mace [accused the DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) and [demanded unredacted co-conspirator files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files). Multiple lawmakers [accused Bondi of "mudding" the list](/news/2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities) by including deceased celebrities who had no connection to criminal conduct.
+Representative Nancy Mace accused the DOJ of hiding names and demanded unredacted co-conspirator files. Multiple lawmakers accused Bondi of "mudding" the list by including deceased celebrities who had no connection to criminal conduct.
 
 ## Congressional Subpoenas
 
-Congress authorized the file release through the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), signed into law earlier this year. The legislation required federal agencies to disclose all documents related to Epstein's sex trafficking network.
+Congress authorized the file release through the Epstein Transparency Act, signed into law earlier this year. The legislation required federal agencies to disclose all documents related to Epstein's sex trafficking network.
 
-Lawmakers have issued subpoenas to [Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) and [Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) to testify about their connections to Epstein.
+Lawmakers have issued subpoenas to Peter Mandelson and Les Wexner to testify about their connections to Epstein.
 
 ## Network Spanning Institutions
 
-The released files document connections spanning academia, finance, politics, and media. Documents show [Epstein pulled strings at the University of Alabama](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama). [Congressional galas sent Epstein invitations years after his arrest](/news/2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show). [Political consultants pitched Epstein access to New York Democrats](/news/2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations) in exchange for campaign donations.
+The released files document connections spanning academia, finance, politics, and media. Documents show Epstein pulled strings at the University of Alabama. Congressional galas sent Epstein invitations years after his arrest. Political consultants pitched Epstein access to New York Democrats in exchange for campaign donations.
 
-Documents show Epstein [used Nobel Prize access to build his network](/news/2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show), and that [Nobel committee chairman Thorbjørn Jagland received gifts from Epstein](/news/2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal).
+Documents show Epstein used Nobel Prize access to build his network, and that Nobel committee chairman Thorbjørn Jagland received gifts from Epstein.

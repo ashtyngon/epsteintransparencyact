@@ -12,11 +12,10 @@ people:
   - kathryn-ruemmler
   - sultan-ahmed-bin-sulayem
 relatedArticles:
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - court-documents
   - document-release
@@ -47,7 +46,7 @@ But the broader pattern, according to the Times, is already documented. The reco
 
 The Times investigation arrives as the Epstein files have already triggered [a wave of high-profile exits](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)—[Goldman Sachs' top lawyer Kathryn Ruemmler](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), former White House counsel to President Obama, and [DP World chairman Sultan Ahmed bin Sulayem](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), who appeared more than 4,700 times in the files, both forced out after their Epstein connections surfaced.
 
-Meanwhile, [Attorney General Pam Bondi faces mounting pressure](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) over why the Justice Department continues redacting documents without clear legal grounds. [Congress has subpoenaed Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's longtime financier. [One congressman read names into the Congressional Record](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) because DOJ won't.
+Meanwhile, Attorney General Pam Bondi faces mounting pressure over why the Justice Department continues redacting documents without clear legal grounds. Congress has subpoenaed Les Wexner, Epstein's longtime financier. One congressman read names into the Congressional Record because DOJ won't.
 
 The question the Times investigation frames isn't whether individual documents prove individual crimes. It's whether the system that gave Epstein his "free ride" will face any reckoning at all.
 

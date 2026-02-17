@@ -17,13 +17,10 @@ people:
   - casey-wasserman
   - peter-mandelson
 relatedArticles:
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
+  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - epstein-transparency-act-signed-into-law
 tags:
   - political
   - transparency-act
@@ -58,8 +55,8 @@ Greene [resigned from Congress in January 2026](/news/2026-02-14-massie-declares
 
 ## Bondi and the DOJ Under Fire
 
-Greene suggested that **Attorney General Pam Bondi** is still operating under the president's direction when it comes to the files and the DOJ's handling of potential criminal referrals. [Bondi was grilled during congressional testimony](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about why the DOJ has kept files heavily redacted and was [accused of monitoring Democratic lawmakers' searches](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) of the files.
+Greene suggested that **Attorney General Pam Bondi** is still operating under the president's direction when it comes to the files and the DOJ's handling of potential criminal referrals. [Bondi was grilled during congressional testimony](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about why the DOJ has kept files heavily redacted and was accused of monitoring Democratic lawmakers' searches of the files.
 
-Since the files began emerging, the fallout has been swift. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) following exposure of emails with **Ghislaine Maxwell**. Congress issued subpoenas to billionaire **Les Wexner** and former EU trade commissioner **Peter Mandelson** to testify about their Epstein connections.
+Since the files began emerging, the fallout has been swift. Goldman Sachs' top lawyer resigned after being named in documents. Casey Wasserman sold his talent agency following exposure of emails with **Ghislaine Maxwell**. Congress issued subpoenas to billionaire **Les Wexner** and former EU trade commissioner **Peter Mandelson** to testify about their Epstein connections.
 
-Greene's public criticism adds to growing bipartisan pressure on the Trump administration over the pace and completeness of the file releases mandated by the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law).
+Greene's public criticism adds to growing bipartisan pressure on the Trump administration over the pace and completeness of the file releases mandated by the Epstein Transparency Act.

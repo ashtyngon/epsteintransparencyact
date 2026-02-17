@@ -16,14 +16,10 @@ people:
   - thomas-massie
   - peter-mandelson
 relatedArticles:
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
 tags:
   - political
 keyTakeaways:
@@ -47,8 +43,8 @@ The comments came days after [Rogan addressed his own name appearing in the file
 
 Rogan's reaction—broadcast to millions of listeners—comes as documents continue to reveal a network of powerful people connected to a convicted sex trafficker.
 
-The files have already forced out [Goldman Sachs top lawyer Kathryn Ruemmler](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), a former White House counsel, and [DP World chairman Sultan Ahmed bin Sulayem](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), who appeared more than 4,700 times in the documents. Congress has subpoenaed [billionaire Leslie Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's only confirmed financial client, and [Lord Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe), the former UK ambassador. Rep. [Thomas Massie named six men on the House floor](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) whose identities remain officially redacted.
+The files have already forced out [Goldman Sachs top lawyer Kathryn Ruemmler](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), a former White House counsel, and [DP World chairman Sultan Ahmed bin Sulayem](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), who appeared more than 4,700 times in the documents. Congress has subpoenaed billionaire Leslie Wexner, Epstein's only confirmed financial client, and Lord Mandelson, the former UK ambassador. Rep. Thomas Massie named six men on the House floor whose identities remain officially redacted.
 
-Attorney General Pam Bondi continues facing pressure over [why so much remains hidden](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), even as the [DOJ tracks which lawmakers are searching the files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
+Attorney General Pam Bondi continues facing pressure over why so much remains hidden, even as the DOJ tracks which lawmakers are searching the files.
 
 Rogan's comments reflect growing public attention to the Epstein files and the ongoing debate over full document disclosure.

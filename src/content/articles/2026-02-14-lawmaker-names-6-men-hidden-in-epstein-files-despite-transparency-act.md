@@ -21,31 +21,10 @@ people:
   - piers-morgan
   - thorbjorn-jagland
 relatedArticles:
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations
-  - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation
-  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
-  - 2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals
-  - 2026-02-12-orioles-owner-david-rubenstein-named-in-epstein-files
-  - 2026-02-13-piers-morgan-named-29-times-in-epstein-files-here-s-what-we-found
-  - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
-  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
-  - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
-  - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
-  - court-releases-new-batch-of-documents
-  - 2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
+  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
 tags:
   - transparency-act
   - court-documents
@@ -86,13 +65,13 @@ The timing of the congressional confrontation was remarkable. Just hours before 
 
 Meanwhile, [**Casey Wasserman**, the Los Angeles entertainment executive heading the 2028 Olympic Games preparations, announced he would sell his agency](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after clients fled following the exposure of his emails with **Ghislaine Maxwell**, Epstein's longtime associate and convicted accomplice. The New York Times reported Friday that Wasserman "has lost clients since his emails with Ghislaine Maxwell surfaced."
 
-The cascade of departures extended beyond American shores. [Multiple executives at Dubai-based DP World resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after documents revealed extensive correspondence with Epstein's network. PBS NewsHour noted that "a top lawyer at Goldman Sachs is resigning after emails showed her close relationship with Jeffrey Epstein."
+The cascade of departures extended beyond American shores. Multiple executives at Dubai-based DP World resigned after documents revealed extensive correspondence with Epstein's network. PBS NewsHour noted that "a top lawyer at Goldman Sachs is resigning after emails showed her close relationship with Jeffrey Epstein."
 
 ## The Selective Transparency Problem
 
 The DOJ's redaction policy has been criticized for its apparent inconsistency. While wealthy executives' names were initially blacked out—only to be exposed through other means, triggering career-ending scandals—other individuals with seemingly tangential connections remain fully identified in the released documents.
 
-Massie explicitly commented on one CEO's resignation this week, according to Spectrum News, [connecting the executive's departure directly to information that should have been public earlier](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down). Massie argued that had the Justice Department released names transparently from the start, rather than through selective leaks and forced disclosures, the public would have had months to evaluate these connections.
+Massie explicitly commented on one CEO's resignation this week, according to Spectrum News, connecting the executive's departure directly to information that should have been public earlier. Massie argued that had the Justice Department released names transparently from the start, rather than through selective leaks and forced disclosures, the public would have had months to evaluate these connections.
 
 Blanche's characterization of the named individuals as "random people" has been disputed by both Khanna and Massie, who say they reviewed the files before naming the individuals. The DOJ has not disclosed the standard it uses to determine which names are redacted.
 
@@ -100,48 +79,48 @@ Lawmakers have noted that the redactions disproportionately protected prominent 
 
 ## The Web of Financial Influence
 
-The Epstein files have also exposed a system of financial influence connected to figures named in the documents. WFMJ.com reported that [Ohio politicians received campaign funds from **Les Wexner**](https://www.wfmj.com/story/53436751/ohio-politicians-received-campaign-funds-from-wexner-epstein-coconspirator), the billionaire retail magnate whom [Rep. Khanna has labeled an alleged Epstein co-conspirator](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). Wexner, the founder of Victoria's Secret parent company L Brands and Epstein's only confirmed financial client, employed Epstein as his financial adviser and gave him power of attorney over his fortune. Wexner transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0.
+The Epstein files have also exposed a system of financial influence connected to figures named in the documents. WFMJ.com reported that [Ohio politicians received campaign funds from **Les Wexner**](https://www.wfmj.com/story/53436751/ohio-politicians-received-campaign-funds-from-wexner-epstein-coconspirator), the billionaire retail magnate whom Rep. Khanna has labeled an alleged Epstein co-conspirator. Wexner, the founder of Victoria's Secret parent company L Brands and Epstein's only confirmed financial client, employed Epstein as his financial adviser and gave him power of attorney over his fortune. Wexner transferred a $77 million Manhattan mansion at 9 East 71st Street to Epstein for $0.
 
-[Congress has moved to depose Wexner in Ohio](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), demanding testimony about the nature and extent of his relationship with Epstein. The subpoena comes as lawmakers investigate whether Wexner's political donations influenced the handling of the Epstein case at various levels of government.
+Congress has moved to depose Wexner in Ohio, demanding testimony about the nature and extent of his relationship with Epstein. The subpoena comes as lawmakers investigate whether Wexner's political donations influenced the handling of the Epstein case at various levels of government.
 
-The financial connections extend internationally. [British politician Lord Mandelson has been subpoenaed by Congress](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) after extensive documentation of his meetings with Epstein emerged. [Consultants allegedly pitched Epstein's network as a fundraising opportunity to New York Democrats](/news/2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations), treating access to the sex offender as a valuable commodity for campaign donations.
+The financial connections extend internationally. British politician Lord Mandelson has been subpoenaed by Congress after extensive documentation of his meetings with Epstein emerged. Consultants allegedly pitched Epstein's network as a fundraising opportunity to New York Democrats, treating access to the sex offender as a valuable commodity for campaign donations.
 
-Perhaps most troublingly, [one senator who blocked Epstein transparency legislation received a mysterious donation shortly afterward](/news/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation), and lawmakers have asked whether financial incentives influenced the legislative process around Epstein accountability measures.
+Perhaps most troublingly, one senator who blocked Epstein transparency legislation received a mysterious donation shortly afterward, and lawmakers have asked whether financial incentives influenced the legislative process around Epstein accountability measures.
 
 ## The Surveillance Scandal
 
-Separately, the Justice Department also faces allegations that it [monitored which lawmakers were searching the Epstein files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches). According to documents obtained by congressional Democrats, [Attorney General Pam Bondi's office tracked searches by members of Congress](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches), which has raised constitutional concerns about executive branch surveillance of the legislative branch.
+Separately, the Justice Department also faces allegations that it monitored which lawmakers were searching the Epstein files. According to documents obtained by congressional Democrats, Attorney General Pam Bondi's office tracked searches by members of Congress, which has raised constitutional concerns about executive branch surveillance of the legislative branch.
 
-[Democrats demanded that DOJ immediately stop tracking their searches](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches), calling the monitoring an improper intrusion into Congress's investigative prerogatives. The surveillance revelation has intensified congressional demands for an explanation of the DOJ's redaction criteria.
+Democrats demanded that DOJ immediately stop tracking their searches, calling the monitoring an improper intrusion into Congress's investigative prerogatives. The surveillance revelation has intensified congressional demands for an explanation of the DOJ's redaction criteria.
 
-During a heated House Judiciary hearing, [Attorney General Bondi was grilled about why her department resists full document release](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release). Her explanations—citing privacy concerns and investigative sensitivities—have satisfied virtually no one in Congress. [The FBI later attempted to explain why files remain heavily redacted](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted), but the justifications have been questioned by lawmakers who note that no new charges have been filed since the files began emerging.
+During a heated House Judiciary hearing, Attorney General Bondi was grilled about why her department resists full document release. Her explanations—citing privacy concerns and investigative sensitivities—have satisfied virtually no one in Congress. The FBI later attempted to explain why files remain heavily redacted, but the justifications have been questioned by lawmakers who note that no new charges have been filed since the files began emerging.
 
 ## The Institutional Pattern
 
 The Epstein case has always been about more than one man's crimes. It's been about the systems that enabled him—the prosecutors who granted him a plea deal widely criticized as lenient, the politicians who did not act on available information, and the financiers who continued doing business with him after his conviction.
 
-[The New York Times launched a major investigation into the millions of pages](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files), attempting to map the full scope of Epstein's network and understand how he maintained access to elite circles for so long. [One Times investigation revealed how elite immunity protected Epstein](/news/2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals) at crucial moments, with powerful friends intervening to soften consequences and maintain his social standing.
+The New York Times launched a major investigation into the millions of pages, attempting to map the full scope of Epstein's network and understand how he maintained access to elite circles for so long. One Times investigation revealed how elite immunity protected Epstein at crucial moments, with powerful friends intervening to soften consequences and maintain his social standing.
 
 The redaction fight fits this pattern. Even after Epstein's conviction and death, institutional resistance to full disclosure has continued. The Justice Department's position is that it should determine what information is released. Both Republican and Democratic lawmakers have rejected that position, citing the DOJ's record of delayed and incomplete disclosures.
 
 ## What the Public Already Knows
 
-The inconsistency of many redactions is evident when examining what is already in the public domain. [Orioles owner David Rubenstein was named in Epstein files](/news/2026-02-12-orioles-owner-david-rubenstein-named-in-epstein-files), though his connection had been reported years ago. [Piers Morgan appeared 29 times in the files](/news/2026-02-13-piers-morgan-named-29-times-in-epstein-files-here-s-what-we-found), largely in mundane contexts related to his journalism career. [Joe Rogan addressed his name appearing in the files](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me), telling his podcast audience the [files "scare the hell out of me"](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me) because of how they expose the interconnected nature of elite networks.
+The inconsistency of many redactions is evident when examining what is already in the public domain. Orioles owner David Rubenstein was named in Epstein files, though his connection had been reported years ago. Piers Morgan appeared 29 times in the files, largely in mundane contexts related to his journalism career. Joe Rogan addressed his name appearing in the files, telling his podcast audience the files "scare the hell out of me" because of how they expose the interconnected nature of elite networks.
 
-[Prince Andrew's BBC interview claims have unraveled as new emails surface](/news/2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface), contradicting his sworn statements about his relationship with Epstein and Ghislaine Maxwell. [Nobel Committee leader Thorbjørn Jagland received gifts from Epstein](/news/2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal), according to emails that were initially redacted despite the public interest in understanding Epstein's cultivation of prestigious institutional leaders.
+Prince Andrew's BBC interview claims have unraveled as new emails surface, contradicting his sworn statements about his relationship with Epstein and Ghislaine Maxwell. Nobel Committee leader Thorbjørn Jagland received gifts from Epstein, according to emails that were initially redacted despite the public interest in understanding Epstein's cultivation of prestigious institutional leaders.
 
-[Media mogul Michael Ferro canceled a last-minute meeting with Epstein](/news/2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal), emails revealed—the kind of detail that shows how Epstein's calendar was filled with marquee names even after his 2008 conviction. [College presidents and professors were named in documents](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout), adding to scrutiny of Epstein's connections to academic institutions and research funding.
+Media mogul Michael Ferro canceled a last-minute meeting with Epstein, emails revealed—the kind of detail that shows how Epstein's calendar was filled with marquee names even after his 2008 conviction. College presidents and professors were named in documents, adding to scrutiny of Epstein's connections to academic institutions and research funding.
 
 Each of these revelations came despite DOJ redactions, not because of DOJ transparency. Information about Epstein's network has emerged primarily through leaks, lawsuits, or congressional action rather than through DOJ-initiated disclosure.
 
 ## The Legal Battlefield
 
-The fight over Epstein documents extends into courtrooms as well. [A federal court allowed a Bank of America lawsuit to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), with victims alleging the bank facilitated Epstein's trafficking operation by processing suspicious transactions without proper scrutiny. The lawsuit depends on documents the Justice Department initially resisted releasing, illustrating how document secrecy has affected victims' access to justice.
+The fight over Epstein documents extends into courtrooms as well. A federal court allowed a Bank of America lawsuit to proceed, with victims alleging the bank facilitated Epstein's trafficking operation by processing suspicious transactions without proper scrutiny. The lawsuit depends on documents the Justice Department initially resisted releasing, illustrating how document secrecy has affected victims' access to justice.
 
-[The court has released new batches of Epstein-related documents](/news/court-releases-new-batch-of-documents) in response to Freedom of Information Act litigation, but each release is heavily redacted and comes only after prolonged legal battles. [Newly released video from Epstein's office](/news/2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump) emerged in the latest dump, showing the breadth of surveillance Epstein maintained—yet even this material came with portions withheld.
+The court has released new batches of Epstein-related documents in response to Freedom of Information Act litigation, but each release is heavily redacted and comes only after prolonged legal battles. Newly released video from Epstein's office emerged in the latest dump, showing the breadth of surveillance Epstein maintained—yet even this material came with portions withheld.
 
 ## The Political Dimension
 
-The Trump administration's handling of the Epstein files has drawn bipartisan criticism. [President Trump himself called for an end to the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), arguing it has become a distraction. Meanwhile, Reps. Khanna and Massie—the co-authors of the original discharge petition that forced the Transparency Act to the floor—have argued that the administration's resistance to full disclosure contradicts the law's intent.
+The Trump administration's handling of the Epstein files has drawn bipartisan criticism. President Trump himself called for an end to the Epstein investigation, arguing it has become a distraction. Meanwhile, Reps. Khanna and Massie—the co-authors of the original discharge petition that forced the Transparency Act to the floor—have argued that the administration's resistance to full disclosure contradicts the law's intent.
 
 The Epstein Transparency Act passed the House 427-1 and the Senate unanimously before being signed on November 19, 2025. The DOJ has since released 3.5 million pages, 180,000 images, and 2,000 videos. But the continued redactions have turned the document release into an ongoing political battle between Congress and the executive branch, with the identities of Epstein's most powerful associates at the center of the dispute.

@@ -18,33 +18,10 @@ people:
   - peter-mandelson
   - piers-morgan
 relatedArticles:
-  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
   - 2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties
   - 2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations
-  - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
-  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
-  - 2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals
-  - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
-  - 2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump
-  - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
-  - 2026-02-13-piers-morgan-named-29-times-in-epstein-files-here-s-what-we-found
-  - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation
-  - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
-  - 2026-02-14-epstein-case-exposes-cracks-in-america-s-rule-of-law-system
 tags:
   - document-release
   - associates
@@ -93,7 +70,7 @@ Above the Law reported on internal discussions about whether Karp's tenure would
 
 The firm previously represented **Goldman Sachs** in various matters. [Goldman's top lawyer resigned this week](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. The resignation marked the first C-suite departure at a major investment bank directly linked to the document release.
 
-[Multiple corporate executives and board members have resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) since the files became public. The pattern spans industries from shipping to entertainment to finance.
+Multiple corporate executives and board members have resigned since the files became public. The pattern spans industries from shipping to entertainment to finance.
 
 ## School Photo Company Responds to Concerns
 
@@ -101,15 +78,15 @@ The firm previously represented **Goldman Sachs** in various matters. [Goldman's
 
 The company stated in a press release that student photographs are not shared with outside parties. Lifetouch emphasized its privacy policies and data protection measures.
 
-The concern emerged from documents showing Epstein's network maintained extensive databases of contact information and photographs of individuals across various institutions. [Earlier releases showed Epstein had influence at multiple educational institutions](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama), including the University of Alabama, where he directed donations and personnel decisions.
+The concern emerged from documents showing Epstein's network maintained extensive databases of contact information and photographs of individuals across various institutions. Earlier releases showed Epstein had influence at multiple educational institutions, including the University of Alabama, where he directed donations and personnel decisions.
 
-[College presidents and professors named in the files](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) face questions about what they knew regarding Epstein's activities and funding sources. Several institutions launched internal reviews of their vetting processes for major donors.
+College presidents and professors named in the files face questions about what they knew regarding Epstein's activities and funding sources. Several institutions launched internal reviews of their vetting processes for major donors.
 
 ## Pattern of Facilitators
 
 The Stern visa guidance adds to documented instances of individuals assisting Epstein in navigating legal and bureaucratic obstacles. The pattern appears across multiple jurisdictions and time periods.
 
-[A former Clifford Chance lawyer's ties emerged](/news/2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties) in emails showing legal advice and introductions. [Consultants pitched Epstein's access to New York Democrats](/news/2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations) in exchange for campaign contributions. [A Nobel Committee chief received gifts](/news/2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal) according to correspondence.
+A former Clifford Chance lawyer's ties emerged in emails showing legal advice and introductions. Consultants pitched Epstein's access to New York Democrats in exchange for campaign contributions. A Nobel Committee chief received gifts according to correspondence.
 
 The files document what victims' attorneys describe as a sophisticated operation requiring cooperation from advisers in law, finance, politics, and social circles. Each facilitator's role appears limited in isolation, but the aggregate picture shows coordinated assistance.
 
@@ -117,34 +94,34 @@ Defense attorneys for individuals named in the files argue that appearing in Eps
 
 ## Congressional Investigation Expands
 
-The House Oversight Committee expanded its investigation this week, issuing additional subpoenas beyond those for [Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe). Committee Chairman **Ro Khanna** stated the panel will examine both Epstein's activities and the institutional failures that enabled them.
+The House Oversight Committee expanded its investigation this week, issuing additional subpoenas beyond those for Wexner and Peter Mandelson. Committee Chairman **Ro Khanna** stated the panel will examine both Epstein's activities and the institutional failures that enabled them.
 
-[Khanna previously demanded the release of names](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down) that remain redacted despite the Transparency Act. [One lawmaker named six men still hidden](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) in the files despite statutory requirements for disclosure.
+Khanna previously demanded the release of names that remain redacted despite the Transparency Act. One lawmaker named six men still hidden in the files despite statutory requirements for disclosure.
 
-The Justice Department defended its redaction decisions, with [Attorney General Pam Bondi testifying](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) that ongoing investigations and privacy concerns justify withholding certain names. [The FBI provided its explanation](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) in a letter to Congress, citing specific legal exemptions.
+The Justice Department defended its redaction decisions, with Attorney General Pam Bondi testifying that ongoing investigations and privacy concerns justify withholding certain names. The FBI provided its explanation in a letter to Congress, citing specific legal exemptions.
 
-[Critics accused the Trump DOJ of a cover-up](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) over the extent of redactions. [President Trump himself called for ending the investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), stating in a social media post that the matter had been "investigated enough."
+Critics accused the Trump DOJ of a cover-up over the extent of redactions. President Trump himself called for ending the investigation, stating in a social media post that the matter had been "investigated enough."
 
-The tension between Congressional transparency demands and executive branch redaction decisions represents the central conflict in the ongoing document release. [The Transparency Act signed into law](/news/epstein-transparency-act-signed-into-law) requires disclosure but includes exemptions for ongoing investigations and national security.
+The tension between Congressional transparency demands and executive branch redaction decisions represents the central conflict in the ongoing document release. The Transparency Act signed into law requires disclosure but includes exemptions for ongoing investigations and national security.
 
 ## Legal Actions Advance
 
-[A federal court allowed a lawsuit against Bank of America to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), rejecting the bank's motion to dismiss trafficking-related claims. Plaintiffs allege the bank facilitated Epstein's operation by processing suspicious transactions without proper reporting.
+A federal court allowed a lawsuit against Bank of America to proceed, rejecting the bank's motion to dismiss trafficking-related claims. Plaintiffs allege the bank facilitated Epstein's operation by processing suspicious transactions without proper reporting.
 
 The ruling marks a significant development in civil litigation, establishing that financial institutions can face liability for enabling trafficking operations through their services. Bank of America stated it will vigorously defend against the claims.
 
-[The New York Times launched a major investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into the millions of pages of documents now available. The newspaper assembled a team to analyze correspondence, financial records, and calendar entries spanning decades.
+The New York Times launched a major investigation into the millions of pages of documents now available. The newspaper assembled a team to analyze correspondence, financial records, and calendar entries spanning decades.
 
-[An earlier Times investigation detailed how elite immunity protected Epstein](/news/2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals), examining the institutional failures across law enforcement, prosecution, and the judicial system that allowed his activities to continue.
+An earlier Times investigation detailed how elite immunity protected Epstein, examining the institutional failures across law enforcement, prosecution, and the judicial system that allowed his activities to continue.
 
 ## Public Reaction Intensifies
 
-[Podcast host Joe Rogan said the files "scare the hell out of me"](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me) during his broadcast this week, reflecting broader public reaction to the scope of connections revealed. [Newly released video from Epstein's office](/news/2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump) showed interactions with visitors whose identities remain under analysis.
+Podcast host Joe Rogan said the files "scare the hell out of me" during his broadcast this week, reflecting broader public reaction to the scope of connections revealed. Newly released video from Epstein's office showed interactions with visitors whose identities remain under analysis.
 
-[Media mogul Michael Ferro canceled a last-minute meeting with Epstein](/news/2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal), according to correspondence. [Piers Morgan appeared 29 times in the files](/news/2026-02-13-piers-morgan-named-29-times-in-epstein-files-here-s-what-we-found), primarily in connection with social events and potential media projects.
+Media mogul Michael Ferro canceled a last-minute meeting with Epstein, according to correspondence. Piers Morgan appeared 29 times in the files, primarily in connection with social events and potential media projects.
 
-[One senator blocked files after receiving a mysterious donation](/news/2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation), according to campaign finance records reviewed alongside the document timeline. [Bondi faced accusations of spying on Democrats' Epstein file searches](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
+One senator blocked files after receiving a mysterious donation, according to campaign finance records reviewed alongside the document timeline. Bondi faced accusations of spying on Democrats' Epstein file searches.
 
-[Analysis published earlier this week examined how the case exposes systemic failures](/news/2026-02-14-epstein-case-exposes-cracks-in-america-s-rule-of-law-system) in American legal institutions. The evaluation focused on prosecutorial decisions, plea agreement terms, and supervision lapses.
+Analysis published earlier this week examined how the case exposes systemic failures in American legal institutions. The evaluation focused on prosecutorial decisions, plea agreement terms, and supervision lapses.
 
 The Congressional hearings continue next week with testimony from subpoenaed witnesses. Additional document releases are scheduled under the Transparency Act's rolling disclosure requirements. Multiple federal and state investigations remain active despite the President's stated position that the matter should be closed.

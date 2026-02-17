@@ -14,10 +14,6 @@ relatedArticles:
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
   - 2026-02-16-global-investigations-into-epstein-s-international-network-expand
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
-  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
-  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
-  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
 tags:
   - investigation
   - breaking
@@ -51,10 +47,10 @@ French law allows prosecutors to pursue cases involving French nationals or crim
 
 ## International Response Grows
 
-The Paris raid comes as [global investigations into Epstein's international network expand](/news/2026-02-16-global-investigations-into-epstein-s-international-network-expand) across multiple continents. [UK police launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations. [British prosecutors announced that "nobody is above the law"](/news/2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew) as they examine Prince Andrew's activities.
+The Paris raid comes as [global investigations into Epstein's international network expand](/news/2026-02-16-global-investigations-into-epstein-s-international-network-expand) across multiple continents. UK police launched a national task force to investigate trafficking allegations. British prosecutors announced that "nobody is above the law" as they examine Prince Andrew's activities.
 
-The Epstein Transparency Act, which President Trump signed into law in January, required the Justice Department to release all Epstein-related files within 60 days. The FBI released documents in February, though [lawmakers have accused the DOJ of over-redacting names](/news/2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators) and withholding evidence of potential criminal conduct.
+The Epstein Transparency Act, which President Trump signed into law in January, required the Justice Department to release all Epstein-related files within 60 days. The FBI released documents in February, though lawmakers have accused the DOJ of over-redacting names and withholding evidence of potential criminal conduct.
 
-[Attorney General Bondi has defended the release](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) while [facing criticism from members of Congress](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) who say the department should unredact files that name living individuals with connections to Epstein's network.
+Attorney General Bondi has defended the release while facing criticism from members of Congress who say the department should unredact files that name living individuals with connections to Epstein's network.
 
 Fox News did not provide additional reporting on the circumstances surrounding the Arab World Institute raid or the institute's connection to the broader investigation.

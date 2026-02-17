@@ -13,11 +13,9 @@ people:
   - kathryn-ruemmler
 relatedArticles:
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - transparency-act
   - breaking
@@ -47,10 +45,10 @@ In both cases, executives named in the Epstein document releases faced immediate
 
 Khanna's call for naming names puts additional pressure on the Justice Department, which continues to redact portions of Epstein-related files. [Attorney General Bondi faced aggressive questioning](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) from House lawmakers over the scope and pace of releases.
 
-The congressman joins other House members who have criticized the pace of DOJ document releases. [One congressman used the House floor](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) to publicly identify individuals he says are being shielded by redactions.
+The congressman joins other House members who have criticized the pace of DOJ document releases. One congressman used the House floor to publicly identify individuals he says are being shielded by redactions.
 
 ## Institutions Under Scrutiny
 
-The resignations extend beyond finance. [University presidents and professors](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) have faced mounting scrutiny, and [Congress has subpoenaed Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), Epstein's long-time patron and business partner.
+The resignations extend beyond finance. University presidents and professors have faced mounting scrutiny, and Congress has subpoenaed Les Wexner, Epstein's long-time patron and business partner.
 
 Khanna's demand for transparency reflects growing impatience among lawmakers with incremental document releases and privacy protections that shield powerful figures. Two high-profile resignations occurred within one week of document releases naming the individuals involved.

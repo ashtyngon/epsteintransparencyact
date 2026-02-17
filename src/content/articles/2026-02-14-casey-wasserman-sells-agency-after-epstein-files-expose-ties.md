@@ -14,11 +14,9 @@ people:
   - peter-mandelson
 relatedArticles:
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - associates
   - breaking
@@ -43,8 +41,8 @@ Wasserman Media Group represents athletes, musicians, and brands across multiple
 
 The sale is the latest in a series of exits tied to documents released under the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law). 
 
-[Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. [Sultan Ahmed Bin Sulayem, chair of Dubai's DP World, stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after appearing more than 4,700 times in the documents.
+[Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. Sultan Ahmed Bin Sulayem, chair of Dubai's DP World, stepped down after appearing more than 4,700 times in the documents.
 
-Congress has opened investigations into multiple individuals named in the files, issuing subpoenas to [billionaire Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [British politician Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe).
+Congress has opened investigations into multiple individuals named in the files, issuing subpoenas to billionaire Les Wexner and British politician Peter Mandelson.
 
 Wasserman has not publicly addressed the timing of the sale or its connection to the document release.

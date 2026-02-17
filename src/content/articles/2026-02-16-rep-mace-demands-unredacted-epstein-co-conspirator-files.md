@@ -22,28 +22,6 @@ relatedArticles:
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
-  - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
-  - 2026-02-14-trump-insider-tom-barrack-named-in-epstein-files
-  - 2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show
-  - 2026-02-15-texas-gop-alarmed-over-comptroller-candidate-s-epstein-ranch-purchase
-  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
-  - 2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
-  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
-  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse
-  - 2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak
 tags:
   - transparency-act
   - document-release
@@ -67,7 +45,7 @@ The pressure on federal authorities intensifies as new Epstein-related revelatio
 
 The Times reported that documents released as part of the ongoing Epstein file disclosure "sent ripples through the worlds of business, politics and academia," with Columbia becoming the latest institution forced to confront its ties to the convicted sex offender. The university's response follows earlier reporting on [college presidents and professors named in Epstein files](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).
 
-Epstein's influence at academic institutions extended beyond Columbia. [Documents previously revealed](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama) that Epstein "pulled strings" at the University of Alabama, while other files showed his attempts to leverage relationships with Nobel Prize officials to expand his network of elite contacts.
+Epstein's influence at academic institutions extended beyond Columbia. Documents previously revealed that Epstein "pulled strings" at the University of Alabama, while other files showed his attempts to leverage relationships with Nobel Prize officials to expand his network of elite contacts.
 
 ## Steve Bannon's Continued Contact With Epstein
 
@@ -75,9 +53,9 @@ Epstein's influence at academic institutions extended beyond Columbia. [Document
 
 Bannon told the Times his communications with Epstein were "in the name of getting Mr. Epstein to open up." The texts indicate contact continued even after Epstein's 2008 plea deal in Florida on charges of soliciting prostitution from a minor.
 
-Earlier reporting revealed that [Bannon discussed "taking down" Pope Francis](/news/2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files) with Epstein, according to DOJ files. The documents show Bannon's relationship with Epstein extended beyond casual contact, with the two discussing political strategy and targets.
+Earlier reporting revealed that Bannon discussed "taking down" Pope Francis with Epstein, according to DOJ files. The documents show Bannon's relationship with Epstein extended beyond casual contact, with the two discussing political strategy and targets.
 
-The revelation about Bannon adds to a growing list of political figures whose contacts with Epstein have emerged in recent weeks, including [Trump insider Tom Barrack](/news/2026-02-14-trump-insider-tom-barrack-named-in-epstein-files) and multiple members of Congress who [invited Epstein to congressional galas](/news/2026-02-16-epstein-invited-to-congressional-galas-years-after-arrest-docs-show) years after his arrest.
+The revelation about Bannon adds to a growing list of political figures whose contacts with Epstein have emerged in recent weeks, including Trump insider Tom Barrack and multiple members of Congress who invited Epstein to congressional galas years after his arrest.
 
 ## Texas Republican Bought Epstein's Abuse Ranch
 
@@ -85,7 +63,7 @@ The family of **Donald Huffines**, a self-identified "Trump Republican" running 
 
 The **Zorro Ranch** in New Mexico was identified in court documents as a location where Epstein "abused teenage girls and young women," according to The Guardian. The property sale occurred years after Epstein's 2019 death in federal custody and his longtime associate Ghislaine Maxwell's 2021 conviction on sex trafficking charges.
 
-Texas Republicans expressed concern about the purchase. The Guardian reported February 16 that [GOP officials were "alarmed"](/news/2026-02-15-texas-gop-alarmed-over-comptroller-candidate-s-epstein-ranch-purchase) over the revelation that their party's candidate for comptroller owned property where documented abuse occurred.
+Texas Republicans expressed concern about the purchase. The Guardian reported February 16 that GOP officials were "alarmed" over the revelation that their party's candidate for comptroller owned property where documented abuse occurred.
 
 Huffines is running in a competitive race for Texas comptroller, one of the state's most powerful positions overseeing billions in tax revenue and economic forecasts.
 
@@ -93,15 +71,15 @@ Huffines is running in a competitive race for Texas comptroller, one of the stat
 
 French authorities raided the **Arab World Institute** in Paris in connection with an expanding Epstein investigation, according to reports from 930 WFMD and other outlets. The February 16 police action represents the latest development in France's review of Epstein files for French nationals.
 
-French prosecutors [previously announced](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe) they were investigating a diplomat in connection with the Epstein case. France [established a special team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) dedicated to reviewing the massive document release for potential crimes involving French citizens.
+French prosecutors previously announced they were investigating a diplomat in connection with the Epstein case. France established a special team dedicated to reviewing the massive document release for potential crimes involving French citizens.
 
 The raid occurred at the Arab World Institute, a Paris cultural center and museum focused on the Arab world's artistic and cultural contributions. The specific connection between the institute and the Epstein investigation was not detailed in initial reports.
 
 ## UK Transparency Group Examines Mandelson Emails
 
-**Transparency International UK** published an analysis examining what the **Peter Mandelson-Epstein emails** reveal "about Britain's broken lobbying system," according to a February 16 report. The anti-corruption organization's review comes after [Congress subpoenaed Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) over his ties to Epstein.
+**Transparency International UK** published an analysis examining what the **Peter Mandelson-Epstein emails** reveal "about Britain's broken lobbying system," according to a February 16 report. The anti-corruption organization's review comes after Congress subpoenaed Mandelson over his ties to Epstein.
 
-Mandelson, a former European Union trade commissioner and Labour Party architect, appeared in multiple emails with Epstein discussing access to political figures and influence operations. The UK has launched multiple investigations into Epstein-related matters, including a [national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) examining trafficking allegations and renewed scrutiny of [Prince Andrew](/news/2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew).
+Mandelson, a former European Union trade commissioner and Labour Party architect, appeared in multiple emails with Epstein discussing access to political figures and influence operations. The UK has launched multiple investigations into Epstein-related matters, including a national task force examining trafficking allegations and renewed scrutiny of Prince Andrew.
 
 Transparency International's examination of the Mandelson emails follows the organization's broader concerns about elite immunity and influence peddling exposed in the Epstein files. The group's analysis focused on systemic failures in Britain's lobbying disclosure requirements that allowed relationships like Mandelson's with Epstein to remain hidden from public view.
 
@@ -111,27 +89,27 @@ The FBI possesses thousands of files related to **Frank Shelden**, a Detroit mil
 
 The Independent's investigation, based on interviews with a podcaster examining the cold case, revealed that authorities "failed" to fully investigate Shelden's activities despite possessing extensive documentation. The report described Shelden as "the original Epstein," suggesting patterns of elite abuse enabled by wealth and connections existed long before Epstein's case.
 
-The existence of thousands of FBI files on Shelden raises questions about why the case remained dormant for decades. The bureau has faced criticism for its handling of Epstein-related investigations, with [previous reporting](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) showing the FBI cited ongoing investigations as justification for redactions in released documents.
+The existence of thousands of FBI files on Shelden raises questions about why the case remained dormant for decades. The bureau has faced criticism for its handling of Epstein-related investigations, with previous reporting showing the FBI cited ongoing investigations as justification for redactions in released documents.
 
 ## Pattern of Elite Institutional Failures
 
-The convergence of revelations from Columbia University, French authorities, British anti-corruption watchdogs, and decades-old FBI files points to what multiple investigations have identified as systemic failures in holding powerful individuals accountable. A [New York Times investigation](/news/2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals) concluded that "elite immunity protected Epstein" through failures at multiple levels of law enforcement and oversight.
+The convergence of revelations from Columbia University, French authorities, British anti-corruption watchdogs, and decades-old FBI files points to what multiple investigations have identified as systemic failures in holding powerful individuals accountable. A New York Times investigation concluded that "elite immunity protected Epstein" through failures at multiple levels of law enforcement and oversight.
 
-Universities across multiple continents have faced consequences as their connections to Epstein emerged. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in files, while [Dubai's ports chief resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) following exposure of hundreds of secret emails. The files have [triggered global resignations and new investigations](/news/2026-02-16-epstein-files-trigger-global-resignations-new-investigations) spanning Europe, Asia, and the Americas.
+Universities across multiple continents have faced consequences as their connections to Epstein emerged. Goldman Sachs' top lawyer resigned after being named in files, while Dubai's ports chief resigned following exposure of hundreds of secret emails. The files have triggered global resignations and new investigations spanning Europe, Asia, and the Americas.
 
-The scope of institutional failure extends to financial institutions. A federal court [allowed a lawsuit against Bank of America to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), alleging the bank facilitated Epstein's trafficking operation through financial services.
+The scope of institutional failure extends to financial institutions. A federal court allowed a lawsuit against Bank of America to proceed, alleging the bank facilitated Epstein's trafficking operation through financial services.
 
 ## Congressional Pressure Intensifies
 
-Rep. Mace's demand for unredacted files adds to mounting congressional pressure on the Department of Justice. **Attorney General Pam Bondi** has defended the administration's release, claiming the DOJ [released "all" Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed), but analysis shows the government [released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows), according to an independent study.
+Rep. Mace's demand for unredacted files adds to mounting congressional pressure on the Department of Justice. **Attorney General Pam Bondi** has defended the administration's release, claiming the DOJ released "all" Epstein files, but analysis shows the government released only 2% of Epstein files, according to an independent study.
 
-Congress has issued subpoenas to multiple figures, including [Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties), the billionaire whose financial ties to Epstein spanned decades. **Rep. Ro Khanna** stated that Epstein's network ["knew enough to know better"](/news/2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better) about the financier's crimes.
+Congress has issued subpoenas to multiple figures, including Les Wexner, the billionaire whose financial ties to Epstein spanned decades. **Rep. Ro Khanna** stated that Epstein's network "knew enough to know better" about the financier's crimes.
 
-The Justice Department faces criticism from both parties. Rep. Massie stated he [lost confidence in AG Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over the handling of file releases, while [Rep. Greene described Trump's handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) of the Epstein files as a "political miscalculation."
+The Justice Department faces criticism from both parties. Rep. Massie stated he lost confidence in AG Bondi over the handling of file releases, while Rep. Greene described Trump's handling of the Epstein files as a "political miscalculation."
 
 ## Technology Aids Public Review
 
-As government agencies face accusations of incomplete disclosure, independent efforts to organize the released documents have emerged. A new platform called **JeffTube** makes [DOJ Epstein files easier to browse](/news/2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse), according to reports, while [Epstein emails spread across social media](/news/2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak) in what observers described as a viral leak.
+As government agencies face accusations of incomplete disclosure, independent efforts to organize the released documents have emerged. A new platform called **JeffTube** makes DOJ Epstein files easier to browse, according to reports, while Epstein emails spread across social media in what observers described as a viral leak.
 
 The technological distribution of documents has complicated efforts by officials to control the narrative around file releases. Public access to searchable databases allows journalists, researchers, and members of the public to identify connections and patterns that might otherwise remain hidden in the volume of released material.
 

@@ -10,11 +10,10 @@ people:
   - ghislaine-maxwell
   - jeffrey-epstein
 relatedArticles:
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
-  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
 tags:
   - associates
   - document-release
@@ -39,7 +38,7 @@ The cancellations mark the latest professional consequence for figures named in 
 
 ## Educational Institutions Respond
 
-[Universities have faced Epstein-related scrutiny](/news/2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama), with DOJ files showing Epstein had influence at the University of Alabama. [Multiple college presidents and professors were named](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout) in earlier document releases.
+Universities have faced Epstein-related scrutiny, with DOJ files showing Epstein had influence at the University of Alabama. Multiple college presidents and professors were named in earlier document releases.
 
 The school photography cancellations extend that scrutiny to K-12 institutions and their vendor relationships.
 

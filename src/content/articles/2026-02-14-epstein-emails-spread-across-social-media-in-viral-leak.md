@@ -13,13 +13,10 @@ people:
   - sultan-ahmed-bin-sulayem
   - casey-wasserman
 relatedArticles:
-  - epstein-transparency-act-signed-into-law
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - document-release
   - investigation
@@ -50,12 +47,12 @@ Some names appeared in mundane contexts — calendar entries for canceled meetin
 
 ## What Stayed Hidden
 
-The [FBI has maintained redactions](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) in documents released under the transparency law, citing ongoing investigations and privacy concerns. [Attorney General Bondi faced congressional questioning](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about the extent of redactions and the criteria for withholding names.
+The [FBI has maintained redactions](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) in documents released under the transparency law, citing ongoing investigations and privacy concerns. Attorney General Bondi faced congressional questioning about the extent of redactions and the criteria for withholding names.
 
 The redacted names fueled speculation online. Users created lists of rumored contacts based on partial information or unverified claims. Several viral social media posts traced back to fabricated documents that mimicked the formatting of authentic court releases.
 
 ## Resignations Follow Releases
 
-[Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), [Sultan Ahmed Bin Sulayem, CEO of Dubai's DP World who appeared 4,700+ times in the files](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed), and [Casey Wasserman, LA 2028 Olympics chairman](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) resigned after their names surfaced in released emails. Court documents show the nature and frequency of their email contacts varied significantly.
+Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, Sultan Ahmed Bin Sulayem, CEO of Dubai's DP World who appeared 4,700+ times in the files, and Casey Wasserman, LA 2028 Olympics chairman resigned after their names surfaced in released emails. Court documents show the nature and frequency of their email contacts varied significantly.
 
 Most social media posts about the emails did not link to source documents or specify whether the contact occurred before or after Epstein's 2008 guilty plea in Palm Beach County for soliciting prostitution from a minor — a plea deal negotiated by then-U.S. Attorney Alexander Acosta that has been widely criticized for its leniency.

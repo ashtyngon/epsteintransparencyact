@@ -17,16 +17,6 @@ relatedArticles:
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
-  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
-  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
-  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
-  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
-  - 2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
 tags:
   - testimony
   - political
@@ -51,24 +41,24 @@ The criticism from Dillon, whose podcast attracts a conservative audience, adds 
 
 Dillon's critique follows similar pushback from within Republican circles. Rep. Marjorie Taylor Greene [called Trump's handling of the Epstein files a "political miscalculation"](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) last week, breaking with her typical defense of the administration.
 
-Rep. Thomas Massie, a Kentucky Republican, has emerged as one of Bondi's sharpest critics. He [stated he "lost confidence" in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after exchanges during the hearing and separately claimed Bondi [avoided making eye contact with Epstein survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) present in the room.
+Rep. Thomas Massie, a Kentucky Republican, has emerged as one of Bondi's sharpest critics. He [stated he "lost confidence" in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after exchanges during the hearing and separately claimed Bondi avoided making eye contact with Epstein survivors present in the room.
 
 ## Competing Claims on Document Release
 
-The central dispute concerns what the Justice Department has made public. Bondi [publicly stated the DOJ released "all" files with "full names listed"](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed), but lawmakers from both parties have disputed this assertion.
+The central dispute concerns what the Justice Department has made public. Bondi publicly stated the DOJ released "all" files with "full names listed", but lawmakers from both parties have disputed this assertion.
 
-Analysis shows the [Trump DOJ released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) when measured against the total volume of documents believed to exist in federal custody.
+Analysis shows the Trump DOJ released only 2% of Epstein files when measured against the total volume of documents believed to exist in federal custody.
 
-Congress has [accused Bondi of "mudding" the list](/news/2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities) by including deceased celebrities alongside names of people potentially linked to criminal activity. Rep. Nancy Mace separately [accused the DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) in the February release.
+Congress has accused Bondi of "mudding" the list by including deceased celebrities alongside names of people potentially linked to criminal activity. Rep. Nancy Mace separately accused the DOJ of hiding names in the February release.
 
-Bondi released a [list of 300 names](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release) earlier this month, but many files contain redactions that obscure details about Epstein's network and activities.
+Bondi released a list of 300 names earlier this month, but many files contain redactions that obscure details about Epstein's network and activities.
 
 ## Political Fallout Expands
 
-The criticism crosses typical partisan divisions. Commerce Secretary Howard Lutnick's documented contacts with Epstein have become [a liability for GOP senators](/news/2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability).
+The criticism crosses typical partisan divisions. Commerce Secretary Howard Lutnick's documented contacts with Epstein have become a liability for GOP senators.
 
-Multiple executives have resigned after being named in released documents, including the [Goldman Sachs top lawyer](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and the [Dubai ports chief](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed).
+Multiple executives have resigned after being named in released documents, including the Goldman Sachs top lawyer and the Dubai ports chief.
 
-The fallout has extended internationally. The [UK launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations involving British nationals named in the files. France [set up a special review team](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals) to examine references to French citizens.
+The fallout has extended internationally. The UK launched a national task force to investigate trafficking allegations involving British nationals named in the files. France set up a special review team to examine references to French citizens.
 
 Dillon's criticism represents a departure from typical conservative media responses to Trump administration controversies, suggesting the Epstein files issue has created complications that cross traditional partisan lines.

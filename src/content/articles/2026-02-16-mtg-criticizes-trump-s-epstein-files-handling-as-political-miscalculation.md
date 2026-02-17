@@ -17,10 +17,6 @@ relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
   - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
-  - 2026-02-15-lawmakers-accuse-bondi-of-mudding-epstein-names-in-doj-letter
-  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
 tags:
   - political
 keyTakeaways:
@@ -50,6 +46,6 @@ She [previously called Trump's handling of the Epstein documents](/news/2026-02-
 
 Multiple Republican lawmakers have clashed with the Justice Department over the Epstein file releases. Rep. Thomas Massie [lost confidence in Attorney General Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over the handling of the documents. Rep. Nancy Mace [accused DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release).
 
-Attorney General Bondi has defended the releases as complete, [listing 300 names](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release) from the files. [Lawmakers disputed that claim](/news/2026-02-15-lawmakers-accuse-bondi-of-mudding-epstein-names-in-doj-letter), saying the DOJ obscured information.
+Attorney General Bondi has defended the releases as complete, listing 300 names from the files. Lawmakers disputed that claim, saying the DOJ obscured information.
 
-The files have [triggered resignations and investigations globally](/news/2026-02-16-epstein-files-trigger-global-resignations-new-investigations), including the departures of [Goldman Sachs' top lawyer](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and sports agent [Casey Wasserman](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties).
+The files have triggered resignations and investigations globally, including the departures of Goldman Sachs' top lawyer and sports agent Casey Wasserman.

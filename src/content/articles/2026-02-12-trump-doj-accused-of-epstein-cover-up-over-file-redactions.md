@@ -49,7 +49,7 @@ Trump signed the Epstein Transparency Act into law on November 19, 2025, after i
 
 Higbie's demand for criminal prosecution takes the controversy beyond policy criticism into direct accountability. He's not asking for better processes or more transparency — he wants Justice Department officials prosecuted for limiting what Americans can see.
 
-Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner — who transferred a $77 million Manhattan mansion to Epstein for $0 — a co-conspirator](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). [Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing she referred to Epstein as "Uncle Jeffrey"](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files).
+Names have continued surfacing despite the redactions. [A congressman recently revealed six individuals in the files and labeled billionaire Les Wexner — who transferred a $77 million Manhattan mansion to Epstein for $0 — a co-conspirator](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act). Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel, resigned after emails surfaced showing she referred to Epstein as "Uncle Jeffrey".
 
 Higbie's central criticism is that the law mandated disclosure, and the DOJ's redactions contradict that mandate. He asked who decided which names the public can see and which remain protected.
 

@@ -17,10 +17,6 @@ relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
 tags:
   - associates
   - document-release
@@ -46,10 +42,10 @@ The remarks add to pressure from lawmakers across party lines demanding fuller d
 
 Khanna has [publicly demanded transparency](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down) after high-profile resignations tied to the file releases. Rep. Thomas Massie has [clashed with Attorney General Pam Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) over redactions, while [Rep. Nancy Mace accused DOJ of concealing names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release).
 
-Since the Epstein Transparency Act took effect, at least six executives have resigned after being named in released documents, including figures at [Goldman Sachs](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) and [Dubai Ports](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed).
+Since the Epstein Transparency Act took effect, at least six executives have resigned after being named in released documents, including figures at Goldman Sachs and Dubai Ports.
 
-Congress has subpoenaed billionaire [Leslie Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) and [Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) to testify about their Epstein relationships.
+Congress has subpoenaed billionaire Leslie Wexner and Peter Mandelson to testify about their Epstein relationships.
 
 ## DOJ Resists Full Release
 
-Attorney General Pam Bondi has [resisted calls for complete unredacted release](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), citing ongoing investigations and privacy concerns.
+Attorney General Pam Bondi has resisted calls for complete unredacted release, citing ongoing investigations and privacy concerns.

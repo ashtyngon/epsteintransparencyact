@@ -14,15 +14,10 @@ people:
   - marjorie-taylor-greene
   - nancy-mace
 relatedArticles:
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
-  - epstein-transparency-act-signed-into-law
-  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - transparency-act
   - political
@@ -60,9 +55,9 @@ Massie said his safety concerns crystallized after a confrontation with **Attorn
 
 "At that point," Massie said, "I concluded the administration had undertaken a cover-up and had no intention of releasing these files."
 
-He has since threatened a ["nuclear option"](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) — using his Congressional speech and debate clause immunity to read redacted names into the public record on the House floor. Khanna [subsequently did exactly that](/news/2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down), reading six names from the House floor.
+He has since threatened a ["nuclear option"](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act) — using his Congressional speech and debate clause immunity to read redacted names into the public record on the House floor. Khanna subsequently did exactly that, reading six names from the House floor.
 
-[Bondi was grilled during Congressional testimony](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) about the redactions, while [critics accused the Trump DOJ of a deliberate cover-up](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions). [Trump himself called for ending the investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation), stating the matter had been "investigated enough."
+Bondi was grilled during Congressional testimony about the redactions, while critics accused the Trump DOJ of a deliberate cover-up. Trump himself called for ending the investigation, stating the matter had been "investigated enough."
 
 ## A Pattern of Safety Warnings
 
@@ -78,6 +73,6 @@ Massie is paying a political price for his persistence. **President Trump** has 
 
 He has refused to back down, telling reporters that the Epstein files are "bigger than Watergate" and that meeting with survivors of Epstein's trafficking network convinced him the stakes demand full transparency regardless of personal cost.
 
-The [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), which Massie co-authored with Khanna, passed the House **427 to 1** and the Senate unanimously before being signed into law on **November 19, 2025**. Despite the law's mandate, the DOJ has released documents with [extensive redactions that the FBI has defended](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted) as legally necessary — a position that Massie's unredacted review directly contradicts.
+The Epstein Transparency Act, which Massie co-authored with Khanna, passed the House **427 to 1** and the Senate unanimously before being signed into law on **November 19, 2025**. Despite the law's mandate, the DOJ has released documents with extensive redactions that the FBI has defended as legally necessary — a position that Massie's unredacted review directly contradicts.
 
 "It was not a hoax, I cannot be bullied, I am not done," Massie wrote on X, "and this is why those in power are doing everything in their power to defeat me."

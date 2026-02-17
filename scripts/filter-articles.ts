@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
@@ -8,9 +8,14 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
 const TOPICS_PATH = join(__dirname, 'config', 'article-topics.json');
+const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
 
 // Max articles to publish per run — with hourly runs, 3 is plenty
 const MAX_ARTICLES_TO_PUBLISH = 3;
+
+// Dedup thresholds
+const HEADLINE_SIMILARITY_THRESHOLD = 0.35; // Jaccard on significant words
+const PEOPLE_OVERLAP_FOR_DEDUP = 2; // Need 2+ shared people AND 1+ shared tag
 
 interface RSSItem {
   title: string;
@@ -32,6 +37,8 @@ interface FilterResult {
   tags: string[];
   mentionedPeople: string[];
   suggestedHeadline: string;
+  noveltyStatement: string;
+  isDuplicate?: boolean;
 }
 
 interface RelevantArticle extends RSSItem {
@@ -50,22 +57,273 @@ interface FeatureCandidate {
 interface ArticleTopic {
   slug: string;
   title: string;
+  summary?: string;
   topic: string;
   people: string[];
   tags: string[];
 }
 
-function loadExistingTopics(): string {
-  try {
-    if (!existsSync(TOPICS_PATH)) return '(No existing articles yet)';
-    const topics: ArticleTopic[] = JSON.parse(readFileSync(TOPICS_PATH, 'utf-8'));
-    return topics
-      .map((t) => `- "${t.title}" — ${t.topic}`)
-      .join('\n');
-  } catch {
-    return '(No existing articles yet)';
-  }
+interface ExistingArticle {
+  slug: string;
+  title: string;
+  summary: string;
+  novelty: string; // What specific new thing this article reported
+  people: string[];
+  tags: string[];
 }
+
+// ──────────────────────────────────────────────────
+// Text similarity utilities (shared with fetch-rss)
+// ──────────────────────────────────────────────────
+
+const STOP_WORDS = new Set([
+  'that', 'this', 'with', 'from', 'have', 'been', 'were', 'their',
+  'about', 'after', 'says', 'said', 'over', 'into', 'will', 'more',
+  'than', 'also', 'just', 'back', 'when', 'what', 'could', 'would',
+  'some', 'them', 'other', 'being', 'does', 'most', 'make', 'like',
+  'report', 'reports', 'news', 'former', 'amid', 'ties', 'linked',
+  'following', 'according', 'epstein', 'jeffrey', 'files', 'case',
+]);
+
+function getSignificantWords(text: string): string[] {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .split(' ')
+    .filter((w) => w.length > 3 && !STOP_WORDS.has(w));
+}
+
+function jaccardSimilarity(a: string[], b: string[]): number {
+  if (a.length === 0 && b.length === 0) return 0;
+  const setA = new Set(a);
+  const setB = new Set(b);
+  const intersection = a.filter((w) => setB.has(w));
+  const union = new Set([...setA, ...setB]);
+  return union.size > 0 ? intersection.length / union.size : 0;
+}
+
+// ──────────────────────────────────────────────────
+// Load existing articles for dedup comparison
+// ──────────────────────────────────────────────────
+
+function loadExistingArticles(): ExistingArticle[] {
+  const articles: ExistingArticle[] = [];
+
+  // Load from article-topics.json (pipeline's own record)
+  try {
+    if (existsSync(TOPICS_PATH)) {
+      const topics: ArticleTopic[] = JSON.parse(readFileSync(TOPICS_PATH, 'utf-8'));
+      for (const t of topics) {
+        articles.push({
+          slug: t.slug,
+          title: t.title,
+          summary: t.summary || t.topic || '',
+          novelty: (t as any).novelty || t.summary || t.topic || '',
+          people: t.people || [],
+          tags: t.tags || [],
+        });
+      }
+    }
+  } catch { /* continue without topics */ }
+
+  // Also scan actual article files to catch any not in topics file
+  try {
+    const files = readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md'));
+    const knownSlugs = new Set(articles.map((a) => a.slug));
+
+    for (const file of files) {
+      const slug = file.replace('.md', '');
+      if (knownSlugs.has(slug)) continue; // Already have it from topics
+
+      const content = readFileSync(join(ARTICLES_DIR, file), 'utf-8');
+      const titleMatch = content.match(/^title:\s*"(.+?)"/m);
+      const summaryMatch = content.match(/^summary:\s*"(.+?)"/m);
+
+      // Parse people array from frontmatter
+      const peopleSection = content.match(/^people:\n((?:\s+-\s+.+\n)*)/m);
+      const people = peopleSection
+        ? peopleSection[1].match(/^\s+-\s+(.+)/gm)?.map((l) => l.replace(/^\s+-\s+/, '').trim()) || []
+        : [];
+
+      // Parse tags array from frontmatter
+      const tagsSection = content.match(/^tags:\n((?:\s+-\s+.+\n)*)/m);
+      const tags = tagsSection
+        ? tagsSection[1].match(/^\s+-\s+(.+)/gm)?.map((l) => l.replace(/^\s+-\s+/, '').trim()) || []
+        : [];
+
+      if (titleMatch) {
+        articles.push({
+          slug,
+          title: titleMatch[1],
+          summary: summaryMatch?.[1] || '',
+          novelty: summaryMatch?.[1] || titleMatch[1], // Fallback for articles without novelty field
+          people,
+          tags,
+        });
+      }
+    }
+  } catch { /* continue without filesystem scan */ }
+
+  return articles;
+}
+
+function loadExistingTopicsForPrompt(articles: ExistingArticle[]): string {
+  if (articles.length === 0) return '(No existing articles yet)';
+  return articles
+    .map((a) => {
+      const people = a.people.slice(0, 4).join(', ');
+      const novelty = a.novelty || a.summary;
+      return `- "${a.title}" [${people}] → NEW: ${novelty.slice(0, 120)}`;
+    })
+    .join('\n');
+}
+
+// ──────────────────────────────────────────────────
+// HARD DEDUP GATE — programmatic similarity check
+// Runs AFTER AI scoring, catches what the AI misses
+// ──────────────────────────────────────────────────
+
+interface DedupResult {
+  isDuplicate: boolean;
+  matchedSlug?: string;
+  matchedTitle?: string;
+  reason?: string;
+  headlineSimilarity?: number;
+  peopleOverlap?: number;
+  tagOverlap?: number;
+}
+
+function hardDedupCheck(
+  candidate: RelevantArticle,
+  existingArticles: ExistingArticle[]
+): DedupResult {
+  const candidateHeadline = candidate.filterResult.suggestedHeadline || candidate.title;
+  const candidateNovelty = candidate.filterResult.noveltyStatement || '';
+  const candidateWords = getSignificantWords(candidateHeadline);
+  const candidateNoveltyWords = getSignificantWords(candidateNovelty);
+  const candidateDescWords = getSignificantWords(`${candidateHeadline} ${candidate.description.slice(0, 200)}`);
+  const candidatePeople = new Set(candidate.filterResult.mentionedPeople || []);
+  const candidateTags = new Set(candidate.filterResult.tags || []);
+
+  // PRIMARY CHECK: If the AI already flagged it as duplicate via novelty
+  if (candidateNovelty.toUpperCase().startsWith('DUPLICATE:')) {
+    return {
+      isDuplicate: true,
+      reason: `ai_novelty_dup: ${candidateNovelty.slice(0, 80)}`,
+    };
+  }
+
+  for (const existing of existingArticles) {
+    const existingWords = getSignificantWords(existing.title);
+    const existingNoveltyWords = getSignificantWords(existing.novelty || existing.summary);
+    const existingFullWords = getSignificantWords(`${existing.title} ${existing.summary.slice(0, 200)}`);
+    const existingPeople = new Set(existing.people || []);
+    const existingTags = new Set(existing.tags || []);
+
+    // People & tag overlap (used in multiple rules)
+    const peopleOverlap = [...candidatePeople].filter((p) => existingPeople.has(p)).length;
+    const tagOverlap = [...candidateTags].filter((t) => existingTags.has(t)).length;
+
+    // ── PRIMARY: Novelty statement similarity ──
+    // This is the most important check — "what's new" should be different
+    const noveltySim = jaccardSimilarity(candidateNoveltyWords, existingNoveltyWords);
+    if (noveltySim >= 0.45) {
+      return {
+        isDuplicate: true,
+        matchedSlug: existing.slug,
+        matchedTitle: existing.title,
+        reason: `novelty_sim=${noveltySim.toFixed(2)}`,
+        headlineSimilarity: jaccardSimilarity(candidateWords, existingWords),
+        peopleOverlap,
+        tagOverlap,
+      };
+    }
+
+    // Novelty overlap + same people = almost certainly same story
+    if (noveltySim >= 0.35 && peopleOverlap >= 2) {
+      return {
+        isDuplicate: true,
+        matchedSlug: existing.slug,
+        matchedTitle: existing.title,
+        reason: `novelty_sim=${noveltySim.toFixed(2)}+people=${peopleOverlap}`,
+        headlineSimilarity: jaccardSimilarity(candidateWords, existingWords),
+        peopleOverlap,
+        tagOverlap,
+      };
+    }
+
+    // ── SECONDARY: Headline similarity ──
+    const headlineSim = jaccardSimilarity(candidateWords, existingWords);
+
+    // Very high headline similarity alone = duplicate
+    if (headlineSim >= 0.50) {
+      return {
+        isDuplicate: true,
+        matchedSlug: existing.slug,
+        matchedTitle: existing.title,
+        reason: `headline_sim=${headlineSim.toFixed(2)}`,
+        headlineSimilarity: headlineSim,
+        peopleOverlap,
+        tagOverlap,
+      };
+    }
+
+    // ── TERTIARY: Full text + people combo ──
+    const fullTextSim = jaccardSimilarity(candidateDescWords, existingFullWords);
+    if (fullTextSim >= 0.45 && peopleOverlap >= 2) {
+      return {
+        isDuplicate: true,
+        matchedSlug: existing.slug,
+        matchedTitle: existing.title,
+        reason: `text_sim=${fullTextSim.toFixed(2)}+people=${peopleOverlap}`,
+        headlineSimilarity: headlineSim,
+        peopleOverlap,
+        tagOverlap,
+      };
+    }
+  }
+
+  return { isDuplicate: false };
+}
+
+// Also dedup candidates against EACH OTHER in the same batch
+function dedupWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
+  const kept: RelevantArticle[] = [];
+
+  for (const article of articles) {
+    const headline = article.filterResult.suggestedHeadline || article.title;
+    const words = getSignificantWords(headline);
+    const people = new Set(article.filterResult.mentionedPeople || []);
+
+    let isDup = false;
+    for (const existing of kept) {
+      const existingHeadline = existing.filterResult.suggestedHeadline || existing.title;
+      const existingWords = getSignificantWords(existingHeadline);
+      const existingPeople = new Set(existing.filterResult.mentionedPeople || []);
+
+      const sim = jaccardSimilarity(words, existingWords);
+      const peopleOverlap = [...people].filter((p) => existingPeople.has(p)).length;
+
+      if (sim >= 0.4 || (sim >= 0.3 && peopleOverlap >= 2)) {
+        console.log(`  DEDUP (batch): "${headline.slice(0, 50)}" ≈ "${existingHeadline.slice(0, 50)}" (sim=${sim.toFixed(2)}, people=${peopleOverlap})`);
+        isDup = true;
+        break;
+      }
+    }
+
+    if (!isDup) {
+      kept.push(article);
+    }
+  }
+
+  return kept;
+}
+
+// ──────────────────────────────────────────────────
+// Scoring & feature detection
+// ──────────────────────────────────────────────────
 
 function calculateRankScore(filter: FilterResult, item: RSSItem): number {
   const recencyHours = (Date.now() - new Date(item.pubDate).getTime()) / 3600000;
@@ -127,6 +385,10 @@ function detectFeatureCandidates(articles: RelevantArticle[]): FeatureCandidate[
     .slice(0, 1); // At most 1 feature per run
 }
 
+// ──────────────────────────────────────────────────
+// AI filter
+// ──────────────────────────────────────────────────
+
 async function filterArticle(
   client: Anthropic,
   item: RSSItem,
@@ -165,6 +427,10 @@ async function filterArticle(
   }
 }
 
+// ──────────────────────────────────────────────────
+// Main pipeline
+// ──────────────────────────────────────────────────
+
 async function main() {
   if (!existsSync(CANDIDATES_PATH)) {
     console.log('No candidates file found. Run fetch-rss.ts first.');
@@ -178,20 +444,39 @@ async function main() {
     return;
   }
 
+  // ── Step 1: Load all existing articles for dedup ──
+  const existingArticles = loadExistingArticles();
+  console.log(`Loaded ${existingArticles.length} existing articles for dedup comparison.\n`);
+
+  const existingTopics = loadExistingTopicsForPrompt(existingArticles);
   const client = new Anthropic();
   const scored: RelevantArticle[] = [];
-  const existingTopics = loadExistingTopics();
 
   console.log(`Filtering ${candidates.length} candidates with Claude Haiku...\n`);
 
+  // ── Step 2: AI filter each candidate ──
   for (const item of candidates) {
     const result = await filterArticle(client, item, existingTopics);
 
     if (!result || !result.relevant || result.confidence < 0.7) {
-      const isDup = (result as any)?.isDuplicate === true;
+      const isDup = result?.isDuplicate === true;
       const reason = !result ? 'no-result' : isDup ? 'duplicate' : (!result.relevant ? 'irrelevant' : 'low-conf');
       const conf = result?.confidence ?? 'N/A';
       console.log(`  SKIP (conf=${conf}, reason=${reason}): ${item.title.slice(0, 70)}`);
+      continue;
+    }
+
+    // AI said isDuplicate — trust it
+    if (result.isDuplicate) {
+      console.log(`  SKIP (AI: duplicate): ${item.title.slice(0, 60)}`);
+      console.log(`    novelty: ${result.noveltyStatement?.slice(0, 80) || 'N/A'}`);
+      continue;
+    }
+
+    // AI's noveltyStatement starts with DUPLICATE: — treat as duplicate
+    if (result.noveltyStatement?.toUpperCase().startsWith('DUPLICATE:')) {
+      console.log(`  SKIP (AI novelty=dup): ${item.title.slice(0, 60)}`);
+      console.log(`    ${result.noveltyStatement.slice(0, 80)}`);
       continue;
     }
 
@@ -204,11 +489,32 @@ async function main() {
     scored.push({ ...item, filterResult: result, rankScore });
   }
 
-  // Sort by rank score — best stories first
-  scored.sort((a, b) => b.rankScore - a.rankScore);
+  // ── Step 3: Hard dedup gate — programmatic check against existing articles ──
+  console.log(`\n--- Hard Dedup Gate ---`);
+  const afterDedup: RelevantArticle[] = [];
 
-  // Detect feature article opportunities
-  const featureCandidates = detectFeatureCandidates(scored);
+  for (const article of scored) {
+    const headline = article.filterResult.suggestedHeadline || article.title;
+    const check = hardDedupCheck(article, existingArticles);
+
+    if (check.isDuplicate) {
+      console.log(`  DEDUP BLOCKED: "${headline.slice(0, 55)}"`);
+      console.log(`    ≈ "${check.matchedTitle?.slice(0, 55)}" (${check.reason})`);
+    } else {
+      afterDedup.push(article);
+    }
+  }
+
+  // ── Step 4: Dedup within batch (catches same story from different sources) ──
+  const dedupedBatch = dedupWithinBatch(afterDedup);
+
+  console.log(`\nAfter hard dedup: ${scored.length} → ${afterDedup.length} → ${dedupedBatch.length} (AI pass → dedup vs existing → dedup within batch)`);
+
+  // Sort by rank score — best stories first
+  dedupedBatch.sort((a, b) => b.rankScore - a.rankScore);
+
+  // ── Step 5: Detect feature article opportunities ──
+  const featureCandidates = detectFeatureCandidates(dedupedBatch);
 
   let topStories: RelevantArticle[];
   if (featureCandidates.length > 0) {
@@ -221,16 +527,18 @@ async function main() {
     featureArticle.featureSources = feature.articles.slice(1);
 
     // Remaining slots go to non-feature articles
-    const nonFeatureArticles = scored.filter(
+    const nonFeatureArticles = dedupedBatch.filter(
       (a) => !feature.articles.includes(a)
     );
     topStories = [featureArticle, ...nonFeatureArticles.slice(0, MAX_ARTICLES_TO_PUBLISH - 1)];
   } else {
-    topStories = scored.slice(0, MAX_ARTICLES_TO_PUBLISH);
+    topStories = dedupedBatch.slice(0, MAX_ARTICLES_TO_PUBLISH);
   }
 
   console.log(`\n--- Filter Results ---`);
-  console.log(`Relevant found:    ${scored.length}`);
+  console.log(`Candidates:        ${candidates.length}`);
+  console.log(`AI passed:         ${scored.length}`);
+  console.log(`After dedup:       ${dedupedBatch.length}`);
   console.log(`Publishing top:    ${topStories.length}`);
 
   if (topStories.length > 0) {

@@ -10,12 +10,10 @@ people:
   - jeffrey-epstein
   - marjorie-taylor-greene
 relatedArticles:
-  - epstein-transparency-act-signed-into-law
+  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
-  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
-  - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
   - transparency-act
   - document-release
@@ -47,8 +45,8 @@ The law includes provisions for redacting information that could compromise ongo
 
 The list marks Bondi's third controversial Epstein file release in one week. The Attorney General faced [accusations of a cover-up over extensive redactions](/news/2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions) in the initial document dump, then was caught [monitoring which Democratic lawmakers searched the files](/news/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches).
 
-At a [February 13 congressional hearing](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release), Bondi defended the redaction policy but did not address document verification procedures.
+At a February 13 congressional hearing, Bondi defended the redaction policy but did not address document verification procedures.
 
-Days before the deceased-names list surfaced, [Rep. Marjorie Taylor Greene called the administration's Epstein file handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation) a "political miscalculation." [President Trump has called for ending the Epstein investigation](/news/2026-02-13-trump-calls-for-end-to-epstein-investigation) entirely.
+Days before the deceased-names list surfaced, Rep. Marjorie Taylor Greene called the administration's Epstein file handling a "political miscalculation." President Trump has called for ending the Epstein investigation entirely.
 
 The Department of Justice has not announced plans to issue a corrected list or explained how deceased individuals appeared on a roster of email correspondents.

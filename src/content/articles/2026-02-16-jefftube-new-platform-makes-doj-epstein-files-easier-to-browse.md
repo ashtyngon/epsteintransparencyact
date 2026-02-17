@@ -41,6 +41,6 @@ The DOJ [released video footage from Epstein's office](/news/2026-02-13-newly-re
 
 The video materials represent one component of millions of pages released following the Epstein Transparency Act. Attorney General Pam Bondi [stated the DOJ released "all" Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed) with full names listed.
 
-Lawmakers including Rep. Thomas Massie and Rep. Nancy Mace [accused the department of continuing to hide names through redactions](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release). The [New York Times launched a major investigation](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files) into the complete file release.
+Lawmakers including Rep. Thomas Massie and Rep. Nancy Mace [accused the department of continuing to hide names through redactions](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release). The New York Times launched a major investigation into the complete file release.
 
 JeffTube provides centralized access to the video portion of the DOJ disclosures.

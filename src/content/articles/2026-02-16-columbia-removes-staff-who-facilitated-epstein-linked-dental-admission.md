@@ -24,43 +24,6 @@ relatedArticles:
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
   - 2026-02-16-trump-gop-candidate-s-family-bought-epstein-s-abuse-ranch-for-13-4m
   - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
-  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
-  - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew
-  - 2026-02-14-indian-businessman-minister-guru-named-in-epstein-files
-  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
-  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
-  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
-  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
-  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
-  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
-  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
-  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show
-  - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
-  - 2026-02-15-leon-black-named-in-epstein-files-schools-cancel-photo-day
-  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
-  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
-  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
-  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
-  - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
-  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
-  - 2026-02-14-ohio-politicians-received-campaign-funds-from-wexner
-  - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
-  - 2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability
-  - 2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability
-  - 2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse
-  - 2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak
-  - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
-  - court-releases-new-batch-of-documents
-  - 2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations
-  - 2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die
-  - 2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency
-  - 2026-02-14-fbi-holds-thousands-of-files-on-detroit-millionaire-s-secret-island-operation
 tags:
   - document-release
   - associates
@@ -101,7 +64,7 @@ Earlier reporting showed Huffines [owned Epstein's Zorro Ranch](/news/2026-02-16
 
 **Steve Bannon** maintained a "seemingly chummy relationship" with Epstein that extended beyond a single 2018 interview, according to text messages and communications released by the Department of Justice. The messages show Bannon stayed in contact with the convicted sex offender during a period when Epstein sought to rehabilitate his public image.
 
-According to the New York Times, the communications indicate Bannon and Epstein exchanged messages about various topics, including discussions about [taking down Pope Francis](/news/2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files). Bannon has said publicly that he maintained contact with Epstein "in the name of getting Mr. Epstein to open up," suggesting he was cultivating Epstein as a source.
+According to the New York Times, the communications indicate Bannon and Epstein exchanged messages about various topics, including discussions about taking down Pope Francis. Bannon has said publicly that he maintained contact with Epstein "in the name of getting Mr. Epstein to open up," suggesting he was cultivating Epstein as a source.
 
 The documents do not indicate Bannon had knowledge of or participated in any criminal activity. However, the messages show Bannon continued engaging with Epstein years after his 2008 guilty plea to soliciting prostitution from a minor.
 
@@ -111,17 +74,17 @@ Bannon currently hosts a podcast popular with MAGA supporters. He has not provid
 
 At least five countries have launched or expanded investigations into Epstein's connections with their nationals, according to reporting by The Independent. **France**, the **United Kingdom**, and **India** have each taken formal investigative steps in response to the document release.
 
-French prosecutors confirmed they are [investigating a diplomat named in the files](/news/2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe). France previously [set up a special team to review Epstein files for French nationals](/news/2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals).
+French prosecutors confirmed they are investigating a diplomat named in the files. France previously set up a special team to review Epstein files for French nationals.
 
-UK authorities established a [national task force for Epstein trafficking allegations](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations), with the country's top prosecutor stating ["nobody is above the law"](/news/2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew) as police investigate **Prince Andrew**.
+UK authorities established a national task force for Epstein trafficking allegations, with the country's top prosecutor stating "nobody is above the law" as police investigate **Prince Andrew**.
 
-India confirmed an [Indian businessman, minister, and guru were named in the files](/news/2026-02-14-indian-businessman-minister-guru-named-in-epstein-files), prompting questions in the country's parliament.
+India confirmed an Indian businessman, minister, and guru were named in the files, prompting questions in the country's parliament.
 
 The international scope reflects Epstein's documented travels and connections across multiple continents. Flight logs and email records show regular international travel, with contacts spanning diplomatic, business, and cultural sectors.
 
 ## UK Lobbying System Under Scrutiny
 
-**Transparency International UK** issued an analysis of emails between **Peter Mandelson** and Epstein, questioning what they reveal about Britain's lobbying regulations. The organization, which focuses on corruption and transparency issues, examined the communications following [Congress's subpoena of Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe).
+**Transparency International UK** issued an analysis of emails between **Peter Mandelson** and Epstein, questioning what they reveal about Britain's lobbying regulations. The organization, which focuses on corruption and transparency issues, examined the communications following Congress's subpoena of Mandelson.
 
 The organization's analysis focused on disclosure requirements and oversight mechanisms for individuals who maintain relationships with convicted criminals while holding or seeking public positions. Mandelson served as UK Business Secretary and European Trade Commissioner, and was recently appointed UK Ambassador to the United States.
 
@@ -131,55 +94,55 @@ The Transparency International report did not accuse Mandelson of wrongdoing but
 
 The Epstein files release, while substantial, contains fewer documents than major financial leak investigations, according to an analysis by The Sunday Guardian. The publication compared the Epstein document trove to the **Panama Papers**, **Paradise Papers**, and **Pandora Papers** — all of which contained millions of financial documents.
 
-The DOJ has released what it claims are all relevant Epstein files, though analysis showed the department [released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) when measured against the full investigative record. Attorney General **Pam Bondi** has [defended the release as complete](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more), while lawmakers including **Rep. Nancy Mace** and **Rep. Thomas Massie** have accused the department of withholding documents.
+The DOJ has released what it claims are all relevant Epstein files, though analysis showed the department released only 2% of Epstein files when measured against the full investigative record. Attorney General **Pam Bondi** has defended the release as complete, while lawmakers including **Rep. Nancy Mace** and **Rep. Thomas Massie** have accused the department of withholding documents.
 
-The comparison highlights questions about document completeness that have dominated Congressional oversight hearings. Bondi provided a [list of 300 names](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release) from the files but faced criticism for [including dead celebrities](/news/2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list), which lawmakers said ["mudded" the list](/news/2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities).
+The comparison highlights questions about document completeness that have dominated Congressional oversight hearings. Bondi provided a list of 300 names from the files but faced criticism for including dead celebrities, which lawmakers said "mudded" the list.
 
 ## Academic and Business Fallout
 
 The Columbia discipline follows a pattern of institutional responses to Epstein connections. Multiple organizations have taken action against individuals named in the files:
 
-**Goldman Sachs** saw its [top lawyer resign after being named](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files). Dubai's ports chief [resigned after hundreds of secret emails were exposed](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed). **Casey Wasserman** [sold his agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) and [exited as Olympic chief](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) after Maxwell emails became public.
+**Goldman Sachs** saw its top lawyer resign after being named. Dubai's ports chief resigned after hundreds of secret emails were exposed. **Casey Wasserman** sold his agency and exited as Olympic chief after Maxwell emails became public.
 
-Academic institutions have faced particular scrutiny. Documents revealed Epstein [used Nobel Prize access to lure his elite network](/news/2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show), with [Nobel chief Thorbjørn Jagland receiving gifts from Epstein](/news/2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal).
+Academic institutions have faced particular scrutiny. Documents revealed Epstein used Nobel Prize access to lure his elite network, with Nobel chief Thorbjørn Jagland receiving gifts from Epstein.
 
-**Leon Black**, the billionaire investor who paid Epstein $158 million for tax advice, saw [schools cancel photo day](/news/2026-02-15-leon-black-named-in-epstein-files-schools-cancel-photo-day) after his name appeared in files.
+**Leon Black**, the billionaire investor who paid Epstein $158 million for tax advice, saw schools cancel photo day after his name appeared in files.
 
 ## Congressional Pressure Continues
 
-Multiple lawmakers continue pressing for additional disclosures. Rep. Mace [demands unredacted co-conspirator files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files). Rep. **Ro Khanna** stated Epstein's network ["knew enough to know better"](/news/2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better).
+Multiple lawmakers continue pressing for additional disclosures. Rep. Mace demands unredacted co-conspirator files. Rep. **Ro Khanna** stated Epstein's network "knew enough to know better".
 
-Massie, one of the most vocal critics of the DOJ's handling of the files, said Bondi [avoided eye contact with Epstein survivors at a hearing](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) and declared he has [lost confidence in the attorney general](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash). He previously stated ["I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted around the files.
+Massie, one of the most vocal critics of the DOJ's handling of the files, said Bondi avoided eye contact with Epstein survivors at a hearing and declared he has lost confidence in the attorney general. He previously stated "I am not suicidal" as pressure mounted around the files.
 
-Even some Trump allies have criticized the administration's handling. **Rep. Marjorie Taylor Greene** called the file handling a ["political miscalculation"](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation).
+Even some Trump allies have criticized the administration's handling. **Rep. Marjorie Taylor Greene** called the file handling a "political miscalculation".
 
-Congress has issued subpoenas to multiple individuals, including [billionaire Les Wexner](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties). Wexner's political donations have drawn attention, with reporting showing [Ohio politicians received campaign funds from Wexner](/news/2026-02-14-ohio-politicians-received-campaign-funds-from-wexner).
+Congress has issued subpoenas to multiple individuals, including billionaire Les Wexner. Wexner's political donations have drawn attention, with reporting showing Ohio politicians received campaign funds from Wexner.
 
 ## Banking and Corporate Liability
 
-A federal court [allowed a Bank of America Epstein trafficking lawsuit to proceed](/news/2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed), opening potential corporate liability for institutions that maintained banking relationships with Epstein's enterprises.
+A federal court allowed a Bank of America Epstein trafficking lawsuit to proceed, opening potential corporate liability for institutions that maintained banking relationships with Epstein's enterprises.
 
 The ruling could set precedent for other financial institutions. Documents show Epstein maintained relationships with major banks despite his conviction and registered sex offender status.
 
-**Commerce Secretary Howard Lutnick's** Epstein ties have become a [GOP liability](/news/2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability), with GOP senators viewing his contacts as a [political problem](/news/2026-02-15-gop-senators-view-lutnick-s-epstein-contacts-as-political-liability).
+**Commerce Secretary Howard Lutnick's** Epstein ties have become a GOP liability, with GOP senators viewing his contacts as a political problem.
 
 ## Public Access and Documentation
 
-A new platform called [JeffTube makes DOJ Epstein files easier to browse](/news/2026-02-16-jefftube-new-platform-makes-doj-epstein-files-easier-to-browse), improving public access to the document trove. The files have [spread across social media in a viral leak](/news/2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak).
+A new platform called JeffTube makes DOJ Epstein files easier to browse, improving public access to the document trove. The files have spread across social media in a viral leak.
 
-The **New York Times** has [launched a major investigation into millions of Epstein files](/news/2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files), with reporters analyzing communications, flight logs, and financial records.
+The **New York Times** has launched a major investigation into millions of Epstein files, with reporters analyzing communications, flight logs, and financial records.
 
-[Court releases continue](/news/court-releases-new-batch-of-documents), with new batches of documents emerging from ongoing civil litigation separate from the DOJ release.
+Court releases continue, with new batches of documents emerging from ongoing civil litigation separate from the DOJ release.
 
-Some experts have warned that [raw file release could harm ongoing investigations](/news/2026-02-14-expert-warns-raw-epstein-file-release-could-harm-ongoing-investigations), creating tension between transparency demands and prosecutorial considerations.
+Some experts have warned that raw file release could harm ongoing investigations, creating tension between transparency demands and prosecutorial considerations.
 
 ## Survivor Testimony
 
-**Juliette Bryant**, an Epstein survivor, told media ["I thought I was going to die"](/news/2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die) in describing abuse. Her testimony came as survivors attended Congressional hearings on the file release.
+**Juliette Bryant**, an Epstein survivor, told media "I thought I was going to die" in describing abuse. Her testimony came as survivors attended Congressional hearings on the file release.
 
-**Ghislaine Maxwell**, currently serving a 20-year sentence for sex trafficking, has [offered to reveal "truth" in exchange for clemency](/news/2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency). Federal prosecutors have not responded publicly to the offer.
+**Ghislaine Maxwell**, currently serving a 20-year sentence for sex trafficking, has offered to reveal "truth" in exchange for clemency. Federal prosecutors have not responded publicly to the offer.
 
-The FBI holds [thousands of files on a Detroit millionaire's secret island operation](/news/2026-02-14-fbi-holds-thousands-of-files-on-detroit-millionaire-s-secret-island-operation) connected to the Epstein network, according to reporting, though those files remain separate from the main DOJ release.
+The FBI holds thousands of files on a Detroit millionaire's secret island operation connected to the Epstein network, according to reporting, though those files remain separate from the main DOJ release.
 
 ## Next Steps
 

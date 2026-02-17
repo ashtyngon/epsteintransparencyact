@@ -14,11 +14,6 @@ relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
   - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
-  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
-  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
-  - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
-  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
-  - epstein-transparency-act-signed-into-law
 tags:
   - testimony
   - survivors
@@ -39,10 +34,10 @@ The Kentucky Republican has become one of the most vocal critics of the Justice 
 
 ## Clash Over File Releases
 
-Bondi has [defended the Justice Department's document releases](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed), telling Congress the DOJ released "all" Epstein files with full names listed. She provided a list of approximately [300 individuals](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release) named in the documents.
+Bondi has [defended the Justice Department's document releases](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed), telling Congress the DOJ released "all" Epstein files with full names listed. She provided a list of approximately 300 individuals named in the documents.
 
-Members of Congress accused Bondi of ["mudding" the list](/news/2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities) by including [dead celebrities](/news/2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list) alongside individuals potentially connected to criminal activity.
+Members of Congress accused Bondi of "mudding" the list by including dead celebrities alongside individuals potentially connected to criminal activity.
 
-Massie has [criticized the Trump DOJ](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) for maintaining extensive redactions in released materials. Rep. Nancy Mace separately [accused the DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release) in the document release.
+Massie has criticized the Trump DOJ for maintaining extensive redactions in released materials. Rep. Nancy Mace separately accused the DOJ of hiding names in the document release.
 
-The tension follows passage of the [Epstein Transparency Act](/news/epstein-transparency-act-signed-into-law), which mandated release of government records related to the case.
+The tension follows passage of the Epstein Transparency Act, which mandated release of government records related to the case.

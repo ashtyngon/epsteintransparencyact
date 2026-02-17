@@ -9,12 +9,10 @@ people:
   - pam-bondi
   - peter-mandelson
 relatedArticles:
-  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
-  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
-  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
 tags:
   - investigation
   - associates
@@ -39,6 +37,6 @@ The complaints stem from documents released under U.S. legislation passed last y
 
 The French action follows other European responses to the document release. [Dubai's ports chief resigned](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails surfaced. [UK police launched a national task force](/news/2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations) to investigate trafficking allegations.
 
-Congress [subpoenaed British diplomat Peter Mandelson](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) over his documented meetings with Epstein.
+Congress subpoenaed British diplomat Peter Mandelson over his documented meetings with Epstein.
 
-In the United States, Attorney General Pam Bondi has [resisted calls to release unredacted versions](/news/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release) of the documents. The FBI [released files with significant portions redacted](/news/2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted), citing ongoing investigations and privacy concerns.
+In the United States, Attorney General Pam Bondi has resisted calls to release unredacted versions of the documents. The FBI released files with significant portions redacted, citing ongoing investigations and privacy concerns.
