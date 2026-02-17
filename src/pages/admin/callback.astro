@@ -16,40 +16,17 @@ const repo = cfEnv.GITHUB_REPO;
 const kv = cfEnv.ADMIN_SESSIONS;
 
 let error = '';
-let debugSteps: string[] = [];
 
-debugSteps.push(`clientId: ${clientId ? clientId.slice(0, 6) + '...' : 'EMPTY'}`);
-debugSteps.push(`clientSecret: ${clientSecret ? clientSecret.slice(0, 4) + '...' : 'EMPTY'}`);
-debugSteps.push(`code: ${code ? code.slice(0, 6) + '...' : 'EMPTY'}`);
-
-// Exchange code for token — inline for better error reporting
-let token: string | null = null;
-try {
-  const tokenRes = await fetch('https://github.com/login/oauth/access_token', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-    body: JSON.stringify({ client_id: clientId, client_secret: clientSecret, code }),
-  });
-  const tokenData = await tokenRes.json() as any;
-  token = tokenData.access_token || null;
-  debugSteps.push(`token exchange status: ${tokenRes.status}`);
-  debugSteps.push(`token received: ${token ? 'yes' : 'no'}`);
-  if (tokenData.error) {
-    debugSteps.push(`github error: ${tokenData.error} — ${tokenData.error_description || ''}`);
-  }
-} catch (e: any) {
-  debugSteps.push(`token exchange threw: ${e.message}`);
-}
-
+// Exchange code for token
+const token = await exchangeCodeForToken(code, clientId, clientSecret);
 if (!token) {
-  error = 'Failed to authenticate with GitHub.';
+  error = 'Failed to authenticate with GitHub. Please try again.';
 }
 
 // Get user info
 let user = null;
 if (token) {
   user = await getGitHubUser(token);
-  debugSteps.push(`user info: ${user ? user.login : 'FAILED'}`);
   if (!user) {
     error = 'Failed to get user information from GitHub.';
   }
@@ -99,9 +76,6 @@ if (token && user && !error && !kv && import.meta.env.DEV) {
   <div class="card">
     <h1>Authentication Error</h1>
     <p>{error || 'An unknown error occurred.'}</p>
-    <p style="font-size: 11px; color: #475569; text-align: left; margin-top: 16px; word-break: break-all;">
-      {debugSteps.map(s => <span>{s}<br/></span>)}
-    </p>
     <a href="/admin/login/">Try again</a>
   </div>
 </body>

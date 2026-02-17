@@ -2,12 +2,24 @@
 export const prerender = false;
 
 import AdminLayout from '../../components/admin/AdminLayout.astro';
-import { listContentFiles, getWorkflowRuns } from '../../lib/github';
+import { listContentFiles, getWorkflowRuns, triggerWorkflow } from '../../lib/github';
+import { getEnv } from '../../lib/env';
 
 const user = (Astro.locals as any).user;
-const runtime = (Astro.locals as any).runtime;
-const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const cfEnv = getEnv(Astro.locals);
+const repo = cfEnv.GITHUB_REPO;
 const token = user?.githubToken || '';
+
+let pipelineMessage = '';
+
+// Handle trigger pipeline POST
+if (Astro.request.method === 'POST') {
+  const formData = await Astro.request.formData();
+  if (formData.get('_action') === 'trigger-pipeline') {
+    const ok = await triggerWorkflow(token, repo);
+    pipelineMessage = ok ? 'Pipeline triggered successfully.' : 'Failed to trigger pipeline.';
+  }
+}
 
 // Fetch counts in parallel
 const [articles, people, timeline, runs] = await Promise.all([
@@ -39,6 +51,8 @@ const recentRuns = runs.slice(0, 5).map((run: any) => ({
 ---
 
 <AdminLayout title="Dashboard" activeNav="Dashboard">
+  {pipelineMessage && <div class={`alert ${pipelineMessage.includes('success') ? 'alert-success' : 'alert-error'}`}>{pipelineMessage}</div>}
+
   <!-- Stats -->
   <div class="grid-4 mb-6">
     <div class="card stat-card">
@@ -64,7 +78,8 @@ const recentRuns = runs.slice(0, 5).map((run: any) => ({
     <a href="/admin/review/" class="btn btn-primary">Review Queue</a>
     <a href="/admin/articles/new/" class="btn btn-secondary">New Article</a>
     <a href="/admin/people/new/" class="btn btn-secondary">New Person</a>
-    <form method="POST" action="/admin/api/trigger-pipeline/" style="display:inline;">
+    <form method="POST" style="display:inline;">
+      <input type="hidden" name="_action" value="trigger-pipeline" />
       <button type="submit" class="btn btn-secondary">Trigger Pipeline</button>
     </form>
   </div>

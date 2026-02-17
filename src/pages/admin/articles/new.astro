@@ -3,10 +3,11 @@ export const prerender = false;
 
 import AdminLayout from '../../../components/admin/AdminLayout.astro';
 import { createFile, buildMarkdownContent } from '../../../lib/github';
+import { getEnv } from '../../../lib/env';
 
 const user = (Astro.locals as any).user;
-const runtime = (Astro.locals as any).runtime;
-const repo = runtime?.env?.GITHUB_REPO || import.meta.env.GITHUB_REPO || 'ashtyngon/epsteintransparencyact';
+const cfEnv = getEnv(Astro.locals);
+const repo = cfEnv.GITHUB_REPO;
 const token = user?.githubToken || '';
 
 let message = '';

@@ -35,6 +35,7 @@ function headers(token: string) {
     Authorization: `Bearer ${token}`,
     Accept: 'application/vnd.github.v3+json',
     'X-GitHub-Api-Version': '2022-11-28',
+    'User-Agent': 'EpsteinTransparencyCMS/1.0',
   };
 }
 
