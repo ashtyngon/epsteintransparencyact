@@ -1,12 +1,17 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
+// CMS writes '' for optional fields left blank — treat empty strings as undefined
+const emptyToUndefined = z.literal('').transform(() => undefined);
+const optionalDate = z.union([emptyToUndefined, z.coerce.date()]).optional();
+const optionalString = z.union([emptyToUndefined, z.string()]).optional();
+
 const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
     title: z.string(),
     publishedAt: z.coerce.date(),
-    updatedAt: z.coerce.date().optional(),
+    updatedAt: optionalDate,
     source: z.string(),
     sourceUrl: z.string().url(),
     summary: z.string(),
@@ -16,10 +21,10 @@ const articles = defineCollection({
     status: z.enum(['published', 'draft', 'review', 'unpublished']).default('published'),
     aiGenerated: z.boolean().default(true),
     articleType: z.enum(['news', 'feature', 'analysis']).default('news'),
-    reviewedBy: z.string().optional(),
-    reviewedAt: z.coerce.date().optional(),
+    reviewedBy: optionalString,
+    reviewedAt: optionalDate,
     confidence: z.number().min(0).max(1).optional(),
-    image: z.string().optional(),
+    image: optionalString,
     keyTakeaways: z.array(z.string()).default([]),
   }),
 });
@@ -28,8 +33,8 @@ const people = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/people' }),
   schema: z.object({
     name: z.string(),
-    seoTitle: z.string().optional(),
-    seoDescription: z.string().optional(),
+    seoTitle: optionalString,
+    seoDescription: optionalString,
     aliases: z.array(z.string()).default([]),
     role: z.string(),
     category: z.enum([
@@ -43,8 +48,8 @@ const people = defineCollection({
     ]),
     shortBio: z.string(),
     notableConnections: z.array(z.string()).default([]),
-    firstMentionedDate: z.coerce.date().optional(),
-    image: z.string().optional(),
+    firstMentionedDate: optionalDate,
+    image: optionalString,
     sources: z
       .array(
         z.object({
@@ -62,7 +67,7 @@ const timeline = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
-    endDate: z.coerce.date().optional(),
+    endDate: optionalDate,
     era: z
       .enum([
         'origins',
@@ -85,8 +90,8 @@ const timeline = defineCollection({
       'other',
     ]),
     summary: z.string(),
-    image: z.string().optional(),
-    imageCaption: z.string().optional(),
+    image: optionalString,
+    imageCaption: optionalString,
     significance: z.enum(['major', 'standard', 'minor']).default('standard'),
     people: z.array(z.string()).default([]),
     relatedArticles: z.array(z.string()).default([]),
@@ -109,12 +114,12 @@ const survivors = defineCollection({
     title: z.string(),
     publishedAt: z.coerce.date(),
     type: z.enum(['statement', 'coverage', 'profile', 'resource']),
-    source: z.string().optional(),
+    source: optionalString,
     sourceUrl: z.string().url().optional(),
-    contentWarning: z.string().optional(),
+    contentWarning: optionalString,
     anonymous: z.boolean().default(false),
-    image: z.string().optional(),
-    imageCaption: z.string().optional(),
+    image: optionalString,
+    imageCaption: optionalString,
     people: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
   }),
