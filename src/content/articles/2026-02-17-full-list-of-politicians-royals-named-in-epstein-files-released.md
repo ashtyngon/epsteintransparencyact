@@ -17,7 +17,7 @@ people:
   - nancy-mace
 relatedArticles:
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
-  - 2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links
+  - 2026-02-17-hyatt-billionaire-thomas-pritzker-resigns-over-epstein-ties
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
@@ -40,7 +40,7 @@ At least 12 prominent figures across business, politics, and international insti
 
 Casey Wasserman, chairman of the 2028 Los Angeles Olympics organizing committee, announced his exit from the sports marketing firm he founded after emails revealed [his communications with Ghislaine Maxwell](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations). Los Angeles Mayor Karen Bass has called for Wasserman to step down from his Olympic leadership role as well.
 
-Tom Pritzker, chairman of Hyatt Hotels and heir to the Pritzker fortune, [resigned from his position](/news/2026-02-16-hyatt-heir-tom-pritzker-steps-down-over-epstein-contact-links) after his contact information appeared in the released documents. Pritzker did not issue a public statement about his connection to Epstein.
+Tom Pritzker, chairman of Hyatt Hotels and heir to the Pritzker fortune, [resigned from his position](/news/2026-02-17-hyatt-billionaire-thomas-pritzker-resigns-over-epstein-ties) after his contact information appeared in the released documents. Pritzker did not issue a public statement about his connection to Epstein.
 
 ## Corporate and Legal Departures
 

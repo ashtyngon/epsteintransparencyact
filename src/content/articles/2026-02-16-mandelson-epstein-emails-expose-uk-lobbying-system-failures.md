@@ -19,7 +19,7 @@ people:
   - ro-khanna
   - thomas-massie
 relatedArticles:
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
   - 2026-02-17-clinton-accuses-trump-doj-of-epstein-files-cover-up-in-bbc-interview
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
@@ -36,7 +36,7 @@ confidence: 0.92
 
 **President Donald Trump** denied connections to convicted sex offender **Jeffrey Epstein** in a statement released February 17, declaring he has "nothing to hide" regarding the released files. The denial comes as international investigations expand across multiple continents and U.S. lawmakers from both parties question the scope of document releases from the Department of Justice.
 
-Trump's statement, reported by Open Magazine, marks his latest public response to the Epstein files controversy. The timing coincides with [Attorney General Pam Bondi's claim](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed) that DOJ released "all" Epstein files, a statement that [independent analysis suggests released only 2% of available documents](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows).
+Trump's statement, reported by Open Magazine, marks his latest public response to the Epstein files controversy. The timing coincides with [Attorney General Pam Bondi's claim](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) that DOJ released "all" Epstein files, a statement that [independent analysis suggests released only 2% of available documents](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows).
 
 [Former President Bill Clinton accused the Trump DOJ of a cover-up](/news/2026-02-17-clinton-accuses-trump-doj-of-epstein-files-cover-up-in-bbc-interview) in a BBC interview last week. Trump's denial comes days after that allegation.
 

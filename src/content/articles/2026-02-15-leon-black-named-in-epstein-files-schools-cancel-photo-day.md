@@ -10,7 +10,7 @@ people:
   - ghislaine-maxwell
   - jeffrey-epstein
 relatedArticles:
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
@@ -34,7 +34,7 @@ Black is the founder of Apollo Global Management. Schools terminated contracts w
 
 ## Pattern of Professional Fallout
 
-The cancellations mark the latest professional consequence for figures named in the files. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) after emails with Ghislaine Maxwell surfaced. A [Dubai ports executive stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails were exposed.
+The cancellations mark the latest professional consequence for figures named in the files. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. [Casey Wasserman sold his talent agency](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) after emails with Ghislaine Maxwell surfaced. A [Dubai ports executive stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails were exposed.
 
 ## Educational Institutions Respond
 

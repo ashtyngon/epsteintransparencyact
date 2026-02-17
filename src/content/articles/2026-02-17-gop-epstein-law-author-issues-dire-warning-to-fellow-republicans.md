@@ -18,7 +18,6 @@ people:
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
-  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
 tags:
   - political
@@ -45,7 +44,7 @@ Massie made the statement after a House Judiciary Committee hearing where Attorn
 
 The congressman's prediction comes as he has publicly broken with the Trump administration over the file release. Massie [criticized what he called excessive redactions](/news/2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions) in documents released by the DOJ, saying thousands of names remain blacked out despite the transparency law's mandate.
 
-He attended the February 13 hearing with survivors of Epstein's abuse. Massie later said Bondi ["avoided eye contact" with the survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) during her testimony. He subsequently said he had lost confidence in the attorney general over the file release handling.
+He attended the February 13 hearing with survivors of Epstein's abuse. Massie later said Bondi ["avoided eye contact" with the survivors](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) during her testimony. He subsequently said he had lost confidence in the attorney general over the file release handling.
 
 An independent analysis found the DOJ released only 2% of Epstein files in its possession. Massie declared "I am not suicidal" in a public statement as pressure mounted around the file release.
 

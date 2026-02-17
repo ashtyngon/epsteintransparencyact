@@ -17,8 +17,7 @@ people:
   - thomas-massie
 relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
-  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
 tags:
   - transparency-act
@@ -39,9 +38,9 @@ Rep. Nancy Mace called for complete transparency in the Epstein files and propos
 
 ## Congressional Pressure Intensifies
 
-Mace joins a growing list of lawmakers challenging the Justice Department's handling of Epstein-related records. Rep. Thomas Massie has [publicly stated he has lost confidence](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) in Attorney General Pam Bondi's leadership over the files issue. During congressional testimony, Massie [accused Bondi of avoiding eye contact](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing) with Epstein survivors.
+Mace joins a growing list of lawmakers challenging the Justice Department's handling of Epstein-related records. Rep. Thomas Massie has [publicly stated he has lost confidence](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) in Attorney General Pam Bondi's leadership over the files issue. During congressional testimony, Massie [accused Bondi of avoiding eye contact](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) with Epstein survivors.
 
-Rep. Ro Khanna has [demanded the DOJ "stop protecting predators"](/news/2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators) and called for unredacted documents. Mace previously accused the DOJ of hiding names in the files release.
+Rep. Ro Khanna has [demanded the DOJ "stop protecting predators"](/news/2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better) and called for unredacted documents. Mace previously accused the DOJ of hiding names in the files release.
 
 Attorney General Bondi has stated the department released "all" Epstein files and provided a list of 300 names. A recent analysis found the Trump DOJ released only 2% of Epstein files.
 

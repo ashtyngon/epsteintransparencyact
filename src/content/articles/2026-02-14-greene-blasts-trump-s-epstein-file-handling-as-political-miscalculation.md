@@ -18,7 +18,7 @@ people:
   - peter-mandelson
 relatedArticles:
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
 tags:

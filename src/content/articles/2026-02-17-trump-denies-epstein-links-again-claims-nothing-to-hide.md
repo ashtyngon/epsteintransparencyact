@@ -16,7 +16,6 @@ people:
 relatedArticles:
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
 tags:
   - political
@@ -49,7 +48,7 @@ Epstein was convicted of soliciting prostitution from a minor in 2008. He died i
 
 Trump's comments follow sustained criticism of Attorney General Pam Bondi's handling of Epstein files. An independent analysis found the DOJ [released only 2% of Epstein-related files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) in its recent document dump, despite Bondi's claims the department released "all" materials.
 
-Rep. Thomas Massie, a Kentucky Republican, [said he lost confidence in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after a congressional hearing where he said she [avoided eye contact with Epstein survivors](/news/2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing). Rep. Nancy Mace of South Carolina accused the DOJ of "hiding names" through redactions that obscure alleged perpetrators while removing victim identities.
+Rep. Thomas Massie, a Kentucky Republican, [said he lost confidence in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after a congressional hearing where he said she [avoided eye contact with Epstein survivors](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash). Rep. Nancy Mace of South Carolina accused the DOJ of "hiding names" through redactions that obscure alleged perpetrators while removing victim identities.
 
 Rep. Ro Khanna, a California Democrat, told the DOJ to "stop protecting predators" and release unredacted files.
 

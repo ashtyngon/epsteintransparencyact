@@ -19,10 +19,9 @@ people:
   - ro-khanna
   - thomas-massie
 relatedArticles:
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
-  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
 tags:
   - associates
   - document-release
@@ -41,7 +40,7 @@ The development comes as former Secretary of State **Hillary Clinton** accused t
 
 ## Olympic Leadership Under Fire
 
-Wasserman [previously stepped down](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) from his sports and entertainment agency after the Maxwell email revelations surfaced. The agency sale followed his departure as an [Olympic organizing committee leader](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations), which documented hundreds of contacts between Wasserman's circle and Epstein's operation.
+Wasserman [previously stepped down](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) from his sports and entertainment agency after the Maxwell email revelations surfaced. The agency sale followed his departure as an [Olympic organizing committee leader](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations), which documented hundreds of contacts between Wasserman's circle and Epstein's operation.
 
 Mayor Bass's statement represents the first direct political pressure from Los Angeles civic leadership to remove Wasserman from his remaining Olympic role. The 2028 Los Angeles Games organizing committee has not yet responded publicly to the mayor's demand.
 

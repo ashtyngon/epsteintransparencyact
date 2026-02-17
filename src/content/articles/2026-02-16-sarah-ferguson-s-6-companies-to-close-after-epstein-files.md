@@ -17,8 +17,8 @@ people:
 relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
-  - 2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties
-  - 2026-02-16-epstein-files-trigger-global-resignations-new-investigations
+  - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
+  - 2026-02-16-global-investigations-into-epstein-s-international-network-expand
 tags:
   - document-release
   - associates
@@ -41,7 +41,7 @@ The applications were submitted last month, shortly after the document release e
 
 ## Corporate Shutdowns Follow Document Release
 
-The Ferguson company closures mark the latest in a series of corporate consequences triggered by the document release. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. [Dubai Ports chief stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails were made public. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-agency-after-epstein-files-expose-ties) after documents exposed his connections to Epstein's network.
+The Ferguson company closures mark the latest in a series of corporate consequences triggered by the document release. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in the files. [Dubai Ports chief stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails were made public. [Casey Wasserman sold his talent agency](/news/2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations) after documents exposed his connections to Epstein's network.
 
 Multiple corporate and political figures have faced consequences since the release, including Hyatt heir Tom Pritzker, who stepped down over contact links revealed in the files.
 

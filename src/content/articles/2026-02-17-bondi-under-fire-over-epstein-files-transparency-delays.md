@@ -15,7 +15,7 @@ people:
   - ro-khanna
   - thomas-massie
 relatedArticles:
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
   - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
@@ -37,7 +37,7 @@ confidence: 0.85
 
 Attorney General Pam Bondi defended the Justice Department's release of Epstein-related documents on February 17 while facing accusations from multiple members of Congress that the agency withheld the majority of files it holds.
 
-Bondi told reporters the DOJ [released "all" Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed) in its possession and [provided a list of 300 names](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release). But an independent analysis found the Trump Justice Department [released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) held by federal agencies.
+Bondi told reporters the DOJ [released "all" Epstein files](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) in its possession and [provided a list of 300 names](/news/2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release). But an independent analysis found the Trump Justice Department [released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) held by federal agencies.
 
 ## Congressional Backlash Intensifies
 

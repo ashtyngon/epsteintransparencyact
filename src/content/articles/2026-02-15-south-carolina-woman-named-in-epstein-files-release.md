@@ -12,7 +12,7 @@ people:
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
 tags:
   - associates
@@ -42,7 +42,7 @@ Documents released under the [Epstein Transparency Act](/news/epstein-transparen
 
 ## Ongoing Document Releases
 
-The Department of Justice released thousands of pages in February. Attorney General Pam Bondi said DOJ had disclosed ["all" Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed) with full names listed. 
+The Department of Justice released thousands of pages in February. Attorney General Pam Bondi said DOJ had disclosed ["all" Epstein files](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) with full names listed. 
 
 Several members of Congress disputed that claim. Representative Nancy Mace accused DOJ of hiding names in the release. Representative Thomas Massie said Bondi avoided eye contact with survivors during a congressional hearing on the files.
 

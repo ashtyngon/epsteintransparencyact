@@ -19,7 +19,7 @@ relatedArticles:
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
 tags:
   - political
   - associates

@@ -20,7 +20,6 @@ relatedArticles:
   - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-15-massie-bondi-avoided-eye-contact-with-epstein-survivors-at-hearing
 tags:
   - associates
   - political

@@ -11,7 +11,7 @@ people:
   - thomas-massie
 relatedArticles:
   - 2026-02-13-newly-released-video-from-epstein-s-office-revealed-in-latest-files-dump
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
 tags:
@@ -39,7 +39,7 @@ The DOJ [released video footage from Epstein's office](/news/2026-02-13-newly-re
 
 ## Release Under Scrutiny
 
-The video materials represent one component of millions of pages released following the Epstein Transparency Act. Attorney General Pam Bondi [stated the DOJ released "all" Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed) with full names listed.
+The video materials represent one component of millions of pages released following the Epstein Transparency Act. Attorney General Pam Bondi [stated the DOJ released "all" Epstein files](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more) with full names listed.
 
 Lawmakers including Rep. Thomas Massie and Rep. Nancy Mace [accused the department of continuing to hide names through redactions](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release). The New York Times launched a major investigation into the complete file release.
 

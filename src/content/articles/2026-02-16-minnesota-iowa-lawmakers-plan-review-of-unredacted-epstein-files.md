@@ -13,7 +13,7 @@ people:
   - thomas-massie
 relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
-  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
   - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
 tags:
@@ -45,7 +45,7 @@ The Epstein Transparency Act grants members of Congress authority to review unre
 
 Rep. Thomas Massie of Kentucky and Rep. Nancy Mace of South Carolina have both committed to reviewing the unredacted files. Massie [lost confidence in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after she avoided eye contact with Epstein survivors during a congressional hearing.
 
-Rep. Ro Khanna of California [accused the DOJ of "protecting predators"](/news/2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators) by redacting portions of the files. Mace [demanded unredacted co-conspirator files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files), calling the current release inadequate.
+Rep. Ro Khanna of California [accused the DOJ of "protecting predators"](/news/2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better) by redacting portions of the files. Mace [demanded unredacted co-conspirator files](/news/2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files), calling the current release inadequate.
 
 Rep. Marjorie Taylor Greene of Georgia criticized Trump's handling of the files as a "political miscalculation." She later received death threats over her public criticism.
 

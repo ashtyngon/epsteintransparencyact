@@ -31,9 +31,9 @@ people:
   - tom-barrack
 relatedArticles:
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
-  - 2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed
+  - 2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
-  - 2026-02-16-khanna-blasts-doj-for-redacting-epstein-files-stop-protecting-predators
+  - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better
 tags:
   - transparency-act
   - political
@@ -47,7 +47,7 @@ confidence: 0.95
 
 "Get the files out. They are slow-walking it," Clinton told the BBC. The White House responded that it has done "more for the victims than Democrats ever did," according to the BBC report.
 
-Clinton's accusation follows [recent analysis showing the Trump DOJ released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows), according to a study. The comment also comes after [Attorney General Pam Bondi claimed the DOJ released "all" Epstein files](/news/2026-02-16-bondi-says-doj-released-all-epstein-files-full-names-listed), a statement contradicted by multiple lawmakers and investigators.
+Clinton's accusation follows [recent analysis showing the Trump DOJ released only 2% of Epstein files](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows), according to a study. The comment also comes after [Attorney General Pam Bondi claimed the DOJ released "all" Epstein files](/news/2026-02-15-ag-bondi-defends-complete-epstein-file-release-as-lawmakers-demand-more), a statement contradicted by multiple lawmakers and investigators.
 
 ## Congressional Access to Unredacted Files
 

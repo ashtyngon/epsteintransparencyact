@@ -20,7 +20,7 @@ relatedArticles:
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-14-fbi-holds-thousands-of-files-on-detroit-millionaire-s-secret-island-operation
-  - 2026-02-15-congress-accuses-bondi-of-mudding-epstein-list-with-dead-celebrities
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
 tags:
   - transparency-act
   - document-release
