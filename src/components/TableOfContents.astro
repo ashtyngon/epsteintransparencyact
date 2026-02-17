@@ -8,17 +8,18 @@ interface Heading {
 interface Props {
   headings: Heading[];
   minHeadings?: number;
+  sidebar?: boolean;
 }
 
-const { headings, minHeadings = 3 } = Astro.props;
+const { headings, minHeadings = 3, sidebar = false } = Astro.props;
 
 // Only show for H2 and H3 headings, and only if enough headings exist
 const tocHeadings = headings.filter((h) => h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= minHeadings;
 ---
 
-{showToc && (
-  <nav class="toc mb-8 border border-border bg-surface-dark p-5" aria-label="Table of contents">
+{showToc && !sidebar && (
+  <nav class="toc mb-8 border border-border bg-surface-dark p-5 lg:hidden" aria-label="Table of contents">
     <details open>
       <summary class="text-xs font-bold uppercase tracking-widest text-primary cursor-pointer select-none mb-3">
         In this article
@@ -37,4 +38,91 @@ const showToc = tocHeadings.length >= minHeadings;
       </ul>
     </details>
   </nav>
+)}
+
+{showToc && sidebar && (
+  <nav class="toc-sidebar" aria-label="Table of contents">
+    <p class="text-[11px] font-bold uppercase tracking-widest text-text-muted mb-4">
+      In this article
+    </p>
+    <ul class="space-y-0.5">
+      {tocHeadings.map((heading) => (
+        <li>
+          <a
+            href={`#${heading.slug}`}
+            class:list={[
+              'toc-link block text-[13px] leading-snug no-underline py-1.5 transition-colors border-l-2',
+              heading.depth === 3 ? 'pl-5' : 'pl-3',
+              'text-text-muted border-transparent hover:text-primary hover:border-border',
+            ]}
+            data-slug={heading.slug}
+          >
+            {heading.text}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}
+
+{showToc && sidebar && (
+  <script>
+    function initTocHighlight() {
+      const tocLinks = document.querySelectorAll('.toc-sidebar .toc-link');
+      if (!tocLinks.length) return;
+
+      const slugs = Array.from(tocLinks).map((link) => (link as HTMLAnchorElement).dataset.slug!);
+      const headingElements = slugs
+        .map((slug) => document.getElementById(slug))
+        .filter(Boolean) as HTMLElement[];
+
+      if (!headingElements.length) return;
+
+      let activeSlug = '';
+
+      function setActive(slug: string) {
+        if (slug === activeSlug) return;
+        activeSlug = slug;
+        tocLinks.forEach((link) => {
+          const el = link as HTMLElement;
+          if (el.dataset.slug === slug) {
+            el.classList.remove('text-text-muted', 'border-transparent');
+            el.classList.add('text-accent', 'border-accent', 'font-medium');
+          } else {
+            el.classList.remove('text-accent', 'border-accent', 'font-medium');
+            el.classList.add('text-text-muted', 'border-transparent');
+          }
+        });
+      }
+
+      const observer = new IntersectionObserver(
+        (entries) => {
+          // Find the topmost visible heading
+          const visible = entries
+            .filter((e) => e.isIntersecting)
+            .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+
+          if (visible.length > 0) {
+            setActive(visible[0].target.id);
+          }
+        },
+        {
+          rootMargin: '-80px 0px -60% 0px',
+          threshold: 0,
+        }
+      );
+
+      headingElements.forEach((el) => observer.observe(el));
+
+      // Set initial active state
+      if (headingElements.length > 0) {
+        setActive(slugs[0]);
+      }
+    }
+
+    // Run on page load
+    initTocHighlight();
+    // Re-run on Astro view transitions
+    document.addEventListener('astro:page-load', initTocHighlight);
+  </script>
 )}

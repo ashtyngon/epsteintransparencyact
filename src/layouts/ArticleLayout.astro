@@ -35,6 +35,10 @@ const jsonLd = articleJsonLd({
   sourceUrl,
   image: article.data.image,
 });
+
+// Check if ToC should show (4+ H2/H3 headings)
+const tocHeadings = headings.filter((h) => h.depth === 2 || h.depth === 3);
+const hasToc = tocHeadings.length >= 4;
 ---
 
 <BaseLayout
@@ -91,77 +95,97 @@ const jsonLd = articleJsonLd({
       </div>
     )}
 
-    <!-- Article body -->
-    <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
-      {keyTakeaways.length > 0 && (
-        <div class="mb-10 border-l-4 border-accent bg-surface-dark px-6 py-5">
-          <h2 class="text-xs font-bold uppercase tracking-widest text-accent mb-3">Key Takeaways</h2>
-          <ul class="space-y-2">
-            {keyTakeaways.map((takeaway) => (
-              <li class="flex items-start gap-2 text-sm leading-relaxed text-text-primary">
-                <span class="text-accent mt-1 flex-shrink-0">&#9654;</span>
-                <span>{takeaway}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
+    <!-- Article body with optional sidebar -->
+    <div class:list={[
+      'mx-auto px-4 sm:px-6 py-10',
+      hasToc ? 'max-w-5xl' : 'max-w-3xl',
+    ]}>
+      <div class:list={[
+        hasToc && 'lg:grid lg:grid-cols-[1fr_220px] lg:gap-12',
+      ]}>
+        <!-- Main content column -->
+        <div class:list={[hasToc && 'min-w-0 max-w-3xl']}>
+          {keyTakeaways.length > 0 && (
+            <div class="mb-10 border-l-4 border-accent bg-surface-dark px-6 py-5">
+              <h2 class="text-xs font-bold uppercase tracking-widest text-accent mb-3">Key Takeaways</h2>
+              <ul class="space-y-2">
+                {keyTakeaways.map((takeaway) => (
+                  <li class="flex items-start gap-2 text-sm leading-relaxed text-text-primary">
+                    <span class="text-accent mt-1 flex-shrink-0">&#9654;</span>
+                    <span>{takeaway}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
 
-      <TableOfContents headings={headings} minHeadings={4} />
+          <!-- Inline ToC for mobile (hidden on lg when sidebar shows) -->
+          <TableOfContents headings={headings} minHeadings={4} />
 
-      <div class="prose-article">
-        <slot />
-      </div>
-
-      <!-- Source attribution -->
-      <div class="mt-10 pt-6 border-t border-border">
-        <div class="flex items-center gap-2 text-sm text-text-muted">
-          <span class="text-xs font-semibold uppercase tracking-wider text-text-muted">Source:</span>
-          <SourceAttribution source={source} url={sourceUrl} />
-        </div>
-      </div>
-
-      <!-- Tags -->
-      {tags.length > 0 && (
-        <div class="mt-6 pt-6 border-t border-border">
-          <div class="flex flex-wrap gap-2">
-            {tags.map((tag) => (
-              <span class="text-[11px] font-medium text-text-muted bg-surface-dark px-3 py-1 uppercase tracking-wider">
-                {tag}
-              </span>
-            ))}
+          <div class="prose-article">
+            <slot />
           </div>
-        </div>
-      )}
 
-      <!-- Related Coverage -->
-      {relatedArticleEntries.length > 0 && (
-        <div class="mt-8 pt-8 border-t-2 border-primary">
-          <h3 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Related Coverage</h3>
-          <div class="space-y-3">
-            {relatedArticleEntries.map((related: any) => (
-              <a
-                href={`/news/${related.id}`}
-                class="block group no-underline p-4 border border-border hover:border-accent/30 transition-colors"
-              >
-                <div class="flex items-start justify-between gap-3">
-                  <h4 class="font-serif text-base font-bold text-primary group-hover:text-accent transition-colors leading-snug">
-                    {related.data.title}
-                  </h4>
-                  <span class="source-badge flex-shrink-0 text-[10px]">{related.data.source}</span>
-                </div>
-              </a>
-            ))}
+          <!-- Source attribution -->
+          <div class="mt-10 pt-6 border-t border-border">
+            <div class="flex items-center gap-2 text-sm text-text-muted">
+              <span class="text-xs font-semibold uppercase tracking-wider text-text-muted">Source:</span>
+              <SourceAttribution source={source} url={sourceUrl} />
+            </div>
           </div>
-        </div>
-      )}
 
-      <!-- People mentioned -->
-      {people.length > 0 && (
-        <div class="mt-8">
-          <RelatedPeople slugs={people} />
+          <!-- Tags -->
+          {tags.length > 0 && (
+            <div class="mt-6 pt-6 border-t border-border">
+              <div class="flex flex-wrap gap-2">
+                {tags.map((tag) => (
+                  <span class="text-[11px] font-medium text-text-muted bg-surface-dark px-3 py-1 uppercase tracking-wider">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Related Coverage -->
+          {relatedArticleEntries.length > 0 && (
+            <div class="mt-8 pt-8 border-t-2 border-primary">
+              <h3 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Related Coverage</h3>
+              <div class="space-y-3">
+                {relatedArticleEntries.map((related: any) => (
+                  <a
+                    href={`/news/${related.id}`}
+                    class="block group no-underline p-4 border border-border hover:border-accent/30 transition-colors"
+                  >
+                    <div class="flex items-start justify-between gap-3">
+                      <h4 class="font-serif text-base font-bold text-primary group-hover:text-accent transition-colors leading-snug">
+                        {related.data.title}
+                      </h4>
+                      <span class="source-badge flex-shrink-0 text-[10px]">{related.data.source}</span>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- People mentioned -->
+          {people.length > 0 && (
+            <div class="mt-8">
+              <RelatedPeople slugs={people} />
+            </div>
+          )}
         </div>
-      )}
+
+        <!-- Sidebar ToC (desktop only, sticky) -->
+        {hasToc && (
+          <aside class="hidden lg:block">
+            <div class="sticky top-[74px]">
+              <TableOfContents headings={headings} minHeadings={4} sidebar={true} />
+            </div>
+          </aside>
+        )}
+      </div>
     </div>
   </article>
 </BaseLayout>
