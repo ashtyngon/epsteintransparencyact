@@ -9,7 +9,13 @@ import cloudflare from '@astrojs/cloudflare';
 export default defineConfig({
   site: 'https://epsteintransparencyact.com',
   trailingSlash: 'always',
-  adapter: cloudflare(),
+  adapter: cloudflare({
+    routes: {
+      extend: {
+        include: [{ pattern: '/api/*' }],
+      },
+    },
+  }),
   vite: {
     plugins: [tailwindcss()],
   },
