@@ -1,9 +1,13 @@
 ---
 title: "Wexner's Name Unredacted in Epstein Files: OSU Ties Scrutinized"
-publishedAt: "2026-02-17T13:00:02.000Z"
-source: "The Guardian (US)"
-sourceUrl: "https://www.theguardian.com/us-news/2026/feb/17/les-wexner-jeffrey-epstein"
-summary: "Les Wexner, the billionaire founder of Victoria's Secret and The Limited, sent Jeffrey Epstein a note for his 50th birthday in 2003 that included a hand-drawn i"
+publishedAt: 2026-02-17T08:00:00.000-05:00
+updatedAt: ''
+source: The Guardian (US)
+sourceUrl: https://www.theguardian.com/us-news/2026/feb/17/les-wexner-jeffrey-epstein
+summary: Les Wexner, the billionaire founder of Victoria's Secret and The Limited, sent Jeffrey Epstein a note for his 50th birthday in 2003.
+image: https://npr.brightspotcdn.com/dims4/default/56ff97b/2147483647/strip/true/crop/1760x1188+0+0/resize/1760x1188!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F8f%2F291a639c4d39b5306c26a224274f%2Fjeffrey-epstein-les-wexner.jpg
+status: published
+articleType: feature
 people:
   - les-wexner
   - jeffrey-epstein
@@ -16,22 +20,23 @@ relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
 tags:
   - document-release
-  - associates
   - transparency-act
 keyTakeaways:
-  - "Les Wexner's name appeared unredacted in recently released federal files related to Jeffrey Epstein."
-  - "Documents show Wexner allegedly sent Epstein a 2003 birthday note featuring a hand-drawn image of a woman's breasts."
+  - Les Wexner's name appeared unredacted in recently released federal files related to Jeffrey Epstein.
+  - Documents show Wexner allegedly sent Epstein a 2003 birthday note featuring a hand-drawn image of a woman's breasts.
   - "Wexner's name and portrait remain displayed at Ohio State University, which received over status: 00 million in donations from him."
-  - "Congress subpoenaed Wexner this month to testify about his relationship with Epstein spanning 1985 through 2019."
-status: published
+  - Congress subpoenaed Wexner this month to testify about his relationship with Epstein spanning 1985 through 2019.
 aiGenerated: true
-articleType: news
 confidence: 0.95
+reviewedBy: ''
+reviewedAt: ''
 ---
 
-**Les Wexner's** name appeared unredacted this week in federal files related to Jeffrey Epstein, placing new attention on the billionaire's ties to the convicted sex offender and his prominent role at **Ohio State University**.
+**Les Wexner's** name appeared unredacted this week in federal files related to Jeffrey Epstein, placing new attention on the billionaire's ties to the convicted sex offender and his [prominent role at **Ohio State University**.](https://trustees.osu.edu/people/leslie-wexner)
 
 Wexner's portrait hangs at Ohio State University's Wexner Medical Center. His name appears on buildings and programs across the institution following decades of philanthropic donations. The university has not announced any review of these naming rights following the document release.
+
+[![](https://trustees.osu.edu/sites/default/files/styles/square_large/public/media/image/2018/11/wexner_les.jpg "Photo of Wexner from the Ohio State University Board of Trustees")](https://trustees.osu.edu/sites/default/files/styles/square_large/public/media/image/2018/11/wexner_les.jpg?itok=6E_j3Npj)
 
 Documents show Wexner allegedly sent Epstein a note for his 50th birthday in 2003 that included a hand-drawn image of a woman's breasts. Wexner founded Victoria's Secret and built his fortune as a retail mogul.
 
