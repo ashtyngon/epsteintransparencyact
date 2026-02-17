@@ -15,6 +15,7 @@ relatedArticles:
   - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - associates
   - document-release

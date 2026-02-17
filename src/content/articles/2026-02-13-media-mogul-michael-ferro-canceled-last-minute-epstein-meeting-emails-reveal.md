@@ -19,6 +19,9 @@ relatedArticles:
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
 tags:
   - court-documents
   - associates

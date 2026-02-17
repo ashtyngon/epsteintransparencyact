@@ -17,6 +17,8 @@ relatedArticles:
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
 tags:
   - document-release
   - investigation

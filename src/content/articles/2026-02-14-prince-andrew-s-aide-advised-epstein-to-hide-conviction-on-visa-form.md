@@ -22,6 +22,9 @@ relatedArticles:
   - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
   - 2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties
   - 2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations
+  - 2026-02-13-prince-andrew-s-bbc-claims-unravel-as-new-epstein-emails-surface
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - document-release
   - associates

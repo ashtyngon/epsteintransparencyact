@@ -16,6 +16,7 @@ relatedArticles:
   - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   - investigation
   - testimony

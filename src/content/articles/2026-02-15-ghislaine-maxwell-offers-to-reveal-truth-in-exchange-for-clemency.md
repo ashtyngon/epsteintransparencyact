@@ -14,6 +14,7 @@ relatedArticles:
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
 tags:
   - testimony
   - associates

@@ -17,6 +17,9 @@ relatedArticles:
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
 tags:
   - transparency-act
   - political

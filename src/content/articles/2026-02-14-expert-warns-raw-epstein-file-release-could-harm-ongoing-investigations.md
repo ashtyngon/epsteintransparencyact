@@ -16,6 +16,7 @@ relatedArticles:
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
   - 2026-02-14-epstein-emails-spread-across-social-media-in-viral-leak
+  - epstein-transparency-act-signed-into-law
 tags:
   - transparency-act
   - document-release

@@ -13,6 +13,7 @@ relatedArticles:
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
+  - epstein-transparency-act-signed-into-law
 tags:
   - transparency-act
   - political
