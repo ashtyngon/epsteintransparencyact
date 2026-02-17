@@ -5,7 +5,7 @@ updatedAt: ''
 source: ABC Columbia
 sourceUrl: https://www.abccolumbia.com/2026/02/16/were-going-to-expose-it-mace-calls-for-full-transparency-in-epstein-files-judicial-term-limits/
 summary: Rep. Nancy Mace on Monday called for complete transparency in the Epstein files and proposed term limits for federal judges during an appearance on ABC Columbia
-status: review
+status: published
 articleType: news
 people:
   - nancy-mace
