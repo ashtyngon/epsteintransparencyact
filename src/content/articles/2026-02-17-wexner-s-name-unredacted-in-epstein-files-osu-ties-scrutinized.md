@@ -6,6 +6,8 @@ source: The Guardian (US)
 sourceUrl: https://www.theguardian.com/us-news/2026/feb/17/les-wexner-jeffrey-epstein
 summary: Les Wexner, the billionaire founder of Victoria's Secret and The Limited, sent Jeffrey Epstein a note for his 50th birthday in 2003.
 image: https://npr.brightspotcdn.com/dims4/default/56ff97b/2147483647/strip/true/crop/1760x1188+0+0/resize/1760x1188!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F8f%2F291a639c4d39b5306c26a224274f%2Fjeffrey-epstein-les-wexner.jpg
+imageCaption: A man who appears to be Les Wexner (center) with his arms around Jeffrey Epstein (left) and an unidentified person at a gathering. This photo was featured alongside Wexner's handwritten note in a 2003 book celebrating Epstein's 50th birthday.
+imageCredit: U. S. House Committee on Oversight and Government Reform
 status: published
 articleType: feature
 people:
