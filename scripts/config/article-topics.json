@@ -1861,5 +1861,49 @@
     "topic": "DUPLICATE: poll showing public opinion that powerful people are rarely held accountable due to Epstein files — general sentiment/opinion coverage already marked for rejection in existing articles",
     "people": [],
     "tags": []
+  },
+  {
+    "slug": "2026-02-18-doj-accused-of-flouting-epstein-transparency-act",
+    "title": "DOJ Accused of Flouting Epstein Transparency Act",
+    "summary": "DOJ Accused of Flouting Epstein Transparency Act",
+    "novelty": "DUPLICATE: DOJ accused of flouting the Epstein Transparency Act by withholding documents—already covered in 'Trump DOJ Released Only 2% of Epstein Files, Study Shows' which reported the same allegation of non-compliance with the law.",
+    "topic": "DUPLICATE: DOJ accused of flouting the Epstein Transparency Act by withholding documents—already covered in 'Trump DOJ Released Only 2% of Epstein Files, Study Shows' which reported the same allegation of non-compliance with the law.",
+    "people": [
+      "pam-bondi"
+    ],
+    "tags": [
+      "transparency-act",
+      "document-release",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-02-18-school-districts-sever-lifetouch-ties-over-epstein-black-revelations",
+    "title": "School Districts Sever Lifetouch Ties Over Epstein-Black Revelations",
+    "summary": "School Districts Sever Lifetouch Ties Over Epstein-Black Revelations",
+    "novelty": "DUPLICATE: School districts cutting ties with Lifetouch over Epstein-Leon Black connection is a secondary/ripple effect story already covered by the broader 'Twelve Prominent Figures Resign After Being Named in Epstein Files' article and related Leon Black coverage.",
+    "topic": "DUPLICATE: School districts cutting ties with Lifetouch over Epstein-Leon Black connection is a secondary/ripple effect story already covered by the broader 'Twelve Prominent Figures Resign After Being Named in Epstein Files' article and related Leon Black coverage.",
+    "people": [
+      "jeffrey-epstein",
+      "leon-black"
+    ],
+    "tags": [
+      "associates",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-18-les-wexner-denies-knowledge-of-epstein-crimes-in-deposition-with-skeptical-democ",
+    "title": "Les Wexner denies knowledge of Epstein crimes in deposition with skeptical Democrats",
+    "summary": "Les Wexner denies knowledge of Epstein crimes in deposition with skeptical Democrats",
+    "novelty": "DUPLICATE: Les Wexner's deposition before House Oversight Committee on February 18, 2026, where he claimed to be 'duped' by Epstein while facing Democratic skepticism—already covered in 'Wexner Tells Congress He Was \"Duped\" by Epstein in Testimony' and 'Leslie Wexner Says Epstein \"Conned\" Him, but Democrats Are Skeptical'.",
+    "topic": "DUPLICATE: Les Wexner's deposition before House Oversight Committee on February 18, 2026, where he claimed to be 'duped' by Epstein while facing Democratic skepticism—already covered in 'Wexner Tells Congress He Was \"Duped\" by Epstein in Testimony' and 'Leslie Wexner Says Epstein \"Conned\" Him, but Democrats Are Skeptical'.",
+    "people": [
+      "les-wexner",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony"
+    ]
   }
 ]
