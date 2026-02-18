@@ -32,10 +32,36 @@ reviewedBy: ''
 reviewedAt: ''
 ---
 
-**Les Wexner**, the billionaire retail tycoon and longtime financial benefactor of Jeffrey Epstein, testified before the House Oversight Committee on Wednesday, telling members he was "duped by a world-class con man," according to a statement released ahead of his deposition.<sup>[1](#ref-1)</sup><sup>[4](#ref-4)</sup> The closed-door deposition marked a significant step in Congress's investigation into Epstein's network of financial and social connections.
+**Les Wexner**, the billionaire retail tycoon and longtime financial benefactor of Jeffrey Epstein, testified before the House Oversight Committee on Wednesday, telling members he was "duped by a world-class con man," according to a [statement released](https://assets1.cbsnewsstatic.com/hub/cms/prod_cms_alt/file/2026/02/18/f4bef550-dcde-4d79-97fa-9805df890875/statement_of_leslie_h._wexner.pdf) ahead of his deposition.<sup>[1](#ref-1)</sup><sup>[4](#ref-4)</sup> The closed-door deposition marked a significant step in Congress's investigation into Epstein's network of financial and social connections.
 
-Wexner, whose wealth helped fuel Epstein's fortune, described himself in his statement to Democratic members of the committee as "an ethical man, philanthropist and community builder."<sup>[4](#ref-4)</sup> Members of the House Oversight Committee deposed the retail billionaire as part of the panel's ongoing investigation into Epstein.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
+Wexner, whose wealth helped fuel Epstein's fortune, described himself in his statement to Democratic members of the committee as "an ethical man, philanthropist and community builder."<sup>[4](#ref-4)</sup> Members of the House Oversight Committee deposed the retail billionaire as part of the panel's ongoing investigation into Epstein.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup> Here's what he said about specific aspects of his relationship with the disgraced pedophile. 
 
+
+###### On Trusting Epstein and the Deception
+
+- "I was naïve, foolish, and gullible to put any trust in Jeffrey Epstein. He was a con man. And while I was conned, I have done nothing wrong and have nothing to hide."
+- "What is so clear only now is that Epstein lived a double life. He was clever, diabolical, and a master manipulator."
+- "Little did I realize that, from the very start, Epstein was conniving to gain my trust."
+
+###### On Epstein's Public Facade
+
+- "Over the course of many years, he carefully used his acquaintance with important individuals to curate an aura of legitimacy that he then used to expand his network of acquaintances, and apparent credibility, even farther."
+- "The side of Epstein that he chose to reveal to me was far different from the predator he eventually was exposed to be."
+
+###### Addressing Specific Rumors and Associations
+
+- "Contrary to rumor, I did not give Epstein the New York townhouse; he purchased it from me for what I was told was the appraised value. After we moved out, I never set foot in that house again."
+- "I visited Epstein’s island only once, shortly after he purchased it, when Abigail, our young children, and I stopped for a few hours one morning while we were on a cruise on our boat."
+
+###### On Severing Ties and Financial Theft
+
+- "What I did not anticipate was Epstein misusing the trust I placed in him despite his fiduciary obligation to act in my best interest."
+- "Confronted with his financial wrongdoing by Abigail, Epstein agreed to, and did, return a substantial amount of money, even while continuing to maintain his total innocence of any wrongdoing, never dropping the con."
+- "Once I learned of his abusive conduct and theft from my family, I never spoke with Epstein again. Never."
+
+###### On the Survivors
+
+- "Before going any further, though, I want to acknowledge the survivors of Epstein’s terrible crimes and the devastation that each of them has endured as a result. The pain he inflicted upon them is unfathomable to me."
 
 
 The testimony comes amid renewed scrutiny of Wexner's business and personal relationship with Epstein, which became public after [Wexner's name was unredacted in recently released Epstein files](/news/wexner-s-name-unredacted-in-epstein-files-osu-ties-scrutinized).
