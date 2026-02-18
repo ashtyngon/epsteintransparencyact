@@ -265,7 +265,7 @@ async function main() {
 
     // Enforce minimum word count — reject thin articles
     const wordCount = body.split(/\s+/).filter(w => w.length > 0).length;
-    const minWords = item.isFeature ? 800 : 300;
+    const minWords = item.isFeature ? 600 : 300;
     if (wordCount < minWords) {
       console.log(`  SKIP (too short: ${wordCount} words, min ${minWords}): ${headline.slice(0, 60)}`);
       processed.processedUrls.push(item.link);

@@ -212,12 +212,9 @@ function hardDedupCheck(
   const candidatePeople = new Set(candidate.filterResult.mentionedPeople || []);
   const candidateTags = new Set(candidate.filterResult.tags || []);
 
-  // PRIMARY CHECK: If the AI already flagged it as duplicate via novelty
+  // AI novelty starting with DUPLICATE: is logged but not trusted — hard dedup decides
   if (candidateNovelty.toUpperCase().startsWith('DUPLICATE:')) {
-    return {
-      isDuplicate: true,
-      reason: `ai_novelty_dup: ${candidateNovelty.slice(0, 80)}`,
-    };
+    console.log(`    (AI novelty says dup, ignored — hard dedup decides): ${candidateNovelty.slice(0, 80)}`);
   }
 
   for (const existing of existingArticles) {
