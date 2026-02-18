@@ -474,6 +474,13 @@ async function main() {
       console.log(`    novelty: ${result.noveltyStatement?.slice(0, 80) || 'N/A'}`);
     }
 
+    // HARD GUARD: AI put rejection text as headline — use original title instead
+    const badHeadlinePattern = /^(REJECT|DUPLICATE|SKIP|N\/A|ERROR)/i;
+    if (badHeadlinePattern.test(result.suggestedHeadline || '')) {
+      console.log(`  FIX: Bad headline "${result.suggestedHeadline?.slice(0, 40)}" → using original title`);
+      result.suggestedHeadline = item.title;
+    }
+
     // HARD GUARD: Too many people = roundup article, reject
     const MAX_PEOPLE_FILTER = 8;
     if ((result.mentionedPeople || []).length > MAX_PEOPLE_FILTER) {
