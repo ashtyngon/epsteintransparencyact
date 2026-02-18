@@ -229,7 +229,7 @@ function hardDedupCheck(
     // ── PRIMARY: Novelty statement similarity ──
     // This is the most important check — "what's new" should be different
     const noveltySim = jaccardSimilarity(candidateNoveltyWords, existingNoveltyWords);
-    if (noveltySim >= 0.45) {
+    if (noveltySim >= 0.60) {
       return {
         isDuplicate: true,
         matchedSlug: existing.slug,
@@ -242,7 +242,7 @@ function hardDedupCheck(
     }
 
     // Novelty overlap + same people = almost certainly same story
-    if (noveltySim >= 0.35 && peopleOverlap >= 2) {
+    if (noveltySim >= 0.50 && peopleOverlap >= 2) {
       return {
         isDuplicate: true,
         matchedSlug: existing.slug,
@@ -272,7 +272,7 @@ function hardDedupCheck(
 
     // ── TERTIARY: Full text + people combo ──
     const fullTextSim = jaccardSimilarity(candidateDescWords, existingFullWords);
-    if (fullTextSim >= 0.45 && peopleOverlap >= 2) {
+    if (fullTextSim >= 0.55 && peopleOverlap >= 2) {
       return {
         isDuplicate: true,
         matchedSlug: existing.slug,

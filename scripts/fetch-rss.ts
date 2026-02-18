@@ -306,7 +306,7 @@ function deduplicateByTitle(items: RSSItem[], existingTitles: string[]): RSSItem
         const groupText = group.best
           ? `${group.best.title} ${group.best.description.slice(0, 200)}`
           : group.text;
-        if (textsAreSimilar(itemText, groupText, 0.3)) {
+        if (textsAreSimilar(itemText, groupText, 0.45)) {
           if (group.best === null) {
             // Matches existing published article — skip
             merged = true;
