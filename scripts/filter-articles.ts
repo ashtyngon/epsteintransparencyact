@@ -471,24 +471,16 @@ async function main() {
       continue;
     }
 
-    // AI said isDuplicate — trust it
+    // AI duplicate judgment logged but NOT used to reject — hard dedup gate decides
     if (result.isDuplicate) {
-      console.log(`  SKIP (AI: duplicate): ${item.title.slice(0, 60)}`);
+      console.log(`  AI says dup (ignored, hard dedup decides): ${item.title.slice(0, 60)}`);
       console.log(`    novelty: ${result.noveltyStatement?.slice(0, 80) || 'N/A'}`);
-      continue;
     }
 
     // HARD GUARD: Too many people = roundup article, reject
     const MAX_PEOPLE_FILTER = 8;
     if ((result.mentionedPeople || []).length > MAX_PEOPLE_FILTER) {
       console.log(`  SKIP (roundup: ${result.mentionedPeople.length} people): ${item.title.slice(0, 60)}`);
-      continue;
-    }
-
-    // AI's noveltyStatement starts with DUPLICATE: — treat as duplicate
-    if (result.noveltyStatement?.toUpperCase().startsWith('DUPLICATE:')) {
-      console.log(`  SKIP (AI novelty=dup): ${item.title.slice(0, 60)}`);
-      console.log(`    ${result.noveltyStatement.slice(0, 80)}`);
       continue;
     }
 
