@@ -36,6 +36,8 @@ reviewedAt: ''
 
 Wexner, whose wealth helped fuel Epstein's fortune, described himself in his statement to Democratic members of the committee as "an ethical man, philanthropist and community builder."<sup>[4](#ref-4)</sup> Members of the House Oversight Committee deposed the retail billionaire as part of the panel's ongoing investigation into Epstein.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
 
+
+
 The testimony comes amid renewed scrutiny of Wexner's business and personal relationship with Epstein, which became public after [Wexner's name was unredacted in recently released Epstein files](/news/wexner-s-name-unredacted-in-epstein-files-osu-ties-scrutinized).
 
 ## Congressional Investigation Expands
