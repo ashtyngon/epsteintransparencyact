@@ -1,9 +1,15 @@
 ---
-title: "Wexner Tells Congress He Was 'Duped' by Epstein in Testimony"
-publishedAt: "2026-02-18T18:43:17.000Z"
-source: "CBS News"
-sourceUrl: "https://www.cbsnews.com/news/les-wexner-jeffrey-epstein-house-testimony/"
-summary: "Les Wexner, the billionaire retail tycoon and longtime financial benefactor of Jeffrey Epstein, testified before the House Oversight Committee on Wednesday, tel"
+title: Wexner Tells Congress He Was 'Duped' by Epstein in Testimony
+publishedAt: 2026-02-18T13:43:00.000-05:00
+updatedAt: ''
+source: CBS News
+sourceUrl: https://www.cbsnews.com/news/les-wexner-jeffrey-epstein-house-testimony/
+summary: Les Wexner, the billionaire retail tycoon and longtime financial benefactor of Jeffrey Epstein, testified before the House Oversight Committee on Wednesday, tel
+image: /images/articles/5123509553_2194653512_c.jpg
+imageCaption: Les Wexner at the Columbus Academy's Celebration of Leadership on October 27, 2010.
+imageCredit: Flickr/columbusacademy
+status: published
+articleType: feature
 people:
   - les-wexner
   - jeffrey-epstein
@@ -20,10 +26,10 @@ tags:
   - associates
   - breaking
   - court-documents
-status: published
 aiGenerated: true
-articleType: feature
 confidence: 0.95
+reviewedBy: ''
+reviewedAt: ''
 ---
 
 **Les Wexner**, the billionaire retail tycoon and longtime financial benefactor of Jeffrey Epstein, testified before the House Oversight Committee on Wednesday, telling members he was "duped by a world-class con man," according to a statement released ahead of his deposition.<sup>[1](#ref-1)</sup><sup>[4](#ref-4)</sup> The closed-door deposition marked a significant step in Congress's investigation into Epstein's network of financial and social connections.
