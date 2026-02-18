@@ -171,7 +171,12 @@ function loadExistingArticles(): ExistingArticle[] {
 
 function loadExistingTopicsForPrompt(articles: ExistingArticle[]): string {
   if (articles.length === 0) return '(No existing articles yet)';
-  return articles
+  // Only show the 25 most recent articles to avoid overwhelming the AI
+  // Sort by slug (which starts with date) descending
+  const recent = [...articles]
+    .sort((a, b) => b.slug.localeCompare(a.slug))
+    .slice(0, 25);
+  return recent
     .map((a) => {
       const people = a.people.slice(0, 4).join(', ');
       const novelty = a.novelty || a.summary;

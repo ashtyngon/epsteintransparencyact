@@ -24,6 +24,15 @@ Write a 1-sentence "novelty statement" that captures the ONE specific new thing.
 
 If you CANNOT write a specific novelty statement because the article covers the same event/facts as something already published — it's a duplicate.
 
+## CRITICAL: NEW DEVELOPMENTS ARE NOT DUPLICATES
+A person appearing in an existing article does NOT make new coverage of them a duplicate. These are all DIFFERENT stories that should be marked isDuplicate=false:
+- We published "Congress Subpoenas Wexner" → NEW: "Wexner Testifies, Says He Was 'Duped'" (testimony happened AFTER subpoena — new event)
+- We published "UK Police Launch Task Force" → NEW: "UK Police Expand Probe to Airports" (expansion is a new development)
+- We published "Mace Demands Files" → NEW: "Mace Calls on CIA to Release Documents" (different demand, different target)
+- We published "France Sets Up Review Team" → NEW: "Paris Prosecutors Open Criminal Probes" (escalation from review to prosecution)
+
+The test: Did a NEW EVENT happen (testimony, statement, vote, arrest, ruling, resignation) that our existing article could not have reported because it hadn't happened yet? If yes → NOT a duplicate.
+
 ## REJECT ROUNDUPS
 If the source article covers 3+ different topics/people/events in a single article (e.g., "Bondi testified AND Clinton accused AND Wasserman resigned AND international probes launched"), it is a ROUNDUP. Roundups are ALWAYS duplicates because each sub-topic has already been covered individually. Mark isDuplicate=true and noveltyStatement="DUPLICATE: roundup covering multiple already-reported stories".
 
