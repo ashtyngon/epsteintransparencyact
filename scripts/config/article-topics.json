@@ -2048,5 +2048,29 @@
       "transparency-act",
       "political"
     ]
+  },
+  {
+    "slug": "2026-02-18-business-leaders-face-fallout-after-epstein-files-exposure",
+    "title": "Business Leaders Face Fallout After Epstein Files Exposure",
+    "summary": "Business Leaders Face Fallout After Epstein Files Exposure",
+    "novelty": "DUPLICATE: roundup covering multiple already-reported stories about business leaders facing consequences after being named in Epstein files — each individual consequence (resignations, investigations, etc.) has already been covered separately.",
+    "topic": "DUPLICATE: roundup covering multiple already-reported stories about business leaders facing consequences after being named in Epstein files — each individual consequence (resignations, investigations, etc.) has already been covered separately.",
+    "people": [],
+    "tags": [
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-18-trump-claims-exoneration-in-epstein-files-matter",
+    "title": "Trump Claims Exoneration in Epstein Files Matter",
+    "summary": "Trump Claims Exoneration in Epstein Files Matter",
+    "novelty": "DUPLICATE: Trump claims exoneration from Epstein files controversy — a political statement/opinion without specific new factual revelations, similar to existing coverage of political figures commenting on Epstein-related matters.",
+    "topic": "DUPLICATE: Trump claims exoneration from Epstein files controversy — a political statement/opinion without specific new factual revelations, similar to existing coverage of political figures commenting on Epstein-related matters.",
+    "people": [
+      "donald-trump"
+    ],
+    "tags": [
+      "political"
+    ]
   }
 ]
