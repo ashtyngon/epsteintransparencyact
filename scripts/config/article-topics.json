@@ -2315,5 +2315,49 @@
       "arrest",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-19-bill-gates-cancels-india-ai-speech-over-epstein-ties",
+    "title": "Bill Gates Cancels India AI Speech Over Epstein Ties",
+    "summary": "Bill Gates Cancels India AI Speech Over Epstein Ties",
+    "novelty": "DUPLICATE: Bill Gates withdrawing from the India AI Summit due to Epstein-related backlash was already covered in 'Bill Gates Withdraws from India AI Summit Over Epstein Ties'",
+    "topic": "DUPLICATE: Bill Gates withdrawing from the India AI Summit due to Epstein-related backlash was already covered in 'Bill Gates Withdraws from India AI Summit Over Epstein Ties'",
+    "people": [
+      "bill-gates",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-19-no-new-u-s-charges-after-latest-epstein-files-release",
+    "title": "No New U.S. Charges After Latest Epstein Files Release",
+    "summary": "# No New U.S",
+    "novelty": "DUPLICATE: CBS article reports that no new U.S. charges have been filed following the latest Epstein files release, but Prince Andrew's U.K. arrest is already extensively covered in existing articles ('Prince Andrew Arrested Over Epstein Files Misconduct Claims' and 'Prince Andrew Arrested on Document-Sharing Charges'), and the document release itself was already reported in 'Court Releases New Batch of Epstein-Related Documents.' The article adds no new arrests, charges, or developments beyond these already-published stories.",
+    "topic": "DUPLICATE: CBS article reports that no new U.S. charges have been filed following the latest Epstein files release, but Prince Andrew's U.K. arrest is already extensively covered in existing articles ('Prince Andrew Arrested Over Epstein Files Misconduct Claims' and 'Prince Andrew Arrested on Document-Sharing Charges'), and the document release itself was already reported in 'Court Releases New Batch of Epstein-Related Documents.' The article adds no new arrests, charges, or developments beyond these already-published stories.",
+    "people": [
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "arrest"
+    ]
+  },
+  {
+    "slug": "2026-02-19-morning-joe-rips-morally-bankrupt-gop-for-protecting-people-in-epstein-files-as-",
+    "title": "Morning Joe rips ‘morally bankrupt’ GOP for ‘protecting’ people in Epstein files as UK arrests former Prince Andrew",
+    "summary": "Morning Joe rips ‘morally bankrupt’ GOP for ‘protecting’ people in Epstein files as UK arrests former Prince Andrew",
+    "novelty": "DUPLICATE: Joe Scarborough's commentary criticizing GOP lawmakers for not taking Epstein allegations seriously is a political opinion/media reaction to already-reported Prince Andrew arrest, without reporting any new factual developments, arrests, documents, or revelations.",
+    "topic": "DUPLICATE: Joe Scarborough's commentary criticizing GOP lawmakers for not taking Epstein allegations seriously is a political opinion/media reaction to already-reported Prince Andrew arrest, without reporting any new factual developments, arrests, documents, or revelations.",
+    "people": [
+      "andrew-mountbatten-windsor",
+      "joe-scarborough"
+    ],
+    "tags": [
+      "political"
+    ]
   }
 ]
