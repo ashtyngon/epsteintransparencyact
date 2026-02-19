@@ -18,6 +18,7 @@ relatedArticles:
   - fbi-begins-epstein-records-review
   - 2026-02-19-prince-andrew-trade-role-details-emerge-in-epstein-investigation
   - 2026-02-19-king-charles-responds-to-prince-andrew-s-epstein-related-arrest
+  - 2026-02-15-ag-bondi-lists-300-names-in-epstein-files-release
 tags:
   - document-release
   - arrest
