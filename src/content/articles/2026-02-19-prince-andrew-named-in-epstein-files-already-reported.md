@@ -1,9 +1,14 @@
 ---
-title: "Prince Andrew Named in Epstein Files (Already Reported)"
-publishedAt: "2026-02-19T16:15:17.000Z"
-source: "NewsNation"
-sourceUrl: "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0tGR1BpVzZEZnlQVXVNX2hCeDl0WW5lRmdKU2xwVWI4TngyTWZWd0JRdlZES3pVQ2VZRnVCNDJDS2JpeUdmT1JVRW82bkxVdndWdGNIQ1RCYmFNa0U2dXNsVE5lTUFMMlhTZV83ckExd2sta3hWMzVNb1F5UzBvUUtoOWJGeXVl0gGOAUFVX3lxTE9tUk9RZk1YVXBobmhEVEVsaWhINkowSS1STURiOGRSYzlqMzhvbVNqZ2c2Wl9HbloweGd5d2lSa1RWNl96QkRrX1JVUGg3U0tNbHJhTHFydlpCQU9ZQlJlQm5YWWRyMmVEcTZLbUY0RXBWcjhQZFpELXRKRFdkN3o0aW5rVWdoc1JORzdVX0E?oc=5"
-summary: "Prince Andrew Arrest Follows Justice Department File Release British authorities arrested Prince Andrew on Thursday following the U.S. Justice Department's rele"
+title: Prince Andrew Named in Epstein Files (Already Reported)
+publishedAt: 2026-02-19T11:15:00.000-05:00
+updatedAt: ''
+source: NewsNation
+sourceUrl: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0tGR1BpVzZEZnlQVXVNX2hCeDl0WW5lRmdKU2xwVWI4TngyTWZWd0JRdlZES3pVQ2VZRnVCNDJDS2JpeUdmT1JVRW82bkxVdndWdGNIQ1RCYmFNa0U2dXNsVE5lTUFMMlhTZV83ckExd2sta3hWMzVNb1F5UzBvUUtoOWJGeXVl0gGOAUFVX3lxTE9tUk9RZk1YVXBobmhEVEVsaWhINkowSS1STURiOGRSYzlqMzhvbVNqZ2c2Wl9HbloweGd5d2lSa1RWNl96QkRrX1JVUGg3U0tNbHJhTHFydlpCQU9ZQlJlQm5YWWRyMmVEcTZLbUY0RXBWcjhQZFpELXRKRFdkN3o0aW5rVWdoc1JORzdVX0E?oc=5
+summary: Prince Andrew Arrest Follows Justice Department File Release British authorities arrested Prince Andrew on Thursday following the U.S. Justice Department's rele
+imageCaption: ''
+imageCredit: ''
+status: unpublished
+articleType: feature
 people:
   - andrew-mountbatten-windsor
   - jeffrey-epstein
@@ -13,10 +18,10 @@ people:
 tags:
   - court-documents
   - associates
-status: published
 aiGenerated: true
-articleType: feature
 confidence: 0.95
+reviewedBy: ''
+reviewedAt: ''
 ---
 
 ## Prince Andrew Arrest Follows Justice Department File Release
@@ -78,7 +83,5 @@ The full scope of the Justice Department's document release has not been made pu
 ## References
 
 1. <span id="ref-1"></span>[NewsNation — "What do the Epstein files say about Ex-Prince Andrew?"](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0tGR1BpVzZEZnlQVXVNX2hCeDl0WW5lRmdKU2xwVWI4TngyTWZWd0JRdlZES3pVQ2VZRnVCNDJDS2JpeUdmT1JVRW82bkxVdndWdGNIQ1RCYmFNa0U2dXNsVE5lTUFMMlhTZV83ckExd2sta3hWMzVNb1F5UzBvUUtoOWJGeXVl0gGOAUFVX3lxTE9tUk9RZk1YVXBobmhEVEVsaWhINkowSS1STURiOGRSYzlqMzhvbVNqZ2c2Wl9HbloweGd5d2lSa1RWNl96QkRrX1JVUGg3U0tNbHJhTHFydlpCQU9ZQlJlQm5YWWRyMmVEcTZLbUY0RXBWcjhQZFpELXRKRFdkN3o0aW5rVWdoc1JORzdVX0E?oc=5)
-
 2. <span id="ref-2"></span>[Politico — "Ohio's GOP governor sidesteps defending Kristi Noem"](https://www.politico.com/news/2026/02/19/ohio-mike-dewine-sidesteps-defending-kristi-noem-00788704)
-
 3. <span id="ref-3"></span>[CBS News — "Here's what's in the Epstein files about former Prince Andrew"](https://www.cbsnews.com/news/epstein-files-former-prince-andrew-arrested/)
