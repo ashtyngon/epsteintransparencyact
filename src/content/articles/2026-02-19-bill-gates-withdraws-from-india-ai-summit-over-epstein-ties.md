@@ -1,9 +1,14 @@
 ---
-title: "Bill Gates Withdraws from India AI Summit Over Epstein Ties"
-publishedAt: "2026-02-19T08:38:26.000Z"
-source: "Unknown Source"
-sourceUrl: "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3M2aVdoSzUtQ2dHRFNPOExQcW91dzU1QjBHTDlfOFU2SkZ3di1va0ZQTkxUZVI5R1FxR0FTdXVKUlVpOWRPUmRTa2FpX210ekp4ZTZDZ3ZGRHc3bmlxdDFZbDktMXpJYmU2WVA0eHhpcHhPMXBkZ1JHQmZySmozLW9MMm1CSWVWLTFoS1BGVElNc0xZcDlPQTlOYmhGYXZxSE9tTEZSeW9SaTNUQTlfcEktdjFnQ2QwLWt3NjFGRjloTWt1WFluWHJZbw?oc=5"
-summary: "Bill Gates withdrew from a scheduled appearance at an artificial intelligence summit in India as questions about his past association with Jeffrey Epstein reeme"
+title: Bill Gates Withdraws from India AI Summit Over Epstein Ties
+publishedAt: 2026-02-19T03:38:00.000-05:00
+updatedAt: ''
+source: Anadolu Agency
+sourceUrl: https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3M2aVdoSzUtQ2dHRFNPOExQcW91dzU1QjBHTDlfOFU2SkZ3di1va0ZQTkxUZVI5R1FxR0FTdXVKUlVpOWRPUmRTa2FpX210ekp4ZTZDZ3ZGRHc3bmlxdDFZbDktMXpJYmU2WVA0eHhpcHhPMXBkZ1JHQmZySmozLW9MMm1CSWVWLTFoS1BGVElNc0xZcDlPQTlOYmhGYXZxSE9tTEZSeW9SaTNUQTlfcEktdjFnQ2QwLWt3NjFGRjloTWt1WFluWHJZbw?oc=5
+summary: Bill Gates withdrew from a scheduled appearance at an artificial intelligence summit in India as questions about his past association with Jeffrey Epstein reeme
+imageCaption: ''
+imageCredit: ''
+status: published
+articleType: feature
 people:
   - bill-gates
   - jeffrey-epstein
@@ -15,10 +20,10 @@ relatedArticles:
 tags:
   - associates
   - political
-status: published
 aiGenerated: true
-articleType: feature
 confidence: 0.75
+reviewedBy: ''
+reviewedAt: ''
 ---
 
 **Bill Gates** withdrew from a scheduled appearance at an artificial intelligence summit in India as questions about his past association with **Jeffrey Epstein** reemerged in public discourse, according to a report by Anadolu Ajansı.<sup>[1](#ref-1)</sup> The withdrawal comes amid broader public scrutiny of individuals connected to the late financier.
@@ -54,11 +59,7 @@ The FBI has begun reviewing Epstein-related records under the **Epstein Transpar
 ## References
 
 1. <span id="ref-1"></span>[Anadolu Ajansı — "Bill Gates pulls out of India AI summit amid renewed scrutiny over Epstein ties"](https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3M2aVdoSzUtQ2dHRFNPOExQcW91dzU1QjBHTDlfOFU2SkZ3di1va0ZQTkxUZVI5R1FxR0FTdXVKUlVpOWRPUmRTa2FpX210ekp4ZTZDZ3ZGRHc3bmlxdDFZbDktMXpJYmU2WVA0eHhpcHhPMXBkZ1JHQmZySmozLW9MMm1CSWVWLTFoS1BGVElNc0xZcDlPQTlOYmhGYXZxSE9tTEZSeW9SaTNUQTlfcEktdjFnQ2QwLWt3NjFGRjloTWt1WFluWHJZbw?oc=5)
-
 2. <span id="ref-2"></span>[Reuters — "Americans believe Epstein files show the powerful get a pass, Reuters/Ipsos poll finds"](https://news.google.com/rss/articles/CBMiwAFBVV95cUxON09HTTFRQXlubjZ6RnZCQjNpODI4b1l3Vnl1M2ZkS2M1UmJBSTdwZzVsM1JFS3ladG13VzZ3bkNfS1Q1eHZzaUsyRW9NNlR5c0JLY2NndEwtOW5TRkVTZ01RX3pWbHNSdEx6S29LMTJKMWxzQjJTR1dUQzJLR3FYaFJKRFJHVXdxaHgwQThnSFcwRHFtcFQ1VW5nYmluOVJRTllIMGNuckpDUE9IenFtaE5aU1V1MVBncGpldmlsZUo?oc=5)
-
 3. <span id="ref-3"></span>[10TV — "Wexner's deposition sparks demands for transparency in New Albany amid Epstein ties"](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1RWODVlUmtUSDk3OERRblZyWHp1eWc4U19wU3A4UmMxTGxCS0FvOVVRRkQ5LUU2OTZDMWxzOXRkemplQWxWeHJoOVpkTkg2c1A1WGxmLWdpbENTemZDcV9oZU9RajE1YlJYcFhaOFN1ZEdZZFB4QWZWbXhwX2YzVkUwYWwwd0tGdUtlLXRMZ0xYbmgwVTZCR2VtRWtsZzhQdlFGWXJMY0E0WndlakVuZW9Xa2JMY3gxMDd2Z28tM0ZmUEZsQllxM1ZqZWtSY3JVaWM0dw?oc=5)
-
 4. <span id="ref-4"></span>[Epstein Transparency Act — "Rep. Mace Demands CIA Release Epstein Documents"](/news/2026-02-18-wexner-tells-congress-he-was-duped-by-epstein-in-testimony)
-
 5. <span id="ref-5"></span>[Epstein Transparency Act — "FBI Begins Review of Epstein-Related Records Under New Law"](/news/fbi-begins-epstein-records-review)
