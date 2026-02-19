@@ -5,7 +5,6 @@ source: "PBS NewsHour"
 sourceUrl: "https://www.pbs.org/newshour/show/news-wrap-bhattacharya-to-serve-as-acting-head-of-cdc"
 summary: "Les Wexner testified before Congress on Wednesday, telling lawmakers he was \"duped by a world-class con-man\" when questioned about his decades-long association "
 people:
-  - les-wexner
   - jeffrey-epstein
   - leslie-wexner
 relatedArticles:

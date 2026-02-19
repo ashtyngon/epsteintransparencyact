@@ -5,7 +5,6 @@ source: "International Business Times UK"
 sourceUrl: "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vNVdNengtUjNiYlN0d25qb0ZobmZUeEFwTWtCMmNoVEF4UHRjb1pIM19UZkpOV3dvaHc3VU84WUVFMVZud2Q5Wlo5MUNRVmViNUVqSXJQb3pWV3lCeGZhTUw1SUlMakxhc2hDdFh6andDWXBTbkpld1cxSElCRUk?oc=5"
 summary: "Les Wexner, the 88-year-old billionaire founder of Victoria's Secret, told House Oversight Committee investigators on Wednesday that he was \"duped by a world-cl"
 people:
-  - les-wexner
   - jeffrey-epstein
   - leslie-wexner
   - nancy-mace

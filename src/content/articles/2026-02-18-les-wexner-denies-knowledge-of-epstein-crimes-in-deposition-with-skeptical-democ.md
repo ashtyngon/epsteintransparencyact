@@ -6,7 +6,6 @@ sourceUrl: "https://thehill.com/homenews/house/5744032-les-wexner-epstein-deposi
 summary: "Les Wexner told House investigators on Wednesday he had no firsthand knowledge of Jeffrey Epstein's criminal conduct, repeating his claim that Epstein deceived "
 image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/garciarobert_012126gn02_w.jpg?w=900"
 people:
-  - les-wexner
   - jeffrey-epstein
   - leslie-wexner
 relatedArticles:

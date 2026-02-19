@@ -5,7 +5,6 @@ source: "Politico (Congress)"
 sourceUrl: "https://www.politico.com/news/2026/02/18/les-wexner-jeffrey-epstein-files-00786674"
 summary: "Les Wexner, the former CEO of Victoria's Secret parent company L Brands, denied knowledge of Jeffrey Epstein's criminal activities during a closed-door depositi"
 people:
-  - les-wexner
   - jeffrey-epstein
   - leslie-wexner
   - ghislaine-maxwell

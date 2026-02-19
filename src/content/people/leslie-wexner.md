@@ -1,13 +1,13 @@
 ---
 name: "Leslie Wexner"
 seoTitle: "Les Wexner & Epstein — Victoria's Secret, Mansion Transfer"
-seoDescription: "Les Wexner gave Epstein sweeping power of attorney and a $77M NYC mansion for $0. Subpoenaed by Congress in 2026 after being labeled a 'co-conspirator.'"
+seoDescription: "Les Wexner gave Epstein sweeping power of attorney. A $77M NYC mansion transferred with no sale price on record. Subpoenaed by Congress in 2026 after being labeled a 'co-conspirator.'"
 aliases:
   - "Les Wexner"
   - "Leslie H. Wexner"
 role: "Billionaire retail magnate, founder of L Brands"
 category: "named-in-documents"
-shortBio: "Founder of L Brands (Victoria's Secret, Bath & Body Works) and Epstein's only confirmed financial client. Gave Epstein sweeping power of attorney over his finances and transferred a Manhattan mansion — the largest private residence in NYC — for $0. That property became a primary site of abuse. In 2019, claimed Epstein 'misappropriated vast sums.' Subpoenaed by Congress in February 2026 after a congressman labeled him a 'co-conspirator' based on DOJ files."
+shortBio: "Founder of L Brands (Victoria's Secret, Bath & Body Works) and Epstein's only confirmed financial client. Gave Epstein sweeping power of attorney over his finances. Public records show a $77M Manhattan mansion — NYC's largest private residence — transferred with no sale price recorded; Wexner testified Epstein paid appraised value. That property became a primary site of abuse. In 2019, claimed Epstein 'misappropriated vast sums.' Subpoenaed by Congress in February 2026 after a congressman labeled him a 'co-conspirator' based on DOJ files."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -33,7 +33,7 @@ sources:
 
 Leslie H. Wexner is the founder and former CEO of L Brands, the parent company of Victoria's Secret, Bath & Body Works, and other retail brands. He is one of the wealthiest people in Ohio and built a retail empire that at its peak was valued at tens of billions of dollars. He is also [Jeffrey Epstein](/people/jeffrey-epstein)'s only confirmed financial management client — and the person whose wealth, access, and trust provided the financial foundation on which Epstein built his operation.
 
-The relationship between Wexner and Epstein is one of the least explained and most consequential connections in the entire case. The degree of control Wexner ceded to Epstein — sweeping power of attorney, a $77 million Manhattan mansion transferred for nothing, access to the Victoria's Secret brand — has no parallel in the documented relationships between Epstein and other wealthy individuals.
+The relationship between Wexner and Epstein is one of the least explained and most consequential connections in the entire case. The degree of control Wexner ceded to Epstein — sweeping power of attorney, a $77 million Manhattan mansion transferred with no sale price on record, access to the Victoria's Secret brand — has no parallel in the documented relationships between Epstein and other wealthy individuals.
 
 ## How They Connected
 
@@ -103,6 +103,6 @@ As of February 2026, Wexner has not publicly responded to the subpoena or the co
 
 Wexner has never been charged with any crime. He has denied knowledge of Epstein's criminal activities. He characterized himself as a victim of Epstein's financial misappropriation.
 
-What is established is that Wexner gave Epstein extraordinary control over his finances — more control than any other known relationship in Epstein's network. He transferred a $77 million property for nothing. That property became a site of systematic abuse. The Victoria's Secret brand he built was used as a recruiting tool for trafficking victims. The financial relationship lasted at least 15 years, spanning the period when Epstein was operating his trafficking network.
+What is established is that Wexner gave Epstein extraordinary control over his finances — more control than any other known relationship in Epstein's network. Public records show a $77 million property transferred with no sale price recorded — though Wexner testified he was told Epstein paid appraised value. That property became a site of systematic abuse. The Victoria's Secret brand he built was used as a recruiting tool for trafficking victims. The financial relationship lasted at least 15 years, spanning the period when Epstein was operating his trafficking network.
 
 Wexner has claimed he was unaware of the abuse, unaware of the misuse of his brand, and a victim of financial misappropriation. Congress has subpoenaed him to explain how all of that was possible. The question is not whether Wexner was formally involved in the trafficking — there is no evidence of that. The question is how a billionaire who granted another person total control over his finances, his property, and his most valuable brand failed to detect or prevent the abuse that was conducted using those assets.

@@ -5,7 +5,6 @@ source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/les-wexner-jeffrey-epstein-files-testimony-b2923280.html"
 summary: "Wexner Testifies He Was \"Duped\" by Epstein in Congressional Hearing Leslie Wexner, the billionaire founder of Victoria's Secret's parent company, testified befo"
 people:
-  - les-wexner
   - jeffrey-epstein
   - leslie-wexner
   - ghislaine-maxwell

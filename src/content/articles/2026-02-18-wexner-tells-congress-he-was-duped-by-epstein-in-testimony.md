@@ -11,7 +11,6 @@ imageCredit: Flickr/columbusacademy
 status: published
 articleType: feature
 people:
-  - les-wexner
   - jeffrey-epstein
   - leslie-wexner
   - nancy-mace

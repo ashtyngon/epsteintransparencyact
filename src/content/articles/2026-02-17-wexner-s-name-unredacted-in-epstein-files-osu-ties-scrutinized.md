@@ -11,7 +11,6 @@ imageCredit: U. S. House Committee on Oversight and Government Reform
 status: published
 articleType: feature
 people:
-  - les-wexner
   - jeffrey-epstein
   - leslie-wexner
   - pam-bondi
