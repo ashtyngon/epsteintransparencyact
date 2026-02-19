@@ -84,6 +84,8 @@ The property, known as Zorro Ranch, was [the subject of New Mexico's first full 
 
 Wexner's business relationship with Epstein has been documented in multiple court filings and financial records. The retail magnate granted Epstein power of attorney over his financial affairs during their decades-long association, which ended in 2007. The nature and extent of their financial relationship has been a focus of congressional investigators examining how Epstein built his wealth and maintained his lifestyle.
 
+In his statement, Wexner also disputed the widely reported claim that he gifted Epstein his Manhattan townhouse at 9 East 71st Street, stating: "Contrary to rumor, I did not give Epstein the New York townhouse; he purchased it from me for what I was told was the appraised value. After we moved out, I never set foot in that house again." Public property records show the 1998 transfer from a [Wexner](/people/leslie-wexner)-linked entity recorded no sale price; the property was valued at approximately $77 million at the time.
+
 The House Oversight Committee's investigation represents one of several ongoing inquiries into Epstein's network. The deposition followed months of pressure from lawmakers seeking answers about how Epstein operated and who enabled his activities.
 
 ## International Implications

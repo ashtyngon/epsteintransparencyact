@@ -59,7 +59,9 @@ In 1998, the property was transferred from a Wexner-linked entity to Epstein for
 
 The townhouse became a primary location for Epstein's abuse. Multiple victims described being assaulted at the property. When the FBI raided the mansion in July 2019, agents recovered a safe containing CDs labeled with names and dates — suggesting possible blackmail material — along with diamonds, cash, and a fake passport.
 
-Wexner has never provided a detailed public explanation of why the property was transferred for $0, what consideration (if any) he received, or why he did not raise public concerns when the property became associated with criminal conduct.
+In his February 2026 congressional testimony, Wexner disputed this characterization, stating: "Contrary to rumor, I did not give Epstein the New York townhouse; he purchased it from me for what I was told was the appraised value." Public property records, however, show no sale price recorded for the 1998 transfer.
+
+Wexner has not explained why the property transfer records show $0 in consideration, or why he did not raise public concerns when the property became associated with criminal conduct.
 
 ## The Victoria's Secret Connection
 

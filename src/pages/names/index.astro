@@ -4,8 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import PersonCard from '../../components/PersonCard.astro';
 import { getCollection } from 'astro:content';
 
-const people = (await getCollection('people'))
-  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+const people = (await getCollection('people'));
 
 const categoryLabels: Record<string, string> = {
   'named-in-documents': 'Named in Documents',
@@ -37,8 +36,19 @@ const categoryColors: Record<string, string> = {
   other: 'bg-gray-600 text-white',
 };
 
-// A-Z nav for list view
-const letters = [...new Set(people.map((p) => p.data.name[0].toUpperCase()))].sort();
+// Helper: extract last name
+function getLastName(name: string): string {
+  const parts = name.trim().split(/\s+/);
+  return parts[parts.length - 1];
+}
+
+// Sort by last name
+const peopleSorted = [...people].sort((a, b) =>
+  getLastName(a.data.name).localeCompare(getLastName(b.data.name))
+);
+
+// A-Z nav based on last name
+const letters = [...new Set(peopleSorted.map((p) => getLastName(p.data.name)[0].toUpperCase()))].sort();
 
 // Category grouping for profiles view
 const categoryOrder = ['named-in-documents', 'witness', 'associate', 'official', 'legal', 'victim-survivor', 'other'];
@@ -48,13 +58,22 @@ const categories = categoryOrder.filter((cat) => people.some((p) => p.data.categ
 const namedCount = people.filter((p) => p.data.category === 'named-in-documents').length;
 const totalCount = people.length;
 
+// Serialize for client-side JS
+const peopleJson = peopleSorted.map((p) => ({
+  id: p.id,
+  name: p.data.name,
+  lastName: getLastName(p.data.name),
+  role: p.data.role,
+  category: p.data.category,
+}));
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
   name: 'Full List of Names in the Epstein Files',
   description: `All ${totalCount} individuals documented in connection with the Jeffrey Epstein case — named in DOJ files, associates, officials, witnesses, and survivors.`,
   numberOfItems: totalCount,
-  itemListElement: people.map((p, i) => ({
+  itemListElement: peopleSorted.map((p, i) => ({
     '@type': 'ListItem',
     position: i + 1,
     name: p.data.name,
@@ -78,7 +97,7 @@ const jsonLd = {
         Full List of Names in the Epstein Files
       </h1>
       <p class="text-base text-white/50 leading-relaxed max-w-2xl mb-4">
-        Every individual documented in connection with the Jeffrey Epstein case — {totalCount} people total, including {namedCount} named directly in DOJ files. Click any name for their full profile with sources and related coverage.
+        Every individual documented in connection with the Jeffrey Epstein case — {totalCount} people total, including {namedCount} named directly in DOJ files. This list is incomplete and is continuously updated as new documents are released and new names are identified. Click any name for their full profile with sources and related coverage.
       </p>
       <p class="text-xs text-white/30 leading-relaxed max-w-2xl">
         Inclusion in this list does not imply guilt, wrongdoing, or criminal conduct of any kind. Many individuals appear in the files only in passing, as part of routine correspondence, or because they are mentioned in news articles and links shared with or about Epstein. Each profile specifies the exact nature and context of their connection based on publicly available documents.
@@ -89,7 +108,7 @@ const jsonLd = {
   <!-- Letter jump nav (list view only) -->
   <div id="letter-nav" class="border-b border-border bg-white sticky top-[57px] z-40">
     <div class="max-w-4xl mx-auto px-4 sm:px-6">
-      <nav class="flex flex-wrap gap-0" aria-label="Jump to letter">
+      <nav id="letter-links" class="flex flex-wrap gap-0" aria-label="Jump to letter">
         {letters.map((letter) => (
           <a
             href={`#letter-${letter}`}
@@ -104,10 +123,10 @@ const jsonLd = {
 
   <!-- Main content area -->
   <div class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
-    <!-- Stats bar + view toggle -->
-    <div class="flex flex-wrap items-center justify-between gap-4 mb-8">
+    <!-- Controls bar -->
+    <div class="flex flex-wrap items-center justify-between gap-4 mb-6">
       <div class="flex flex-wrap gap-4 text-xs text-text-muted font-mono">
-        <span>{totalCount} people total</span>
+        <span id="count-display">{totalCount} people total</span>
         <span class="text-border">|</span>
         <span>{namedCount} named in documents</span>
         <span class="text-border">|</span>
@@ -116,75 +135,102 @@ const jsonLd = {
 
       <!-- View toggle -->
       <div class="flex border border-border rounded overflow-hidden text-xs font-semibold">
-        <button
-          id="view-list"
-          class="px-3 py-1.5 bg-primary text-white transition-colors"
-          aria-pressed="true"
-        >
+        <button id="view-list" class="px-3 py-1.5 bg-primary text-white transition-colors" aria-pressed="true">
           List
         </button>
-        <button
-          id="view-profiles"
-          class="px-3 py-1.5 bg-white text-text-muted hover:text-primary transition-colors"
-          aria-pressed="false"
-        >
+        <button id="view-profiles" class="px-3 py-1.5 bg-white text-text-muted hover:text-primary transition-colors" aria-pressed="false">
           Profiles
+        </button>
+      </div>
+    </div>
+
+    <!-- Filter & sort (list view only) -->
+    <div id="filter-controls" class="flex flex-wrap items-center gap-3 mb-6">
+      <div class="flex items-center gap-2">
+        <label for="category-filter" class="text-xs font-semibold text-text-muted uppercase tracking-wider">Filter:</label>
+        <select id="category-filter" class="text-xs border border-border rounded px-2 py-1.5 bg-white text-text font-medium focus:outline-none focus:ring-1 focus:ring-primary">
+          <option value="all">All categories</option>
+          {categoryOrder.map((cat) => (
+            <option value={cat}>{categoryLabels[cat]}</option>
+          ))}
+        </select>
+      </div>
+      <div class="flex items-center gap-2">
+        <label class="text-xs font-semibold text-text-muted uppercase tracking-wider">Sort:</label>
+        <button id="sort-toggle" class="flex items-center gap-1.5 text-xs border border-border rounded px-2 py-1.5 bg-white text-text font-medium hover:bg-surface-dark transition-colors">
+          <span id="sort-label">A → Z</span>
+          <svg id="sort-icon" class="w-3 h-3 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
         </button>
       </div>
     </div>
 
     <!-- ===== LIST VIEW (default) ===== -->
     <div id="list-view">
-      <div class="border border-border">
-        <!-- Table header -->
+      <!-- Noscript fallback: server-rendered list sorted by last name -->
+      <noscript>
+        <div class="border border-border">
+          <div class="hidden sm:grid sm:grid-cols-[200px_1fr_120px] gap-4 px-4 py-2.5 bg-primary text-white text-[11px] font-semibold uppercase tracking-wider">
+            <span>Name</span>
+            <span>Role</span>
+            <span>Category</span>
+          </div>
+          {letters.map((letter) => {
+            const letterPeople = peopleSorted.filter((p) => getLastName(p.data.name)[0].toUpperCase() === letter);
+            return (
+              <>
+                <div id={`letter-${letter}`} class="scroll-mt-32 px-4 py-2 bg-surface-dark border-t border-border">
+                  <span class="text-lg font-serif font-bold text-primary">{letter}</span>
+                  <span class="text-xs text-text-muted ml-2 font-mono">({letterPeople.length})</span>
+                </div>
+                {letterPeople.map((person) => (
+                  <a
+                    href={`/people/${person.id}`}
+                    class="group no-underline grid sm:grid-cols-[200px_1fr_120px] gap-1 sm:gap-4 px-4 py-3 border-t border-border hover:bg-accent/5 transition-colors"
+                  >
+                    <div>
+                      <span class="font-semibold text-primary group-hover:text-accent transition-colors text-sm sm:text-base">
+                        {person.data.name}
+                      </span>
+                      <div class="sm:hidden flex items-center gap-2 mt-0.5">
+                        <span class="text-xs text-text-muted">{person.data.role}</span>
+                        <span class:list={[
+                          'text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5',
+                          categoryColors[person.data.category] || 'bg-gray-600 text-white',
+                        ]}>
+                          {categoryLabels[person.data.category] || person.data.category}
+                        </span>
+                      </div>
+                    </div>
+                    <span class="hidden sm:block text-sm text-text-muted self-center">{person.data.role}</span>
+                    <span class="hidden sm:block self-center">
+                      <span class:list={[
+                        'text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5',
+                        categoryColors[person.data.category] || 'bg-gray-600 text-white',
+                      ]}>
+                        {categoryLabels[person.data.category] || person.data.category}
+                      </span>
+                    </span>
+                  </a>
+                ))}
+              </>
+            );
+          })}
+        </div>
+      </noscript>
+
+      <!-- JS-rendered list -->
+      <div id="js-list" class="border border-border">
         <div class="hidden sm:grid sm:grid-cols-[200px_1fr_120px] gap-4 px-4 py-2.5 bg-primary text-white text-[11px] font-semibold uppercase tracking-wider">
           <span>Name</span>
           <span>Role</span>
           <span>Category</span>
         </div>
+      </div>
 
-        {letters.map((letter) => {
-          const letterPeople = people.filter((p) => p.data.name[0].toUpperCase() === letter);
-          return (
-            <>
-              <div id={`letter-${letter}`} class="scroll-mt-32 px-4 py-2 bg-surface-dark border-t border-border">
-                <span class="text-lg font-serif font-bold text-primary">{letter}</span>
-                <span class="text-xs text-text-muted ml-2 font-mono">({letterPeople.length})</span>
-              </div>
-              {letterPeople.map((person) => (
-                <a
-                  href={`/people/${person.id}`}
-                  class="group no-underline grid sm:grid-cols-[200px_1fr_120px] gap-1 sm:gap-4 px-4 py-3 border-t border-border hover:bg-accent/5 transition-colors"
-                >
-                  <div>
-                    <span class="font-semibold text-primary group-hover:text-accent transition-colors text-sm sm:text-base">
-                      {person.data.name}
-                    </span>
-                    {/* Mobile-only role + category */}
-                    <div class="sm:hidden flex items-center gap-2 mt-0.5">
-                      <span class="text-xs text-text-muted">{person.data.role}</span>
-                      <span class:list={[
-                        'text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5',
-                        categoryColors[person.data.category] || 'bg-gray-600 text-white',
-                      ]}>
-                        {categoryLabels[person.data.category] || person.data.category}
-                      </span>
-                    </div>
-                  </div>
-                  <span class="hidden sm:block text-sm text-text-muted self-center">{person.data.role}</span>
-                  <span class="hidden sm:block self-center">
-                    <span class:list={[
-                      'text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5',
-                      categoryColors[person.data.category] || 'bg-gray-600 text-white',
-                    ]}>
-                      {categoryLabels[person.data.category] || person.data.category}
-                    </span>
-                  </span>
-                </a>
-              ))}
-            </>
-          );
-        })}
+      <div id="no-results" class="hidden py-12 text-center">
+        <p class="text-text-muted text-sm">No people match the selected filter.</p>
       </div>
 
       <!-- Bottom note -->
@@ -199,7 +245,7 @@ const jsonLd = {
     <!-- ===== PROFILES VIEW (hidden by default) ===== -->
     <div id="profiles-view" class="hidden">
       {categories.map((cat) => {
-        const categoryPeople = people.filter((p) => p.data.category === cat);
+        const categoryPeople = people.filter((p) => p.data.category === cat).sort((a, b) => getLastName(a.data.name).localeCompare(getLastName(b.data.name)));
         return categoryPeople.length > 0 ? (
           <section class="mb-10">
             <div class="flex items-center justify-between mb-4 border-b-2 border-primary pb-2">
@@ -228,19 +274,137 @@ const jsonLd = {
   </div>
 </BaseLayout>
 
-<script>
+<script define:vars={{ peopleJson, categoryLabels: categoryLabels, categoryColors: categoryColors }}>
+  // ---- State ----
+  let currentCategory = 'all';
+  let sortDir = 'asc';
+
+  // ---- DOM ----
+  const jsList = document.getElementById('js-list');
+  const noResults = document.getElementById('no-results');
+  const letterLinksContainer = document.getElementById('letter-links');
+  const letterNav = document.getElementById('letter-nav');
+  const filterControls = document.getElementById('filter-controls');
+  const countDisplay = document.getElementById('count-display');
+  const categoryFilter = document.getElementById('category-filter');
+  const sortToggle = document.getElementById('sort-toggle');
+  const sortLabel = document.getElementById('sort-label');
+  const sortIcon = document.getElementById('sort-icon');
   const listBtn = document.getElementById('view-list');
   const profilesBtn = document.getElementById('view-profiles');
   const listView = document.getElementById('list-view');
   const profilesView = document.getElementById('profiles-view');
-  const letterNav = document.getElementById('letter-nav');
   const switchToProfiles = document.getElementById('switch-to-profiles');
   const switchToList = document.getElementById('switch-to-list');
+
+  function getFiltered() {
+    let list = peopleJson;
+    if (currentCategory !== 'all') {
+      list = list.filter(p => p.category === currentCategory);
+    }
+    list = [...list].sort((a, b) => {
+      const cmp = a.lastName.localeCompare(b.lastName);
+      return sortDir === 'asc' ? cmp : -cmp;
+    });
+    return list;
+  }
+
+  function renderList() {
+    const filtered = getFiltered();
+
+    // Keep only the table header
+    const header = jsList.querySelector(':scope > div:first-child');
+    const headerHTML = header ? header.outerHTML : '';
+    jsList.innerHTML = headerHTML;
+
+    if (filtered.length === 0) {
+      noResults.classList.remove('hidden');
+      jsList.classList.add('hidden');
+      updateLetterNav([]);
+      countDisplay.textContent = '0 people shown';
+      return;
+    }
+
+    noResults.classList.add('hidden');
+    jsList.classList.remove('hidden');
+    countDisplay.textContent = filtered.length === peopleJson.length
+      ? peopleJson.length + ' people total'
+      : filtered.length + ' of ' + peopleJson.length + ' shown';
+
+    // Group by last-name letter
+    const groups = {};
+    filtered.forEach(p => {
+      const letter = p.lastName[0].toUpperCase();
+      if (!groups[letter]) groups[letter] = [];
+      groups[letter].push(p);
+    });
+
+    const sortedLetters = Object.keys(groups).sort((a, b) =>
+      sortDir === 'asc' ? a.localeCompare(b) : b.localeCompare(a)
+    );
+
+    updateLetterNav(sortedLetters);
+
+    // Build HTML in one go for performance
+    let html = headerHTML;
+    sortedLetters.forEach(letter => {
+      html += '<div id="letter-' + letter + '" class="scroll-mt-32 px-4 py-2 bg-surface-dark border-t border-border">'
+        + '<span class="text-lg font-serif font-bold text-primary">' + letter + '</span>'
+        + '<span class="text-xs text-text-muted ml-2 font-mono">(' + groups[letter].length + ')</span>'
+        + '</div>';
+
+      groups[letter].forEach(p => {
+        const catColor = categoryColors[p.category] || 'bg-gray-600 text-white';
+        const catLabel = categoryLabels[p.category] || p.category;
+        html += '<a href="/people/' + p.id + '" class="group no-underline grid sm:grid-cols-[200px_1fr_120px] gap-1 sm:gap-4 px-4 py-3 border-t border-border hover:bg-accent/5 transition-colors">'
+          + '<div>'
+          + '<span class="font-semibold text-primary group-hover:text-accent transition-colors text-sm sm:text-base">' + p.name + '</span>'
+          + '<div class="sm:hidden flex items-center gap-2 mt-0.5">'
+          + '<span class="text-xs text-text-muted">' + p.role + '</span>'
+          + '<span class="text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 ' + catColor + '">' + catLabel + '</span>'
+          + '</div>'
+          + '</div>'
+          + '<span class="hidden sm:block text-sm text-text-muted self-center">' + p.role + '</span>'
+          + '<span class="hidden sm:block self-center">'
+          + '<span class="text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 ' + catColor + '">' + catLabel + '</span>'
+          + '</span>'
+          + '</a>';
+      });
+    });
+
+    jsList.innerHTML = html;
+  }
+
+  function updateLetterNav(sortedLetters) {
+    if (!letterLinksContainer) return;
+    letterLinksContainer.innerHTML = '';
+    sortedLetters.forEach(letter => {
+      const a = document.createElement('a');
+      a.href = '#letter-' + letter;
+      a.className = 'px-3 py-2.5 text-xs font-bold text-text-muted hover:text-primary hover:bg-surface-dark transition-colors';
+      a.textContent = letter;
+      letterLinksContainer.appendChild(a);
+    });
+  }
+
+  // ---- Events ----
+  categoryFilter?.addEventListener('change', () => {
+    currentCategory = categoryFilter.value;
+    renderList();
+  });
+
+  sortToggle?.addEventListener('click', () => {
+    sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+    sortLabel.textContent = sortDir === 'asc' ? 'A \u2192 Z' : 'Z \u2192 A';
+    sortIcon.style.transform = sortDir === 'asc' ? '' : 'rotate(180deg)';
+    renderList();
+  });
 
   function showList() {
     listView?.classList.remove('hidden');
     profilesView?.classList.add('hidden');
     letterNav?.classList.remove('hidden');
+    filterControls?.classList.remove('hidden');
     listBtn?.classList.remove('bg-white', 'text-text-muted');
     listBtn?.classList.add('bg-primary', 'text-white');
     listBtn?.setAttribute('aria-pressed', 'true');
@@ -253,6 +417,7 @@ const jsonLd = {
     profilesView?.classList.remove('hidden');
     listView?.classList.add('hidden');
     letterNav?.classList.add('hidden');
+    filterControls?.classList.add('hidden');
     profilesBtn?.classList.remove('bg-white', 'text-text-muted');
     profilesBtn?.classList.add('bg-primary', 'text-white');
     profilesBtn?.setAttribute('aria-pressed', 'true');
@@ -265,4 +430,7 @@ const jsonLd = {
   profilesBtn?.addEventListener('click', showProfiles);
   switchToProfiles?.addEventListener('click', showProfiles);
   switchToList?.addEventListener('click', showList);
+
+  // ---- Init ----
+  renderList();
 </script>
