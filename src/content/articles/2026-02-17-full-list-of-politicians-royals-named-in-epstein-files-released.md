@@ -15,6 +15,8 @@ people:
   - pam-bondi
   - thomas-massie
   - nancy-mace
+  - thomas-pritzker
+  - sarah-ferguson
 relatedArticles:
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations
   - 2026-02-17-hyatt-billionaire-thomas-pritzker-resigns-over-epstein-ties

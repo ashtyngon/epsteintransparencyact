@@ -15,6 +15,7 @@ people:
   - leslie-wexner
   - nancy-mace
   - ro-khanna
+  - thomas-pritzker
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions

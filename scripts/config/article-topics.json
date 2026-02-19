@@ -2144,5 +2144,35 @@
       "investigation",
       "victims"
     ]
+  },
+  {
+    "slug": "2026-02-19-prince-andrew-arrested-over-epstein-files-misconduct-claims",
+    "title": "Prince Andrew Arrested Over Epstein Files Misconduct Claims",
+    "summary": "Prince Andrew Arrested Over Epstein Files Misconduct Claims",
+    "novelty": "Prince Andrew arrested on suspicion of misconduct in public office following revelations from the unsealed Epstein files.",
+    "topic": "Prince Andrew arrested on suspicion of misconduct in public office following revelations from the unsealed Epstein files.",
+    "people": [
+      "andrew-mountbatten-windsor",
+      "king-charles-iii",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "arrest",
+      "breaking",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-18-france-opens-epstein-probes-into-human-trafficking-and-tax-fraud",
+    "title": "France Opens Epstein Probes Into Human Trafficking and Tax Fraud",
+    "summary": "France Opens Epstein Probes Into Human Trafficking and Tax Fraud",
+    "novelty": "DUPLICATE: French prosecutors opening two formal criminal investigations into Epstein-linked human trafficking and tax fraud activities was already reported in 'Paris Prosecutors Open 2 Epstein Probes, Urge French Victims to Testify'.",
+    "topic": "DUPLICATE: French prosecutors opening two formal criminal investigations into Epstein-linked human trafficking and tax fraud activities was already reported in 'Paris Prosecutors Open 2 Epstein Probes, Urge French Victims to Testify'.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation"
+    ]
   }
 ]

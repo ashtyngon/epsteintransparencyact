@@ -9,6 +9,7 @@ people:
   - leon-black
   - leslie-wexner
   - ghislaine-maxwell
+  - naomi-campbell
 tags:
   - court-documents
   - associates

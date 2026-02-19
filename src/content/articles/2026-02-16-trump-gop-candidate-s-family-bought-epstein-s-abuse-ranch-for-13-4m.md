@@ -16,6 +16,7 @@ people:
   - ro-khanna
   - steve-bannon
   - thomas-massie
+  - sarah-ferguson
 relatedArticles:
   - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts

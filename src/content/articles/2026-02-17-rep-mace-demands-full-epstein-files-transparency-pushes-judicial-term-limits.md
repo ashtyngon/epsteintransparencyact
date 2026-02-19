@@ -15,6 +15,8 @@ people:
   - peter-mandelson
   - ro-khanna
   - thomas-massie
+  - thomas-pritzker
+  - sarah-ferguson
 relatedArticles:
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
   - 2026-02-16-rep-khanna-epstein-s-network-knew-enough-to-know-better

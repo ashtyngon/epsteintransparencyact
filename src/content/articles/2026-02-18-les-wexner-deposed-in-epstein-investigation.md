@@ -8,6 +8,8 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - nancy-mace
+  - leon-black
+  - thomas-pritzker
 relatedArticles:
   - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
   - 2026-02-18-rep-mace-demands-cia-release-epstein-documents

@@ -9,6 +9,8 @@ people:
   - sultan-ahmed-bin-sulayem
   - casey-wasserman
   - ghislaine-maxwell
+  - thomas-pritzker
+  - leon-black
 relatedArticles:
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

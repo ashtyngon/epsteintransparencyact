@@ -11,6 +11,7 @@ people:
   - leslie-wexner
   - peter-mandelson
   - prince-andrew
+  - thomas-pritzker
 relatedArticles:
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
   - 2026-02-15-uk-top-prosecutor-says-nobody-above-law-as-police-probe-prince-andrew

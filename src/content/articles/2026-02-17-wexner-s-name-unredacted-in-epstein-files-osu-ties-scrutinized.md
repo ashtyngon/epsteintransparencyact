@@ -14,6 +14,7 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - pam-bondi
+  - thomas-pritzker
 relatedArticles:
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-14-ohio-politicians-received-campaign-funds-from-wexner

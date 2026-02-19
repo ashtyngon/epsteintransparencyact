@@ -12,6 +12,7 @@ people:
   - dick-cheney
   - leslie-wexner
   - donald-trump
+  - naomi-campbell
 tags:
   - transparency-act
   - document-release
