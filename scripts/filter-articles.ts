@@ -498,6 +498,14 @@ async function main() {
       result.suggestedHeadline = cleaned || item.title;
     }
 
+    // HARD GUARD: Reject vague collective-attribution headlines
+    // AP style: "Congress Calls for X" is never acceptable — WHO in Congress?
+    const vagueHeadline = /^(?:Congress|Lawmakers|Officials|Critics|Experts|Members of Congress)\s+(?:Call|Demand|Push|Urge|React|Respond|Weigh In|Speak Out|Express)/i;
+    if (vagueHeadline.test(result.suggestedHeadline || '')) {
+      console.log(`  SKIP (vague headline — no named subject): ${result.suggestedHeadline?.slice(0, 60)}`);
+      continue;
+    }
+
     // HARD GUARD: Too many people = roundup article, reject
     const MAX_PEOPLE_FILTER = 8;
     if ((result.mentionedPeople || []).length > MAX_PEOPLE_FILTER) {

@@ -68,8 +68,12 @@ The ONLY exception is if the roundup's PRIMARY topic (70%+ of the text) is genui
    - Under 75 characters
    - Front-load the most searchable keyword or name
    - Use active verbs: "Resigns", "Names", "Reveals", "Releases", "Subpoenas"
+   - NEVER use collective nouns as subjects: "Congress", "Lawmakers", "Officials", "Critics", "Experts". Name the specific person or institution.
    - GOOD: "Goldman Sachs Lawyer Resigns After Epstein Email Links Surface"
+   - GOOD: "Rep. Mace Demands CIA Release Epstein Documents"
    - BAD: "New Developments in Epstein Case" (says nothing)
+   - BAD: "Congress Calls for More Action on Epstein Files" (which members? what action? vague)
+   - BAD: "Lawmakers React to Prince Andrew Arrest" (who? "lawmakers" is not a source)
 
 Respond ONLY with valid JSON. No other text.
 
@@ -123,16 +127,43 @@ Rules for citations:
 - Background facts from public record should cite the original reporting (e.g., "New York Magazine, 2002")
 - Do NOT fabricate URLs — if you don't have a URL for a background fact, cite it as: [Source Name, Date](SOURCE_URL) using the primary source URL, since it likely references these facts
 
-## Tone: Strict Factual Reporting
-Write like a wire service reporter — AP or Reuters style. Report facts. Attribute claims. Let readers form their own conclusions.
+## Tone: Strict AP Stylebook Reporting
 
+Write like an AP wire reporter. These rules are non-negotiable:
+
+### AP ATTRIBUTION RULES (CRITICAL)
+Every claim must be attributed to a NAMED source. AP does not allow collective attribution.
+
+BANNED — collective/anonymous subjects:
+- "Congress called for..." — WHO in Congress? Name them.
+- "Lawmakers demanded..." — WHICH lawmakers? Name them.
+- "Officials said..." — WHICH officials? Name and title.
+- "Critics argued..." — WHO are the critics? Name them.
+- "Experts say..." — WHICH experts? Name and affiliation.
+- "Several members of Congress..." — WHO? If you can't name them, don't write it.
+- "Sources familiar with the matter..." — unacceptable for this site.
+
+REQUIRED — specific attribution:
+- "Rep. Marjorie Taylor Greene (R-Ga.) said..."
+- "Sen. Sheldon Whitehouse (D-R.I.) called for..."
+- "Ohio Gov. Mike DeWine (R) told reporters Thursday..."
+
+The rule: If you cannot name the person making the statement, with their title and party affiliation, DO NOT include the statement. An article where "lawmakers" or "members of Congress" are the subject of actions is unpublishable. Specific people take specific actions. "Congress" does not speak — individual members do.
+
+### AP POLITICAL REPORTING RULES
+- Always include party affiliation and state on first reference: "Rep. Nancy Mace (R-S.C.)"
+- Congress is not a monolith. Republicans and Democrats in Congress have opposing positions. Never write "Congress calls for X" — identify which party's members said it.
+- Distinguish between a committee action (voted, subpoenaed) and an individual statement (demanded, called for). A single lawmaker's statement does not represent "Congress."
+- Do not write "bipartisan" unless you can name at least one member from each party who supports the position.
+
+### BANNED PATTERNS
 NEVER use:
 - Rhetorical questions ("Why won't they release...?", "What are they hiding?")
 - Editorializing adjectives without attribution ("alarming", "troubling", "shocking", "bombshell", "staggering")
 - False dichotomies ("Either they're guilty or they have nothing to hide")
 - Mind-reading ("The president appears to be betting...", "apparently saw no problem")
 - AI phrases ("It remains to be seen", "The implications are", "This development comes as", "The pattern that emerges")
-- Sentences about what you don't know ("Further details were not available", "The source did not specify")
+- Negative information sentences ("Further details were not available", "The source did not specify", "did not immediately respond to requests for comment", "did not elaborate") — these report the ABSENCE of facts; cut them entirely
 - Interpretive framing ("The pattern is worth spelling out", "This raises serious questions", "The contrast is striking")
 - Causal claims not made by sources ("he moved to suppress", "designed to shield", "intended to obscure")
 
@@ -153,6 +184,9 @@ DO use:
 
 ## Critical Rule: Deliver on the Headline
 The headline promises the reader something specific. Deliver that information in the first 2-3 paragraphs. If the headline says someone "resigned," explain who, when, and why in the opening. Never leave the reader unsatisfied.
+
+## SINGLE-STORY RULE
+Each article covers ONE news event. If the source material mentions multiple unrelated events (e.g., Greene on Epstein's death + DeWine on Wexner + Andrew arrested), pick the ONE most newsworthy event and write about that. Ignore the rest — they belong in separate articles. An article that covers 3 different events with 3 different subjects is a roundup, not reporting.
 
 ## 70/30 Rule
 At least 70% of the article must cover the specific story the headline promises — the who, what, when, where, why, and details from the source. No more than 30% can be background context, cross-references, or related events. If you find yourself writing more background than story, the article is off-track.
@@ -245,7 +279,32 @@ The article MUST have numbered inline citations. Check that:
 
 If citations are missing or incomplete, ADD them. If the References section is missing, CREATE it.
 
-### 5. KILL THE AI VOICE
+### 5. ENFORCE AP ATTRIBUTION STANDARDS (CRITICAL)
+
+Go through the draft and flag EVERY instance of collective or anonymous attribution. This is the #1 quality failure to catch.
+
+**DELETE or REWRITE any sentence where the subject is:**
+- "Congress" acting as a monolith ("Congress called for..." — WHO?)
+- "Lawmakers" without names ("Several lawmakers said..." — WHICH ones?)
+- "Officials" without names ("Officials expressed concern..." — WHO?)
+- "Critics" without names ("Critics argued..." — NAME them)
+- "Sources" without identification ("Sources familiar with..." — unacceptable)
+- "Members of Congress" without names — if no specific member is named with party/state, the sentence is unpublishable
+
+**REWRITE to name the specific person:**
+- BAD: "Members of Congress called for additional arrests" → WHO? Delete this.
+- GOOD: "Rep. Nancy Mace (R-S.C.) called for additional arrests at a Thursday press conference."
+
+**DELETE "negative information" sentences** — sentences that report what people did NOT do:
+- "The lawmakers did not specify..." — DELETE
+- "did not elaborate on..." — DELETE
+- "did not immediately respond to..." — DELETE
+- "The full scope remains unclear..." — DELETE
+These add no information. They are padding. Cut them.
+
+If after these deletions the article has no named sources making specific statements, the article is UNPUBLISHABLE — it means the source material was too thin. In that case, note in your output: "QUALITY_FAIL: No named sources."
+
+### 6. KILL THE AI VOICE
 Remove:
 - "It remains to be seen..."
 - "Further details were not available..."
@@ -255,20 +314,20 @@ Remove:
 - Generic transitional phrases
 - Redundant paragraphs that restate the lead
 
-### 6. ENFORCE MINIMUM LENGTH
+### 7. ENFORCE MINIMUM LENGTH
 The draft MUST be at least 400 words for news articles (1200 for features). If it falls short:
 - Add factual context from the broader Epstein case timeline
 - Reference related developments (document releases, resignations, investigations, legislation)
 - Do NOT pad with filler, repetition, or generic phrases — add real context
 An article under 400 words is NOT publishable. Expand it.
 
-### 7. SHARPEN THE WRITING
+### 8. SHARPEN THE WRITING
 - Every paragraph should earn its place. Cut filler.
 - Lead with the most specific detail, not the most general one.
 - Use active voice. Be direct.
 - **SUBHEADINGS (## headings)**: Only use a subheading when the section below it contains at least 3 substantial paragraphs (roughly 150+ words). Aim for 2-4 subheadings max. The last ## heading should be "## References" for the citation list.
 
-### 8. CROSS-REFERENCE OTHER COVERAGE (MAX 2 LINKS)
+### 9. CROSS-REFERENCE OTHER COVERAGE (MAX 2 LINKS)
 These articles are already published on the site. You may add up to 2 inline links — but ONLY if the linked article covers the SAME specific person, event, or document as THIS article. Most articles need ZERO cross-references.
 
 {existingArticles}
@@ -279,7 +338,7 @@ NEVER include boilerplate paragraphs about Epstein's death, Maxwell's conviction
 
 ---
 
-### 9. KEY TAKEAWAYS
+### 10. KEY TAKEAWAYS
 Write 3-5 bullet-point key takeaways for this article. These will appear in a summary box at the top of the page. Each takeaway should:
 - Be a single factual sentence, 15-30 words
 - Include specific names, numbers, dates, or document references
@@ -343,9 +402,31 @@ At the bottom, include:
 
 Number the source reports below as your primary references. Background facts from public record should cite the most specific source available.
 
-## Tone: Strict Factual Reporting
-Write like AP or Reuters — report facts, attribute claims, let readers form conclusions.
+## Tone: Strict AP Stylebook Reporting
 
+### AP ATTRIBUTION RULES (CRITICAL)
+Every claim must be attributed to a NAMED source. AP does not allow collective attribution.
+
+BANNED — collective/anonymous subjects:
+- "Congress called for..." — WHO in Congress? Name them with party and state.
+- "Lawmakers demanded..." — WHICH lawmakers? Name them.
+- "Officials said..." — WHICH officials? Name and title.
+- "Critics argued..." / "Experts say..." — NAME them.
+- "Members of Congress" / "Several members" without names — UNPUBLISHABLE.
+
+REQUIRED — specific attribution:
+- "Rep. Marjorie Taylor Greene (R-Ga.) said..."
+- "Sen. Sheldon Whitehouse (D-R.I.) called for..."
+
+If you cannot name the person making the statement with title and party, DO NOT include the statement.
+
+### AP POLITICAL REPORTING RULES
+- Always include party affiliation and state on first reference
+- Congress is not a monolith — name which members from which party said what
+- Distinguish committee action from individual statements
+- Do not write "bipartisan" unless you name members from both parties
+
+### BANNED PATTERNS
 NEVER use:
 - Rhetorical questions
 - Editorializing adjectives without attribution ("alarming", "troubling", "shocking", "bombshell")
@@ -353,6 +434,7 @@ NEVER use:
 - Mind-reading about motivations
 - AI phrases ("It remains to be seen", "The implications are", "The pattern that emerges")
 - Interpretive framing ("The pattern is worth spelling out", "This raises serious questions")
+- Negative information sentences ("did not specify", "did not elaborate", "did not respond")
 
 DO use:
 - Direct factual statements with specific details and citations

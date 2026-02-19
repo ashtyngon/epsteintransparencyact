@@ -196,6 +196,42 @@ async function main() {
       .replace(/\n+---\s*$/g, '')                      // trailing ---
       .trim();
 
+    // ── QUALITY GATE: Detect vague collective attribution ──
+    // Count sentences where unnamed collectives are the subject of actions.
+    // If the article leans heavily on "lawmakers", "officials", "members of Congress"
+    // without naming anyone, it's below AP standards.
+    const vaguePatterns = [
+      /\b(?:lawmakers|members of congress|congressional lawmakers|officials|critics|experts|observers|sources)\b(?:\s+(?:said|called|demanded|urged|argued|warned|expressed|stated|indicated|noted|suggested|questioned))/gi,
+      /\bseveral\s+(?:lawmakers|members|officials|people)\b/gi,
+      /\bcongress\s+(?:called|demanded|urged|pushed|moved|voted)\b/gi,
+    ];
+    let vagueCount = 0;
+    for (const pattern of vaguePatterns) {
+      const matches = finalBody.match(pattern);
+      if (matches) vagueCount += matches.length;
+    }
+
+    // Count named-person attributions for comparison
+    const namedAttribution = finalBody.match(/\b(?:Rep\.|Sen\.|Gov\.|Secretary|Director|Attorney General|President)\s+[A-Z][a-z]+/g);
+    const namedCount = namedAttribution ? namedAttribution.length : 0;
+
+    if (vagueCount >= 3 && namedCount < vagueCount) {
+      console.log(`  QUALITY WARN: ${vagueCount} vague attributions vs ${namedCount} named sources in "${headline.slice(0, 50)}"`);
+      // If the article is dominated by vague attribution and has few named sources,
+      // flag it but still publish (the editor prompt should have caught it).
+      // In extreme cases (5+ vague, 0 named), reject entirely.
+      if (vagueCount >= 5 && namedCount === 0) {
+        console.log(`  QUALITY REJECT: Article has ${vagueCount} vague attributions and zero named sources. Skipping.`);
+        continue;
+      }
+    }
+
+    // Check for QUALITY_FAIL signal from editor
+    if (finalBody.includes('QUALITY_FAIL:')) {
+      console.log(`  QUALITY REJECT (editor flagged): ${headline.slice(0, 50)}`);
+      continue;
+    }
+
     // Inject keyTakeaways into frontmatter if extracted and not already present
     let finalFrontmatter = parts.frontmatter;
     if (keyTakeaways.length > 0 && !parts.frontmatter.includes('keyTakeaways:')) {
