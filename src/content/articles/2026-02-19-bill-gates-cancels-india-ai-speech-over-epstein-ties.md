@@ -1,10 +1,15 @@
 ---
-title: "Bill Gates Cancels India AI Speech Over Epstein Ties"
-publishedAt: "2026-02-19T15:58:03.000Z"
-source: "The Hill"
-sourceUrl: "https://thehill.com/policy/technology/5745226-bill-gates-ai-summit-jeffrey-epstein/"
-summary: "Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing"
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP25122602906673-e1770303420745.jpg?w=900"
+title: Bill Gates Cancels India AI Speech Over Epstein Ties
+publishedAt: 2026-02-19T10:58:00.000-05:00
+updatedAt: ''
+source: The Hill
+sourceUrl: https://thehill.com/policy/technology/5745226-bill-gates-ai-summit-jeffrey-epstein/
+summary: Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing
+image: https://upload.wikimedia.org/wikipedia/commons/e/e7/Bill_Gates_MSC_2017.jpg
+imageCaption: Bill Gates, Co-Chair, Bill & Melinda Gates Foundation, at the Munich Security Conference in 2017.
+imageCredit: MSC / Kuhlmann
+status: published
+articleType: feature
 people:
   - bill-gates
   - jeffrey-epstein
@@ -13,10 +18,10 @@ people:
 tags:
   - associates
   - political
-status: published
 aiGenerated: true
-articleType: feature
 confidence: 0.95
+reviewedBy: ''
+reviewedAt: ''
 ---
 
 Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing scrutiny of his past association with Jeffrey Epstein.<sup>[1](#ref-1)</sup> The cancellation came as another high-profile figure, billionaire Les Wexner, faced skepticism from lawmakers about his congressional testimony regarding his ties to Epstein, and as a consulting firm co-founded by Peter Mandelson announced it would enter administration after losing major clients following Epstein-related revelations.<sup>[2](#ref-2)</sup><sup>[3](#ref-3)</sup>
