@@ -2214,5 +2214,35 @@
     "topic": "DUPLICATE: Generic legal analysis article about reputational and legal risks for benefactors connected to Epstein — lacks any new facts, events, names, or revelations specific to the case.",
     "people": [],
     "tags": []
+  },
+  {
+    "slug": "2026-02-19-bard-college-president-had-epstein-ties-through-fundraising",
+    "title": "Bard College President Had Epstein Ties Through Fundraising",
+    "summary": "Bard College President Had Epstein Ties Through Fundraising",
+    "novelty": "DUPLICATE: Leon Botstein's connections to Epstein through Bard College fundraising discussions about music, watches, and young female musicians has already been covered in the 'Epstein Used Arts Camp Donations to Access Teen Victims' story, which documented how Epstein and Maxwell used charitable giving to arts institutions to access victims.",
+    "topic": "DUPLICATE: Leon Botstein's connections to Epstein through Bard College fundraising discussions about music, watches, and young female musicians has already been covered in the 'Epstein Used Arts Camp Donations to Access Teen Victims' story, which documented how Epstein and Maxwell used charitable giving to arts institutions to access victims.",
+    "people": [
+      "jeffrey-epstein",
+      "leon-botstein",
+      "ghislaine-maxwell"
+    ],
+    "tags": [
+      "associates",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-02-19-new-albany-officials-demand-transparency-after-wexner-deposition",
+    "title": "New Albany Officials Demand Transparency After Wexner Deposition",
+    "summary": "New Albany Officials Demand Transparency After Wexner Deposition",
+    "novelty": "DUPLICATE: Wexner's deposition in the Epstein investigation was already reported on Feb 18, 2026 in 'Les Wexner Deposed in Epstein Investigation' — this appears to be local Ohio coverage of the same deposition event with focus on New Albany transparency demands.",
+    "topic": "DUPLICATE: Wexner's deposition in the Epstein investigation was already reported on Feb 18, 2026 in 'Les Wexner Deposed in Epstein Investigation' — this appears to be local Ohio coverage of the same deposition event with focus on New Albany transparency demands.",
+    "people": [
+      "les-wexner",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony"
+    ]
   }
 ]
