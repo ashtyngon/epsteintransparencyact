@@ -252,6 +252,14 @@ async function main() {
       continue;
     }
 
+    // Safety net: reject headlines with pipeline annotations that leaked through
+    const leakedAnnotation = /\((?:Already Reported|Duplicate|Previously Covered|Not New|Roundup)\)/i;
+    if (leakedAnnotation.test(headline)) {
+      console.log(`  SKIP (leaked annotation in headline): ${headline.slice(0, 70)}`);
+      processed.processedUrls.push(item.link);
+      continue;
+    }
+
     if (item.isFeature) {
       console.log(`  FEATURE: ${headline.slice(0, 70)} (${(item.featureSources?.length || 0) + 1} sources)...`);
     } else {

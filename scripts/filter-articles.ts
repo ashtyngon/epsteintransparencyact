@@ -468,9 +468,17 @@ async function main() {
       continue;
     }
 
-    // AI duplicate judgment logged but NOT used to reject — hard dedup gate decides
+    // AI duplicate judgment: reject when BOTH isDuplicate=true AND novelty says DUPLICATE
+    // This is a strong double-signal — the AI is confident. Hard dedup catches the rest.
+    if (result.isDuplicate && result.noveltyStatement?.toUpperCase().startsWith('DUPLICATE:')) {
+      console.log(`  SKIP (AI double-signal dup): ${item.title.slice(0, 60)}`);
+      console.log(`    novelty: ${result.noveltyStatement?.slice(0, 80)}`);
+      continue;
+    }
+
+    // If only one signal fires, log but let hard dedup decide
     if (result.isDuplicate) {
-      console.log(`  AI says dup (ignored, hard dedup decides): ${item.title.slice(0, 60)}`);
+      console.log(`  AI says dup (hard dedup decides): ${item.title.slice(0, 60)}`);
       console.log(`    novelty: ${result.noveltyStatement?.slice(0, 80) || 'N/A'}`);
     }
 
@@ -479,6 +487,15 @@ async function main() {
     if (badHeadlinePattern.test(result.suggestedHeadline || '')) {
       console.log(`  FIX: Bad headline "${result.suggestedHeadline?.slice(0, 40)}" → using original title`);
       result.suggestedHeadline = item.title;
+    }
+
+    // HARD GUARD: Strip parenthetical annotations the AI sometimes adds to headlines
+    // e.g. "(Already Reported)", "(Update)", "(Duplicate)", "(Opinion)", "(Breaking)"
+    const parentheticalPattern = /\s*\((?:Already Reported|Duplicate|Update|Opinion|Breaking|Developing|Correction|Old|Roundup|Previously Covered|Not New)\)\s*/gi;
+    if (parentheticalPattern.test(result.suggestedHeadline || '')) {
+      const cleaned = (result.suggestedHeadline || '').replace(parentheticalPattern, '').trim();
+      console.log(`  FIX: Stripped annotation from headline "${result.suggestedHeadline?.slice(0, 50)}" → "${cleaned.slice(0, 50)}"`);
+      result.suggestedHeadline = cleaned || item.title;
     }
 
     // HARD GUARD: Too many people = roundup article, reject
