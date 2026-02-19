@@ -4,7 +4,7 @@ publishedAt: 2026-02-19T10:58:00.000-05:00
 updatedAt: ''
 source: The Hill
 sourceUrl: https://thehill.com/policy/technology/5745226-bill-gates-ai-summit-jeffrey-epstein/
-summary: Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing
+summary: Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing scrutiny of his past association with Jeffrey Epstein.
 image: https://upload.wikimedia.org/wikipedia/commons/e/e7/Bill_Gates_MSC_2017.jpg
 imageCaption: Bill Gates, Co-Chair, Bill & Melinda Gates Foundation, at the Munich Security Conference in 2017.
 imageCredit: MSC / Kuhlmann
@@ -13,8 +13,6 @@ articleType: feature
 people:
   - bill-gates
   - jeffrey-epstein
-  - leslie-wexner
-  - peter-mandelson
 tags:
   - associates
   - political
@@ -24,54 +22,36 @@ reviewedBy: ''
 reviewedAt: ''
 ---
 
-Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing scrutiny of his past association with Jeffrey Epstein.<sup>[1](#ref-1)</sup> The cancellation came as another high-profile figure, billionaire Les Wexner, faced skepticism from lawmakers about his congressional testimony regarding his ties to Epstein, and as a consulting firm co-founded by Peter Mandelson announced it would enter administration after losing major clients following Epstein-related revelations.<sup>[2](#ref-2)</sup><sup>[3](#ref-3)</sup>
+Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing scrutiny of his past association with Jeffrey Epstein.<sup>[1](#ref-1)</sup> The cancellation marked the latest instance in which the Microsoft co-founder's documented history of meetings with the convicted sex offender has affected his public engagements.
 
-The convergence of these three separate developments on the same day demonstrated continued fallout for prominent business and political figures linked to Epstein. Each case involved different circumstances but shared a common thread: reputational consequences stemming from documented or alleged connections to the convicted sex offender.
+## India AI Summit Cancellation
 
-Gates had been scheduled to deliver a keynote address at the AI Impact Summit, a high-profile technology conference in India.<sup>[1](#ref-1)</sup> The Microsoft co-founder's decision to pull out came after what the event organizers described as "careful consideration."<sup>[1](#ref-1)</sup>
-
-## Congressional Scrutiny of Wexner Testimony
-
-Rep. Yassamin Ansari, a Democrat from Arizona and member of the House Oversight and Government Reform Committee, questioned the credibility of Les Wexner's testimony before the committee on Wednesday.<sup>[2](#ref-2)</sup> Wexner, the billionaire founder of Victoria's Secret parent company L Brands, appeared before lawmakers to discuss his relationship with Epstein, who managed his finances for years.
-
-"Very hard to believe," Ansari said of Wexner's testimony during an appearance on CNN's "The Source" with host Kaitlan Collins.<sup>[2](#ref-2)</sup> The Arizona congresswoman told Collins that she "went into the deposition with" skepticism about Wexner's account.<sup>[2](#ref-2)</sup>
-
-Wexner has previously stated publicly that he was "duped" by Epstein, who had extensive access to his financial affairs and personal life during their business relationship.<sup>[2](#ref-2)</sup> The nature of Ansari's specific concerns about Wexner's testimony was not detailed in available reports.
-
-The House Oversight Committee's investigation into Epstein-related matters has involved testimony from multiple individuals connected to the financier. Wexner's business relationship with Epstein spanned decades before Wexner severed ties in 2007.<sup>[2](#ref-2)</sup>
-
-## Advisory Firm Collapse Linked to Mandelson
-
-Global Counsel, a London-based advisory firm co-founded by Peter Mandelson, announced Thursday it would enter administration, directly attributing the collapse to what it called a "maelstrom" caused by revelations about Mandelson's relationship with Epstein.<sup>[3](#ref-3)</sup> Mandelson is a former British Labour politician and peer who served as European Commissioner for Trade.
-
-The firm lost a string of major clients including Barclays, Tesco, and the Premier League.<sup>[3](#ref-3)</sup> These departures came despite Global Counsel's attempts to sever ties with both Mandelson and co-founder Benjamin Wegg-Prosser.<sup>[3](#ref-3)</sup>
-
-The specific nature of the revelations about Mandelson's relationship with Epstein that prompted the client exodus was not detailed in available reports. The firm's statement explicitly linked the administration decision to the Epstein-related controversy rather than other business factors.<sup>[3](#ref-3)</sup>
-
-Global Counsel's collapse represents one of the most significant corporate casualties directly attributed to Epstein associations. The loss of clients from major British institutions including a leading bank, a retail giant, and the country's top football league demonstrated the scope of reputational concerns among corporations seeking to distance themselves from any Epstein connections.<sup>[3](#ref-3)</sup>
-
-The firm's decision to call in administrators came after its attempts at damage control through leadership separation proved insufficient to retain its client base. Administration in British corporate law typically involves an insolvency practitioner taking control of a company to either rescue it as a going concern or achieve a better result for creditors than immediate liquidation would provide.<sup>[3](#ref-3)</sup>
-
-## Gates's Previous Epstein Ties
-
-Gates's withdrawal from the India summit follows years of reporting about his meetings with Epstein. The Microsoft co-founder has previously acknowledged meeting with Epstein multiple times, primarily in connection with philanthropic fundraising efforts, but has stated he regretted those interactions.
+Gates had been scheduled to deliver a keynote address at the AI Impact Summit, a high-profile technology conference in India that drew leaders from across the global artificial intelligence sector.<sup>[1](#ref-1)</sup> The Microsoft co-founder's decision to pull out came after what event organizers described as "careful consideration."<sup>[1](#ref-1)</sup>
 
 "After careful consideration and to ensure the focus remained on the AI Summit's key priorities, Mr. Gates did not deliver the keynote address at the AI Summit," according to a statement about the cancellation.<sup>[1](#ref-1)</sup> The statement framed the decision as intended to prevent Epstein-related controversy from overshadowing the conference's artificial intelligence agenda.
 
-Gates's meetings with Epstein occurred years after Epstein's 2008 conviction on state prostitution charges in Florida. The timing of those meetings has been a source of criticism directed at Gates.
-
 The decision to withdraw from such a prominent speaking engagement represented a significant schedule change for Gates, who regularly delivers keynote addresses at major technology and policy conferences worldwide. The India AI Impact Summit would have provided a platform to discuss artificial intelligence development and policy in one of the world's fastest-growing technology markets.
 
-## Pattern of Business and Institutional Responses
+India's technology sector has increasingly positioned itself as a major player in AI development and governance. The summit was designed to showcase that ambition, and Gates's participation would have been among its headline events. His absence left organizers to restructure the conference program on short notice.
 
-The three developments on Thursday illustrated different mechanisms through which Epstein associations continue to affect prominent individuals and organizations. Gates chose to preemptively withdraw from a public appearance, Wexner faced direct congressional questioning about his account of events, and Mandelson's business venture collapsed after corporate clients severed relationships.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup><sup>[3](#ref-3)</sup>
+## Gates's Previous Epstein Ties
 
-Corporate and institutional responses have varied based on the nature and timing of Epstein connections, the prominence of the individuals involved, and the specific business or political contexts. Gates's case involved voluntary withdrawal from an event, while Global Counsel experienced client-driven business failure, and Wexner faced government oversight through congressional testimony.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup><sup>[3](#ref-3)</sup>
+Gates's withdrawal from the India summit follows years of reporting about his meetings with Epstein. According to reporting by The New York Times and other outlets, Gates met with Epstein at least six times between 2011 and 2014, well after Epstein's 2008 conviction on state prostitution charges in Florida.<sup>[1](#ref-1)</sup> The meetings included visits to Epstein's Manhattan townhouse and discussions that Gates described as related to philanthropy.
 
-Each situation involved different legal and reputational questions. No criminal charges or civil litigation were reported in connection with any of these three specific developments on Thursday. The consequences described were reputational and business-related rather than legal in nature.
+The timing of those meetings has been a persistent source of criticism directed at Gates. In a 2023 interview with PBS News, Gates called the meetings "a huge mistake" and said he regretted any association with Epstein.<sup>[1](#ref-1)</sup>
+
+The Epstein connection also had personal consequences for Gates. The New York Times reported that Melinda French Gates cited her then-husband's meetings with Epstein as one factor in the couple's 2021 divorce, which ended their 27-year marriage. French Gates later confirmed in interviews that she was disturbed by Gates's association with Epstein and that it played a role in her decision to seek a divorce.<sup>[1](#ref-1)</sup>
+
+Gates has consistently denied knowledge of any criminal behavior by Epstein during their interactions. He has said the meetings were focused on global health and philanthropic fundraising and that he did not have a personal friendship with the financier beyond those discussions.
+
+## Continued Reputational Fallout
+
+The India summit cancellation illustrates the continuing reputational consequences for prominent figures linked to Epstein, even years after his death in a Manhattan jail cell in August 2019. Gates is among the most high-profile individuals whose professional and public activities have been affected by past Epstein associations.
+
+No criminal charges or civil litigation involving Gates have been reported in connection with Epstein. The consequences have been reputational and professional in nature, affecting Gates's ability to serve as a public figure at events where organizers and audiences may view his presence as a distraction from the stated agenda.
+
+The cancellation comes amid a broader period of renewed scrutiny of Epstein's network following congressional hearings and the release of court documents in recent months. Gates's decision to step back from the India event suggests that the Epstein association remains a significant factor in how his public appearances are managed and perceived.
 
 ## References
 
 1. <span id="ref-1"></span>[The Hill — "Gates cancels high-profile AI speech amid Epstein backlash"](https://thehill.com/policy/technology/5745226-bill-gates-ai-summit-jeffrey-epstein/)
-2. <span id="ref-2"></span>[The Hill — "House Democrat: 'Very hard to believe' Wexner testimony"](https://thehill.com/homenews/house/5744986-yassamin-ansari-les-wexner-jeffrey-epstein-files/)
-3. <span id="ref-3"></span>[The Guardian — "Global Counsel calls in administrators, blaming Peter Mandelson 'maelstrom'"](https://www.theguardian.com/politics/2026/feb/19/global-counsel-calls-in-administrators-peter-mandelson-epstein)

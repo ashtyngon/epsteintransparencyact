@@ -16,8 +16,6 @@ articleType: feature
 confidence: 0.95
 ---
 
-# Les Wexner Deposed in Epstein Investigation, Democrats Call Testimony Not Credible
-
 **Leslie Wexner**, the 88-year-old founder of Victoria's Secret, testified Wednesday before the House Oversight and Government Reform Committee in a closed-door deposition regarding his relationship with **Jeffrey Epstein**, with Democratic lawmakers immediately challenging the credibility of his testimony.<sup>[1](#ref-1)</sup>
 
 The deposition took place in **New Albany, Ohio**, where Wexner lives, but no Republican members of the committee attended in person.<sup>[2](#ref-2)</sup> Democrats said the session was led by committee staff, while Republicans were absent.<sup>[2](#ref-2)</sup>
@@ -36,9 +34,7 @@ House Democrats said Wexner "downplayed his relationship" with Epstein and "prov
 
 Wexner is named in the Epstein files released by the Justice Department as a "co-conspirator," though he has not been charged with a crime and has denied any wrongdoing.<sup>[2](#ref-2)</sup>
 
-The designation in the files has placed Wexner under increased scrutiny as Congress conducts its investigation into Epstein's network and the extent of knowledge among his associates. Democratic lawmakers expressed frustration with what they characterized as Wexner's evasive testimony and lack of accountability.<sup>[2](#ref-2)</sup>
-
-The billionaire's testimony comes as part of a broader congressional investigation into Epstein's activities and the individuals connected to him. The House Oversight Committee has been conducting depositions with multiple figures named in the released Epstein files.
+Garcia and other committee Democrats characterized Wexner's testimony as evasive, according to Axios.<sup>[2](#ref-2)</sup> The House Oversight Committee has been conducting depositions with multiple figures named in the released Epstein files as part of its investigation.
 
 ## Partisan Divide in Deposition
 
@@ -48,17 +44,12 @@ A source familiar with the matter noted that Democrats did not attend a schedule
 
 The deposition in New Albany, Ohio, rather than on Capitol Hill, represented an accommodation for Wexner's location. The decision to conduct the testimony remotely from Washington allowed committee staff to lead the questioning while members participated as available.<sup>[2](#ref-2)</sup>
 
-Garcia's public comments midway through the deposition indicated Democratic lawmakers' dissatisfaction with Wexner's responses before the session had concluded. The ranking Democrat's statement about wanting to see "more remorse" suggested frustration with Wexner's framing of himself primarily as a victim rather than acknowledging any responsibility for enabling Epstein's activities through their financial relationship.<sup>[2](#ref-2)</sup>
-
-The testimony represents one of the highest-profile depositions in the congressional investigation to date, given Wexner's prominence in the business world and his extensive documented relationship with Epstein. Democrats indicated they found the session unproductive in advancing their understanding of how Epstein operated and who may have facilitated his activities.<sup>[1](#ref-1)</sup>
-
-The House Oversight Committee's investigation continues as part of the broader examination of the Epstein network following the release of previously sealed documents. Congressional investigators have sought testimony from multiple individuals named in the files as they attempt to establish a comprehensive record of Epstein's activities and connections.
+Garcia made his comments to reporters midway through the deposition, before the session had concluded.<sup>[2](#ref-2)</sup> The New York Times reported that Democrats found the eight-hour session unproductive, saying Wexner's answers were "not credible."<sup>[1](#ref-1)</sup>
 
 ## References
 
 1. <span id="ref-1"></span>[New York Times — "Leslie Wexner Says Epstein 'Conned' Him, but Democrats Are Skeptical"](https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html)
 2. <span id="ref-2"></span>[Axios — "'Denied everything': Dems blast Wexner for downplaying Epstein ties"](https://www.axios.com/2026/02/18/les-wexner-epstein-oversight-deposition)
 3. <span id="ref-3"></span>[CBS News — "Billionaire Les Wexner to testify before key House committee as part of Epstein probe"](https://www.cbsnews.com/video/billionaire-les-wexner-to-testify-before-key-house-committee-as-part-of-epstein-probe/)
-4. <span id="ref-4"></span>[The Hill — "Texas comptroller candidate who bought Epstein ranch plans to turn it into a Christian retreat"](https://thehill.com/homenews/state-watch/5743734-huffines-christian-retreat-epstein-ranch/)
 5. <span id="ref-5"></span>[BBC News — "Billionaire Lex Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein"](https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss)
 6. <span id="ref-6"></span>[Courthouse News — "Billionaire Les Wexner says he was 'duped' by adviser Jeffrey Epstein, 'a world-class con man'"](https://www.courthousenews.com/billionaire-les-wexner-says-he-was-duped-by-adviser-jeffrey-epstein-a-world-class-con-man/)
