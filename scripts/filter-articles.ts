@@ -290,8 +290,10 @@ function hardDedupCheck(
   return { isDuplicate: false };
 }
 
-// Also dedup candidates against EACH OTHER in the same batch
-function dedupWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
+// Merge same-topic candidates within the batch instead of dropping duplicates.
+// When 2+ articles in the same batch cover the same story, merge them so the
+// generator can write ONE article citing ALL sources.
+function mergeWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
   const kept: RelevantArticle[] = [];
 
   for (const article of articles) {
@@ -299,7 +301,7 @@ function dedupWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
     const words = getSignificantWords(headline);
     const people = new Set(article.filterResult.mentionedPeople || []);
 
-    let isDup = false;
+    let mergedInto: RelevantArticle | null = null;
     for (const existing of kept) {
       const existingHeadline = existing.filterResult.suggestedHeadline || existing.title;
       const existingWords = getSignificantWords(existingHeadline);
@@ -309,13 +311,43 @@ function dedupWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
       const peopleOverlap = [...people].filter((p) => existingPeople.has(p)).length;
 
       if (sim >= 0.4 || (sim >= 0.3 && peopleOverlap >= 2)) {
-        console.log(`  DEDUP (batch): "${headline.slice(0, 50)}" ≈ "${existingHeadline.slice(0, 50)}" (sim=${sim.toFixed(2)}, people=${peopleOverlap})`);
-        isDup = true;
+        mergedInto = existing;
         break;
       }
     }
 
-    if (!isDup) {
+    if (mergedInto) {
+      // Merge: add this article as an additional source on the kept article
+      const mergedHeadline = mergedInto.filterResult.suggestedHeadline || mergedInto.title;
+      console.log(`  MERGE (batch): "${headline.slice(0, 50)}" → merged into "${mergedHeadline.slice(0, 50)}"`);
+      console.log(`    ${article.source} adds to ${mergedInto.source}`);
+
+      // Mark as multi-source article
+      if (!mergedInto.featureSources) {
+        mergedInto.featureSources = [];
+      }
+      mergedInto.featureSources.push(article);
+      mergedInto.isFeature = true;
+
+      // Merge people lists (union)
+      const allPeople = new Set([
+        ...(mergedInto.filterResult.mentionedPeople || []),
+        ...(article.filterResult.mentionedPeople || []),
+      ]);
+      mergedInto.filterResult.mentionedPeople = [...allPeople];
+
+      // Merge tags (union)
+      const allTags = new Set([
+        ...(mergedInto.filterResult.tags || []),
+        ...(article.filterResult.tags || []),
+      ]);
+      mergedInto.filterResult.tags = [...allTags];
+
+      // Keep the higher rank score
+      if (article.rankScore > mergedInto.rankScore) {
+        mergedInto.rankScore = article.rankScore;
+      }
+    } else {
       kept.push(article);
     }
   }
@@ -538,16 +570,16 @@ async function main() {
     }
   }
 
-  // ── Step 4: Dedup within batch (catches same story from different sources) ──
-  const dedupedBatch = dedupWithinBatch(afterDedup);
+  // ── Step 4: Merge within batch (same story from different sources → one article) ──
+  const mergedBatch = mergeWithinBatch(afterDedup);
 
-  console.log(`\nAfter hard dedup: ${scored.length} → ${afterDedup.length} → ${dedupedBatch.length} (AI pass → dedup vs existing → dedup within batch)`);
+  console.log(`\nAfter hard dedup: ${scored.length} → ${afterDedup.length} → ${mergedBatch.length} (AI pass → dedup vs existing → merge within batch)`);
 
   // Sort by rank score — best stories first
-  dedupedBatch.sort((a, b) => b.rankScore - a.rankScore);
+  mergedBatch.sort((a, b) => b.rankScore - a.rankScore);
 
   // ── Step 5: Detect feature article opportunities ──
-  const featureCandidates = detectFeatureCandidates(dedupedBatch);
+  const featureCandidates = detectFeatureCandidates(mergedBatch);
 
   let topStories: RelevantArticle[];
   if (featureCandidates.length > 0) {
@@ -560,26 +592,30 @@ async function main() {
     featureArticle.featureSources = feature.articles.slice(1);
 
     // Remaining slots go to non-feature articles
-    const nonFeatureArticles = dedupedBatch.filter(
+    const nonFeatureArticles = mergedBatch.filter(
       (a) => !feature.articles.includes(a)
     );
     topStories = [featureArticle, ...nonFeatureArticles.slice(0, MAX_ARTICLES_TO_PUBLISH - 1)];
   } else {
-    topStories = dedupedBatch.slice(0, MAX_ARTICLES_TO_PUBLISH);
+    topStories = mergedBatch.slice(0, MAX_ARTICLES_TO_PUBLISH);
   }
 
   console.log(`\n--- Filter Results ---`);
   console.log(`Candidates:        ${candidates.length}`);
   console.log(`AI passed:         ${scored.length}`);
-  console.log(`After dedup:       ${dedupedBatch.length}`);
+  console.log(`After dedup:       ${mergedBatch.length}`);
   console.log(`Publishing top:    ${topStories.length}`);
 
   if (topStories.length > 0) {
     console.log(`\nRanked stories to publish:`);
     topStories.forEach((s, i) => {
-      const label = s.isFeature ? ' [FEATURE]' : '';
+      const sourceCount = (s.featureSources?.length || 0) + 1;
+      const label = s.isFeature ? ` [MULTI-SOURCE: ${sourceCount}]` : '';
       console.log(`  ${i + 1}. [score=${s.rankScore}]${label} ${s.filterResult.suggestedHeadline || s.title.slice(0, 70)}`);
       console.log(`     news=${s.filterResult.newsworthiness} search=${s.filterResult.searchPotential} breaking=${s.filterResult.isBreaking}`);
+      if (s.featureSources && s.featureSources.length > 0) {
+        console.log(`     sources: ${s.source}, ${s.featureSources.map(fs => fs.source).join(', ')}`);
+      }
     });
   }
 

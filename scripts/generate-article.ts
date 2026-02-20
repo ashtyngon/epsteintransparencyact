@@ -123,9 +123,15 @@ async function generateFeatureArticle(
     `### Source ${i + 1}: ${src.source}\nTitle: ${src.title}\nContent: ${src.description}\nURL: ${src.link}\nPublished: ${src.pubDate}`
   ).join('\n\n');
 
+  const sourceCount = (item.featureSources?.length || 0) + 1;
+  const wordCountGuidance = sourceCount <= 2
+    ? '500-800 words — this is a normal news article drawing from 2 sources, not a long-form feature. Write at standard article length.'
+    : '1200-2000 words — this is a FEATURE with 3+ sources. Go deeper on the topic.';
+
   const prompt = FEATURE_PROMPT
     .replace('{sourceReports}', sourceReports)
-    .replace('{existingArticles}', existingArticles);
+    .replace('{existingArticles}', existingArticles)
+    .replace(/1200-2000 words — this is a FEATURE, not a news brief/, wordCountGuidance);
 
   try {
     const controller = new AbortController();
@@ -183,7 +189,7 @@ tags:
 ${tags || '  []'}
 status: published
 aiGenerated: true
-articleType: ${item.isFeature ? 'feature' : 'news'}
+articleType: ${item.isFeature && (item.featureSources?.length || 0) >= 2 ? 'feature' : 'news'}
 confidence: ${item.filterResult.confidence}
 ---
 
@@ -260,8 +266,12 @@ async function main() {
       continue;
     }
 
+    const sourceCount = (item.featureSources?.length || 0) + 1;
     if (item.isFeature) {
-      console.log(`  FEATURE: ${headline.slice(0, 70)} (${(item.featureSources?.length || 0) + 1} sources)...`);
+      console.log(`  MULTI-SOURCE (${sourceCount}): ${headline.slice(0, 70)}...`);
+      item.featureSources?.forEach((fs, i) => {
+        console.log(`    source ${i + 2}: ${fs.source} — ${fs.title.slice(0, 60)}`);
+      });
     } else {
       console.log(`  Writing: ${headline.slice(0, 70)}...`);
     }
@@ -273,7 +283,8 @@ async function main() {
 
     // Enforce minimum word count — reject thin articles
     const wordCount = body.split(/\s+/).filter(w => w.length > 0).length;
-    const minWords = item.isFeature ? 600 : 300;
+    // 2-source merges target normal article length; 3+ sources are full features
+    const minWords = (item.isFeature && sourceCount >= 3) ? 600 : 300;
     if (wordCount < minWords) {
       console.log(`  SKIP (too short: ${wordCount} words, min ${minWords}): ${headline.slice(0, 60)}`);
       processed.processedUrls.push(item.link);
@@ -299,8 +310,13 @@ async function main() {
       tags: item.filterResult.tags || [],
     });
 
-    // Track processed URL
+    // Track processed URLs (including all merged sources)
     processed.processedUrls.push(item.link);
+    if (item.featureSources) {
+      for (const fs of item.featureSources) {
+        processed.processedUrls.push(fs.link);
+      }
+    }
   }
 
   processed.lastRun = new Date().toISOString();

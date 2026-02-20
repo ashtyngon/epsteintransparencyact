@@ -449,9 +449,17 @@ DO use:
 - Use **bold** for key names, dates, and facts on first mention
 - **SUBHEADINGS**: Only use a ## subheading when the section below it has at least 3 substantial paragraphs (~150+ words). Aim for 3-5 subheadings max. The last ## heading should be "## References".
 
-## What Makes This a Feature
+## CRITICAL: Use ALL Sources
+You are given multiple source reports about the same story. You MUST:
+- Pull unique facts and quotes from EACH source — do not rely on just one
+- Cite EVERY source in your References section
+- When sources add different details about the same event, include both
+- When sources have unique quotes or data not in the others, always include them
+- The goal: a reader gets a MORE COMPLETE picture than any single source provides
+
+## What Makes This a Multi-Source Article
 - Synthesize the source reports below into ONE cohesive narrative focused on a SINGLE ANGLE
-- A feature goes DEEPER on one topic — it does NOT go WIDER across all topics
+- Pull the best facts, quotes, and details from each source
 - Provide factual context: timeline of events, documented connections, public record for THIS story
 - Connect documented facts between the different source reports
 - End with documented next steps: scheduled hearings, pending legislation, announced investigations
