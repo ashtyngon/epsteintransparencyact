@@ -35,8 +35,8 @@
     "slug": "2026-02-19-new-mexico-ag-opens-criminal-probe-into-bodies-buried-at-epstein-ranch",
     "title": "New Mexico AG Opens Criminal Probe Into Bodies Buried at Epstein Ranch",
     "summary": "# New Mexico Reopens Investigation Into Alleged Burials at Former Epstein Ranch",
-    "novelty": "New Mexico Attorney General Ra\u00fal Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
-    "topic": "New Mexico Attorney General Ra\u00fal Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
+    "novelty": "New Mexico Attorney General Raúl Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
+    "topic": "New Mexico Attorney General Raúl Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
     "people": [
       "jeffrey-epstein",
       "raul-torrez"
@@ -61,6 +61,39 @@
       "victims",
       "survivors",
       "settlement"
+    ]
+  },
+  {
+    "slug": "2026-02-20-scotland-yard-expands-andrew-probe-questions-protection-officers-on-epstein-link",
+    "title": "Scotland Yard Expands Andrew Probe: Questions Protection Officers on Epstein Links",
+    "summary": "Scotland Yard Expands Andrew Probe: Questions Protection Officers on Epstein Links",
+    "novelty": "Scotland Yard is expanding its inquiry into Prince Andrew by questioning all his former protection officers and reviewing airport flight records to assess whether they were used for human trafficking.",
+    "topic": "Scotland Yard is expanding its inquiry into Prince Andrew by questioning all his former protection officers and reviewing airport flight records to assess whether they were used for human trafficking.",
+    "people": [
+      "andrew-mountbatten-windsor",
+      "prince-andrew",
+      "king-charles-iii",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "arrest",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-20-new-mexico-reopens-zorro-ranch-investigation-after-fbi-search-gap-revealed",
+    "title": "New Mexico Reopens Zorro Ranch Investigation After FBI Search Gap Revealed",
+    "summary": "New Mexico Reopens Zorro Ranch Investigation After FBI Search Gap Revealed",
+    "novelty": "New Mexico Attorney General reopens criminal investigation into Zorro Ranch following Guardian report revealing FBI never searched the property.",
+    "topic": "New Mexico Attorney General reopens criminal investigation into Zorro Ranch following Guardian report revealing FBI never searched the property.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "breaking",
+      "document-release"
     ]
   }
 ]
