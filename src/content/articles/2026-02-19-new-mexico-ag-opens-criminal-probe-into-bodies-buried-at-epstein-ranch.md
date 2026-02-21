@@ -35,7 +35,7 @@ The New Mexico Department of Justice described the ranch as remote and confirmed
 
 ## Related Investigation
 
-The attorney general's office [launched a full investigation](https://www.epsteintransparencyact.com/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch) into Epstein's Zorro Ranch earlier this year after years of limited scrutiny of the property.<sup>[1](#ref-1)</sup>
+The attorney general's office [launched a full investigation](/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch) into Epstein's Zorro Ranch earlier this year after years of limited scrutiny of the property.<sup>[1](#ref-1)</sup>
 
 New Mexico authorities identified the ranch as one of multiple properties Epstein owned where alleged crimes occurred.<sup>[1](#ref-1)</sup> The property has been the subject of law enforcement attention since Epstein's arrest on federal sex trafficking charges.<sup>[1](#ref-1)</sup>
 
