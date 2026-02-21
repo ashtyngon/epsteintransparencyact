@@ -5,9 +5,9 @@ seoDescription: "Lord Mandelson, former UK Ambassador to the US, subpoenaed by C
 aliases:
   - "Lord Mandelson"
   - "Baron Mandelson"
-role: "British politician, former UK Ambassador to the United States"
+role: "British politician, former UK Ambassador to the United States (dismissed September 2025)"
 category: "named-in-documents"
-shortBio: "British Labour politician who served as Business Secretary, European Commissioner for Trade, and most recently as UK Ambassador to the United States. Subpoenaed by the U.S. House Committee on Oversight and Government Reform in February 2026 to testify about his connections to Jeffrey Epstein — the first foreign ambassador, current or former, called before Congress in the investigation."
+shortBio: "British Labour politician who served as Business Secretary, European Commissioner for Trade, and as UK Ambassador to the United States until September 2025, when he was dismissed. In February 2026, he resigned from the Labour Party and the House of Lords. He is under criminal investigation by the Metropolitan Police and was subpoenaed by the U.S. House Committee on Oversight and Government Reform — the first foreign ambassador, current or former, called before Congress in the Epstein investigation."
 notableConnections:
   - jeffrey-epstein
   - prince-andrew
@@ -23,7 +23,7 @@ sources:
 sensitive: false
 ---
 
-Peter Mandelson, Baron Mandelson, is a British Labour politician who has held some of the most senior positions in UK and European governance. He served as Secretary of State for Business, Innovation and Skills under Prime Minister Gordon Brown, as European Commissioner for Trade (2004-2008), and as a member of the House of Lords. Most recently, he served as the United Kingdom's Ambassador to the United States until early 2026.
+Peter Mandelson, Baron Mandelson, is a British Labour politician who has held some of the most senior positions in UK and European governance. He served as Secretary of State for Business, Innovation and Skills under Prime Minister Gordon Brown, as European Commissioner for Trade (2004-2008), and as a member of the House of Lords. He served as the United Kingdom's Ambassador to the United States until September 2025, when he was dismissed.
 
 ## Connection to Epstein
 
@@ -42,6 +42,14 @@ The summons made Mandelson the first foreign ambassador — current or former �
 Congress lacks the legal power to compel testimony from foreign nationals on foreign soil. The subpoena tests whether international pressure and public scrutiny can achieve what legal authority alone cannot. The UK government has not indicated whether it will encourage Mandelson to cooperate or attempt to shield him from testimony.
 
 Whether Mandelson will appear before the committee has not been confirmed. A hearing date has not been announced. His cooperation or resistance is expected to set a precedent for how international figures respond to American congressional subpoenas in cases with global reach.
+
+## Dismissal and Party Resignation
+
+Mandelson was dismissed as UK Ambassador to the United States in September 2025. The dismissal came as his documented connections to Epstein drew increasing public scrutiny. In February 2026, Mandelson resigned from the Labour Party and from the House of Lords, ending decades of senior involvement in British political life.
+
+## Criminal Investigation
+
+The Metropolitan Police in London have opened a criminal investigation into Mandelson in connection with his relationship with Jeffrey Epstein. The investigation was announced in February 2026. The specific allegations under investigation have not been fully disclosed by the Metropolitan Police.
 
 ## Context
 

@@ -3,7 +3,7 @@ title: "Prince Andrew Arrested on Document-Sharing Charges in Epstein Case"
 publishedAt: "2026-02-19T14:55:50.000Z"
 source: "Courthouse News"
 sourceUrl: "https://www.courthousenews.com/ex-prince-andrew-arrested-on-suspicion-of-sharing-sensitive-documents-with-epstein/"
-summary: "Former Prince Andrew Arrested on Suspicion of Sharing Sensitive Documents with Jeffrey Epstein A member of the British royal family has been arrested for the fi"
+summary: "British police arrested Andrew Mountbatten-Windsor on Feb. 19 on suspicion of misconduct in public office for allegedly sharing confidential information with Epstein."
 people:
   - prince-andrew
   - king-charles-iii

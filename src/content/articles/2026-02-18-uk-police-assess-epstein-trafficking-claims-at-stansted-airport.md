@@ -3,7 +3,7 @@ title: "UK Police Assess Epstein Trafficking Claims at Stansted Airport"
 publishedAt: "2026-02-18T18:30:00.000Z"
 source: "KEZI"
 sourceUrl: "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcWVuSkhBZ3VpSGE0RHlFeEtuXzNXRkZiZ0RtaUJ4bmJQd3lUNGRBMEdpU1huTXBRemZ6S0FHVl9wbmhSdU90bWVBSFFfOTJpSmxmc3hhSm9YaE1WcEN4ZlpBRWZBSzRiQi1XWl95RG14YW5UTlpLSHBuNUpxZUV4d1lySlFKQTdRWHdjYk5iV2ctSzU5QlZYX1dwcVp0WWhtSy0wS00yeDJPZF93c2Q5eEVBUVZOd2ctSFFfLVBueHRIQjBmVWF3RDR6X3pjYmpyc2pQSXFSUmZKNmxkc3FyZ0hVLW91OURWUXF2TnlNSTZjYkpKYmtKSzJOcWpDTW5rM3B6bTlXQQ?oc=5"
-summary: "UK police are assessing allegations that Jeffrey Epstein trafficked women through London Stansted Airport, according to reports.<sup>1ref-1</sup> The Essex Poli"
+summary: "UK police are assessing allegations that Jeffrey Epstein trafficked women through London Stansted Airport, with Essex Police coordinating with national agencies."
 people:
   - jeffrey-epstein
   - ghislaine-maxwell

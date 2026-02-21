@@ -3,7 +3,7 @@ title: "Leslie Wexner Says Epstein ‘Conned’ Him, but Democrats Are Skeptical
 publishedAt: "2026-02-18T20:28:42.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html"
-summary: "Les Wexner Deposed in Epstein Investigation, Democrats Call Testimony Not Credible Leslie Wexner, the 88-year-old founder of Victoria's Secret, testified Wednes"
+summary: "Les Wexner, the 88-year-old founder of Victoria's Secret, testified before the House Oversight Committee that Epstein duped him, but Democrats questioned his credibility."
 people:
   - leslie-wexner
   - jeffrey-epstein

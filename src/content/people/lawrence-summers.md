@@ -48,3 +48,9 @@ Epstein's university relationships followed a consistent pattern: donations purc
 ## Public Response
 
 Summers has addressed the Epstein relationship in limited public statements, acknowledging meetings but characterizing them as part of normal academic and intellectual engagement. He has not provided a detailed public accounting of the frequency, duration, or substance of his interactions with Epstein after the 2008 conviction. The full scope of their relationship remains a subject of ongoing reporting and investigation.
+
+## Professional Consequences
+
+In November 2025, Summers announced he would step back from some public commitments after newly released emails showed he had remained in contact with Epstein for years following Epstein's 2008 conviction. Harvard placed Summers on leave and announced it was conducting an investigation into his relationship with Epstein. Summers resigned from positions at two think tanks and from a board, and his contract as a contributing writer for a major publication was terminated.
+
+The fallout extended to his wife, Elisa New, a Harvard professor and poet. Arizona State University cut ties with her in connection with the scrutiny surrounding her husband. In December 2025, PBS dropped her show "Poetry in America," which she had hosted for multiple seasons.

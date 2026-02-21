@@ -6,7 +6,7 @@ aliases:
   - "Thorbjørn Jagland"
 role: "Former Norwegian Prime Minister, former Nobel Committee chairman, former Council of Europe Secretary General"
 category: "named-in-documents"
-shortBio: "Norwegian politician who served as Prime Minister of Norway (1996-1997), chairman of the Norwegian Nobel Committee (2009-2015), and Secretary General of the Council of Europe (2009-2019). Named in Epstein files after the New York Times reported he maintained 'mutually beneficial ties' with Jeffrey Epstein, receiving gifts while promising influence. Epstein used the Nobel connection to recruit elites including Richard Branson, Larry Summers, and Steve Bannon."
+shortBio: "Norwegian politician who served as Prime Minister of Norway (1996-1997), chairman of the Norwegian Nobel Committee (2009-2015), and Secretary General of the Council of Europe (2009-2019). Named in Epstein files after the New York Times reported he maintained 'mutually beneficial ties' with Jeffrey Epstein, receiving gifts while promising influence. Charged with gross corruption by Norwegian police on Feb. 11, 2026. Epstein used the Nobel connection to recruit elites including Richard Branson, Larry Summers, and Steve Bannon."
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-02-13
@@ -41,6 +41,12 @@ Jagland's dual roles in European governance and the Nobel institution made him a
 
 The contacts between Epstein and Jagland occurred after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor and continued until close to Epstein's death on August 10, 2019.
 
+## Criminal Charges
+
+On Feb. 11, 2026, Norwegian police charged Jagland with gross corruption. Investigators stated they were examining "whether gifts, travel and loans were received in connection with his position," according to Norwegian authorities. The charges stem from Jagland's documented relationship with Epstein, which included Epstein providing gifts and travel to Jagland while Jagland was serving as Nobel Committee chairman.
+
+Newly released emails added further detail to the relationship. In one exchange, Jagland emailed Epstein directly, asking to stay at Epstein's Paris apartment. In another, Epstein suggested that Russian Foreign Minister Sergei Lavrov should contact Jagland — indicating Epstein sought to use Jagland as an intermediary in Russian diplomatic outreach.
+
 ## Context
 
-Jagland's naming in the Epstein files placed him among the most prominent European figures documented in Epstein's network, alongside Sultan Ahmed bin Sulayem of DP World and Lord Peter Mandelson. His case illustrated Epstein's method of embedding himself in institutions of global significance — not merely to associate with powerful individuals, but to use those associations as tools for expanding his network further.
+Jagland's naming in the Epstein files placed him among the most prominent European figures documented in Epstein's network, alongside Sultan Ahmed bin Sulayem of DP World and Lord Peter Mandelson. His case illustrated Epstein's method of embedding himself in institutions of global significance — not merely to associate with powerful individuals, but to use those associations as tools for expanding his network further. The criminal charges filed against Jagland in February 2026 represent one of the most significant legal consequences to emerge from the Epstein files for a European official.

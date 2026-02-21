@@ -3,7 +3,7 @@ title: "Mandelson-Epstein Emails Expose UK Lobbying System Failures"
 publishedAt: "2026-02-16T18:17:21.000Z"
 source: "Transparency International UK"
 sourceUrl: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFduMnJHXzlNVF9HOG9lMFNiTEh2OW4tRjRsZ3BJaWs5NGhDUlVQNWlUc2J6LXp1cTdJOFFnMUFLQzdKS1UxWE04UmdxeWpOT1Q2U0VBbmpqZ09ERjZ1amJPdExYWk5LV0NsMVJnSjA3RmMySEcwTXQwWEdEckNMb18tNV9WSHFLWktiUzBUT294OVNSLVJvOXFmZk1CWjNOQkdlS2FXcTRUR2pMZ3NmS0ZySG1WMWx1aUY0?oc=5"
-summary: "President Donald Trump denied connections to convicted sex offender Jeffrey Epstein in a statement released February 17, declaring he has \"nothing to hide\" rega"
+summary: "Transparency International UK argues that the Mandelson-Epstein emails expose systemic failures in British lobbying regulation and government accountability."
 people:
   - peter-mandelson
   - jeffrey-epstein

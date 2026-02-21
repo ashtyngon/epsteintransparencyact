@@ -3,7 +3,7 @@ title: "New Mexico AG Opens Criminal Probe Into Bodies Buried at Epstein Ranch"
 publishedAt: "2026-02-19T22:33:33.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/state-watch/5746366-zorro-ranch-illegal-activity/"
-summary: "New Mexico Reopens Investigation Into Alleged Burials at Former Epstein Ranch New Mexico Attorney General Raúl Torrez D has ordered an investigation into allege"
+summary: "New Mexico Attorney General Raúl Torrez ordered an investigation into alleged illegal activity at Epstein's former ranch, including reports of two buried bodies."
 image: "https://thehill.com/wp-content/uploads/sites/2/2023/08/zorro-ranch-sky-news.jpg?w=900"
 people:
   - jeffrey-epstein

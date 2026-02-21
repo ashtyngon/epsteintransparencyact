@@ -3,7 +3,7 @@ title: "Epstein Transparency Act is the Law. Congress must force release of all 
 publishedAt: "2026-02-18T17:46:10.000Z"
 source: "front.moveon.org"
 sourceUrl: "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHhJcG9vZDNQa2xmajBoeTB0anBjUVNwRXFVRUhuVm83VHdPZVhrWk5qai1TR0RSb0xTSDJ2YURNRnJiRVBpTUdXVENjNktYZmlNZ25mMlVEZFJIaGVOZzVOZDRKLV9FMzZZNGJfbUptTi1Xa2ZfYlExQU96amlpY0JpOXY3ajdmbV9UMWFDS096TFAwNW9yaVlLTGxBc3pGSmItMnhvT1Zmcm9FS3pLSUtEZ1M?oc=5"
-summary: "A MoveOn.org petition calling for the immediate release of all Epstein-related files has circulated following the enactment of the Epstein Transparency Act.<sup"
+summary: "A MoveOn.org petition calling for the immediate release of all Epstein-related files has circulated following the enactment of the Epstein Transparency Act."
 people:
   - jeffrey-epstein
   - nancy-mace

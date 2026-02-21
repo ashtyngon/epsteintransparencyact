@@ -3,7 +3,7 @@ title: "British House of Lords Members Named in Epstein Files Face Pressure"
 publishedAt: "2026-02-18T23:07:21.000Z"
 source: "PBS NewsHour"
 sourceUrl: "https://www.pbs.org/newshour/world/the-epstein-files-rattle-the-age-old-foundations-of-britains-house-of-lords"
-summary: "Epstein Files Prompt Scrutiny of British House of Lords Members The release of documents related to Jeffrey Epstein has prompted questions about members of Brit"
+summary: "The release of Epstein-related documents has prompted scrutiny of British House of Lords members named in the files, raising questions about their connections."
 people:
   - jeffrey-epstein
   - peter-mandelson

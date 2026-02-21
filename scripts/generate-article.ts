@@ -162,8 +162,19 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
   const headline = item.filterResult.suggestedHeadline || item.title;
 
   // Build a clean summary from the first ~160 chars of the body (for meta description)
-  const bodyText = body.replace(/[#*\[\]()]/g, '').replace(/\n+/g, ' ').trim();
-  const summary = bodyText.slice(0, 160).replace(/"/g, '\\"');
+  const bodyText = body
+    .replace(/<sup>.*?<\/sup>/g, '')       // Strip <sup> footnote tags
+    .replace(/<[^>]+>/g, '')               // Strip any remaining HTML tags
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // Convert [text](url) to just text
+    .replace(/[#*\[\]()]/g, '')            // Strip remaining markdown chars
+    .replace(/\*\*([^*]+)\*\*/g, '$1')     // Strip bold markers
+    .replace(/\n+/g, ' ')
+    .trim();
+  // Cut at word boundary, max ~160 chars
+  const rawSummary = bodyText.length <= 160
+    ? bodyText
+    : bodyText.slice(0, 160).replace(/\s+\S*$/, '');
+  const summary = rawSummary.replace(/"/g, '\\"');
 
   // Sanitize: filter out empty/non-string values from AI output
   const people = (item.filterResult.mentionedPeople || [])

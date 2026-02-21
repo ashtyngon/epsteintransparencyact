@@ -40,4 +40,8 @@ Botstein's name surfaced alongside a broader wave of revelations about Epstein's
 
 The inclusion of a liberal arts college president in Epstein's contacts illustrates the breadth of Epstein's efforts to cultivate relationships across the full spectrum of American higher education — not just the wealthiest research institutions but also smaller colleges with cultural prestige and intellectual influence.
 
-Bard College has not issued a detailed public statement addressing Botstein's appearance in Epstein's contacts.
+## Bard College Review
+
+Bard College opened an independent review of Botstein's connections to Jeffrey Epstein following the release of Department of Justice emails in early 2026 that showed a closer relationship between Botstein and Epstein than had been previously known publicly. The emails went beyond Botstein's mere presence in Epstein's contacts, revealing a more substantive personal connection.
+
+The independent review was announced by the college as a formal inquiry into the scope and nature of the relationship. Bard did not specify a timeline for the review's completion or the scope of its mandate at the time of the announcement.

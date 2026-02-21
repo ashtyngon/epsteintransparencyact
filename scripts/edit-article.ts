@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync, unlinkSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
@@ -221,14 +221,16 @@ async function main() {
       // flag it but still publish (the editor prompt should have caught it).
       // In extreme cases (5+ vague, 0 named), reject entirely.
       if (vagueCount >= 5 && namedCount === 0) {
-        console.log(`  QUALITY REJECT: Article has ${vagueCount} vague attributions and zero named sources. Skipping.`);
+        console.log(`  QUALITY REJECT: Article has ${vagueCount} vague attributions and zero named sources. Deleting.`);
+        try { unlinkSync(filePath); } catch {}
         continue;
       }
     }
 
-    // Check for QUALITY_FAIL signal from editor
+    // Check for QUALITY_FAIL signal from editor — delete the file so it won't be committed
     if (finalBody.includes('QUALITY_FAIL:')) {
-      console.log(`  QUALITY REJECT (editor flagged): ${headline.slice(0, 50)}`);
+      console.log(`  QUALITY REJECT (editor flagged): ${headline.slice(0, 50)}. Deleting.`);
+      try { unlinkSync(filePath); } catch {}
       continue;
     }
 

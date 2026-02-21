@@ -6,9 +6,9 @@ aliases:
   - "Duke of York"
   - "Andrew Windsor"
   - "HRH Prince Andrew"
-role: "British royal, Duke of York"
+role: "British royal, former Duke of York"
 category: "named-in-documents"
-shortBio: "British royal whose friendship with Epstein, facilitated through Ghislaine Maxwell, led to sexual abuse allegations by Virginia Giuffre, a disastrous BBC interview, a civil lawsuit settled for a reported 12 million pounds, and the loss of his military titles and royal patronages. Newly released Epstein emails contradicted his public claims of a limited relationship."
+shortBio: "British royal whose friendship with Epstein, facilitated through Ghislaine Maxwell, led to sexual abuse allegations by Virginia Giuffre, a disastrous BBC interview, a civil lawsuit settled for a reported 12 million pounds, the loss of his royal titles and patronages, eviction from his royal residence, and an arrest on Feb. 19, 2026 on suspicion of misconduct in public office. Newly released Epstein emails contradicted his public claims of a limited relationship."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -96,7 +96,7 @@ On January 13, 2022 — two days after Judge Kaplan's ruling that the civil case
 
 The military titles included Colonel of the Grenadier Guards, honorary Air Commodore of RAF Lossiemouth, and other senior honorary positions. The patronages covered dozens of charitable and civic organizations.
 
-Andrew retained his title as Duke of York and his position in the line of succession to the throne, but he was effectively removed from public-facing royal life.
+Andrew retained his title as Duke of York and his position in the line of succession to the throne, but he was effectively removed from public-facing royal life. In February 2026, Andrew was stripped of his remaining royal titles — including the Duke of York title — and evicted from his royal residence, Royal Lodge in Windsor Great Park.
 
 ## Emails Released Under the Epstein Transparency Act (2026)
 
@@ -106,10 +106,14 @@ The emails showed coordination around Andrew's visits to Epstein's properties, p
 
 These revelations renewed calls in the British press and Parliament for Andrew to provide a full accounting of his relationship with Epstein. Andrew, through representatives, has declined to make further public statements.
 
+## Arrest
+
+On Feb. 19, 2026, British police arrested Prince Andrew on suspicion of misconduct in public office. Investigators alleged that Andrew, while serving as a British trade representative, shared confidential government information with Jeffrey Epstein. The arrest marked the first time a member of the British royal family had been taken into custody in connection with the Epstein case. Andrew was questioned and released pending further investigation. No formal charge had been filed as of the date of the arrest.
+
 ## What Is and Is Not Established
 
-Prince Andrew has never been charged with any crime. The civil lawsuit was settled without admission of guilt. Virginia Giuffre made specific, sworn allegations against Andrew, but the case was never tested at trial or through cross-examination.
+Prince Andrew was arrested on Feb. 19, 2026, on suspicion of misconduct in public office. He has not been formally charged or convicted of any crime as of that date. The civil lawsuit was settled without admission of guilt. Virginia Giuffre made specific, sworn allegations against Andrew, but the case was never tested at trial or through cross-examination.
 
-What is established is that Andrew maintained a documented, multi-year friendship with a convicted sex offender — a friendship he sustained even after that sex offender's conviction. He visited Epstein's properties, was photographed with an alleged trafficking victim, gave a public interview that raised more questions than it answered, settled a civil case for millions of pounds, and was stripped of his royal duties by his own mother.
+What is established is that Andrew maintained a documented, multi-year friendship with a convicted sex offender — a friendship he sustained even after that sex offender's conviction. He visited Epstein's properties, was photographed with an alleged trafficking victim, gave a public interview that raised more questions than it answered, settled a civil case for millions of pounds, was stripped of his royal titles and evicted from his residence, and was arrested in February 2026 on suspicion of sharing confidential information with Epstein.
 
 The Epstein documents continue to illuminate the scope of the relationship. Andrew has offered one extended public account — the Newsnight interview — and the factual record has contradicted significant portions of it.

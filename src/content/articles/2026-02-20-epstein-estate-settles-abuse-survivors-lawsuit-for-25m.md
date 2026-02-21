@@ -3,7 +3,7 @@ title: "Epstein Estate Settles Abuse Survivors Lawsuit for $25M"
 publishedAt: "2026-02-20T04:53:23.000Z"
 source: "ABC News"
 sourceUrl: "https://abcnews.com/US/victims-settle-case-epsteins-longtime-attorney-accountant-documents/story?id=130325546"
-summary: "The co-executors of Jeffrey Epstein's estate have agreed to settle a class action lawsuit filed by survivors of Epstein's abuse for at least $25 million, accord"
+summary: "The co-executors of Jeffrey Epstein's estate agreed to settle a class action lawsuit filed by survivors of Epstein's abuse for at least $25 million."
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
