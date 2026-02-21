@@ -7,27 +7,14 @@ summary: "Donald Huffines, a Texas GOP candidate for comptroller, confirmed his 
 people:
   - jeffrey-epstein
   - donald-huffines
-  - leslie-wexner
-  - marjorie-taylor-greene
-  - nancy-mace
-  - pam-bondi
-  - peter-mandelson
-  - prince-andrew
-  - ro-khanna
-  - steve-bannon
-  - thomas-massie
-  - sarah-ferguson
 relatedArticles:
-  - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
-  - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
-  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
 tags:
   - associates
   - political
-  - breaking
 status: published
 aiGenerated: true
-articleType: feature
+articleType: news
 confidence: 0.95
 ---
 
@@ -35,57 +22,22 @@ confidence: 0.95
 
 The confirmation came after documents surfaced connecting the Huffines family to the property purchase. Huffines is currently seeking the Texas comptroller position in the state's GOP primary.<sup>[1](#ref-1)</sup>
 
-The ranch acquisition raises questions about how Epstein's physical assets have been distributed in the years following his August 2019 death in federal custody. The property had been part of Epstein's estate, which has faced numerous civil claims from survivors.
+## Property History and Abuse Allegations
 
-## Bannon's Contact With Epstein
+The Zorro Ranch, located approximately 30 miles south of Santa Fe, was one of several properties Epstein owned across the United States and the Caribbean. Court filings from survivors described the ranch as a location where Epstein brought underage girls, sometimes under the guise of employment or educational opportunities.<sup>[1](#ref-1)</sup>
 
-Text messages released by the Department of Justice show **Steve Bannon** maintained what the New York Times described as a "seemingly chummy relationship" with Epstein after the financier's 2008 conviction for soliciting prostitution from a minor. The messages show Bannon continued contact with Epstein as the financier faced renewed scrutiny.<sup>[1](#ref-1)</sup>
+Epstein purchased the ranch in 1993. The property includes a main residence, guest houses, and an airstrip. New Mexico authorities had previously examined allegations of abuse at the property but did not bring criminal charges during Epstein's lifetime.
 
-Bannon told the Times he maintained contact with Epstein "in the name of getting Mr. Epstein to open up." The newly released texts show communications between the two men beyond what Bannon has previously acknowledged about their relationship.
+The ranch had been part of Epstein's estate following his August 2019 death in federal custody while awaiting trial on sex trafficking charges. The estate has faced numerous civil claims from survivors, and the $13.4 million sale to the Huffines family was part of the estate's liquidation of Epstein's property holdings.<sup>[1](#ref-1)</sup>
 
-The DOJ document release included correspondence showing Bannon and Epstein [discussed Pope Francis](/news/2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files), according to previously reported files.<sup>[2](#ref-2)</sup>
+## Political Fallout for Huffines
 
-## Federal Transparency Law vs. DOJ Release
+Huffines, who served in the Texas state senate from 2015 to 2019, faced questions from state Republican officials about his family's acquisition of the property where abuse allegedly occurred. His campaign for Texas comptroller has drawn scrutiny since the purchase became public through property records.<sup>[1](#ref-1)</sup>
 
-**Rep. Thomas Massie** stated in an interview with The American Conservative that the Department of Justice continues to withhold Epstein documents despite the federal disclosure law requiring their release. Massie's comments came days after he [declared "I am not suicidal"](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts) as pressure mounted over the files.<sup>[3](#ref-3)</sup>
+The Huffines family's spokesperson told The Guardian the purchase was a real estate investment and that the family had no connection to Epstein or knowledge of criminal activity at the property. The spokesperson did not address whether the family was aware of the property's history at the time of purchase.<sup>[1](#ref-1)</sup>
 
-The Kentucky congressman [said he lost confidence in Attorney General Pam Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash) after what he described as her failure to adequately address his concerns about redactions and withheld documents.<sup>[4](#ref-4)</sup> Massie stated Bondi avoided eye contact with Epstein survivors during a congressional hearing.
-
-An independent analysis found that the Trump DOJ released only 2% of Epstein files, despite Bondi's claim that the department released "all" files. The study compared the volume of released documents to known holdings in FBI and DOJ custody.
-
-## British Royal Connections Under Scrutiny
-
-**Sarah Ferguson**, the Duchess of York, moved to wind down six of her companies following what the BBC described as "further revelations over her friendship" with Epstein. The filings came as British authorities continue reviewing Epstein connections among UK figures.
-
-The UK established a national police task force to investigate trafficking allegations connected to Epstein's British contacts. Britain's top prosecutor stated "nobody is above the law" as police continue examining evidence involving Prince Andrew.
-
-Released documents contradicted claims Prince Andrew made during his BBC interview about the extent of his contact with Epstein. Separate emails showed an aide to Prince Andrew advised Epstein on concealing his conviction on a visa form, according to DOJ files.
-
-## International Investigations
-
-**France** established a special team to review Epstein files for French nationals, according to The Independent. French prosecutors separately opened an investigation into a diplomat who appeared in Epstein-related documents.
-
-Transparency International UK released an analysis examining what emails between **Peter Mandelson** and Epstein show about Britain's lobbying regulations. The organization's report came after Congress subpoenaed Mandelson over his contacts with Epstein.
-
-The Independent documented that multiple European countries have launched formal investigations or reviews involving their citizens' appearance in Epstein-related files.
-
-## Scale of File Release
-
-The Sunday Guardian published an analysis comparing the Epstein files to major document leaks including the Pandora Papers, Panama Papers, and Paradise Papers. The comparison showed the Epstein release contains fewer total pages than those financial disclosure leaks, despite the significant public attention.
-
-The comparison highlighted differences in how the documents were released. The Panama Papers and related leaks came from whistleblowers and investigative journalism collaborations, while the Epstein files emerged through a federal transparency law and court orders.
-
-## Ongoing Congressional Action
-
-Rep. Ro Khanna wrote that Epstein's network "knew enough to know better" about the financier's activities. Rep. Nancy Mace called for unredacted co-conspirator files from the DOJ.
-
-Lawmakers from both parties have criticized the scope of DOJ's release. Rep. Marjorie Taylor Greene called Trump's handling of the Epstein files a "political miscalculation."
-
-Congress previously subpoenaed billionaire Les Wexner to testify on his Epstein contacts. That subpoena remains active as part of the ongoing congressional investigation.
+New Mexico lawmakers subsequently [voted unanimously to create a "Truth Commission"](/news/2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch) to investigate what happened at the ranch, marking the first full state-level investigation of the property.
 
 ## References
 
 1. <span id="ref-1"></span>[Trump GOP candidate's family bought Epstein's ranch for $13.4M](https://www.theguardian.com/us-news/2026/feb/16/epstein-ranch-new-mexico-purchase-republican-candidate) - The Guardian
-2. <span id="ref-2"></span>[Steve Bannon discussed taking down Pope Francis with Epstein, DOJ files show](/news/2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files)
-3. <span id="ref-3"></span>[Massie declares not suicidal as Epstein files pressure mounts](/news/2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts)
-4. <span id="ref-4"></span>[Massie loses confidence in AG Bondi over Epstein files clash](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash)
