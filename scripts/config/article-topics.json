@@ -238,5 +238,22 @@
       "document-release",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents",
+    "title": "Prince Andrew Arrested in London Over Epstein Documents",
+    "summary": "## U.S. Lawmakers Demand Domestic Charges After Prince Andrew Arrest",
+    "novelty": "DUPLICATE: This reports on Prince Andrew's arrest that was already covered in 'U.K. Considers Removing Andrew From Royal Succession After Arrest'",
+    "topic": "DUPLICATE: This reports on Prince Andrew's arrest that was already covered in 'U.K. Considers Removing Andrew From Royal Succession After Arrest'",
+    "people": [
+      "andrew-mountbatten-windsor",
+      "prince-andrew",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "breaking",
+      "arrest",
+      "investigation"
+    ]
   }
 ]
