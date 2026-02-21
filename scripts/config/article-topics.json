@@ -143,5 +143,53 @@
       "political",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-02-21-epstein-survivor-calls-wexner-s-house-testimony-abhorrent",
+    "title": "Epstein Survivor Calls Wexner's House Testimony 'Abhorrent'",
+    "summary": "Epstein Survivor Calls Wexner's House Testimony 'Abhorrent'",
+    "novelty": "An Epstein survivor publicly denounces Les Wexner's congressional deposition as 'abhorrent', offering victim perspective on his testimony",
+    "topic": "An Epstein survivor publicly denounces Les Wexner's congressional deposition as 'abhorrent', offering victim perspective on his testimony",
+    "people": [
+      "les-wexner",
+      "leslie-wexner",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony",
+      "survivors",
+      "victims",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-20-u-s-border-officers-near-epstein-island-under-investigation",
+    "title": "U.S. Border Officers Near Epstein Island Under Investigation",
+    "summary": "The U.S. House Committee on Oversight and Accountability has launched an investigation into reported ties between Jeffrey Epstein and U.S",
+    "novelty": "U.S. border officers stationed near Epstein's island are under investigation for alleged ties to Epstein, triggering a formal probe",
+    "topic": "U.S. border officers stationed near Epstein's island are under investigation for alleged ties to Epstein, triggering a formal probe",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "breaking",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-20-new-epstein-documents-name-celebrities-redact-alleged-predators",
+    "title": "New Epstein Documents Name Celebrities, Redact Alleged Predators",
+    "summary": "New Epstein Documents Name Celebrities, Redact Alleged Predators",
+    "novelty": "New York Magazine reports that recently released Epstein documents named celebrities while redacting information about alleged predators",
+    "topic": "New York Magazine reports that recently released Epstein documents named celebrities while redacting information about alleged predators",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release",
+      "associates"
+    ]
   }
 ]
