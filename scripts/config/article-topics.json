@@ -126,5 +126,22 @@
       "political",
       "document-release"
     ]
+  },
+  {
+    "slug": "2026-02-21-u-k-considers-removing-andrew-from-royal-succession-after-arrest",
+    "title": "U.K. Considers Removing Andrew From Royal Succession After Arrest",
+    "summary": "## U.K. Government Weighs Removal of Andrew Mountbatten-Windsor from Royal Succession Line",
+    "novelty": "DUPLICATE: This reports on Prince Andrew's arrest that was already covered in 'Prince Andrew Arrested on Document-Sharing Charges in Epstein Case' and the UK angle in 'Scotland Yard Expands Andrew Probe: Questions Protection Officers on Epstein Links'",
+    "topic": "DUPLICATE: This reports on Prince Andrew's arrest that was already covered in 'Prince Andrew Arrested on Document-Sharing Charges in Epstein Case' and the UK angle in 'Scotland Yard Expands Andrew Probe: Questions Protection Officers on Epstein Links'",
+    "people": [
+      "prince-andrew",
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "arrest",
+      "political",
+      "investigation"
+    ]
   }
 ]

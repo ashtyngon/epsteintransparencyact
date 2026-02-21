@@ -19,6 +19,7 @@ people:
   - steve-bannon
   - thomas-massie
   - thorbjorn-jagland
+  - thomas-magnani
 relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama

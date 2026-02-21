@@ -7,6 +7,7 @@ summary: "Dan Ariely, a Duke University behavioral scientist known for studying 
 people:
   - dan-ariely
   - jeffrey-epstein
+  - lawrence-summers
 tags:
   - associates
   - investigation
