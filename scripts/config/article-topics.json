@@ -191,5 +191,52 @@
       "document-release",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-21-king-charles-distances-himself-from-prince-andrew-over-epstein-ties",
+    "title": "King Charles Distances Himself From Prince Andrew Over Epstein Ties",
+    "summary": "# Queen Elizabeth Defended Andrew Through Epstein Scandal; King Charles Withdraws Support After Arrest",
+    "novelty": "King Charles III is distancing himself from Prince Andrew as the crisis over Andrew's Epstein ties intensifies, contrasting with Queen Elizabeth's previous support",
+    "topic": "King Charles III is distancing himself from Prince Andrew as the crisis over Andrew's Epstein ties intensifies, contrasting with Queen Elizabeth's previous support",
+    "people": [
+      "prince-andrew",
+      "andrew-mountbatten-windsor",
+      "king-charles-iii",
+      "jeffrey-epstein",
+      "queen-elizabeth-ii"
+    ],
+    "tags": [
+      "political",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-20-why-academics-populate-epstein-files-status-hunger-not-just-money",
+    "title": "Why Academics Populate Epstein Files: Status Hunger, Not Just Money",
+    "summary": "Why Academics Populate Epstein Files: Status Hunger, Not Just Money",
+    "novelty": "Guardian opinion piece analyzes why academics appear frequently in Epstein files, arguing universities' status-driven culture made scholars vulnerable to Epstein's celebrity treatment beyond monetary incentives",
+    "topic": "Guardian opinion piece analyzes why academics appear frequently in Epstein files, arguing universities' status-driven culture made scholars vulnerable to Epstein's celebrity treatment beyond monetary incentives",
+    "people": [
+      "jeffrey-epstein",
+      "christopher-marquis"
+    ],
+    "tags": [
+      "associates",
+      "document-release"
+    ]
+  },
+  {
+    "slug": "2026-02-20-jmail-and-jefftube-platforms-present-epstein-materials",
+    "title": "'Jmail' and 'JeffTube' Platforms Present Epstein Materials",
+    "summary": "A congressional committee has released internal communications from Jeffrey Epstein's private email system and video platform, according to documents made public Friday.<sup>[1](#ref-1)</sup>",
+    "novelty": "New platforms called 'Jmail' and 'JeffTube' are presenting Epstein materials in a previously unseen context or format",
+    "topic": "New platforms called 'Jmail' and 'JeffTube' are presenting Epstein materials in a previously unseen context or format",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "investigation"
+    ]
   }
 ]
