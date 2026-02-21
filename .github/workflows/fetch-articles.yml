@@ -29,9 +29,9 @@ jobs:
         run: npx tsx scripts/fetch-rss.ts
         timeout-minutes: 2
 
-      - name: Filter with Claude Haiku
+      - name: Filter with Claude Sonnet
         run: npx tsx scripts/filter-articles.ts
-        timeout-minutes: 3
+        timeout-minutes: 5
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 

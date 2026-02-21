@@ -171,11 +171,11 @@ function loadExistingArticles(): ExistingArticle[] {
 
 function loadExistingTopicsForPrompt(articles: ExistingArticle[]): string {
   if (articles.length === 0) return '(No existing articles yet)';
-  // Only show the 25 most recent articles to avoid overwhelming the AI
-  // Sort by slug (which starts with date) descending
+  // Show 15 most recent articles — enough for dedup context without making
+  // Haiku overly aggressive. The hard dedup gate checks ALL articles anyway.
   const recent = [...articles]
     .sort((a, b) => b.slug.localeCompare(a.slug))
-    .slice(0, 25);
+    .slice(0, 15);
   return recent
     .map((a) => {
       const people = a.people.slice(0, 4).join(', ');
@@ -437,11 +437,11 @@ async function filterArticle(
 
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 30000);
+    const timeout = setTimeout(() => controller.abort(), 45000); // Sonnet needs slightly more time
 
     const response = await client.messages.create(
       {
-        model: 'claude-haiku-4-5-20251001',
+        model: 'claude-sonnet-4-5-20250929',
         max_tokens: 512,
         messages: [{ role: 'user', content: prompt }],
       },
@@ -500,15 +500,8 @@ async function main() {
       continue;
     }
 
-    // AI duplicate judgment: reject when BOTH isDuplicate=true AND novelty says DUPLICATE
-    // This is a strong double-signal — the AI is confident. Hard dedup catches the rest.
-    if (result.isDuplicate && result.noveltyStatement?.toUpperCase().startsWith('DUPLICATE:')) {
-      console.log(`  SKIP (AI double-signal dup): ${item.title.slice(0, 60)}`);
-      console.log(`    novelty: ${result.noveltyStatement?.slice(0, 80)}`);
-      continue;
-    }
-
-    // If only one signal fires, log but let hard dedup decide
+    // AI says duplicate — log it but ALWAYS let hard dedup decide.
+    // Haiku is too aggressive after 100+ articles; the programmatic check is more precise.
     if (result.isDuplicate) {
       console.log(`  AI says dup (hard dedup decides): ${item.title.slice(0, 60)}`);
       console.log(`    novelty: ${result.noveltyStatement?.slice(0, 80) || 'N/A'}`);

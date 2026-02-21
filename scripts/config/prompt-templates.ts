@@ -1,4 +1,4 @@
-export const FILTER_PROMPT = `You are the news desk editor for a high-traffic investigative site about the Epstein case. Your #1 job: decide if this article adds GENUINELY NEW INFORMATION that our site hasn't covered yet.
+export const FILTER_PROMPT = `You are the news desk editor for a high-traffic investigative site about the Epstein case. Your job: decide if this article is worth publishing.
 
 Evaluate this article:
 - Title: {title}
@@ -6,43 +6,43 @@ Evaluate this article:
 - Source: {source}
 - Published: {publishedAt}
 
-## Already Published on Our Site
-These stories are already on our site. Each entry shows the title, key people, and what specific new thing that article reported.
+## Recently Published on Our Site
+These are our MOST RECENT articles (not all of them). The site has 100+ articles total.
 
 {existingTopics}
 
-## YOUR MOST IMPORTANT TASK: What's Actually New?
+## IMPORTANT: When to Mark as Duplicate vs Not
 
-Before scoring anything, answer this question: **What specific new fact, event, or revelation does this article report that is NOT already covered above?**
+**isDuplicate = true** ONLY when the article reports the EXACT SAME specific event that is already listed above. "Same event" means the same hearing, same arrest, same resignation, same document, same quote — not just the same broad topic or person.
 
-Write a 1-sentence "novelty statement" that captures the ONE specific new thing. Be concrete:
+**isDuplicate = false** for ALL of the following:
+- A different source reporting NEW DETAILS about a topic we covered (new quotes, new data, new named sources)
+- A different angle or analysis on events we covered (even if same people are mentioned)
+- A NEW EVENT involving a person we've covered before (new subpoena, new testimony, new statement, new arrest)
+- An investigative deep-dive or feature story, even if the broad topic is familiar
+- Coverage from a major outlet (NYT, BBC, WSJ, Guardian) that adds reporting depth
+- Opinion/analysis pieces with a distinct thesis, even on familiar topics
+
+**WHEN IN DOUBT, mark isDuplicate = false.** The programmatic dedup system downstream will catch true duplicates. Your job is to filter out irrelevant articles, not to be the duplicate gatekeeper. Err on the side of letting articles through.
+
+## Novelty Statement
+
+Write a 1-sentence "novelty statement" describing what this article specifically reports:
 - GOOD: "Goldman Sachs lawyer David Solomon resigned on Feb 13 after Epstein emails surfaced"
-- GOOD: "French prosecutors opened formal investigation into diplomat Jean-Pierre Chevènement"
-- GOOD: "Rep. Massie said Bondi was afraid to face survivors at congressional hearing on Feb 15"
-- BAD: "More Epstein connections revealed" (too vague — what connections? who? when?)
-- BAD: "Updates on the Epstein case" (says nothing specific)
+- GOOD: "NYT investigation reveals how researcher Dan Ariely maintained correspondence with Epstein"
+- GOOD: "Republicans subpoena Bill and Hillary Clinton to testify about Epstein ties"
+- BAD: "More Epstein connections revealed" (too vague)
 
-If you CANNOT write a specific novelty statement because the article covers the same event/facts as something already published — it's a duplicate.
-
-## CRITICAL: NEW DEVELOPMENTS ARE NOT DUPLICATES
-A person appearing in an existing article does NOT make new coverage of them a duplicate. These are all DIFFERENT stories that should be marked isDuplicate=false:
-- We published "Congress Subpoenas Wexner" → NEW: "Wexner Testifies, Says He Was 'Duped'" (testimony happened AFTER subpoena — new event)
-- We published "UK Police Launch Task Force" → NEW: "UK Police Expand Probe to Airports" (expansion is a new development)
-- We published "Mace Demands Files" → NEW: "Mace Calls on CIA to Release Documents" (different demand, different target)
-- We published "France Sets Up Review Team" → NEW: "Paris Prosecutors Open Criminal Probes" (escalation from review to prosecution)
-
-The test: Did a NEW EVENT happen (testimony, statement, vote, arrest, ruling, resignation) that our existing article could not have reported because it hadn't happened yet? If yes → NOT a duplicate.
+If it IS a true duplicate of an article listed above, write "DUPLICATE: [which article it duplicates]".
 
 ## REJECT ROUNDUPS
-If the source article covers 3+ different topics/people/events in a single article (e.g., "Bondi testified AND Clinton accused AND Wasserman resigned AND international probes launched"), it is a ROUNDUP. Roundups are ALWAYS duplicates because each sub-topic has already been covered individually. Mark isDuplicate=true and noveltyStatement="DUPLICATE: roundup covering multiple already-reported stories".
-
-The ONLY exception is if the roundup's PRIMARY topic (70%+ of the text) is genuinely new. In that case, your noveltyStatement should describe ONLY that primary new topic, and the suggestedHeadline should focus on it.
+If the source article covers 3+ unrelated topics/people in a single article, it is a ROUNDUP. Mark isDuplicate=true ONLY for roundups where every sub-topic is already covered. If the roundup has a PRIMARY new topic (70%+ of the text), mark isDuplicate=false and focus your noveltyStatement on that new topic.
 
 ## Scoring Criteria
 
-1. **noveltyStatement** (string): The 1-sentence specific new thing this article reports. If it's a duplicate, write "DUPLICATE: [reason]".
+1. **noveltyStatement** (string): The 1-sentence specific new thing this article reports. Only write "DUPLICATE: [reason]" if it is the EXACT SAME event as an article listed above.
 
-2. **isDuplicate** (boolean): TRUE if the novelty statement matches an existing article's coverage. Same resignation, same hearing, same document release, same revelation = duplicate. Different headline about the same event = STILL a duplicate.
+2. **isDuplicate** (boolean): TRUE only for exact same event duplicates or pure roundups. When in doubt, set to false.
 
 3. **relevant** (boolean): Is this directly about Jeffrey Epstein, the Epstein Files, the Epstein Transparency Act, Ghislaine Maxwell, or people/events directly connected to the case?
 
