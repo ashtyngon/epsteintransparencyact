@@ -95,5 +95,36 @@
       "breaking",
       "document-release"
     ]
+  },
+  {
+    "slug": "2026-02-21-duke-professor-dan-ariely-s-epstein-ties-go-beyond-research-nyt-finds",
+    "title": "Duke Professor Dan Ariely's Epstein Ties Go Beyond Research, NYT Finds",
+    "summary": "Duke Professor Dan Ariely's Epstein Ties Go Beyond Research, NYT Finds",
+    "novelty": "NYT investigation reveals Duke behavioral scientist Dan Ariely maintained yearslong correspondence with convicted sex offender Jeffrey Epstein that extended beyond research purposes",
+    "topic": "NYT investigation reveals Duke behavioral scientist Dan Ariely maintained yearslong correspondence with convicted sex offender Jeffrey Epstein that extended beyond research purposes",
+    "people": [
+      "dan-ariely",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "investigation",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-21-fox-news-host-demands-trump-release-epstein-files",
+    "title": "Fox News Host Demands Trump Release Epstein Files",
+    "summary": "A Fox News host has called on President Donald Trump to release records related to Jeffrey Epstein, according to a report published Saturday.<sup>[1](#ref-1)</sup>",
+    "novelty": "Fox News host publicly demands Trump release Epstein files, increasing political pressure on the former president",
+    "topic": "Fox News host publicly demands Trump release Epstein files, increasing political pressure on the former president",
+    "people": [
+      "donald-trump",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "political",
+      "document-release"
+    ]
   }
 ]
