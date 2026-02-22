@@ -531,5 +531,38 @@
       "political",
       "breaking"
     ]
+  },
+  {
+    "slug": "2026-02-22-maxwell-moves-to-block-new-epstein-document-release-in-court",
+    "title": "Maxwell Moves to Block New Epstein Document Release in Court",
+    "summary": "Maxwell Moves to Block New Epstein Document Release in Court",
+    "novelty": "Ghislaine Maxwell is attempting to block the release of a new batch of Epstein-related documents through court filings",
+    "topic": "Ghislaine Maxwell is attempting to block the release of a new batch of Epstein-related documents through court filings",
+    "people": [
+      "ghislaine-maxwell",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-22-guardian-columnist-prince-andrew-arrest-shows-double-standard",
+    "title": "Guardian Columnist: Prince Andrew Arrest Shows Double Standard",
+    "summary": "Guardian Columnist: Prince Andrew Arrest Shows Double Standard",
+    "novelty": "DUPLICATE: This is an opinion piece about Prince Andrew's arrest already covered in 'Police Widen Prince Andrew Investigation After Epstein Files Arrest' and related articles, offering commentary rather than new reporting",
+    "topic": "DUPLICATE: This is an opinion piece about Prince Andrew's arrest already covered in 'Police Widen Prince Andrew Investigation After Epstein Files Arrest' and related articles, offering commentary rather than new reporting",
+    "people": [
+      "andrew-mountbatten-windsor",
+      "prince-andrew",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "opinion",
+      "prince-andrew",
+      "arrest"
+    ]
   }
 ]
