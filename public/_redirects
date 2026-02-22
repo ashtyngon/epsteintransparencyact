@@ -1,0 +1,5 @@
+# Redirect sitemap.xml to the Astro-generated sitemap-index
+/sitemap.xml  /sitemap-index.xml  301
+
+# Nav links without trailing slashes → add trailing slash
+# (Cloudflare Pages handles this automatically with Astro's trailingSlash: 'always')

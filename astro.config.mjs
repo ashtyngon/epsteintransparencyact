@@ -3,7 +3,6 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import markdoc from '@astrojs/markdoc';
-import cloudflare from '@astrojs/cloudflare';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -72,7 +71,7 @@ const lastmodMap = buildLastmodMap();
 export default defineConfig({
   site: 'https://epsteintransparencyact.com',
   trailingSlash: 'always',
-  adapter: cloudflare(),
+  output: 'static',
   vite: {
     plugins: [tailwindcss()],
   },
