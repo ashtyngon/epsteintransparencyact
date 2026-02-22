@@ -341,5 +341,52 @@
       "survivors",
       "victims"
     ]
+  },
+  {
+    "slug": "2026-02-22-police-widen-prince-andrew-investigation-after-epstein-files-arrest",
+    "title": "Police Widen Prince Andrew Investigation After Epstein Files Arrest",
+    "summary": "Police Widen Prince Andrew Investigation After Epstein Files Arrest",
+    "novelty": "CBS News reports on widening police investigation following Prince Andrew's arrest in connection with Epstein files",
+    "topic": "CBS News reports on widening police investigation following Prince Andrew's arrest in connection with Epstein files",
+    "people": [
+      "prince-andrew",
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "arrest",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-22-epstein-files-fallout-shows-justice-system-failing-survivors",
+    "title": "Epstein Files Fallout Shows Justice System Failing Survivors",
+    "summary": "Epstein Files Fallout Shows Justice System Failing Survivors",
+    "novelty": "Opinion piece argues that lack of accountability following Epstein files release sends discouraging message to survivors about justice system",
+    "topic": "Opinion piece argues that lack of accountability following Epstein files release sends discouraging message to survivors about justice system",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "survivors",
+      "victims"
+    ]
+  },
+  {
+    "slug": "2026-02-20-tinubu-not-in-epstein-files-africa-check-confirms",
+    "title": "Tinubu Not in Epstein Files, Africa Check Confirms",
+    "summary": "A fact-checking organization has debunked claims circulating online that Nigerian President **Bola Tinubu** appears in documents released as part of the **Jeffrey Epstein** case.<sup>[1](#ref-1)</sup>",
+    "novelty": "Africa Check fact-checks and debunks false claims that Nigeria's president Bola Tinubu appears in released Epstein files",
+    "topic": "Africa Check fact-checks and debunks false claims that Nigeria's president Bola Tinubu appears in released Epstein files",
+    "people": [
+      "bola-tinubu",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release"
+    ]
   }
 ]
