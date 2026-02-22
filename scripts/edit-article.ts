@@ -34,6 +34,70 @@ interface RelevantArticle {
   featureSources?: RelevantArticle[];
 }
 
+// Known aggregator sources — same list as generate-article.ts
+const AGGREGATOR_SOURCES = new Set([
+  'yahoo', 'yahoo news', 'yahoo entertainment', 'yahoo finance',
+  'msn', 'msn news', 'microsoft news',
+  'aol', 'aol news',
+  'newsbreak', 'smartnews', 'apple news',
+  'google news', 'google',
+  'flipboard',
+  'unknown source',
+]);
+
+function isAggregatorSource(source: string): boolean {
+  return AGGREGATOR_SOURCES.has(source.toLowerCase().trim());
+}
+
+/**
+ * If the frontmatter source is an aggregator, try to extract the real reporter
+ * from the article body (which the editor should have fixed to credit properly).
+ */
+function fixFrontmatterSource(frontmatter: string, body: string): string {
+  const sourceMatch = frontmatter.match(/^source:\s*"(.+?)"/m);
+  if (!sourceMatch) return frontmatter;
+
+  const currentSource = sourceMatch[1];
+  if (!isAggregatorSource(currentSource)) return frontmatter;
+
+  // Look for the real source in the article body
+  const leadText = body.slice(0, 600);
+  const patterns = [
+    /\*\*([A-Z][A-Za-z\s]+?)\*\*\s+(?:reported|first reported)/,
+    /according to\s+\*\*([A-Z][A-Za-z\s]+?)\*\*/,
+    /according to\s+([A-Z][A-Za-z\s]+?)(?:[.,;<]|\s+report)/,
+    /([A-Z][A-Za-z\s]+?)\s+first reported/,
+    /([A-Z][A-Za-z\s]+?)\s+reported\s+(?:that|on|this)/,
+  ];
+
+  for (const pattern of patterns) {
+    const match = leadText.match(pattern);
+    if (match && match[1]) {
+      const outlet = match[1].trim();
+      if (outlet.length > 3 && outlet.length < 40 && !isAggregatorSource(outlet)) {
+        console.log(`  SOURCE FIX (editor): "${currentSource}" → "${outlet}"`);
+        return frontmatter.replace(
+          /^source:\s*".+?"/m,
+          `source: "${outlet}"`
+        );
+      }
+    }
+  }
+
+  // Also check References section
+  const refMatch = body.match(/## References[\s\S]*?\[([A-Z][A-Za-z\s]+?)\s+[—–-]\s+/);
+  if (refMatch && refMatch[1] && !isAggregatorSource(refMatch[1].trim())) {
+    const outlet = refMatch[1].trim();
+    console.log(`  SOURCE FIX (editor/refs): "${currentSource}" → "${outlet}"`);
+    return frontmatter.replace(
+      /^source:\s*".+?"/m,
+      `source: "${outlet}"`
+    );
+  }
+
+  return frontmatter;
+}
+
 function slugify(text: string): string {
   return text
     .toLowerCase()
@@ -249,6 +313,9 @@ async function main() {
       );
       console.log(`  TAKEAWAYS: Added ${keyTakeaways.length} key takeaways`);
     }
+
+    // Fix frontmatter source if it's still an aggregator name
+    finalFrontmatter = fixFrontmatterSource(finalFrontmatter, finalBody);
 
     // Write back with (possibly updated) frontmatter + edited body
     const newContent = `${finalFrontmatter}\n\n${finalBody.trim()}\n`;

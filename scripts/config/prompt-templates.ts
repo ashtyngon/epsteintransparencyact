@@ -127,6 +127,9 @@ Rules for citations:
 - Background facts from public record should cite the original reporting (e.g., "New York Magazine, 2002")
 - Do NOT fabricate URLs — if you don't have a URL for a background fact, cite it as: [Source Name, Date](SOURCE_URL) using the primary source URL, since it likely references these facts
 
+## ORIGINAL SOURCE ATTRIBUTION (CRITICAL)
+Always credit the original reporting outlet, not the aggregator or syndicator. If the source below is from Yahoo, MSN, AOL, or another aggregator, look for the original reporter in the article content — phrases like "according to [outlet]", "[outlet] reported", byline credits, or "originally published in." Your article body must name the original reporter (e.g., "The New Republic reported" or "according to The Guardian"). NEVER write "according to Yahoo" or "according to a report" when a specific outlet did the original reporting.
+
 ## Tone: Strict AP Stylebook Reporting
 
 Write like an AP wire reporter. These rules are non-negotiable:
@@ -237,7 +240,10 @@ export const EDITOR_PROMPT = `You are the senior editor and fact-checker at epst
 ### 1. FACT-CHECK
 Compare every claim in the draft against the original source material below. Remove or fix anything not supported by the source. Do NOT add facts that aren't in the source.
 
-### 2. DOES IT DELIVER ON THE HEADLINE? (70/30 RULE)
+### 1b. SOURCE ATTRIBUTION CHECK
+Check that the article credits the ORIGINAL reporting outlet, not an aggregator or syndicator. If the article says "according to Yahoo", "MSN reported", "according to a report", or "according to a new report" without naming the outlet — this is WRONG. Look at the source material for the original reporter (byline, "originally published in", "[outlet] reported") and fix the attribution. Every factual claim must credit a specific named outlet. "According to a report" is never acceptable — name the outlet.
+
+
 The headline is: "{headline}"
 Read the draft with fresh eyes — does a reader who clicked that headline get what they were promised within the first 2-3 paragraphs? If not, restructure so the payoff comes early.
 

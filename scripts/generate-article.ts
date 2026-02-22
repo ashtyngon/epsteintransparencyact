@@ -37,6 +37,22 @@ interface RelevantArticle {
   featureSources?: RelevantArticle[];
 }
 
+// Known aggregator/syndication sources that repackage original reporting.
+// When these appear as the RSS source, the AI must identify and credit the original reporter.
+const AGGREGATOR_SOURCES = new Set([
+  'yahoo', 'yahoo news', 'yahoo entertainment', 'yahoo finance',
+  'msn', 'msn news', 'microsoft news',
+  'aol', 'aol news',
+  'newsbreak', 'smartnews', 'apple news',
+  'google news', 'google',
+  'flipboard',
+  'unknown source',
+]);
+
+function isAggregatorSource(source: string): boolean {
+  return AGGREGATOR_SOURCES.has(source.toLowerCase().trim());
+}
+
 function slugify(text: string): string {
   return text
     .toLowerCase()
@@ -84,13 +100,18 @@ async function generateArticleBody(
   item: RelevantArticle,
   existingArticles: string
 ): Promise<string | null> {
-  const prompt = GENERATE_PROMPT
+  let prompt = GENERATE_PROMPT
     .replace('{title}', item.title)
     .replace('{content}', item.description)
     .replace('{source}', item.source)
     .replace('{sourceUrl}', item.link)
     .replace('{publishedAt}', item.pubDate)
     .replace('{existingArticles}', existingArticles);
+
+  // When source is an aggregator, inject instruction to find the original reporter
+  if (isAggregatorSource(item.source)) {
+    prompt += `\n\n## CRITICAL: Aggregator Source — Find the Original Reporter\n\n"${item.source}" is a news AGGREGATOR, not an original reporting outlet. The actual reporting was done by a different publication. Examine the article content for phrases like "according to [outlet]", "first reported by", "originally published in", or byline credits. Your article MUST credit the ORIGINAL reporting outlet by name — not "${item.source}". Use "according to The New Republic" or "The Guardian reported" — never "according to Yahoo" or "according to a report." If you cannot identify the original source from the content, state the specific factual claims with "according to documents" or "according to FBI records" rather than attributing to the aggregator.`;
+  }
 
   try {
     const controller = new AbortController();
@@ -128,10 +149,18 @@ async function generateFeatureArticle(
     ? '500-800 words — this is a normal news article drawing from 2 sources, not a long-form feature. Write at standard article length.'
     : '1200-2000 words — this is a FEATURE with 3+ sources. Go deeper on the topic.';
 
-  const prompt = FEATURE_PROMPT
+  let prompt = FEATURE_PROMPT
     .replace('{sourceReports}', sourceReports)
     .replace('{existingArticles}', existingArticles)
     .replace(/1200-2000 words — this is a FEATURE, not a news brief/, wordCountGuidance);
+
+  // Check if any source is an aggregator — warn the AI to find original reporters
+  const allSources = [item, ...(item.featureSources || [])];
+  const aggregatorSources = allSources.filter(s => isAggregatorSource(s.source));
+  if (aggregatorSources.length > 0) {
+    const names = [...new Set(aggregatorSources.map(s => s.source))].join(', ');
+    prompt += `\n\n## CRITICAL: Aggregator Source(s) Detected — Find Original Reporters\n\nThe following source(s) are news AGGREGATORS, not original reporting outlets: ${names}. Examine each source's content for the ORIGINAL reporting outlet (e.g., "according to The New Republic", "first reported by The Guardian"). Your article MUST credit the original reporters by name — never attribute reporting to an aggregator like Yahoo or MSN.`;
+  }
 
   try {
     const controller = new AbortController();
@@ -154,12 +183,61 @@ async function generateFeatureArticle(
   }
 }
 
+/**
+ * When the RSS source is an aggregator (Yahoo, MSN, etc.), try to extract
+ * the original reporting outlet from the article body. The AI was instructed
+ * to credit the original reporter, so look for "according to [Outlet]" or
+ * "[Outlet] reported" patterns in the first few paragraphs.
+ */
+function extractOriginalSource(body: string, rssSource: string): string {
+  if (!isAggregatorSource(rssSource)) return rssSource;
+
+  // Look in first ~600 chars for the original reporter attribution
+  const leadText = body.slice(0, 600);
+
+  // Common patterns: "The New Republic reported", "according to The Guardian",
+  // "first reported by The Daily Beast", "[Outlet] first reported"
+  const patterns = [
+    /\*\*([A-Z][A-Za-z\s]+?)\*\*\s+(?:reported|first reported)/,
+    /according to\s+\*\*([A-Z][A-Za-z\s]+?)\*\*/,
+    /according to\s+([A-Z][A-Za-z\s]+?)(?:[.,;<]|\s+report)/,
+    /([A-Z][A-Za-z\s]+?)\s+first reported/,
+    /([A-Z][A-Za-z\s]+?)\s+reported\s+(?:that|on|this)/,
+    /reported by\s+([A-Z][A-Za-z\s]+?)(?:[.,;<])/,
+  ];
+
+  for (const pattern of patterns) {
+    const match = leadText.match(pattern);
+    if (match && match[1]) {
+      const outlet = match[1].trim();
+      // Sanity check: must look like a publication name (2-5 words, not a person's name)
+      if (outlet.length > 3 && outlet.length < 40 && !isAggregatorSource(outlet)) {
+        return outlet;
+      }
+    }
+  }
+
+  // Fallback: check the References section for the first non-aggregator source
+  const refMatch = body.match(/## References[\s\S]*?\[([A-Z][A-Za-z\s]+?)\s+[—–-]\s+/);
+  if (refMatch && refMatch[1] && !isAggregatorSource(refMatch[1].trim())) {
+    return refMatch[1].trim();
+  }
+
+  return rssSource; // Give up, keep original
+}
+
 function buildMarkdown(item: RelevantArticle, body: string): string {
   const fullDate = formatDateForFrontmatter(item.pubDate);
   const dateStr = formatDateForSlug(item.pubDate);
 
   // Use AI-suggested headline if available, otherwise original
   const headline = item.filterResult.suggestedHeadline || item.title;
+
+  // If source is an aggregator, try to extract the real reporter from the article body
+  const resolvedSource = extractOriginalSource(body, item.source);
+  if (resolvedSource !== item.source) {
+    console.log(`  SOURCE FIX: "${item.source}" → "${resolvedSource}" (aggregator resolved)`);
+  }
 
   // Build a clean summary from the first ~160 chars of the body (for meta description)
   const bodyText = body
@@ -191,7 +269,7 @@ function buildMarkdown(item: RelevantArticle, body: string): string {
   return `---
 title: "${headline.replace(/"/g, '\\"')}"
 publishedAt: "${fullDate}"
-source: "${/google/i.test(item.source) ? 'Unknown Source' : /[^\x00-\x7F]/.test(item.source) ? 'Unknown Source' : item.source}"
+source: "${/google/i.test(resolvedSource) ? 'Unknown Source' : /[^\x00-\x7F]/.test(resolvedSource) ? 'Unknown Source' : resolvedSource}"
 sourceUrl: "${item.link}"
 summary: "${summary}"${imageLine}
 people:
