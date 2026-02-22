@@ -388,5 +388,49 @@
       "court-documents",
       "document-release"
     ]
+  },
+  {
+    "slug": "2026-02-17-doj-releases-epstein-files-with-300-names-sparking-backlash",
+    "title": "DOJ Releases Epstein Files With 300 Names, Sparking Backlash",
+    "summary": "DOJ Releases Epstein Files With 300 Names, Sparking Backlash",
+    "novelty": "DOJ announces full release of Epstein Files with a list of 300 names, sparking public backlash",
+    "topic": "DOJ announces full release of Epstein Files with a list of 300 names, sparking public backlash",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "breaking",
+      "document-release",
+      "court-documents",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-02-22-u-k-papers-call-for-prince-andrew-epstein-inquiry",
+    "title": "U.K. Papers Call for Prince Andrew Epstein Inquiry",
+    "summary": "U.K. Papers Call for Prince Andrew Epstein Inquiry",
+    "novelty": "DUPLICATE: This is a BBC newspaper roundup article covering multiple unrelated topics including calls to probe Prince Andrew's Epstein links (already covered in our Prince Andrew arrest articles) and Ukraine war anniversary coverage.",
+    "topic": "DUPLICATE: This is a BBC newspaper roundup article covering multiple unrelated topics including calls to probe Prince Andrew's Epstein links (already covered in our Prince Andrew arrest articles) and Ukraine war anniversary coverage.",
+    "people": [
+      "prince-andrew",
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein"
+    ],
+    "tags": []
+  },
+  {
+    "slug": "2026-02-19-prince-andrew-arrest-covered-in-multi-topic-political-roundup",
+    "title": "Prince Andrew Arrest Covered in Multi-Topic Political Roundup",
+    "summary": "Prince Andrew Arrest Covered in Multi-Topic Political Roundup",
+    "novelty": "DUPLICATE: This is a roundup article combining Prince Andrew arrest (already covered in 'Police Widen Prince Andrew Investigation After Epstein Files Arrest') with unrelated South Korean political news",
+    "topic": "DUPLICATE: This is a roundup article combining Prince Andrew arrest (already covered in 'Police Widen Prince Andrew Investigation After Epstein Files Arrest') with unrelated South Korean political news",
+    "people": [
+      "prince-andrew",
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "arrest"
+    ]
   }
 ]
