@@ -300,16 +300,22 @@ function mergeWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
   for (const article of articles) {
     const headline = article.filterResult.suggestedHeadline || article.title;
     const words = getSignificantWords(headline);
-    const people = new Set(article.filterResult.mentionedPeople || []);
+    // Exclude universal names for merge comparison — otherwise every article
+    // merges because they all mention jeffrey-epstein
+    const specificPeople = new Set(
+      (article.filterResult.mentionedPeople || []).filter(p => !UNIVERSAL_NAMES.has(p))
+    );
 
     let mergedInto: RelevantArticle | null = null;
     for (const existing of kept) {
       const existingHeadline = existing.filterResult.suggestedHeadline || existing.title;
       const existingWords = getSignificantWords(existingHeadline);
-      const existingPeople = new Set(existing.filterResult.mentionedPeople || []);
+      const existingPeople = new Set(
+        (existing.filterResult.mentionedPeople || []).filter(p => !UNIVERSAL_NAMES.has(p))
+      );
 
       const sim = jaccardSimilarity(words, existingWords);
-      const peopleOverlap = [...people].filter((p) => existingPeople.has(p)).length;
+      const peopleOverlap = [...specificPeople].filter((p) => existingPeople.has(p)).length;
 
       if (sim >= 0.4 || (sim >= 0.3 && peopleOverlap >= 2)) {
         mergedInto = existing;
@@ -359,6 +365,18 @@ function mergeWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
 // ──────────────────────────────────────────────────
 // Scoring & feature detection
 // ──────────────────────────────────────────────────
+
+// UNIVERSAL NAMES — appear in nearly every article on this site.
+// Excluded from clustering/merge overlap so unrelated stories don't merge.
+const UNIVERSAL_NAMES = new Set([
+  'jeffrey-epstein', 'ghislaine-maxwell',
+]);
+
+// GENERIC TAGS — too broad to indicate same-story overlap.
+const GENERIC_TAGS = new Set([
+  'investigation', 'associates', 'court-documents', 'political',
+  'breaking', 'document-release', 'transparency-act',
+]);
 
 // HIGH-PROFILE NAMES — articles mentioning these people have the highest chance
 // of being indexed by Google due to search volume and public interest.
@@ -410,20 +428,28 @@ function detectFeatureCandidates(articles: RelevantArticle[]): FeatureCandidate[
   const clusters: { articles: RelevantArticle[] }[] = [];
 
   for (const article of articles) {
-    const people = article.filterResult.mentionedPeople || [];
-    const tags = article.filterResult.tags || [];
+    // Exclude universal names and generic tags — they appear in every article
+    // and would cause unrelated stories to cluster together
+    const people = (article.filterResult.mentionedPeople || [])
+      .filter(p => !UNIVERSAL_NAMES.has(p));
+    const tags = (article.filterResult.tags || [])
+      .filter(t => !GENERIC_TAGS.has(t));
     const keyTerms = [...people, ...tags];
 
     let merged = false;
     for (const cluster of clusters) {
-      const clusterTerms = new Set(
-        cluster.articles.flatMap((a) => [
-          ...(a.filterResult.mentionedPeople || []),
-          ...(a.filterResult.tags || []),
-        ])
+      const clusterPeople = cluster.articles.flatMap((a) =>
+        (a.filterResult.mentionedPeople || []).filter(p => !UNIVERSAL_NAMES.has(p))
       );
+      const clusterTags = cluster.articles.flatMap((a) =>
+        (a.filterResult.tags || []).filter(t => !GENERIC_TAGS.has(t))
+      );
+      const clusterTerms = new Set([...clusterPeople, ...clusterTags]);
+
       const overlap = keyTerms.filter((t) => clusterTerms.has(t));
-      if (overlap.length >= 2) {
+      // Require 2+ overlap AND at least 1 must be a specific person (not just tags)
+      const personOverlap = people.filter(p => clusterTerms.has(p)).length;
+      if (overlap.length >= 2 && personOverlap >= 1) {
         cluster.articles.push(article);
         merged = true;
         break;
