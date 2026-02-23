@@ -599,5 +599,24 @@
       "transparency-act",
       "breaking"
     ]
+  },
+  {
+    "slug": "2026-02-19-prince-andrew-arrest-linked-to-virginia-giuffre-s-advocacy",
+    "title": "Prince Andrew Arrest Linked to Virginia Giuffre's Advocacy",
+    "summary": "Prince Andrew Arrest Linked to Virginia Giuffre's Advocacy",
+    "novelty": "DUPLICATE: This article reports on Prince Andrew's arrest and its connection to Virginia Giuffre, which is already extensively covered in multiple recent articles including 'Police Widen Prince Andrew Investigation After Epstein Files Arrest', 'U.K. Minister Won't Rule Out Judge-Led Inquiry Into Andrew's Epstein Ties', and 'Rebecca Solnit: Feminism Enabled Prince Andrew Arrest'",
+    "topic": "DUPLICATE: This article reports on Prince Andrew's arrest and its connection to Virginia Giuffre, which is already extensively covered in multiple recent articles including 'Police Widen Prince Andrew Investigation After Epstein Files Arrest', 'U.K. Minister Won't Rule Out Judge-Led Inquiry Into Andrew's Epstein Ties', and 'Rebecca Solnit: Feminism Enabled Prince Andrew Arrest'",
+    "people": [
+      "prince-andrew",
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein",
+      "virginia-giuffre"
+    ],
+    "tags": [
+      "arrest",
+      "breaking",
+      "associates",
+      "victims"
+    ]
   }
 ]
