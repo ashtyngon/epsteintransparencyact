@@ -1331,5 +1331,19 @@
       "associates",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-02-23-ai-trained-on-epstein-emails-reveals-patterns-in-correspondence",
+    "title": "AI Trained on Epstein Emails Reveals Patterns in Correspondence",
+    "summary": "AI Trained on Epstein Emails Reveals Patterns in Correspondence",
+    "novelty": "Decrypt reports on findings from an AI model trained on Jeffrey Epstein's emails, revealing what the system learned from his correspondence.",
+    "topic": "Decrypt reports on findings from an AI model trained on Jeffrey Epstein's emails, revealing what the system learned from his correspondence.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "investigation"
+    ]
   }
 ]
