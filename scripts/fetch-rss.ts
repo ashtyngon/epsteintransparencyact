@@ -8,12 +8,12 @@ import {
   jaccardSimilarity,
   textsAreSimilar,
   contentHash,
-  FeedHealthData,
   createEmptyFeedHealth,
   recordFeedSuccess,
   recordFeedFailure,
   getDownFeeds,
 } from './lib/pipeline-utils.js';
+import type { FeedHealthData } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
