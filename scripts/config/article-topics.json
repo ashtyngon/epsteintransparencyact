@@ -1173,5 +1173,54 @@
       "associates",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-02-23-peter-mandelson-arrested-in-uk-epstein-investigation",
+    "title": "Peter Mandelson Arrested in UK Epstein Investigation",
+    "summary": "Peter Mandelson Arrested in UK Epstein Investigation",
+    "novelty": "British police arrest Peter Mandelson, a former UK ambassador, as part of an investigation into his ties to Jeffrey Epstein.",
+    "topic": "British police arrest Peter Mandelson, a former UK ambassador, as part of an investigation into his ties to Jeffrey Epstein.",
+    "people": [
+      "peter-mandelson",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "arrest",
+      "investigation",
+      "associates",
+      "breaking",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-23-uk-police-arrest-ex-u-s-ambassador-over-epstein-accusations",
+    "title": "UK Police Arrest Ex-U.S. Ambassador Over Epstein Accusations",
+    "summary": "**U.K. police have arrested a former British ambassador to the United States** in connection with allegations related to Jeffrey Epstein, according to The New York Times.<sup>[1](#ref-1)</sup>",
+    "novelty": "U.K. police arrest a former U.S. ambassador on accusations related to the Epstein case.",
+    "topic": "U.K. police arrest a former U.S. ambassador on accusations related to the Epstein case.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "arrest",
+      "investigation",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-prince-andrew-linked-to-three-new-epstein-victims",
+    "title": "Prince Andrew Linked to Three New Epstein Victims",
+    "summary": "Prince Andrew Linked to Three New Epstein Victims",
+    "novelty": "Reality Tea reports Prince Andrew linked to three additional Jeffrey Epstein victims beyond previously known accusers.",
+    "topic": "Reality Tea reports Prince Andrew linked to three additional Jeffrey Epstein victims beyond previously known accusers.",
+    "people": [
+      "prince-andrew",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "victims",
+      "survivors",
+      "breaking"
+    ]
   }
 ]
