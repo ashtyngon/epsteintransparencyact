@@ -669,5 +669,39 @@
       "political",
       "transparency-act"
     ]
+  },
+  {
+    "slug": "2026-02-17-hillary-clinton-accuses-trump-admin-of-epstein-files-cover-up",
+    "title": "Hillary Clinton Accuses Trump Admin of Epstein Files Cover-Up",
+    "summary": "Hillary Clinton Accuses Trump Admin of Epstein Files Cover-Up",
+    "novelty": "Hillary Clinton accuses the Trump administration of covering up Epstein-related files in a BBC interview.",
+    "topic": "Hillary Clinton accuses the Trump administration of covering up Epstein-related files in a BBC interview.",
+    "people": [
+      "hillary-clinton",
+      "donald-trump"
+    ],
+    "tags": [
+      "political",
+      "breaking",
+      "transparency-act"
+    ]
+  },
+  {
+    "slug": "2026-02-21-maria-farmer-denounces-wexner-s-house-deposition-as-abhorrent",
+    "title": "Maria Farmer Denounces Wexner's House Deposition as 'Abhorrent'",
+    "summary": "Maria Farmer Denounces Wexner's House Deposition as 'Abhorrent'",
+    "novelty": "DUPLICATE: Maria Farmer's statement denouncing Les Wexner's House deposition testimony as 'abhorrent' in relation to her 1996 abuse allegations.",
+    "topic": "DUPLICATE: Maria Farmer's statement denouncing Les Wexner's House deposition testimony as 'abhorrent' in relation to her 1996 abuse allegations.",
+    "people": [
+      "maria-farmer",
+      "les-wexner",
+      "leslie-wexner",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony",
+      "survivors",
+      "associates"
+    ]
   }
 ]
