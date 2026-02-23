@@ -1269,5 +1269,52 @@
       "associates",
       "document-release"
     ]
+  },
+  {
+    "slug": "2026-02-23-armed-man-shot-dead-at-mar-a-lago-under-investigation-for-epstein-files-link",
+    "title": "Armed Man Shot Dead at Mar-a-Lago Under Investigation for Epstein Files Link",
+    "summary": "Armed Man Shot Dead at Mar-a-Lago Under Investigation for Epstein Files Link",
+    "novelty": "An armed man fatally shot at Mar-a-Lago is being investigated for possible connections to Epstein files as a potential motive for the incident.",
+    "topic": "An armed man fatally shot at Mar-a-Lago is being investigated for possible connections to Epstein files as a potential motive for the incident.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "breaking",
+      "investigation",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-23-uk-government-defers-prince-andrew-epstein-inquiry-to-parliament",
+    "title": "UK Government Defers Prince Andrew Epstein Inquiry to Parliament",
+    "summary": "UK Government Defers Prince Andrew Epstein Inquiry to Parliament",
+    "novelty": "UK government states that parliamentary inquiry into Prince Andrew's links to Jeffrey Epstein is a matter for MPs rather than executive officials.",
+    "topic": "UK government states that parliamentary inquiry into Prince Andrew's links to Jeffrey Epstein is a matter for MPs rather than executive officials.",
+    "people": [
+      "prince-andrew",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "political",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-cbs-news-contributor-peter-attia-resigns-after-epstein-files-disclosure",
+    "title": "CBS News Contributor Peter Attia Resigns After Epstein Files Disclosure",
+    "summary": "CBS News Contributor Peter Attia Resigns After Epstein Files Disclosure",
+    "novelty": "CBS News contributor Peter Attia resigns from his position following disclosure of his name in the Epstein Files.",
+    "topic": "CBS News contributor Peter Attia resigns from his position following disclosure of his name in the Epstein Files.",
+    "people": [
+      "peter-attia",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "associates",
+      "breaking"
+    ]
   }
 ]
