@@ -1040,5 +1040,45 @@
       "document-release",
       "breaking"
     ]
+  },
+  {
+    "slug": "2026-02-23-hollywood-execs-lose-deals-as-epstein-files-trigger-industry-fallout",
+    "title": "Hollywood Execs Lose Deals as Epstein Files Trigger Industry Fallout",
+    "summary": "Entertainment industry executives have lost business deals and clients following the recent release of government files related to Jeffrey Epstein, according to Fox News.<sup>[1](#ref-1)</sup>",
+    "novelty": "Fox News reports that Hollywood executives are losing business deals and clients are departing following the release of Epstein Files documents.",
+    "topic": "Fox News reports that Hollywood executives are losing business deals and clients are departing following the release of Epstein Files documents.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-23-uk-and-european-democracies-pursue-epstein-elite-accountability",
+    "title": "UK and European Democracies Pursue Epstein Elite Accountability",
+    "summary": "A member of the UK Parliament has called for accountability in the Epstein case, according to a report by The Contrarian<sup>[1](#ref-1)</sup>",
+    "novelty": "The Contrarian reports that UK and other democracies are holding Epstein-connected elites accountable through legal action and investigations.",
+    "topic": "The Contrarian reports that UK and other democracies are holding Epstein-connected elites accountable through legal action and investigations.",
+    "people": [],
+    "tags": [
+      "investigation",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-23-prince-andrew-photo-hung-at-louvre-in-epstein-protest",
+    "title": "Prince Andrew Photo Hung at Louvre in Epstein Protest",
+    "summary": "Prince Andrew Photo Hung at Louvre in Epstein Protest",
+    "novelty": "Activists stage protest at the Louvre by hanging Prince Andrew photo to demonstrate against Epstein-related misconduct allegations.",
+    "topic": "Activists stage protest at the Louvre by hanging Prince Andrew photo to demonstrate against Epstein-related misconduct allegations.",
+    "people": [
+      "prince-andrew"
+    ],
+    "tags": [
+      "political",
+      "associates"
+    ]
   }
 ]
