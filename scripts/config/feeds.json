@@ -9,6 +9,38 @@
       "enabled": true
     },
     {
+      "id": "google-epstein-broad",
+      "name": "Google News (Epstein broad)",
+      "url": "https://news.google.com/rss/search?q=%22jeffrey+epstein%22+OR+%22epstein+files%22+OR+%22ghislaine+maxwell%22&ceid=US:en&hl=en-US&gl=US",
+      "category": "aggregator",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "google-epstein-names",
+      "name": "Google News (Epstein names)",
+      "url": "https://news.google.com/rss/search?q=%22epstein%22+AND+(%22prince+andrew%22+OR+%22wexner%22+OR+%22dershowitz%22+OR+%22mandelson%22+OR+%22bill+gates%22)&ceid=US:en&hl=en-US&gl=US",
+      "category": "aggregator",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "google-epstein-legal",
+      "name": "Google News (Epstein legal)",
+      "url": "https://news.google.com/rss/search?q=%22epstein%22+AND+(lawsuit+OR+indictment+OR+arrest+OR+subpoena+OR+testimony+OR+deposition)&ceid=US:en&hl=en-US&gl=US",
+      "category": "aggregator",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "google-epstein-congress",
+      "name": "Google News (Epstein Congress)",
+      "url": "https://news.google.com/rss/search?q=%22epstein%22+AND+(congress+OR+DOJ+OR+FBI+OR+%22transparency+act%22+OR+bondi+OR+massie)&ceid=US:en&hl=en-US&gl=US",
+      "category": "aggregator",
+      "priority": 1,
+      "enabled": true
+    },
+    {
       "id": "google-reuters",
       "name": "Reuters (via Google News)",
       "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US",
@@ -196,13 +228,21 @@
   "filterKeywords": [
     "epstein",
     "ghislaine maxwell",
+    "maxwell epstein",
     "epstein transparency",
     "epstein files",
     "epstein documents",
     "jeffrey epstein",
     "epstein transparency act",
     "epstein list",
-    "epstein island"
+    "epstein island",
+    "prince andrew arrest",
+    "prince andrew epstein",
+    "andrew mountbatten",
+    "wexner deposition",
+    "wexner epstein",
+    "dershowitz epstein",
+    "mandelson epstein"
   ],
   "maxArticlesPerRun": 10,
   "deduplicationWindowDays": 30
