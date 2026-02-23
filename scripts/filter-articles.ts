@@ -3,13 +3,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
 import { FILTER_PROMPT } from './config/prompt-templates.js';
-import {
-  normalizeUrl,
-  getSignificantWords,
-  jaccardSimilarity,
-  textsAreSimilar,
-  callAnthropicWithRetry,
-} from './lib/pipeline-utils.js';
+import { callAnthropicWithRetry } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
