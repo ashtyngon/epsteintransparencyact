@@ -1408,5 +1408,52 @@
       "arrest",
       "political"
     ]
+  },
+  {
+    "slug": "2026-02-23-peter-attia-steps-down-from-cbs-news-over-epstein-emails",
+    "title": "Peter Attia Steps Down from CBS News Over Epstein Emails",
+    "summary": "**Longevity expert Peter Attia** has stepped aside from his role at **CBS News** following the emergence of emails connecting him to **Jeffrey Epstein**, according to Reuters.<sup>[1](#ref-1)</sup>",
+    "novelty": "Longevity expert Peter Attia steps down from CBS News role following the emergence of emails connecting him to Jeffrey Epstein.",
+    "topic": "Longevity expert Peter Attia steps down from CBS News role following the emergence of emails connecting him to Jeffrey Epstein.",
+    "people": [
+      "peter-attia",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-cbs-executive-s-pick-resigns-after-epstein-files-disclosure",
+    "title": "CBS Executive's Pick Resigns After Epstein Files Disclosure",
+    "summary": "CBS Executive's Pick Resigns After Epstein Files Disclosure",
+    "novelty": "A CBS executive's protégé resigns after being identified in newly released Epstein Files documents.",
+    "topic": "A CBS executive's protégé resigns after being identified in newly released Epstein Files documents.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-richard-kahn-what-epstein-files-reveal-about-his-accountant",
+    "title": "Richard Kahn: What Epstein Files Reveal About His Accountant",
+    "summary": "Richard Kahn: What Epstein Files Reveal About His Accountant",
+    "novelty": "NewsNation investigation examines Richard Kahn's role as Jeffrey Epstein's longtime accountant and what the released Epstein files reveal about his financial activities and potential involvement.",
+    "topic": "NewsNation investigation examines Richard Kahn's role as Jeffrey Epstein's longtime accountant and what the released Epstein files reveal about his financial activities and potential involvement.",
+    "people": [
+      "jeffrey-epstein",
+      "richard-kahn"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release",
+      "associates",
+      "investigation"
+    ]
   }
 ]
