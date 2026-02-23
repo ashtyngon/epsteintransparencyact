@@ -1080,5 +1080,52 @@
       "political",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-23-tom-pritzker-s-epstein-ties-force-architecture-prize-response",
+    "title": "Tom Pritzker's Epstein Ties Force Architecture Prize Response",
+    "summary": "Tom Pritzker's Epstein Ties Force Architecture Prize Response",
+    "novelty": "Tom Pritzker's connections to Jeffrey Epstein surface publicly, prompting response from an architecture prize bearing his name.",
+    "topic": "Tom Pritzker's connections to Jeffrey Epstein surface publicly, prompting response from an architecture prize bearing his name.",
+    "people": [
+      "tom-pritzker",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-doj-files-reveal-deepak-chopra-messages-with-epstein",
+    "title": "DOJ Files Reveal Deepak Chopra Messages With Epstein",
+    "summary": "Messages between alternative medicine advocate **Deepak Chopra** and **Jeffrey Epstein** have surfaced in newly released Department of Justice files, according to WION.<sup>[1](#ref-1)</sup>",
+    "novelty": "WION reports that DOJ files reveal previously unknown messages between wellness guru Deepak Chopra and Jeffrey Epstein.",
+    "topic": "WION reports that DOJ files reveal previously unknown messages between wellness guru Deepak Chopra and Jeffrey Epstein.",
+    "people": [
+      "jeffrey-epstein",
+      "deepak-chopra"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-23-lutnick-s-years-long-business-ties-to-epstein-exposed-in-files",
+    "title": "Lutnick's Years-Long Business Ties to Epstein Exposed in Files",
+    "summary": "Lutnick's Years-Long Business Ties to Epstein Exposed in Files",
+    "novelty": "Mother Jones reports that financier Cantor Fitzgerald CEO Howard Lutnick maintained a years-long business relationship with Jeffrey Epstein based on newly released Epstein Files documents.",
+    "topic": "Mother Jones reports that financier Cantor Fitzgerald CEO Howard Lutnick maintained a years-long business relationship with Jeffrey Epstein based on newly released Epstein Files documents.",
+    "people": [
+      "jeffrey-epstein",
+      "howard-lutnick"
+    ],
+    "tags": [
+      "document-release",
+      "investigation",
+      "associates"
+    ]
   }
 ]
