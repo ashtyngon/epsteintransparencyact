@@ -36,7 +36,7 @@ confidence: 0.85
 
 Republican senators have privately expressed concern that Commerce Secretary **Howard Lutnick**'s documented ties to convicted sex offender **Jeffrey Epstein** could become a political liability heading into the November 2026 midterm elections, according to The Hill.<sup>[1](#ref-1)</sup>
 
-The anxiety on Capitol Hill has deepened as Lutnick's own statements about his relationship with Epstein have shifted. Under questioning from Democrats, the Commerce Secretary acknowledged he met with Epstein twice after the financier's 2008 conviction for soliciting prostitution from a minor -- contradicting his earlier claim that he had severed contact after 2005.<sup>[5](#ref-5)</sup>
+The anxiety on Capitol Hill has deepened as Lutnick's own statements about his relationship with Epstein have shifted. Under questioning from Democrats, the Commerce Secretary acknowledged he met with Epstein twice after the financier's 2008 conviction for soliciting a minor -- contradicting his earlier claim that he had severed contact after 2005.<sup>[5](#ref-5)</sup>
 
 ## Island Visit and Business Ties
 

@@ -46,7 +46,7 @@ The Metropolitan Correctional Center, where Epstein died, was a federal facility
 
 ## Prior Conviction and 2019 Charges
 
-Epstein had previously been convicted in 2008 on state charges of soliciting prostitution from a minor in Florida.<sup>[1](#ref-1)</sup> He served 13 months in a county jail under a controversial plea agreement that has since been the subject of litigation and congressional investigation.<sup>[1](#ref-1)</sup>
+Epstein had previously been convicted in 2008 on state charges of soliciting a minor in Florida.<sup>[1](#ref-1)</sup> He served 13 months in a county jail under a controversial plea agreement that has since been the subject of litigation and congressional investigation.<sup>[1](#ref-1)</sup>
 
 His 2019 arrest came more than a decade after that conviction, as federal prosecutors in New York brought new charges related to alleged sex trafficking of minors in the early 2000s.<sup>[1](#ref-1)</sup>
 

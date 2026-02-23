@@ -3,15 +3,15 @@ title: "Guardian Readers Oppose Academic Defense in Epstein Case"
 publishedAt: "2026-02-22T17:57:00.000Z"
 source: "The Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VZaHNkUjFRaDloUUNWQ3lVRDhKay1yYTRqaEdOazlLbGk4b1NTUjJHYnNZTGQ1QkRWVEZTUmk3NWhDbDR6MHMxR0pLV3k3aXljVFVoWFlDQzVGUlFLazI2NDRGOEJrZ0thSWhPZ3E1NUFlT3VYS0k0NlFTaExjYXdULVNUaW16dllHRFNybEpFY0N3blhPck5ycTUzNGZvY2hfRk40ck1PMWhn?oc=5"
-summary: "A reader has criticized academics who maintained relationships with Jeffrey Epstein after his 2008 conviction for soliciting prostitution from a minor,"
+summary: "A reader has criticized academics who maintained relationships with Jeffrey Epstein after his 2008 conviction for soliciting a minor,"
 people:
   - jeffrey-epstein
 tags:
   - associates
 keyTakeaways:
-  - "A Guardian reader rejected defenses of academics who maintained relationships with Jeffrey Epstein after his 2008 conviction for soliciting prostitution from a minor."
+  - "A Guardian reader rejected defenses of academics who maintained relationships with Jeffrey Epstein after his 2008 conviction for soliciting a minor."
   - "The letter criticized arguments that Epstein's philanthropy to research institutions justified continued professional associations with a registered sex offender."
-  - "Epstein pleaded guilty in 2008 to two Florida counts including soliciting prostitution involving a minor but continued funding academic institutions afterward."
+  - "Epstein pleaded guilty in 2008 to two Florida counts including soliciting a minor but continued funding academic institutions afterward."
   - "Several prominent researchers at MIT and Harvard maintained ties with Epstein between his 2008 conviction and 2019 federal sex trafficking arrest."
 status: published
 aiGenerated: true
@@ -27,7 +27,7 @@ The letter's headline references academics who "schmoozed" with Epstein, indicat
 
 ## Epstein's Post-Conviction Academic Access
 
-In 2008, Epstein pleaded guilty to two Florida state charges: soliciting prostitution and soliciting prostitution from a minor. He served 13 months in a county jail with work-release privileges that allowed him to leave custody six days per week. He was required to register as a sex offender.<sup>[1](#ref-1)</sup>
+In 2008, Epstein pleaded guilty to two Florida state charges: soliciting prostitution and soliciting a minor. He served 13 months in a county jail with work-release privileges that allowed him to leave custody six days per week. He was required to register as a sex offender.<sup>[1](#ref-1)</sup>
 
 Despite this conviction, Epstein continued to donate substantial sums to academic institutions and maintained access to prominent researchers. He funded laboratories, endowed faculty positions, and attended scientific conferences at elite universities. His donations to the Massachusetts Institute of Technology continued after 2008, with the institution later acknowledging it accepted approximately $800,000 from Epstein during that period. Harvard University similarly accepted donations from Epstein after his conviction, though the university's president later stated this was a mistake.<sup>[1](#ref-1)</sup>
 

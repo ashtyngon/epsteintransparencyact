@@ -21,7 +21,7 @@ tags:
   - document-release
 keyTakeaways:
   - "Joel Klein, former NYC Schools Chancellor (2002-2010) and later News Corp executive, met repeatedly with Jeffrey Epstein over several months in 2013."
-  - "The meetings occurred five years after Epstein's 2008 Florida conviction for soliciting prostitution from a minor."
+  - "The meetings occurred five years after Epstein's 2008 Florida conviction for soliciting a minor."
   - "Klein had moved to News Corp as CEO of its education division, Amplify, when the meetings took place."
   - "The disclosure comes from the New York Times' investigation into millions of pages released under the Epstein Transparency Act."
 status: published

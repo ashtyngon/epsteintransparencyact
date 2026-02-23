@@ -50,7 +50,7 @@ Epstein's documented contacts at academic institutions extended beyond Columbia.
 
 **Steve Bannon**, the podcaster and former White House chief strategist, maintained what the New York Times described as "a seemingly chummy relationship" with Epstein, according to text messages in newly released documents. The Times reported February 16 that Bannon continued contact with Epstein after the financier's conviction.<sup>[1](#ref-1)</sup>
 
-Bannon told the Times his communications with Epstein were "in the name of getting Mr. Epstein to open up." The texts indicate contact continued after Epstein's 2008 plea deal in Florida on charges of soliciting prostitution from a minor.
+Bannon told the Times his communications with Epstein were "in the name of getting Mr. Epstein to open up." The texts indicate contact continued after Epstein's 2008 plea deal in Florida on charges of soliciting a minor.
 
 Earlier reporting showed Bannon discussed Pope Francis with Epstein, according to DOJ files. The documents show the two discussed political strategy and contacts.<sup>[5](#ref-5)</sup>
 

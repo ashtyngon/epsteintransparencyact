@@ -23,7 +23,7 @@ David Stern is documented in the Epstein files as a close associate of both [Pri
 
 According to documents released under the Epstein Transparency Act and reported by The Guardian on February 14, 2026, Stern advised Epstein to illegally conceal his child sexual abuse conviction when applying for a Chinese visa. The correspondence shows Stern specifically advised against mentioning "being denied previously or criminal charges" on Epstein's visa application form.
 
-The guidance came after Epstein's initial visa application was rejected by Chinese authorities. Epstein had been convicted in 2008 in Palm Beach County, Florida for soliciting prostitution from a minor. Deliberately omitting a criminal conviction on a visa application constitutes fraud under both U.S. and international law.
+The guidance came after Epstein's initial visa application was rejected by Chinese authorities. Epstein had been convicted in 2008 in Palm Beach County, Florida for soliciting a minor. Deliberately omitting a criminal conviction on a visa application constitutes fraud under both U.S. and international law.
 
 The files do not indicate whether Epstein followed Stern's advice or whether he ultimately obtained the Chinese visa.
 

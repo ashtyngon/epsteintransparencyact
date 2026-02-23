@@ -46,7 +46,7 @@ Hyatt announced that Pritzker's board position would remain vacant pending a sea
 
 The resignation follows the release of Department of Justice files that named Pritzker among hundreds of individuals who had documented contact with Epstein.<sup>[1](#ref-1)</sup> [Goldman Sachs' top lawyer resigned after being named in the files](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files), as did the [chief of Dubai's ports authority after hundreds of emails with Epstein were made public](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed).<sup>[2](#ref-2)</sup>
 
-The DOJ files show Epstein maintained contact with dozens of business leaders, politicians, and academics after his 2008 conviction for soliciting prostitution from a minor. [Multiple lawmakers have disputed the DOJ's claim](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) that all relevant files have been released.<sup>[3](#ref-3)</sup>
+The DOJ files show Epstein maintained contact with dozens of business leaders, politicians, and academics after his 2008 conviction for soliciting a minor. [Multiple lawmakers have disputed the DOJ's claim](/news/2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows) that all relevant files have been released.<sup>[3](#ref-3)</sup>
 
 Pritzker's statement offered no explanation for how he came to know Epstein, whether their contact was social or professional, or how frequently they communicated. The limited detail mirrors statements from other executives who have resigned since the files became public.
 

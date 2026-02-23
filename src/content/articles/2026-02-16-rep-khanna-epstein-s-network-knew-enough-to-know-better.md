@@ -34,7 +34,7 @@ Rep. Ro Khanna wrote that members of Jeffrey Epstein's network "knew enough to k
 
 "Epstein's network may not have known everything, but it is hard to deny that many of them knew enough to know better," the California Democrat wrote.<sup>[1](#ref-1)</sup>
 
-Khanna's piece addresses individuals who maintained contact with Epstein after his 2008 conviction for soliciting prostitution from a minor.
+Khanna's piece addresses individuals who maintained contact with Epstein after his 2008 conviction for soliciting a minor.
 
 ## Congressional Pressure on DOJ
 

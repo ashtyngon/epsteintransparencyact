@@ -42,7 +42,7 @@ DP World, which operates ports across six continents and employs approximately 1
 
 ## Nature of the Correspondence
 
-The documents released under the Epstein Transparency Act revealed that the correspondence between bin Sulayem and **Jeffrey Epstein** spanned years, beginning as early as 2007 and continuing after Epstein's 2008 conviction for soliciting prostitution from a minor, according to CNN.<sup>[5](#ref-5)</sup> Epstein described bin Sulayem in the emails as a "best and trusted friend," CNN reported.<sup>[5](#ref-5)</sup>
+The documents released under the Epstein Transparency Act revealed that the correspondence between bin Sulayem and **Jeffrey Epstein** spanned years, beginning as early as 2007 and continuing after Epstein's 2008 conviction for soliciting a minor, according to CNN.<sup>[5](#ref-5)</sup> Epstein described bin Sulayem in the emails as a "best and trusted friend," CNN reported.<sup>[5](#ref-5)</sup>
 
 The exchanges included business discussions, with bin Sulayem seeking Epstein's advice on meetings, connections and investments, according to CNN.<sup>[5](#ref-5)</sup> One email from April 24, 2009, sent by Epstein to bin Sulayem, referenced a "torture video," according to The Gateway Pundit.<sup>[6](#ref-6)</sup> **Rep. Thomas Massie (R-Ky.)** confirmed on Feb. 9 that bin Sulayem was the recipient of that email.<sup>[6](#ref-6)</sup>
 

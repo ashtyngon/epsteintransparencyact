@@ -13,8 +13,7 @@ people:
 relatedArticles:
   - 2026-02-23-police-appeal-to-prince-andrew-s-former-guards-over-epstein-inquiry
   - 2026-02-23-prince-andrew-linked-to-three-new-epstein-victims
-  - 2026-02-23-peter-mandelson-arrested-in-uk-epstein-investigation
-  - 2026-02-23-uk-police-arrest-ex-u-s-ambassador-over-epstein-accusations
+  - 2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation
 tags:
   - investigation
   - political
@@ -54,7 +53,7 @@ The prince denied allegations of sexual misconduct and settled a civil lawsuit b
 
 British authorities have been examining Epstein-related allegations in the UK. Police have [recently appealed to the prince's former security guards](/news/2026-02-23-police-appeal-to-prince-andrew-s-former-guards-over-epstein-inquiry) for information related to their investigation. The duke has also been [linked to three new victims](/news/2026-02-23-prince-andrew-linked-to-three-new-epstein-victims) in recent filings.
 
-The UK investigation has resulted in arrests of other prominent figures, including [former Labour minister Peter Mandelson](/news/2026-02-23-peter-mandelson-arrested-in-uk-epstein-investigation) and a [former U.S. ambassador](/news/2026-02-23-uk-police-arrest-ex-u-s-ambassador-over-epstein-accusations).
+The UK investigation has resulted in arrests of other prominent figures, including [former Labour minister Peter Mandelson](/news/2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation).
 
 ## References
 

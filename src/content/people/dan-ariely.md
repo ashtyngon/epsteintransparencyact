@@ -25,6 +25,6 @@ Ariely's self-initiated contact with Epstein placed his case in a distinct categ
 
 ## Irony of Subject Matter
 
-Ariely's professional focus on the psychology of dishonesty and the mechanisms by which people deceive themselves and others added a dimension of public commentary to the disclosures. His research examines how intelligent individuals rationalize unethical conduct — a body of work that observers noted was in tension with his documented sustained contact with Epstein following the latter's 2008 conviction for soliciting prostitution from a minor.
+Ariely's professional focus on the psychology of dishonesty and the mechanisms by which people deceive themselves and others added a dimension of public commentary to the disclosures. His research examines how intelligent individuals rationalize unethical conduct — a body of work that observers noted was in tension with his documented sustained contact with Epstein following the latter's 2008 conviction for soliciting a minor.
 
 As of February 21, 2026, Ariely remained a professor at Duke University. No institutional action had been publicly announced by Duke at the time the disclosures became public. His case was among the final entries added to the New York Times's running tracker of Epstein-related fallout.

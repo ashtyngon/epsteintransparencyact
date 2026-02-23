@@ -30,7 +30,7 @@ Lloyd joined the MIT faculty in 1994 and has been a leading researcher in the fi
 
 Lloyd received a $225,000 personal grant from Epstein — money paid directly to Lloyd, not channeled through MIT. This was separate from the $850,000 that Epstein donated to MIT through the Media Lab. Lloyd's grant was for research purposes, though the specific terms and deliverables have not been publicly disclosed.
 
-The financial relationship continued after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor. Lloyd also visited Epstein's private island, Little St. James, in the U.S. Virgin Islands. The visits and personal grant placed Lloyd among the academics who maintained direct, individual financial ties to Epstein — not merely institutional ones mediated through a university development office.
+The financial relationship continued after Epstein's 2008 conviction in Florida for soliciting a minor. Lloyd also visited Epstein's private island, Little St. James, in the U.S. Virgin Islands. The visits and personal grant placed Lloyd among the academics who maintained direct, individual financial ties to Epstein — not merely institutional ones mediated through a university development office.
 
 ## Apology and MIT Response
 

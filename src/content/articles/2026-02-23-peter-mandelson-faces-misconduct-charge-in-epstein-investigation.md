@@ -10,9 +10,8 @@ people:
   - prince-andrew
   - ghislaine-maxwell
 relatedArticles:
-  - 2026-02-23-peter-mandelson-arrested-in-uk-epstein-investigation
+  - 2026-02-23-peter-mandelson-from-us-ambassador-to-arrest-in-six-months
   - 2026-02-23-police-appeal-to-prince-andrew-s-former-guards-over-epstein-inquiry
-  - 2026-02-23-uk-police-arrest-ex-u-s-ambassador-over-epstein-accusations
   - 2026-02-23-prince-andrew-linked-to-three-new-epstein-victims
   - 2026-02-23-france-launches-diplomat-inquiry-over-epstein-ties
 tags:
@@ -33,7 +32,7 @@ confidence: 0.95
 
 **Peter Mandelson**, former UK ambassador, is facing a misconduct charge in connection with the Jeffrey Epstein investigation, according to The Sunday Guardian.<sup>[1](#ref-1)</sup>
 
-Mandelson was [arrested by UK police](/news/2026-02-23-peter-mandelson-arrested-in-uk-epstein-investigation) earlier in February 2026 as part of the investigation into Epstein's network.<sup>[1](#ref-1)</sup> The Sunday Guardian reports that he now faces formal misconduct charges.<sup>[1](#ref-1)</sup>
+Mandelson was [arrested by UK police](/news/2026-02-23-peter-mandelson-from-us-ambassador-to-arrest-in-six-months) earlier in February 2026 as part of the investigation into Epstein's network.<sup>[1](#ref-1)</sup> The Sunday Guardian reports that he now faces formal misconduct charges.<sup>[1](#ref-1)</sup>
 
 The specific nature of the alleged misconduct has not been detailed in the report.<sup>[1](#ref-1)</sup>
 
@@ -41,11 +40,11 @@ The specific nature of the alleged misconduct has not been detailed in the repor
 
 British authorities have pursued multiple figures with alleged connections to Epstein. **Prince Andrew** remains a central focus of the UK probe, with police [appealing to his former protection officers](/news/2026-02-23-police-appeal-to-prince-andrew-s-former-guards-over-epstein-inquiry) for information about his interactions with the financier.<sup>[1](#ref-1)</sup>
 
-UK police [arrested a former U.S. ambassador](/news/2026-02-23-uk-police-arrest-ex-u-s-ambassador-over-epstein-accusations) in February 2026 over Epstein-related accusations.<sup>[1](#ref-1)</sup> The Duke of York has been [linked to three new Epstein victims](/news/2026-02-23-prince-andrew-linked-to-three-new-epstein-victims) according to recent reports.<sup>[1](#ref-1)</sup>
+The Duke of York has been [linked to three new Epstein victims](/news/2026-02-23-prince-andrew-linked-to-three-new-epstein-victims) according to recent reports.<sup>[1](#ref-1)</sup>
 
 ## Epstein Case Background
 
-Jeffrey Epstein died in August 2019 in a Manhattan jail cell while awaiting trial on federal sex trafficking charges. He had pleaded guilty in 2008 to state charges in Florida of soliciting prostitution from a minor, serving 13 months in a work-release program.
+Jeffrey Epstein died in August 2019 in a Manhattan jail cell while awaiting trial on federal sex trafficking charges. He had pleaded guilty in 2008 to state charges in Florida of soliciting a minor, serving 13 months in a work-release program.
 
 His associate **Ghislaine Maxwell** was convicted in December 2021 on federal charges of sex trafficking minors. She is currently serving a 20-year prison sentence in federal custody.
 

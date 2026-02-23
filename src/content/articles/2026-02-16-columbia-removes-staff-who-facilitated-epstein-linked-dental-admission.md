@@ -68,7 +68,7 @@ Earlier reporting documented that Huffines [owned Epstein's Zorro Ranch](/news/2
 
 According to the New York Times, the communications show Bannon and Epstein exchanged messages about various topics, including messages about Pope Francis.<sup>[3](#ref-3)</sup> Bannon has said publicly that he maintained contact with Epstein "in the name of getting Mr. Epstein to open up," describing his intent as cultivating Epstein as a source.<sup>[3](#ref-3)</sup>
 
-The documents do not indicate Bannon had knowledge of or participated in any criminal activity. The messages show Bannon continued communicating with Epstein years after his 2008 guilty plea to soliciting prostitution from a minor.<sup>[3](#ref-3)</sup>
+The documents do not indicate Bannon had knowledge of or participated in any criminal activity. The messages show Bannon continued communicating with Epstein years after his 2008 guilty plea to soliciting a minor.<sup>[3](#ref-3)</sup>
 
 Bannon currently hosts a podcast. He has not provided detailed public comment on the released communications beyond his earlier statement about attempting to get Epstein to share information.
 

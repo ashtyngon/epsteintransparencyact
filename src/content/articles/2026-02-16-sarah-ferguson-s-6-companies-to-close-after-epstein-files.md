@@ -36,7 +36,7 @@ articleType: news
 confidence: 0.92
 ---
 
-Six companies linked to Sarah Ferguson, ex-wife of Prince Andrew, are being dissolved after documents released last month showed she sent messages to Jeffrey Epstein following his 2008 conviction for soliciting prostitution from a minor, according to The Guardian.<sup>[1](#ref-1)</sup>
+Six companies linked to Sarah Ferguson, ex-wife of Prince Andrew, are being dissolved after documents released last month showed she sent messages to Jeffrey Epstein following his 2008 conviction for soliciting a minor, according to The Guardian.<sup>[1](#ref-1)</sup>
 
 Companies House, the UK's corporate registry, received applications to strike off each of the six Ferguson-linked companies after details of her contact with Epstein surfaced in the millions of pages released by U.S. authorities, according to public filings.<sup>[1](#ref-1)</sup>
 

@@ -40,7 +40,7 @@ In a **2002** New York Magazine profile, Trump called Epstein "a terrific guy" a
 
 "He's a lot of fun to be with," Trump said. "It is even said that he likes beautiful women as much as I do, and many of them are on the younger side." <sup>[2](#ref-2)</sup>
 
-Epstein was convicted of soliciting prostitution from a minor in 2008. He died in federal custody in 2019 while awaiting trial on federal sex trafficking charges. <sup>[3](#ref-3)</sup>
+Epstein was convicted of soliciting a minor in 2008. He died in federal custody in 2019 while awaiting trial on federal sex trafficking charges. <sup>[3](#ref-3)</sup>
 
 ## Document Release Under Fire
 

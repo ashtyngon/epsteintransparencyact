@@ -33,7 +33,7 @@ Nowak is widely published, with over 500 papers in journals including Nature and
 
 In 2003, Epstein donated $6.5 million to Harvard to establish the Program for Evolutionary Dynamics, with Nowak as its founding director. The donation was the largest single component of the $9.1 million that Epstein gave to Harvard between 1998 and 2008. The program was housed in Harvard's Department of Organismic and Evolutionary Biology and focused on applying mathematical models to biological processes including cancer research, infectious disease, and evolutionary theory.
 
-Epstein's name appeared on the program's advisory board, and he visited the Harvard campus repeatedly in connection with the program. According to reporting by the Harvard Crimson and the New York Times, Epstein visited Harvard at least 40 times after his 2008 conviction for soliciting prostitution from a minor. Nowak was among the faculty who met with Epstein during these post-conviction visits.
+Epstein's name appeared on the program's advisory board, and he visited the Harvard campus repeatedly in connection with the program. According to reporting by the Harvard Crimson and the New York Times, Epstein visited Harvard at least 40 times after his 2008 conviction for soliciting a minor. Nowak was among the faculty who met with Epstein during these post-conviction visits.
 
 ## Continued Contact After the 2008 Conviction
 

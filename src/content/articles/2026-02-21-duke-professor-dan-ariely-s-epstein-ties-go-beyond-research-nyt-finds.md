@@ -24,7 +24,7 @@ The correspondence between the two men spanned multiple years and included discu
 
 ## Post-Conviction Contact
 
-Ariely's communication with Epstein occurred after the financier's 2008 conviction for soliciting prostitution from a minor, a plea deal that allowed Epstein to avoid federal charges at the time.<sup>[1](#ref-1)</sup> The newly disclosed emails suggest Ariely maintained contact with Epstein despite the conviction and its public disclosure.<sup>[1](#ref-1)</sup>
+Ariely's communication with Epstein occurred after the financier's 2008 conviction for soliciting a minor, a plea deal that allowed Epstein to avoid federal charges at the time.<sup>[1](#ref-1)</sup> The newly disclosed emails suggest Ariely maintained contact with Epstein despite the conviction and its public disclosure.<sup>[1](#ref-1)</sup>
 
 Ariely built his career at Duke studying dishonesty, behavioral economics, and ethical decision-making. He is the author of several books on the subject, including works examining why people lie and cheat. The revelation that a scholar of dishonesty corresponded extensively with a convicted sex offender has drawn scrutiny from the university community and the public.<sup>[1](#ref-1)</sup>
 

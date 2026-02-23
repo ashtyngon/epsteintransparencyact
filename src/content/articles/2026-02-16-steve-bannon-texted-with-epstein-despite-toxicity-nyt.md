@@ -34,7 +34,7 @@ articleType: feature
 confidence: 0.95
 ---
 
-**Steve Bannon** maintained contact with **Jeffrey Epstein** for years after the financier's 2008 conviction for soliciting prostitution from a minor, according to newly released text messages and emails in the DOJ's February file release.<sup>[1](#ref-1)</sup> The messages show Bannon continued communicating with Epstein through at least 2019, months before Epstein's arrest on federal sex trafficking charges.
+**Steve Bannon** maintained contact with **Jeffrey Epstein** for years after the financier's 2008 conviction for soliciting a minor, according to newly released text messages and emails in the DOJ's February file release.<sup>[1](#ref-1)</sup> The messages show Bannon continued communicating with Epstein through at least 2019, months before Epstein's arrest on federal sex trafficking charges.
 
 The communications document a relationship that went beyond casual acquaintance, according to the New York Times. Bannon, who served as chief strategist to President Trump before becoming a media figure, told the Times the relationship was tactical -- he sought to get Epstein to "open up" about his connections to powerful figures. The Times described the texts as showing a "seemingly chummy relationship" that persisted despite Epstein's status as a registered sex offender.<sup>[1](#ref-1)</sup>
 

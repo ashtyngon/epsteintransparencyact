@@ -30,7 +30,7 @@ confidence: 0.92
 
 Three prominent Indians appear in documents released under the Epstein Transparency Act -- signed November 19, 2025, after passing the House 427-1 and the Senate unanimously -- The News Minute reported:<sup>[1](#ref-1)</sup> Subrata Roy, founder of the Sahara Group conglomerate; Kapil Sibal, a former Union Minister; and Sri Sri Ravi Shankar, founder of the Art of Living Foundation.
 
-The News Minute's report states each figure appeared in records from the period between Epstein's 2008 conviction in Florida for soliciting prostitution from a minor and his death on August 10, 2019 at the Metropolitan Correctional Center in Manhattan.<sup>[1](#ref-1)</sup>
+The News Minute's report states each figure appeared in records from the period between Epstein's 2008 conviction in Florida for soliciting a minor and his death on August 10, 2019 at the Metropolitan Correctional Center in Manhattan.<sup>[1](#ref-1)</sup>
 
 ## The Businessman
 

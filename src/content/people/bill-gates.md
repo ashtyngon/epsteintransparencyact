@@ -24,7 +24,7 @@ sources:
     url: "https://www.wsj.com/articles/bill-gates-met-with-jeffrey-epstein-it-was-a-mistake-11636577498"
 ---
 
-Bill Gates is the co-founder of Microsoft and co-chair of the Bill & Melinda Gates Foundation. He met [Jeffrey Epstein](/people/jeffrey-epstein) on multiple occasions between 2011 and 2014 — years after Epstein's 2008 conviction for soliciting prostitution from a minor in Florida.
+Bill Gates is the co-founder of Microsoft and co-chair of the Bill & Melinda Gates Foundation. He met [Jeffrey Epstein](/people/jeffrey-epstein) on multiple occasions between 2011 and 2014 — years after Epstein's 2008 conviction for soliciting a minor in Florida.
 
 ## Documented Meetings
 

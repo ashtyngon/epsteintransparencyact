@@ -8,7 +8,7 @@ people:
   - peter-mandelson
   - jeffrey-epstein
 relatedArticles:
-  - 2026-02-23-peter-mandelson-arrested-in-uk-epstein-investigation
+  - 2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation
   - 2026-02-16-mandelson-epstein-emails-expose-uk-lobbying-system-failures
 tags:
   - investigation
@@ -35,7 +35,7 @@ The Guardian specifically noted Mandelson's close relationship with Morgan McSwe
 
 ## Six-Month Timeline
 
-The Guardian reported that [Mandelson was arrested](/news/2026-02-23-peter-mandelson-arrested-in-uk-epstein-investigation) by UK authorities as part of an investigation into Jeffrey Epstein's network.<sup>[1](#ref-1)</sup> Epstein was convicted in 2008 on state charges of soliciting prostitution from a minor in Florida. He died in federal custody in 2019 while awaiting trial on federal sex trafficking charges.
+The Guardian reported that [Mandelson was arrested](/news/2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation) by UK authorities as part of an investigation into Jeffrey Epstein's network.<sup>[1](#ref-1)</sup> Epstein was convicted in 2008 on state charges of soliciting a minor in Florida. He died in federal custody in 2019 while awaiting trial on federal sex trafficking charges.
 
 According to The Guardian, the speed of Mandelson's fall from diplomatic and political influence to arrest is among the fastest such declines ever witnessed in British public life.<sup>[1](#ref-1)</sup> The newspaper stated that Mandelson's Epstein links took him "from a vaunted position in British diplomacy to arrest in under six months."<sup>[1](#ref-1)</sup>
 

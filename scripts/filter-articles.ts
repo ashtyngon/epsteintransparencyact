@@ -211,6 +211,7 @@ function hardDedupCheck(
   const candidateNoveltyWords = getSignificantWords(candidateNovelty);
   const candidateDescWords = getSignificantWords(`${candidateHeadline} ${candidate.description.slice(0, 200)}`);
   const candidatePeople = new Set(candidate.filterResult.mentionedPeople || []);
+  const candidateSpecificPeople = [...candidatePeople].filter(p => !UNIVERSAL_NAMES.has(p));
   const candidateTags = new Set(candidate.filterResult.tags || []);
 
   // AI novelty starting with DUPLICATE: is logged but not trusted — hard dedup decides
@@ -286,6 +287,32 @@ function hardDedupCheck(
         tagOverlap,
       };
     }
+
+    // ── QUATERNARY: Same-person-same-day dedup ──
+    // On a single-topic news beat, two articles about the same specific person
+    // on the same day are almost always the same story from different sources.
+    // Text similarity fails here because outlets use completely different wording.
+    const existingDate = existing.slug.slice(0, 10);
+    const candidateDate = new Date(candidate.pubDate).toISOString().split('T')[0];
+
+    if (candidateDate === existingDate) {
+      const existingSpecificPeople = new Set(
+        (existing.people || []).filter(p => !UNIVERSAL_NAMES.has(p))
+      );
+      const sharedSpecificPeople = candidateSpecificPeople.filter(p => existingSpecificPeople.has(p));
+
+      if (sharedSpecificPeople.length >= 1) {
+        return {
+          isDuplicate: true,
+          matchedSlug: existing.slug,
+          matchedTitle: existing.title,
+          reason: `same-person-day: ${sharedSpecificPeople[0]}`,
+          headlineSimilarity: headlineSim,
+          peopleOverlap,
+          tagOverlap,
+        };
+      }
+    }
   }
 
   return { isDuplicate: false };
@@ -317,7 +344,9 @@ function mergeWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
       const sim = jaccardSimilarity(words, existingWords);
       const peopleOverlap = [...specificPeople].filter((p) => existingPeople.has(p)).length;
 
-      if (sim >= 0.4 || (sim >= 0.3 && peopleOverlap >= 2)) {
+      // Same-person merge: if articles share a specific person, they're almost
+      // certainly covering the same story from different sources
+      if (sim >= 0.4 || (sim >= 0.3 && peopleOverlap >= 2) || peopleOverlap >= 1) {
         mergedInto = existing;
         break;
       }

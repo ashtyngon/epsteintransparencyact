@@ -38,7 +38,7 @@ The Metropolitan Police did not indicate whether additional review of the arrang
 
 ## Background on Epstein and Andrew
 
-Epstein died in a Manhattan jail cell in August 2019 while awaiting trial on federal sex trafficking charges. He had been convicted in Florida in 2008 on state charges of soliciting prostitution from a minor and was a registered sex offender.
+Epstein died in a Manhattan jail cell in August 2019 while awaiting trial on federal sex trafficking charges. He had been convicted in Florida in 2008 on state charges of soliciting a minor and was a registered sex offender.
 
 Virginia Giuffre alleged in court filings that Epstein and Ghislaine Maxwell trafficked her to Andrew when she was 17. Andrew has repeatedly denied the allegations. He settled Giuffre's civil lawsuit in February 2022 for an undisclosed sum without admitting liability.
 

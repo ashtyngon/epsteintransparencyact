@@ -22,7 +22,7 @@ Dr. Peter Attia is a physician known for his focus on longevity medicine and pre
 
 Documents released under the Epstein Transparency Act revealed that Attia spent part of the 2010s in frequent contact with [Jeffrey Epstein](/people/jeffrey-epstein). The correspondence and visits spanned several years and included exchanges in which Attia provided medical advice to Epstein. The released documents also included crude emails about women exchanged between Attia and Epstein, the content of which drew public attention following their release.
 
-The period of close contact documented in the files overlapped with years after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor — a conviction that required Epstein to register as a sex offender. The contacts indicated Attia maintained the relationship through a significant portion of Epstein's post-conviction years.
+The period of close contact documented in the files overlapped with years after Epstein's 2008 conviction in Florida for soliciting a minor — a conviction that required Epstein to register as a sex offender. The contacts indicated Attia maintained the relationship through a significant portion of Epstein's post-conviction years.
 
 ## Resignation from David
 

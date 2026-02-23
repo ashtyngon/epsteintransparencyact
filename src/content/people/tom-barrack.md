@@ -27,7 +27,7 @@ Tom Barrack is an American billionaire real estate investor who founded Colony C
 
 Documents released under the Epstein Transparency Act in February 2026 identified Barrack as having contact with [Jeffrey Epstein](/people/jeffrey-epstein). CBS News reported, after reviewing the released files, that Barrack "networked and socialized" with Epstein for years. The report did not specify the exact timeframe, frequency, or nature of their interactions beyond networking and social events.
 
-The files did not establish whether the relationship continued after Epstein's 2008 conviction for soliciting prostitution from a minor in Palm Beach, Florida, or whether Barrack had direct business dealings with Epstein. Colony Capital operated in some of the same financial and real estate circles as Epstein's investment activities.
+The files did not establish whether the relationship continued after Epstein's 2008 conviction for soliciting a minor in Palm Beach, Florida, or whether Barrack had direct business dealings with Epstein. Colony Capital operated in some of the same financial and real estate circles as Epstein's investment activities.
 
 ## Prior Legal Issues
 

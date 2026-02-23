@@ -27,7 +27,7 @@ Lawrence Summers is an American economist who has held some of the most powerful
 
 ## Harvard and Epstein
 
-Summers' tenure as Harvard president (2001-2006) overlapped with a period when [Jeffrey Epstein](/people/jeffrey-epstein) donated $9.1 million to the university, funding the Program for Evolutionary Dynamics run by evolutionary biologist Martin Nowak. The donations were made between 1998 and 2008. Epstein visited Harvard's campus at least 40 times after his 2008 conviction in Florida for soliciting prostitution from a minor, meeting with faculty including Summers and Nowak.
+Summers' tenure as Harvard president (2001-2006) overlapped with a period when [Jeffrey Epstein](/people/jeffrey-epstein) donated $9.1 million to the university, funding the Program for Evolutionary Dynamics run by evolutionary biologist Martin Nowak. The donations were made between 1998 and 2008. Epstein visited Harvard's campus at least 40 times after his 2008 conviction in Florida for soliciting a minor, meeting with faculty including Summers and Nowak.
 
 The meetings between Summers and Epstein after the 2008 conviction have drawn particular scrutiny. By that point, Epstein was a registered sex offender, and his criminal conduct was a matter of public record. Summers continued contact with Epstein during a period when other prominent individuals also maintained relationships with the convicted financier despite his status.
 

@@ -44,7 +44,7 @@ confidence: 0.95
 
 A close associate of Prince Andrew advised Jeffrey Epstein to conceal his criminal conviction when applying for a Chinese visa, according to documents released this week by the Department of Justice.<sup>[1](#ref-1)</sup> **David Stern**, who maintained relationships with both the financier and the royal, provided the guidance after Epstein's initial visa application was rejected by Chinese authorities, according to The Guardian.<sup>[1](#ref-1)</sup>
 
-The correspondence shows Stern advised against mentioning "being denied previously or criminal charges" on Epstein's visa application form, according to The Guardian.<sup>[1](#ref-1)</sup> The guidance came after Epstein had already been convicted in 2008 for soliciting prostitution from a minor in Florida.
+The correspondence shows Stern advised against mentioning "being denied previously or criminal charges" on Epstein's visa application form, according to The Guardian.<sup>[1](#ref-1)</sup> The guidance came after Epstein had already been convicted in 2008 for soliciting a minor in Florida.
 
 Deliberately omitting a criminal conviction on a visa application constitutes fraud under both U.S. and international law. The files do not indicate whether Epstein followed Stern's advice or whether he ultimately obtained the Chinese visa.<sup>[1](#ref-1)</sup>
 

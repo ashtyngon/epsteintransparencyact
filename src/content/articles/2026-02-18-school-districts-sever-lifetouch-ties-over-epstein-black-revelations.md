@@ -31,7 +31,7 @@ Districts stated they were responding to concerns raised by parents and communit
 
 ## Black's Payments to Epstein
 
-Black paid Epstein $158 million for tax and estate planning services between 2012 and 2017, according to a 2021 review commissioned by Apollo's board.<sup>[1](#ref-1)</sup> The payments occurred after Epstein's 2008 conviction for soliciting prostitution from a minor.
+Black paid Epstein $158 million for tax and estate planning services between 2012 and 2017, according to a 2021 review commissioned by Apollo's board.<sup>[1](#ref-1)</sup> The payments occurred after Epstein's 2008 conviction for soliciting a minor.
 
 Black stepped down as Apollo's chief executive in 2021 following the release of that review.<sup>[1](#ref-1)</sup> He has stated that his relationship with Epstein was strictly professional and related to tax advice.
 

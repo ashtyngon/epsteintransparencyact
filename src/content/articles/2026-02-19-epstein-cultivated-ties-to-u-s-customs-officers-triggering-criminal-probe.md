@@ -39,7 +39,7 @@ The U.S. Virgin Islands government filed a civil lawsuit against Epstein's estat
 
 Epstein died by suicide in a Manhattan federal jail cell on August 10, 2019, while awaiting trial on federal sex trafficking charges. He had been arrested on July 6, 2019, after his return from Paris to Teterboro Airport in New Jersey.
 
-In 2008, Epstein pleaded guilty to state charges in Florida of soliciting prostitution from a minor under a controversial plea agreement. That agreement allowed Epstein to avoid federal prosecution and serve 13 months in a county jail with work-release privileges.
+In 2008, Epstein pleaded guilty to state charges in Florida of soliciting a minor under a controversial plea agreement. That agreement allowed Epstein to avoid federal prosecution and serve 13 months in a county jail with work-release privileges.
 
 ## References
 

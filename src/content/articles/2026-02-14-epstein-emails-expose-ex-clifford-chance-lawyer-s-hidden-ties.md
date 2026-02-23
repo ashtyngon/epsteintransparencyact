@@ -47,7 +47,7 @@ A former trainee at **Clifford Chance**, one of the world's largest law firms, w
 
 ## The Clifford Chance Connection
 
-The former trainee, identified only as "V" in legal filings, worked in Clifford Chance's Paris office from 2011 to 2012, according to RollOnFriday.<sup>[16](#ref-16)</sup> The correspondence began in the summer of 2011, when the woman was 21 and Epstein was 58 -- three years after his 2008 conviction for soliciting prostitution from a minor.<sup>[16](#ref-16)</sup>
+The former trainee, identified only as "V" in legal filings, worked in Clifford Chance's Paris office from 2011 to 2012, according to RollOnFriday.<sup>[16](#ref-16)</sup> The correspondence began in the summer of 2011, when the woman was 21 and Epstein was 58 -- three years after his 2008 conviction for soliciting a minor.<sup>[16](#ref-16)</sup>
 
 The emails included exchanges that were sexual in nature and did not reflect an attorney-client relationship, according to Law.com.<sup>[1](#ref-1)</sup> Some emails appeared to have been sent from a work account bearing a Clifford Chance signature block.<sup>[1](#ref-1)</sup> Other messages showed her seeking career advice, including guidance on applications to other firms.<sup>[1](#ref-1)</sup>
 

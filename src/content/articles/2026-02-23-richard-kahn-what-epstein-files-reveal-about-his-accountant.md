@@ -39,7 +39,7 @@ Kahn's responsibilities extended beyond standard financial management to include
 
 ## Professional Relationships After Conviction
 
-NewsNation's review of the files shows how professionals including accountants and attorneys maintained business relationships with Epstein following his 2008 conviction on state charges of soliciting prostitution from a minor.<sup>[1](#ref-1)</sup> He served 13 months in county jail under a controversial plea agreement that allowed work release privileges.
+NewsNation's review of the files shows how professionals including accountants and attorneys maintained business relationships with Epstein following his 2008 conviction on state charges of soliciting a minor.<sup>[1](#ref-1)</sup> He served 13 months in county jail under a controversial plea agreement that allowed work release privileges.
 
 Epstein died in federal custody while awaiting trial on federal sex trafficking charges. His estate administration became a focal point for victims seeking financial compensation. Kahn's position as executor placed him at the center of efforts to process financial claims while managing Epstein's remaining business interests.
 

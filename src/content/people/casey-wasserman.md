@@ -25,7 +25,7 @@ Casey Wasserman is a Los Angeles entertainment executive who founded and led Was
 
 ## Appearance in the Epstein Files
 
-Documents released by the Department of Justice under the Epstein Transparency Act in February 2026 exposed email correspondence between Wasserman and [Ghislaine Maxwell](/people/ghislaine-maxwell), [Jeffrey Epstein](/people/jeffrey-epstein)'s longtime associate and convicted sex trafficker. Maxwell was convicted on December 29, 2021 on five counts of sex trafficking and conspiracy, and sentenced to 20 years in federal prison. The emails between Wasserman and Maxwell were dated 2003, predating Epstein's 2008 guilty plea in Palm Beach County, Florida for soliciting prostitution from a minor.
+Documents released by the Department of Justice under the Epstein Transparency Act in February 2026 exposed email correspondence between Wasserman and [Ghislaine Maxwell](/people/ghislaine-maxwell), [Jeffrey Epstein](/people/jeffrey-epstein)'s longtime associate and convicted sex trafficker. Maxwell was convicted on December 29, 2021 on five counts of sex trafficking and conspiracy, and sentenced to 20 years in federal prison. The emails between Wasserman and Maxwell were dated 2003, predating Epstein's 2008 guilty plea in Palm Beach County, Florida for soliciting a minor.
 
 The New York Times reported that the emails showed "flirtatious exchanges" between Wasserman and Maxwell. The specific content and full scope of the communications have not been publicly detailed beyond that characterization.
 

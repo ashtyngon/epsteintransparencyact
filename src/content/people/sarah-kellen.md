@@ -38,7 +38,7 @@ The Miami Herald's reporting on the 2008 plea deal described Kellen as one of se
 
 ## The 2008 Non-Prosecution Agreement
 
-Kellen was one of four named potential co-conspirators who received immunity under the 2008 federal plea deal. The deal, negotiated in secret, allowed Epstein to plead guilty to state charges of soliciting prostitution from a minor rather than face federal sex trafficking charges. The co-conspirators received blanket immunity from federal prosecution.
+Kellen was one of four named potential co-conspirators who received immunity under the 2008 federal plea deal. The deal, negotiated in secret, allowed Epstein to plead guilty to state charges of soliciting a minor rather than face federal sex trafficking charges. The co-conspirators received blanket immunity from federal prosecution.
 
 The deal was later found to have violated the Crime Victims' Rights Act because prosecutors failed to notify victims before finalizing it. Acosta's role in the deal became a subject of national scrutiny when he was appointed U.S. Secretary of Labor in 2017; he resigned from that position in 2019 after the Miami Herald's investigation.
 

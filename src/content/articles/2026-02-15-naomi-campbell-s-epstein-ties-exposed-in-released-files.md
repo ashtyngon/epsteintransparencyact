@@ -20,7 +20,7 @@ keyTakeaways:
   - Naomi Campbell described Jeffrey Epstein as "an acquaintance" in 2020, saying she met him through fashion work.
   - Newly released DOJ emails document correspondence between Campbell and Epstein spanning multiple years with travel and meeting coordination.
   - The emails show Epstein arranged flights for Campbell on his private aircraft and meetings at his properties.
-  - Correspondence continued after Epstein's 2008 conviction for soliciting prostitution from a minor, according to email timestamps.
+  - Correspondence continued after Epstein's 2008 conviction for soliciting a minor, according to email timestamps.
   - Campbell's representatives declined to comment on the emails, which contain no allegations of illegal activity by the supermodel.
 status: published
 aiGenerated: true
@@ -42,7 +42,7 @@ Epstein was also invited to events on Campbell's behalf. One email references an
 
 ## Contact Continued After 2008 Conviction
 
-Epstein pleaded guilty in 2008 to soliciting prostitution from a minor in Florida and served 18 months in a county jail under a widely criticized plea agreement. Email timestamps show correspondence between Campbell and Epstein continued after his conviction and release, extending through at least 2016.<sup>[1](#ref-1)</sup><sup>[3](#ref-3)</sup>
+Epstein pleaded guilty in 2008 to soliciting a minor in Florida and served 18 months in a county jail under a widely criticized plea agreement. Email timestamps show correspondence between Campbell and Epstein continued after his conviction and release, extending through at least 2016.<sup>[1](#ref-1)</sup><sup>[3](#ref-3)</sup>
 
 ## **Ghislaine Maxwell** Connection
 

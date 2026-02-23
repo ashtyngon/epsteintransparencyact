@@ -26,7 +26,7 @@ Sarah Ferguson is the former wife of [Prince Andrew](/people/prince-andrew), Duk
 
 ## Post-Conviction Contact with Epstein
 
-Documents released by the DOJ in February 2026 showed Ferguson sent messages to [Jeffrey Epstein](/people/jeffrey-epstein) following his 2008 conviction for soliciting prostitution from a minor. The specific content, timing, and frequency of these messages were reported by The Guardian but not fully detailed in public accounts.
+Documents released by the DOJ in February 2026 showed Ferguson sent messages to [Jeffrey Epstein](/people/jeffrey-epstein) following his 2008 conviction for soliciting a minor. The specific content, timing, and frequency of these messages were reported by The Guardian but not fully detailed in public accounts.
 
 ## Six Companies Filed for Closure
 

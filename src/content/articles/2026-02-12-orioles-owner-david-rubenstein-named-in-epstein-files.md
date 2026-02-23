@@ -23,11 +23,11 @@ keyTakeaways:
   - "David Rubenstein, co-founder of the Carlyle Group and owner of the Baltimore Orioles, met with Jeffrey Epstein in 2012 — four years after Epstein's 2008 conviction."
   - "Rubenstein purchased the Orioles in 2024 for approximately $1.7 billion; Forbes estimates his net worth at roughly $3.6 billion."
   - "The Carlyle Group, co-founded by Rubenstein, is one of the world's largest private equity firms managing hundreds of billions in assets."
-  - "Epstein's 2008 guilty plea to soliciting prostitution from a minor was a matter of public record, making the 2012 meeting a knowing association with a registered sex offender."
+  - "Epstein's 2008 guilty plea to soliciting a minor was a matter of public record, making the 2012 meeting a knowing association with a registered sex offender."
 aiGenerated: true
 confidence: 0.92
 ---
-Baltimore Orioles owner David Rubenstein met with Jeffrey Epstein in 2012, four years after Epstein's 2008 guilty plea in Palm Beach County to soliciting prostitution from a minor, according to newly released files reported by CBS News.<sup>[1](#ref-1)</sup> That plea deal, negotiated by then-U.S. Attorney Alexander Acosta, resulted in 13 months of county jail with work release.
+Baltimore Orioles owner David Rubenstein met with Jeffrey Epstein in 2012, four years after Epstein's 2008 guilty plea in Palm Beach County to soliciting a minor, according to newly released files reported by CBS News.<sup>[1](#ref-1)</sup> That plea deal, negotiated by then-U.S. Attorney Alexander Acosta, resulted in 13 months of county jail with work release.
 
 Rubenstein, the billionaire co-founder of the Carlyle Group, has not commented on the meeting, according to CBS News.<sup>[1](#ref-1)</sup> Neither the Orioles nor Carlyle Group has issued a statement.
 

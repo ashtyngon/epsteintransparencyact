@@ -39,7 +39,7 @@ The revelation adds to a growing list of political and business figures identifi
 
 Bill Gates became the subject of controversy at an artificial intelligence summit in India, with his past meetings with Epstein cited as a point of contention.<sup>[3](#ref-3)</sup> The Microsoft co-founder has previously acknowledged meeting with Epstein multiple times, saying in a 2021 interview that it was a "huge mistake."
 
-Gates told The Wall Street Journal in 2019 that he met with Epstein to discuss philanthropy.<sup>[3](#ref-3)</sup> The New York Times reported in 2019 that Gates met with Epstein on multiple occasions starting in 2011, years after Epstein's 2008 conviction for soliciting prostitution from a minor.
+Gates told The Wall Street Journal in 2019 that he met with Epstein to discuss philanthropy.<sup>[3](#ref-3)</sup> The New York Times reported in 2019 that Gates met with Epstein on multiple occasions starting in 2011, years after Epstein's 2008 conviction for soliciting a minor.
 
 The backlash at the India AI summit reflects ongoing public attention to prominent figures who maintained contact with Epstein, even after his initial criminal conviction.
 

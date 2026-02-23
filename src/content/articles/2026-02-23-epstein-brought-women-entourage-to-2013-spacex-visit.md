@@ -12,7 +12,7 @@ tags:
   - document-release
 keyTakeaways:
   - "Jeffrey Epstein sought to bring multiple women on a planned 2013 visit to SpaceX headquarters, The Mercury News reported."
-  - "The planned visit occurred five years after Epstein's 2008 conviction for soliciting prostitution from a minor in Florida."
+  - "The planned visit occurred five years after Epstein's 2008 conviction for soliciting a minor in Florida."
   - "Epstein was arrested again in July 2019 on federal sex trafficking charges and died by suicide in jail in August 2019."
   - "Ghislaine Maxwell was convicted in December 2021 on federal charges of sex trafficking minors for Epstein."
 status: published
@@ -23,7 +23,7 @@ confidence: 0.95
 
 Jeffrey Epstein attempted to bring multiple women with him during a planned 2013 visit to SpaceX headquarters, The Mercury News reported.<sup>[1](#ref-1)</sup>
 
-The Mercury News reported that Epstein sought to include an entourage of women on the tour of SpaceX facilities.<sup>[1](#ref-1)</sup> The 2013 timeframe places the planned visit five years after Epstein's 2008 conviction on state charges of soliciting prostitution from a minor in Florida.<sup>[2](#ref-2)</sup>
+The Mercury News reported that Epstein sought to include an entourage of women on the tour of SpaceX facilities.<sup>[1](#ref-1)</sup> The 2013 timeframe places the planned visit five years after Epstein's 2008 conviction on state charges of soliciting a minor in Florida.<sup>[2](#ref-2)</sup>
 
 Under the terms of that controversial plea agreement, Epstein served 13 months in a county jail with work-release privileges that allowed him to leave custody during the day.<sup>[2](#ref-2)</sup> The arrangement drew widespread criticism after details became public, with legal experts and victims' advocates calling it unusually lenient for the severity of the underlying conduct.
 

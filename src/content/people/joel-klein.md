@@ -24,7 +24,7 @@ Joel Klein is an American attorney and education executive who held senior roles
 
 The New York Times reported on February 14, 2026 — as part of its ongoing investigation into the 3.5 million pages released under the Epstein Transparency Act signed November 19, 2025 — that Klein met repeatedly with [Jeffrey Epstein](/people/jeffrey-epstein) during a several-month period in 2013.
 
-The 2013 meetings occurred five years after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor. At the time of the meetings, Epstein was a registered sex offender. Klein had already left his chancellor position and was serving as CEO of Amplify at News Corp.
+The 2013 meetings occurred five years after Epstein's 2008 conviction in Florida for soliciting a minor. At the time of the meetings, Epstein was a registered sex offender. Klein had already left his chancellor position and was serving as CEO of Amplify at News Corp.
 
 The Times report did not specify the nature or context of the meetings between Klein and Epstein during that period. Klein has not publicly commented on the nature of the relationship or what prompted the repeated meetings.
 

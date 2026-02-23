@@ -15,7 +15,7 @@ tags:
   - associates
 keyTakeaways:
   - "Video from Les Wexner's 2009 deposition shows him conferring with his attorney about his relationship with Jeffrey Epstein, The Columbus Dispatch reported."
-  - "The deposition occurred in a civil case following Epstein's 2008 guilty plea to soliciting prostitution from a minor in Florida."
+  - "The deposition occurred in a civil case following Epstein's 2008 guilty plea to soliciting a minor in Florida."
   - "Epstein managed Wexner's personal finances and held power of attorney over his business affairs during the 1980s and 1990s."
   - "The video provides sworn testimony from Wexner during the period when Epstein's criminal conduct first faced legal consequences."
 status: published
@@ -38,7 +38,7 @@ Wexner has publicly stated he was unaware of Epstein's sex trafficking operation
 
 ## Context of the 2009 Deposition
 
-The 2009 civil deposition occurred in the aftermath of Epstein's 2008 plea deal, when he pleaded guilty to state charges in Florida related to soliciting prostitution from a minor. Epstein served 13 months in a county jail under a controversial plea agreement that allowed him to continue working during the day.
+The 2009 civil deposition occurred in the aftermath of Epstein's 2008 plea deal, when he pleaded guilty to state charges in Florida related to soliciting a minor. Epstein served 13 months in a county jail under a controversial plea agreement that allowed him to continue working during the day.
 
 During this period, multiple civil lawsuits were filed by victims seeking damages. Various individuals connected to Epstein were deposed as part of discovery in these cases. Depositions are sworn testimony taken outside of court, where attorneys question witnesses under oath to gather evidence for trial.<sup>[1](#ref-1)</sup>
 

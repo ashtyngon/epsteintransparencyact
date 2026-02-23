@@ -33,7 +33,7 @@ The supermodel's denial comes as individuals connected to Epstein's network cont
 
 Black Enterprise reported Campbell's denial without providing additional details about the timing or context of her statement.<sup>[1](#ref-1)</sup>
 
-Campbell built her career as one of the fashion industry's most recognizable figures, rising to prominence in the 1990s. Epstein cultivated connections in fashion, business, and entertainment circles for decades, including relationships that continued after his 2008 conviction for soliciting prostitution from a minor in Florida.
+Campbell built her career as one of the fashion industry's most recognizable figures, rising to prominence in the 1990s. Epstein cultivated connections in fashion, business, and entertainment circles for decades, including relationships that continued after his 2008 conviction for soliciting a minor in Florida.
 
 ## Other Epstein Associates Respond
 

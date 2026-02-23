@@ -47,7 +47,7 @@ Federal agencies have released thousands of pages of documents in multiple batch
 
 The releases have revealed previously undisclosed connections between Epstein and figures across business, academia, politics, and other sectors.<sup>[1](#ref-1)</sup> Multiple executives, officials, and public figures have resigned or faced investigations after being named in the documents.<sup>[1](#ref-1)</sup>
 
-Epstein died in federal custody in August 2019 while awaiting trial on sex trafficking charges.<sup>[1](#ref-1)</sup> He had previously been convicted in 2008 for soliciting prostitution from a minor under a controversial plea agreement.<sup>[1](#ref-1)</sup> Maxwell is serving a 20-year federal prison sentence after her 2021 conviction on sex trafficking charges.<sup>[1](#ref-1)</sup>
+Epstein died in federal custody in August 2019 while awaiting trial on sex trafficking charges.<sup>[1](#ref-1)</sup> He had previously been convicted in 2008 for soliciting a minor under a controversial plea agreement.<sup>[1](#ref-1)</sup> Maxwell is serving a 20-year federal prison sentence after her 2021 conviction on sex trafficking charges.<sup>[1](#ref-1)</sup>
 
 ## References
 

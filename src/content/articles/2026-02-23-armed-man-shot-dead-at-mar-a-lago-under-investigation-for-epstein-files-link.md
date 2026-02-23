@@ -48,7 +48,7 @@ Federal courts have also unsealed materials from civil litigation involving Epst
 
 ## Epstein Case Background
 
-Epstein died in federal custody in August 2019 while awaiting trial on federal sex trafficking charges. He had been convicted in 2008 on state charges of soliciting prostitution from a minor in Florida, serving 13 months under a controversial non-prosecution agreement.
+Epstein died in federal custody in August 2019 while awaiting trial on federal sex trafficking charges. He had been convicted in 2008 on state charges of soliciting a minor in Florida, serving 13 months under a controversial non-prosecution agreement.
 
 Maxwell is serving a 20-year federal prison sentence for sex trafficking crimes related to Epstein's abuse network.
 

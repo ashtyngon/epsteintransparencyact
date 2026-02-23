@@ -57,7 +57,7 @@ Several viral social media posts traced back to fabricated documents that mimick
 
 Kathryn Ruemmler, former Obama White House counsel and Goldman Sachs general counsel;<sup>[5](#ref-5)</sup> Sultan Ahmed Bin Sulayem, CEO of Dubai's DP World who appeared 4,700+ times in the files;<sup>[6](#ref-6)</sup> and Casey Wasserman, LA 2028 Olympics chairman,<sup>[7](#ref-7)</sup> all departed their positions after their names surfaced in released documents.
 
-Most social media posts about the emails did not link to source documents or specify whether the contact occurred before or after Epstein's 2008 guilty plea in Palm Beach County for soliciting prostitution from a minor -- a plea deal negotiated by then-U.S. Attorney Alexander Acosta.<sup>[1](#ref-1)</sup>
+Most social media posts about the emails did not link to source documents or specify whether the contact occurred before or after Epstein's 2008 guilty plea in Palm Beach County for soliciting a minor -- a plea deal negotiated by then-U.S. Attorney Alexander Acosta.<sup>[1](#ref-1)</sup>
 
 ## References
 

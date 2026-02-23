@@ -38,7 +38,7 @@ The Pritzker family built their wealth primarily through the Hyatt hotel chain. 
 
 ## Epstein's Network Among Business Elite
 
-Epstein cultivated relationships with numerous wealthy and influential individuals across business, academia, and philanthropy before his 2008 conviction for soliciting prostitution from a minor.<sup>[1](#ref-1)</sup> He was arrested again in July 2019 on federal sex trafficking charges.
+Epstein cultivated relationships with numerous wealthy and influential individuals across business, academia, and philanthropy before his 2008 conviction for soliciting a minor.<sup>[1](#ref-1)</sup> He was arrested again in July 2019 on federal sex trafficking charges.
 
 Multiple organizations and institutions have faced questions about their principals' connections to Epstein or donations they accepted from him. Several universities, including MIT and Harvard, conducted reviews of their ties to Epstein after his 2019 arrest.<sup>[1](#ref-1)</sup>
 

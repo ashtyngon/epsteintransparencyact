@@ -19,7 +19,7 @@ David A. Ross is a curator and museum director who spent decades at the center o
 
 ## Friendship with Epstein
 
-Emails released under the Epstein Transparency Act revealed that Ross maintained a friendship with [Jeffrey Epstein](/people/jeffrey-epstein) spanning decades. The correspondence made public showed that the two men were in sustained personal contact across a period that included years after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor. The nature of the friendship — whether it included financial dealings, social introductions, or other forms of exchange — was not fully detailed in the documents as reported publicly, but the emails indicated a relationship of personal familiarity rather than a merely transactional acquaintance.
+Emails released under the Epstein Transparency Act revealed that Ross maintained a friendship with [Jeffrey Epstein](/people/jeffrey-epstein) spanning decades. The correspondence made public showed that the two men were in sustained personal contact across a period that included years after Epstein's 2008 conviction in Florida for soliciting a minor. The nature of the friendship — whether it included financial dealings, social introductions, or other forms of exchange — was not fully detailed in the documents as reported publicly, but the emails indicated a relationship of personal familiarity rather than a merely transactional acquaintance.
 
 ## Resignation from School of Visual Arts
 

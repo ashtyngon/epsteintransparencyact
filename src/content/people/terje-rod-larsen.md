@@ -29,4 +29,4 @@ Newly unsealed documents made public in early 2026 revealed that Rød-Larsen and
 
 ## Criminal Investigation
 
-Norwegian police opened a corruption investigation into Rød-Larsen and Juul as of February 8, 2026. The investigation centers on the financial dealings between the couple and Epstein. Rød-Larsen's case represents one of the more documented financial entanglements in the released files, combining a personal loan, institutional donations, and a multimillion-dollar testamentary bequest — spanning a period that included years after Epstein's 2008 conviction for soliciting prostitution from a minor.
+Norwegian police opened a corruption investigation into Rød-Larsen and Juul as of February 8, 2026. The investigation centers on the financial dealings between the couple and Epstein. Rød-Larsen's case represents one of the more documented financial entanglements in the released files, combining a personal loan, institutional donations, and a multimillion-dollar testamentary bequest — spanning a period that included years after Epstein's 2008 conviction for soliciting a minor.

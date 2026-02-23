@@ -34,7 +34,7 @@ One email chain coordinated Campbell's travel schedule with Epstein's assistant,
 
 ## Contact After Conviction
 
-The email timestamps show correspondence continued after Epstein's 2008 guilty plea in Florida for soliciting prostitution from a minor. Epstein served 18 months and was released on work-release terms. The documented post-conviction contact contradicted the impression left by Campbell's 2020 public statement.
+The email timestamps show correspondence continued after Epstein's 2008 guilty plea in Florida for soliciting a minor. Epstein served 18 months and was released on work-release terms. The documented post-conviction contact contradicted the impression left by Campbell's 2020 public statement.
 
 ## Campbell's Public Statements
 

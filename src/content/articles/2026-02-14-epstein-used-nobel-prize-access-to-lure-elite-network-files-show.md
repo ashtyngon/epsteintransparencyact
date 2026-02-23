@@ -39,7 +39,7 @@ confidence: 0.92
 
 **Jeffrey Epstein** repeatedly invoked the chairman of the Norwegian Nobel Committee in communications with prominent business leaders, politicians and academics, using the prestige of the Nobel Peace Prize as a recruiting tool for his global network, according to files reported by The Independent and corroborated by the Associated Press.<sup>[1](#ref-1)</sup><sup>[6](#ref-6)</sup>
 
-**Thorbjorn Jagland** -- former Norwegian prime minister (1996-1997), secretary general of the Council of Europe (2009-2019) and chairman of the Norwegian Nobel Committee (2009-2015) -- appears hundreds of times across the millions of documents released by the Justice Department under the Epstein Transparency Act.<sup>[1](#ref-1)</sup><sup>[6](#ref-6)</sup> The contacts continued after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor and persisted until close to his death on Aug. 10, 2019, at the Metropolitan Correctional Center in New York.<sup>[1](#ref-1)</sup>
+**Thorbjorn Jagland** -- former Norwegian prime minister (1996-1997), secretary general of the Council of Europe (2009-2019) and chairman of the Norwegian Nobel Committee (2009-2015) -- appears hundreds of times across the millions of documents released by the Justice Department under the Epstein Transparency Act.<sup>[1](#ref-1)</sup><sup>[6](#ref-6)</sup> The contacts continued after Epstein's 2008 conviction in Florida for soliciting a minor and persisted until close to his death on Aug. 10, 2019, at the Metropolitan Correctional Center in New York.<sup>[1](#ref-1)</sup>
 
 ## A Pattern of Name-Dropping
 

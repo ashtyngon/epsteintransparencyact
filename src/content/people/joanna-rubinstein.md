@@ -21,7 +21,7 @@ Joanna Rubinstein served as chair of Sweden for the U.N. High Commission for Ref
 
 Newly unsealed documents released in early February 2026 revealed that Rubinstein and her family had visited [Jeffrey Epstein](/people/jeffrey-epstein) on his private island — Little Saint James in the U.S. Virgin Islands — in 2012. Epstein's island was later identified as a central location of his alleged sex trafficking operation, and visits to the island by prominent figures have drawn particular scrutiny during the document release process.
 
-The visit occurred four years after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor. Little Saint James, which Epstein purchased in 1998, became one of several properties named in civil and federal proceedings related to his conduct.
+The visit occurred four years after Epstein's 2008 conviction in Florida for soliciting a minor. Little Saint James, which Epstein purchased in 1998, became one of several properties named in civil and federal proceedings related to his conduct.
 
 ## Resignation
 

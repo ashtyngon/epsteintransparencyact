@@ -224,11 +224,11 @@ Do NOT pad with filler or repeat yourself — add genuine factual context.
 - Context from public record should be clearly framed as background, not new reporting
 
 ## CRITICAL: Do Not Minimize Epstein's Crimes
-NEVER describe Epstein's 2008 conviction as just "prostitution charges" or "prostitution conviction." The charge was **soliciting a minor** — always include that the victims were underage. Acceptable phrasings:
+NEVER use the word "prostitution" when describing Epstein's 2008 conviction. The victims were children — calling it "prostitution" implies consent. Acceptable phrasings:
 - "state charges of soliciting a minor"
-- "conviction for soliciting prostitution from a minor"
+- "convicted of soliciting a minor"
 - "2008 sex offense conviction involving minors"
-NEVER acceptable: "prostitution conviction", "prostitution charges" (drops the key fact — the victims were children)
+NEVER acceptable: "prostitution conviction", "prostitution charges", "soliciting prostitution from a minor" (the word "prostitution" must not appear)
 
 ## Cross-References (MAX 2 LINKS)
 You may reference up to 2 existing articles from our site using markdown links like [text](/news/slug). Only include a cross-reference if ALL of these are true:
@@ -343,7 +343,7 @@ These add no information. They are padding. Cut them.
 If after these deletions the article has no named sources making specific statements, the article is UNPUBLISHABLE — it means the source material was too thin. In that case, note in your output: "QUALITY_FAIL: No named sources."
 
 ### 5b. DO NOT MINIMIZE EPSTEIN'S CRIMES
-Check that the article NEVER describes Epstein's 2008 conviction as just "prostitution charges" or "prostitution conviction." The charge was soliciting a MINOR. Always include that victims were underage. Fix to "state charges of soliciting a minor" or "conviction for soliciting prostitution from a minor." The word "minor" must appear.
+Check that the article NEVER uses the word "prostitution" when describing Epstein's 2008 conviction. The victims were children. Fix ANY mention of "prostitution charges", "prostitution conviction", or "soliciting prostitution" to "state charges of soliciting a minor" or "convicted of soliciting a minor." The word "prostitution" must NOT appear in this context.
 
 ### 6. KILL THE AI VOICE
 Remove:
@@ -532,7 +532,7 @@ At least 70% of the feature must cover the specific topic in depth. No more than
 - When sources contradict each other, note the discrepancy
 
 ## CRITICAL: Do Not Minimize Epstein's Crimes
-NEVER describe Epstein's 2008 conviction as just "prostitution charges" or "prostitution conviction." The charge was **soliciting a minor** — always include that the victims were underage. Use: "state charges of soliciting a minor" or "conviction for soliciting prostitution from a minor."
+NEVER use the word "prostitution" when describing Epstein's 2008 conviction. The victims were children. Use: "state charges of soliciting a minor" or "convicted of soliciting a minor." The word "prostitution" must not appear in this context.
 
 ## Cross-References (MAX 4 LINKS)
 You may reference up to 4 existing articles from our site — but ONLY if they cover the SAME specific person, event, or document as THIS feature.

@@ -48,7 +48,7 @@ The [FBI began its review of Epstein-related records](/news/fbi-begins-epstein-r
 
 ## Epstein's Network
 
-The document releases have revealed the extent of Epstein's contact with figures across multiple industries, including academia, business, entertainment, and politics. Previous disclosures have shown Epstein maintained relationships with scientists, executives, and public figures, often positioning himself as a philanthropist and financier despite his 2008 conviction for soliciting prostitution from a minor.
+The document releases have revealed the extent of Epstein's contact with figures across multiple industries, including academia, business, entertainment, and politics. Previous disclosures have shown Epstein maintained relationships with scientists, executives, and public figures, often positioning himself as a philanthropist and financier despite his 2008 conviction for soliciting a minor.
 
 Epstein died in federal custody in August 2019 while awaiting trial on sex trafficking charges. His former associate Ghislaine Maxwell was convicted in December 2021 on charges related to her role in recruiting and grooming underage girls for Epstein to abuse.
 

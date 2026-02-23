@@ -27,7 +27,7 @@ tags:
   - political
 keyTakeaways:
   - "Democratic consulting firm Dynamic SRG repeatedly solicited donations from Epstein for House races in New York, offering access to top NY Democratic politicians in return."
-  - "The solicitations occurred after Epstein's 2008 guilty plea in Palm Beach County for soliciting prostitution from a minor, a deal negotiated by then-U.S. Attorney Alexander Acosta."
+  - "The solicitations occurred after Epstein's 2008 guilty plea in Palm Beach County for soliciting a minor, a deal negotiated by then-U.S. Attorney Alexander Acosta."
   - "Les Wexner, who transferred a $77 million Manhattan mansion to Epstein for $0 and gave him power of attorney, was subpoenaed by Congress and labeled a co-conspirator."
   - "Deputy AG Todd Blanche accused Reps. Ro Khanna and Thomas Massie of naming 'completely random people' from the files, drawing bipartisan pushback."
   - "Ohio politicians received campaign funds from Wexner, raising questions about conflicts of interest in Epstein oversight."
@@ -45,7 +45,7 @@ Newly released Justice Department records show that **Dynamic SRG**, a Democrati
 
 **Dynamic SRG**, according to DOJ records reviewed by the Times, approached Epstein multiple times about contributing to Democratic House races.<sup>[1](#ref-1)</sup>
 
-These solicitations occurred after Epstein's 2008 guilty plea in Palm Beach County to soliciting prostitution from a minor -- a plea deal negotiated by then-U.S. Attorney Alexander Acosta with Epstein's defense team, which included Alan Dershowitz and Kenneth Starr.<sup>[1](#ref-1)</sup> The deal resulted in 13 months of county jail with work release and required Epstein to register as a sex offender.
+These solicitations occurred after Epstein's 2008 guilty plea in Palm Beach County to soliciting a minor -- a plea deal negotiated by then-U.S. Attorney Alexander Acosta with Epstein's defense team, which included Alan Dershowitz and Kenneth Starr.<sup>[1](#ref-1)</sup> The deal resulted in 13 months of county jail with work release and required Epstein to register as a sex offender.
 
 The Times reported that the solicitations were "apparently unsuccessful."<sup>[1](#ref-1)</sup>
 

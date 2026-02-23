@@ -38,7 +38,7 @@ Attia is a physician who trained at Johns Hopkins Hospital and previously worked
 
 The disclosure follows ongoing releases of court documents and materials related to Epstein's activities.<sup>[1](#ref-1)</sup> Multiple batches of files have been unsealed in recent years, revealing names of individuals who had various levels of association with Epstein.<sup>[1](#ref-1)</sup>
 
-Jeffrey Epstein died in August 2019 while awaiting trial on federal sex trafficking charges. He had been convicted in 2008 on state charges of soliciting prostitution from a minor in Florida. His associate Ghislaine Maxwell was convicted in December 2021 on federal charges of sex trafficking minors and is currently serving a 20-year prison sentence.
+Jeffrey Epstein died in August 2019 while awaiting trial on federal sex trafficking charges. He had been convicted in 2008 on state charges of soliciting a minor in Florida. His associate Ghislaine Maxwell was convicted in December 2021 on federal charges of sex trafficking minors and is currently serving a 20-year prison sentence.
 
 The Epstein Transparency Act, signed into law in 2024, mandated the declassification and public release of government records related to Epstein's case.<sup>[1](#ref-1)</sup> Federal agencies including the FBI began reviewing Epstein-related records under the law.
 

@@ -29,7 +29,7 @@ The article, published February 23, 2026, focuses on how Epstein cultivated ties
 
 ## Epstein's Academic Network
 
-Epstein funded scientific research and academic programs at multiple prestigious institutions before his 2008 guilty plea to soliciting prostitution from a minor in Florida state court. He was arrested again in July 2019 on federal sex trafficking charges and died in federal custody the following month.
+Epstein funded scientific research and academic programs at multiple prestigious institutions before his 2008 guilty plea to soliciting a minor in Florida state court. He was arrested again in July 2019 on federal sex trafficking charges and died in federal custody the following month.
 
 His philanthropic activities included substantial donations to [Harvard University and MIT](/news/2026-02-13-college-presidents-professors-named-in-epstein-files-fallout).<sup>[1](#ref-1)</sup> MIT accepted at least $800,000 from Epstein, according to the university's internal investigation released in January 2020. That review found Epstein visited campus and met with researchers even after his 2008 conviction, with some visits facilitated by Media Lab director Joi Ito, who resigned in September 2019 after the extent of his Epstein ties became public.
 

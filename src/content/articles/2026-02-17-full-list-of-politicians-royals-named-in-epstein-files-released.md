@@ -31,7 +31,7 @@ keyTakeaways:
   - "Departures include Olympic organizing chairman Casey Wasserman, Hyatt chairman Tom Pritzker, and Goldman Sachs general counsel Kathryn Ruemmler."
   - "UK diplomat Peter Mandelson withdrew as ambassador-designate after Congress subpoenaed him over Epstein correspondence."
   - "Sarah Ferguson will close six business entities after files showed Epstein provided her with financial assistance."
-  - "Documents reveal hundreds of emails between Epstein and executives years after his 2008 conviction for soliciting prostitution from a minor."
+  - "Documents reveal hundreds of emails between Epstein and executives years after his 2008 conviction for soliciting a minor."
 status: published
 aiGenerated: true
 articleType: news
@@ -48,7 +48,7 @@ Tom Pritzker, chairman of Hyatt Hotels and heir to the Pritzker fortune, [resign
 
 Kam Ghafarian, chief executive of Dubai Ports World, [left his position](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after DOJ files showed hundreds of emails between him and Epstein.<sup>[4](#ref-4)</sup> The correspondence included discussions about business ventures and social gatherings, according to the documents.
 
-Kathryn Ruemmler, general counsel at Goldman Sachs and former White House counsel under President Obama, resigned after documents showed she maintained contact with Epstein years after his 2008 conviction for soliciting prostitution from a minor.<sup>[5](#ref-5)</sup> Ruemmler had previously acknowledged meeting with Epstein in 2014 for career advice.
+Kathryn Ruemmler, general counsel at Goldman Sachs and former White House counsel under President Obama, resigned after documents showed she maintained contact with Epstein years after his 2008 conviction for soliciting a minor.<sup>[5](#ref-5)</sup> Ruemmler had previously acknowledged meeting with Epstein in 2014 for career advice.
 
 A senior partner at Clifford Chance, one of the world's largest law firms, left the firm after emails showed communications with Epstein about legal matters and social events, according to reporting. The firm declined to comment.<sup>[1](#ref-1)</sup>
 

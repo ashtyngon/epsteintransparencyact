@@ -31,7 +31,7 @@ The arrest stems from suspected misconduct in public office revealed in the Jeff
 
 The investigation represents "further fallout from the Epstein files," which have continued to implicate prominent figures in their association with the financier.<sup>[1](#ref-1)</sup>
 
-Prince Andrew served as the United Kingdom's Special Representative for International Trade and Investment from 2001 to 2011, a role that gave him access to government information and brought him into contact with business leaders worldwide. During this period, Andrew was photographed with Epstein on multiple occasions, including after Epstein's 2008 conviction for soliciting prostitution from a minor.
+Prince Andrew served as the United Kingdom's Special Representative for International Trade and Investment from 2001 to 2011, a role that gave him access to government information and brought him into contact with business leaders worldwide. During this period, Andrew was photographed with Epstein on multiple occasions, including after Epstein's 2008 conviction for soliciting a minor.
 
 ## Royal Family Response
 

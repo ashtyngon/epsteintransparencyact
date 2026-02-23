@@ -39,7 +39,7 @@ The pattern was consistent: Epstein would host Jagland, then reference those mee
 
 Jagland's dual roles in European governance and the Nobel institution made him a particularly valuable contact for Epstein's network-building strategy. Unlike celebrity scientists or academics previously exposed in the files, Jagland controlled access to one of the world's most prestigious awards. His position carried greater institutional weight than research funding or academic appointments.
 
-The contacts between Epstein and Jagland occurred after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor and continued until close to Epstein's death on August 10, 2019.
+The contacts between Epstein and Jagland occurred after Epstein's 2008 conviction in Florida for soliciting a minor and continued until close to Epstein's death on August 10, 2019.
 
 ## Criminal Charges
 

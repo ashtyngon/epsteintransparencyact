@@ -45,7 +45,7 @@ The call from Brown comes as British police continue examining Andrew's connecti
 
 Andrew held the unpaid position of trade envoy for a decade, traveling extensively to represent British commercial interests. The position gave him access to diplomatic channels, government aircraft, and official facilities as part of his duties.
 
-Epstein was convicted in 2008 of soliciting prostitution from a minor in Florida. Andrew maintained contact with Epstein after the conviction, including a 2010 visit to Epstein's New York mansion that was photographed and later became a source of public controversy.
+Epstein was convicted in 2008 of soliciting a minor in Florida. Andrew maintained contact with Epstein after the conviction, including a 2010 visit to Epstein's New York mansion that was photographed and later became a source of public controversy.
 
 Andrew stepped down from the trade envoy role in 2011 following criticism of his friendship with Epstein and his business contacts. He withdrew from public duties entirely in 2019 after a BBC interview about his relationship with Epstein.
 
