@@ -6,6 +6,7 @@ import { EDITOR_PROMPT } from './config/prompt-templates.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
+const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
 const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
 
 interface FilterResult {
@@ -32,6 +33,88 @@ interface RelevantArticle {
   rankScore: number;
   isFeature?: boolean;
   featureSources?: RelevantArticle[];
+}
+
+interface RSSCandidate {
+  title: string;
+  link: string;
+  description: string;
+  pubDate: string;
+  source: string;
+  sourceId: string;
+  sourcePriority: number;
+  image?: string;
+}
+
+// ──────────────────────────────────────────────────
+// Sibling source lookup — find related RSS items about the same story
+// ──────────────────────────────────────────────────
+
+function getSignificantWords(text: string): Set<string> {
+  const stopWords = new Set([
+    'that', 'this', 'with', 'from', 'have', 'been', 'were', 'their',
+    'about', 'after', 'says', 'said', 'over', 'into', 'will', 'more',
+    'than', 'also', 'just', 'back', 'when', 'what', 'could', 'would',
+    'some', 'them', 'other', 'being', 'does', 'most', 'make', 'like',
+    'report', 'reports', 'news', 'former', 'amid', 'ties', 'linked',
+    'following', 'according', 'epstein', 'jeffrey', 'files',
+  ]);
+  const words = text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    .split(/\s+/)
+    .filter((w) => w.length > 3 && !stopWords.has(w));
+  return new Set(words);
+}
+
+function jaccardSimilarity(a: Set<string>, b: Set<string>): number {
+  const arrA = Array.from(a);
+  const intersection = arrA.filter((w) => b.has(w)).length;
+  const arrB = Array.from(b);
+  const unionSet = new Set(arrA.concat(arrB));
+  return unionSet.size > 0 ? intersection / unionSet.size : 0;
+}
+
+/**
+ * Find sibling RSS reports covering the same story as the current article.
+ * Searches candidates.json (the full RSS haul from the current run) for items
+ * whose title+description overlap with the article being edited.
+ * Returns up to 4 siblings, excluding the source article itself.
+ */
+function findSiblingReports(item: RelevantArticle): RSSCandidate[] {
+  if (!existsSync(CANDIDATES_PATH)) return [];
+
+  let candidates: RSSCandidate[];
+  try {
+    candidates = JSON.parse(readFileSync(CANDIDATES_PATH, 'utf-8'));
+  } catch {
+    return [];
+  }
+
+  const articleText = `${item.title} ${item.description}`;
+  const articleWords = getSignificantWords(articleText);
+
+  const scored: { candidate: RSSCandidate; score: number }[] = [];
+
+  for (const c of candidates) {
+    // Skip the same article (by URL)
+    if (c.link === item.link) continue;
+    // Skip same source — we want *different* outlets' reporting
+    if (c.source.toLowerCase() === item.source.toLowerCase()) continue;
+
+    const candidateText = `${c.title} ${c.description}`;
+    const candidateWords = getSignificantWords(candidateText);
+    const similarity = jaccardSimilarity(articleWords, candidateWords);
+
+    // 30% overlap = same story from a different outlet
+    if (similarity >= 0.30) {
+      scored.push({ candidate: c, score: similarity });
+    }
+  }
+
+  // Sort by similarity (best match first), cap at 4
+  scored.sort((a, b) => b.score - a.score);
+  return scored.slice(0, 4).map((s) => s.candidate);
 }
 
 // Known aggregator sources — same list as generate-article.ts
@@ -267,10 +350,38 @@ async function main() {
     const initialWordCount = countArticleWords(editedBody);
 
     if (initialWordCount < minWords) {
-      console.log(`  WORD COUNT: ${initialWordCount} words (min ${minWords}) — retrying editor...`);
-      const retryInstruction =
-        `CRITICAL: Your previous draft was only ${initialWordCount} words. The minimum is ${minWords} words. ` +
-        `Expand the article with factual context from the Epstein case timeline. Do NOT use filler.`;
+      // ── Find sibling reports from other outlets covering the same story ──
+      const siblings = findSiblingReports(item);
+      let retryInstruction: string;
+
+      if (siblings.length > 0) {
+        // Feed the editor REAL reporting from other sources
+        const siblingBlock = siblings.map((s, i) =>
+          `SOURCE ${i + 1} (${s.source}):\nHeadline: ${s.title}\nContent: ${s.description.slice(0, 500)}`
+        ).join('\n\n');
+
+        console.log(`  WORD COUNT: ${initialWordCount} words (min ${minWords}) — found ${siblings.length} sibling source(s), retrying...`);
+        siblings.forEach((s) => console.log(`    sibling: [${s.source}] ${s.title.slice(0, 60)}`));
+
+        retryInstruction =
+          `CRITICAL: Your previous draft was only ${initialWordCount} words. The minimum is ${minWords} words.\n\n` +
+          `Below are additional reports from OTHER news outlets covering the same story. ` +
+          `Use the specific facts, quotes, and details from these reports to expand the article. ` +
+          `Do NOT add generic filler or background — only incorporate verifiable facts from these sources. ` +
+          `Credit the reporting outlet when adding new information (e.g., "according to [Outlet]").\n\n` +
+          `ADDITIONAL SOURCE REPORTS:\n\n${siblingBlock}`;
+      } else {
+        // No siblings found — ask editor to expand with what it has, but be strict about filler
+        console.log(`  WORD COUNT: ${initialWordCount} words (min ${minWords}) — no sibling sources found, retrying with strict expansion...`);
+        retryInstruction =
+          `CRITICAL: Your previous draft was only ${initialWordCount} words. The minimum is ${minWords} words.\n\n` +
+          `No additional source reports are available. Expand the article ONLY by:\n` +
+          `- Adding factual context that is directly verifiable from the source material already provided\n` +
+          `- Elaborating on specific claims, dates, names, or documents already mentioned\n` +
+          `- Adding relevant legal or procedural context (e.g., what a subpoena means, how document releases work)\n\n` +
+          `Do NOT add speculative commentary, vague "experts say" language, or general Epstein case background that isn't tied to the specific story.`;
+      }
+
       const retryBody = await editArticle(client, headline, parts.body, item, existingArticles, retryInstruction);
 
       if (retryBody) {
