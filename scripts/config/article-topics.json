@@ -837,5 +837,48 @@
       "victims",
       "survivors"
     ]
+  },
+  {
+    "slug": "2026-02-23-epstein-secret-storage-units-across-us-contain-unreleased-evidence",
+    "title": "Epstein Secret Storage Units Across US Contain Unreleased Evidence",
+    "summary": "Epstein Secret Storage Units Across US Contain Unreleased Evidence",
+    "novelty": "New York Post reports that Jeffrey Epstein stashed secret files in storage units across the United States that may contain previously unseen evidence.",
+    "topic": "New York Post reports that Jeffrey Epstein stashed secret files in storage units across the United States that may contain previously unseen evidence.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "document-release",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-france-launches-diplomat-inquiry-over-epstein-ties",
+    "title": "France Launches Diplomat Inquiry Over Epstein Ties",
+    "summary": "# French Foreign Minister Pledges Full Investigation Into Diplomat's Alleged Epstein Connections",
+    "novelty": "French Foreign Minister announces full investigation into unnamed diplomat's alleged connections to Epstein.",
+    "topic": "French Foreign Minister announces full investigation into unnamed diplomat's alleged connections to Epstein.",
+    "people": [],
+    "tags": [
+      "investigation",
+      "associates",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-22-europe-pursues-epstein-accountability-while-us-doj-stalls",
+    "title": "Europe Pursues Epstein Accountability While US DOJ Stalls",
+    "summary": "**The Washington Post** has reported on the contrasting responses to recent Epstein-related revelations between European and U.S",
+    "novelty": "Washington Post reports that European authorities are pursuing accountability measures for Epstein-connected figures while U.S. Department of Justice appears reluctant to pursue new cases.",
+    "topic": "Washington Post reports that European authorities are pursuing accountability measures for Epstein-connected figures while U.S. Department of Justice appears reluctant to pursue new cases.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "political",
+      "associates"
+    ]
   }
 ]
