@@ -23,7 +23,7 @@ keyTakeaways:
   - "Video footage from a hidden camera inside Epstein's Palm Beach office has surfaced through civil litigation, not through the DOJ's document release process."
   - "Epstein's properties—Palm Beach, the Manhattan townhouse at 9 East 71st Street, his New Mexico ranch, and Little St. James island—were all wired with surveillance cameras."
   - "The FBI seized hard drives, computers, and digital storage during its July 2019 raid on Epstein's properties; the full status of that material has not been publicly disclosed."
-  - "The Palm Beach mansion was the site of Epstein's 2008 plea deal, where he avoided federal trafficking charges by pleading guilty to state prostitution charges."
+  - "The Palm Beach mansion was the site of Epstein's 2008 plea deal, where he avoided federal trafficking charges by pleading guilty to state charges of soliciting a minor."
   - "Victims' advocates are calling for a full accounting of all surveillance footage in government possession, arguing it could identify additional perpetrators."
 status: published
 aiGenerated: true
@@ -54,7 +54,7 @@ This video is the latest in a series of releases that have included [names in em
 
 The New York Times has assigned 24 journalists to review millions of pages of records released under the Epstein Transparency Act.
 
-The Palm Beach mansion was the site of Epstein's 2008 plea deal, negotiated by then-U.S. Attorney **Alexander Acosta**, in which Epstein pleaded guilty to state prostitution charges and served 13 months in a county jail with work-release privileges, avoiding federal trafficking charges.
+The Palm Beach mansion was the site of Epstein's 2008 plea deal, negotiated by then-U.S. Attorney **Alexander Acosta**, in which Epstein pleaded guilty to state charges of soliciting a minor and served 13 months in a county jail with work-release privileges, avoiding federal trafficking charges.
 
 The video became public through a court order in civil litigation, not through the government's document release process.<sup>[1](#ref-1)</sup>
 

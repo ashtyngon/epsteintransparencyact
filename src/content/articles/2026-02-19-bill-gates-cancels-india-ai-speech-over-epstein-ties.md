@@ -36,7 +36,7 @@ India's technology sector has increasingly positioned itself as a major player i
 
 ## Gates's Previous Epstein Ties
 
-Gates's withdrawal from the India summit follows years of reporting about his meetings with Epstein. According to reporting by The New York Times and other outlets, Gates met with Epstein at least six times between 2011 and 2014, well after Epstein's 2008 conviction on state prostitution charges in Florida.<sup>[1](#ref-1)</sup> The meetings included visits to Epstein's Manhattan townhouse and discussions that Gates described as related to philanthropy.
+Gates's withdrawal from the India summit follows years of reporting about his meetings with Epstein. According to reporting by The New York Times and other outlets, Gates met with Epstein at least six times between 2011 and 2014, well after Epstein's 2008 conviction on state charges of soliciting a minor in Florida.<sup>[1](#ref-1)</sup> The meetings included visits to Epstein's Manhattan townhouse and discussions that Gates described as related to philanthropy.
 
 The timing of those meetings has been a persistent source of criticism directed at Gates. In a 2023 interview with PBS News, Gates called the meetings "a huge mistake" and said he regretted any association with Epstein.<sup>[1](#ref-1)</sup>
 

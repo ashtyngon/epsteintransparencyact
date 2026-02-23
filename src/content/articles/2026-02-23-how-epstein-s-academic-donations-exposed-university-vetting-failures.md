@@ -14,7 +14,7 @@ tags:
   - investigation
 keyTakeaways:
   - "Chronicle of Philanthropy published commentary on February 23, 2026, examining Jeffrey Epstein's academic relationships as a donor screening case study."
-  - "MIT accepted at least $800,000 from Epstein and allowed campus visits after his 2008 prostitution conviction, according to the university's internal investigation."
+  - "MIT accepted at least $800,000 from Epstein and allowed campus visits after his 2008 conviction for soliciting a minor, according to the university's internal investigation."
   - "Harvard maintained a relationship with Epstein, who kept an office at a university-affiliated research center following his guilty plea."
   - "The Epstein case prompted universities to implement stricter background checks and gift acceptance committees for evaluating donors with criminal records."
 status: published

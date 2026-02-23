@@ -13,7 +13,7 @@ tags:
   - associates
 keyTakeaways:
   - "Kirkland & Ellis attorneys experienced internal feuding and friction while securing Jeffrey Epstein's 2008 plea deal, Law.com reports."
-  - "The agreement allowed Epstein to plead guilty to state prostitution charges, serving just 13 months with work release."
+  - "The agreement allowed Epstein to plead guilty to state charges of soliciting a minor, serving just 13 months with work release."
   - "Federal prosecutors led by Alexander Acosta granted immunity to potential co-conspirators as part of the deal."
   - "A federal judge ruled in 2019 that the non-prosecution agreement was illegally negotiated without notifying victims."
 status: published
@@ -26,7 +26,7 @@ A new report details how attorneys at **Kirkland & Ellis** navigated internal co
 
 According to **Law.com**, the legal maneuvering behind Epstein's non-prosecution agreement involved significant friction both within the high-powered law firm and between defense attorneys and federal prosecutors.<sup>[1](#ref-1)</sup>
 
-The 2008 deal allowed Epstein to plead guilty to two state prostitution charges in Florida and serve just 13 months in county jail with work release privileges, despite a federal investigation that identified dozens of underage victims.<sup>[1](#ref-1)</sup> The agreement also granted immunity to potential co-conspirators, a provision that later drew intense scrutiny.
+The 2008 deal allowed Epstein to plead guilty to two state charges of soliciting a minor in Florida and serve just 13 months in county jail with work release privileges, despite a federal investigation that identified dozens of underage victims.<sup>[1](#ref-1)</sup> The agreement also granted immunity to potential co-conspirators, a provision that later drew intense scrutiny.
 
 ## Defense Strategy and Internal Tensions
 

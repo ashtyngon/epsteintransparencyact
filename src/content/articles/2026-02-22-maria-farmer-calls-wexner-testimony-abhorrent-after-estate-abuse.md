@@ -33,7 +33,7 @@ Farmer said she "suffered abuse at the hands of Jeffrey Epstein and Ghislaine Ma
 
 ## Wexner Testified Before Congress
 
-Wexner appeared before the House Oversight Committee earlier this month to answer questions about his association with Epstein, who managed his personal finances during the 1980s and 1990s. Wexner has said he severed ties with Epstein in 2007 after learning of his guilty plea to state prostitution charges in Florida.
+Wexner appeared before the House Oversight Committee earlier this month to answer questions about his association with Epstein, who managed his personal finances during the 1980s and 1990s. Wexner has said he severed ties with Epstein in 2007 after learning of his guilty plea to state charges of soliciting a minor in Florida.
 
 [Rep. Nasir Ansari (D-Minn.) publicly questioned](/news/2026-02-19-rep-ansari-doubts-wexner-s-epstein-testimony-credibility) the credibility of Wexner's testimony, stating he found it "difficult to believe" that Wexner was unaware of Epstein's activities.
 

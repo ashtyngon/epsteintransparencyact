@@ -44,7 +44,7 @@ Andrew has denied allegations of sexual misconduct. He reached a settlement in F
 
 ## Epstein Case Context
 
-Jeffrey Epstein died in a Manhattan jail cell in August 2019 while awaiting trial on federal sex trafficking charges. His death was ruled a suicide. Epstein had previously pleaded guilty in 2008 to state prostitution charges in Florida as part of a non-prosecution agreement.
+Jeffrey Epstein died in a Manhattan jail cell in August 2019 while awaiting trial on federal sex trafficking charges. His death was ruled a suicide. Epstein had previously pleaded guilty in 2008 to state charges of soliciting a minor in Florida as part of a non-prosecution agreement.
 
 Ghislaine Maxwell, Epstein's longtime associate, was convicted in December 2021 on five counts including sex trafficking of minors. She is serving a 20-year federal prison sentence.
 

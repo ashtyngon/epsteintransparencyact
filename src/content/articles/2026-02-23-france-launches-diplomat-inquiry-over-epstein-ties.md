@@ -37,7 +37,7 @@ France had [established a special team to review Epstein files for French nation
 
 Epstein died in federal custody in Manhattan in August 2019 while awaiting trial on sex trafficking charges. He had been arrested in July 2019 on federal charges of sex trafficking minors. A medical examiner ruled his death a suicide.<sup>[1](#ref-1)</sup>
 
-Epstein had previously been convicted in 2008 in Florida on state prostitution charges and served 13 months in a work-release program. The 2008 plea deal allowed him to avoid federal prosecution at that time.<sup>[1](#ref-1)</sup>
+Epstein had previously been convicted in 2008 in Florida on state charges of soliciting a minor and served 13 months in a work-release program. The 2008 plea deal allowed him to avoid federal prosecution at that time.<sup>[1](#ref-1)</sup>
 
 ## Document Releases Spur International Action
 
