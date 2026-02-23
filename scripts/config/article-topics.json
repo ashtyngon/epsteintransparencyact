@@ -1222,5 +1222,52 @@
       "survivors",
       "breaking"
     ]
+  },
+  {
+    "slug": "2026-02-23-ex-u-s-ambassador-arrested-in-uk-epstein-inquiry",
+    "title": "Ex-U.S. Ambassador Arrested in UK Epstein Inquiry",
+    "summary": "British authorities have arrested **Louis B",
+    "novelty": "DUPLICATE: UK police arrest ex-U.S. ambassador on Epstein-related accusations, matching the Peter Mandelson arrest already covered",
+    "topic": "DUPLICATE: UK police arrest ex-U.S. ambassador on Epstein-related accusations, matching the Peter Mandelson arrest already covered",
+    "people": [
+      "peter-mandelson",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "arrest",
+      "investigation",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation",
+    "title": "Peter Mandelson Faces Misconduct Charge in Epstein Investigation",
+    "summary": "Peter Mandelson Faces Misconduct Charge in Epstein Investigation",
+    "novelty": "DUPLICATE: The Sunday Guardian reports misconduct charges against Peter Mandelson in the Epstein investigation, matching the 'Peter Mandelson Arrested in UK Epstein Investigation' article already published.",
+    "topic": "DUPLICATE: The Sunday Guardian reports misconduct charges against Peter Mandelson in the Epstein investigation, matching the 'Peter Mandelson Arrested in UK Epstein Investigation' article already published.",
+    "people": [
+      "peter-mandelson",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "arrest",
+      "associates",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-23-epstein-brought-women-entourage-to-2013-spacex-visit",
+    "title": "Epstein Brought Women Entourage to 2013 SpaceX Visit",
+    "summary": "**Jeffrey Epstein** attempted to bring multiple women with him during a planned 2013 visit to **SpaceX** headquarters, according to a new report.<sup>[1](#ref-1)</sup>",
+    "novelty": "Jeffrey Epstein attempted to bring multiple women as part of his entourage during a 2013 visit to SpaceX, according to newly surfaced details.",
+    "topic": "Jeffrey Epstein attempted to bring multiple women as part of his entourage during a 2013 visit to SpaceX, according to newly surfaced details.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "document-release"
+    ]
   }
 ]
