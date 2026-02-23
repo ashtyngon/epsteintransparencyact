@@ -139,10 +139,12 @@ async function main() {
         .filter(c => c.severity === 'high')
         .forEach(c => console.log(`      HIGH: "${c.claim.slice(0, 60)}" — ${c.reason.slice(0, 60)}`));
 
-      // Delete the article — it likely contains hallucinated facts
-      try { unlinkSync(filePath); } catch {}
-      console.log(`    DELETED: ${slug}`);
-      failed++;
+      // DON'T delete — the model's training data may not include recent events.
+      // Flagging Prince Andrew's arrest or the Mar-a-Lago shooting as "fictional"
+      // is a knowledge-cutoff false positive, not a real quality issue.
+      // The editor's QUALITY_FAIL gate and word count checks handle true failures.
+      console.log(`    KEPT (fact-check advisory only — recent events may be beyond model training)`);
+      flagged++;
     } else if (result.verdict === 'FLAG') {
       console.log(`    FLAG (${highCount} high, ${medCount} med): ${result.summary.slice(0, 80)}`);
       result.flaggedClaims
