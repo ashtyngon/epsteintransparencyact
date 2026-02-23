@@ -749,5 +749,53 @@
       "court-documents",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-22-uk-mp-seeks-treason-probe-into-prince-andrew-over-epstein",
+    "title": "UK MP Seeks Treason Probe Into Prince Andrew Over Epstein",
+    "summary": "UK MP Seeks Treason Probe Into Prince Andrew Over Epstein",
+    "novelty": "UK MP formally seeks treason probe into Prince Andrew over Epstein links while government considers removing him from royal succession.",
+    "topic": "UK MP formally seeks treason probe into Prince Andrew over Epstein links while government considers removing him from royal succession.",
+    "people": [
+      "prince-andrew",
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "political",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-documents-reveal-epstein-s-attempt-to-court-penn-psychology-professor-seligman",
+    "title": "Documents Reveal Epstein's Attempt to Court Penn Psychology Professor Seligman",
+    "summary": "Documents Reveal Epstein's Attempt to Court Penn Psychology Professor Seligman",
+    "novelty": "Documents reveal how Jeffrey Epstein attempted to cultivate a relationship with University of Pennsylvania psychology professor Martin Seligman, a prominent positive psychology researcher.",
+    "topic": "Documents reveal how Jeffrey Epstein attempted to cultivate a relationship with University of Pennsylvania psychology professor Martin Seligman, a prominent positive psychology researcher.",
+    "people": [
+      "jeffrey-epstein",
+      "martin-seligman"
+    ],
+    "tags": [
+      "court-documents",
+      "associates",
+      "document-release"
+    ]
+  },
+  {
+    "slug": "2026-02-22-fbi-s-five-year-probe-into-epstein-jet-s-uk-airport-landings-revealed",
+    "title": "FBI's Five-Year Probe Into Epstein Jet's UK Airport Landings Revealed",
+    "summary": "The FBI has been investigating whether Jeffrey Epstein's private jet, known as the \"Lolita Express,\" flew to and from British airports, according to The Sun<sup>[1](#ref-1)</sup>",
+    "novelty": "FBI investigation into whether Epstein's Lolita Express jet landed at British airports has been ongoing for five years, suggesting potential UK connections to trafficking operations.",
+    "topic": "FBI investigation into whether Epstein's Lolita Express jet landed at British airports has been ongoing for five years, suggesting potential UK connections to trafficking operations.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "fbi",
+      "associates"
+    ]
   }
 ]
