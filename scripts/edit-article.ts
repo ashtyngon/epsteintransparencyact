@@ -419,7 +419,8 @@ async function main() {
     }
 
     // Check for QUALITY_FAIL signal from editor — delete the file so it won't be committed
-    if (finalBody.includes('QUALITY_FAIL:')) {
+    // Match multiple formats: "QUALITY_FAIL:", "QUALITY_FAIL —", "QUALITY_FAIL -", etc.
+    if (/QUALITY_FAIL/i.test(finalBody)) {
       console.log(`  QUALITY REJECT (editor flagged): ${headline.slice(0, 50)}. Deleting.`);
       try { unlinkSync(filePath); } catch {}
       continue;
