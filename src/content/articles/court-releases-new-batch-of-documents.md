@@ -1,8 +1,9 @@
 ---
 title: "Court Releases New Batch of Epstein-Related Documents"
-publishedAt: 2026-02-10
+publishedAt: 2026-02-10T12:00:00.000Z
 source: "New York Times"
 sourceUrl: "https://nytimes.com/2025/02/10/us/epstein-documents-release"
+articleType: news
 summary: "A federal court releases hundreds of pages of previously sealed documents from the Giuffre v. Maxwell case, including deposition transcripts naming prominent individuals."
 people:
   - jeffrey-epstein

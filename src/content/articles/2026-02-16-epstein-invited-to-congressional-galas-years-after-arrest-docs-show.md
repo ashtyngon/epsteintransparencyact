@@ -35,73 +35,42 @@ articleType: feature
 confidence: 0.95
 ---
 
-A dozen members of Congress received invitations to events with **Jeffrey Epstein** years after his **2008 conviction** for soliciting prostitution from a minor, according to documents released under the Epstein Transparency Act.<sup>[1](#ref-1)</sup> The invitations included a congressman's birthday gala, a senator's fundraiser at a billionaire's residence, and a breakfast meeting focused on homeland security issues, The Independent reported.<sup>[1](#ref-1)</sup>
+At least 14 current or former members of Congress received invitations to exclusive events with **Jeffrey Epstein** in the years after his 2008 conviction for soliciting a minor for sex, according to Department of Justice documents reviewed by The Independent.<sup>[1](#ref-1)</sup> The invitations, which spanned 2011 to 2017, included a congressman's birthday gala, a senator's fundraiser at a billionaire's residence, and a breakfast briefing on homeland security, the outlet reported.<sup>[1](#ref-1)</sup>
 
-**Representative Thomas Massie** publicly stated the Department of Justice continues withholding Epstein documents despite the federal disclosure law. **Attorney General Pam Bondi** testified last week that DOJ released "all" files, but lawmakers and commentators have challenged that assertion.
+Over half the lawmakers connected to the invitations represent New York, New Mexico, and Florida -- states where Epstein owned properties.<sup>[1](#ref-1)</sup>
 
-Separately, newly released texts indicate **Steve Bannon**, the podcaster and former White House strategist, maintained what the New York Times described as a "seemingly chummy relationship" with Epstein after the financier's sex trafficking allegations became public.<sup>[2](#ref-2)</sup>
+## Specific Invitations Identified
 
-## Congressional Access After Conviction
+In February 2013, a staffer at a political fundraising firm sent a message to Epstein on behalf of then-New York Rep. **Joe Crowley**, inviting the convicted sex offender to a birthday gala at the Dream Downtown Hotel in Manhattan.<sup>[1](#ref-1)</sup> Documents suggest Epstein received a second invitation to Crowley's gala the following year.<sup>[1](#ref-1)</sup>
 
-The documents show Epstein maintained access to federal lawmakers between his 2008 guilty plea and his 2019 arrest on federal sex trafficking charges, according to The Independent.<sup>[1](#ref-1)</sup> The specific members of Congress who received invitations have not been publicly identified in the initial reporting, though the invitations covered multiple event types across several years.
+In April 2011, a former DEA agent who ran a private security firm invited Epstein to a briefing with then-New York Rep. **Peter King** at the Metropolitan Club, a private social club on Manhattan's Upper East Side.<sup>[1](#ref-1)</sup>
 
-Epstein [pleaded guilty in 2008](/news/2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals) to state charges in Florida under a non-prosecution agreement that allowed him to avoid federal prosecution. He registered as a sex offender but served only 13 months in a county jail with work-release privileges.
+In November 2012, **Mortimer Zuckerman**, the billionaire then-owner of the New York Daily News and U.S. News & World Report, emailed Epstein asking him to attend a fundraiser at his home for then-Sen. **Max Baucus**, noting that Sen. **Chuck Schumer** was likely to attend.<sup>[1](#ref-1)</sup>
 
-The congressional invitations add to records documented in previous file releases showing Epstein had contact with political figures, academic leaders, and business executives.<sup>[1](#ref-1)</sup> [Congressional subpoenas](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe) have been issued to **Peter Mandelson** and [billionaire **Les Wexner**](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties) as part of ongoing investigations.<sup>[3](#ref-3)</sup>
+Between 2011 and 2017, Epstein also received invitations to events connected to Sen. Schumer, Rep. **Hakeem Jeffries**, Sen. **Kirsten Gillibrand**, Rep. **Nicole Malliotakis**, Sen. **Martin Heinrich**, Sen. **Ed Markey**, Rep. **Diana DeGette**, and Del. **Stacey Plaskett**, The Independent found.<sup>[1](#ref-1)</sup> In May 2013, a fundraiser invited Epstein to a congressional dinner with President Obama on behalf of Jeffries, though Jeffries has said he never met Epstein and was unaware of the outreach.<sup>[5](#ref-5)</sup>
 
-## Bannon's Contact With Epstein
-
-Text messages released by the Justice Department show Bannon exchanged communications with Epstein. According to the New York Times, Bannon said the relationship served the purpose of "getting Mr. Epstein to open up."<sup>[2](#ref-2)</sup>
-
-The texts follow previously reported connections between Bannon and Epstein, including discussions about Pope Francis.<sup>[4](#ref-4)</sup> Bannon has not publicly addressed the latest text message disclosures.
-
-Bannon's contacts continued during a period when Epstein faced renewed scrutiny, according to the documents.<sup>[2](#ref-2)</sup> Federal prosecutors in the Southern District of New York charged Epstein with sex trafficking in July 2019. He died in his cell at the Metropolitan Correctional Center in August 2019 in what officials ruled a suicide.
+Epstein [pleaded guilty in 2008](/news/2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals/) to state charges in Florida under a non-prosecution agreement. He served 13 months in a county jail with work-release privileges and registered as a sex offender.
 
 ## Dispute Over File Completeness
 
-Massie, a Kentucky Republican, told The American Conservative that DOJ continues withholding documents despite the Epstein Transparency Act becoming law. The statement contradicts Bondi's congressional testimony, where she said the department released all available files.
+Rep. **Thomas Massie**, a Kentucky Republican, told The American Conservative that the DOJ continues withholding Epstein documents despite the Epstein Transparency Act.<sup>[1](#ref-1)</sup> **Attorney General Pam Bondi** testified that the department released all available files, but [Massie said he lost confidence in Bondi](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash/) over the dispute.<sup>[1](#ref-1)</sup> Rep. **Nancy Mace** [accused DOJ of hiding names](/news/2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release/) in the release.<sup>[1](#ref-1)</sup>
 
-Bondi listed 300 names in the initial release but faced criticism for including deceased celebrities in the count. Lawmakers accused her of padding the list with names unrelated to alleged criminal conduct.
+Bondi listed 300 names in the initial release but faced criticism for [including deceased celebrities](/news/2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list/) in the count.<sup>[1](#ref-1)</sup>
 
-Massie stated Bondi avoided eye contact with Epstein survivors at the hearing and said he lost confidence in the Attorney General over the dispute. Representative **Nancy Mace** accused DOJ of hiding names in the release.
+## Bannon's Contact With Epstein
 
-Podcaster **Tim Dillon** criticized Bondi's hearing performance after she discussed stock market performance when questioned about file redactions. "They're all unprepared," Dillon said, according to The Independent.<sup>[1](#ref-1)</sup>
+Separately, text messages released by the DOJ show **Steve Bannon**, the podcaster and former White House strategist, exchanged communications with Epstein. Bannon told the New York Times the relationship served the purpose of "getting Mr. Epstein to open up."<sup>[2](#ref-2)</sup> The texts follow previously reported connections, including [discussions about Pope Francis](/news/2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files/).<sup>[4](#ref-4)</sup>
 
-## International Investigations
+## Broader Political Fallout
 
-Multiple countries have opened formal investigations into Epstein's connections with their nationals. France established a special review team to examine files for French citizens and prosecutors began investigating a diplomat whose name appeared in the documents.
+The files have triggered resignations and investigations across multiple sectors. [Congressional subpoenas](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe/) have been issued to **Peter Mandelson** and [billionaire **Les Wexner**](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties/).<sup>[3](#ref-3)</sup> **Commerce Secretary Howard Lutnick** [faces pressure from GOP senators](/news/2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability/) over his documented Epstein contacts. Rep. **Marjorie Taylor Greene** [called President Trump's handling](/news/2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation/) of the file release a "political miscalculation."
 
-The United Kingdom launched a national task force to investigate trafficking allegations involving British citizens. The UK's top prosecutor stated "nobody is above the law" as police examine evidence related to **Prince Andrew**. Newly released emails appear to contradict claims Andrew made during his BBC interview about the extent of contact with Epstein, according to reporting.<sup>[1](#ref-1)</sup>
-
-India named a businessman, minister, and spiritual leader in its review of the files. The number of government responses exceeds previous major data releases including the Panama Papers and Paradise Papers, though the Epstein files remain smaller in total document volume than those financial leak investigations.
-
-## Amazon Purchases and New Platforms
-
-Documents show Epstein placed Amazon orders that included items related to his activities, according to UNILAD. The specific purchases have not been detailed in public reporting.
-
-A new platform called JeffTube launched to make the DOJ files more searchable and accessible to researchers and journalists. The platform organizes the document release into browsable categories, addressing complaints that the raw file release made investigation difficult.
-
-The New York Times launched a major investigation examining millions of pages in the release. Independent researchers and media organizations continue processing the documents.
-
-## Political Fallout
-
-The files triggered resignations across multiple sectors. Goldman Sachs' top lawyer resigned after being named. Dubai's ports chief stepped down following the publication of hundreds of emails. Casey Wasserman sold his agency and exited his Olympic position after Maxwell email disclosures.<sup>[1](#ref-1)</sup>
-
-**Commerce Secretary Howard Lutnick** faces pressure from GOP senators over his documented Epstein contacts. Representative **Marjorie Taylor Greene** called President Trump's handling of the file release a "political miscalculation."
-
-Representative Ro Khanna stated that members of Epstein's network "knew enough to know better" about the financier's activities. Khanna previously called for names after a major associate left a position of authority.
-
-## Ongoing Legal Proceedings
-
-A federal court allowed a Bank of America lawsuit related to Epstein trafficking allegations to proceed. The bank faces claims it facilitated financial transactions supporting Epstein's operations.
-
-Ghislaine Maxwell offered to provide information about Epstein's network in exchange for clemency from her 20-year sentence for sex trafficking. She has not specified what information she would provide or whether prosecutors expressed interest in the offer.
-
-Congressional hearings continue with multiple committees examining different aspects of Epstein's network. Lawmakers from both parties have announced plans for additional hearings focused on specific institutions and individuals named in the documents.
+Federal prosecutors in the Southern District of New York charged Epstein with sex trafficking in July 2019. He died Aug. 10, 2019, at the Metropolitan Correctional Center in what officials ruled a suicide.
 
 ## References
 
 1. <span id="ref-1"></span>[Epstein invited to congressional galas years after arrest, docs show](https://www.independent.co.uk/news/world/americas/us-politics/jeffrey-epstein-invites-congress-senators-b2920103.html) - The Independent
 2. <span id="ref-2"></span>[Steve Bannon texted with Epstein despite toxicity](https://www.nytimes.com/2026/02/16/us/politics/jeffrey-epstein-steve-bannon.html) - New York Times
-3. <span id="ref-3"></span>[Congress subpoenas Mandelson over Epstein ties](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe)
-4. <span id="ref-4"></span>[Steve Bannon discussed taking down Pope Francis with Epstein](/news/2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files)
+3. <span id="ref-3"></span>[Congress subpoenas Mandelson over Epstein ties](/news/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe/)
+4. <span id="ref-4"></span>[Steve Bannon discussed taking down Pope Francis with Epstein](/news/2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files/)
+5. <span id="ref-5"></span>[Records show Democratic fundraisers sought Epstein donations after conviction](https://www.washingtontimes.com/news/2026/feb/17/records-show-democratic-fundraisers-sought-epstein-donations/) - Washington Times

@@ -98,6 +98,25 @@ function fixFrontmatterSource(frontmatter: string, body: string): string {
   return frontmatter;
 }
 
+/**
+ * Count words in the article body, excluding frontmatter and the ## References section.
+ * This gives an accurate measure of editorial content length.
+ */
+function countArticleWords(body: string): number {
+  // Strip the references section (## References and everything after it)
+  let contentBody = body.replace(/## References[\s\S]*$/i, '').trim();
+  // Strip markdown formatting artifacts but keep the text
+  contentBody = contentBody
+    .replace(/^#{1,6}\s+/gm, '')       // headings
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // links → text only
+    .replace(/[*_~`]/g, '')             // bold/italic/strikethrough/code
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '') // images
+    .trim();
+  // Count words (split on whitespace, filter empties)
+  const words = contentBody.split(/\s+/).filter((w) => w.length > 0);
+  return words.length;
+}
+
 function slugify(text: string): string {
   return text
     .toLowerCase()
@@ -142,11 +161,12 @@ async function editArticle(
   headline: string,
   draftBody: string,
   item: RelevantArticle,
-  existingArticles: string
+  existingArticles: string,
+  retryInstruction?: string
 ): Promise<string | null> {
   const wordCountGuidance = item.isFeature ? '1200-2000 words' : '400-800 words';
 
-  const prompt = EDITOR_PROMPT
+  let prompt = EDITOR_PROMPT
     .replace('{headline}', headline)
     .replace('{sourceTitle}', item.title)
     .replace('{sourceContent}', item.description)
@@ -155,6 +175,11 @@ async function editArticle(
     .replace('{existingArticles}', existingArticles)
     .replace('{draftArticle}', draftBody)
     .replace('{wordCount}', wordCountGuidance);
+
+  // Append retry instruction if this is a word-count retry
+  if (retryInstruction) {
+    prompt += `\n\n${retryInstruction}`;
+  }
 
   try {
     const controller = new AbortController();
@@ -236,10 +261,39 @@ async function main() {
       continue;
     }
 
+    // ── WORD COUNT VERIFICATION — retry once if article is too short ──
+    const minWords = item.isFeature ? 1200 : 400;
+    let verifiedBody = editedBody;
+    const initialWordCount = countArticleWords(editedBody);
+
+    if (initialWordCount < minWords) {
+      console.log(`  WORD COUNT: ${initialWordCount} words (min ${minWords}) — retrying editor...`);
+      const retryInstruction =
+        `CRITICAL: Your previous draft was only ${initialWordCount} words. The minimum is ${minWords} words. ` +
+        `Expand the article with factual context from the Epstein case timeline. Do NOT use filler.`;
+      const retryBody = await editArticle(client, headline, parts.body, item, existingArticles, retryInstruction);
+
+      if (retryBody) {
+        const retryWordCount = countArticleWords(retryBody);
+        if (retryWordCount >= minWords) {
+          console.log(`  WORD COUNT RETRY: ${retryWordCount} words — passed`);
+          verifiedBody = retryBody;
+        } else {
+          console.log(`  WORD COUNT RETRY: ${retryWordCount} words — still short, publishing anyway`);
+          // Use whichever version is longer
+          verifiedBody = retryWordCount > initialWordCount ? retryBody : editedBody;
+        }
+      } else {
+        console.log(`  WORD COUNT RETRY: Editor returned nothing on retry, publishing original (${initialWordCount} words)`);
+      }
+    } else {
+      console.log(`  WORD COUNT: ${initialWordCount} words — OK`);
+    }
+
     // Extract key takeaways from editor output if present
-    let finalBody = editedBody;
+    let finalBody = verifiedBody;
     let keyTakeaways: string[] = [];
-    const takeawaysMatch = editedBody.match(/KEY_TAKEAWAYS_START\n([\s\S]*?)KEY_TAKEAWAYS_END/);
+    const takeawaysMatch = verifiedBody.match(/KEY_TAKEAWAYS_START\n([\s\S]*?)KEY_TAKEAWAYS_END/);
     if (takeawaysMatch) {
       const rawTakeaways = takeawaysMatch[1].trim();
       keyTakeaways = rawTakeaways
@@ -247,7 +301,7 @@ async function main() {
         .map((line: string) => line.replace(/^-\s*/, '').trim())
         .filter((line: string) => line.length > 0);
       // Remove the takeaways block from the body
-      finalBody = editedBody.replace(/KEY_TAKEAWAYS_START\n[\s\S]*?KEY_TAKEAWAYS_END\n*/, '').trim();
+      finalBody = verifiedBody.replace(/KEY_TAKEAWAYS_START\n[\s\S]*?KEY_TAKEAWAYS_END\n*/, '').trim();
     }
 
     // Strip any AI meta-notes that leaked into the article body.

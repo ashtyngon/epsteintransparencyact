@@ -359,18 +359,48 @@ function mergeWithinBatch(articles: RelevantArticle[]): RelevantArticle[] {
 // Scoring & feature detection
 // ──────────────────────────────────────────────────
 
+// HIGH-PROFILE NAMES — articles mentioning these people have the highest chance
+// of being indexed by Google due to search volume and public interest.
+// These names should receive a ranking boost in the pipeline so they are
+// prioritized for publication when competing with lower-profile stories.
+const HIGH_PROFILE_NAMES = new Set([
+  'donald trump', 'trump',
+  'bill clinton', 'clinton',
+  'ghislaine maxwell', 'maxwell',
+  'prince andrew', 'andrew',
+  'bill gates', 'gates',
+  'alan dershowitz', 'dershowitz',
+  'les wexner', 'wexner',
+  'peter mandelson', 'mandelson',
+  'j.b. pritzker', 'pritzker',
+]);
+
+function countHighProfileMentions(people: string[]): number {
+  let count = 0;
+  for (const person of people) {
+    const normalized = person.toLowerCase().trim();
+    if (HIGH_PROFILE_NAMES.has(normalized)) count++;
+  }
+  return count;
+}
+
 function calculateRankScore(filter: FilterResult, item: RSSItem): number {
   const recencyHours = (Date.now() - new Date(item.pubDate).getTime()) / 3600000;
   const recencyScore = Math.max(0, 10 - recencyHours / 2.4); // 10 at 0h, 0 at 24h
 
   const breakingBonus = filter.isBreaking ? 10 : 0;
 
+  // Boost articles mentioning high-profile names (higher Google indexing potential)
+  const highProfileCount = countHighProfileMentions(filter.mentionedPeople || []);
+  const highProfileBonus = Math.min(highProfileCount * 5, 15); // Cap at 15 (3+ names)
+
   const score =
     filter.newsworthiness * 3.5 +
     filter.searchPotential * 2.5 +
     filter.confidence * 15 +
     recencyScore * 1.5 +
-    breakingBonus * 1.0;
+    breakingBonus * 1.0 +
+    highProfileBonus * 1.0;
 
   return Math.round(score * 10) / 10;
 }
@@ -540,8 +570,10 @@ async function main() {
 
     const rankScore = calculateRankScore(result, item);
     const recencyHours = Math.round((Date.now() - new Date(item.pubDate).getTime()) / 3600000);
+    const hpCount = countHighProfileMentions(result.mentionedPeople || []);
+    const hpLabel = hpCount > 0 ? ` HP+${hpCount}` : '';
 
-    console.log(`  PASS (score=${rankScore}, news=${result.newsworthiness}, search=${result.searchPotential}, ${recencyHours}h ago)${result.isBreaking ? ' BREAKING' : ''}`);
+    console.log(`  PASS (score=${rankScore}, news=${result.newsworthiness}, search=${result.searchPotential}, ${recencyHours}h ago)${result.isBreaking ? ' BREAKING' : ''}${hpLabel}`);
     console.log(`        ${result.suggestedHeadline || item.title.slice(0, 70)}`);
 
     scored.push({ ...item, filterResult: result, rankScore });

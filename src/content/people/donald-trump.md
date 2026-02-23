@@ -66,19 +66,19 @@ Trump and Epstein moved in overlapping circles in Palm Beach and Manhattan begin
 
 Epstein was a member of Mar-a-Lago. His contacts book, seized by the FBI in 2005, contained 14 phone numbers for Trump — including numbers for Mar-a-Lago, his New York apartment, his car, and his then-girlfriend Melania. No other individual in the black book had as many contact numbers listed.
 
-![The page from Epstein's contacts book listing Donald Trump's 14 phone numbers](https://static01.nyt.com/images/2026/02/01/multimedia/01inv-epstein-trump-photo-bzfm/01inv-epstein-trump-photo-bzfm-superJumbo.jpg?quality=75&auto=webp "House Oversight Democrats")
+![The page from Epstein's contacts book listing Donald Trump's 14 phone numbers](/images/people/trump-epstein-contacts-book.jpg "House Oversight Democrats")
 
 The most widely quoted evidence of their relationship comes from a 2002 New York Magazine profile of Epstein by Landon Thomas Jr., in which Trump said: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side. No doubt about it — Jeffrey enjoys his social life."
 
 That quote — particularly "many of them are on the younger side" — would become one of the most scrutinized statements in the entire Epstein case. Trump later claimed it was intended as a veiled warning. That interpretation has been widely disputed.
 
-![President Trump with Jeffrey Epstein at Mar-a-Lago in 1997.](https://images.wsj.net/im-98847625?width=1280&size=0.800&pixel_ratio=2)
+![President Trump with Jeffrey Epstein at Mar-a-Lago in 1997.](/images/people/trump-epstein-mar-a-lago.jpg)
 
 ### The Birthday Letter
 
 Among the documents released under the Transparency Act was a birthday letter from Epstein to Trump, first reported by The Wall Street Journal and confirmed by The New York Times and PBS. The letter included a hand-drawn illustration by Epstein depicting a naked woman. The accompanying message read: "May every day of your life be another wonderful secret that time longs to reveal." Trump's representatives have not publicly addressed the letter's contents.
 
-![](https://news.artnet.com/app/news-upload/2025/07/trump-epstein-birthday-book-drawing-1627x2048.png)
+![Drawing from Epstein's birthday letter to Trump](/images/people/trump-epstein-birthday-letter.jpg)
 
 ### Epstein's Private Emails About Trump
 

@@ -1,8 +1,9 @@
 ---
 title: "Newly Released Video from Epstein's Office Revealed in Latest Files Dump"
-publishedAt: 2026-02-13
+publishedAt: 2026-02-13T12:00:00.000Z
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/tv/news/epstein-files-video-office-camera-b2919862.html"
+articleType: news
 summary: "Hidden camera footage from inside Jeffrey Epstein's Palm Beach office has surfaced in the latest court-ordered document release, according to The Independent."
 people:
   - jeffrey-epstein

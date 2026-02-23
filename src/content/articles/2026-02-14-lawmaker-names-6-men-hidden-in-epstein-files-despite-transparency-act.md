@@ -22,7 +22,6 @@ people:
   - thorbjorn-jagland
   - brad-karp
 relatedArticles:
-  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted

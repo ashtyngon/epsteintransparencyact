@@ -1,8 +1,9 @@
 ---
 title: "Court Allows BofA Epstein Trafficking Lawsuit to Proceed"
-publishedAt: 2026-02-13
+publishedAt: 2026-02-13T12:00:00.000Z
 source: "Courthouse News"
 sourceUrl: "https://www.courthousenews.com/bofa-and-epstein/"
+articleType: news
 summary: "A federal court ruled an Epstein victim can proceed with trafficking claims against Bank of America, alleging the bank ignored red flags and profited from his operation."
 people:
   - jeffrey-epstein
@@ -21,22 +22,35 @@ aiGenerated: true
 confidence: 0.95
 ---
 
-A federal court in New York ruled that a **Jeffrey Epstein** victim can move forward with key claims in her lawsuit against **Bank of America**, according to Courthouse News.<sup>[1](#ref-1)</sup> The lawsuit alleges the financial institution failed to act on red flags in Epstein's transactions and benefited financially from his sex trafficking operation. The ruling, issued **February 13, 2026**, allows claims under the **Trafficking Victims Protection Act** to proceed.<sup>[1](#ref-1)</sup>
+U.S. District Judge **Jed Rakoff** in Manhattan ruled that a **Jeffrey Epstein** victim, identified as **Jane Doe**, can move forward with key claims in a proposed class-action lawsuit against **Bank of America**, the nation's second-largest bank, according to Courthouse News.<sup>[1](#ref-1)</sup> The ruling, with an initial decision on January 29, 2026, and a detailed 42-page written opinion issued February 11, allows claims under the **Trafficking Victims Protection Act** to proceed.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
 
-Banks are required by federal law to monitor suspicious activity and report it to authorities, obligations the victim alleges Bank of America did not fulfill.<sup>[1](#ref-1)</sup>
+Rakoff wrote that the amended complaint "plausibly asserts that the bank turned a blind eye" to repeated, detailed allegations about Epstein, some emanating from police reports.<sup>[2](#ref-2)</sup>
 
-## Allegations in the Complaint
+## Claims That Survived
 
-According to Courthouse News, the victim alleges that **Bank of America** provided specialized services that facilitated Epstein's operations.<sup>[1](#ref-1)</sup> The complaint specifically claims the bank facilitated suspicious account transfers and failed to file **Suspicious Activity Reports** in a timely manner as required by federal banking regulations.<sup>[1](#ref-1)</sup>
+The judge allowed two claims against Bank of America to go forward: that the bank was a "knowing beneficiary" of Epstein's sex trafficking venture and that it obstructed the federal government's enforcement of trafficking laws.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
 
-The court found these allegations sufficient to allow the victim's **participation and obstruction claims** under the **Trafficking Victims Protection Act** to advance.<sup>[1](#ref-1)</sup> This federal law allows victims of human trafficking to sue those who allegedly benefited from trafficking ventures.
+Doe alleged that between 2001 and 2019, Bank of America provided "non-routine services that facilitated" Epstein's sex trafficking operation, of which the bank had "actual and constructive knowledge."<sup>[2](#ref-2)</sup> Specifically, the complaint claims the bank facilitated suspicious account transfers and deliberately failed to file **Suspicious Activity Reports** in a timely manner as required by federal banking regulations, particularly in and after 2019 when Epstein was arrested.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
 
-## Next Steps
+Rakoff noted the bank "had every reason to know" that Doe had no ability to earn legitimate income in the United States, and that Epstein had previously been convicted of sex crimes involving underage girls.<sup>[2](#ref-2)</sup>
 
-The ruling is one of the first instances where trafficking claims against a major financial institution in connection with the Epstein case have survived a motion to dismiss.<sup>[1](#ref-1)</sup>
+The complaint also alleged that a Bank of America employee who had previously served as a banker for Epstein at JPMorgan Chase and Deutsche Bank had "direct personal knowledge" of Epstein's sex trafficking venture, which the judge said could expose Bank of America to civil liability.<sup>[2](#ref-2)</sup>
 
-The case will now proceed to discovery, where the victim's legal team can seek internal Bank of America documents and communications related to Epstein's accounts. No trial date has been announced.<sup>[1](#ref-1)</sup>
+## Claims Dismissed
+
+Rakoff rejected four other claims in the lawsuit, including allegations that Bank of America directly participated in and aided Epstein's sex trafficking, and that it negligently failed to protect victims.<sup>[2](#ref-2)</sup> The judge also dismissed a similar lawsuit against Bank of New York Mellon, finding the allegations against that institution did not meet the required legal standard.<sup>[2](#ref-2)</sup>
+
+Bank of America said it looked forward to a full review of the facts, arguing the plaintiff had "at best" alleged the bank serviced high-net-worth clients affiliated with Epstein and had not shown intentional obstruction of law enforcement.<sup>[2](#ref-2)</sup>
+
+## Context
+
+The proposed class-action lawsuit was filed in October 2025 by Doe, a Florida woman, on behalf of herself and other women who accuse Epstein of sexual abuse.<sup>[2](#ref-2)</sup> The case follows settlements Doe's legal team reached in 2023 on behalf of other accusers: $290 million with JPMorgan Chase and $75 million with Deutsche Bank. Neither bank admitted wrongdoing.<sup>[2](#ref-2)</sup>
+
+A trial has been scheduled for **May 11, 2026**. Rakoff has placed the lawsuit on a fast track, with summary judgment deadlines set for the spring, which will give Bank of America another opportunity to seek dismissal before trial.<sup>[2](#ref-2)</sup>
+
+The ruling represents one of the first instances where trafficking claims against a major financial institution in connection with the Epstein case have survived a motion to dismiss, potentially setting a precedent for how courts evaluate banks' obligations under the Trafficking Victims Protection Act.
 
 ## References
 
 1. <span id="ref-1"></span>[Courthouse News: BofA and Epstein](https://www.courthousenews.com/bofa-and-epstein/)
+2. <span id="ref-2"></span>[Banking Dive: Judge says 'blind-eye' accusation sufficient in BofA's Epstein case](https://www.bankingdive.com/news/bank-of-america-epstein-case-rakoff-bofa/812103/)

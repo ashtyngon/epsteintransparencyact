@@ -1,8 +1,9 @@
 ---
 title: "FBI Begins Review of Epstein-Related Records Under New Law"
-publishedAt: 2026-02-01
+publishedAt: 2026-02-01T12:00:00.000Z
 source: "Reuters"
 sourceUrl: "https://reuters.com/legal/epstein-records-fbi-review"
+articleType: news
 summary: "The FBI initiates its review process for Epstein-related records as mandated by the Epstein Transparency Act, signed into law on November 19, 2025."
 people:
   - jeffrey-epstein
