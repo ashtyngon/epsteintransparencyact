@@ -3,6 +3,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
 import { GENERATE_PROMPT, FEATURE_PROMPT } from './config/prompt-templates.js';
+import { isAggregatorSource, callAnthropicWithRetry, normalizeUrl } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
@@ -37,21 +38,7 @@ interface RelevantArticle {
   featureSources?: RelevantArticle[];
 }
 
-// Known aggregator/syndication sources that repackage original reporting.
-// When these appear as the RSS source, the AI must identify and credit the original reporter.
-const AGGREGATOR_SOURCES = new Set([
-  'yahoo', 'yahoo news', 'yahoo entertainment', 'yahoo finance',
-  'msn', 'msn news', 'microsoft news',
-  'aol', 'aol news',
-  'newsbreak', 'smartnews', 'apple news',
-  'google news', 'google',
-  'flipboard',
-  'unknown source',
-]);
-
-function isAggregatorSource(source: string): boolean {
-  return AGGREGATOR_SOURCES.has(source.toLowerCase().trim());
-}
+// AGGREGATOR_SOURCES and isAggregatorSource imported from pipeline-utils
 
 function slugify(text: string): string {
   return text
@@ -114,19 +101,12 @@ async function generateArticleBody(
   }
 
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 90000);
-
-    const response = await client.messages.create(
-      {
-        model: 'claude-sonnet-4-5-20250929',
-        max_tokens: 2000,
-        messages: [{ role: 'user', content: prompt }],
-      },
-      { signal: controller.signal as any }
-    );
-
-    clearTimeout(timeout);
+    // Fix #12: Use retry logic with exponential backoff
+    const response = await callAnthropicWithRetry(client, {
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: 2000,
+      messages: [{ role: 'user', content: prompt }],
+    }, { timeoutMs: 90000 });
 
     return response.content[0].type === 'text' ? response.content[0].text : null;
   } catch (error) {
@@ -163,19 +143,13 @@ async function generateFeatureArticle(
   }
 
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 120000);
+    // Fix #12: Use retry logic with exponential backoff
+    const response = await callAnthropicWithRetry(client, {
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: 4000,
+      messages: [{ role: 'user', content: prompt }],
+    }, { timeoutMs: 120000 });
 
-    const response = await client.messages.create(
-      {
-        model: 'claude-sonnet-4-5-20250929',
-        max_tokens: 4000,
-        messages: [{ role: 'user', content: prompt }],
-      },
-      { signal: controller.signal as any }
-    );
-
-    clearTimeout(timeout);
     return response.content[0].type === 'text' ? response.content[0].text : null;
   } catch (error) {
     console.error(`  ERR: Failed to generate feature: ${(error as Error).message?.slice(0, 60)}`);

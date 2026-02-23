@@ -3,6 +3,12 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
 import { EDITOR_PROMPT } from './config/prompt-templates.js';
+import {
+  isAggregatorSource,
+  getSignificantWords as getSignificantWordsShared,
+  jaccardSimilarity as jaccardSimilarityShared,
+  callAnthropicWithRetry,
+} from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
@@ -48,32 +54,8 @@ interface RSSCandidate {
 
 // ──────────────────────────────────────────────────
 // Sibling source lookup — find related RSS items about the same story
+// Uses shared domain stopwords from pipeline-utils (Fix #3)
 // ──────────────────────────────────────────────────
-
-function getSignificantWords(text: string): Set<string> {
-  const stopWords = new Set([
-    'that', 'this', 'with', 'from', 'have', 'been', 'were', 'their',
-    'about', 'after', 'says', 'said', 'over', 'into', 'will', 'more',
-    'than', 'also', 'just', 'back', 'when', 'what', 'could', 'would',
-    'some', 'them', 'other', 'being', 'does', 'most', 'make', 'like',
-    'report', 'reports', 'news', 'former', 'amid', 'ties', 'linked',
-    'following', 'according', 'epstein', 'jeffrey', 'files',
-  ]);
-  const words = text
-    .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, '')
-    .split(/\s+/)
-    .filter((w) => w.length > 3 && !stopWords.has(w));
-  return new Set(words);
-}
-
-function jaccardSimilarity(a: Set<string>, b: Set<string>): number {
-  const arrA = Array.from(a);
-  const intersection = arrA.filter((w) => b.has(w)).length;
-  const arrB = Array.from(b);
-  const unionSet = new Set(arrA.concat(arrB));
-  return unionSet.size > 0 ? intersection / unionSet.size : 0;
-}
 
 /**
  * Find sibling RSS reports covering the same story as the current article.
@@ -92,7 +74,7 @@ function findSiblingReports(item: RelevantArticle): RSSCandidate[] {
   }
 
   const articleText = `${item.title} ${item.description}`;
-  const articleWords = getSignificantWords(articleText);
+  const articleWords = getSignificantWordsShared(articleText);
 
   const scored: { candidate: RSSCandidate; score: number }[] = [];
 
@@ -103,8 +85,8 @@ function findSiblingReports(item: RelevantArticle): RSSCandidate[] {
     if (c.source.toLowerCase() === item.source.toLowerCase()) continue;
 
     const candidateText = `${c.title} ${c.description}`;
-    const candidateWords = getSignificantWords(candidateText);
-    const similarity = jaccardSimilarity(articleWords, candidateWords);
+    const candidateWords = getSignificantWordsShared(candidateText);
+    const similarity = jaccardSimilarityShared(articleWords, candidateWords);
 
     // 30% overlap = same story from a different outlet
     if (similarity >= 0.30) {
@@ -117,20 +99,7 @@ function findSiblingReports(item: RelevantArticle): RSSCandidate[] {
   return scored.slice(0, 4).map((s) => s.candidate);
 }
 
-// Known aggregator sources — same list as generate-article.ts
-const AGGREGATOR_SOURCES = new Set([
-  'yahoo', 'yahoo news', 'yahoo entertainment', 'yahoo finance',
-  'msn', 'msn news', 'microsoft news',
-  'aol', 'aol news',
-  'newsbreak', 'smartnews', 'apple news',
-  'google news', 'google',
-  'flipboard',
-  'unknown source',
-]);
-
-function isAggregatorSource(source: string): boolean {
-  return AGGREGATOR_SOURCES.has(source.toLowerCase().trim());
-}
+// AGGREGATOR_SOURCES and isAggregatorSource imported from pipeline-utils
 
 /**
  * If the frontmatter source is an aggregator, try to extract the real reporter
@@ -265,26 +234,19 @@ async function editArticle(
   }
 
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 120000);
-
     const maxTokens = item.isFeature ? 24000 : 16000;
     const thinkingBudget = item.isFeature ? 15000 : 10000;
 
-    const response = await client.messages.create(
-      {
-        model: 'claude-sonnet-4-5-20250929',
-        max_tokens: maxTokens,
-        thinking: {
-          type: 'enabled',
-          budget_tokens: thinkingBudget,
-        },
-        messages: [{ role: 'user', content: prompt }],
+    // Fix #12: Use retry logic with exponential backoff
+    const response = await callAnthropicWithRetry(client, {
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: maxTokens,
+      thinking: {
+        type: 'enabled',
+        budget_tokens: thinkingBudget,
       },
-      { signal: controller.signal as any }
-    );
-
-    clearTimeout(timeout);
+      messages: [{ role: 'user', content: prompt }],
+    }, { timeoutMs: 120000 });
 
     // Extract text from response (skip thinking blocks)
     for (const block of response.content) {

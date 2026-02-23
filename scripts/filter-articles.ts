@@ -3,6 +3,13 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Anthropic from '@anthropic-ai/sdk';
 import { FILTER_PROMPT } from './config/prompt-templates.js';
+import {
+  normalizeUrl,
+  getSignificantWords,
+  jaccardSimilarity,
+  textsAreSimilar,
+  callAnthropicWithRetry,
+} from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
@@ -466,19 +473,12 @@ async function filterArticle(
     .replace('{existingTopics}', existingTopics);
 
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 45000); // Sonnet needs slightly more time
-
-    const response = await client.messages.create(
-      {
-        model: 'claude-sonnet-4-5-20250929',
-        max_tokens: 512,
-        messages: [{ role: 'user', content: prompt }],
-      },
-      { signal: controller.signal as any }
-    );
-
-    clearTimeout(timeout);
+    // Fix #12: Use retry logic with exponential backoff
+    const response = await callAnthropicWithRetry(client, {
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: 512,
+      messages: [{ role: 'user', content: prompt }],
+    }, { timeoutMs: 45000, maxRetries: 2 });
 
     const text = response.content[0].type === 'text' ? response.content[0].text : '';
     // Extract JSON from response (handle possible markdown wrapping)

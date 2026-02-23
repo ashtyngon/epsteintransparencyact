@@ -2,6 +2,18 @@ import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import RSSParser from 'rss-parser';
+import {
+  normalizeUrl,
+  getSignificantWords,
+  jaccardSimilarity,
+  textsAreSimilar,
+  contentHash,
+  FeedHealthData,
+  createEmptyFeedHealth,
+  recordFeedSuccess,
+  recordFeedFailure,
+  getDownFeeds,
+} from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -37,6 +49,7 @@ interface RSSItem {
   sourceId: string;
   sourcePriority: number;
   image?: string;
+  bodyHash?: string;  // Fix #4: content signature for body-level dedup
 }
 
 interface ProcessedUrls {
@@ -47,7 +60,12 @@ interface ProcessedUrls {
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
 const PROCESSED_PATH = join(__dirname, 'config', 'processed-urls.json');
 const FEEDS_PATH = join(__dirname, 'config', 'feeds.json');
+const FEED_HEALTH_PATH = join(__dirname, 'config', 'feed-health.json');
 const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
+
+// Fix #6: Minimum content gate — reject items with fewer than this many words
+// in title + description. Prevents thin wire stubs from entering the pipeline.
+const MIN_CONTENT_WORDS = 25;
 
 const parser = new RSSParser({
   timeout: FEED_TIMEOUT,
@@ -61,6 +79,9 @@ const parser = new RSSParser({
  * Resolve Google News redirect URLs to their actual destination.
  * Google News RSS links are base64-encoded redirects — we follow them
  * to get the real publisher URL for sourceUrl in frontmatter.
+ *
+ * Fix #5: Added canonical URL extraction and link[rel=canonical] fallback
+ * when redirect following fails.
  */
 async function resolveGoogleNewsUrl(url: string): Promise<string> {
   if (!url.includes('news.google.com')) return url;
@@ -76,14 +97,25 @@ async function resolveGoogleNewsUrl(url: string): Promise<string> {
     // After following redirects, response.url is the real destination
     const resolved = response.url;
     if (resolved && !resolved.includes('news.google.com')) {
-      return resolved;
+      return normalizeUrl(resolved);
     }
-    // If still Google News, try extracting from HTML meta refresh/redirect
+    // If still Google News, try extracting from HTML
     const html = await response.text();
+    // Try meta refresh
     const metaMatch = html.match(/content=["']\d+;\s*url=([^"']+)/i);
-    if (metaMatch) return metaMatch[1];
+    if (metaMatch) return normalizeUrl(metaMatch[1]);
+    // Try JS redirect
     const jsMatch = html.match(/window\.location\.replace\(["']([^"']+)/);
-    if (jsMatch) return jsMatch[1];
+    if (jsMatch) return normalizeUrl(jsMatch[1]);
+    // Fix #5: Try canonical link or data-url attribute
+    const canonicalMatch = html.match(/<link[^>]+rel=["']canonical["'][^>]+href=["']([^"']+)/i);
+    if (canonicalMatch && !canonicalMatch[1].includes('news.google.com')) {
+      return normalizeUrl(canonicalMatch[1]);
+    }
+    const dataUrlMatch = html.match(/data-url=["']([^"']+)/);
+    if (dataUrlMatch && !dataUrlMatch[1].includes('news.google.com')) {
+      return normalizeUrl(dataUrlMatch[1]);
+    }
     return url; // Give up, return original
   } catch {
     return url; // On error, keep original
@@ -159,21 +191,30 @@ async function fetchFeed(feed: FeedConfig, cutoffDate: Date): Promise<RSSItem[]>
           }
         }
 
+        const description = (item.contentSnippet || item.content || '').slice(0, 1000);
+        const rawLink = item.link || '';
+
         return {
           title: item.title || '',
-          link: item.link || '',
-          description: (item.contentSnippet || item.content || '').slice(0, 1000),
+          link: rawLink,
+          description,
           pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
           source: sourceName,
           sourceId: feed.id,
           sourcePriority: feed.priority,
           image,
+          bodyHash: contentHash(description),  // Fix #4: body signature for dedup
         };
       })
       // Drop articles older than cutoff
       .filter((item) => {
         const itemDate = new Date(item.pubDate);
         return !isNaN(itemDate.getTime()) && itemDate >= cutoffDate;
+      })
+      // Fix #6: Minimum content gate — reject items with <25 words total
+      .filter((item) => {
+        const wordCount = `${item.title} ${item.description}`.split(/\s+/).filter(w => w.length > 0).length;
+        return wordCount >= MIN_CONTENT_WORDS;
       });
 
     // For aggregator feeds (Google News), resolve redirect URLs to real publisher URLs
@@ -204,31 +245,12 @@ function preFilterByKeywords(items: RSSItem[], keywords: string[]): RSSItem[] {
   });
 }
 
-function getSignificantWords(text: string): string[] {
-  const stopWords = new Set([
-    'that', 'this', 'with', 'from', 'have', 'been', 'were', 'their',
-    'about', 'after', 'says', 'said', 'over', 'into', 'will', 'more',
-    'than', 'also', 'just', 'back', 'when', 'what', 'could', 'would',
-    'some', 'them', 'other', 'being', 'does', 'most', 'make', 'like',
-    'report', 'reports', 'news', 'former', 'amid', 'ties', 'linked',
-    'following', 'according',
-  ]);
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, '')
-    .replace(/\s+/g, ' ')
-    .trim()
-    .split(' ')
-    .filter((w) => w.length > 3 && !stopWords.has(w));
-}
+// Jaccard functions now imported from pipeline-utils (uses domain stopwords)
 
-function titlesAreSimilar(a: string[], b: string[]): boolean {
-  const setA = new Set(a);
-  const setB = new Set(b);
-  const intersection = a.filter((w) => setB.has(w));
-  const union = new Set([...setA, ...setB]);
-  // Jaccard similarity — if 40%+ of significant words overlap, it's the same story
-  return union.size > 0 && intersection.length / union.size >= 0.4;
+function titlesAreSimilar(a: string, b: string): boolean {
+  const setA = getSignificantWords(a);
+  const setB = getSignificantWords(b);
+  return jaccardSimilarity(setA, setB) >= 0.4;
 }
 
 function loadExistingArticleTitles(): string[] {
@@ -254,45 +276,42 @@ function loadExistingArticleTitles(): string[] {
   }
 }
 
-function textsAreSimilar(a: string, b: string, threshold: number): boolean {
-  const wordsA = getSignificantWords(a);
-  const wordsB = getSignificantWords(b);
-  const setA = new Set(wordsA);
-  const setB = new Set(wordsB);
-  const intersection = wordsA.filter((w) => setB.has(w));
-  const union = new Set([...setA, ...setB]);
-  return union.size > 0 && intersection.length / union.size >= threshold;
-}
+// textsAreSimilar is now imported from pipeline-utils
 
 function deduplicateByTitle(items: RSSItem[], existingTitles: string[]): RSSItem[] {
-  const groups: { words: string[]; text: string; best: RSSItem | null }[] = [];
+  const groups: { text: string; hash: string | null; best: RSSItem | null }[] = [];
 
   // Seed groups with existing published articles — these block but don't output
-  // existingTitles now contain "title summary" combined strings for richer matching
   for (const title of existingTitles) {
-    const words = getSignificantWords(title);
-    if (words.length > 0) {
-      groups.push({ words, text: title, best: null });
+    if (title.length > 0) {
+      groups.push({ text: title, hash: null, best: null });
     }
   }
 
   for (const item of items) {
-    const words = getSignificantWords(item.title);
     const itemText = `${item.title} ${item.description.slice(0, 200)}`;
     let merged = false;
 
     for (const group of groups) {
-      if (titlesAreSimilar(words, group.words)) {
-        // If best is null, this matches an existing published article — skip
-        if (group.best === null) {
-          merged = true;
-          break;
-        }
-        // Keep the one from the higher-priority source
+      // Fix #4: Also check body hash for exact-content dedup
+      if (item.bodyHash && group.hash && item.bodyHash === group.hash) {
+        if (group.best === null) { merged = true; break; }
         if (item.sourcePriority < group.best.sourcePriority) {
           group.best = item;
-          group.words = words;
           group.text = itemText;
+          group.hash = item.bodyHash || null;
+        }
+        merged = true;
+        break;
+      }
+
+      // Jaccard on title
+      if (titlesAreSimilar(item.title, group.text)) {
+        if (group.best === null) { merged = true; break; }
+        if (item.sourcePriority < group.best.sourcePriority) {
+          group.best = item;
+          group.text = itemText;
+          group.hash = item.bodyHash || null;
         }
         merged = true;
         break;
@@ -300,22 +319,17 @@ function deduplicateByTitle(items: RSSItem[], existingTitles: string[]): RSSItem
     }
 
     // If not matched by title, check description similarity against ALL groups
-    // (including existing articles where best is null)
     if (!merged) {
       for (const group of groups) {
         const groupText = group.best
           ? `${group.best.title} ${group.best.description.slice(0, 200)}`
           : group.text;
         if (textsAreSimilar(itemText, groupText, 0.45)) {
-          if (group.best === null) {
-            // Matches existing published article — skip
-            merged = true;
-            break;
-          }
+          if (group.best === null) { merged = true; break; }
           if (item.sourcePriority < group.best.sourcePriority) {
             group.best = item;
-            group.words = words;
             group.text = itemText;
+            group.hash = item.bodyHash || null;
           }
           merged = true;
           break;
@@ -324,7 +338,7 @@ function deduplicateByTitle(items: RSSItem[], existingTitles: string[]): RSSItem
     }
 
     if (!merged) {
-      groups.push({ words, best: item });
+      groups.push({ text: itemText, hash: item.bodyHash || null, best: item });
     }
   }
 
@@ -349,6 +363,16 @@ async function main() {
 
   const allItems: RSSItem[] = [];
 
+  // Fix #15: Load feed health for tracking
+  let feedHealth: FeedHealthData;
+  try {
+    feedHealth = existsSync(FEED_HEALTH_PATH)
+      ? JSON.parse(readFileSync(FEED_HEALTH_PATH, 'utf-8'))
+      : createEmptyFeedHealth();
+  } catch {
+    feedHealth = createEmptyFeedHealth();
+  }
+
   // Fetch all feeds concurrently (with individual timeouts)
   const results = await Promise.allSettled(
     enabledFeeds.map(async (feed) => {
@@ -362,16 +386,29 @@ async function main() {
       const { feed, items } = result.value;
       if (items.length > 0) {
         console.log(`  OK   ${feed.name.padEnd(25)} ${items.length} items`);
+        recordFeedSuccess(feedHealth, feed.id, feed.name);
+      } else {
+        // 0 items could be normal (no Epstein news) or a feed failure
+        // Only record failure if this is unexpected (priority 1-2 feeds usually have content)
+        if (feed.priority <= 2) {
+          recordFeedFailure(feedHealth, feed.id, feed.name, 'returned 0 items');
+        }
       }
       allItems.push(...items);
+    } else {
+      // Feed fetch threw an error
+      const error = (result.reason as Error)?.message || 'unknown error';
+      recordFeedFailure(feedHealth, (enabledFeeds[0] || {}).id || 'unknown', 'unknown', error);
     }
   }
 
-  // Deduplicate by URL
-  const seen = new Set(processed.processedUrls);
+  // Fix #1: Deduplicate by NORMALIZED URL (strips tracking params, trailing slashes)
+  const seen = new Set(processed.processedUrls.map(normalizeUrl));
   const newItems = allItems.filter((item) => {
-    if (!item.link || seen.has(item.link)) return false;
-    seen.add(item.link);
+    if (!item.link) return false;
+    const normalized = normalizeUrl(item.link);
+    if (seen.has(normalized)) return false;
+    seen.add(normalized);
     return true;
   });
 
@@ -410,6 +447,17 @@ async function main() {
 
   writeFileSync(CANDIDATES_PATH, JSON.stringify(candidates, null, 2));
   console.log(`\nWrote ${candidates.length} candidates.`);
+
+  // Fix #15: Save feed health and warn about down feeds
+  feedHealth.lastUpdated = new Date().toISOString();
+  writeFileSync(FEED_HEALTH_PATH, JSON.stringify(feedHealth, null, 2));
+  const downFeeds = getDownFeeds(feedHealth);
+  if (downFeeds.length > 0) {
+    console.log(`\n--- Feed Health Warnings ---`);
+    for (const f of downFeeds) {
+      console.log(`  DOWN: ${f.feedName} (${f.consecutiveFailures} failures) — ${f.lastError || 'unknown'}`);
+    }
+  }
 
   clearTimeout(killTimer);
 }

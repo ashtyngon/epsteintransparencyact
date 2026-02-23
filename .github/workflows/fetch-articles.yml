@@ -41,9 +41,16 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Edit and fact-check articles
+      - name: Edit articles (style + structure)
         run: npx tsx scripts/edit-article.ts
         timeout-minutes: 6
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      # Fix #16: Blind fact-check pass (Haiku — sees only article body, not source)
+      - name: Fact-check articles (blind Haiku pass)
+        run: npx tsx scripts/fact-check-article.ts
+        timeout-minutes: 3
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
@@ -60,7 +67,14 @@ jobs:
         run: |
           git config user.name "Article Bot"
           git config user.email "bot@epsteintransparencyact.com"
-          git add src/content/articles/ scripts/config/processed-urls.json scripts/config/article-topics.json
+          git add src/content/articles/ scripts/config/processed-urls.json scripts/config/article-topics.json scripts/config/feed-health.json
           git diff --staged --quiet || git commit -m "auto: add new articles $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git pull --rebase origin main || true
-          git push
+          # Fix #14: Retry push up to 3 times on rebase conflict
+          for i in 1 2 3; do
+            git pull --rebase origin main || true
+            git push && break
+            echo "Push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
