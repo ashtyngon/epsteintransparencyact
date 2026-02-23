@@ -3,7 +3,7 @@
     "google-epstein": {
       "feedId": "google-epstein",
       "feedName": "Google News (Epstein)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -11,15 +11,15 @@
     "google-reuters": {
       "feedId": "google-reuters",
       "feedName": "Reuters (via Google News)",
-      "lastSuccess": "2026-02-23T19:28:25.575Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": "2026-02-23T20:17:18.704Z",
-      "consecutiveFailures": 1,
-      "lastError": "returned 0 items"
+      "consecutiveFailures": 0,
+      "lastError": null
     },
     "nyt-homepage": {
       "feedId": "nyt-homepage",
       "feedName": "New York Times",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -27,7 +27,7 @@
     "nyt-us": {
       "feedId": "nyt-us",
       "feedName": "New York Times (US)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -36,14 +36,14 @@
       "feedId": "wapo-national",
       "feedName": "Washington Post",
       "lastSuccess": null,
-      "lastFailure": "2026-02-23T20:17:18.704Z",
-      "consecutiveFailures": 20,
+      "lastFailure": "2026-02-23T21:20:05.880Z",
+      "consecutiveFailures": 21,
       "lastError": "returned 0 items"
     },
     "bbc-news": {
       "feedId": "bbc-news",
       "feedName": "BBC News",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -51,7 +51,7 @@
     "bbc-us-canada": {
       "feedId": "bbc-us-canada",
       "feedName": "BBC (US & Canada)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -59,7 +59,7 @@
     "guardian-us": {
       "feedId": "guardian-us",
       "feedName": "The Guardian (US)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -67,7 +67,7 @@
     "guardian-world": {
       "feedId": "guardian-world",
       "feedName": "The Guardian (World)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -75,7 +75,7 @@
     "cnn-top": {
       "feedId": "cnn-top",
       "feedName": "CNN",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -83,7 +83,7 @@
     "nbc-news": {
       "feedId": "nbc-news",
       "feedName": "NBC News",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -91,7 +91,7 @@
     "cbs-news": {
       "feedId": "cbs-news",
       "feedName": "CBS News",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -99,7 +99,7 @@
     "abc-news": {
       "feedId": "abc-news",
       "feedName": "ABC News",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -107,7 +107,7 @@
     "fox-news-us": {
       "feedId": "fox-news-us",
       "feedName": "Fox News (US)",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -115,7 +115,7 @@
     "politico": {
       "feedId": "politico",
       "feedName": "Politico",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -123,7 +123,7 @@
     "politico-congress": {
       "feedId": "politico-congress",
       "feedName": "Politico (Congress)",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -131,7 +131,7 @@
     "the-hill": {
       "feedId": "the-hill",
       "feedName": "The Hill",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -139,7 +139,7 @@
     "axios": {
       "feedId": "axios",
       "feedName": "Axios",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -147,7 +147,7 @@
     "independent-us": {
       "feedId": "independent-us",
       "feedName": "The Independent (US)",
-      "lastSuccess": "2026-02-23T19:28:25.576Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -155,7 +155,7 @@
     "npr-news": {
       "feedId": "npr-news",
       "feedName": "NPR",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -163,7 +163,7 @@
     "pbs-newshour": {
       "feedId": "pbs-newshour",
       "feedName": "PBS NewsHour",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -171,7 +171,7 @@
     "courthouse-news": {
       "feedId": "courthouse-news",
       "feedName": "Courthouse News",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -179,7 +179,7 @@
     "doj-news": {
       "feedId": "doj-news",
       "feedName": "DOJ News",
-      "lastSuccess": "2026-02-23T20:17:18.705Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": "2026-02-23T15:21:01.129Z",
       "consecutiveFailures": 0,
       "lastError": null
@@ -187,7 +187,7 @@
     "google-epstein-broad": {
       "feedId": "google-epstein-broad",
       "feedName": "Google News (Epstein broad)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -195,7 +195,7 @@
     "google-epstein-names": {
       "feedId": "google-epstein-names",
       "feedName": "Google News (Epstein names)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -203,7 +203,7 @@
     "google-epstein-legal": {
       "feedId": "google-epstein-legal",
       "feedName": "Google News (Epstein legal)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
@@ -211,11 +211,11 @@
     "google-epstein-congress": {
       "feedId": "google-epstein-congress",
       "feedName": "Google News (Epstein Congress)",
-      "lastSuccess": "2026-02-23T20:17:18.704Z",
+      "lastSuccess": "2026-02-23T21:20:05.880Z",
       "lastFailure": null,
       "consecutiveFailures": 0,
       "lastError": null
     }
   },
-  "lastUpdated": "2026-02-23T20:17:19.440Z"
+  "lastUpdated": "2026-02-23T21:20:06.602Z"
 }

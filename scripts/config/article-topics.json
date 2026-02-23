@@ -1360,5 +1360,53 @@
       "document-release",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-23-trump-doj-email-labels-epstein-death-murder-daily-beast-reports",
+    "title": "Trump DOJ Email Labels Epstein Death 'Murder,' Daily Beast Reports",
+    "summary": "Trump DOJ Email Labels Epstein Death 'Murder,' Daily Beast Reports",
+    "novelty": "The Daily Beast reports that a Donald Trump-era DOJ email characterizes Jeffrey Epstein's death as 'murder' rather than suicide.",
+    "topic": "The Daily Beast reports that a Donald Trump-era DOJ email characterizes Jeffrey Epstein's death as 'murder' rather than suicide.",
+    "people": [
+      "jeffrey-epstein",
+      "donald-trump"
+    ],
+    "tags": [
+      "breaking",
+      "investigation",
+      "political",
+      "document-release"
+    ]
+  },
+  {
+    "slug": "2026-02-23-house-democrats-bring-epstein-survivors-to-state-of-the-union",
+    "title": "House Democrats Bring Epstein Survivors to State of the Union",
+    "summary": "House Democrats have invited survivors of Jeffrey Epstein's sex trafficking operation to attend President Donald Trump's State of the Union address, according to NBC News.<sup>[1](#ref-1)</sup>",
+    "novelty": "House Democrats are bringing Jeffrey Epstein survivors as guests to Trump's State of the Union address as a political statement on accountability.",
+    "topic": "House Democrats are bringing Jeffrey Epstein survivors as guests to Trump's State of the Union address as a political statement on accountability.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "victims",
+      "survivors",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-23-peter-mandelson-from-us-ambassador-to-arrest-in-six-months",
+    "title": "Peter Mandelson: From US Ambassador to Arrest in Six Months",
+    "summary": "Peter Mandelson: From US Ambassador to Arrest in Six Months",
+    "novelty": "DUPLICATE: Guardian reports on Peter Mandelson's rapid downfall from US ambassador to arrest over Epstein accusations, matching existing coverage of his arrest in the Epstein investigation.",
+    "topic": "DUPLICATE: Guardian reports on Peter Mandelson's rapid downfall from US ambassador to arrest over Epstein accusations, matching existing coverage of his arrest in the Epstein investigation.",
+    "people": [
+      "peter-mandelson",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "arrest",
+      "political"
+    ]
   }
 ]
