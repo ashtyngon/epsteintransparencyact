@@ -475,7 +475,7 @@ async function filterArticle(
   try {
     // Fix #12: Use retry logic with exponential backoff
     const response = await callAnthropicWithRetry(client, {
-      model: 'claude-sonnet-4-5-20250929',
+      model: 'claude-haiku-4-5-20251001',
       max_tokens: 512,
       messages: [{ role: 'user', content: prompt }],
     }, { timeoutMs: 45000, maxRetries: 2 });

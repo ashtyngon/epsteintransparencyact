@@ -29,7 +29,7 @@ jobs:
         run: npx tsx scripts/fetch-rss.ts
         timeout-minutes: 2
 
-      - name: Filter with Claude Sonnet
+      - name: Filter with Claude Haiku
         run: npx tsx scripts/filter-articles.ts
         timeout-minutes: 5
         env:
@@ -67,14 +67,38 @@ jobs:
         run: |
           git config user.name "Article Bot"
           git config user.email "bot@epsteintransparencyact.com"
+
+          # Stage ALL tracked changes in content + config (catches cross-link edits, topics, health, etc.)
           git add src/content/articles/ scripts/config/processed-urls.json scripts/config/article-topics.json scripts/config/feed-health.json
-          git diff --staged --quiet || git commit -m "auto: add new articles $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          # Fix #14: Retry push up to 3 times on rebase conflict
+
+          # Bail early if nothing to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "auto: add new articles $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+          # Push with retry — stash any unstaged leftovers so rebase can work
           for i in 1 2 3; do
-            git pull --rebase origin main || true
-            git push && break
+            # Stash unstaged changes (if any) so rebase doesn't choke
+            STASHED=false
+            if ! git diff --quiet 2>/dev/null; then
+              git stash --include-untracked && STASHED=true
+            fi
+
+            if git pull --rebase origin main; then
+              # Restore stash if we stashed
+              [ "$STASHED" = true ] && git stash pop || true
+              git push && echo "Push succeeded on attempt $i" && exit 0
+            fi
+
+            # Restore stash on rebase failure too
+            [ "$STASHED" = true ] && git stash pop || true
+
             echo "Push attempt $i failed, retrying in 5s..."
             sleep 5
           done
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+          echo "ERROR: All 3 push attempts failed"
+          exit 1
