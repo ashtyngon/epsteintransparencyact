@@ -1,5 +1,8 @@
 # Redirect sitemap.xml to the Astro-generated sitemap-index
 /sitemap.xml  /sitemap-index.xml  301
 
+# Deleted articles — force 404 via redirect to non-existent page
+/news/2026-02-22-maxwell-challenges-epstein-files-law-as-unconstitutional/ /404 404
+
 # Nav links without trailing slashes → add trailing slash
 # (Cloudflare Pages handles this automatically with Astro's trailingSlash: 'always')
