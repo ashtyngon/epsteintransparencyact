@@ -880,5 +880,36 @@
       "political",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-23-police-search-prince-andrew-residence-in-epstein-inquiry",
+    "title": "Police Search Prince Andrew Residence in Epstein Inquiry",
+    "summary": "Police continued their search of the residence of the former **Prince Andrew** on Monday, according to **Agenzia Nova**.<sup>[1](#ref-1)</sup>",
+    "novelty": "DUPLICATE: Police search of Prince Andrew's residence in connection with Epstein case, already covered in recent article about UK MP seeking treason probe and judge-led inquiry into Andrew's Epstein ties.",
+    "topic": "DUPLICATE: Police search of Prince Andrew's residence in connection with Epstein case, already covered in recent article about UK MP seeking treason probe and judge-led inquiry into Andrew's Epstein ties.",
+    "people": [
+      "prince-andrew",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-22-sarah-ferguson-enters-rehab-over-prince-andrew-s-epstein-ties",
+    "title": "Sarah Ferguson Enters Rehab Over Prince Andrew's Epstein Ties",
+    "summary": "Sarah Ferguson Enters Rehab Over Prince Andrew's Epstein Ties",
+    "novelty": "Sarah Ferguson reportedly checked into rehab clinic due to distress over Prince Andrew's connections to Jeffrey Epstein.",
+    "topic": "Sarah Ferguson reportedly checked into rehab clinic due to distress over Prince Andrew's connections to Jeffrey Epstein.",
+    "people": [
+      "sarah-ferguson",
+      "prince-andrew",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "political"
+    ]
   }
 ]
