@@ -14,6 +14,8 @@ relatedArticles:
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
+  - 2026-02-14-epstein-used-nobel-prize-access-to-lure-elite-network-files-show
+  - 2026-02-14-consultants-pitched-epstein-access-to-ny-democrats-for-donations
 tags:
   - associates
   - document-release

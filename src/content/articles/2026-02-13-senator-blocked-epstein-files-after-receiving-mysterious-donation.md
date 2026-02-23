@@ -16,6 +16,8 @@ relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - epstein-transparency-act-signed-into-law
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
+  - 2026-02-18-wexner-tells-congress-he-was-duped-by-epstein-in-testimony
+  - 2026-02-14-ohio-politicians-received-campaign-funds-from-wexner
 tags:
   - transparency-act
   - political

@@ -7,6 +7,8 @@ summary: "The FBI holds thousands of files on Francis Shelden, a Detroit million
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
 tags:
   - investigation
   - fbi

@@ -12,11 +12,16 @@ people:
   - ghislaine-maxwell
   - kathryn-ruemmler
   - sultan-ahmed-bin-sulayem
+  - alexander-acosta
+  - peter-mandelson
+  - thomas-massie
+  - ro-khanna
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
 tags:
   - court-documents
   - document-release

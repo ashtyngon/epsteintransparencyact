@@ -9,6 +9,13 @@ people:
   - kathryn-ruemmler
   - jeffrey-epstein
   - barack-obama
+  - sultan-ahmed-bin-sulayem
+  - thomas-pritzker
+  - brad-karp
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-17-hyatt-billionaire-thomas-pritzker-resigns-over-epstein-ties
 tags:
   - document-release
   - associates

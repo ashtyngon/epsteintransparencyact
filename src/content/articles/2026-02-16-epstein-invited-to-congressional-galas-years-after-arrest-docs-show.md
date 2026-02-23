@@ -24,6 +24,9 @@ relatedArticles:
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
+  - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
 tags:
   - document-release
   - associates

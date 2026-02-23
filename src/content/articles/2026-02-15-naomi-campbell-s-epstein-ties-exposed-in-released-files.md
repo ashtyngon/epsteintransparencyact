@@ -8,8 +8,11 @@ people:
   - naomi-campbell
   - jeffrey-epstein
   - virginia-giuffre
+  - ghislaine-maxwell
 relatedArticles:
   - 2026-02-14-epstein-files-topple-european-elites-while-u-s-officials-keep-power
+  - 2026-02-21-ghislaine-maxwell-fights-release-of-90-000-epstein-files
+  - 2026-02-18-business-leaders-face-fallout-after-epstein-files-exposure
 tags:
   - document-release
   - associates

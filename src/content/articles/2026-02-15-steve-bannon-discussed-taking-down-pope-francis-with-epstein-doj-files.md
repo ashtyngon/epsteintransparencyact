@@ -9,10 +9,12 @@ people:
   - jeffrey-epstein
   - pope-francis
   - pam-bondi
+  - noam-chomsky
 relatedArticles:
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-16-steve-bannon-texted-with-epstein-despite-toxicity-nyt
 tags:
   - document-release
   - associates

@@ -9,8 +9,11 @@ people:
   - jean-luc-brunel
   - sultan-ahmed-bin-sulayem
   - virginia-giuffre
+  - jack-lang
 relatedArticles:
   - epstein-transparency-act-signed-into-law
+  - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
+  - 2026-02-16-paris-police-raid-arab-world-institute-in-epstein-investigation
 tags:
   - investigation
   - associates

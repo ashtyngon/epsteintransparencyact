@@ -10,8 +10,11 @@ people:
   - jeffrey-epstein
   - sultan-ahmed-bin-sulayem
   - joe-rogan
+  - ghislaine-maxwell
+  - donald-trump
 relatedArticles:
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - document-release
   - associates

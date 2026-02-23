@@ -13,6 +13,14 @@ people:
   - sultan-ahmed-bin-sulayem
   - peter-mandelson
   - thorbjorn-jagland
+  - steve-bannon
+  - donald-trump
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
+  - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
 tags:
   - court-documents
   - document-release

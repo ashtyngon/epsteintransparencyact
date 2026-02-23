@@ -9,6 +9,8 @@ people:
   - donald-huffines
 relatedArticles:
   - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-20-new-mexico-reopens-zorro-ranch-investigation-after-fbi-search-gap-revealed
 tags:
   - associates
   - political

@@ -12,11 +12,16 @@ people:
   - donald-trump
   - kathryn-ruemmler
   - thorbjorn-jagland
+  - bill-gates
+  - terje-rod-larsen
 relatedArticles:
   - 2026-02-13-nobel-chief-jagland-got-gifts-from-epstein-emails-reveal
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
   - 2026-02-14-epstein-emails-expose-ex-clifford-chance-lawyer-s-hidden-ties
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-15-steve-bannon-discussed-taking-down-pope-francis-with-epstein-doj-files
+  - 2026-02-16-steve-bannon-texted-with-epstein-despite-toxicity-nyt
+  - epstein-transparency-act-signed-into-law
 tags:
   - document-release
   - associates

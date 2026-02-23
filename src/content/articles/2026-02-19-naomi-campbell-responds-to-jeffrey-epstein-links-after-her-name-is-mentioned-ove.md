@@ -9,6 +9,7 @@ people:
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-15-naomi-campbell-s-epstein-ties-exposed-in-released-files
+  - epstein-transparency-act-signed-into-law
 tags:
   - associates
 keyTakeaways:

@@ -12,6 +12,7 @@ people:
 relatedArticles:
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation
+  - 2026-02-18-wexner-tells-congress-he-was-duped-by-epstein-in-testimony
 tags:
   - associates
   - political

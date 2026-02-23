@@ -11,6 +11,11 @@ people:
   - leslie-wexner
   - pam-bondi
   - ro-khanna
+  - thomas-massie
+  - peter-mandelson
+  - kathryn-ruemmler
+  - casey-wasserman
+  - ghislaine-maxwell
 relatedArticles:
   - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
   - 2026-02-14-olympic-chief-casey-wasserman-exits-after-maxwell-email-revelations

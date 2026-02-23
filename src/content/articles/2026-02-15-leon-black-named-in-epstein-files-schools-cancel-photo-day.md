@@ -14,6 +14,7 @@ relatedArticles:
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama
+  - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
 tags:
   - associates
   - document-release

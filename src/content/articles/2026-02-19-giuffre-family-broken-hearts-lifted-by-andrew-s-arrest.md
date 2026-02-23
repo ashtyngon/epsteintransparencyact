@@ -14,6 +14,7 @@ people:
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-on-document-sharing-charges-in-epstein-case
   - epstein-transparency-act-signed-into-law
+  - 2026-02-19-king-charles-responds-to-prince-andrew-s-epstein-related-arrest
 tags:
   - victims
   - survivors

@@ -12,12 +12,14 @@ people:
   - donald-trump
   - kathryn-ruemmler
   - sultan-ahmed-bin-sulayem
+  - thomas-massie
 relatedArticles:
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
 tags:
   - transparency-act
   - document-release

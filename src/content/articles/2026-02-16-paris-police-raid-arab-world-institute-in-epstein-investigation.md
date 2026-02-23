@@ -9,11 +9,13 @@ people:
   - prince-andrew
   - donald-trump
   - pam-bondi
+  - jack-lang
 relatedArticles:
   - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe
   - 2026-02-16-global-investigations-into-epstein-s-international-network-expand
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
+  - epstein-transparency-act-signed-into-law
 tags:
   - investigation
   - breaking

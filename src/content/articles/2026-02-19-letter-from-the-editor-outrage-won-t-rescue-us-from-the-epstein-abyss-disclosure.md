@@ -7,6 +7,16 @@ summary: "A Michigan newspaper editor called for disclosure and accountability i
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - pam-bondi
+  - kathryn-ruemmler
+  - sultan-ahmed-bin-sulayem
+  - peter-mandelson
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
+  - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
+  - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files
 tags:
   []
 keyTakeaways:

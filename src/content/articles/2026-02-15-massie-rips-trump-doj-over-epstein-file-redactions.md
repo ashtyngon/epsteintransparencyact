@@ -12,6 +12,9 @@ people:
   - pam-bondi
   - tom-barrack
   - howard-lutnick
+  - ro-khanna
+  - leslie-wexner
+  - ghislaine-maxwell
 relatedArticles:
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation

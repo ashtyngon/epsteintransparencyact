@@ -12,6 +12,13 @@ people:
   - alexander-acosta
   - ghislaine-maxwell
   - pam-bondi
+  - thomas-massie
+  - bill-clinton
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash
+  - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
+  - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release
 tags:
   - political
   - investigation

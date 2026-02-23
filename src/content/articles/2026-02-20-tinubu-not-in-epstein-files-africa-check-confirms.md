@@ -7,6 +7,11 @@ summary: "A fact-checking organization has debunked claims circulating online th
 people:
   - bola-tinubu
   - jeffrey-epstein
+  - donald-trump
+  - sultan-ahmed-bin-sulayem
+relatedArticles:
+  - epstein-transparency-act-signed-into-law
+  - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
 tags:
   - court-documents
   - document-release

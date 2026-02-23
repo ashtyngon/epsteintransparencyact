@@ -12,11 +12,13 @@ people:
   - pam-bondi
   - ro-khanna
   - thomas-massie
+  - piers-morgan
 relatedArticles:
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down
+  - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
 tags:
   - transparency-act
   - document-release
