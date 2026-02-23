@@ -911,5 +911,50 @@
       "associates",
       "political"
     ]
+  },
+  {
+    "slug": "2026-02-23-doj-epstein-files-release-sparks-global-resignations-new-probes",
+    "title": "DOJ Epstein Files Release Sparks Global Resignations, New Probes",
+    "summary": "DOJ Epstein Files Release Sparks Global Resignations, New Probes",
+    "novelty": "Justice Department's release of millions of Epstein investigation files triggers wave of high-profile resignations and firings across multiple countries and launches new criminal investigations abroad.",
+    "topic": "Justice Department's release of millions of Epstein investigation files triggers wave of high-profile resignations and firings across multiple countries and launches new criminal investigations abroad.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "investigation",
+      "transparency-act",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-22-leslie-wexner-deposition-details-emerge-in-epstein-probe",
+    "title": "Leslie Wexner Deposition Details Emerge in Epstein Probe",
+    "summary": "Leslie Wexner Deposition Details Emerge in Epstein Probe",
+    "novelty": "10TV reports on a deposition given by Leslie Wexner as part of the ongoing Epstein investigation.",
+    "topic": "10TV reports on a deposition given by Leslie Wexner as part of the ongoing Epstein investigation.",
+    "people": [
+      "leslie-wexner",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony",
+      "associates",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-02-22-guardian-readers-oppose-academic-defense-in-epstein-case",
+    "title": "Guardian Readers Oppose Academic Defense in Epstein Case",
+    "summary": "Guardian Readers Oppose Academic Defense in Epstein Case",
+    "novelty": "Guardian opinion letter argues against defending academics who cultivated relationships with Epstein.",
+    "topic": "Guardian opinion letter argues against defending academics who cultivated relationships with Epstein.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates"
+    ]
   }
 ]
