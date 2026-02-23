@@ -1316,5 +1316,49 @@
       "associates",
       "breaking"
     ]
+  },
+  {
+    "slug": "2026-02-23-cbs-journalist-peter-attia-resigns-after-epstein-files-named-him",
+    "title": "CBS Journalist Peter Attia Resigns After Epstein Files Named Him",
+    "summary": "**Peter Attia**, a physician and longevity researcher, is leaving **CBS News** weeks after being named in court documents related to Jeffrey Epstein, according to Forbes.<sup>[1](#ref-1)</sup>",
+    "novelty": "CBS News journalist Peter Attia resigns weeks after being named in the Epstein Files documents.",
+    "topic": "CBS News journalist Peter Attia resigns weeks after being named in the Epstein Files documents.",
+    "people": [
+      "peter-attia"
+    ],
+    "tags": [
+      "document-release",
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-cbs-news-contributor-peter-attia-exits-role-after-epstein-links-emerge",
+    "title": "CBS News Contributor Peter Attia Exits Role After Epstein Links Emerge",
+    "summary": "CBS News Contributor Peter Attia Exits Role After Epstein Links Emerge",
+    "novelty": "CBS News contributor Peter Attia exits his role following emerging Epstein-related links to his background or associations.",
+    "topic": "CBS News contributor Peter Attia exits his role following emerging Epstein-related links to his background or associations.",
+    "people": [
+      "peter-attia"
+    ],
+    "tags": [
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-peter-attia-exits-cbs-news-after-epstein-files-inclusion",
+    "title": "Peter Attia Exits CBS News After Epstein Files Inclusion",
+    "summary": "Peter Attia Exits CBS News After Epstein Files Inclusion",
+    "novelty": "Peter Attia exits CBS News position following inclusion in Epstein Files and criticism from John Oliver.",
+    "topic": "Peter Attia exits CBS News position following inclusion in Epstein Files and criticism from John Oliver.",
+    "people": [
+      "peter-attia",
+      "john-oliver"
+    ],
+    "tags": [
+      "document-release",
+      "associates"
+    ]
   }
 ]
