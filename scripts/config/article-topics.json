@@ -956,5 +956,48 @@
     "tags": [
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-23-prince-andrew-charged-taxpayers-for-massages-as-trade-envoy-guardian",
+    "title": "Prince Andrew Charged Taxpayers for Massages as Trade Envoy: Guardian",
+    "summary": "Prince Andrew Charged Taxpayers for Massages as Trade Envoy: Guardian",
+    "novelty": "The Guardian reports that Prince Andrew charged taxpayers for massages and excessive travel expenses while serving as UK trade envoy, with former civil servants citing a culture of deference that allowed the claims to proceed.",
+    "topic": "The Guardian reports that Prince Andrew charged taxpayers for massages and excessive travel expenses while serving as UK trade envoy, with former civil servants citing a culture of deference that allowed the claims to proceed.",
+    "people": [
+      "andrew-mountbatten-windsor"
+    ],
+    "tags": [
+      "political",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-23-nyt-opinion-epstein-files-release-was-a-mistake",
+    "title": "NYT Opinion: Epstein Files Release Was a Mistake",
+    "summary": "NYT Opinion: Epstein Files Release Was a Mistake",
+    "novelty": "New York Times opinion piece argues that the Epstein Files should not have been released to the public.",
+    "topic": "New York Times opinion piece argues that the Epstein Files should not have been released to the public.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "transparency-act"
+    ]
+  },
+  {
+    "slug": "2026-02-23-maxwell-family-member-comments-on-prince-andrew-investigation",
+    "title": "Maxwell Family Member Comments on Prince Andrew Investigation",
+    "summary": "Maxwell Family Member Comments on Prince Andrew Investigation",
+    "novelty": "DUPLICATE: Ghislaine Maxwell's brother's criticism of the Royal Family over Prince Andrew is commentary on events already covered in 'UK MP Seeks Treason Probe Into Prince Andrew Over Epstein'",
+    "topic": "DUPLICATE: Ghislaine Maxwell's brother's criticism of the Royal Family over Prince Andrew is commentary on events already covered in 'UK MP Seeks Treason Probe Into Prince Andrew Over Epstein'",
+    "people": [
+      "ghislaine-maxwell",
+      "prince-andrew"
+    ],
+    "tags": [
+      "associates",
+      "political"
+    ]
   }
 ]
