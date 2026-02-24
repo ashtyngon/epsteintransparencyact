@@ -1884,5 +1884,34 @@
       "document-release",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-24-giants-owner-steve-tisch-s-epstein-emails-draw-nfl-scrutiny",
+    "title": "Giants Owner Steve Tisch's Epstein Emails Draw NFL Scrutiny",
+    "summary": "Giants Owner Steve Tisch's Epstein Emails Draw NFL Scrutiny",
+    "novelty": "Troy Record reports that the NFL and New York Giants have failed to act on emails connecting team owner Steve Tisch to Jeffrey Epstein.",
+    "topic": "Troy Record reports that the NFL and New York Giants have failed to act on emails connecting team owner Steve Tisch to Jeffrey Epstein.",
+    "people": [
+      "steve-tisch",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "document-release",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-24-catholic-weekly-epstein-files-reveal-institutional-desecration",
+    "title": "Catholic Weekly: Epstein Files Reveal Institutional Desecration",
+    "summary": "Catholic Weekly: Epstein Files Reveal Institutional Desecration",
+    "novelty": "The Catholic Weekly publishes religious and moral analysis examining what the Epstein Files reveal about institutional desecration and sacred abuse.",
+    "topic": "The Catholic Weekly publishes religious and moral analysis examining what the Epstein Files reveal about institutional desecration and sacred abuse.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "analysis"
+    ]
   }
 ]
