@@ -1425,5 +1425,52 @@
       "investigation",
       "breaking"
     ]
+  },
+  {
+    "slug": "2026-02-24-former-uk-ambassador-to-us-arrested-in-epstein-investigation",
+    "title": "Former UK Ambassador to US Arrested in Epstein Investigation",
+    "summary": "A former British ambassador to the United States has been arrested in connection with the ongoing Epstein investigation, according to **The Washington Post**.<sup>[1](#ref-1)</sup>",
+    "novelty": "Former U.K. ambassador to the United States arrested in connection with Epstein revelations.",
+    "topic": "Former U.K. ambassador to the United States arrested in connection with Epstein revelations.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "arrest",
+      "breaking",
+      "investigation",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-02-24-fbi-missed-at-least-6-epstein-storage-units-during-investigation",
+    "title": "FBI Missed At Least 6 Epstein Storage Units During Investigation",
+    "summary": "# FBI Missed At Least Six Epstein Storage Units, WION Reports",
+    "novelty": "WION reports that FBI investigation missed at least 6 secret storage units belonging to Jeffrey Epstein, raising questions about incomplete evidence collection.",
+    "topic": "WION reports that FBI investigation missed at least 6 secret storage units belonging to Jeffrey Epstein, raising questions about incomplete evidence collection.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "fbi",
+      "investigation",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-24-epstein-survivors-attend-trump-s-sotu-who-invited-them",
+    "title": "Epstein Survivors Attend Trump's SOTU: Who Invited Them",
+    "summary": "Epstein Survivors Attend Trump's SOTU: Who Invited Them",
+    "novelty": "Newsweek reports on Epstein survivors attending Trump's State of the Union address and identifies who invited them.",
+    "topic": "Newsweek reports on Epstein survivors attending Trump's State of the Union address and identifies who invited them.",
+    "people": [
+      "jeffrey-epstein",
+      "donald-trump"
+    ],
+    "tags": [
+      "victims",
+      "survivors",
+      "political"
+    ]
   }
 ]
