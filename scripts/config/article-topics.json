@@ -1660,5 +1660,44 @@
       "political",
       "breaking"
     ]
+  },
+  {
+    "slug": "2026-02-24-celebrity-doctor-resigns-from-cbs-after-epstein-backlash",
+    "title": "Celebrity Doctor Resigns From CBS After Epstein Backlash",
+    "summary": "Celebrity Doctor Resigns From CBS After Epstein Backlash",
+    "novelty": "DUPLICATE: Celebrity doctor resigns from CBS following backlash over Epstein Files connections, matching the Peter Attia resignation already covered.",
+    "topic": "DUPLICATE: Celebrity doctor resigns from CBS following backlash over Epstein Files connections, matching the Peter Attia resignation already covered.",
+    "people": [],
+    "tags": [
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-24-mar-a-lago-intruder-austin-martin-fixated-on-epstein-files",
+    "title": "Mar-a-Lago Intruder Austin Martin Fixated on Epstein Files",
+    "summary": "Mar-a-Lago Intruder Austin Martin Fixated on Epstein Files",
+    "novelty": "DUPLICATE: Mar-a-Lago intruder's obsession with Epstein files was already reported by Salon in the article 'Mar-a-Lago Shooting Suspect's Friends Describe Epstein Obsession'",
+    "topic": "DUPLICATE: Mar-a-Lago intruder's obsession with Epstein files was already reported by Salon in the article 'Mar-a-Lago Shooting Suspect's Friends Describe Epstein Obsession'",
+    "people": [
+      "jeffrey-epstein",
+      "austin-martin"
+    ],
+    "tags": [
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-24-psychiatric-times-examines-mental-health-implications-of-epstein-case",
+    "title": "Psychiatric Times Examines Mental Health Implications of Epstein Case",
+    "summary": "Psychiatric Times Examines Mental Health Implications of Epstein Case",
+    "novelty": "Psychiatric Times publishes analysis of mental health implications and psychiatric dimensions of the Epstein case for clinical practitioners.",
+    "topic": "Psychiatric Times publishes analysis of mental health implications and psychiatric dimensions of the Epstein case for clinical practitioners.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates"
+    ]
   }
 ]
