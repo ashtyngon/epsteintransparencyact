@@ -1345,5 +1345,38 @@
       "court-documents",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-02-24-health-guru-peter-attia-steps-down-after-epstein-correspondence-revealed",
+    "title": "Health Guru Peter Attia Steps Down After Epstein Correspondence Revealed",
+    "summary": "Health Guru Peter Attia Steps Down After Epstein Correspondence Revealed",
+    "novelty": "Health and longevity guru Peter Attia, brought to CBS by journalist Bari Weiss, stepped down after correspondence with Jeffrey Epstein was revealed.",
+    "topic": "Health and longevity guru Peter Attia, brought to CBS by journalist Bari Weiss, stepped down after correspondence with Jeffrey Epstein was revealed.",
+    "people": [
+      "peter-attia",
+      "bari-weiss",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-23-gloria-allred-pushes-fbi-to-search-epstein-lockers-for-victim-evidence",
+    "title": "Gloria Allred Pushes FBI to Search Epstein Lockers for Victim Evidence",
+    "summary": "Gloria Allred Pushes FBI to Search Epstein Lockers for Victim Evidence",
+    "novelty": "Gloria Allred urges FBI to search Epstein's lockers as part of ongoing victim advocacy efforts",
+    "topic": "Gloria Allred urges FBI to search Epstein's lockers as part of ongoing victim advocacy efforts",
+    "people": [
+      "jeffrey-epstein",
+      "gloria-allred"
+    ],
+    "tags": [
+      "investigation",
+      "fbi",
+      "victims",
+      "survivors"
+    ]
   }
 ]
