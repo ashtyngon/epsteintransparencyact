@@ -1744,5 +1744,48 @@
       "associates",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-02-24-popular-epstein-files-podcast-revealed-to-be-entirely-ai-generated",
+    "title": "Popular Epstein Files Podcast Revealed to Be Entirely AI-Generated",
+    "summary": "A podcast focused on the Jeffrey Epstein case has gained a significant audience despite being produced entirely through artificial intelligence, according to **Fast Company**.<sup>[1](#ref-1)</sup>",
+    "novelty": "Fast Company reports that a popular podcast covering the Epstein files is entirely AI-generated, raising questions about misinformation and synthetic media in high-profile investigations.",
+    "topic": "Fast Company reports that a popular podcast covering the Epstein files is entirely AI-generated, raising questions about misinformation and synthetic media in high-profile investigations.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "breaking",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-02-24-rep-mace-epstein-files-reveal-much-bigger-criminal-network",
+    "title": "Rep. Mace: Epstein Files Reveal 'Much Bigger' Criminal Network",
+    "summary": "Rep. Mace: Epstein Files Reveal 'Much Bigger' Criminal Network",
+    "novelty": "Rep. Nancy Mace claims the Epstein Files reveal connections extending far beyond sex trafficking into broader criminal networks.",
+    "topic": "Rep. Nancy Mace claims the Epstein Files reveal connections extending far beyond sex trafficking into broader criminal networks.",
+    "people": [
+      "nancy-mace",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "transparency-act",
+      "document-release",
+      "political",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-24-democrats-skip-state-of-union-invite-epstein-survivors-in-protest",
+    "title": "Democrats Skip State of Union, Invite Epstein Survivors in Protest",
+    "summary": "Democrats Skip State of Union, Invite Epstein Survivors in Protest",
+    "novelty": "Several Democratic members of Congress plan to skip the State of the Union and invite Epstein survivors as their guests in protest.",
+    "topic": "Several Democratic members of Congress plan to skip the State of the Union and invite Epstein survivors as their guests in protest.",
+    "people": [],
+    "tags": [
+      "political",
+      "survivors"
+    ]
   }
 ]
