@@ -2,7 +2,7 @@ name: Fetch & Generate Articles
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '0 14 * * *'  # Once daily at 2 PM UTC (morning US Eastern)
   workflow_dispatch:  # Manual trigger
 
 permissions:

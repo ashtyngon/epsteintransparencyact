@@ -11,8 +11,8 @@ const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
 const TOPICS_PATH = join(__dirname, 'config', 'article-topics.json');
 const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
 
-// Max articles to publish per run — with hourly runs, 3 is plenty
-const MAX_ARTICLES_TO_PUBLISH = 3;
+// Max articles to publish per run — daily run, pick the 5 best stories
+const MAX_ARTICLES_TO_PUBLISH = 5;
 
 // Dedup thresholds
 const HEADLINE_SIMILARITY_THRESHOLD = 0.35; // Jaccard on significant words
