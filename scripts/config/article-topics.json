@@ -2089,5 +2089,71 @@
       "political",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-02-28-elon-musk-asked-epstein-for-wildest-party-wapo-reports",
+    "title": "Elon Musk Asked Epstein for 'Wildest Party,' WaPo Reports",
+    "summary": "Elon Musk Asked Epstein for 'Wildest Party,' WaPo Reports",
+    "novelty": "Washington Post reports Elon Musk previously asked Jeffrey Epstein to organize 'the wildest party' while now publicly positioning himself as a victim advocate.",
+    "topic": "Washington Post reports Elon Musk previously asked Jeffrey Epstein to organize 'the wildest party' while now publicly positioning himself as a victim advocate.",
+    "people": [
+      "elon-musk",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "breaking",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-02-28-bill-clinton-s-epstein-testimony-analysis-and-skepticism",
+    "title": "Bill Clinton's Epstein Testimony: Analysis and Skepticism",
+    "summary": "Bill Clinton's Epstein Testimony: Analysis and Skepticism",
+    "novelty": "DUPLICATE: Bill Clinton's sworn testimony in Epstein investigation",
+    "topic": "DUPLICATE: Bill Clinton's sworn testimony in Epstein investigation",
+    "people": [
+      "bill-clinton",
+      "donald-trump",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony",
+      "associates",
+      "political",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-28-nine-epstein-investigations-launch-overseas-while-u-s-probes-stall",
+    "title": "Nine Epstein Investigations Launch Overseas While U.S. Probes Stall",
+    "summary": "# International Response to Epstein Files Expands as Foreign Governments Launch Probes",
+    "novelty": "NBC News reports that at least nine investigations into Epstein-related matters have begun across eight countries and the EU's anti-fraud unit following U.S. document releases, contrasting with limited domestic U.S. investigations.",
+    "topic": "NBC News reports that at least nine investigations into Epstein-related matters have begun across eight countries and the EU's anti-fraud unit following U.S. document releases, contrasting with limited domestic U.S. investigations.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "transparency-act",
+      "document-release",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-02-28-rep-ro-khanna-more-names-will-emerge-from-epstein-files",
+    "title": "Rep. Ro Khanna: More Names Will Emerge From Epstein Files",
+    "summary": "Rep. Ro Khanna: More Names Will Emerge From Epstein Files",
+    "novelty": "Rep. Ro Khanna discusses the fallout from his Epstein Files transparency bill and predicts additional people will be implicated as records continue to be released.",
+    "topic": "Rep. Ro Khanna discusses the fallout from his Epstein Files transparency bill and predicts additional people will be implicated as records continue to be released.",
+    "people": [
+      "ro-khanna",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "transparency-act",
+      "legislation",
+      "political"
+    ]
   }
 ]
