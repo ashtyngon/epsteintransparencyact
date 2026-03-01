@@ -2155,5 +2155,83 @@
       "legislation",
       "political"
     ]
+  },
+  {
+    "slug": "2026-03-01-carnegie-mellon-ai-pioneer-s-emails-reveal-years-of-epstein-ties",
+    "title": "Carnegie Mellon AI Pioneer's Emails Reveal Years of Epstein Ties",
+    "summary": "Carnegie Mellon AI Pioneer's Emails Reveal Years of Epstein Ties",
+    "novelty": "Pittsburgh Post-Gazette investigation reveals yearslong email correspondence between AI pioneer and former Carnegie Mellon administrator and Jeffrey Epstein",
+    "topic": "Pittsburgh Post-Gazette investigation reveals yearslong email correspondence between AI pioneer and former Carnegie Mellon administrator and Jeffrey Epstein",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "investigation",
+      "document-release",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-01-nyt-elite-doctors-treated-epstein-and-his-victims-potential-conflicts",
+    "title": "NYT: Elite Doctors Treated Epstein and His Victims—Potential Conflicts",
+    "summary": "# Elite Doctors Treated Epstein's Victims While Serving as His Personal Physicians",
+    "novelty": "New York Times investigation reveals how elite physicians served as both personal doctors to Jeffrey Epstein and medical providers to his underage abuse victims, creating potential conflicts of interest.",
+    "topic": "New York Times investigation reveals how elite physicians served as both personal doctors to Jeffrey Epstein and medical providers to his underage abuse victims, creating potential conflicts of interest.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "associates",
+      "court-documents",
+      "victims"
+    ]
+  },
+  {
+    "slug": "2026-03-01-wsj-doj-examined-epstein-associates-for-sex-crimes-charged-none",
+    "title": "WSJ: DOJ Examined Epstein Associates for Sex Crimes, Charged None",
+    "summary": "WSJ: DOJ Examined Epstein Associates for Sex Crimes, Charged None",
+    "novelty": "WSJ investigation reveals DOJ examined multiple men in Epstein's orbit accused of sex crimes but declined to prosecute any of them.",
+    "topic": "WSJ investigation reveals DOJ examined multiple men in Epstein's orbit accused of sex crimes but declined to prosecute any of them.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "associates",
+      "court-documents"
+    ]
+  },
+  {
+    "slug": "2026-03-01-democrats-warn-gop-clinton-epstein-subpoenas-could-backfire-politically",
+    "title": "Democrats Warn GOP Clinton Epstein Subpoenas Could Backfire Politically",
+    "summary": "Democrats Warn GOP Clinton Epstein Subpoenas Could Backfire Politically",
+    "novelty": "Democrats warn that Republican-led subpoenas of Bill and Hillary Clinton to testify before the House Oversight Committee on Epstein ties could backfire politically when Democrats regain House control.",
+    "topic": "Democrats warn that Republican-led subpoenas of Bill and Hillary Clinton to testify before the House Oversight Committee on Epstein ties could backfire politically when Democrats regain House control.",
+    "people": [
+      "bill-clinton",
+      "hillary-clinton",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony",
+      "political",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-03-01-citizen-journalists-decode-epstein-documents-as-public-release-accelerates",
+    "title": "Citizen Journalists Decode Epstein Documents as Public Release Accelerates",
+    "summary": "Citizen Journalists Decode Epstein Documents as Public Release Accelerates",
+    "novelty": "Channel 3000 reports on citizen journalists and amateur investigators collaborating to analyze and decode the Epstein documents as they become public.",
+    "topic": "Channel 3000 reports on citizen journalists and amateur investigators collaborating to analyze and decode the Epstein documents as they become public.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "transparency-act"
+    ]
   }
 ]
