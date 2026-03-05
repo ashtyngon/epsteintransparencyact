@@ -2330,5 +2330,87 @@
       "document-release",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-03-05-doj-confirms-47-000-epstein-files-removed-including-trump-allegations",
+    "title": "DOJ Confirms 47,000 Epstein Files Removed, Including Trump Allegations",
+    "summary": "DOJ Confirms 47,000 Epstein Files Removed, Including Trump Allegations",
+    "novelty": "DOJ confirms that over 47,000 Epstein files were removed from custody, including documents containing Trump allegations.",
+    "topic": "DOJ confirms that over 47,000 Epstein files were removed from custody, including documents containing Trump allegations.",
+    "people": [
+      "jeffrey-epstein",
+      "donald-trump"
+    ],
+    "tags": [
+      "document-release",
+      "investigation",
+      "transparency-act",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-05-doj-to-release-47-000-epstein-files-by-end-of-week",
+    "title": "DOJ to Release 47,000+ Epstein Files by End of Week",
+    "summary": "The Department of Justice will release more than 47,000 additional files related to Jeffrey Epstein by the end of this week, according to the New York Post.<sup>[1](#ref-1)</sup>",
+    "novelty": "DOJ announces release of more than 47,000 additional Epstein-related files by end of week as part of ongoing document transparency efforts.",
+    "topic": "DOJ announces release of more than 47,000 additional Epstein-related files by end of week as part of ongoing document transparency efforts.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "transparency-act",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-05-pam-bondi-subpoenaed-to-testify-on-epstein-case-handling",
+    "title": "Pam Bondi Subpoenaed to Testify on Epstein Case Handling",
+    "summary": "Pam Bondi Subpoenaed to Testify on Epstein Case Handling",
+    "novelty": "Pam Bondi subpoenaed to testify about her handling of the Epstein case during her tenure as Florida Attorney General.",
+    "topic": "Pam Bondi subpoenaed to testify about her handling of the Epstein case during her tenure as Florida Attorney General.",
+    "people": [
+      "pam-bondi",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony",
+      "investigation",
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-05-doj-to-release-nearly-50-000-more-epstein-files",
+    "title": "DOJ To Release Nearly 50,000 More Epstein Files",
+    "summary": "The Department of Justice plans to release nearly 50,000 additional documents related to Jeffrey Epstein, according to Newsradio WOOD 1300 and 106.9 FM.<sup>[1](#ref-1)</sup>",
+    "novelty": "DOJ announces plan to release nearly 50,000 additional Epstein-related files, marking a major expansion of the document release schedule.",
+    "topic": "DOJ announces plan to release nearly 50,000 additional Epstein-related files, marking a major expansion of the document release schedule.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "transparency-act",
+      "breaking",
+      "fbi"
+    ]
+  },
+  {
+    "slug": "2026-03-05-bipartisan-vote-forces-attorney-general-to-testify-on-epstein-files",
+    "title": "Bipartisan Vote Forces Attorney General to Testify on Epstein Files",
+    "summary": "Bipartisan Vote Forces Attorney General to Testify on Epstein Files",
+    "novelty": "A bipartisan congressional vote compels the Attorney General to testify before Congress regarding the contents and handling of the Epstein Files.",
+    "topic": "A bipartisan congressional vote compels the Attorney General to testify before Congress regarding the contents and handling of the Epstein Files.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "testimony",
+      "legislation",
+      "breaking",
+      "transparency-act",
+      "political"
+    ]
   }
 ]
