@@ -2412,5 +2412,93 @@
       "transparency-act",
       "political"
     ]
+  },
+  {
+    "slug": "2026-03-06-doj-releases-withheld-epstein-files-with-trump-allegations",
+    "title": "DOJ Releases Withheld Epstein Files With Trump Allegations",
+    "summary": "DOJ Releases Withheld Epstein Files With Trump Allegations",
+    "novelty": "DOJ releases previously withheld Epstein files containing unproven allegations against Trump that were mistakenly sealed.",
+    "topic": "DOJ releases previously withheld Epstein files containing unproven allegations against Trump that were mistakenly sealed.",
+    "people": [
+      "jeffrey-epstein",
+      "donald-trump",
+      "ted-lieu"
+    ],
+    "tags": [
+      "document-release",
+      "transparency-act",
+      "political",
+      "court-documents",
+      "breaking",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-03-06-guardian-epstein-files-reveal-sydney-connections-secret-fbi-trip",
+    "title": "Guardian: Epstein Files Reveal Sydney Connections, Secret FBI Trip",
+    "summary": "# FBI Made Secret Trip to Australia During Epstein Investigation, Files Reveal",
+    "novelty": "Guardian investigation reveals newly unsealed Epstein files documenting his connections to Sydney women and details of a secret FBI trip during the Giuffre investigation.",
+    "topic": "Guardian investigation reveals newly unsealed Epstein files documenting his connections to Sydney women and details of a secret FBI trip during the Giuffre investigation.",
+    "people": [
+      "jeffrey-epstein",
+      "virginia-giuffre"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release",
+      "investigation",
+      "fbi",
+      "survivors",
+      "victims",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-03-06-bloomberg-secret-dea-probe-examined-epstein-ketamine-prostitution-ring",
+    "title": "Bloomberg: Secret DEA Probe Examined Epstein Ketamine, Prostitution Ring",
+    "summary": "Bloomberg: Secret DEA Probe Examined Epstein Ketamine, Prostitution Ring",
+    "novelty": "Bloomberg reports details of a secret DEA probe into Jeffrey Epstein involving ketamine, prostitution, and money laundering.",
+    "topic": "Bloomberg reports details of a secret DEA probe into Jeffrey Epstein involving ketamine, prostitution, and money laundering.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-06-doj-memo-epstein-accusers-had-credibility-issues-past-arrests",
+    "title": "DOJ Memo: Epstein Accusers Had Credibility Issues, Past Arrests",
+    "summary": "DOJ Memo: Epstein Accusers Had Credibility Issues, Past Arrests",
+    "novelty": "DOJ memo reveals that Epstein accusers faced credibility challenges including past arrests and inconsistent statements in their accounts.",
+    "topic": "DOJ memo reveals that Epstein accusers faced credibility challenges including past arrests and inconsistent statements in their accounts.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release",
+      "investigation",
+      "victims",
+      "survivors"
+    ]
+  },
+  {
+    "slug": "2026-03-06-u-s-epstein-files-handling-unjust-and-threatening-to-victims",
+    "title": "U.S. Epstein Files Handling 'Unjust and Threatening' to Victims",
+    "summary": "**The Southerner Online**, a student publication, published an opinion piece criticizing the U.S",
+    "novelty": "The Southerner Online publishes opinion/analysis arguing U.S. government handling of Epstein files releases and victim protection measures is unjust and poses ongoing threats to survivors.",
+    "topic": "The Southerner Online publishes opinion/analysis arguing U.S. government handling of Epstein files releases and victim protection measures is unjust and poses ongoing threats to survivors.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "transparency-act",
+      "document-release",
+      "victims",
+      "investigation"
+    ]
   }
 ]
