@@ -2575,5 +2575,80 @@
       "political",
       "testimony"
     ]
+  },
+  {
+    "slug": "2026-03-09-fbi-investigates-epstein-s-new-mexico-ranch-after-years-long-delay",
+    "title": "FBI Investigates Epstein's New Mexico Ranch After Years-Long Delay",
+    "summary": "FBI Investigates Epstein's New Mexico Ranch After Years-Long Delay",
+    "novelty": "Guardian investigation reports that law enforcement has begun investigating Jeffrey Epstein's Zoro Ranch property in New Mexico, but potential evidence may have been compromised or destroyed in the intervening years.",
+    "topic": "Guardian investigation reports that law enforcement has begun investigating Jeffrey Epstein's Zoro Ranch property in New Mexico, but potential evidence may have been compromised or destroyed in the intervening years.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "breaking",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-03-09-epstein-s-west-palm-beach-concierge-doctor-inside-their-relationship",
+    "title": "Epstein's West Palm Beach Concierge Doctor: Inside Their Relationship",
+    "summary": "Epstein's West Palm Beach Concierge Doctor: Inside Their Relationship",
+    "novelty": "Miami New Times investigation reveals details of Jeffrey Epstein's relationship with his West Palm Beach concierge doctor and the medical services provided.",
+    "topic": "Miami New Times investigation reveals details of Jeffrey Epstein's relationship with his West Palm Beach concierge doctor and the medical services provided.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-03-09-business-insider-missing-voice-in-epstein-death-debate-found-in-files",
+    "title": "Business Insider: Missing Voice in Epstein Death Debate Found in Files",
+    "summary": "Business Insider: Missing Voice in Epstein Death Debate Found in Files",
+    "novelty": "Business Insider investigation identifies a previously overlooked perspective or voice in the debate surrounding Jeffrey Epstein's death, drawn from materials within the Epstein Files.",
+    "topic": "Business Insider investigation identifies a previously overlooked perspective or voice in the debate surrounding Jeffrey Epstein's death, drawn from materials within the Epstein Files.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "investigation",
+      "document-release"
+    ]
+  },
+  {
+    "slug": "2026-03-09-the-hill-release-all-epstein-files-now-to-restore-public-trust",
+    "title": "The Hill: Release All Epstein Files Now to Restore Public Trust",
+    "summary": "A former federal prosecutor has accused the **U.S",
+    "novelty": "The Hill publishes opinion piece comparing withheld Epstein documents to the Pentagon Papers and calling for immediate release of all remaining DOJ files.",
+    "topic": "The Hill publishes opinion piece comparing withheld Epstein documents to the Pentagon Papers and calling for immediate release of all remaining DOJ files.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "transparency-act",
+      "document-release",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-03-09-prince-andrew-photo-emerges-in-epstein-files",
+    "title": "Prince Andrew Photo Emerges in Epstein Files",
+    "summary": "Prince Andrew Photo Emerges in Epstein Files",
+    "novelty": "DUPLICATE: Prince Andrew Massage Allegation Surfaces in Unsealed Epstein Files",
+    "topic": "DUPLICATE: Prince Andrew Massage Allegation Surfaces in Unsealed Epstein Files",
+    "people": [
+      "andrew-mountbatten-windsor",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release",
+      "associates"
+    ]
   }
 ]
