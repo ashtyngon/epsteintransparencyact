@@ -2650,5 +2650,50 @@
       "document-release",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-03-10-democrat-vows-pressure-on-trump-over-epstein-files-as-fbi-searches-zorro-ranch",
+    "title": "Democrat Vows Pressure on Trump Over Epstein Files as FBI Searches Zorro Ranch",
+    "summary": "Democrat Vows Pressure on Trump Over Epstein Files as FBI Searches Zorro Ranch",
+    "novelty": "Democrat lawmaker pledges continued pressure on Trump regarding Epstein files release as FBI searches begin at Epstein's New Mexico Zorro Ranch property.",
+    "topic": "Democrat lawmaker pledges continued pressure on Trump regarding Epstein files release as FBI searches begin at Epstein's New Mexico Zorro Ranch property.",
+    "people": [
+      "jeffrey-epstein",
+      "donald-trump"
+    ],
+    "tags": [
+      "investigation",
+      "political",
+      "document-release",
+      "breaking",
+      "fbi",
+      "court-documents"
+    ]
+  },
+  {
+    "slug": "2026-03-10-fbi-searches-epstein-s-zorro-ranch-after-new-revelations",
+    "title": "FBI Searches Epstein's Zorro Ranch After New Revelations",
+    "summary": "FBI Searches Epstein's Zorro Ranch After New Revelations",
+    "novelty": "DUPLICATE: FBI Investigates Epstein's New Mexico Ranch After Years-Long Delay",
+    "topic": "DUPLICATE: FBI Investigates Epstein's New Mexico Ranch After Years-Long Delay",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "fbi",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-03-10-60-of-americans-to-vote-based-on-epstein-files-stance-now-poll",
+    "title": "60% of Americans to Vote Based on Epstein Files Stance: NOW Poll",
+    "summary": "60% of Americans to Vote Based on Epstein Files Stance: NOW Poll",
+    "novelty": "National Organization for Women poll finds 60% of Americans will base their voting decisions on candidates' positions regarding disclosure of the Epstein Files.",
+    "topic": "National Organization for Women poll finds 60% of Americans will base their voting decisions on candidates' positions regarding disclosure of the Epstein Files.",
+    "people": [],
+    "tags": [
+      "political",
+      "transparency-act"
+    ]
   }
 ]
