@@ -2695,5 +2695,79 @@
       "political",
       "transparency-act"
     ]
+  },
+  {
+    "slug": "2026-03-11-u-k-releases-files-on-mandelson-s-ambassador-appointment-amid-epstein-ties",
+    "title": "U.K. Releases Files on Mandelson's Ambassador Appointment Amid Epstein Ties",
+    "summary": "# UK Government Releases Due Diligence Report on Mandelson's US Ambassador Appointment",
+    "novelty": "U.K. government releases previously withheld files documenting the appointment of Peter Mandelson to ambassador post, revealing his connections to Jeffrey Epstein.",
+    "topic": "U.K. government releases previously withheld files documenting the appointment of Peter Mandelson to ambassador post, revealing his connections to Jeffrey Epstein.",
+    "people": [
+      "peter-mandelson",
+      "jeffrey-epstein",
+      "keir-starmer"
+    ],
+    "tags": [
+      "document-release",
+      "associates",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-03-11-hacker-breached-fbi-s-epstein-files-during-physical-break-in",
+    "title": "Hacker Breached FBI's Epstein Files During Physical Break-In",
+    "summary": "Hacker Breached FBI's Epstein Files During Physical Break-In",
+    "novelty": "Report alleges a hacker compromised FBI files related to the Epstein case during a physical break-in.",
+    "topic": "Report alleges a hacker compromised FBI files related to the Epstein case during a physical break-in.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "fbi",
+      "breaking",
+      "transparency-act",
+      "court-documents"
+    ]
+  },
+  {
+    "slug": "2026-03-11-pam-bondi-moves-to-military-housing-after-epstein-related-threats",
+    "title": "Pam Bondi Moves to Military Housing After Epstein-Related Threats",
+    "summary": "Attorney General **Pam Bondi** has relocated to military housing following threats related to the Epstein case, according to the **New York Daily News**.<sup>[1](#ref-1)</sup>",
+    "novelty": "Attorney General Pam Bondi relocates to military housing following threats connected to her handling of the Epstein case.",
+    "topic": "Attorney General Pam Bondi relocates to military housing following threats connected to her handling of the Epstein case.",
+    "people": [
+      "pam-bondi"
+    ],
+    "tags": [
+      "political",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-11-poland-launches-international-epstein-investigation-with-two-countries",
+    "title": "Poland Launches International Epstein Investigation With Two Countries",
+    "summary": "Poland is seeking international assistance in its investigation into connections between convicted sex offender **Jeffrey Epstein** and Polish nationals, according to **CP24**.<sup>[1](#ref-1)</sup>",
+    "novelty": "Poland launches international investigation into Epstein case with assistance from two unnamed countries.",
+    "topic": "Poland launches international investigation into Epstein case with assistance from two unnamed countries.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-11-iran-uses-ai-video-to-mock-trump-s-epstein-ties-in-political-attack",
+    "title": "Iran Uses AI Video to Mock Trump's Epstein Ties in Political Attack",
+    "summary": "Iran Uses AI Video to Mock Trump's Epstein Ties in Political Attack",
+    "novelty": "Iran releases AI-generated Lego propaganda video mocking Trump's alleged Epstein connections as political attack.",
+    "topic": "Iran releases AI-generated Lego propaganda video mocking Trump's alleged Epstein connections as political attack.",
+    "people": [
+      "donald-trump"
+    ],
+    "tags": [
+      "political"
+    ]
   }
 ]
