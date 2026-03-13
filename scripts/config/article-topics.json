@@ -2830,5 +2830,48 @@
       "fbi",
       "investigation"
     ]
+  },
+  {
+    "slug": "2026-03-13-snopes-debunks-epstein-alive-email-conspiracy-theory",
+    "title": "Snopes Debunks 'Epstein Alive' Email Conspiracy Theory",
+    "summary": "Snopes Debunks 'Epstein Alive' Email Conspiracy Theory",
+    "novelty": "Snopes fact-checks a viral claim that an email from Epstein files proves he is still alive, debunking the conspiracy theory.",
+    "topic": "Snopes fact-checks a viral claim that an email from Epstein files proves he is still alive, debunking the conspiracy theory.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "court-documents",
+      "document-release"
+    ]
+  },
+  {
+    "slug": "2026-03-13-character-ai-hosts-epstein-island-and-maxwell-roleplay-bots",
+    "title": "Character.AI Hosts Epstein Island and Maxwell Roleplay Bots",
+    "summary": "Character.AI Hosts Epstein Island and Maxwell Roleplay Bots",
+    "novelty": "Character.AI platform hosts AI chatbots simulating Epstein Island scenarios and Ghislaine Maxwell personas, raising concerns about sexualized content involving real abuse cases.",
+    "topic": "Character.AI platform hosts AI chatbots simulating Epstein Island scenarios and Ghislaine Maxwell personas, raising concerns about sexualized content involving real abuse cases.",
+    "people": [
+      "jeffrey-epstein",
+      "ghislaine-maxwell"
+    ],
+    "tags": [
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-03-13-epstein-accountant-richard-kahn-denies-knowledge-of-red-flags",
+    "title": "Epstein Accountant Richard Kahn Denies Knowledge of Red Flags",
+    "summary": "Epstein Accountant Richard Kahn Denies Knowledge of Red Flags",
+    "novelty": "DUPLICATE: Epstein's accountant Richard Kahn claims he had no knowledge of red flags in the business, matching the recent House Oversight testimony already covered.",
+    "topic": "DUPLICATE: Epstein's accountant Richard Kahn claims he had no knowledge of red flags in the business, matching the recent House Oversight testimony already covered.",
+    "people": [
+      "jeffrey-epstein",
+      "richard-kahn"
+    ],
+    "tags": [
+      "testimony",
+      "associates"
+    ]
   }
 ]
