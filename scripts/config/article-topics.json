@@ -2873,5 +2873,84 @@
       "testimony",
       "associates"
     ]
+  },
+  {
+    "slug": "2026-03-14-first-photo-of-prince-andrew-mandelson-with-epstein-released-by-doj",
+    "title": "First Photo of Prince Andrew, Mandelson With Epstein Released by DOJ",
+    "summary": "First Photo of Prince Andrew, Mandelson With Epstein Released by DOJ",
+    "novelty": "DOJ files newly release a photograph showing Prince Andrew, Peter Mandelson, and Jeffrey Epstein together for the first time.",
+    "topic": "DOJ files newly release a photograph showing Prince Andrew, Peter Mandelson, and Jeffrey Epstein together for the first time.",
+    "people": [
+      "andrew",
+      "peter-mandelson",
+      "jeffrey-epstein",
+      "cherie-blair"
+    ],
+    "tags": [
+      "document-release",
+      "court-documents",
+      "associates",
+      "political"
+    ]
+  },
+  {
+    "slug": "2026-03-14-hacker-accidentally-breached-fbi-epstein-files-wired",
+    "title": "Hacker Accidentally Breached FBI Epstein Files: WIRED",
+    "summary": "Hacker Accidentally Breached FBI Epstein Files: WIRED",
+    "novelty": "WIRED reports that a hacker accidentally gained unauthorized access to FBI files related to the Epstein case through a cybersecurity vulnerability.",
+    "topic": "WIRED reports that a hacker accidentally gained unauthorized access to FBI files related to the Epstein case through a cybersecurity vulnerability.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "fbi",
+      "breaking",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-03-14-nbc-news-how-epstein-lured-vulnerable-girls-to-zorro-ranch",
+    "title": "NBC News: How Epstein Lured Vulnerable Girls to Zorro Ranch",
+    "summary": "# How Epstein Lured Girls to New Mexico Ranch and Evaded Scrutiny",
+    "novelty": "NBC News investigative report details how Epstein targeted economically vulnerable girls at his Zorro Ranch in New Mexico and evaded law enforcement scrutiny.",
+    "topic": "NBC News investigative report details how Epstein targeted economically vulnerable girls at his Zorro Ranch in New Mexico and evaded law enforcement scrutiny.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "investigation",
+      "victims",
+      "survivors"
+    ]
+  },
+  {
+    "slug": "2026-03-14-epstein-funded-bill-gates-reported-ex-girlfriend-for-years",
+    "title": "Epstein Funded Bill Gates' Reported Ex-Girlfriend for Years",
+    "summary": "Epstein Funded Bill Gates' Reported Ex-Girlfriend for Years",
+    "novelty": "Fortune reports that Jeffrey Epstein provided years of financial support to an unnamed woman reported to be Bill Gates' ex-girlfriend.",
+    "topic": "Fortune reports that Jeffrey Epstein provided years of financial support to an unnamed woman reported to be Bill Gates' ex-girlfriend.",
+    "people": [
+      "jeffrey-epstein",
+      "bill-gates"
+    ],
+    "tags": [
+      "associates",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-03-14-ghislaine-maxwell-renews-pardon-bid-with-trump-administration",
+    "title": "Ghislaine Maxwell Renews Pardon Bid With Trump Administration",
+    "summary": "**Ghislaine Maxwell** is continuing efforts to secure a presidential pardon from **President Donald Trump**, according to a report by **La Voce di New York**.<sup>[1](#ref-1)</sup>",
+    "novelty": "Ghislaine Maxwell continues pursuing a presidential pardon from Trump as of March 2026.",
+    "topic": "Ghislaine Maxwell continues pursuing a presidential pardon from Trump as of March 2026.",
+    "people": [
+      "ghislaine-maxwell",
+      "donald-trump"
+    ],
+    "tags": [
+      "associates",
+      "political"
+    ]
   }
 ]
