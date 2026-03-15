@@ -2952,5 +2952,67 @@
       "associates",
       "political"
     ]
+  },
+  {
+    "slug": "2026-03-15-rep-garcia-epstein-files-scandal-worse-than-watergate-bondi-faces-blame",
+    "title": "Rep. Garcia: Epstein Files Scandal 'Worse Than Watergate,' Bondi Faces Blame",
+    "summary": "Rep. Garcia: Epstein Files Scandal 'Worse Than Watergate,' Bondi Faces Blame",
+    "novelty": "Rep. Garcia compares newly released Epstein files scandal to Watergate and suggests former U.S. Attorney Pam Bondi could face blame for her role in the case.",
+    "topic": "Rep. Garcia compares newly released Epstein files scandal to Watergate and suggests former U.S. Attorney Pam Bondi could face blame for her role in the case.",
+    "people": [
+      "jeffrey-epstein",
+      "pam-bondi",
+      "garcia"
+    ],
+    "tags": [
+      "document-release",
+      "political",
+      "investigation",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-15-forbes-billionaires-list-includes-multiple-epstein-file-associates",
+    "title": "Forbes Billionaires List Includes Multiple Epstein File Associates",
+    "summary": "Forbes Billionaires List Includes Multiple Epstein File Associates",
+    "novelty": "New York Post identifies billionaires on Forbes' annual list who appear in Epstein's files as associates or cronies.",
+    "topic": "New York Post identifies billionaires on Forbes' annual list who appear in Epstein's files as associates or cronies.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "associates",
+      "breaking"
+    ]
+  },
+  {
+    "slug": "2026-03-15-epstein-files-reveal-maryland-connections-soccer-team-science-donors",
+    "title": "Epstein Files Reveal Maryland Connections: Soccer Team, Science Donors",
+    "summary": "Epstein Files Reveal Maryland Connections: Soccer Team, Science Donors",
+    "novelty": "Baltimore Sun investigation reveals Epstein's financial and social connections extended into Maryland through involvement with a youth soccer team and science institutions.",
+    "topic": "Baltimore Sun investigation reveals Epstein's financial and social connections extended into Maryland through involvement with a youth soccer team and science institutions.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "document-release",
+      "investigation",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-03-15-iran-weaponizes-epstein-files-while-legalizing-child-marriage",
+    "title": "Iran Weaponizes Epstein Files While Legalizing Child Marriage",
+    "summary": "Iran's state media has begun promoting newly released U.S",
+    "novelty": "WION reports that Iran is using Epstein files as propaganda while maintaining legal child marriage policies for girls as young as 13.",
+    "topic": "WION reports that Iran is using Epstein files as propaganda while maintaining legal child marriage policies for girls as young as 13.",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "political",
+      "associates"
+    ]
   }
 ]
