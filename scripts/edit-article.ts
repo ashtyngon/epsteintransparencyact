@@ -1,13 +1,14 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync, unlinkSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import Anthropic from '@anthropic-ai/sdk';
+import { type GenerativeModel } from '@google/generative-ai';
 import { EDITOR_PROMPT } from './config/prompt-templates.js';
 import {
   isAggregatorSource,
   getSignificantWords as getSignificantWordsShared,
   jaccardSimilarity as jaccardSimilarityShared,
-  callAnthropicWithRetry,
+  createGeminiModel,
+  callGeminiWithRetry,
 } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -209,7 +210,7 @@ function loadExistingArticlesManifest(excludeSlug?: string): string {
 }
 
 async function editArticle(
-  client: Anthropic,
+  model: GenerativeModel,
   headline: string,
   draftBody: string,
   item: RelevantArticle,
@@ -234,25 +235,8 @@ async function editArticle(
   }
 
   try {
-    const maxTokens = item.isFeature ? 24000 : 16000;
-    const thinkingBudget = item.isFeature ? 15000 : 10000;
-
-    // Fix #12: Use retry logic with exponential backoff
-    const response = await callAnthropicWithRetry(client, {
-      model: 'claude-sonnet-4-5-20250929',
-      max_tokens: maxTokens,
-      thinking: {
-        type: 'enabled',
-        budget_tokens: thinkingBudget,
-      },
-      messages: [{ role: 'user', content: prompt }],
-    }, { timeoutMs: 120000 });
-
-    // Extract text from response (skip thinking blocks)
-    for (const block of response.content) {
-      if (block.type === 'text') return block.text;
-    }
-    return null;
+    const text = await callGeminiWithRetry(model, prompt, { timeoutMs: 120000 });
+    return text || null;
   } catch (error) {
     console.error(`  ERR: Editor failed for "${headline.slice(0, 50)}": ${(error as Error).message?.slice(0, 80)}`);
     return null;
@@ -271,9 +255,9 @@ async function main() {
     return;
   }
 
-  const client = new Anthropic();
+  const model = createGeminiModel();
 
-  console.log(`Editing ${relevant.length} articles with Claude Editor (Sonnet + thinking)...\n`);
+  console.log(`Editing ${relevant.length} articles with Gemini Flash...\n`);
 
   let edited = 0;
   for (const item of relevant) {
@@ -299,7 +283,7 @@ async function main() {
 
     const label = item.isFeature ? 'Editing FEATURE' : 'Editing';
     console.log(`  ${label}: ${headline.slice(0, 70)}...`);
-    const editedBody = await editArticle(client, headline, parts.body, item, existingArticles);
+    const editedBody = await editArticle(model, headline, parts.body, item, existingArticles);
 
     if (!editedBody) {
       console.log(`  WARN: Editor returned nothing, keeping original`);
@@ -344,7 +328,7 @@ async function main() {
           `Do NOT add speculative commentary, vague "experts say" language, or general Epstein case background that isn't tied to the specific story.`;
       }
 
-      const retryBody = await editArticle(client, headline, parts.body, item, existingArticles, retryInstruction);
+      const retryBody = await editArticle(model, headline, parts.body, item, existingArticles, retryInstruction);
 
       if (retryBody) {
         const retryWordCount = countArticleWords(retryBody);

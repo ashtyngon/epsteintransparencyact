@@ -1,9 +1,9 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import Anthropic from '@anthropic-ai/sdk';
+import { type GenerativeModel } from '@google/generative-ai';
 import { GENERATE_PROMPT, FEATURE_PROMPT } from './config/prompt-templates.js';
-import { isAggregatorSource, callAnthropicWithRetry, normalizeUrl } from './lib/pipeline-utils.js';
+import { isAggregatorSource, createGeminiModel, callGeminiWithRetry, normalizeUrl } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
@@ -83,7 +83,7 @@ function loadExistingArticlesManifest(): string {
 }
 
 async function generateArticleBody(
-  client: Anthropic,
+  model: GenerativeModel,
   item: RelevantArticle,
   existingArticles: string
 ): Promise<string | null> {
@@ -101,14 +101,8 @@ async function generateArticleBody(
   }
 
   try {
-    // Fix #12: Use retry logic with exponential backoff
-    const response = await callAnthropicWithRetry(client, {
-      model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 2000,
-      messages: [{ role: 'user', content: prompt }],
-    }, { timeoutMs: 90000 });
-
-    return response.content[0].type === 'text' ? response.content[0].text : null;
+    const text = await callGeminiWithRetry(model, prompt, { timeoutMs: 90000 });
+    return text || null;
   } catch (error) {
     console.error(`  ERR: Failed to generate "${item.title.slice(0, 50)}": ${(error as Error).message?.slice(0, 60)}`);
     return null;
@@ -116,7 +110,7 @@ async function generateArticleBody(
 }
 
 async function generateFeatureArticle(
-  client: Anthropic,
+  model: GenerativeModel,
   item: RelevantArticle,
   existingArticles: string
 ): Promise<string | null> {
@@ -143,14 +137,8 @@ async function generateFeatureArticle(
   }
 
   try {
-    // Fix #12: Use retry logic with exponential backoff
-    const response = await callAnthropicWithRetry(client, {
-      model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 4000,
-      messages: [{ role: 'user', content: prompt }],
-    }, { timeoutMs: 120000 });
-
-    return response.content[0].type === 'text' ? response.content[0].text : null;
+    const text = await callGeminiWithRetry(model, prompt, { timeoutMs: 120000 });
+    return text || null;
   } catch (error) {
     console.error(`  ERR: Failed to generate feature: ${(error as Error).message?.slice(0, 60)}`);
     return null;
@@ -297,14 +285,14 @@ async function main() {
     return;
   }
 
-  const client = new Anthropic();
+  const model = createGeminiModel();
   const processed: { processedUrls: string[]; lastRun: string | null } = JSON.parse(
     readFileSync(PROCESSED_PATH, 'utf-8')
   );
 
   // Load existing articles so the writer can reference them
   const existingArticles = loadExistingArticlesManifest();
-  console.log(`Generating ${relevant.length} articles with Claude Sonnet...\n`);
+  console.log(`Generating ${relevant.length} articles with Gemini Flash...\n`);
 
   let created = 0;
   const newArticles: { slug: string; headline: string; summary: string; novelty: string; people: string[]; tags: string[] }[] = [];
@@ -340,8 +328,8 @@ async function main() {
     }
 
     const body = item.isFeature
-      ? await generateFeatureArticle(client, item, existingArticles)
-      : await generateArticleBody(client, item, existingArticles);
+      ? await generateFeatureArticle(model, item, existingArticles)
+      : await generateArticleBody(model, item, existingArticles);
     if (!body) continue;
 
     // Enforce minimum word count — reject thin articles

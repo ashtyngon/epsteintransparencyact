@@ -7,7 +7,7 @@
  */
 
 import { createHash } from 'crypto';
-import Anthropic from '@anthropic-ai/sdk';
+import { GoogleGenerativeAI, type GenerativeModel } from '@google/generative-ai';
 
 // ──────────────────────────────────────────────────
 // URL Normalization (Fix #1)
@@ -146,10 +146,10 @@ export function isAggregatorSource(source: string): boolean {
 }
 
 // ──────────────────────────────────────────────────
-// API Retry with Exponential Backoff (Fix #12)
+// Gemini API Client + Retry with Exponential Backoff
 // ──────────────────────────────────────────────────
 
-interface RetryOptions {
+export interface RetryOptions {
   maxRetries?: number;
   baseDelay?: number;     // ms
   maxDelay?: number;      // ms
@@ -164,14 +164,25 @@ const DEFAULT_RETRY: Required<RetryOptions> = {
 };
 
 /**
- * Call the Anthropic API with automatic retry on 429/529/5xx errors.
- * Uses exponential backoff with jitter. Respects retry-after headers.
+ * Create a Gemini GenerativeModel instance.
+ * Reads GEMINI_API_KEY from env.
  */
-export async function callAnthropicWithRetry(
-  client: Anthropic,
-  params: Anthropic.MessageCreateParams,
+export function createGeminiModel(modelName: string = 'gemini-2.0-flash'): GenerativeModel {
+  const apiKey = process.env.GEMINI_API_KEY;
+  if (!apiKey) throw new Error('GEMINI_API_KEY environment variable is not set');
+  const genAI = new GoogleGenerativeAI(apiKey);
+  return genAI.getGenerativeModel({ model: modelName });
+}
+
+/**
+ * Call the Gemini API with automatic retry on transient errors.
+ * Uses exponential backoff with jitter.
+ */
+export async function callGeminiWithRetry(
+  model: GenerativeModel,
+  prompt: string,
   opts?: RetryOptions,
-): Promise<Anthropic.Message> {
+): Promise<string> {
   const { maxRetries, baseDelay, maxDelay, timeoutMs } = { ...DEFAULT_RETRY, ...opts };
 
   let lastError: Error | null = null;
@@ -181,24 +192,27 @@ export async function callAnthropicWithRetry(
       const controller = new AbortController();
       const timer = setTimeout(() => controller.abort(), timeoutMs);
 
-      const response = await client.messages.create(params, {
-        signal: controller.signal as any,
+      const result = await model.generateContent({
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
       });
 
       clearTimeout(timer);
-      return response;
+      return result.response.text();
     } catch (error: any) {
       lastError = error;
-      clearTimeout(0); // just in case
 
       const status = error?.status || error?.statusCode || 0;
+      const msg = error?.message || '';
       const isRetryable =
         status === 429 ||         // Rate limited
-        status === 529 ||         // Overloaded
-        (status >= 500 && status < 600) || // Server error
+        status === 503 ||         // Service unavailable
+        (status >= 500 && status < 600) ||
+        msg.includes('RESOURCE_EXHAUSTED') ||
+        msg.includes('UNAVAILABLE') ||
+        msg.includes('DEADLINE_EXCEEDED') ||
+        msg.includes('aborted') ||
         error?.code === 'ECONNRESET' ||
-        error?.code === 'ETIMEDOUT' ||
-        error?.message?.includes('aborted');
+        error?.code === 'ETIMEDOUT';
 
       if (!isRetryable || attempt >= maxRetries) {
         throw error;
@@ -206,18 +220,9 @@ export async function callAnthropicWithRetry(
 
       // Calculate backoff with jitter
       let delay = Math.min(baseDelay * Math.pow(2, attempt), maxDelay);
-
-      // Respect retry-after header if present
-      const retryAfter = error?.headers?.['retry-after'];
-      if (retryAfter) {
-        const retryMs = parseInt(retryAfter, 10) * 1000;
-        if (!isNaN(retryMs)) delay = Math.max(delay, retryMs);
-      }
-
-      // Add jitter (±25%)
       delay = delay * (0.75 + Math.random() * 0.5);
 
-      console.log(`  API retry ${attempt + 1}/${maxRetries} after ${Math.round(delay)}ms (status=${status})`);
+      console.log(`  API retry ${attempt + 1}/${maxRetries} after ${Math.round(delay)}ms (${msg.slice(0, 60)})`);
       await new Promise((resolve) => setTimeout(resolve, delay));
     }
   }

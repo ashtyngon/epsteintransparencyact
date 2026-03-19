@@ -13,9 +13,9 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync, unlinkSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import Anthropic from '@anthropic-ai/sdk';
+import { type GenerativeModel } from '@google/generative-ai';
 import { FACT_CHECK_PROMPT } from './config/fact-check-prompt.js';
-import { callAnthropicWithRetry } from './lib/pipeline-utils.js';
+import { createGeminiModel, callGeminiWithRetry } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const RELEVANT_PATH = join(__dirname, 'config', 'relevant.json');
@@ -67,19 +67,13 @@ function extractArticleBody(content: string): string | null {
 }
 
 async function factCheckArticle(
-  client: Anthropic,
+  model: GenerativeModel,
   articleBody: string,
 ): Promise<FactCheckResult | null> {
   const prompt = FACT_CHECK_PROMPT.replace('{articleBody}', articleBody);
 
   try {
-    const response = await callAnthropicWithRetry(client, {
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 1024,
-      messages: [{ role: 'user', content: prompt }],
-    }, { timeoutMs: 30000, maxRetries: 2 });
-
-    const text = response.content[0].type === 'text' ? response.content[0].text : '';
+    const text = await callGeminiWithRetry(model, prompt, { timeoutMs: 30000, maxRetries: 2 });
     const jsonMatch = text.match(/\{[\s\S]*\}/);
     if (!jsonMatch) return null;
     return JSON.parse(jsonMatch[0]) as FactCheckResult;
@@ -101,8 +95,8 @@ async function main() {
     return;
   }
 
-  const client = new Anthropic();
-  console.log(`Fact-checking ${relevant.length} articles with Claude Haiku (blind pass)...\n`);
+  const model = createGeminiModel();
+  console.log(`Fact-checking ${relevant.length} articles with Gemini Flash (blind pass)...\n`);
 
   let passed = 0;
   let flagged = 0;
@@ -123,7 +117,7 @@ async function main() {
     if (!body) continue;
 
     console.log(`  Checking: ${headline.slice(0, 65)}...`);
-    const result = await factCheckArticle(client, body);
+    const result = await factCheckArticle(model, body);
 
     if (!result) {
       console.log(`    SKIP: Fact-checker returned no result — keeping article`);

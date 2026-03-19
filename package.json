@@ -10,10 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.74.0",
     "@astrojs/cloudflare": "^12.6.12",
     "@astrojs/markdoc": "^0.15.10",
     "@astrojs/sitemap": "^3.7.0",
+    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.18",
     "astro": "^5.17.1",

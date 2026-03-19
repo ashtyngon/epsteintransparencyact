@@ -1,9 +1,9 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import Anthropic from '@anthropic-ai/sdk';
+import { type GenerativeModel } from '@google/generative-ai';
 import { FILTER_PROMPT } from './config/prompt-templates.js';
-import { callAnthropicWithRetry } from './lib/pipeline-utils.js';
+import { createGeminiModel, callGeminiWithRetry } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CANDIDATES_PATH = join(__dirname, 'config', 'candidates.json');
@@ -510,7 +510,7 @@ function detectFeatureCandidates(articles: RelevantArticle[]): FeatureCandidate[
 // ──────────────────────────────────────────────────
 
 async function filterArticle(
-  client: Anthropic,
+  model: GenerativeModel,
   item: RSSItem,
   existingTopics: string
 ): Promise<FilterResult | null> {
@@ -522,14 +522,7 @@ async function filterArticle(
     .replace('{existingTopics}', existingTopics);
 
   try {
-    // Fix #12: Use retry logic with exponential backoff
-    const response = await callAnthropicWithRetry(client, {
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 512,
-      messages: [{ role: 'user', content: prompt }],
-    }, { timeoutMs: 45000, maxRetries: 2 });
-
-    const text = response.content[0].type === 'text' ? response.content[0].text : '';
+    const text = await callGeminiWithRetry(model, prompt, { timeoutMs: 45000, maxRetries: 2 });
     // Extract JSON from response (handle possible markdown wrapping)
     const jsonMatch = text.match(/\{[\s\S]*\}/);
     if (!jsonMatch) return null;
@@ -562,14 +555,14 @@ async function main() {
   console.log(`Loaded ${existingArticles.length} existing articles for dedup comparison.\n`);
 
   const existingTopics = loadExistingTopicsForPrompt(existingArticles);
-  const client = new Anthropic();
+  const model = createGeminiModel();
   const scored: RelevantArticle[] = [];
 
-  console.log(`Filtering ${candidates.length} candidates with Claude Haiku...\n`);
+  console.log(`Filtering ${candidates.length} candidates with Gemini Flash...\n`);
 
   // ── Step 2: AI filter each candidate ──
   for (const item of candidates) {
-    const result = await filterArticle(client, item, existingTopics);
+    const result = await filterArticle(model, item, existingTopics);
 
     if (!result || !result.relevant || result.confidence < 0.7) {
       const isDup = result?.isDuplicate === true;
