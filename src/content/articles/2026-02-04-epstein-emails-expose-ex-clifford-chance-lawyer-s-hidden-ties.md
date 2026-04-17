@@ -1,6 +1,6 @@
 ---
 title: "Epstein Emails Expose Ex-Clifford Chance Lawyer's Hidden Ties"
-publishedAt: "2026-02-14T03:07:15.000Z"
+publishedAt: "2026-02-04T03:07:15.000Z"
 source: "Law.com"
 sourceUrl: "https://www.law.com/international-edition/2026/02/04/epstein-files-show-regular-contact-with-ex-junior-clifford-chance-lawyer/"
 summary: "Congress began reading redacted names into the public record as DOJ officials pushed back, while a former Clifford Chance trainee was named in newly released Epstein documents."

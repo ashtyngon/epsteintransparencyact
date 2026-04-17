@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi Faces Contempt Threat After Skipping Epstein Deposition"
-publishedAt: "2026-04-15T14:00:00.000Z"
+publishedAt: "2026-04-08T14:51:00.000Z"
 source: "CNBC"
 sourceUrl: "https://www.cnbc.com/2026/04/08/jeffrey-epstein-pam-bondi-house-oversight.html"
 summary: "Former Attorney General Pam Bondi faces contempt proceedings after failing to appear for a House Oversight deposition on the Epstein files."
