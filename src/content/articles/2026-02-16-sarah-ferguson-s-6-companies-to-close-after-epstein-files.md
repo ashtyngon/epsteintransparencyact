@@ -11,7 +11,6 @@ people:
   - casey-wasserman
   - nancy-mace
   - pam-bondi
-  - prince-andrew
   - ro-khanna
   - thomas-massie
   - ghislaine-maxwell

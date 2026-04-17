@@ -9,6 +9,7 @@ people:
   - jeffrey-epstein
   - nancy-mace
   - ghislaine-maxwell
+  - robert-garcia
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - fbi-begins-epstein-records-review

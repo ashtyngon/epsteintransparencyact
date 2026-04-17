@@ -12,7 +12,6 @@ people:
   - leslie-wexner
   - pam-bondi
   - ro-khanna
-  - david-stern-advisor
   - joe-rogan
   - michael-ferro
   - peter-mandelson

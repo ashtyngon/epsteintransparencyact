@@ -9,7 +9,9 @@ people:
   - donald-trump
   - nancy-mace
   - jeffrey-epstein
-relatedArticles: []
+  - robert-garcia
+relatedArticles:
+  []
 tags:
   - political
   - transparency-act

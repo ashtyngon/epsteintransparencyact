@@ -7,7 +7,6 @@ summary: "No new criminal charges have emerged in the United States following th
 people:
   - prince-andrew
   - jeffrey-epstein
-  - prince-andrew
   - donald-trump
   - pam-bondi
   - nancy-mace

@@ -7,7 +7,6 @@ summary: "The Pritzker Architecture Prize, one of the field's most prestigious a
 people:
   - thomas-pritzker
   - jeffrey-epstein
-  - thomas-pritzker
   - joi-ito
   - ghislaine-maxwell
 relatedArticles:

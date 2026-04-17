@@ -6,7 +6,6 @@ sourceUrl: "https://www.theguardian.com/politics/live/2026/feb/22/uk-education-e
 summary: "Conservative Education Spokesperson Addresses Prince Andrew Succession Bill Priti Patel, the Conservative Party's education spokesperson, said her party would"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents

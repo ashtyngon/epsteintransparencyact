@@ -6,7 +6,6 @@ sourceUrl: "https://www.cbsnews.com/news/uk-government-prince-andrew-mountbatten
 summary: "U.K. Government Weighs Removal of Andrew Mountbatten-Windsor from Royal Succession Line The British government is considering removing Andrew"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
   - donald-trump
   - leslie-wexner

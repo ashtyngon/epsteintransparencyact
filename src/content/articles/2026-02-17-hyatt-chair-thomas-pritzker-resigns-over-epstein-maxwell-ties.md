@@ -12,6 +12,9 @@ people:
   - leslie-wexner
   - virginia-giuffre
   - prince-andrew
+  - robert-garcia
+  - james-comer
+  - hillary-clinton
 tags:
   - breaking
   - associates

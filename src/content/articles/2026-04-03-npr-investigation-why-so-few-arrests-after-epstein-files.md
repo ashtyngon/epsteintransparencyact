@@ -8,6 +8,7 @@ people:
   - jeffrey-epstein
   - ghislaine-maxwell
   - peter-mandelson
+  - prince-andrew
 relatedArticles:
   []
 tags:

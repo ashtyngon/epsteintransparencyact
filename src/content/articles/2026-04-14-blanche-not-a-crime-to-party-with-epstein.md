@@ -6,7 +6,10 @@ sourceUrl: "https://thehill.com/homenews/administration/5719992-doj-todd-blanche
 summary: "Acting Attorney General Todd Blanche stated on Fox News that 'it isn't a crime to party with Mr. Epstein,' sparking outrage from survivors, Democrats, and the public."
 people:
   - jeffrey-epstein
-relatedArticles: []
+  - gloria-allred
+  - robert-garcia
+relatedArticles:
+  []
 tags:
   - political
   - breaking

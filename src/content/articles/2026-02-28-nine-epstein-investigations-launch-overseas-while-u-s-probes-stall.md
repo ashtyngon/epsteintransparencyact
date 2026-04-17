@@ -9,6 +9,8 @@ people:
   - nancy-mace
   - donald-trump
   - bill-clinton
+  - robert-garcia
+  - hillary-clinton
 relatedArticles:
   - 2026-02-24-rep-mace-epstein-files-reveal-much-bigger-criminal-network
   - 2026-02-24-rep-garcia-doj-withheld-fbi-interviews-with-trump-accuser-in-epstein-files

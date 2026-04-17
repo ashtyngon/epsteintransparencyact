@@ -9,7 +9,6 @@ people:
   - peter-mandelson
   - jeffrey-epstein
   - cherie-blair
-  - prince-andrew
   - marjorie-taylor-greene
 tags:
   - document-release

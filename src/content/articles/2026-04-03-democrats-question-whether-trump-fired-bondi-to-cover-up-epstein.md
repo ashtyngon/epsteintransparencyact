@@ -8,7 +8,10 @@ people:
   - pam-bondi
   - donald-trump
   - jeffrey-epstein
-relatedArticles: []
+  - robert-garcia
+  - james-comer
+relatedArticles:
+  []
 tags:
   - political
   - investigation

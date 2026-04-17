@@ -7,6 +7,7 @@ summary: "Peter Mandelson's trajectory from UK ambassador to the United States t
 people:
   - peter-mandelson
   - jeffrey-epstein
+  - keir-starmer
 relatedArticles:
   - 2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation
   - 2026-02-16-mandelson-epstein-emails-expose-uk-lobbying-system-failures

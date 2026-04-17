@@ -9,6 +9,7 @@ people:
   - donald-trump
   - nancy-mace
   - ghislaine-maxwell
+  - robert-garcia
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-24-rep-mace-epstein-files-reveal-much-bigger-criminal-network

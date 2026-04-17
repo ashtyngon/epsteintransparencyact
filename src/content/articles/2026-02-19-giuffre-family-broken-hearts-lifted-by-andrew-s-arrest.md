@@ -9,7 +9,6 @@ people:
   - virginia-giuffre
   - prince-andrew
   - jeffrey-epstein
-  - prince-andrew
   - ghislaine-maxwell
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-on-document-sharing-charges-in-epstein-case

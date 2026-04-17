@@ -7,7 +7,11 @@ summary: "Three senior House Democrats wrote to Attorney General Pam Bondi with 
 people:
   - jeffrey-epstein
   - pam-bondi
-relatedArticles: []
+  - pramila-jayapal
+  - jamie-raskin
+  - robert-garcia
+relatedArticles:
+  []
 tags:
   - transparency-act
   - political

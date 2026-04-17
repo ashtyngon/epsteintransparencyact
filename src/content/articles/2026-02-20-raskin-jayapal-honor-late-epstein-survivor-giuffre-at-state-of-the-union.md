@@ -12,6 +12,7 @@ people:
   - donald-trump
   - ghislaine-maxwell
   - prince-andrew
+  - gordon-brown
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - fbi-begins-epstein-records-review

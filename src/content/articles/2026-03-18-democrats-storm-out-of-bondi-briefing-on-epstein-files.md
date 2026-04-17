@@ -9,7 +9,9 @@ people:
   - donald-trump
   - jeffrey-epstein
   - james-comer
-relatedArticles: []
+  - robert-garcia
+relatedArticles:
+  []
 tags:
   - political
   - testimony

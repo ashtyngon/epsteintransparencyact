@@ -9,6 +9,7 @@ people:
   - kathryn-ruemmler
   - jeffrey-epstein
   - bill-clinton
+  - hillary-clinton
 tags:
   - investigation
   - testimony

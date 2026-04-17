@@ -7,7 +7,9 @@ summary: "Epstein survivors and their attorneys reacted to Pam Bondi's firing, w
 people:
   - pam-bondi
   - jeffrey-epstein
-relatedArticles: []
+  - gloria-allred
+relatedArticles:
+  []
 tags:
   - survivors
   - victims

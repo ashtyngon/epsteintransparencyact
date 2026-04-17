@@ -7,6 +7,7 @@ summary: "UK Prime Minister Keir Starmer faces renewed pressure after reports th
 people:
   - peter-mandelson
   - jeffrey-epstein
+  - keir-starmer
 relatedArticles:
   - 2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation
 tags:

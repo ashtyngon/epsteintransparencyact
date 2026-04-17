@@ -6,10 +6,10 @@ sourceUrl: "https://www.axios.com/2026/02/19/prince-andrew-virginia-giuffre-epst
 summary: "Andrew Mountbatten-Windsor's arrest on Thursday has drawn renewed attention to Virginia Giuffre, whose civil lawsuit against the former prince helped establish"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell
+  - gordon-brown
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents
   - 2026-02-22-police-widen-prince-andrew-investigation-after-epstein-files-arrest

@@ -16,6 +16,7 @@ people:
   - prince-andrew
   - ro-khanna
   - thomas-massie
+  - juliette-bryant
 relatedArticles:
   - 2026-02-15-bondi-named-dead-celebrities-in-epstein-email-list
   - 2026-02-13-fbi-explains-why-epstein-files-remain-heavily-redacted

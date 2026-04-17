@@ -9,7 +9,6 @@ people:
   - jeffrey-epstein
   - princess-eugenie
   - donald-trump
-  - prince-andrew
   - virginia-giuffre
   - ghislaine-maxwell
 relatedArticles:

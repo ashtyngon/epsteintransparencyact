@@ -12,6 +12,7 @@ people:
   - leslie-wexner
   - pam-bondi
   - ro-khanna
+  - robert-garcia
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-khanna-demands-names-after-major-epstein-associate-steps-down

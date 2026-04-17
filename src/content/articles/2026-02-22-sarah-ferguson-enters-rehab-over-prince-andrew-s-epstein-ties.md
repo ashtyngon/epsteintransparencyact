@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell
+  - princess-eugenie
 relatedArticles:
   - 2026-02-22-police-widen-prince-andrew-investigation-after-epstein-files-arrest
 tags:

@@ -6,7 +6,6 @@ sourceUrl: "https://www.nytimes.com/2026/02/21/world/europe/andrew-epstein-queen
 summary: "Queen Elizabeth Defended Andrew Through Epstein Scandal; King Charles Withdraws Support After Arrest King Charles III has withdrawn royal support from his"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
   - thomas-massie

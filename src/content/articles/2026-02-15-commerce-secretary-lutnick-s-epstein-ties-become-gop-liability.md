@@ -13,6 +13,8 @@ people:
   - marjorie-taylor-greene
   - peter-mandelson
   - thomas-massie
+  - robert-garcia
+  - james-comer
 relatedArticles:
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe

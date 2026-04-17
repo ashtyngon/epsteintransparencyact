@@ -6,9 +6,9 @@ sourceUrl: "https://www.theguardian.com/commentisfree/2026/feb/22/andrew-mountba
 summary: "A member of the British royal family was arrested this week in the United Kingdom on suspicion of misconduct in public office related to communications with"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
+  - gordon-brown
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - fbi-begins-epstein-records-review

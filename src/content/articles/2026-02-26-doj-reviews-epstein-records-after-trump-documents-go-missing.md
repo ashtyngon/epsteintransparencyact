@@ -7,6 +7,7 @@ summary: "The Department of Justice has launched a review to determine whether a
 people:
   - jeffrey-epstein
   - donald-trump
+  - robert-garcia
 relatedArticles:
   - 2026-02-24-rep-garcia-doj-withheld-fbi-interviews-with-trump-accuser-in-epstein-files
 tags:

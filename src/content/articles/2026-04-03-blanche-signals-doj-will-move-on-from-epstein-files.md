@@ -7,7 +7,9 @@ summary: "Newly installed Acting Attorney General Todd Blanche declared the DOJ 
 people:
   - jeffrey-epstein
   - pam-bondi
-relatedArticles: []
+  - robert-garcia
+relatedArticles:
+  []
 tags:
   - political
   - transparency-act

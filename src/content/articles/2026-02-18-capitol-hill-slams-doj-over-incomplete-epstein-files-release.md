@@ -9,6 +9,7 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - donald-trump
+  - robert-garcia
 tags:
   - transparency-act
   - document-release

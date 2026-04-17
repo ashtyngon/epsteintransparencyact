@@ -7,7 +7,6 @@ summary: "Former British Prime Minister Gordon Brown has called for a police inv
 people:
   - gordon-brown
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents

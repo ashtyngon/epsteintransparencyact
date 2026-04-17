@@ -6,7 +6,6 @@ sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/20/police-quiz-former-p
 summary: "Scotland Yard is contacting all former protection officers who worked with Prince Andrew and reviewing airport flight records as part of the Epstein investigation."
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
 relatedArticles:

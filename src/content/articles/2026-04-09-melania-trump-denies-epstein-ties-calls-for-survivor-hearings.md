@@ -9,7 +9,9 @@ people:
   - jeffrey-epstein
   - ghislaine-maxwell
   - james-comer
-relatedArticles: []
+  - gloria-allred
+relatedArticles:
+  []
 tags:
   - political
   - survivors

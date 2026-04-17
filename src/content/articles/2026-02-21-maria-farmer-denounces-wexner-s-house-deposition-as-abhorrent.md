@@ -8,7 +8,6 @@ image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26048785881271-
 people:
   - maria-farmer
   - leslie-wexner
-  - leslie-wexner
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-18-wexner-tells-congress-he-was-duped-by-epstein-in-testimony

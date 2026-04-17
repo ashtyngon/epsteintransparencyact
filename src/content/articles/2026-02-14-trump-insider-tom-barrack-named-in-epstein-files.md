@@ -9,6 +9,7 @@ people:
   - donald-trump
   - jeffrey-epstein
   - pam-bondi
+  - peter-thiel
 relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release

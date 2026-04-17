@@ -12,6 +12,7 @@ people:
   - marjorie-taylor-greene
   - virginia-giuffre
   - prince-andrew
+  - juliette-bryant
 relatedArticles:
   - 2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die
 tags:

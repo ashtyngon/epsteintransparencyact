@@ -9,6 +9,7 @@ people:
   - prince-andrew
   - thomas-massie
   - leslie-wexner
+  - maria-farmer
 relatedArticles:
   - 2026-02-22-police-widen-prince-andrew-investigation-after-epstein-files-arrest
   - 2026-02-22-uk-mp-seeks-treason-probe-into-prince-andrew-over-epstein

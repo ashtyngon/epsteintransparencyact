@@ -8,7 +8,9 @@ people:
   - donald-trump
   - jeffrey-epstein
   - ghislaine-maxwell
-relatedArticles: []
+  - james-comer
+relatedArticles:
+  []
 tags:
   - political
 keyTakeaways:

@@ -7,7 +7,6 @@ summary: "Maria Farmer, an Epstein survivor, has condemned testimony given by bi
 people:
   - maria-farmer
   - leslie-wexner
-  - leslie-wexner
   - jeffrey-epstein
   - ghislaine-maxwell
 relatedArticles:

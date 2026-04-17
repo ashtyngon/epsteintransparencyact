@@ -9,6 +9,7 @@ people:
   - jeffrey-epstein
   - nancy-mace
   - donald-trump
+  - james-comer
 relatedArticles:
   []
 tags:

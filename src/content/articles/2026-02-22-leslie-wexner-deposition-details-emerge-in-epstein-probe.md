@@ -7,6 +7,7 @@ summary: "A deposition of Les Wexner, the billionaire founder of Victoria's Secr
 people:
   - leslie-wexner
   - jeffrey-epstein
+  - maria-farmer
 relatedArticles:
   - 2026-02-18-wexner-tells-congress-he-was-duped-by-epstein-in-testimony
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties

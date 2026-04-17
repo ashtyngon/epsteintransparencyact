@@ -6,7 +6,6 @@ sourceUrl: "https://www.bbc.com/news/articles/cz9qkjvg033o?at_medium=RSS&at_camp
 summary: "Metropolitan Police officers assigned to protect Prince Andrew were instructed to guard Jeffrey Epstein's London residence, according to emails disclosed by"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell

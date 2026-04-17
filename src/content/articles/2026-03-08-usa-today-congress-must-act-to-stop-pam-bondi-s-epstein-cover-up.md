@@ -17,6 +17,8 @@ relatedArticles:
   - 2026-03-04-house-panel-subpoenas-bill-gates-kathryn-ruemmler-in-epstein-probe
   - 2026-03-05-pam-bondi-subpoenaed-to-testify-on-epstein-case-handling
   - epstein-transparency-act-signed-into-law
+  - 2026-03-06-guardian-epstein-files-reveal-sydney-connections-secret-fbi-trip
+  - 2026-03-06-bloomberg-secret-dea-probe-examined-epstein-ketamine-prostitution-ring
 tags:
   - political
   - testimony

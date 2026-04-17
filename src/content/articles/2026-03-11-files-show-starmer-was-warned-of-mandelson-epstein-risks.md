@@ -7,7 +7,9 @@ summary: "Newly released UK government files reveal Prime Minister Keir Starmer 
 people:
   - peter-mandelson
   - jeffrey-epstein
-relatedArticles: []
+  - keir-starmer
+relatedArticles:
+  []
 tags:
   - political
   - document-release

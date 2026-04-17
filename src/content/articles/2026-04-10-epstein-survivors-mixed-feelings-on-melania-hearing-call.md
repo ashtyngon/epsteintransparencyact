@@ -8,6 +8,8 @@ people:
   - donald-trump
   - jeffrey-epstein
   - pam-bondi
+  - gloria-allred
+  - james-comer
 relatedArticles:
   []
 tags:

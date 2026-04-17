@@ -8,6 +8,8 @@ people:
   - pam-bondi
   - jeffrey-epstein
   - ghislaine-maxwell
+  - robert-garcia
+  - james-comer
 relatedArticles:
   []
 tags:

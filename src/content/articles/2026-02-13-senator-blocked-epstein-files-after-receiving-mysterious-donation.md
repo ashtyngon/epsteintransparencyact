@@ -9,6 +9,7 @@ people:
   - jeffrey-epstein
   - leslie-wexner
   - donald-trump
+  - chuck-schumer
 relatedArticles:
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches

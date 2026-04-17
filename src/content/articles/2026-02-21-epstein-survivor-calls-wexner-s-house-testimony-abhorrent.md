@@ -6,7 +6,6 @@ sourceUrl: "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnJhbG9JVVdtcDZ
 summary: "An attorney for Jeffrey Epstein survivors called billionaire Les Wexner's recent closed-door congressional testimony \"abhorrent,\" while a survivor who voted"
 people:
   - leslie-wexner
-  - leslie-wexner
   - jeffrey-epstein
   - donald-trump
   - ro-khanna

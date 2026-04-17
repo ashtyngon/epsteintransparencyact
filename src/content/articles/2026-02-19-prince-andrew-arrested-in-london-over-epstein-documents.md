@@ -6,7 +6,6 @@ sourceUrl: "https://abcnews.com/International/video/andrew-mountbatten-windsor-a
 summary: "U.S. Lawmakers Demand Domestic Charges After Prince Andrew Arrest The arrest of Prince Andrew in London on Thursday has prompted members of Congress to"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
   - ghislaine-maxwell
   - leslie-wexner

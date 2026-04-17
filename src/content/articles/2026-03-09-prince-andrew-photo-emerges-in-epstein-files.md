@@ -7,7 +7,6 @@ summary: "A previously unpublished photograph from the Epstein case files shows 
 people:
   - prince-andrew
   - jeffrey-epstein
-  - prince-andrew
   - virginia-giuffre
   - ghislaine-maxwell
 tags:

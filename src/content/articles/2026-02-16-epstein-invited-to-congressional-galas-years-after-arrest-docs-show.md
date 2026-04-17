@@ -19,6 +19,7 @@ people:
   - steve-bannon
   - thomas-massie
   - howard-lutnick
+  - chuck-schumer
 relatedArticles:
   - 2026-02-13-how-elite-immunity-protected-epstein-nyt-investigation-reveals
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe

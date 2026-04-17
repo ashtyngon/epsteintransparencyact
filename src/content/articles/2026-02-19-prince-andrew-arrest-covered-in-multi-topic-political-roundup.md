@@ -6,7 +6,6 @@ sourceUrl: "https://www.axios.com/2026/02/19/prince-andrew-yoon-suk-yeol-epstein
 summary: "British authorities arrested Andrew Mountbatten-Windsor, formerly known as Prince Andrew, on Thursday over his ties to Jeffrey Epstein, according to Axios. The"
 people:
   - prince-andrew
-  - prince-andrew
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents

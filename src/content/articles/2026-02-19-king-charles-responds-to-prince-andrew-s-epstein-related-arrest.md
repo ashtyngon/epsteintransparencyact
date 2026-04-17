@@ -7,7 +7,6 @@ summary: "King Charles III responded to the arrest of his brother Prince Andrew 
 people:
   - prince-andrew
   - jeffrey-epstein
-  - prince-andrew
   - virginia-giuffre
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-on-document-sharing-charges-in-epstein-case

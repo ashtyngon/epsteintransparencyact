@@ -9,6 +9,7 @@ people:
   - donald-trump
   - marjorie-taylor-greene
   - ghislaine-maxwell
+  - robert-garcia
 tags:
   - survivors
   - political

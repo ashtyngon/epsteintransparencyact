@@ -9,7 +9,6 @@ people:
   - jeffrey-epstein
   - virginia-giuffre
   - prince-andrew
-  - prince-andrew
   - bill-gates
   - leslie-wexner
 tags:

@@ -13,6 +13,8 @@ people:
   - kathryn-ruemmler
   - sultan-ahmed-bin-sulayem
   - thomas-massie
+  - jamie-raskin
+  - pramila-jayapal
 relatedArticles:
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act

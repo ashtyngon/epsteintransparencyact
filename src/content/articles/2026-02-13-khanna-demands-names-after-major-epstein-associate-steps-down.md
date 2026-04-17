@@ -13,6 +13,7 @@ people:
   - pam-bondi
   - kathryn-ruemmler
   - thomas-massie
+  - jamie-raskin
 relatedArticles:
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release

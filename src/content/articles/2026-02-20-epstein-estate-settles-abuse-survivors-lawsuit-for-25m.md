@@ -7,6 +7,7 @@ summary: "The co-executors of Jeffrey Epstein's estate agreed to settle a class 
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - richard-kahn
 tags:
   - court-documents
   - victims

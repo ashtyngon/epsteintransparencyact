@@ -7,6 +7,8 @@ summary: "Les Wexner, the 88-year-old founder of Victoria's Secret, testified be
 people:
   - leslie-wexner
   - jeffrey-epstein
+  - robert-garcia
+  - james-comer
 tags:
   - testimony
   - associates

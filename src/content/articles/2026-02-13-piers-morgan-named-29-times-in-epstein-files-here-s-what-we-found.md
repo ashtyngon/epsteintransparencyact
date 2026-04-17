@@ -12,6 +12,7 @@ people:
   - joe-rogan
   - ghislaine-maxwell
   - donald-trump
+  - richard-kahn
 relatedArticles:
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed

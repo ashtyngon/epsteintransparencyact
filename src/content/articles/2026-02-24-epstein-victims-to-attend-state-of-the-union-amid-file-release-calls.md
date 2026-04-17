@@ -9,6 +9,7 @@ people:
   - donald-trump
   - nancy-mace
   - ghislaine-maxwell
+  - robert-garcia
 relatedArticles:
   - 2026-02-24-rep-garcia-doj-withheld-fbi-interviews-with-trump-accuser-in-epstein-files
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release

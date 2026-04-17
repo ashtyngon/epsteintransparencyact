@@ -15,6 +15,7 @@ people:
   - joe-rogan
   - peter-mandelson
   - kathryn-ruemmler
+  - robert-garcia
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me

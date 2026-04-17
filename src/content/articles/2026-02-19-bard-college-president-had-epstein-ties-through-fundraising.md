@@ -12,6 +12,7 @@ people:
   - bill-gates
   - prince-andrew
   - naomi-campbell
+  - keir-starmer
 relatedArticles:
   - 2026-02-19-epstein-used-arts-camp-donations-to-access-teen-victims-npr-docs-show
   - 2026-02-18-wexner-tells-congress-he-was-duped-by-epstein-in-testimony

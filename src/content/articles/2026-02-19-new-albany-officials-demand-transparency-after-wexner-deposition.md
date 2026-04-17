@@ -7,7 +7,6 @@ summary: "Local officials in New Albany, Ohio are facing calls for greater trans
 people:
   - leslie-wexner
   - jeffrey-epstein
-  - leslie-wexner
   - ghislaine-maxwell
 relatedArticles:
   - 2026-02-18-wexner-tells-congress-he-was-duped-by-epstein-in-testimony
