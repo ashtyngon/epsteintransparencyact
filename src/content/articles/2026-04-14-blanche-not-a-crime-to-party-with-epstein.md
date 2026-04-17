@@ -1,7 +1,7 @@
 ---
 title: "Acting AG Blanche: 'Not a Crime to Party' With Epstein"
 publishedAt: "2026-04-14T20:00:00.000Z"
-source: "The Hill"
+source: "Newsweek"
 sourceUrl: "https://thehill.com/homenews/administration/5719992-doj-todd-blanche-epstein-files-parties/"
 summary: "Acting Attorney General Todd Blanche stated on Fox News that 'it isn't a crime to party with Mr. Epstein,' sparking outrage from survivors, Democrats, and the public."
 people:
@@ -29,7 +29,7 @@ Blanche made the remark during a segment in which he was asked about political p
 
 During the Fox News appearance, Blanche reiterated his position that the Department of Justice had completed its obligations under the Epstein Files Transparency Act and that no further documents needed to be released.
 
-"Look, it isn't a crime to party with Mr. Epstein," Blanche said. "A lot of people went to events, a lot of people were in the same rooms. That does not make them criminals. The department has done its job, and it is time for the country to move forward."<sup>[1](#ref-1)</sup>
+"Look, it isn't a crime to party with Mr. Epstein," Blanche said. <sup>[1](#ref-1)</sup>
 
 The statement was immediately seized upon by critics who said the acting attorney general was minimizing the severity of Epstein's crimes and the culpability of those who enabled them.
 
@@ -41,9 +41,7 @@ The Survivors of Epstein Network called the remark "an insult to every victim" a
 
 "Jeffrey Epstein did not just throw parties," the organization said in a statement. "He ran a sex trafficking operation that destroyed lives. For the acting attorney general to reduce this to 'partying' is dismissive and dangerous."
 
-Attorney Gloria Allred, who represents multiple Epstein survivors, told Newsweek that Blanche's comment reflected "a fundamental misunderstanding — or a deliberate mischaracterization — of what happened to these victims."<sup>[2](#ref-2)</sup>
-
-"The people at those events were not at cocktail parties," Allred said. "They were at gatherings where minors were being exploited."<sup>[2](#ref-2)</sup>
+Attorney Gloria Allred, who represents multiple Epstein survivors, told Newsweek that Blanche's comment reflected "They were at gatherings where minors were being exploited."<sup>[2](#ref-2)</sup>
 
 ## Political Fallout
 

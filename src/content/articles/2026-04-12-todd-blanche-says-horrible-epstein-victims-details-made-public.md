@@ -36,7 +36,7 @@ The lawsuit, filed in federal court, alleges that the DOJ failed to implement ad
 
 Attorneys representing the survivors said the number of plaintiffs had grown steadily since the initial filing and could increase further as more individuals discovered that their personal information appeared in the released materials.
 
-"These are people who spent years fighting to keep their identities private, and in many cases obtained court orders to that effect," said an attorney for the plaintiffs. "The DOJ's carelessness has undone all of that protection."
+"The DOJ's carelessness has undone all of that protection."
 
 Blanche acknowledged that the redaction process had failed in a number of cases and said the department was conducting an internal review to determine how the errors occurred. He did not commit to a specific timeline for completing the review.<sup>[1](#ref-1)</sup>
 

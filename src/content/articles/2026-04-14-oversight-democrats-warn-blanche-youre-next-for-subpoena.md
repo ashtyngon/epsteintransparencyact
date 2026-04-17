@@ -1,7 +1,7 @@
 ---
 title: "Oversight Democrats Warn Blanche: 'You're Next' for Subpoena"
 publishedAt: "2026-04-14T22:00:00.000Z"
-source: "MS Now"
+source: "Courthouse News Service"
 sourceUrl: "https://www.courthousenews.com/democrats-blast-bondi-for-dodging-house-deposition/"
 summary: "After Bondi skipped her April 14 deposition, top Oversight Democrats warned Acting AG Blanche he could be the next subpoena target and characterized the non-appearance as obstruction."
 people:

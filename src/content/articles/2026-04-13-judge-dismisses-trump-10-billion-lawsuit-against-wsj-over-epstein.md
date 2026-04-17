@@ -38,7 +38,7 @@ The case was dismissed without prejudice, meaning Trump's legal team has the opt
 
 ## Background of the Suit
 
-Trump filed the lawsuit in early 2026, claiming that the Journal's coverage falsely implied a deeper relationship with Epstein than the social acquaintance he has acknowledged. The suit named both the newspaper and Murdoch personally, seeking $10 billion in damages.
+Trump filed the lawsuit in July 2025, claiming that the Journal's coverage falsely implied a deeper relationship with Epstein than the social acquaintance he has acknowledged. The suit named both the newspaper and Murdoch personally, seeking $10 billion in damages.
 
 The complaint cited several specific articles that discussed Trump's appearances in Epstein's contact books, flight records showing Trump on Epstein's aircraft, and testimony from witnesses who described interactions between the two men at social events in New York and Florida.
 
@@ -52,7 +52,7 @@ Al Jazeera noted that the dismissal came at a politically sensitive moment, as t
 
 First Amendment scholars said the ruling reinforced the high bar public figures face when bringing defamation claims against media organizations.
 
-"This ruling is entirely consistent with decades of First Amendment jurisprudence," said one media law professor. "When reporting is based on public documents, the actual malice standard is very difficult to meet."
+"When reporting is based on public documents, the actual malice standard is very difficult to meet."
 
 Trump spokesperson did not immediately respond to requests for comment on the ruling. A spokesperson for the Wall Street Journal said the paper stood by its reporting.
 

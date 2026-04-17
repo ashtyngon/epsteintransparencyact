@@ -49,7 +49,7 @@ Black has maintained that his payments to Epstein were for legitimate profession
 
 However, that review was conducted before the more recent document releases under the Epstein Files Transparency Act, which provided additional financial records and communications.
 
-A spokesperson for Black did not immediately respond to requests for comment on Wyden's deadline. Black stepped down as Apollo's CEO in 2021 amid scrutiny of his Epstein ties but remains the firm's chairman.
+A spokesperson for Black did not immediately respond to requests for comment on Wyden's deadline. Black stepped down as Apollo's CEO in 2021 amid scrutiny of his Epstein ties and also gave up the chairman role. Jay Clayton succeeded him as chairman.
 
 ## Implications
 

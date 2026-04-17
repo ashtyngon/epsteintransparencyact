@@ -16,7 +16,7 @@ tags:
   - political
 keyTakeaways:
   - "Prince Edward and Princess Anne visited Prince Andrew over Easter and were 'very worried about his state of mind.'"
-  - "Andrew has been stripped of his royal titles and evicted from Royal Lodge."
+  - "Andrew has been stripped of his HRH styling and military affiliations and evicted from Royal Lodge."
   - "He is now living at Marsh Farm on the Sandringham estate, increasingly isolated from public life."
   - "Continuing Epstein-related revelations have compounded his personal and reputational decline."
 status: published
@@ -41,7 +41,7 @@ Sources described Andrew's living situation as modest by royal standards and sai
 
 Andrew's situation has deteriorated significantly in 2026 as successive rounds of Epstein document releases under the Transparency Act have produced new details about his interactions with Epstein and members of Epstein's circle.
 
-In March, the DOJ released a photograph showing Andrew alongside Peter Mandelson and Epstein. Separate documents revealed allegations of a massage incident involving Andrew at one of Epstein's properties. Princess Eugenie, Andrew's daughter, lost an anti-slavery charity patronage as a direct result of the revelations.
+In March, the DOJ released a photograph showing Andrew alongside Peter Mandelson and Epstein. Princess Eugenie, Andrew's daughter, lost an anti-slavery charity patronage as a direct result of the revelations.
 
 The Carolina Political Review reported that Andrew's position within the royal family had become "untenable" and that discussions about his future were now focused on managing the personal toll rather than any possibility of rehabilitation.<sup>[2](#ref-2)</sup>
 
