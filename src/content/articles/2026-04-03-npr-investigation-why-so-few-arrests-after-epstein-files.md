@@ -46,7 +46,7 @@ While arrests have not materialized in the United States, the files have produce
 
 ## UK Provides Contrast
 
-The contrast with the United Kingdom has drawn attention from lawmakers and advocacy groups. British police arrested **Peter Mandelson**, a former Labour cabinet minister, in connection with allegations that emerged from the Epstein files. The arrest marked the first time a high-profile political figure faced criminal proceedings directly tied to the released documents.<sup>[1](#ref-1)</sup>
+The contrast with the United Kingdom has drawn attention from lawmakers and advocacy groups. British police arrested **Peter Mandelson**, a former Labour cabinet minister, on suspicion of misconduct in public office related to passing sensitive government information to Epstein. The arrest marked among the first high-profile figures to face criminal proceedings tied to the released documents, alongside Prince Andrew, who was arrested the same month.<sup>[1](#ref-1)</sup>
 
 Members of Congress from both parties have pointed to the UK arrest as evidence that prosecutions are possible when law enforcement agencies are willing to act on the information contained in the files.
 

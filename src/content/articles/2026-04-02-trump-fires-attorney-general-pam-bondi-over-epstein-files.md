@@ -1,7 +1,7 @@
 ---
 title: "Trump Fires Attorney General Pam Bondi Over Epstein Files Handling"
 publishedAt: "2026-04-02T20:00:00.000Z"
-source: "Washington Post"
+source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/politics/justice-department/bondi-fired-attorney-general-rcna266378"
 summary: "President Trump fired Attorney General Pam Bondi on April 2, citing dissatisfaction with her handling of DOJ's Epstein-related document releases under the transparency act she oversaw."
 people:

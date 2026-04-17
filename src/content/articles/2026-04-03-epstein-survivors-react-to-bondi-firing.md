@@ -35,7 +35,7 @@ Attorney **Gloria Allred**, who represents multiple Epstein survivors, called Bo
 
 "She had the power to do the right thing, and she chose not to," Michaels said. However, Michaels said she held no optimism that acting Attorney General Todd Blanche would be any better. "We have no reason to believe anything is going to change."<sup>[1](#ref-1)</sup>
 
-**Danielle Bensky**, another survivor who recently spoke publicly about having her identity exposed through DOJ document releases, told Fox Baltimore that she felt the department was "gaslighting" victims.<sup>[2](#ref-2)</sup>
+**Danielle Bensky**, another survivor who recently spoke publicly about having her identity exposed through DOJ document releases, told Fox Baltimore that she felt the department was failing victims.<sup>[2](#ref-2)</sup>
 
 "They tell us they are protecting us while they release our names," Bensky said. "They tell us they are pursuing justice while they close investigations. At some point, you have to call it what it is."<sup>[2](#ref-2)</sup>
 

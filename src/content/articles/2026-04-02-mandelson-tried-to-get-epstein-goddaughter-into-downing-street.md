@@ -50,7 +50,7 @@ The revelation adds to a growing body of evidence showing how Epstein leveraged 
 
 Mandelson's connections to Epstein have been a subject of intense public interest in recent months. Documents released earlier in 2026 showed Mandelson visited Epstein's properties on multiple occasions, and a photograph of Mandelson and Prince Andrew together with Epstein was published by the DOJ in March.<sup>[2](#ref-2)</sup>
 
-The UK government said in March that Prime Minister Keir Starmer "deeply regrets" appointing Mandelson as the UK's trade envoy to the United States, a position he assumed before the full extent of his Epstein contacts became public.
+The UK government said in March that Prime Minister Keir Starmer "deeply regrets" appointing Mandelson as the UK's ambassador to the United States, a position he assumed before the full extent of his Epstein contacts became public.
 
 The Metropolitan Police has said it is examining the Epstein files for any evidence of criminal conduct on British soil. Mandelson has not been accused of any crime and has said his interactions with Epstein were limited to professional and social settings.
 

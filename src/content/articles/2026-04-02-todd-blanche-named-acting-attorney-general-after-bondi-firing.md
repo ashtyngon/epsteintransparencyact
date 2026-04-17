@@ -53,7 +53,7 @@ Other names reportedly under consideration included several current and former f
 
 ## Reaction
 
-Senate Judiciary Committee Chairman Dick Durbin (D-IL) said the appointment of Trump's former personal attorney as the nation's top law enforcement official raised "serious questions about the independence of the Justice Department."
+Senate Judiciary Committee ranking member Dick Durbin (D-IL) said the appointment of Trump's former personal attorney as the nation's top law enforcement official raised "serious questions about the independence of the Justice Department."
 
 Republican allies of the president defended the move, saying Blanche was a qualified attorney who had already been confirmed by the Senate for the deputy AG position.
 
