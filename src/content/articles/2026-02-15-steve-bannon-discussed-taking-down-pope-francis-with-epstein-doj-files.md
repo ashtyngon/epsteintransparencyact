@@ -7,7 +7,6 @@ summary: "Steve Bannon messaged Jeffrey Epstein about plans to 'take down' Pope 
 people:
   - steve-bannon
   - jeffrey-epstein
-  - pope-francis
   - pam-bondi
   - noam-chomsky
 relatedArticles:

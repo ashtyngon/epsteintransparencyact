@@ -6,7 +6,6 @@ sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mornin
 summary: "Joe Scarborough criticized Republican lawmakers for their response to the Epstein case, calling them 'morally bankrupt' as Prince Andrew faced arrest in the UK."
 people:
   - prince-andrew
-  - joe-scarborough
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-on-document-sharing-charges-in-epstein-case

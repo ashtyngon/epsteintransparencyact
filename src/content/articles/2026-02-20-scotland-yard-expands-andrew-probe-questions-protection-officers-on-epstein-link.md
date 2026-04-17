@@ -5,9 +5,8 @@ source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/20/police-quiz-former-prince-andrew-protection-officers-over-epstein-links"
 summary: "Scotland Yard is contacting all former protection officers who worked with Prince Andrew and reviewing airport flight records as part of the Epstein investigation."
 people:
-  - andrew-mountbatten-windsor
   - prince-andrew
-  - king-charles-iii
+  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
 relatedArticles:

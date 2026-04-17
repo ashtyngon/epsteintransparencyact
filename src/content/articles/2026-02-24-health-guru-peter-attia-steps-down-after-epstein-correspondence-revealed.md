@@ -6,7 +6,6 @@ sourceUrl: "https://www.independent.co.uk/news/world/americas/peter-attia-cbs-ba
 summary: "Peter Attia, a physician and health podcaster, has stepped down from his role at CBS News after correspondence between him and Jeffrey Epstein became public,"
 people:
   - peter-attia
-  - bari-weiss
   - jeffrey-epstein
   - ghislaine-maxwell
 relatedArticles:

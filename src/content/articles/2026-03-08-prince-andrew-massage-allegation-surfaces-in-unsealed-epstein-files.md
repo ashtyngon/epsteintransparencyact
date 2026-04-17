@@ -5,7 +5,7 @@ source: "Perspective Media"
 sourceUrl: "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3VhQUxIT05USXZYTVRXLUkyaFZUU3ZTM2NjYjdKbFFDUUNvWEJIdG15OUl1MmlxRnAyRURGNV9VcnRnVHFQYnR6VkdvbHU0TG9pRkZXQkpSSnJYdG9jdEJnUHNPa1c3aDJfODhQeFZMY09Bbl9iMXB5UWlnRncxeXE5MUNlMkctV3FRb0ozdjJCVGdhS0RLVzRxWTBjVUxObW9XQQ?oc=5"
 summary: "A woman told FBI agents that Andrew Mountbatten-Windsor massaged her, according to documents released as part of the Justice Department's disclosure of Jeffrey"
 people:
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - princess-eugenie
   - donald-trump

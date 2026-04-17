@@ -7,7 +7,7 @@ summary: "The family of Virginia Giuffre released a statement Thursday following
 image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26050372156316-e1771504887120.jpg?w=900"
 people:
   - virginia-giuffre
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - prince-andrew
   - ghislaine-maxwell

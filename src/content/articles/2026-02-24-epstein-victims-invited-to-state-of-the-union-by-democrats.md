@@ -6,7 +6,6 @@ sourceUrl: "https://www.nytimes.com/2026/02/24/us/politics/state-of-the-union-gu
 summary: "Democratic members of Congress have invited survivors of Jeffrey Epstein's abuse to attend President Donald Trump's State of the Union address on Tuesday"
 people:
   - jeffrey-epstein
-  - erika-kirk
   - donald-trump
   - nancy-mace
   - ghislaine-maxwell

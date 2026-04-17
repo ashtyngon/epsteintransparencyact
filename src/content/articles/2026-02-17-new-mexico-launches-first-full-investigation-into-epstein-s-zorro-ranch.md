@@ -6,7 +6,6 @@ sourceUrl: "https://www.axios.com/2026/02/17/epstein-new-mexico-ranch-state-hous
 summary: "New Mexico lawmakers voted unanimously to launch the first full investigation into Jeffrey Epstein's Zorro Ranch, creating a 'Truth Commission' to seek survivor testimony."
 people:
   - jeffrey-epstein
-  - andrea-romero
   - nancy-mace
   - pam-bondi
 relatedArticles:

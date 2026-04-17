@@ -7,7 +7,7 @@ summary: "Rep. Mike Garcia R-Calif. called the Epstein files scandal \"infinitel
 people:
   - jeffrey-epstein
   - pam-bondi
-  - garcia
+  - robert-garcia
   - thomas-massie
   - nancy-mace
   - donald-trump

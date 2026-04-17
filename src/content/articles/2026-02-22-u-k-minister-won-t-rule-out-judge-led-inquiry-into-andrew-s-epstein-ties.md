@@ -6,7 +6,7 @@ sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/22/inquiry-into-former-
 summary: "Police continued searching Prince Andrew's former residence at Royal Lodge on the Windsor estate Sunday, while a U.K. government minister said a judge-led"
 people:
   - prince-andrew
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - bridget-phillipson
 relatedArticles:

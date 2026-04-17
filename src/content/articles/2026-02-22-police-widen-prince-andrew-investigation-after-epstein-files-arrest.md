@@ -6,7 +6,7 @@ sourceUrl: "https://www.cbsnews.com/video/details-investigation-former-prince-an
 summary: "Police in the United Kingdom have expanded their investigation into former Prince Andrew following his arrest in connection with the Epstein case, according to"
 people:
   - prince-andrew
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell

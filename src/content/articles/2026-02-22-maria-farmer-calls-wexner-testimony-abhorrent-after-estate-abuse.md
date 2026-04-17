@@ -6,7 +6,7 @@ sourceUrl: "https://www.independent.co.uk/news/world/americas/maria-farmer-epste
 summary: "Maria Farmer, an Epstein survivor, has condemned testimony given by billionaire Leslie Wexner before the House Oversight Committee, calling his statements"
 people:
   - maria-farmer
-  - les-wexner
+  - leslie-wexner
   - leslie-wexner
   - jeffrey-epstein
   - ghislaine-maxwell

@@ -6,7 +6,7 @@ sourceUrl: "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS0hhM3EyTzJwWnV
 summary: "A British Member of Parliament has called for a treason investigation into Prince Andrew over his ties to convicted sex offender Jeffrey Epstein, while the UK"
 people:
   - prince-andrew
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell

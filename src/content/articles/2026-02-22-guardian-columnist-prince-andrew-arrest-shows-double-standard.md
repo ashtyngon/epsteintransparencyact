@@ -5,7 +5,7 @@ source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/commentisfree/2026/feb/22/andrew-mountbatten-windsor-epstein-us-men"
 summary: "A British government official stated \"nobody is above the law\" following the arrest of Andrew Mountbatten-Windsor on suspicion of misconduct in public office"
 people:
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre

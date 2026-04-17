@@ -5,7 +5,7 @@ source: "10tv.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1RWODVlUmtUSDk3OERRblZyWHp1eWc4U19wU3A4UmMxTGxCS0FvOVVRRkQ5LUU2OTZDMWxzOXRkemplQWxWeHJoOVpkTkg2c1A1WGxmLWdpbENTemZDcV9oZU9RajE1YlJYcFhaOFN1ZEdZZFB4QWZWbXhwX2YzVkUwYWwwd0tGdUtlLXRMZ0xYbmgwVTZCR2VtRWtsZzhQdlFGWXJMY0E0WndlakVuZW9Xa2JMY3gxMDd2Z28tM0ZmUEZsQllxM1ZqZWtSY3JVaWM0dw?oc=5"
 summary: "Local officials in New Albany, Ohio are facing calls for greater transparency following Les Wexner's recent congressional testimony about his relationship with "
 people:
-  - les-wexner
+  - leslie-wexner
   - jeffrey-epstein
   - leslie-wexner
   - ghislaine-maxwell

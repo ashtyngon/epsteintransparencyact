@@ -7,7 +7,7 @@ summary: "A Prince Andrew associate advised Jeffrey Epstein to conceal his sex a
 people:
   - prince-andrew
   - jeffrey-epstein
-  - david-stern
+  - david-stern-advisor
   - donald-trump
   - leslie-wexner
   - pam-bondi

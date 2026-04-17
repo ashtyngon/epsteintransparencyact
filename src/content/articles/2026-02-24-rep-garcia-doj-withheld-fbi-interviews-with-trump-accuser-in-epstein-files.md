@@ -6,7 +6,7 @@ sourceUrl: "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DUER4ejdmV0MyY2M
 summary: "Rep. Robert Garcia D-Calif. said Tuesday that the Department of Justice may not have fully complied with the Epstein Transparency Act by withholding FBI"
 people:
   - jeffrey-epstein
-  - rep-garcia
+  - robert-garcia
   - donald-trump
   - ghislaine-maxwell
 relatedArticles:

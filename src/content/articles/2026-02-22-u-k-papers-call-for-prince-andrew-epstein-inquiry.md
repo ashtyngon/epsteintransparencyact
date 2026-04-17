@@ -6,7 +6,7 @@ sourceUrl: "https://www.bbc.com/news/articles/cx28ldj544jo?at_medium=RSS&at_camp
 summary: "Several British newspapers reported on calls for an investigation into Prince Andrew's connections to Jeffrey Epstein in their Sunday editions, according to a"
 people:
   - prince-andrew
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell

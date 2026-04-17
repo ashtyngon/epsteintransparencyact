@@ -7,8 +7,6 @@ summary: "AG Bondi released a list of roughly 300 individuals named in Epstein f
 people:
   - pam-bondi
   - donald-trump
-  - barack-obama
-  - michelle-obama
   - bill-clinton
   - hillary-clinton
   - kamala-harris

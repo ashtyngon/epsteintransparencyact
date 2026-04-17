@@ -6,7 +6,6 @@ sourceUrl: "https://www.theguardian.com/us-news/2026/feb/16/epstein-ranch-new-me
 summary: "Donald Huffines, a Texas GOP candidate for comptroller, confirmed his family purchased Epstein's Zorro Ranch for $13.4 million, a property tied to trafficking and abuse."
 people:
   - jeffrey-epstein
-  - donald-huffines
 relatedArticles:
   - 2026-02-17-new-mexico-launches-first-full-investigation-into-epstein-s-zorro-ranch
   - epstein-transparency-act-signed-into-law

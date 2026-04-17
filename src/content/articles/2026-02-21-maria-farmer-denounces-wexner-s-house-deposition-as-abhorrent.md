@@ -7,7 +7,7 @@ summary: "Maria Farmer, an Epstein survivor, issued a statement Saturday calling
 image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26048785881271-e1771700295368.jpg?w=900"
 people:
   - maria-farmer
-  - les-wexner
+  - leslie-wexner
   - leslie-wexner
   - jeffrey-epstein
 relatedArticles:

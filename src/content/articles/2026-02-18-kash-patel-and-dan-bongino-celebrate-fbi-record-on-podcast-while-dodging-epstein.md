@@ -5,8 +5,6 @@ source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/kash-patel-dan-bongino-interview-trump-podcast-b2923093.html"
 summary: "FBI Director Kash Patel appeared on Dan Bongino's podcast on February 18, 2026, in a reunion between the current director and his former deputy, but the two did"
 people:
-  - kash-patel
-  - dan-bongino
   - jeffrey-epstein
   - nancy-mace
   - ghislaine-maxwell

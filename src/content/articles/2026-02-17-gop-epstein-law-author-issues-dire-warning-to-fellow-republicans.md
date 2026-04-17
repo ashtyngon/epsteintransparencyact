@@ -5,7 +5,6 @@ source: "MassLive.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUJzYTRDM1dmdGJaamUtTGNrS284U3A3bGtZVzM4aHJlR0VCdkJOeV9kLTZ2ZDdHNFhrdjU2ZjJRWU5mTU1BaVFSWUpyeWRZckEtNWU5eUhSWDVXb1B4ZjN2SDhwSUhYQ2RjMENhTzJzVTRiVGxGREdkX3BFLWVmRXNnZDFGSmxDUWh5RlJNcnd0ZFU5QnF4b1MwWG5xTVhoZnR5eHFJRTAwQUtwYnd1dUh2UkxGVU0zSXJUX2t4LUpScEdDbEtwLTl2M1c4dEdyN0E?oc=5"
 summary: "Rep. Thomas Massie, the Kentucky Republican who authored the Epstein Transparency Act, predicted last week that some of his party colleagues could face politica"
 people:
-  - gop-lawmaker
   - thomas-massie
   - jeffrey-epstein
   - pam-bondi

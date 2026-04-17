@@ -6,7 +6,6 @@ sourceUrl: "https://www.theguardian.com/commentisfree/2026/feb/20/epstein-files-
 summary: "A university professor with more than two decades of experience at Harvard, Cornell and Cambridge said the recently released emails from Jeffrey Epstein's"
 people:
   - jeffrey-epstein
-  - christopher-marquis
   - bill-gates
 tags:
   - associates

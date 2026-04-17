@@ -5,7 +5,7 @@ source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/video/no-new-charges-in-the-us-yet-after-latest-epstein-files-release/"
 summary: "No new criminal charges have emerged in the United States following the Justice Department's latest release of Epstein-related documents, according to CBS News."
 people:
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - prince-andrew
   - donald-trump

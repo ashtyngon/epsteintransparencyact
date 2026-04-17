@@ -6,7 +6,7 @@ sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-l
 summary: "Six companies linked to Sarah Ferguson are being dissolved after released documents showed her continued contact with Jeffrey Epstein following his 2008 conviction."
 people:
   - sarah-ferguson
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - casey-wasserman
   - nancy-mace

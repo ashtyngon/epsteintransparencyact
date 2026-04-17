@@ -5,7 +5,7 @@ source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/23/former-prince-andrew-mountbatten-windsor-charged-massages-taxpayers-uk-trade-envoy"
 summary: "Former senior civil servants have reported that Andrew Mountbatten-Windsor charged British taxpayers for massage expenses and excessive travel costs during his"
 people:
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
 relatedArticles:
   - 2026-02-22-uk-mp-seeks-treason-probe-into-prince-andrew-over-epstein

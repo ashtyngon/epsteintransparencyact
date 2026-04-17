@@ -5,7 +5,7 @@ source: "WION"
 sourceUrl: "https://news.google.com/rss/articles/CBMizgFBVV95cUxPanRfRldhdGpudWdCRzZjd2pXNXZTYmtGWFBLM05lWUcyQlFJNHkwMzNvcmZsOUltSVp6MkpldmJURGRFZi1jMkk4YjFOVEpPS3FqT3I4cERiYUllZmdUU0VEZVp2bXozS2NXQXJiWjBzVzZOeF9Ka1UyRWk1R2t1My1pZnM0SllSVDJxWHNfdzZJRkJUbkRSRXBVbkZUZEJvdEJHZWhSclJLbmdmbFpjbFpLZDZ4Qm9fQ1pyV3licWZsMGZVQXZXNTVLRVhHQdIB0wFBVV95cUxNQV9rUGwwYi00YjgxWXVjYXM2MFdZQWRWSlYtMWtlcVlxQVZjaG9sTmJKSDlBOTIyOEZXVlBQNFJiQ1NoTTVEbVJjd0swNzVrZ0RGVDJLVTNxcTlCalFvUk1XM2tFU19TMzlmOGlRTU45QTBqNTVLVHRJemtWVXdwS1hPb1M3aUIzcEgyN09POHZ2RjlvZ3Jnb0xLb1ZQbFhhMVlQTE5YOUNtbFVsam5YZE9wU3lqT19pSjZJNUxRMkhFeGlMNTRPUkdnVmNBNjlXRUtZ?oc=5"
 summary: "A newly released Department of Justice photograph shows Prince Andrew, Peter Mandelson, and Jeffrey Epstein together, marking the first documented image of all"
 people:
-  - andrew
+  - prince-andrew
   - peter-mandelson
   - jeffrey-epstein
   - cherie-blair

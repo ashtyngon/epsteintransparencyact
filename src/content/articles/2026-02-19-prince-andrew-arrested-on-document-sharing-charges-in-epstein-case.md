@@ -6,7 +6,6 @@ sourceUrl: "https://www.courthousenews.com/ex-prince-andrew-arrested-on-suspicio
 summary: "British police arrested Andrew Mountbatten-Windsor on Feb. 19 on suspicion of misconduct in public office for allegedly sharing confidential information with Epstein."
 people:
   - prince-andrew
-  - king-charles-iii
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell

@@ -6,7 +6,6 @@ sourceUrl: "https://www.courthousenews.com/paris-prosecutors-open-2-epstein-link
 summary: "French prosecutors have opened two separate criminal investigations related to Jeffrey Epstein and are urging victims to come forward with testimony, according "
 people:
   - jeffrey-epstein
-  - laurence-beccuau
 relatedArticles:
   - 2026-02-18-epstein-files-revelations-spark-new-european-police-probes
   - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals

@@ -5,7 +5,7 @@ source: "The News International"
 sourceUrl: "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUc5b00zUWEyTXNSYmhyNi02ajlZNmV2ZDV5VndyejRhUGQ5R3gzcnFwaVlpQU1MSEg2RUJZNm1QYWV0UnRlOHpZWTN5djlnY3JITTQ2QzZIR0FSVGxXbnl5RjJvWlA5VDdhaUVfRzNvZVI2WDA2WnVZTC1UMEVPWFA4N1J3R3pudG0yMnJmQ2NzS2tNX0k5WFNreE00a3loZnJLNktJWU9mSTI0TmRuNzctbHliVTBTSll5V2VnMlM2VmfSAb8BQVVfeXFMT3IxMDZWNkVaVmtRSVVtOS1hMjBTcjc0eGtCejRjVlBBRVdKdS1SWXJUQ0VuZjE2Y2piQ00tWjZmcFlBaXVDeGg1SEJLdjV1N2FtVjZSRUkwcGNXeG1kNFJpckswRUlHWk5rNkl0bFNzWUdrSmpadWo0UkFjLTZJckFuN1VLZEFBS1lFU2VadExCaGZzSDVpLUZpdkx5YkVvZVJadHM2OUxsN0FmYm14RVZ0a2gxRnNtUElnSy10dE0?oc=5"
 summary: "A previously unpublished photograph from the Epstein case files shows Prince Andrew seated with an unidentified woman on his lap during what appears to be a"
 people:
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - jeffrey-epstein
   - prince-andrew
   - virginia-giuffre

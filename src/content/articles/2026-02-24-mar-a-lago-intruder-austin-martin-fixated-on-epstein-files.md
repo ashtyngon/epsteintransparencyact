@@ -6,7 +6,6 @@ sourceUrl: "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNk84S1pkanBNMXh
 summary: "A man who allegedly attempted to enter Mar-a-Lago earlier this year was fixated on obtaining government files related to Jeffrey Epstein, according to The Palm"
 people:
   - jeffrey-epstein
-  - austin-martin
   - donald-trump
   - ghislaine-maxwell
 relatedArticles:

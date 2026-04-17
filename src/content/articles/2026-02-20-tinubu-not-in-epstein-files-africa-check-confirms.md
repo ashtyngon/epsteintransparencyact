@@ -5,7 +5,6 @@ source: "Africa Check"
 sourceUrl: "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNW9seHk3Ulc0N2Z6S1ZXV0JzU1g0cHRwbkVqYXJuQWp0NGtBaEFJYWlseVBWdldvTXNhNXZ1d0paQXlJSWNHODZPRGpUaTNVbmhrOVlrcG5feFhFWm1Ib1V0MUlYMF85VmhDQ2gtMm0wNFRPQ1k0ajlCaTVYM3AwWnY4czMyVGxjU1RLVkY3eUIzMk0wSXlYbE1BWHJBNTdXajMxR2JyQTJBazRwaVhON2VqcEl2TVM5UmlSclZqNlI?oc=5"
 summary: "A fact-checking organization has debunked claims circulating online that Nigerian President Bola Tinubu appears in documents released as part of the Jeffrey"
 people:
-  - bola-tinubu
   - jeffrey-epstein
   - donald-trump
   - sultan-ahmed-bin-sulayem

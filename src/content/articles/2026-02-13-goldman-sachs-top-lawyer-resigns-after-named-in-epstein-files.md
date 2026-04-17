@@ -8,7 +8,6 @@ summary: "Goldman Sachs top lawyer Kathryn Ruemmler resigned after released emai
 people:
   - kathryn-ruemmler
   - jeffrey-epstein
-  - barack-obama
   - sultan-ahmed-bin-sulayem
   - thomas-pritzker
   - brad-karp

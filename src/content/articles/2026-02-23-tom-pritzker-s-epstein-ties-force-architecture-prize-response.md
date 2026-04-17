@@ -5,7 +5,7 @@ source: "The New York Times"
 sourceUrl: "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVc5TWxrN284Q3Z2WlRkZk9WY2F2RHFmT0psaDR0X08xejdqaXNwdmN0MndqbzlvZmgzd2k3aXAzUXViVkRnREZuc0NfQ0ZZY0Z1aVVWeUtCczVoLVNxRmY4QWxRWjRINDJJYkNWY0dERXdPOVVDVmxGOS1abVVSNkZRdE1qR1dDZ3lGVGplYXk?oc=5"
 summary: "The Pritzker Architecture Prize, one of the field's most prestigious awards, has responded after documents revealed that Tom Pritzker, the chairman of the"
 people:
-  - tom-pritzker
+  - thomas-pritzker
   - jeffrey-epstein
   - thomas-pritzker
   - joi-ito

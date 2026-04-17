@@ -6,7 +6,6 @@ sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/tim-di
 summary: "Podcaster Tim Dillon called AG Bondi 'completely unprepared' after she yelled about stock market performance during congressional testimony on Epstein files."
 people:
   - pam-bondi
-  - tim-dillon
   - howard-lutnick
   - jeffrey-epstein
   - marjorie-taylor-greene

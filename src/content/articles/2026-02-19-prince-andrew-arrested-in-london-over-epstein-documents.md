@@ -5,7 +5,7 @@ source: "ABC News"
 sourceUrl: "https://abcnews.com/International/video/andrew-mountbatten-windsor-arrested-london-130313325"
 summary: "U.S. Lawmakers Demand Domestic Charges After Prince Andrew Arrest The arrest of Prince Andrew in London on Thursday has prompted members of Congress to"
 people:
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - prince-andrew
   - jeffrey-epstein
   - ghislaine-maxwell

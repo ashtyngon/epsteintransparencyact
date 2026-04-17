@@ -6,8 +6,6 @@ sourceUrl: "https://www.theguardian.com/us-news/2026/feb/16/jeffrey-epstein-bret
 summary: "Jeffrey Epstein tracked Brett Kavanaugh's 2018 Supreme Court confirmation and exchanged messages expressing sympathy for the nominee, according to released DOJ emails."
 people:
   - jeffrey-epstein
-  - brett-kavanaugh
-  - christine-blasey-ford
   - ken-starr
   - bill-clinton
   - ghislaine-maxwell

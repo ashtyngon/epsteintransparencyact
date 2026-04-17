@@ -7,7 +7,6 @@ summary: "Hillary Clinton is scheduled to testify Thursday before the House Over
 people:
   - hillary-clinton
   - jeffrey-epstein
-  - marco-rubio
   - donald-trump
   - bill-clinton
   - ghislaine-maxwell

@@ -6,7 +6,6 @@ sourceUrl: "https://thehill.com/opinion/criminal-justice/5740973-why-biden-didnt
 summary: "A former official writing in The Hill examined whether President Biden had authority to release files related to Jeffrey Epstein during his term and whether he "
 image: "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP26030548214041-e1769792497810.jpg?w=900"
 people:
-  - joseph-biden
   - jeffrey-epstein
   - ghislaine-maxwell
   - nancy-mace

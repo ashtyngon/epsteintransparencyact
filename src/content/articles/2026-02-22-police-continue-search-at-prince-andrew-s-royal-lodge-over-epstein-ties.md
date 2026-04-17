@@ -5,10 +5,9 @@ source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/politics/live/2026/feb/22/uk-education-ehcp-attainment-schools-andrew-latest-news-updates"
 summary: "Conservative Education Spokesperson Addresses Prince Andrew Succession Bill Priti Patel, the Conservative Party's education spokesperson, said her party would"
 people:
-  - andrew-mountbatten-windsor
+  - prince-andrew
   - prince-andrew
   - jeffrey-epstein
-  - king-charles-iii
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents
   - 2026-02-21-king-charles-distances-himself-from-prince-andrew-over-epstein-ties
