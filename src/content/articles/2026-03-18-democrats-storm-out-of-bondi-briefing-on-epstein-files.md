@@ -35,7 +35,7 @@ Rep. **Robert Garcia** (D-CA) told reporters after exiting the briefing that the
 
 "We are not going to sit through a briefing where the attorney general can say whatever she wants with no consequences," Garcia said, according to NBC News.<sup>[2](#ref-2)</sup>
 
-The subpoena for Bondi's sworn testimony was formally issued on March 17 by Chairman **James Comer** (R-KY), following a bipartisan committee vote of 24-19.<sup>[3](#ref-3)</sup> Five Republican members crossed party lines to join all Democrats in authorizing the subpoena, a rare display of bipartisan agreement on the politically charged issue.
+The subpoena for Bondi's sworn testimony was formally issued on March 17 by Chairman **James Comer** (R-KY), following a bipartisan committee vote of 24-19 on March 4.<sup>[3](#ref-3)</sup> Five Republican members crossed party lines to join all Democrats in authorizing the subpoena, a rare display of bipartisan agreement on the politically charged issue.
 
 ## Subpoena Sets April 14 Deadline
 

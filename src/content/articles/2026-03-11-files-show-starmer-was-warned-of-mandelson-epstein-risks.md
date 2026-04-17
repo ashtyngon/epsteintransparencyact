@@ -1,7 +1,7 @@
 ---
 title: "Files Show Starmer Was Warned of Mandelson-Epstein 'Reputational Risks'"
 publishedAt: "2026-03-11T14:00:00.000Z"
-source: "TIME"
+source: "Al Jazeera"
 sourceUrl: "https://www.aljazeera.com/news/2026/3/11/new-files-show-british-pm-warned-of-reputational-risks-with-mandelson"
 summary: "Newly released UK government files reveal Prime Minister Keir Starmer received a due diligence checklist in December 2024 detailing reputational risks before appointing Peter Mandelson as ambassador to Washington."
 people:

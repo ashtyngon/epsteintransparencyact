@@ -47,7 +47,7 @@ The Daily Bruin reported that students enrolled in Tramo's canceled spring quart
 
 ## Academic Fallout Widens
 
-Tramo's retirement adds to a growing list of departures and institutional actions across American universities in the wake of the Epstein files. In recent weeks, academics at institutions including UC San Diego, Carnegie Mellon, and Chapman University have faced consequences after their connections to Epstein were documented in released files.
+Tramo's retirement adds to a growing list of departures and institutional actions across American universities in the wake of the Epstein files. In recent weeks, academics at institutions including Chapman University have faced consequences after their connections to Epstein were documented in released files.
 
 The pattern has prompted calls from faculty governance bodies at several universities for clearer policies on donor vetting and disclosure requirements for faculty members who receive external funding or maintain relationships with individuals under criminal investigation or conviction.<sup>[2](#ref-2)</sup>
 

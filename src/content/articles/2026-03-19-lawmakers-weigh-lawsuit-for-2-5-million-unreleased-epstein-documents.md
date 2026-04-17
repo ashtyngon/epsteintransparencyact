@@ -34,9 +34,7 @@ The finding comes after the DOJ published roughly 3.5 million pages of Epstein-r
 
 Rep. **Thomas Massie** (R-KY) and Rep. **Ro Khanna** (D-CA) told CNN they are considering joining Epstein survivors in filing a lawsuit to compel the release of the remaining documents.<sup>[1](#ref-1)</sup> The bipartisan pairing underscores the frustration that has built across party lines over the DOJ's handling of the transparency mandate.
 
-"The American people were promised transparency," Massie said. "What they got was millions of pages of black ink."<sup>[1](#ref-1)</sup>
-
-Khanna echoed the sentiment, telling CNN that the volume of withheld documents raises serious questions about what the government is still hiding. "If there is nothing to conceal, there should be nothing to withhold," Khanna said.<sup>[1](#ref-1)</sup>
+"The American people were promised transparency," Massie said. <sup>[1](#ref-1)</sup>
 
 The potential lawsuit gained legal footing after Judge **Paul Engelmayer** ruled that the criminal case against **Ghislaine Maxwell** was not the appropriate venue for challenging the DOJ's document withholdings.<sup>[1](#ref-1)</sup> However, Engelmayer's ruling explicitly left open the possibility that interested parties could sue in their personal capacities through a separate civil action.
 

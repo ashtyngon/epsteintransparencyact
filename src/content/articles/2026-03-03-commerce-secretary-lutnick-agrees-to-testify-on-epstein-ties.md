@@ -17,7 +17,7 @@ tags:
   - associates
 keyTakeaways:
   - "Commerce Secretary Howard Lutnick voluntarily agreed to testify before the House Oversight Committee about his Epstein relationship."
-  - "Discrepancies emerged about his claimed 2005 cutoff — records show he and family had lunch with Epstein in 2012."
+  - "Discrepancies emerged about his claimed 2005 cutoff — records show he and his family had lunch with Epstein on his private island in 2012."
   - "Lutnick acknowledged visiting Epstein's private island in the Caribbean."
   - "His interview before the committee is scheduled for May 6."
 status: published

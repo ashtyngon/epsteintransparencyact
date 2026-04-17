@@ -32,7 +32,7 @@ Under the proposed legislation, the State Department would be required to deny v
 
 The sanctions framework mirrors existing mechanisms used to target human rights abusers under the Global Magnitsky Act, which allows the U.S. government to impose financial penalties and travel restrictions on individuals involved in serious human rights violations worldwide.
 
-Wasserman Schultz said the bill was necessary because many of Epstein's associates hold foreign citizenship or reside outside the United States, placing them beyond the practical reach of federal prosecutors. "Justice should not stop at the border," Wasserman Schultz said in a statement from her office.<sup>[1](#ref-1)</sup>
+Wasserman Schultz said the bill was necessary because many of Epstein's associates hold foreign citizenship or reside outside the United States, placing them beyond the practical reach of federal prosecutors. <sup>[1](#ref-1)</sup>
 
 ## Presidential Exemption With Accountability
 
@@ -40,7 +40,7 @@ The bill includes a provision allowing the President to exempt specific individu
 
 The accountability mechanism is designed to prevent the executive branch from quietly shielding politically connected individuals from the law's consequences. Wasserman Schultz said the provision ensures that any exemption would be subject to congressional scrutiny and public debate.
 
-"If the President decides that protecting a foreign Epstein associate is more important than justice for survivors, the American people deserve to know why," Wasserman Schultz said.<sup>[1](#ref-1)</sup>
+<sup>[1](#ref-1)</sup>
 
 ## Committee Referral
 

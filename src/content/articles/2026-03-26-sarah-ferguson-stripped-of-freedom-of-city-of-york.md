@@ -29,7 +29,7 @@ The debate lasted less than 10 minutes before councillors reached a unanimous de
 
 ## A 'Steadfast, Generous and Supreme Friend'
 
-The council's decision was driven in part by revelations about the depth of Ferguson's relationship with Epstein. Ferguson had publicly described Epstein as a "steadfast, generous and supreme friend" in comments made three years after his 2008 conviction for soliciting a minor in Florida.<sup>[2](#ref-2)</sup>
+The council's decision was driven in part by revelations about the depth of Ferguson's relationship with Epstein. Ferguson had publicly described Epstein as a "steadfast, generous and supreme friend" in a private email sent in April 2011, approximately three years after his 2008 conviction for soliciting a minor in Florida.<sup>[2](#ref-2)</sup>
 
 That characterization, which resurfaced in documents released under the Epstein Files Transparency Act, drew widespread criticism and renewed scrutiny of Ferguson's ties to Epstein and his circle. The 2008 conviction resulted in Epstein serving 13 months in a county jail under a controversial plea deal that allowed him work release privileges.
 
@@ -41,7 +41,7 @@ Ferguson has not been seen publicly since December 2025, according to Fox News.<
 
 Six companies linked to Ferguson have been shut down in recent months, though the precise reasons for the closures have not been publicly detailed.<sup>[2](#ref-2)</sup> Ferguson's representatives have not commented on the company closures or her withdrawal from public appearances.
 
-The City of York's decision to revoke the title adds to the growing list of institutional consequences flowing from the Epstein file releases. Other British institutions have also taken action in response to the revelations, including the removal of Princess Eugenie from an anti-slavery charity patronage over her family's Epstein connections.
+The City of York's decision to revoke the title adds to the growing list of institutional consequences flowing from the Epstein file releases. Other British institutions have also taken action in response to the revelations, including Princess Eugenie's departure from an anti-slavery charity patronage over her family's Epstein connections.
 
 ## Broader Fallout in the UK
 

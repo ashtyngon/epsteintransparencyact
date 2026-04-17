@@ -43,7 +43,7 @@ Fifth, the Democrats demanded regular public progress reports on the document re
 
 ## Accusations of Noncompliance
 
-The letter accused the DOJ of treating the transparency act as optional rather than mandatory. "The law does not give the Department of Justice discretion to decide which documents the public deserves to see," the lawmakers wrote.<sup>[1](#ref-1)</sup>
+The letter accused the DOJ of treating the transparency act as optional rather than mandatory. <sup>[1](#ref-1)</sup>
 
 Jayapal, who serves as ranking member of the House Judiciary Subcommittee on Immigration Integrity, Security, and Enforcement, said in a separate statement that the DOJ's approach has undermined public confidence in the government's willingness to hold powerful individuals accountable.
 
