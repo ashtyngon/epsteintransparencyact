@@ -2,7 +2,7 @@
 title: "DOJ Releases Previously Withheld Epstein Files Containing Trump Allegations"
 publishedAt: "2026-03-05T20:00:00.000Z"
 source: "NPR"
-sourceUrl: "https://www.npr.org"
+sourceUrl: "https://www.npr.org/2026/03/05/nx-s1-5737562/justice-department-missing-epstein-files-trump"
 summary: "The Department of Justice published over 1,000 new pages of Epstein files including 16 previously withheld pages containing three FBI interview summaries from a woman alleging Trump sexually abused her as a minor."
 people:
   - donald-trump

@@ -2,7 +2,7 @@
 title: "Harvard Students Petition to Rename Wexner Building Over Epstein Ties"
 publishedAt: "2026-03-27T10:00:00.000Z"
 source: "WBUR"
-sourceUrl: "https://www.wbur.org"
+sourceUrl: "https://www.wbur.org/news/2026/03/27/harvard-wexner-building-rename-epstein"
 summary: "Students and faculty at Harvard's Kennedy School submitted a formal renaming request for the Leslie H. Wexner Building and Wexner-Sunshine Lobby after Wexner was designated an Epstein co-conspirator in a 2019 FBI document."
 people:
   - jeffrey-epstein

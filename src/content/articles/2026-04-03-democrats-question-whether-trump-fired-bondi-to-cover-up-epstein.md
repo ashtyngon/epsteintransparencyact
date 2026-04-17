@@ -2,7 +2,7 @@
 title: "Democrats Question Whether Trump Fired Bondi to Cover Up Epstein Files"
 publishedAt: "2026-04-03T14:00:00.000Z"
 source: "Democrats.org"
-sourceUrl: "https://www.democrats.org"
+sourceUrl: "https://democrats.org/news/did-trump-fire-bondi-to-cover-up-the-epstein-files/"
 summary: "DNC and House Oversight Democrats publicly questioned whether President Trump fired Pam Bondi to obstruct the Epstein investigation, pointing to the suspicious timing of her dismissal."
 people:
   - pam-bondi

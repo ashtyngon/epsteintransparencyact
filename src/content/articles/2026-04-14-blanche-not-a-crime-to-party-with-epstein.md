@@ -2,7 +2,7 @@
 title: "Acting AG Blanche: 'Not a Crime to Party' With Epstein"
 publishedAt: "2026-04-14T20:00:00.000Z"
 source: "The Hill"
-sourceUrl: "https://thehill.com"
+sourceUrl: "https://thehill.com/homenews/administration/5719992-doj-todd-blanche-epstein-files-parties/"
 summary: "Acting Attorney General Todd Blanche stated on Fox News that 'it isn't a crime to party with Mr. Epstein,' sparking outrage from survivors, Democrats, and the public."
 people:
   - jeffrey-epstein

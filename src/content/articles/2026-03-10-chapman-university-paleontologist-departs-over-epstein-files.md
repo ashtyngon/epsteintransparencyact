@@ -2,7 +2,7 @@
 title: "Chapman University Paleontologist Departs Over Epstein Files"
 publishedAt: "2026-03-10T10:00:00.000Z"
 source: "Inside Higher Ed"
-sourceUrl: "https://www.insidehighered.com"
+sourceUrl: "https://www.insidehighered.com/news/faculty-issues/research/2026/03/10/jack-horner-chapman-epstein"
 summary: "Paleontologist John 'Jack' Horner, the real-life inspiration for the main character in Jurassic Park, left Chapman University after his name surfaced in the January Epstein files release."
 people:
   - jeffrey-epstein

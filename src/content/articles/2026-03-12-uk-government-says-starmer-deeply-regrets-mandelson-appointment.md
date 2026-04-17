@@ -2,7 +2,7 @@
 title: "UK Government Says Starmer 'Deeply Regrets' Mandelson Appointment"
 publishedAt: "2026-03-12T16:00:00.000Z"
 source: "TIME"
-sourceUrl: "https://time.com"
+sourceUrl: "https://time.com/article/2026/03/11/starmer-appointment-mandelson-files-epstein-relationship-risk-warning/"
 summary: "Chief Secretary to the Treasury Darren Jones told parliament that PM Starmer 'deeply regrets taking him at his word' regarding Mandelson's representations about his Epstein ties."
 people:
   - peter-mandelson

@@ -2,7 +2,7 @@
 title: "Mandelson Tried to Get Epstein's 15-Year-Old 'Goddaughter' Into Downing Street"
 publishedAt: "2026-04-02T14:00:00.000Z"
 source: "Al Jazeera"
-sourceUrl: "https://www.aljazeera.com"
+sourceUrl: "https://www.aljazeera.com/news/2026/4/2/mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-street"
 summary: "Newly surfaced DOJ emails show Peter Mandelson tried to arrange access to 10 Downing Street and the House of Lords for Jeffrey Epstein's 15-year-old 'goddaughter' while Epstein was in prison for sex crimes."
 people:
   - peter-mandelson

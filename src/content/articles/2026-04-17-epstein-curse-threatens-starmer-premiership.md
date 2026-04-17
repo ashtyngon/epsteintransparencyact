@@ -2,7 +2,7 @@
 title: "The 'Epstein Curse' Threatens Keir Starmer's Premiership"
 publishedAt: "2026-04-17T10:00:00.000Z"
 source: "Australian Financial Review"
-sourceUrl: "https://www.afr.com"
+sourceUrl: "https://www.afr.com/world/europe/the-epstein-curse-is-likely-to-cost-keir-starmer-his-job-20260416"
 summary: "The Australian Financial Review reports the so-called Epstein curse is threatening PM Keir Starmer's hold on power, as the Mandelson vetting scandal and staff departures have left him politically weakened."
 people:
   - peter-mandelson

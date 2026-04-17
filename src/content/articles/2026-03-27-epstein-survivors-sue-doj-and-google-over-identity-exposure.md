@@ -2,7 +2,7 @@
 title: "Epstein Survivors Sue DOJ and Google Over Identity Exposure"
 publishedAt: "2026-03-27T20:00:00.000Z"
 source: "CNN"
-sourceUrl: "https://www.cnn.com"
+sourceUrl: "https://www.cnn.com/2026/03/27/politics/epstein-survivors-sue-doj-google-identity"
 summary: "A class action lawsuit alleges the DOJ released identifying information about approximately 100 Epstein survivors in violation of the Transparency Act, and that Google refused to de-index the exposed data."
 people:
   - jeffrey-epstein

@@ -2,7 +2,7 @@
 title: "LA City Council Passes Unanimous Resolution on Wasserman's Epstein Ties"
 publishedAt: "2026-03-14T20:00:00.000Z"
 source: "ABC7"
-sourceUrl: "https://abc7.com"
+sourceUrl: "https://abc7.com/la-city-council-casey-wasserman-epstein-resolution/15705432/"
 summary: "The Los Angeles City Council approved a 12-0 resolution urging the LA28 Olympic board to investigate Casey Wasserman's connections to the Epstein files, though LA28's executive committee defiantly backed its chairman."
 people:
   - casey-wasserman

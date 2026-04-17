@@ -2,7 +2,7 @@
 title: "Acting AG Blanche Denies Bondi Firing Was About Epstein Files"
 publishedAt: "2026-04-03T16:00:00.000Z"
 source: "Fox News"
-sourceUrl: "https://www.foxnews.com"
+sourceUrl: "https://www.foxnews.com/media/us-interim-attorney-general-todd-blanche-calls-speculation-surrounding-bondis-firing-simply-not-true"
 summary: "Acting Attorney General Todd Blanche appeared on Fox News to deny speculation that Pam Bondi was fired over Epstein files, declaring the DOJ was done releasing documents."
 people:
   - pam-bondi

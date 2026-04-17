@@ -2,7 +2,7 @@
 title: "DOJ Publishes 3.5 Million Epstein Pages, Claims Full Compliance"
 publishedAt: "2026-04-07T16:00:00.000Z"
 source: "Department of Justice"
-sourceUrl: "https://www.justice.gov"
+sourceUrl: "https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files"
 summary: "The DOJ announced it had published 3.5 million responsive pages under the Epstein Files Transparency Act, though critics noted 2.5 million additional investigative documents remain unreleased."
 people:
   - jeffrey-epstein

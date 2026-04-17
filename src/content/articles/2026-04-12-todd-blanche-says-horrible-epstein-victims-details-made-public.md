@@ -2,7 +2,7 @@
 title: "Acting AG Blanche Says It Was 'Horrible' Epstein Victims' Details Made Public"
 publishedAt: "2026-04-12T14:00:00.000Z"
 source: "NBC News"
-sourceUrl: "https://www.nbcnews.com"
+sourceUrl: "https://www.nbcnews.com/politics/justice-department/todd-blanche-says-horrified-epstein-victims-details-made-public-rcna331788"
 summary: "Acting Attorney General Todd Blanche said he was horrified that identifying details of Epstein victims were made public in DOJ document releases, as approximately 100 survivors pursue a class action lawsuit."
 people:
   - jeffrey-epstein

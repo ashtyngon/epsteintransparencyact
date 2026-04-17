@@ -2,7 +2,7 @@
 title: "Judge Dismisses Trump's $10 Billion Lawsuit Against WSJ Over Epstein Reporting"
 publishedAt: "2026-04-13T18:00:00.000Z"
 source: "NPR"
-sourceUrl: "https://www.npr.org"
+sourceUrl: "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch"
 summary: "U.S. District Judge Darrin P. Gayles dismissed President Trump's $10 billion libel lawsuit against the Wall Street Journal and Rupert Murdoch over reporting on Trump's ties to Jeffrey Epstein."
 people:
   - donald-trump

@@ -2,7 +2,7 @@
 title: "DOJ Releases Epstein Files Containing Assault Allegations Against Trump"
 publishedAt: "2026-04-11T20:00:00.000Z"
 source: "PBS News"
-sourceUrl: "https://www.pbs.org/newshour"
+sourceUrl: "https://www.pbs.org/newshour/show/doj-releases-epstein-files-containing-sexual-assault-allegations-against-trump"
 summary: "The DOJ released previously withheld documents including FBI interview notes from a woman alleging Donald Trump assaulted her as a minor in the 1980s, with officials finding her credible across four interviews."
 people:
   - donald-trump

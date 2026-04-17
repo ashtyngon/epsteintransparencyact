@@ -2,7 +2,7 @@
 title: "NPR Investigation: Why So Few Arrests After Epstein Files Release"
 publishedAt: "2026-04-03T14:00:00.000Z"
 source: "NPR"
-sourceUrl: "https://www.npr.org"
+sourceUrl: "https://www.npr.org/2026/04/03/nx-s1-5766260/epstein-files-arrests-doj-prosecutors"
 summary: "An NPR investigation examines why millions of pages of released Epstein documents have not led to arrests in the United States, despite high-profile resignations and one arrest in the UK."
 people:
   - jeffrey-epstein

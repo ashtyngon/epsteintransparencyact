@@ -2,7 +2,7 @@
 title: "Sen. Wyden Sets Deadline for Leon Black on $170 Million Epstein Payments"
 publishedAt: "2026-04-13T14:00:00.000Z"
 source: "Senate Finance Committee"
-sourceUrl: "https://www.finance.senate.gov"
+sourceUrl: "https://www.finance.senate.gov/continuing-epstein-investigation-wyden-questions-leon-black-over-new-revelations-in-epstein-files-appearance-of-hush-money-payments-and-surveillance-of-women"
 summary: "Sen. Ron Wyden set an April 13 deadline for Apollo co-founder Leon Black to answer questions about $170 million in payments to Jeffrey Epstein, citing evidence of potential hush money and money laundering."
 people:
   - leon-black

@@ -2,7 +2,7 @@
 title: "Prince Andrew's Family 'Very Worried' About His Mental State Amid Epstein Fallout"
 publishedAt: "2026-04-15T10:00:00.000Z"
 source: "Reality Tea"
-sourceUrl: "https://www.realitytea.com"
+sourceUrl: "https://www.realitytea.com/2026/04/15/prince-andrew-has-two-royals-worried-state-mind-epstein-fallout/"
 summary: "Prince Edward and Princess Anne visited Prince Andrew over Easter and were reportedly 'very worried' about his mental state as continuing Epstein fallout has left him increasingly isolated."
 people:
   - prince-andrew

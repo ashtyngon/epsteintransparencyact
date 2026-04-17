@@ -2,7 +2,7 @@
 title: "Senators Hurl Epstein Accusations During César Chávez Monument Debate"
 publishedAt: "2026-04-15T18:00:00.000Z"
 source: "CNBC"
-sourceUrl: "https://www.cnbc.com"
+sourceUrl: "https://www.cnbc.com/2026/04/15/epstein-cesar-chavez-monument-senate.html"
 summary: "A Senate dispute over defunding the César Chávez National Monument devolved into mutual Epstein accusations, with Democrats and Republicans posting Epstein-related headlines about each other."
 people:
   - jeffrey-epstein

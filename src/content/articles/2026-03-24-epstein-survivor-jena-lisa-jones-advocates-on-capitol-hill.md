@@ -2,7 +2,7 @@
 title: "Epstein Survivor Jena-Lisa Jones Takes Advocacy to Capitol Hill"
 publishedAt: "2026-03-24T14:00:00.000Z"
 source: "Detroit News"
-sourceUrl: "https://www.detroitnews.com"
+sourceUrl: "https://www.detroitnews.com/story/news/politics/2026/03/24/epstein-survivor-jena-lisa-jones-capitol-hill/"
 summary: "Epstein survivor Jena-Lisa Jones continued her public advocacy campaign, meeting with lawmakers on Capitol Hill and accepting a keynote speaking role at the 48th Annual Take Back the Night rally in Ann Arbor."
 people:
   - jeffrey-epstein

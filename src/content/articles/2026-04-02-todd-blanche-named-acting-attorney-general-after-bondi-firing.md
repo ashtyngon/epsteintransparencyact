@@ -2,7 +2,7 @@
 title: "Todd Blanche Named Acting Attorney General After Bondi Firing"
 publishedAt: "2026-04-02T22:00:00.000Z"
 source: "Axios"
-sourceUrl: "https://www.axios.com"
+sourceUrl: "https://www.axios.com/2026/04/02/trump-todd-blanche-acting-attorney-general"
 summary: "Deputy AG Todd Blanche, Trump's former personal defense attorney, was elevated to acting attorney general after Pam Bondi was fired. Sources say he lobbied hard for the permanent role."
 people:
   - pam-bondi

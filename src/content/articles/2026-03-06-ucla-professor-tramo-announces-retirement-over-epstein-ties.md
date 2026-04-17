@@ -2,7 +2,7 @@
 title: "UCLA Professor Announces Retirement After Epstein Communications Revealed"
 publishedAt: "2026-03-06T14:00:00.000Z"
 source: "Daily Bruin"
-sourceUrl: "https://dailybruin.com"
+sourceUrl: "https://dailybruin.com/2026/03/06/ucla-professor-mark-tramo-retirement-epstein"
 summary: "UCLA associate adjunct professor of neurology Mark Tramo announced his retirement and canceled his spring quarter class after documents revealed he exchanged emails with Jeffrey Epstein semi-regularly from 2010 until Epstein's death in 2019."
 people:
   - jeffrey-epstein

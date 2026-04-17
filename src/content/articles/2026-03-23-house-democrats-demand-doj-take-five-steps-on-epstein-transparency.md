@@ -2,7 +2,7 @@
 title: "House Democrats Demand DOJ Take Five Steps on Epstein Transparency"
 publishedAt: "2026-03-23T16:00:00.000Z"
 source: "House Judiciary Democrats"
-sourceUrl: "https://democrats-judiciary.house.gov"
+sourceUrl: "https://democrats-judiciary.house.gov/news/press-releases/jayapal-raskin-garcia-demand-epstein-transparency"
 summary: "Three senior House Democrats wrote to Attorney General Pam Bondi with five demands to fix what they called systematic violations of the Epstein Files Transparency Act."
 people:
   - jeffrey-epstein

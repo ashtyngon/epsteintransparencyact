@@ -2,7 +2,7 @@
 title: "Universities Rethink Donor Relationships Amid Epstein Files Fallout"
 publishedAt: "2026-03-12T12:00:00.000Z"
 source: "Christian Science Monitor"
-sourceUrl: "https://www.csmonitor.com"
+sourceUrl: "https://www.csmonitor.com/USA/Education/2026/0312/epstein-files-universities-donors-wexner-lutnick"
 summary: "Harvard, Ohio State, UCLA, Tufts, and Stony Brook face growing scrutiny over buildings named for Epstein-linked donors as students and faculty push for institutional accountability."
 people:
   - jeffrey-epstein

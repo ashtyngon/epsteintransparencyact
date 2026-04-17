@@ -2,7 +2,7 @@
 title: "Bard Students Launch 'Take Back Bard' Campaign Over President's Epstein Ties"
 publishedAt: "2026-03-23T10:00:00.000Z"
 source: "Inside Higher Ed"
-sourceUrl: "https://www.insidehighered.com"
+sourceUrl: "https://www.insidehighered.com/news/governance/trustees-boards/2026/03/23/bard-students-botstein-epstein"
 summary: "Students at Bard College formed a 'Take Back Bard' campaign demanding accountability from President Leon Botstein over his ties to Jeffrey Epstein, as the Faculty Senate urged the Board of Trustees to develop a leadership transition plan."
 people:
   - jeffrey-epstein
