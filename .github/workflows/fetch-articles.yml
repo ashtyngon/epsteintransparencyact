@@ -101,3 +101,23 @@ jobs:
 
           echo "ERROR: All 3 push attempts failed"
           exit 1
+
+      - name: Ping search engines (IndexNow + sitemap)
+        if: success()
+        run: |
+          # Ping Google to re-read sitemap
+          curl -s "https://www.google.com/ping?sitemap=https://epsteintransparencyact.com/sitemap-index.xml" || true
+
+          # Ping IndexNow (Bing, Yandex, etc.) with new article URLs
+          NEW_ARTICLES=$(git diff --name-only HEAD~1 HEAD -- src/content/articles/ | sed 's|src/content/articles/||;s|\.md$||' | head -10)
+          if [ -n "$NEW_ARTICLES" ]; then
+            URLS=""
+            for slug in $NEW_ARTICLES; do
+              URLS="$URLS\"https://epsteintransparencyact.com/news/$slug/\","
+            done
+            URLS="${URLS%,}"
+            curl -s -X POST "https://api.indexnow.org/IndexNow" \
+              -H "Content-Type: application/json" \
+              -d "{\"host\":\"epsteintransparencyact.com\",\"key\":\"a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6\",\"urlList\":[$URLS]}" || true
+            echo "Pinged IndexNow with new article URLs"
+          fi
