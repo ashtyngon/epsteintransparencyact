@@ -30,7 +30,7 @@ The unscheduled statement, delivered from the White House, was not coordinated w
 
 Melania Trump read prepared remarks in which she directly addressed speculation linking her and her family to Epstein. Fortune reported that she declared: "The lies linking me with the disgraceful Jeffrey Epstein need to end today."<sup>[2](#ref-2)</sup>
 
-She did not take questions from reporters after delivering the statement. The remarks lasted approximately four minutes and covered her frustration with media coverage and online discussion of alleged Epstein connections to the Trump family.
+She did not take questions from reporters after delivering the statement. The remarks lasted approximately six minutes and covered her frustration with media coverage and online discussion of alleged Epstein connections to the Trump family.
 
 The first lady did not reference specific allegations or name particular media outlets. She characterized the coverage broadly as unfounded and damaging to her family.
 

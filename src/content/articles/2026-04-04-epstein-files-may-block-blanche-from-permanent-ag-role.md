@@ -30,7 +30,7 @@ Blanche's July 2025 meeting with convicted sex trafficker **Ghislaine Maxwell** 
 
 Maxwell was convicted in December 2021 on five federal charges, including sex trafficking of a minor. She is serving a 20-year sentence.
 
-Following Blanche's prison visit, Maxwell was transferred from a medium-security federal facility to a minimum-security prison, CNN reported.<sup>[2](#ref-2)</sup> The transfer raised questions among lawmakers about whether the meeting influenced her custody conditions.
+Following Blanche's prison visit, Maxwell was transferred from a low-security federal facility to a minimum-security prison, CNN reported.<sup>[2](#ref-2)</sup> The transfer raised questions among lawmakers about whether the meeting influenced her custody conditions.
 
 DOJ officials have not publicly explained the rationale for Maxwell's facility transfer. Bureau of Prisons spokespeople declined to comment on individual inmate placement decisions when contacted by reporters.
 

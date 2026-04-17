@@ -26,9 +26,9 @@ articleType: news
 confidence: 0.95
 ---
 
-Former Attorney General **Pam Bondi** is facing the prospect of contempt of Congress proceedings after she failed to appear for a scheduled deposition before the House Oversight Committee on April 14, escalating a bipartisan standoff over her handling of the Jeffrey Epstein files during her tenure at the Department of Justice.<sup>[1](#ref-1)</sup>
+Former Attorney General **Pam Bondi** is facing the prospect of contempt of Congress proceedings after she is expected to skip her scheduled April 14 deposition before the House Oversight Committee, after the DOJ informed lawmakers she would not appear, escalating a bipartisan standoff over her handling of the Jeffrey Epstein files during her tenure at the Department of Justice.<sup>[1](#ref-1)</sup>
 
-Bondi was fired by President **Donald Trump** on April 2, reportedly over disagreements about how the DOJ managed the release and redaction of documents related to **Jeffrey Epstein**.<sup>[2](#ref-2)</sup> Less than two weeks later, she did not show up for sworn testimony that lawmakers on both sides of the aisle had demanded.
+Bondi was fired by President **Donald Trump** on April 2, reportedly over disagreements about how the DOJ managed the release and redaction of documents related to **Jeffrey Epstein**.<sup>[2](#ref-2)</sup> Less than two weeks later, the DOJ announced she would not appear for sworn testimony that lawmakers on both sides of the aisle had demanded.
 
 ## Subpoena Dispute
 
