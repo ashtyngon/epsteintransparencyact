@@ -7,7 +7,7 @@ aliases:
   - "Governor Pritzker"
 role: "Governor of Illinois, billionaire businessman"
 category: "named-in-documents"
-shortBio: "Billionaire businessman and current Governor of Illinois. J.B. Pritzker was named by Bill Clinton in a deposition related to the Epstein case. Pritzker denied any wrongdoing and said he had no meaningful relationship with Epstein. He is the cousin of Thomas Pritzker, who resigned from the Hyatt Hotels board over Epstein-related disclosures."
+shortBio: "Billionaire businessman and current Governor of Illinois. J.B. Pritzker was named by Bill Clinton in a deposition related to the Epstein case. Pritzker denied any wrongdoing and said he had no meaningful relationship with Epstein. He is a second cousin of Thomas Pritzker, who stepped down as Executive Chairman of Hyatt Hotels over Epstein-related disclosures in February 2026."
 notableConnections:
   - jeffrey-epstein
   - bill-clinton

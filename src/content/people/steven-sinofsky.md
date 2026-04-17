@@ -5,7 +5,7 @@ seoDescription: "Steven Sinofsky, former Microsoft executive, had undisclosed ti
 aliases: []
 role: "Former Microsoft executive, venture capitalist"
 category: "named-in-documents"
-shortBio: "Former president of the Windows division at Microsoft. Undisclosed connections to Jeffrey Epstein during his tenure at the company were revealed in 2026 file releases. Sinofsky left Microsoft in 2012 and became a board partner at Andreessen Horowitz."
+shortBio: "Former president of the Windows division at Microsoft who left the company in 2012. Epstein files revealed that Sinofsky recruited Epstein to help negotiate his exit from Microsoft, for which Epstein collected a $1 million fee on a $14 million exit package. Sinofsky maintained contact with Epstein through at least 2017. He later became a board partner at Andreessen Horowitz."
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2026-01-30

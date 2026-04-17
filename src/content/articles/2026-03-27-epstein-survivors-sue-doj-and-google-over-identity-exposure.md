@@ -1,9 +1,9 @@
 ---
 title: "Epstein Survivors Sue DOJ and Google Over Identity Exposure"
 publishedAt: "2026-03-27T20:00:00.000Z"
-source: "CNN"
+source: "CNBC"
 sourceUrl: "https://www.cnbc.com/2026/03/27/jeffrey-epstein-victims-sue-trump-administration-google.html"
-summary: "A class action lawsuit alleges the DOJ released identifying information about approximately 100 Epstein survivors in violation of the Transparency Act, and that Google refused to de-index the exposed data."
+summary: "A class action lawsuit alleges the DOJ released identifying information about approximately 100 Epstein survivors in violation of the Privacy Act, and that Google refused to de-index the exposed data."
 people:
   - jeffrey-epstein
 relatedArticles: []
@@ -22,17 +22,15 @@ articleType: news
 confidence: 0.95
 ---
 
-Survivors of **Jeffrey Epstein**'s sex trafficking operation filed a class action lawsuit on March 27 against the Department of Justice and **Google**, alleging that the DOJ released identifying information about approximately 100 survivors in violation of the Epstein Files Transparency Act.<sup>[1](#ref-1)</sup>
+Survivors of **Jeffrey Epstein**'s sex trafficking operation filed a class action lawsuit on March 27 against the Department of Justice and **Google**, alleging that the DOJ released identifying information about approximately 100 survivors in violation of the Privacy Act of 1974.<sup>[1](#ref-1)</sup>
 
-The lawsuit, filed in federal court, claims the DOJ failed to redact victim-identifying details from documents released under the transparency law, exposing survivors' names, addresses, and other personal information to the public.<sup>[1](#ref-1)</sup> The suit further alleges that Google refused to remove or de-index the exposed information from its search results despite repeated requests from survivors and their attorneys.
+The lawsuit, filed in the Northern District of California, claims the DOJ failed to redact victim-identifying details from documents released under the Epstein Files Transparency Act, exposing survivors' names, addresses, and other personal information to the public.<sup>[1](#ref-1)</sup> The suit further alleges that Google refused to remove or de-index the exposed information from its search results despite repeated requests from survivors and their attorneys.
 
 ## Harassment and Threats
 
 Survivors named in the suit reported being contacted, threatened, and harassed by strangers after their identities became publicly accessible through the released documents.<sup>[2](#ref-2)</sup> The harassment included unsolicited messages on social media, phone calls to personal numbers, and in some cases direct threats of violence.
 
-"These women were victimized by Epstein, and now the government has victimized them again," an attorney for the plaintiffs told CNN.<sup>[1](#ref-1)</sup> "The Transparency Act was explicitly designed to protect survivor identities. The DOJ ignored that mandate."
-
-The Epstein Files Transparency Act includes specific provisions requiring federal agencies to redact information that could identify victims of Epstein's crimes before releasing documents to the public. The law was modeled in part on protections afforded to victims in other federal cases, recognizing the particular vulnerability of trafficking survivors.
+The lawsuit alleges the DOJ made a "deliberate policy choice to prioritize rapid, large-volume disclosure over protection of Epstein survivors' privacy," according to the complaint filed in federal court.<sup>[1](#ref-1)</sup> The suit seeks at minimum $1,000 per survivor from the DOJ, along with injunctive relief.
 
 ## Google's Refusal to Act
 
@@ -45,8 +43,6 @@ Legal experts told CNBC that the case raises novel questions about the intersect
 ## Scope of the Exposure
 
 The approximately 100 survivors whose identities were exposed represent a significant portion of the known victims in the Epstein case. Many had cooperated with federal investigators on the condition that their identities would remain confidential.<sup>[2](#ref-2)</sup>
-
-CBS News reported that survivor-identifying information appeared across multiple document batches released by the DOJ, suggesting the redaction failures were not isolated incidents but reflected a systemic breakdown in the review process.<sup>[4](#ref-4)</sup>
 
 The lawsuit seeks an injunction requiring the DOJ to re-review all released documents for victim-identifying information, an order compelling Google to de-index the exposed data, and compensatory damages for the survivors who suffered harassment and emotional distress as a result of the exposure.
 

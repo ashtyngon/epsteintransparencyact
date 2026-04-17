@@ -26,7 +26,7 @@ confidence: 0.95
 
 **Bank of America** has agreed to pay $72.5 million to settle a lawsuit accusing the financial institution of ignoring $170 million in suspicious transactions linked to **Jeffrey Epstein**'s sex trafficking operation, according to NBC News.<sup>[1](#ref-1)</sup>
 
-Judge **Jed Rakoff** of the U.S. District Court for the Southern District of New York gave preliminary approval to the settlement on March 27, with a final fairness hearing scheduled for August 27.<sup>[1](#ref-1)</sup> The settlement must receive final judicial approval before funds are distributed to victims.
+The settlement was announced on March 27 and is subject to approval by Judge **Jed Rakoff** of the U.S. District Court for the Southern District of New York. A final fairness hearing is scheduled for August 27.<sup>[1](#ref-1)</sup>
 
 ## Allegations of Willful Blindness
 
@@ -42,13 +42,9 @@ The $72.5 million agreement makes Bank of America the third major financial inst
 
 Combined, the three bank settlements total approximately $437.5 million in compensation for survivors of Epstein's trafficking operation. Legal experts told CBS News that the settlements reflect the financial industry's significant exposure to liability for enabling Epstein's crimes over a period spanning more than a decade.<sup>[3](#ref-3)</sup>
 
-The JPMorgan settlement drew particular attention because the bank maintained its relationship with Epstein even after his 2008 conviction, only closing his accounts in 2013. Former JPMorgan executive **Jes Staley** was found liable for facilitating Epstein's access to the bank's services.
+The JPMorgan settlement drew particular attention because the bank maintained its relationship with Epstein even after his 2008 conviction, only closing his accounts in 2013. Former JPMorgan executive **Jes Staley** was sued by the bank over his role in facilitating Epstein's access to its services.<sup>[3](#ref-3)</sup>
 
-## Survivors React
-
-Attorneys for the plaintiffs said the settlement represents another step toward accountability for the institutions that enabled Epstein's crimes. "Banks are not bystanders," said an attorney for the victims, according to PBS.<sup>[5](#ref-5)</sup> "They were essential infrastructure for a trafficking operation that destroyed lives."
-
-Survivor advocacy groups have argued that financial institutions bear a unique responsibility because their compliance departments are specifically designed to detect and report the type of suspicious activity Epstein's accounts generated.
+The settlement covers at least 60 women who were victimized by Epstein between June 2008 and July 2019, according to CNBC.<sup>[2](#ref-2)</sup>
 
 The final hearing in August will determine whether the settlement terms are fair to all class members. Victims who are part of the class will have an opportunity to object to the settlement terms before final approval.
 
