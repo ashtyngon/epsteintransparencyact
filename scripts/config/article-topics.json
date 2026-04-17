@@ -35,8 +35,8 @@
     "slug": "2026-02-19-new-mexico-ag-opens-criminal-probe-into-bodies-buried-at-epstein-ranch",
     "title": "New Mexico AG Opens Criminal Probe Into Bodies Buried at Epstein Ranch",
     "summary": "# New Mexico Reopens Investigation Into Alleged Burials at Former Epstein Ranch",
-    "novelty": "New Mexico Attorney General Raúl Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
-    "topic": "New Mexico Attorney General Raúl Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
+    "novelty": "New Mexico Attorney General Ra\u00fal Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
+    "topic": "New Mexico Attorney General Ra\u00fal Torrez ordered a criminal investigation into allegations that two bodies are buried outside Jeffrey Epstein's remote New Mexico ranch property.",
     "people": [
       "jeffrey-epstein",
       "raul-torrez"
@@ -2174,7 +2174,7 @@
   },
   {
     "slug": "2026-03-01-nyt-elite-doctors-treated-epstein-and-his-victims-potential-conflicts",
-    "title": "NYT: Elite Doctors Treated Epstein and His Victims—Potential Conflicts",
+    "title": "NYT: Elite Doctors Treated Epstein and His Victims\u2014Potential Conflicts",
     "summary": "# Elite Doctors Treated Epstein's Victims While Serving as His Personal Physicians",
     "novelty": "New York Times investigation reveals how elite physicians served as both personal doctors to Jeffrey Epstein and medical providers to his underage abuse victims, creating potential conflicts of interest.",
     "topic": "New York Times investigation reveals how elite physicians served as both personal doctors to Jeffrey Epstein and medical providers to his underage abuse victims, creating potential conflicts of interest.",
@@ -2319,8 +2319,8 @@
   },
   {
     "slug": "2026-03-04-arte-tv-documentary-epstein-files-power-money-human-trafficking",
-    "title": "Arte.tv Documentary: Epstein Files—Power, Money, Human Trafficking",
-    "summary": "Arte.tv Documentary: Epstein Files—Power, Money, Human Trafficking",
+    "title": "Arte.tv Documentary: Epstein Files\u2014Power, Money, Human Trafficking",
+    "summary": "Arte.tv Documentary: Epstein Files\u2014Power, Money, Human Trafficking",
     "novelty": "Arte.tv releases full documentary on Epstein examining power, money, and human trafficking networks.",
     "topic": "Arte.tv releases full documentary on Epstein examining power, money, and human trafficking networks.",
     "people": [
@@ -3153,6 +3153,91 @@
       "court-documents",
       "document-release",
       "associates"
+    ]
+  },
+  {
+    "slug": "2026-04-09-melania-trump-denies-epstein-ties-calls-for-survivor-hearings",
+    "title": "Melania Trump Denies Epstein Ties, Calls for Survivor Hearings",
+    "summary": "First lady Melania Trump delivered a rare White House statement denying ties to Jeffrey Epstein and calling on Congress to hold public hearings with survivors.",
+    "novelty": "Melania Trump delivered a six-minute White House statement denying Epstein ties, calling for congressional survivor hearings. 15+ survivors pushed back.",
+    "topic": "Melania Trump White House Epstein denial and survivor hearing call",
+    "people": [
+      "donald-trump",
+      "jeffrey-epstein",
+      "ghislaine-maxwell",
+      "james-comer"
+    ],
+    "tags": [
+      "political",
+      "survivors",
+      "testimony"
+    ]
+  },
+  {
+    "slug": "2026-04-15-pam-bondi-faces-contempt-threat-after-skipping-epstein-deposition",
+    "title": "Pam Bondi Faces Contempt Threat After Skipping Epstein Deposition",
+    "summary": "Former Attorney General Pam Bondi faces contempt proceedings after failing to appear for a House Oversight deposition on the Epstein files.",
+    "novelty": "Bondi fired April 2, skipped April 14 deposition. Bipartisan contempt push from Crockett (D) and Mace (R).",
+    "topic": "Pam Bondi contempt threat over Epstein deposition no-show",
+    "people": [
+      "pam-bondi",
+      "donald-trump",
+      "nancy-mace",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "political",
+      "transparency-act",
+      "testimony",
+      "investigation"
+    ]
+  },
+  {
+    "slug": "2026-04-16-starmer-under-fire-as-mandelson-failed-security-vetting-for-ambassador-role",
+    "title": "Starmer Under Fire as Mandelson Failed Security Vetting for Ambassador Role",
+    "summary": "UK PM Keir Starmer faces renewed pressure after reports that Peter Mandelson failed security vetting before becoming ambassador to Washington.",
+    "novelty": "Mandelson failed security vetting, Foreign Office overruled it without telling Starmer. Opposition accuses PM of misleading Parliament.",
+    "topic": "Starmer Mandelson vetting failure scandal",
+    "people": [
+      "peter-mandelson",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "political",
+      "investigation",
+      "associates"
+    ]
+  },
+  {
+    "slug": "2026-04-16-la-olympics-chair-wasserman-sells-agency-after-epstein-files-fallout",
+    "title": "LA Olympics Chair Wasserman Sells Agency After Epstein Files Fallout",
+    "summary": "Casey Wasserman, chair of the 2028 LA Olympics, is selling his talent agency after emails with Ghislaine Maxwell surfaced in the Epstein files.",
+    "novelty": "Wasserman selling talent agency after Maxwell email fallout. Lost Chappell Roan, Abby Wambach. LA28 board backs him despite resignation calls.",
+    "topic": "Casey Wasserman agency sale and Olympics fallout",
+    "people": [
+      "casey-wasserman",
+      "ghislaine-maxwell",
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "associates",
+      "document-release",
+      "court-documents"
+    ]
+  },
+  {
+    "slug": "2026-04-16-un-experts-demand-justice-for-epstein-trafficking-victims",
+    "title": "UN Experts Demand Justice for Epstein Trafficking Victims",
+    "summary": "UN independent human rights experts called for justice, accountability, and reparations for victims of trafficking connected to Jeffrey Epstein.",
+    "novelty": "UN Special Rapporteur Mullally and Working Group demand reparations, non-repetition guarantees, and trauma-informed justice for Epstein victims.",
+    "topic": "UN experts demand Epstein victim justice and reparations",
+    "people": [
+      "jeffrey-epstein"
+    ],
+    "tags": [
+      "victims",
+      "survivors",
+      "investigation"
     ]
   }
 ]
