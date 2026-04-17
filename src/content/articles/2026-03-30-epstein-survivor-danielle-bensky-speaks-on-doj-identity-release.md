@@ -2,7 +2,7 @@
 title: "Epstein Survivor Danielle Bensky Speaks Out on DOJ Identity Release"
 publishedAt: "2026-03-30T14:00:00.000Z"
 source: "NPR"
-sourceUrl: "https://www.npr.org/2026/03/30/epstein-survivor-danielle-bensky-doj-identity"
+sourceUrl: "https://www.npr.org/2026/04/10/nx-s1-5780858/melania-trump-jeffrey-epstein"
 summary: "Epstein survivor Danielle Bensky spoke publicly about the class action lawsuit against the DOJ and Google, revealing her name appeared multiple times across different document batches."
 people:
   - jeffrey-epstein

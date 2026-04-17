@@ -2,7 +2,7 @@
 title: "CNN: Sarah Ferguson Privately Praised Epstein as 'Spectacular Friend' After Conviction"
 publishedAt: "2026-03-12T18:00:00.000Z"
 source: "CNN"
-sourceUrl: "https://www.cnn.com/2026/03/12/uk/sarah-ferguson-epstein-private-praise-intl"
+sourceUrl: "https://www.cnn.com/2026/02/17/uk/sarah-ferguson-companies-epstein-fallout-intl"
 summary: "CNN's examination of dozens of files reveals Sarah Ferguson publicly criticized Epstein but privately praised him after his 2008 conviction, calling him a 'spectacular and special friend.'"
 people:
   - sarah-ferguson

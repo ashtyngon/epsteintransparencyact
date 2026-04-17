@@ -2,7 +2,7 @@
 title: "Melania Trump's Epstein Statement Driven by Monthslong Media Fixation"
 publishedAt: "2026-04-10T12:00:00.000Z"
 source: "CNN"
-sourceUrl: "https://www.cnn.com/2026/04/10/politics/melania-trump-epstein-statement-media"
+sourceUrl: "https://www.cnn.com/2026/04/10/politics/melania-trump-epstein-white-house"
 summary: "CNN reported that Melania Trump's April 9 statement on Epstein was driven by a monthslong fixation on press coverage and internet speculation about Epstein ties, stunning White House aides."
 people:
   - donald-trump

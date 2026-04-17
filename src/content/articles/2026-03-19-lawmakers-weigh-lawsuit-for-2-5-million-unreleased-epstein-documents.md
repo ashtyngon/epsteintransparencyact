@@ -2,7 +2,7 @@
 title: "Lawmakers Weigh Lawsuit for 2.5 Million Unreleased Epstein Documents"
 publishedAt: "2026-03-19T14:00:00.000Z"
 source: "CNN"
-sourceUrl: "https://www.cnn.com/2026/03/19/politics/epstein-files-unreleased-documents-lawsuit"
+sourceUrl: "https://www.cnn.com/politics/epstein-files"
 summary: "A CNN investigation found that 2.5 million DOJ Epstein documents remain unreleased, prompting bipartisan lawmakers to consider joining survivors in suing for access."
 people:
   - thomas-massie

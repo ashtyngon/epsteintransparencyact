@@ -2,7 +2,7 @@
 title: "Democrats Storm Out of Bondi Briefing on Epstein Files"
 publishedAt: "2026-03-18T15:00:00.000Z"
 source: "CNN"
-sourceUrl: "https://www.cnn.com/2026/03/18/politics/democrats-walk-out-bondi-epstein-briefing"
+sourceUrl: "https://www.cbsnews.com/news/bondi-deposition-subpoena-house-oversight-committee-epstein/"
 summary: "Democratic House Oversight members walked out of a closed-door briefing with Attorney General Pam Bondi after she refused to commit to complying with a subpoena for sworn testimony on the Epstein files."
 people:
   - pam-bondi

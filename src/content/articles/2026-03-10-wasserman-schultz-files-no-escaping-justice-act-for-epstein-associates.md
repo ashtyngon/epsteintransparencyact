@@ -2,7 +2,7 @@
 title: "Rep. Wasserman Schultz Files 'No Escaping Justice Act' for Epstein Associates"
 publishedAt: "2026-03-10T14:00:00.000Z"
 source: "CBS12"
-sourceUrl: "https://cbs12.com/news/local/wasserman-schultz-no-escaping-justice-act-epstein-2026"
+sourceUrl: "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=no-escaping-justice-act"
 summary: "Rep. Debbie Wasserman Schultz introduced the No Escaping Justice Act, which would impose visa bans and asset-blocking sanctions on foreign nationals implicated in the Epstein files."
 people:
   - jeffrey-epstein

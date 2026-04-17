@@ -2,7 +2,7 @@
 title: "Blanche's First Press Conference: Dodges Bondi Firing, Epstein Questions"
 publishedAt: "2026-04-07T16:00:00.000Z"
 source: "NBC News"
-sourceUrl: "https://www.nbcnews.com/politics/justice-department/blanche-press-conference-bondi-epstein"
+sourceUrl: "https://www.nbcnews.com/politics/justice-department/acting-attorney-general-todd-blanche-says-doj-isnt-focused-trumps-enem-rcna267102"
 summary: "Acting AG Todd Blanche held his first press conference, declining to explain Bondi's firing and contradicting his own earlier statements about moving past Epstein files."
 people:
   - pam-bondi
