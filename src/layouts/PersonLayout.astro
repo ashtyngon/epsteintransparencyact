@@ -136,7 +136,7 @@ const jsonLd = personJsonLd({
         <div class="flex flex-wrap gap-2">
           {notableConnections.map((slug) => (
             <a
-              href={`/people/${slug}`}
+              href={`/people/${slug}/`}
               class="text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-accent hover:text-accent transition-colors no-underline"
             >
               {slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}

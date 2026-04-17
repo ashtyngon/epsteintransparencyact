@@ -27,7 +27,7 @@ const entries = (await getCollection('survivors'))
       <div class="space-y-4">
         {entries.map((entry) => (
           <a
-            href={`/survivors/${entry.id}`}
+            href={`/survivors/${entry.id}/`}
             class="block bg-white rounded-lg border border-border p-5 hover:shadow-md transition-shadow no-underline"
           >
             <div class="text-xs text-text-muted mb-2">
