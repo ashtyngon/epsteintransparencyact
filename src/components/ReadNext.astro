@@ -1,0 +1,82 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import { formatDateShort } from '../utils/slugify';
+
+interface Props {
+  currentArticle: CollectionEntry<'articles'>;
+}
+
+const { currentArticle } = Astro.props;
+
+const allArticles = await getCollection('articles', (a) =>
+  a.data.status === 'published' && a.id !== currentArticle.id
+);
+
+// Score each article by:
+// - shared people (weight 3)
+// - shared tags (weight 2)
+// - recency (weight 1 for same month)
+const currentPeople = new Set(currentArticle.data.people);
+const currentTags = new Set(currentArticle.data.tags);
+const currentMonth = currentArticle.data.publishedAt.toISOString().slice(0, 7);
+
+// Universal names appear in nearly every article - exclude from scoring
+const UNIVERSAL = new Set(['jeffrey-epstein', 'ghislaine-maxwell']);
+
+const scored = allArticles.map((a) => {
+  let score = 0;
+  for (const p of a.data.people) {
+    if (currentPeople.has(p) && !UNIVERSAL.has(p)) score += 3;
+  }
+  for (const t of a.data.tags) {
+    if (currentTags.has(t)) score += 2;
+  }
+  if (a.data.publishedAt.toISOString().slice(0, 7) === currentMonth) score += 1;
+  return { article: a, score };
+});
+
+// Pick top 4 scored, or fall back to most recent if no overlap
+const topScored = scored
+  .filter((s) => s.score > 0)
+  .sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return b.article.data.publishedAt.getTime() - a.article.data.publishedAt.getTime();
+  })
+  .slice(0, 4);
+
+const fallback = allArticles
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
+  .slice(0, 4);
+
+const toShow = topScored.length >= 3 ? topScored.map((s) => s.article) : fallback;
+---
+
+{toShow.length > 0 && (
+  <aside class="mt-12 pt-8 border-t-4 border-accent bg-surface-dark -mx-4 sm:-mx-6 px-4 sm:px-6 py-8">
+    <div class="max-w-3xl mx-auto">
+      <h2 class="text-sm font-bold uppercase tracking-widest text-accent mb-1">Read Next</h2>
+      <p class="text-xs text-text-muted mb-6">Related coverage on people, tags, and events in this story</p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {toShow.map((a) => (
+          <a
+            href={`/news/${a.id}/`}
+            class="group block p-4 border border-border hover:border-accent hover:bg-surface transition-colors no-underline"
+          >
+            <div class="flex items-center gap-2 mb-2">
+              <span class="source-badge text-[10px]">{a.data.source}</span>
+              <span class="text-xs text-text-muted font-mono">{formatDateShort(a.data.publishedAt)}</span>
+            </div>
+            <h3 class="font-serif text-base font-bold text-primary group-hover:text-accent transition-colors leading-snug">
+              {a.data.title}
+            </h3>
+            <p class="text-xs text-text-muted leading-relaxed line-clamp-2 mt-2">
+              {a.data.summary}
+            </p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </aside>
+)}

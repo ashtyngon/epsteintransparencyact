@@ -3,6 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import SourceAttribution from '../components/SourceAttribution.astro';
 import RelatedPeople from '../components/RelatedPeople.astro';
+import ReadNext from '../components/ReadNext.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import { articleJsonLd } from '../utils/json-ld';
 import { formatDate } from '../utils/slugify';
@@ -182,6 +183,9 @@ const hasToc = tocHeadings.length >= 4;
               <RelatedPeople slugs={people} />
             </div>
           )}
+
+          <!-- Read Next: smart recommendations based on shared people/tags -->
+          <ReadNext currentArticle={article} />
         </div>
 
         <!-- Sidebar ToC (desktop only, sticky) -->

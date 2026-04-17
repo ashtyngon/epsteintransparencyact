@@ -1,0 +1,161 @@
+---
+import { getCollection } from 'astro:content';
+import { formatDateShort } from '../utils/slugify';
+
+interface Props {
+  personSlug: string;
+  personName: string;
+}
+
+const { personSlug, personName } = Astro.props;
+
+const allArticles = await getCollection('articles', (a) =>
+  a.data.status === 'published' && a.data.people.includes(personSlug)
+);
+
+const articleCount = allArticles.length;
+
+// Latest article
+const sortedArticles = allArticles.sort(
+  (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+);
+const latestArticle = sortedArticles[0];
+const firstArticle = sortedArticles[sortedArticles.length - 1];
+
+// Articles in last 30 days
+const thirtyDaysAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000);
+const recentCount = allArticles.filter((a) => a.data.publishedAt > thirtyDaysAgo).length;
+
+// Most co-mentioned people
+const coMentions: Record<string, number> = {};
+for (const article of allArticles) {
+  for (const p of article.data.people) {
+    if (p !== personSlug && p !== 'jeffrey-epstein' && p !== 'ghislaine-maxwell') {
+      coMentions[p] = (coMentions[p] || 0) + 1;
+    }
+  }
+}
+const topCoMentions = Object.entries(coMentions)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 6);
+
+// Top tags
+const tagCounts: Record<string, number> = {};
+for (const article of allArticles) {
+  for (const t of article.data.tags) {
+    tagCounts[t] = (tagCounts[t] || 0) + 1;
+  }
+}
+const topTags = Object.entries(tagCounts)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 5);
+
+// Sources count (distinct)
+const sources = new Set(allArticles.map((a) => a.data.source));
+
+function formatPersonName(slug: string): string {
+  return slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
+}
+
+function tagLabel(tag: string): string {
+  return tag.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
+}
+---
+
+{articleCount > 0 && (
+  <div class="my-8 border-l-4 border-accent bg-surface-dark px-6 py-5">
+    <h2 class="text-xs font-bold uppercase tracking-widest text-accent mb-4">
+      {personName} in the Epstein Files — By the Numbers
+    </h2>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+      <div>
+        <div class="text-2xl md:text-3xl font-serif font-bold text-primary">{articleCount}</div>
+        <div class="text-[11px] uppercase tracking-wider text-text-muted mt-1">
+          Articles Covering {personName}
+        </div>
+      </div>
+      <div>
+        <div class="text-2xl md:text-3xl font-serif font-bold text-primary">{recentCount}</div>
+        <div class="text-[11px] uppercase tracking-wider text-text-muted mt-1">
+          In Last 30 Days
+        </div>
+      </div>
+      <div>
+        <div class="text-2xl md:text-3xl font-serif font-bold text-primary">{sources.size}</div>
+        <div class="text-[11px] uppercase tracking-wider text-text-muted mt-1">
+          Distinct Sources
+        </div>
+      </div>
+      <div>
+        <div class="text-2xl md:text-3xl font-serif font-bold text-primary">{topCoMentions.length}</div>
+        <div class="text-[11px] uppercase tracking-wider text-text-muted mt-1">
+          Connected People
+        </div>
+      </div>
+    </div>
+
+    {latestArticle && (
+      <div class="text-sm text-text-primary">
+        <span class="font-semibold">Most recent coverage:</span>{' '}
+        <a href={`/news/${latestArticle.id}/`} class="text-accent hover:text-primary transition-colors">
+          {latestArticle.data.title}
+        </a>{' '}
+        <span class="text-text-muted text-xs font-mono">
+          ({formatDateShort(latestArticle.data.publishedAt)})
+        </span>
+      </div>
+    )}
+
+    {firstArticle && articleCount > 1 && (
+      <div class="text-sm text-text-primary mt-2">
+        <span class="font-semibold">First covered:</span>{' '}
+        <a href={`/news/${firstArticle.id}/`} class="text-accent hover:text-primary transition-colors">
+          {firstArticle.data.title}
+        </a>{' '}
+        <span class="text-text-muted text-xs font-mono">
+          ({formatDateShort(firstArticle.data.publishedAt)})
+        </span>
+      </div>
+    )}
+  </div>
+)}
+
+{topCoMentions.length > 0 && (
+  <div class="my-8">
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">
+      Most Frequently Mentioned Alongside {personName}
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+      {topCoMentions.map(([slug, count]) => (
+        <a
+          href={`/people/${slug}/`}
+          class="flex items-center justify-between p-3 border border-border hover:border-accent hover:bg-surface-dark transition-colors no-underline group"
+        >
+          <span class="text-sm font-medium text-primary group-hover:text-accent transition-colors">
+            {formatPersonName(slug)}
+          </span>
+          <span class="text-xs font-mono text-text-muted">
+            {count} {count === 1 ? 'article' : 'articles'}
+          </span>
+        </a>
+      ))}
+    </div>
+  </div>
+)}
+
+{topTags.length > 0 && (
+  <div class="my-8">
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">
+      Topics Covered
+    </h2>
+    <div class="flex flex-wrap gap-2">
+      {topTags.map(([tag, count]) => (
+        <span class="inline-flex items-center gap-2 px-3 py-1.5 border border-border text-sm">
+          <span class="font-medium text-primary">{tagLabel(tag)}</span>
+          <span class="text-xs font-mono text-text-muted">{count}</span>
+        </span>
+      ))}
+    </div>
+  </div>
+)}

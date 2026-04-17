@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
+import PersonStats from '../components/PersonStats.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import { personJsonLd } from '../utils/json-ld';
 import type { CollectionEntry } from 'astro:content';
@@ -124,6 +125,9 @@ const jsonLd = personJsonLd({
 
   <!-- Content -->
   <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Data-rich stats (shows for every person with articles) -->
+    <PersonStats personSlug={person.id} personName={name} />
+
     <TableOfContents headings={headings} minHeadings={4} />
     <div class="prose-article">
       <slot />
