@@ -8,6 +8,7 @@ people:
   - jeffrey-epstein
   - nancy-mace
   - ghislaine-maxwell
+  - kash-patel
 relatedArticles:
   - fbi-begins-epstein-records-review
   - epstein-transparency-act-signed-into-law
