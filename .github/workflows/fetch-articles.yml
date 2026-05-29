@@ -53,6 +53,10 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API }}
 
+      - name: Scaffold review-stub profiles for newly-named people
+        run: npx tsx scripts/scaffold-people.ts
+        timeout-minutes: 2
+
       - name: Cross-link people and article mentions
         run: npx tsx scripts/cross-link.ts
         timeout-minutes: 1
@@ -68,7 +72,7 @@ jobs:
           git config user.email "bot@epsteintransparencyact.com"
 
           # Stage ALL tracked changes in content + config (catches cross-link edits, topics, health, etc.)
-          git add src/content/articles/ scripts/config/processed-urls.json scripts/config/article-topics.json scripts/config/feed-health.json
+          git add src/content/articles/ src/content/people/ scripts/config/processed-urls.json scripts/config/article-topics.json scripts/config/feed-health.json
 
           # Bail early if nothing to commit
           if git diff --staged --quiet; then

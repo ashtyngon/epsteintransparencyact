@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { categoryLabelShort as categoryLabels, categoryColorClass as categoryColors } from '../utils/categories';
 
 interface Props {
   person: CollectionEntry<'people'>;
@@ -7,26 +8,6 @@ interface Props {
 
 const { person } = Astro.props;
 const { name, role, category, shortBio, image } = person.data;
-
-const categoryLabels: Record<string, string> = {
-  'named-in-documents': 'Named',
-  witness: 'Witness',
-  associate: 'Associate',
-  official: 'Official',
-  legal: 'Legal',
-  'victim-survivor': 'Survivor',
-  other: 'Other',
-};
-
-const categoryColors: Record<string, string> = {
-  'named-in-documents': 'bg-highlight text-white',
-  witness: 'bg-amber-600 text-white',
-  associate: 'bg-red-700 text-white',
-  official: 'bg-blue-700 text-white',
-  legal: 'bg-purple-700 text-white',
-  'victim-survivor': 'bg-emerald-700 text-white',
-  other: 'bg-gray-600 text-white',
-};
 
 const initials = name.split(' ').map((n: string) => n[0]).join('').slice(0, 2);
 ---

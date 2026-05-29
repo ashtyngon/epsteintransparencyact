@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import { getEra, getEraCategoryLabel } from '../utils/timeline-eras';
+
+interface Props {
+  personSlug: string;
+  personName: string;
+}
+
+const { personSlug, personName } = Astro.props;
+
+const events = (await getCollection('timeline', (e) => e.data.people.includes(personSlug))).sort(
+  (a, b) => a.data.date.getTime() - b.data.date.getTime() || a.data.order - b.data.order,
+);
+---
+
+{events.length > 0 && (
+  <div class="mt-10 pt-8 border-t-2 border-primary">
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">
+      {personName} in the Timeline
+    </h2>
+    <div class="space-y-0">
+      {events.map((entry) => {
+        const era = getEra(entry.data.era);
+        const catLabel = getEraCategoryLabel(entry.data.category);
+        return (
+          <a
+            href={`/timeline/${entry.id}/`}
+            class="flex items-start gap-3 group no-underline py-3 border-b border-border last:border-b-0"
+          >
+            <span class="w-1.5 h-1.5 flex-shrink-0 mt-[8px]" style={`background:${era.color}`}></span>
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-2 mb-0.5">
+                <span class="text-[11px] font-mono text-text-muted">
+                  {entry.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
+                </span>
+                <span class="text-[9px] font-semibold uppercase tracking-wider text-text-muted/70">
+                  {catLabel}
+                </span>
+              </div>
+              <h3 class="text-base font-serif font-bold text-primary group-hover:text-accent transition-colors leading-snug">
+                {entry.data.title}
+              </h3>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+)}

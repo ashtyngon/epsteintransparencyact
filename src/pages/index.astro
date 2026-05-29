@@ -1,187 +1,504 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PersonCard from '../components/PersonCard.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import { websiteJsonLd } from '../utils/json-ld';
-import { formatDateShort } from '../utils/slugify';
 import { getEra, getEraCategoryLabel } from '../utils/timeline-eras';
+import {
+  CATEGORY_ORDER,
+  categoryLabel as categoryLabels,
+  categoryLabelPlural,
+  categoryColorClass as categoryColors,
+} from '../utils/categories';
 
-const allArticles = (await getCollection('articles', (a) => a.data.status === 'published'))
-  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+const people = await getCollection('people');
 
-// Hero: most recent feature article if published within last 24h, otherwise latest article
-const oneDayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
-const recentFeature = allArticles.find((a) => a.data.articleType === 'feature' && a.data.publishedAt > oneDayAgo);
-const heroArticle = recentFeature || allArticles[0];
-const remainingArticles = allArticles.filter((a) => a.id !== heroArticle?.id).slice(0, 9);
+// Helper: extract last name
+function getLastName(name: string): string {
+  const parts = name.trim().split(/\s+/);
+  return parts[parts.length - 1];
+}
 
-const people = (await getCollection('people')).slice(0, 4);
+// Sort by last name
+const peopleSorted = [...people].sort((a, b) =>
+  getLastName(a.data.name).localeCompare(getLastName(b.data.name))
+);
+
+// A-Z nav based on last name
+const letters = [...new Set(peopleSorted.map((p) => getLastName(p.data.name)[0].toUpperCase()))].sort();
+
+// Category grouping for profiles view
+const categories = CATEGORY_ORDER.filter((cat) => people.some((p) => p.data.category === cat));
+
+// Counts
+const namedCount = people.filter((p) => p.data.category === 'named-in-documents').length;
+const totalCount = people.length;
+
+// Serialize for client-side JS
+const peopleJson = peopleSorted.map((p) => ({
+  id: p.id,
+  name: p.data.name,
+  lastName: getLastName(p.data.name),
+  role: p.data.role,
+  category: p.data.category,
+}));
+
+// Latest coverage (secondary section)
+const allArticles = (await getCollection('articles', (a) => a.data.status === 'published')).sort(
+  (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+);
+const latestArticles = allArticles.slice(0, 5);
+const articleCount = allArticles.length;
 
 // Timeline preview — 4 most recent events
 const timelineEntries = (await getCollection('timeline'))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 4);
 
-function timeAgo(date: Date): string {
-  const now = new Date();
-  const diff = now.getTime() - date.getTime();
-  const hours = Math.floor(diff / (1000 * 60 * 60));
-  const days = Math.floor(hours / 24);
-  if (hours < 1) return 'Just now';
-  if (hours < 24) return `${hours}h ago`;
-  if (days < 7) return `${days}d ago`;
-  return formatDateShort(date);
-}
+const itemListJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Full List of Names in the Epstein Files',
+  description: `All ${totalCount} individuals documented in connection with the Jeffrey Epstein case — named in DOJ files, associates, officials, witnesses, and survivors.`,
+  numberOfItems: totalCount,
+  itemListElement: peopleSorted.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: p.data.name,
+    url: `https://epsteintransparencyact.com/people/${p.id}/`,
+  })),
+};
 ---
 
 <BaseLayout
-  title="Home"
-  description="Track every name, document, and DOJ release from the Epstein Files. Searchable database of 300+ people named in documents, timeline of events, and daily sourced coverage of the Epstein Transparency Act."
-  jsonLd={websiteJsonLd()}
+  title="Full List of Names in the Epstein Files"
+  description={`Complete A-Z list of all ${totalCount} individuals named in the Epstein Files — politicians, billionaires, royals, academics, associates, and officials documented in DOJ releases. Updated daily.`}
+  jsonLd={[websiteJsonLd(), itemListJsonLd]}
 >
-  <!-- Hero — latest feature article -->
-  {heroArticle && (
-    <section class="bg-primary text-white">
-      <a href={`/news/${heroArticle.id}/`} class="block no-underline group">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 md:py-14">
-          <div class="flex items-center gap-3 mb-4">
-            <span class="breaking-tag">{heroArticle.data.articleType === 'feature' ? 'Featured' : 'Latest'}</span>
-            <span class="text-xs text-white/40 font-mono">{timeAgo(heroArticle.data.publishedAt)}</span>
-          </div>
-          <h2 class="text-3xl md:text-5xl font-serif font-bold mb-4 leading-[1.15] tracking-tight max-w-4xl group-hover:text-white/90 transition-colors">
-            {heroArticle.data.title}
-          </h2>
-          <p class="text-base md:text-lg text-white/60 leading-relaxed max-w-3xl mb-6">
-            {heroArticle.data.summary}
-          </p>
-          <div class="flex flex-wrap items-center gap-4">
-            <span class="text-sm font-semibold text-highlight group-hover:text-white transition-colors">
-              Read full story &rarr;
-            </span>
-          </div>
-        </div>
-      </a>
-    </section>
-  )}
+  <!-- Hero -->
+  <header class="bg-primary text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 pt-10 pb-8">
+      <p class="text-[11px] font-semibold uppercase tracking-[0.2em] text-highlight mb-3">
+        Epstein Files Transparency Tracker &middot; Updated daily
+      </p>
+      <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.1] mb-4 max-w-4xl">
+        Full List of Names in the Epstein Files
+      </h1>
+      <p class="text-base text-white/60 leading-relaxed max-w-2xl mb-5">
+        Every individual documented in connection with the Jeffrey Epstein case &mdash;
+        <span class="text-white font-semibold">{totalCount} people</span>, including {namedCount} named
+        directly in DOJ files. Continuously updated as new documents are released and new names are
+        identified. Click any name for a sourced profile with connections, timeline, and coverage.
+      </p>
 
-  <!-- Latest news feed -->
-  <section class="max-w-7xl mx-auto px-4 sm:px-6 py-10">
-    <!-- Section header -->
-    <div class="flex items-center justify-between mb-6 border-b-2 border-primary pb-2">
-      <h2 class="text-sm font-semibold uppercase tracking-wider text-primary">Latest Coverage</h2>
-      <a href="/news" class="text-xs font-semibold uppercase tracking-wider text-accent hover:text-primary transition-colors">
-        All stories &rarr;
+      <!-- Search entry (links to dedicated search page) -->
+      <a
+        href="/search/"
+        class="flex items-center gap-3 max-w-xl bg-white/10 hover:bg-white/[0.15] border border-white/15 px-4 py-3 no-underline transition-colors group mb-5"
+      >
+        <svg class="w-4 h-4 text-white/40 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M11 18a7 7 0 100-14 7 7 0 000 14z" />
+        </svg>
+        <span class="text-sm text-white/50 group-hover:text-white/80 transition-colors">
+          Search {totalCount} names and {articleCount} articles&hellip;
+        </span>
       </a>
+
+      <p class="text-xs text-white/30 leading-relaxed max-w-2xl">
+        Inclusion in this list does not imply guilt, wrongdoing, or criminal conduct of any kind. Many
+        individuals appear in the files only in passing, as part of routine correspondence, or because
+        they are mentioned in news articles and links shared with or about Epstein. Each profile
+        specifies the exact nature and context of their connection based on publicly available documents.
+      </p>
+    </div>
+  </header>
+
+  <!-- Letter jump nav (list view only) -->
+  <div id="letter-nav" class="border-b border-border bg-white sticky top-[57px] z-40">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <nav id="letter-links" class="flex flex-wrap gap-0" aria-label="Jump to letter">
+        {letters.map((letter) => (
+          <a
+            href={`#letter-${letter}`}
+            class="px-3 py-2.5 text-xs font-bold text-text-muted hover:text-primary hover:bg-surface-dark transition-colors"
+          >
+            {letter}
+          </a>
+        ))}
+      </nav>
+    </div>
+  </div>
+
+  <!-- Directory -->
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Controls bar -->
+    <div class="flex flex-wrap items-center justify-between gap-4 mb-6">
+      <div class="flex flex-wrap gap-4 text-xs text-text-muted font-mono">
+        <span id="count-display">{totalCount} people total</span>
+        <span class="text-border">|</span>
+        <span>{namedCount} named in documents</span>
+        <span class="text-border">|</span>
+        <span>Updated daily</span>
+      </div>
+
+      <!-- View toggle -->
+      <div class="flex border border-border rounded overflow-hidden text-xs font-semibold">
+        <button id="view-list" class="px-3 py-1.5 bg-primary text-white transition-colors" aria-pressed="true">
+          List
+        </button>
+        <button id="view-profiles" class="px-3 py-1.5 bg-white text-text-muted hover:text-primary transition-colors" aria-pressed="false">
+          Profiles
+        </button>
+      </div>
     </div>
 
-    {allArticles.length > 0 ? (
-      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
-        <!-- Main column: articles -->
-        <div class="lg:col-span-8">
+    <!-- Filter & sort (list view only) -->
+    <div id="filter-controls" class="flex flex-wrap items-center gap-3 mb-6">
+      <div class="flex items-center gap-2">
+        <label for="category-filter" class="text-xs font-semibold text-text-muted uppercase tracking-wider">Filter:</label>
+        <select id="category-filter" class="text-xs border border-border rounded px-2 py-1.5 bg-white text-text font-medium focus:outline-none focus:ring-1 focus:ring-primary">
+          <option value="all">All categories</option>
+          {CATEGORY_ORDER.map((cat) => (
+            <option value={cat}>{categoryLabels[cat]}</option>
+          ))}
+        </select>
+      </div>
+      <div class="flex items-center gap-2">
+        <label class="text-xs font-semibold text-text-muted uppercase tracking-wider">Sort:</label>
+        <button id="sort-toggle" class="flex items-center gap-1.5 text-xs border border-border rounded px-2 py-1.5 bg-white text-text font-medium hover:bg-surface-dark transition-colors">
+          <span id="sort-label">A &rarr; Z</span>
+          <svg id="sort-icon" class="w-3 h-3 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- ===== LIST VIEW (default) ===== -->
+    <div id="list-view">
+      <!-- Noscript fallback: server-rendered list sorted by last name -->
+      <noscript>
+        <div class="border border-border">
+          <div class="hidden sm:grid sm:grid-cols-[200px_1fr_120px] gap-4 px-4 py-2.5 bg-primary text-white text-[11px] font-semibold uppercase tracking-wider">
+            <span>Name</span>
+            <span>Role</span>
+            <span>Category</span>
+          </div>
+          {letters.map((letter) => {
+            const letterPeople = peopleSorted.filter((p) => getLastName(p.data.name)[0].toUpperCase() === letter);
+            return (
+              <>
+                <div id={`letter-${letter}`} class="scroll-mt-32 px-4 py-2 bg-surface-dark border-t border-border">
+                  <span class="text-lg font-serif font-bold text-primary">{letter}</span>
+                  <span class="text-xs text-text-muted ml-2 font-mono">({letterPeople.length})</span>
+                </div>
+                {letterPeople.map((person) => (
+                  <a
+                    href={`/people/${person.id}/`}
+                    class="group no-underline grid sm:grid-cols-[200px_1fr_120px] gap-1 sm:gap-4 px-4 py-3 border-t border-border hover:bg-accent/5 transition-colors"
+                  >
+                    <div>
+                      <span class="font-semibold text-primary group-hover:text-accent transition-colors text-sm sm:text-base">
+                        {person.data.name}
+                      </span>
+                      <div class="sm:hidden flex items-center gap-2 mt-0.5">
+                        <span class="text-xs text-text-muted">{person.data.role}</span>
+                        <span class:list={[
+                          'text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5',
+                          categoryColors[person.data.category] || 'bg-gray-600 text-white',
+                        ]}>
+                          {categoryLabels[person.data.category] || person.data.category}
+                        </span>
+                      </div>
+                    </div>
+                    <span class="hidden sm:block text-sm text-text-muted self-center">{person.data.role}</span>
+                    <span class="hidden sm:block self-center">
+                      <span class:list={[
+                        'text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5',
+                        categoryColors[person.data.category] || 'bg-gray-600 text-white',
+                      ]}>
+                        {categoryLabels[person.data.category] || person.data.category}
+                      </span>
+                    </span>
+                  </a>
+                ))}
+              </>
+            );
+          })}
+        </div>
+      </noscript>
+
+      <!-- JS-rendered list -->
+      <div id="js-list" class="border border-border">
+        <div class="hidden sm:grid sm:grid-cols-[200px_1fr_120px] gap-4 px-4 py-2.5 bg-primary text-white text-[11px] font-semibold uppercase tracking-wider">
+          <span>Name</span>
+          <span>Role</span>
+          <span>Category</span>
+        </div>
+      </div>
+
+      <div id="no-results" class="hidden py-12 text-center">
+        <p class="text-text-muted text-sm">No people match the selected filter.</p>
+      </div>
+
+      <!-- Bottom note -->
+      <div class="mt-8 p-5 border border-border bg-surface-dark">
+        <h2 class="text-xs font-semibold uppercase tracking-wider text-primary mb-2">About This List</h2>
+        <p class="text-sm text-text-muted leading-relaxed">
+          This list is compiled from DOJ document releases under the Epstein Files Transparency Act, court filings, congressional testimony, and investigative reporting. It is updated as new names are identified in released documents. For detailed profiles with full source citations, click any name above. Switch to the <button id="switch-to-profiles" class="text-accent hover:text-primary transition-colors underline font-medium">Profiles view</button> for categorized profile cards.
+        </p>
+      </div>
+    </div>
+
+    <!-- ===== PROFILES VIEW (hidden by default) ===== -->
+    <div id="profiles-view" class="hidden">
+      {categories.map((cat) => {
+        const categoryPeople = people.filter((p) => p.data.category === cat).sort((a, b) => getLastName(a.data.name).localeCompare(getLastName(b.data.name)));
+        return categoryPeople.length > 0 ? (
+          <section class="mb-10">
+            <div class="flex items-center justify-between mb-4 border-b-2 border-primary pb-2">
+              <h2 class="text-sm font-semibold uppercase tracking-wider text-primary">
+                {categoryLabelPlural[cat] || cat}
+              </h2>
+              <span class="text-xs text-text-muted font-mono">{categoryPeople.length}</span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {categoryPeople.map((person) => (
+                <PersonCard person={person} />
+              ))}
+            </div>
+          </section>
+        ) : null;
+      })}
+    </div>
+  </div>
+
+  <!-- ===== Secondary: Latest coverage + Timeline ===== -->
+  <section class="border-t border-border bg-surface-dark/40">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-10 grid grid-cols-1 lg:grid-cols-12 gap-8">
+      <!-- Latest coverage -->
+      <div class="lg:col-span-8">
+        <div class="flex items-center justify-between mb-4 border-b-2 border-primary pb-2">
+          <h2 class="text-sm font-semibold uppercase tracking-wider text-primary">Latest Coverage</h2>
+          <a href="/news/" class="text-xs font-semibold uppercase tracking-wider text-accent hover:text-primary transition-colors">
+            All stories &rarr;
+          </a>
+        </div>
+        {latestArticles.length > 0 ? (
           <div>
-            {remainingArticles.map((article) => (
+            {latestArticles.map((article) => (
               <ArticleCard article={article} />
             ))}
           </div>
-        </div>
+        ) : (
+          <p class="text-sm text-text-muted">No coverage yet.</p>
+        )}
+      </div>
 
-        <!-- Sidebar -->
-        <aside class="lg:col-span-4">
-          <!-- People in the news -->
-          {people.length > 0 && (
-            <div class="mb-8">
-              <div class="flex items-center justify-between mb-4 border-b-2 border-primary pb-2">
-                <h3 class="text-sm font-semibold uppercase tracking-wider text-primary">Key People</h3>
-                <a href="/people" class="text-xs font-semibold text-accent hover:text-primary transition-colors">
-                  View all &rarr;
-                </a>
-              </div>
-              <div class="space-y-3">
-                {people.map((person) => (
-                  <a
-                    href={`/people/${person.id}/`}
-                    class="block group no-underline p-3 border border-border hover:border-accent/30 transition-colors"
-                  >
-                    <div class="flex items-start justify-between gap-2">
-                      <div>
-                        <h4 class="text-sm font-bold text-primary group-hover:text-accent transition-colors">
-                          {person.data.name}
-                        </h4>
-                        <p class="text-xs text-text-muted mt-0.5">{person.data.role}</p>
-                      </div>
-                      <span class="text-[10px] font-semibold uppercase tracking-wider text-text-muted bg-surface-dark px-2 py-0.5">
-                        {person.data.category.replace(/-/g, ' ')}
-                      </span>
-                    </div>
-                  </a>
-                ))}
-              </div>
-            </div>
-          )}
-
-          <!-- Timeline preview -->
-          <div class="bg-primary text-white p-5">
-            <div class="flex items-center justify-between mb-4">
-              <h3 class="text-xs font-semibold uppercase tracking-wider text-white/50">Timeline</h3>
-              <a href="/timeline" class="text-xs font-semibold text-highlight hover:text-white transition-colors">
-                Full timeline &rarr;
-              </a>
-            </div>
-            {timelineEntries.length > 0 ? (
-              <div class="space-y-0">
-                {timelineEntries.map((entry) => {
-                  const era = getEra(entry.data.era);
-                  const catLabel = getEraCategoryLabel(entry.data.category);
-                  return (
-                    <a
-                      href={`/timeline/${entry.id}/`}
-                      class="flex items-start gap-3 group no-underline py-2.5 border-b border-white/10 last:border-b-0"
-                    >
-                      <span class="w-1.5 h-1.5 flex-shrink-0 mt-[7px]" style={`background:${era.color}`}></span>
-                      <div class="flex-1 min-w-0">
-                        <div class="flex items-center gap-2 mb-0.5">
-                          <span class="text-[10px] font-mono text-white/35">
-                            {entry.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
-                          </span>
-                          <span class="text-[9px] font-semibold uppercase tracking-wider text-white/25">
-                            {catLabel}
-                          </span>
-                        </div>
-                        <h4 class="text-sm font-serif font-bold text-white/80 group-hover:text-white transition-colors leading-snug line-clamp-2">
-                          {entry.data.title}
-                        </h4>
-                      </div>
-                    </a>
-                  );
-                })}
-              </div>
-            ) : (
-              <p class="text-sm text-white/50">Timeline coming soon.</p>
-            )}
-          </div>
-
-          <!-- About teaser -->
-          <div class="mt-6 p-5 border border-border">
-            <h3 class="text-xs font-semibold uppercase tracking-wider text-primary mb-3">About This Site</h3>
-            <p class="text-sm text-text-muted leading-relaxed">
-              Independent, source-first tracker of the Epstein Files. Every claim cited, every name cross-referenced, every document linked to the original DOJ release.
-            </p>
-            <a
-              href="/about"
-              class="inline-block mt-3 text-xs font-semibold text-accent hover:text-primary transition-colors"
-            >
-              Learn more &rarr;
+      <!-- Timeline teaser -->
+      <aside class="lg:col-span-4">
+        <div class="bg-primary text-white p-5">
+          <div class="flex items-center justify-between mb-4">
+            <h2 class="text-xs font-semibold uppercase tracking-wider text-white/50">Timeline</h2>
+            <a href="/timeline/" class="text-xs font-semibold text-highlight hover:text-white transition-colors">
+              Full timeline &rarr;
             </a>
           </div>
-        </aside>
-      </div>
-    ) : (
-      <div class="text-center py-16">
-        <p class="text-text-muted text-lg font-serif">No stories yet.</p>
-        <p class="text-text-muted text-sm mt-2">
-          Check back soon — we're tracking the latest developments.
-        </p>
-      </div>
-    )}
+          {timelineEntries.length > 0 ? (
+            <div class="space-y-0">
+              {timelineEntries.map((entry) => {
+                const era = getEra(entry.data.era);
+                const catLabel = getEraCategoryLabel(entry.data.category);
+                return (
+                  <a
+                    href={`/timeline/${entry.id}/`}
+                    class="flex items-start gap-3 group no-underline py-2.5 border-b border-white/10 last:border-b-0"
+                  >
+                    <span class="w-1.5 h-1.5 flex-shrink-0 mt-[7px]" style={`background:${era.color}`}></span>
+                    <div class="flex-1 min-w-0">
+                      <div class="flex items-center gap-2 mb-0.5">
+                        <span class="text-[10px] font-mono text-white/35">
+                          {entry.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
+                        </span>
+                        <span class="text-[9px] font-semibold uppercase tracking-wider text-white/25">
+                          {catLabel}
+                        </span>
+                      </div>
+                      <h3 class="text-sm font-serif font-bold text-white/80 group-hover:text-white transition-colors leading-snug line-clamp-2">
+                        {entry.data.title}
+                      </h3>
+                    </div>
+                  </a>
+                );
+              })}
+            </div>
+          ) : (
+            <p class="text-sm text-white/50">Timeline coming soon.</p>
+          )}
+        </div>
+      </aside>
+    </div>
   </section>
 </BaseLayout>
+
+<script define:vars={{ peopleJson, categoryLabels, categoryColors }}>
+  // ---- State ----
+  let currentCategory = 'all';
+  let sortDir = 'asc';
+
+  // ---- DOM ----
+  const jsList = document.getElementById('js-list');
+  const noResults = document.getElementById('no-results');
+  const letterLinksContainer = document.getElementById('letter-links');
+  const letterNav = document.getElementById('letter-nav');
+  const filterControls = document.getElementById('filter-controls');
+  const countDisplay = document.getElementById('count-display');
+  const categoryFilter = document.getElementById('category-filter');
+  const sortToggle = document.getElementById('sort-toggle');
+  const sortLabel = document.getElementById('sort-label');
+  const sortIcon = document.getElementById('sort-icon');
+  const listBtn = document.getElementById('view-list');
+  const profilesBtn = document.getElementById('view-profiles');
+  const listView = document.getElementById('list-view');
+  const profilesView = document.getElementById('profiles-view');
+  const switchToProfiles = document.getElementById('switch-to-profiles');
+  const switchToList = document.getElementById('switch-to-list');
+
+  function getFiltered() {
+    let list = peopleJson;
+    if (currentCategory !== 'all') {
+      list = list.filter(p => p.category === currentCategory);
+    }
+    list = [...list].sort((a, b) => {
+      const cmp = a.lastName.localeCompare(b.lastName);
+      return sortDir === 'asc' ? cmp : -cmp;
+    });
+    return list;
+  }
+
+  function renderList() {
+    const filtered = getFiltered();
+
+    // Keep only the table header
+    const header = jsList.querySelector(':scope > div:first-child');
+    const headerHTML = header ? header.outerHTML : '';
+    jsList.innerHTML = headerHTML;
+
+    if (filtered.length === 0) {
+      noResults.classList.remove('hidden');
+      jsList.classList.add('hidden');
+      updateLetterNav([]);
+      countDisplay.textContent = '0 people shown';
+      return;
+    }
+
+    noResults.classList.add('hidden');
+    jsList.classList.remove('hidden');
+    countDisplay.textContent = filtered.length === peopleJson.length
+      ? peopleJson.length + ' people total'
+      : filtered.length + ' of ' + peopleJson.length + ' shown';
+
+    // Group by last-name letter
+    const groups = {};
+    filtered.forEach(p => {
+      const letter = p.lastName[0].toUpperCase();
+      if (!groups[letter]) groups[letter] = [];
+      groups[letter].push(p);
+    });
+
+    const sortedLetters = Object.keys(groups).sort((a, b) =>
+      sortDir === 'asc' ? a.localeCompare(b) : b.localeCompare(a)
+    );
+
+    updateLetterNav(sortedLetters);
+
+    // Build HTML in one go for performance
+    let html = headerHTML;
+    sortedLetters.forEach(letter => {
+      html += '<div id="letter-' + letter + '" class="scroll-mt-32 px-4 py-2 bg-surface-dark border-t border-border">'
+        + '<span class="text-lg font-serif font-bold text-primary">' + letter + '</span>'
+        + '<span class="text-xs text-text-muted ml-2 font-mono">(' + groups[letter].length + ')</span>'
+        + '</div>';
+
+      groups[letter].forEach(p => {
+        const catColor = categoryColors[p.category] || 'bg-gray-600 text-white';
+        const catLabel = categoryLabels[p.category] || p.category;
+        html += '<a href="/people/' + p.id + '/" class="group no-underline grid sm:grid-cols-[200px_1fr_120px] gap-1 sm:gap-4 px-4 py-3 border-t border-border hover:bg-accent/5 transition-colors">'
+          + '<div>'
+          + '<span class="font-semibold text-primary group-hover:text-accent transition-colors text-sm sm:text-base">' + p.name + '</span>'
+          + '<div class="sm:hidden flex items-center gap-2 mt-0.5">'
+          + '<span class="text-xs text-text-muted">' + p.role + '</span>'
+          + '<span class="text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 ' + catColor + '">' + catLabel + '</span>'
+          + '</div>'
+          + '</div>'
+          + '<span class="hidden sm:block text-sm text-text-muted self-center">' + p.role + '</span>'
+          + '<span class="hidden sm:block self-center">'
+          + '<span class="text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 ' + catColor + '">' + catLabel + '</span>'
+          + '</span>'
+          + '</a>';
+      });
+    });
+
+    jsList.innerHTML = html;
+  }
+
+  function updateLetterNav(sortedLetters) {
+    if (!letterLinksContainer) return;
+    letterLinksContainer.innerHTML = '';
+    sortedLetters.forEach(letter => {
+      const a = document.createElement('a');
+      a.href = '#letter-' + letter;
+      a.className = 'px-3 py-2.5 text-xs font-bold text-text-muted hover:text-primary hover:bg-surface-dark transition-colors';
+      a.textContent = letter;
+      letterLinksContainer.appendChild(a);
+    });
+  }
+
+  // ---- Events ----
+  categoryFilter?.addEventListener('change', () => {
+    currentCategory = categoryFilter.value;
+    renderList();
+  });
+
+  sortToggle?.addEventListener('click', () => {
+    sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+    sortLabel.textContent = sortDir === 'asc' ? 'A → Z' : 'Z → A';
+    sortIcon.style.transform = sortDir === 'asc' ? '' : 'rotate(180deg)';
+    renderList();
+  });
+
+  function showList() {
+    listView?.classList.remove('hidden');
+    profilesView?.classList.add('hidden');
+    letterNav?.classList.remove('hidden');
+    filterControls?.classList.remove('hidden');
+    listBtn?.classList.remove('bg-white', 'text-text-muted');
+    listBtn?.classList.add('bg-primary', 'text-white');
+    listBtn?.setAttribute('aria-pressed', 'true');
+    profilesBtn?.classList.remove('bg-primary', 'text-white');
+    profilesBtn?.classList.add('bg-white', 'text-text-muted');
+    profilesBtn?.setAttribute('aria-pressed', 'false');
+  }
+
+  function showProfiles() {
+    profilesView?.classList.remove('hidden');
+    listView?.classList.add('hidden');
+    letterNav?.classList.add('hidden');
+    filterControls?.classList.add('hidden');
+    profilesBtn?.classList.remove('bg-white', 'text-text-muted');
+    profilesBtn?.classList.add('bg-primary', 'text-white');
+    profilesBtn?.setAttribute('aria-pressed', 'true');
+    listBtn?.classList.remove('bg-primary', 'text-white');
+    listBtn?.classList.add('bg-white', 'text-text-muted');
+    listBtn?.setAttribute('aria-pressed', 'false');
+  }
+
+  listBtn?.addEventListener('click', showList);
+  profilesBtn?.addEventListener('click', showProfiles);
+  switchToProfiles?.addEventListener('click', showProfiles);
+  switchToList?.addEventListener('click', showList);
+
+  // ---- Init ----
+  renderList();
+</script>

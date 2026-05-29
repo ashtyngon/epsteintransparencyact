@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import { getPeopleIndex, getConnectionsFor } from '../utils/connections';
+import { categoryColorHex } from '../utils/categories';
+
+interface Props {
+  personSlug: string;
+  personName: string;
+  notableConnections?: string[];
+}
+
+const { personSlug, personName, notableConnections = [] } = Astro.props;
+
+const people = await getCollection('people');
+const articles = await getCollection('articles', (a) => a.data.status === 'published');
+const peopleIndex = getPeopleIndex(people);
+const connections = getConnectionsFor(personSlug, peopleIndex, articles, notableConnections);
+
+const TOP = 12;
+const top = connections.slice(0, TOP);
+const rest = connections.slice(TOP);
+
+function countLabel(articleCount: number, manual: boolean): string {
+  if (articleCount > 0) return `${articleCount} ${articleCount === 1 ? 'article' : 'articles'}`;
+  return manual ? 'Documented' : '';
+}
+---
+
+{connections.length > 0 && (
+  <div class="mt-10 pt-8 border-t-2 border-primary">
+    <div class="flex items-center justify-between gap-4 mb-2">
+      <h2 class="text-sm font-semibold uppercase tracking-wider text-primary">Connections</h2>
+      <a
+        href={`/connections/?focus=${personSlug}`}
+        class="text-xs font-semibold uppercase tracking-wider text-accent hover:text-primary transition-colors whitespace-nowrap"
+      >
+        View in network &rarr;
+      </a>
+    </div>
+    <p class="text-xs text-text-muted leading-relaxed mb-4 max-w-2xl">
+      People most often named alongside {personName} in coverage, plus documented connections.
+      Counts reflect shared articles, not verified relationships.
+    </p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+      {top.map((c) => (
+        <a
+          href={`/people/${c.slug}/`}
+          class="flex items-center justify-between gap-2 p-3 border border-border hover:border-accent hover:bg-surface-dark transition-colors no-underline group"
+        >
+          <span class="flex items-center gap-2 min-w-0">
+            <span
+              class="w-2 h-2 flex-shrink-0 rounded-full"
+              style={`background:${categoryColorHex[c.category] || categoryColorHex.other}`}
+            ></span>
+            <span class="text-sm font-medium text-primary group-hover:text-accent transition-colors truncate">
+              {c.name}
+            </span>
+          </span>
+          <span class="text-xs font-mono text-text-muted flex-shrink-0">
+            {countLabel(c.articleCount, c.manual)}
+          </span>
+        </a>
+      ))}
+    </div>
+
+    {rest.length > 0 && (
+      <details class="mt-3 group">
+        <summary class="text-xs font-semibold uppercase tracking-wider text-accent hover:text-primary cursor-pointer list-none">
+          Show {rest.length} more &rarr;
+        </summary>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 mt-3">
+          {rest.map((c) => (
+            <a
+              href={`/people/${c.slug}/`}
+              class="flex items-center justify-between gap-2 p-3 border border-border hover:border-accent hover:bg-surface-dark transition-colors no-underline group"
+            >
+              <span class="flex items-center gap-2 min-w-0">
+                <span
+                  class="w-2 h-2 flex-shrink-0 rounded-full"
+                  style={`background:${categoryColorHex[c.category] || categoryColorHex.other}`}
+                ></span>
+                <span class="text-sm font-medium text-primary group-hover:text-accent transition-colors truncate">
+                  {c.name}
+                </span>
+              </span>
+              <span class="text-xs font-mono text-text-muted flex-shrink-0">
+                {countLabel(c.articleCount, c.manual)}
+              </span>
+            </a>
+          ))}
+        </div>
+      </details>
+    )}
+  </div>
+)}

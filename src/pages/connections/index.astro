@@ -1,0 +1,245 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import PersonCard from '../../components/PersonCard.astro';
+import { getCollection } from 'astro:content';
+import { buildGlobalGraph } from '../../utils/connections';
+import { connectionsPageJsonLd } from '../../utils/json-ld';
+import {
+  CATEGORY_ORDER,
+  categoryLabel,
+  categoryLabelPlural,
+  categoryColorHex,
+} from '../../utils/categories';
+
+const people = await getCollection('people');
+const articles = await getCollection('articles', (a) => a.data.status === 'published');
+const { nodes, edges } = buildGlobalGraph(people, articles, { excludeHubs: true });
+
+const categories = CATEGORY_ORDER.filter((cat) => people.some((p) => p.data.category === cat));
+const totalCount = people.length;
+
+const jsonLd = connectionsPageJsonLd(people.map((p) => ({ name: p.data.name, slug: p.id })));
+---
+
+<BaseLayout
+  title="The Epstein Network — Map of Connections"
+  description={`An interactive map of the documented and co-reported connections between the ${totalCount} people named in the Epstein files. Explore who is linked to whom across DOJ documents and news coverage.`}
+  jsonLd={jsonLd}
+>
+  <!-- Header -->
+  <header class="bg-primary text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+      <Breadcrumbs items={[{ name: 'Connections', href: '/connections/' }]} />
+    </div>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 pb-8">
+      <h1 class="text-3xl md:text-[2.5rem] font-serif font-bold leading-[1.1] mb-3">
+        The Epstein Network
+      </h1>
+      <p class="text-base text-white/60 leading-relaxed max-w-2xl mb-2">
+        How the {totalCount} people named in the files connect — {nodes.length} individuals linked by
+        {edges.length} relationships drawn from shared news coverage and documented connections. Click
+        any node to open that person's profile. Jeffrey Epstein and Ghislaine Maxwell are omitted from
+        the map because they connect to nearly everyone.
+      </p>
+      <p class="text-xs text-white/30 leading-relaxed max-w-2xl">
+        Links reflect that two people were named together in coverage or documents — not a verified
+        personal relationship, and not any implication of guilt or wrongdoing.
+      </p>
+    </div>
+  </header>
+
+  <!-- Legend + filter -->
+  <div class="border-b border-border bg-white sticky top-[57px] z-40">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex flex-wrap items-center gap-x-4 gap-y-2">
+      <span class="text-[11px] font-semibold uppercase tracking-wider text-text-muted">Filter:</span>
+      <button class="cat-filter text-[11px] font-semibold uppercase tracking-wider px-2 py-1 border border-primary bg-primary text-white transition-colors" data-cat="all" aria-pressed="true">All</button>
+      {categories.map((cat) => (
+        <button
+          class="cat-filter text-[11px] font-semibold uppercase tracking-wider px-2 py-1 border border-border text-text-muted hover:text-primary transition-colors flex items-center gap-1.5"
+          data-cat={cat}
+          aria-pressed="false"
+        >
+          <span class="w-2 h-2 rounded-full inline-block" style={`background:${categoryColorHex[cat]}`}></span>
+          {categoryLabel[cat]}
+        </button>
+      ))}
+    </div>
+  </div>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+    <!-- Graph (progressive enhancement) -->
+    <div
+      id="graph"
+      class="relative w-full h-[clamp(420px,68vh,760px)] border border-border bg-surface"
+      role="img"
+      aria-label={`Network graph of ${nodes.length} people named in the Epstein files. A full browsable list follows below.`}
+    >
+      <div id="graph-loading" class="absolute inset-0 flex items-center justify-center text-sm text-text-muted font-mono">
+        Loading network&hellip;
+      </div>
+    </div>
+    <p class="mt-2 text-xs text-text-muted font-mono">
+      Drag to pan &middot; scroll to zoom &middot; click a node to open a profile
+    </p>
+    <noscript>
+      <p class="mt-2 text-sm text-text-muted">
+        The interactive map requires JavaScript. The complete list of people and their connections is
+        available below and on each profile page.
+      </p>
+    </noscript>
+
+    <!-- Canonical browsable roster (always rendered; the no-JS fallback) -->
+    <div class="mt-12">
+      <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-6 border-b-2 border-primary pb-2">
+        Everyone in the Network
+      </h2>
+      {categories.map((cat) => {
+        const categoryPeople = people
+          .filter((p) => p.data.category === cat)
+          .sort((a, b) => a.data.name.localeCompare(b.data.name));
+        return categoryPeople.length > 0 ? (
+          <section class="mb-10 cat-section" data-cat={cat}>
+            <div class="flex items-center justify-between mb-4">
+              <h3 class="text-sm font-semibold uppercase tracking-wider text-primary flex items-center gap-2">
+                <span class="w-2.5 h-2.5 rounded-full inline-block" style={`background:${categoryColorHex[cat]}`}></span>
+                {categoryLabelPlural[cat] || cat}
+              </h3>
+              <span class="text-xs text-text-muted font-mono">{categoryPeople.length}</span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {categoryPeople.map((person) => (
+                <PersonCard person={person} />
+              ))}
+            </div>
+          </section>
+        ) : null;
+      })}
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  import Graph from 'graphology';
+  import Sigma from 'sigma';
+
+  const container = document.getElementById('graph');
+  const loading = document.getElementById('graph-loading');
+
+  async function init() {
+    if (!container) return;
+    let data;
+    try {
+      const res = await fetch('/connections/graph.json');
+      data = await res.json();
+    } catch {
+      if (loading) loading.textContent = 'Could not load the network.';
+      return;
+    }
+    if (!data || !data.nodes || data.nodes.length === 0) {
+      if (loading) loading.textContent = 'No network data available.';
+      return;
+    }
+
+    const graph = new Graph({ type: 'undirected' });
+    for (const n of data.nodes) {
+      graph.addNode(n.id, {
+        label: n.label,
+        x: n.x,
+        y: n.y,
+        size: n.size,
+        color: n.color,
+        category: n.category,
+      });
+    }
+    for (const e of data.edges) {
+      if (!graph.hasNode(e.source) || !graph.hasNode(e.target)) continue;
+      if (graph.hasEdge(e.source, e.target)) continue;
+      graph.addEdge(e.source, e.target, {
+        size: Math.min(3, 0.4 + e.weight * 0.5),
+        color: e.manual ? '#9ca3af' : '#dcdcd8',
+      });
+    }
+
+    if (loading) loading.remove();
+
+    const renderer = new Sigma(graph, container, {
+      defaultEdgeColor: '#e2e2e0',
+      labelColor: { color: '#1a1a1a' },
+      labelFont: 'Inter, system-ui, sans-serif',
+      labelSize: 12,
+      labelDensity: 0.5,
+      labelRenderedSizeThreshold: 7,
+      zIndex: true,
+    });
+
+    let activeCat = 'all';
+    let focusNode: string | null = null;
+
+    renderer.setSetting('nodeReducer', (node, dataAttr) => {
+      const res: Record<string, unknown> = { ...dataAttr };
+      if (activeCat !== 'all' && dataAttr.category !== activeCat) {
+        res.hidden = true;
+      }
+      if (focusNode && node === focusNode) {
+        res.highlighted = true;
+        res.size = (dataAttr.size as number) * 1.7;
+        res.zIndex = 2;
+      }
+      return res;
+    });
+
+    renderer.setSetting('edgeReducer', (edge, dataAttr) => {
+      const res: Record<string, unknown> = { ...dataAttr };
+      if (activeCat !== 'all') {
+        const ext = graph.extremities(edge);
+        if (
+          graph.getNodeAttribute(ext[0], 'category') !== activeCat ||
+          graph.getNodeAttribute(ext[1], 'category') !== activeCat
+        ) {
+          res.hidden = true;
+        }
+      }
+      return res;
+    });
+
+    renderer.on('clickNode', ({ node }: { node: string }) => {
+      window.location.href = '/people/' + node + '/';
+    });
+
+    // Focus a node from ?focus=slug (deep link from a profile).
+    const focus = new URLSearchParams(window.location.search).get('focus');
+    if (focus && graph.hasNode(focus)) {
+      focusNode = focus;
+      renderer.refresh();
+      requestAnimationFrame(() => {
+        const pos = renderer.getNodeDisplayData(focus);
+        if (pos) renderer.getCamera().animate({ x: pos.x, y: pos.y, ratio: 0.35 }, { duration: 700 });
+      });
+    }
+
+    // Category filter — drives both the graph and the roster.
+    const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>('.cat-filter'));
+    const sections = Array.from(document.querySelectorAll<HTMLElement>('.cat-section'));
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        activeCat = btn.dataset.cat || 'all';
+        buttons.forEach((b) => {
+          const on = b === btn;
+          b.setAttribute('aria-pressed', String(on));
+          b.classList.toggle('bg-primary', on);
+          b.classList.toggle('text-white', on);
+          b.classList.toggle('border-primary', on);
+          b.classList.toggle('border-border', !on);
+          b.classList.toggle('text-text-muted', !on);
+        });
+        sections.forEach((s) => {
+          s.style.display = activeCat === 'all' || s.dataset.cat === activeCat ? '' : 'none';
+        });
+        renderer.refresh();
+      });
+    });
+  }
+
+  init();
+</script>

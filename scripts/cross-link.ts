@@ -1,65 +1,10 @@
 import { readFileSync, writeFileSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { parseFrontmatter, loadPeople, type PersonEntry } from './lib/pipeline-utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const PEOPLE_DIR = join(__dirname, '..', 'src', 'content', 'people');
 const ARTICLES_DIR = join(__dirname, '..', 'src', 'content', 'articles');
-
-interface PersonEntry {
-  slug: string;
-  name: string;
-  aliases: string[];
-}
-
-function parseFrontmatter(content: string): { frontmatter: Record<string, any>; body: string } {
-  const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
-  if (!match) return { frontmatter: {}, body: content };
-
-  const fmLines = match[1].split('\n');
-  const fm: Record<string, any> = {};
-  let currentKey = '';
-  let currentArray: string[] | null = null;
-
-  for (const line of fmLines) {
-    if (line.match(/^\s+-\s+/)) {
-      // Array item
-      const val = line.replace(/^\s+-\s+/, '').replace(/^"|"$/g, '');
-      if (currentArray) currentArray.push(val);
-    } else if (line.includes(':')) {
-      if (currentArray && currentKey) {
-        fm[currentKey] = currentArray;
-        currentArray = null;
-      }
-      const [key, ...rest] = line.split(':');
-      const value = rest.join(':').trim();
-      currentKey = key.trim();
-      if (value === '' || value === '[]') {
-        currentArray = [];
-      } else {
-        fm[currentKey] = value.replace(/^"|"$/g, '');
-      }
-    }
-  }
-  if (currentArray && currentKey) {
-    fm[currentKey] = currentArray;
-  }
-
-  return { frontmatter: fm, body: match[2] };
-}
-
-function loadPeople(): PersonEntry[] {
-  const files = readdirSync(PEOPLE_DIR).filter((f) => f.endsWith('.md'));
-  return files.map((file) => {
-    const content = readFileSync(join(PEOPLE_DIR, file), 'utf-8');
-    const { frontmatter } = parseFrontmatter(content);
-    return {
-      slug: file.replace('.md', ''),
-      name: frontmatter.name || '',
-      aliases: Array.isArray(frontmatter.aliases) ? frontmatter.aliases : [],
-    };
-  });
-}
 
 const MAX_PEOPLE_PER_ARTICLE = 10;
 

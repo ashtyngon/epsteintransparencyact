@@ -1,0 +1,22 @@
+---
+interface Props {
+  /** Render as a bordered box (default) or plain inline text. */
+  boxed?: boolean;
+  class?: string;
+}
+const { boxed = true, class: className = '' } = Astro.props;
+---
+
+<aside
+  class:list={[
+    'text-xs text-text-muted leading-relaxed',
+    boxed && 'border border-border bg-surface-dark p-4',
+    className,
+  ]}
+>
+  <span class="font-semibold uppercase tracking-wider text-text-muted">Note —</span>
+  Inclusion does not imply guilt, wrongdoing, or criminal conduct of any kind. Many individuals
+  appear only in passing, in routine correspondence, or because they are mentioned in news articles
+  and links shared with or about Epstein. Each profile specifies the nature and context of the
+  connection based on publicly available documents.
+</aside>

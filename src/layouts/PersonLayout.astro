@@ -2,9 +2,14 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
+import RelatedTimeline from '../components/RelatedTimeline.astro';
+import PersonConnections from '../components/PersonConnections.astro';
 import PersonStats from '../components/PersonStats.astro';
 import TableOfContents from '../components/TableOfContents.astro';
+import InclusionDisclaimer from '../components/InclusionDisclaimer.astro';
 import { personJsonLd } from '../utils/json-ld';
+import { categoryLabel as categoryLabels, categoryColorClass as categoryColors } from '../utils/categories';
+import { formatDate } from '../utils/slugify';
 import type { CollectionEntry } from 'astro:content';
 import type { MarkdownHeading } from 'astro';
 
@@ -14,31 +19,11 @@ interface Props {
 }
 
 const { person, headings = [] } = Astro.props;
-const { name, seoTitle, seoDescription, role, category, shortBio, aliases, notableConnections, sources, image } = person.data;
+const { name, seoTitle, seoDescription, role, category, shortBio, aliases, notableConnections, sources, image, firstMentionedDate } = person.data;
 
 // SEO: keyword-rich title and description for search
 const pageTitle = seoTitle || `${name} & Jeffrey Epstein — Connection, Files & Documents`;
 const pageDescription = seoDescription || `${name}'s documented connections to Jeffrey Epstein. ${shortBio.slice(0, 130)}${shortBio.length > 130 ? '...' : ''}`;
-
-const categoryLabels: Record<string, string> = {
-  'named-in-documents': 'Named in Documents',
-  witness: 'Witness',
-  associate: 'Associate',
-  official: 'Official',
-  legal: 'Legal',
-  'victim-survivor': 'Victim/Survivor',
-  other: 'Other',
-};
-
-const categoryColors: Record<string, string> = {
-  'named-in-documents': 'bg-highlight text-white',
-  witness: 'bg-amber-600 text-white',
-  associate: 'bg-red-700 text-white',
-  official: 'bg-blue-700 text-white',
-  legal: 'bg-purple-700 text-white',
-  'victim-survivor': 'bg-emerald-700 text-white',
-  other: 'bg-gray-600 text-white',
-};
 
 const initials = name.split(' ').map((n: string) => n[0]).join('').slice(0, 2);
 
@@ -63,8 +48,7 @@ const jsonLd = personJsonLd({
   <header class="bg-primary text-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
       <Breadcrumbs items={[
-        { name: 'People', href: '/people' },
-        { name, href: `/people/${person.id}` },
+        { name, href: `/people/${person.id}/` },
       ]} />
     </div>
 
@@ -118,6 +102,13 @@ const jsonLd = personJsonLd({
               <span class="ml-1 font-mono">{aliases.join(', ')}</span>
             </div>
           )}
+
+          {firstMentionedDate && (
+            <div class="mt-2 text-xs text-white/40">
+              <span class="font-semibold uppercase tracking-wider">First documented:</span>
+              <span class="ml-1 font-mono">{formatDate(firstMentionedDate)}</span>
+            </div>
+          )}
         </div>
       </div>
     </div>
@@ -133,22 +124,11 @@ const jsonLd = personJsonLd({
       <slot />
     </div>
 
-    <!-- Notable connections -->
-    {notableConnections.length > 0 && (
-      <div class="mt-10 pt-8 border-t-2 border-primary">
-        <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">Notable Connections</h2>
-        <div class="flex flex-wrap gap-2">
-          {notableConnections.map((slug) => (
-            <a
-              href={`/people/${slug}/`}
-              class="text-sm font-medium text-primary border border-border px-3 py-1.5 hover:border-accent hover:text-accent transition-colors no-underline"
-            >
-              {slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}
-            </a>
-          ))}
-        </div>
-      </div>
-    )}
+    <!-- Connections: co-mentions merged with documented connections -->
+    <PersonConnections personSlug={person.id} personName={name} notableConnections={notableConnections} />
+
+    <!-- Timeline of involvement -->
+    <RelatedTimeline personSlug={person.id} personName={name} />
 
     <!-- Related articles -->
     <div class="mt-8">
@@ -175,5 +155,10 @@ const jsonLd = personJsonLd({
         </ul>
       </div>
     )}
+
+    <!-- Inclusion disclaimer -->
+    <div class="mt-10">
+      <InclusionDisclaimer />
+    </div>
   </div>
 </BaseLayout>

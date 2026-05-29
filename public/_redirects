@@ -4,5 +4,12 @@
 # Deleted articles — force 404 via redirect to non-existent page
 /news/2026-02-22-maxwell-challenges-epstein-files-law-as-unconstitutional/ /404 404
 
+# Directory consolidated to the homepage (people-first IA)
+# Exact-match only — profile pages at /people/{slug}/ are NOT affected.
+/names    /  301
+/names/   /  301
+/people   /  301
+/people/  /  301
+
 # Nav links without trailing slashes → add trailing slash
 # (Cloudflare Pages handles this automatically with Astro's trailingSlash: 'always')

@@ -144,6 +144,27 @@ export function timelineJsonLd(
   };
 }
 
+export function connectionsPageJsonLd(people: { name: string; slug: string }[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'The Epstein Network — Connections Between People Named in the Files',
+    description:
+      'An interactive network mapping the documented and co-reported connections between people named in the Jeffrey Epstein files.',
+    url: 'https://epsteintransparencyact.com/connections/',
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: people.length,
+      itemListElement: people.map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: p.name,
+        url: `https://epsteintransparencyact.com/people/${p.slug}/`,
+      })),
+    },
+  };
+}
+
 export function timelineEventJsonLd(event: {
   title: string;
   date: Date;

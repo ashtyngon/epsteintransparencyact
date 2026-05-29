@@ -35,9 +35,7 @@ for (const article of allArticles) {
     }
   }
 }
-const topCoMentions = Object.entries(coMentions)
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 6);
+const connectedCount = Object.keys(coMentions).length;
 
 // Top tags
 const tagCounts: Record<string, number> = {};
@@ -52,10 +50,6 @@ const topTags = Object.entries(tagCounts)
 
 // Sources count (distinct)
 const sources = new Set(allArticles.map((a) => a.data.source));
-
-function formatPersonName(slug: string): string {
-  return slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
-}
 
 function tagLabel(tag: string): string {
   return tag.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
@@ -88,7 +82,7 @@ function tagLabel(tag: string): string {
         </div>
       </div>
       <div>
-        <div class="text-2xl md:text-3xl font-serif font-bold text-primary">{topCoMentions.length}</div>
+        <div class="text-2xl md:text-3xl font-serif font-bold text-primary">{connectedCount}</div>
         <div class="text-[11px] uppercase tracking-wider text-text-muted mt-1">
           Connected People
         </div>
@@ -118,29 +112,6 @@ function tagLabel(tag: string): string {
         </span>
       </div>
     )}
-  </div>
-)}
-
-{topCoMentions.length > 0 && (
-  <div class="my-8">
-    <h2 class="text-sm font-semibold uppercase tracking-wider text-primary mb-4">
-      Most Frequently Mentioned Alongside {personName}
-    </h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
-      {topCoMentions.map(([slug, count]) => (
-        <a
-          href={`/people/${slug}/`}
-          class="flex items-center justify-between p-3 border border-border hover:border-accent hover:bg-surface-dark transition-colors no-underline group"
-        >
-          <span class="text-sm font-medium text-primary group-hover:text-accent transition-colors">
-            {formatPersonName(slug)}
-          </span>
-          <span class="text-xs font-mono text-text-muted">
-            {count} {count === 1 ? 'article' : 'articles'}
-          </span>
-        </a>
-      ))}
-    </div>
   </div>
 )}
 

@@ -8,6 +8,9 @@
 
 import { createHash } from 'crypto';
 import { GoogleGenerativeAI, type GenerativeModel } from '@google/generative-ai';
+import { readFileSync, readdirSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
 
 // ──────────────────────────────────────────────────
 // URL Normalization (Fix #1)
@@ -334,4 +337,91 @@ export function recordFeedFailure(health: FeedHealthData, feedId: string, feedNa
 
 export function getDownFeeds(health: FeedHealthData, threshold: number = 3): FeedHealthEntry[] {
   return Object.values(health.feeds).filter(f => f.consecutiveFailures >= threshold);
+}
+
+// ──────────────────────────────────────────────────
+// Frontmatter parsing + people loading (shared by cross-link & scaffold-people)
+// ──────────────────────────────────────────────────
+
+/**
+ * Slugify a name to a URL/file-safe slug. Matches the convention used across
+ * the content pipeline (lowercase, non-alphanumerics → '-', capped length).
+ */
+export function slugify(text: string, maxLen: number = 80): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '')
+    .slice(0, maxLen)
+    .replace(/-$/, '');
+}
+
+/**
+ * Minimal YAML-ish frontmatter parser for markdown files. Handles scalar
+ * values and simple `- item` arrays — sufficient for this repo's frontmatter.
+ * (Moved here from cross-link.ts so multiple scripts share one implementation.)
+ */
+export function parseFrontmatter(content: string): { frontmatter: Record<string, any>; body: string } {
+  const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!match) return { frontmatter: {}, body: content };
+
+  const fmLines = match[1].split('\n');
+  const fm: Record<string, any> = {};
+  let currentKey = '';
+  let currentArray: string[] | null = null;
+
+  for (const line of fmLines) {
+    if (line.match(/^\s+-\s+/)) {
+      // Array item
+      const val = line.replace(/^\s+-\s+/, '').replace(/^"|"$/g, '');
+      if (currentArray) currentArray.push(val);
+    } else if (line.includes(':')) {
+      if (currentArray && currentKey) {
+        fm[currentKey] = currentArray;
+        currentArray = null;
+      }
+      const [key, ...rest] = line.split(':');
+      const value = rest.join(':').trim();
+      currentKey = key.trim();
+      if (value === '' || value === '[]') {
+        currentArray = [];
+      } else {
+        fm[currentKey] = value.replace(/^"|"$/g, '');
+      }
+    }
+  }
+  if (currentArray && currentKey) {
+    fm[currentKey] = currentArray;
+  }
+
+  return { frontmatter: fm, body: match[2] };
+}
+
+export interface PersonEntry {
+  slug: string;
+  name: string;
+  aliases: string[];
+}
+
+const DEFAULT_PEOPLE_DIR = join(
+  dirname(fileURLToPath(import.meta.url)),
+  '..',
+  '..',
+  'src',
+  'content',
+  'people',
+);
+
+/** Load all existing person profiles (slug + name + aliases) for matching/dedup. */
+export function loadPeople(peopleDir: string = DEFAULT_PEOPLE_DIR): PersonEntry[] {
+  const files = readdirSync(peopleDir).filter((f) => f.endsWith('.md'));
+  return files.map((file) => {
+    const content = readFileSync(join(peopleDir, file), 'utf-8');
+    const { frontmatter } = parseFrontmatter(content);
+    return {
+      slug: file.replace('.md', ''),
+      name: frontmatter.name || '',
+      aliases: Array.isArray(frontmatter.aliases) ? frontmatter.aliases : [],
+    };
+  });
 }
