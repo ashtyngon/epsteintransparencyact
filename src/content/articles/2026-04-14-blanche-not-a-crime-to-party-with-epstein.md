@@ -1,72 +1,61 @@
 ---
-title: "Acting AG Blanche: 'Not a Crime to Party' With Epstein"
-publishedAt: "2026-04-14T20:00:00.000Z"
-source: "Newsweek"
+title: "Deputy AG Blanche: 'It's Not a Crime to Party' With Epstein"
+publishedAt: "2026-02-03T05:00:00.000Z"
+source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/administration/5719992-doj-todd-blanche-epstein-files-parties/"
 image: "/images/people/jeffrey-epstein.jpg"
 imageCaption: "Jeffrey Epstein"
-summary: "Acting Attorney General Todd Blanche stated on Fox News that 'it isn't a crime to party with Mr. Epstein,' sparking outrage from survivors, Democrats, and the public."
+summary: "Deputy Attorney General Todd Blanche said on Fox News's 'The Ingraham Angle' that 'it's not a crime to party with Mr. Epstein,' drawing sharp criticism from Democratic lawmakers and some conservative commentators."
 people:
   - jeffrey-epstein
-  - gloria-allred
-  - robert-garcia
 relatedArticles:
   []
 tags:
   - political
   - breaking
 keyTakeaways:
-  - "Acting AG Todd Blanche said on Fox News that 'it isn't a crime to party with Mr. Epstein.'"
-  - "He insisted there were no more Epstein documents to release from the DOJ."
-  - "The comment sparked widespread outrage from survivors, Democrats, and across social media."
-  - "Survivor advocates called the remark 'dismissive' and 'an insult to every victim.'"
+  - "Deputy AG Todd Blanche said on Fox News's 'The Ingraham Angle' that 'it's not a crime to party with Mr. Epstein' and 'it's not a crime to email with Mr. Epstein.'"
+  - "He made the remark when asked whether people who attended Epstein's gatherings would be prosecuted, adding the DOJ would prosecute 'if we have evidence that allows us to.'"
+  - "Rep. Ted Lieu (D-CA) said Blanche 'got the law wrong' and called for his resignation."
+  - "The comment drew criticism from Democratic lawmakers and discomfort from some conservative commentators."
 status: published
 aiGenerated: true
 articleType: news
-confidence: 0.95
+confidence: 0.9
 ---
 
-Acting Attorney General **Todd Blanche** told Fox News on April 14 that "it isn't a crime to party with Mr. Epstein," a comment that drew widespread condemnation from survivors, lawmakers, and advocacy organizations, The Hill reported.<sup>[1](#ref-1)</sup>
+Deputy Attorney General **Todd Blanche** said on Fox News on Feb. 2 that "it's not a crime to party with Mr. Epstein," a remark that drew criticism from Democratic lawmakers and some conservative commentators, The Hill reported.<sup>[1](#ref-1)</sup>
 
-Blanche made the remark during a segment in which he was asked about political pressure to release additional documents related to convicted sex trafficker **Jeffrey Epstein** and his network of associates.<sup>[1](#ref-1)</sup>
+Blanche made the comment during an interview on "The Ingraham Angle," hosted by Laura Ingraham, in a segment about the release of documents related to convicted sex trafficker **Jeffrey Epstein** and whether his associates would face charges.<sup>[2](#ref-2)</sup>
 
 ## The Comment
 
-During the Fox News appearance, Blanche reiterated his position that the Department of Justice had completed its obligations under the Epstein Files Transparency Act and that no further documents needed to be released.
+Ingraham asked Blanche whether "any of these individuals who partied with Epstein and engaged in, you know, relations with minors" would be prosecuted.<sup>[2](#ref-2)</sup>
 
-"Look, it isn't a crime to party with Mr. Epstein," Blanche said. <sup>[1](#ref-1)</sup>
+"Well, look, I'll never say no, and we will always investigate any evidence of misconduct, but as you know, it's not a crime to party with Mr. Epstein," Blanche replied. "So as horrible as it — it's not a crime to email with Mr. Epstein."<sup>[3](#ref-3)</sup>
 
-The statement was immediately seized upon by critics who said the acting attorney general was minimizing the severity of Epstein's crimes and the culpability of those who enabled them.
+He added that "some of these men may have done horrible things, and if we have evidence that allows us to prosecute them, you better believe we will."<sup>[2](#ref-2)</sup> Blanche also said the Department of Justice had released its videos and that they did not show improper conduct with victims.<sup>[2](#ref-2)</sup> Ingraham pushed back, telling him that some of the released photos "look pretty bad."<sup>[4](#ref-4)</sup>
 
-## Survivor Response
-
-Survivor advocacy groups issued forceful responses within hours of the broadcast.
-
-The Survivors of Epstein Network called the remark "an insult to every victim" and said it demonstrated why survivors had no confidence in the current DOJ leadership.
-
-"Jeffrey Epstein did not just throw parties," the organization said in a statement. "He ran a sex trafficking operation that destroyed lives. For the acting attorney general to reduce this to 'partying' is dismissive and dangerous."
-
-Attorney Gloria Allred, who represents multiple Epstein survivors, told Newsweek that Blanche's comment reflected "They were at gatherings where minors were being exploited."<sup>[2](#ref-2)</sup>
+The statement was quickly seized upon by critics who said the deputy attorney general was minimizing the severity of Epstein's crimes and the culpability of those who associated with him.
 
 ## Political Fallout
 
-Democrats in Congress moved quickly to condemn the comment. Rep. Robert Garcia (D-CA) called Blanche's remark "disqualifying" and renewed calls for a permanent attorney general who would take the Epstein matter seriously.
+Democrats in Congress moved quickly to condemn the comment. Rep. Ted Lieu (D-CA) said he was "highly disturbed that Deputy Attorney General Todd Blanche just got the law wrong," arguing that "if Jeffrey Epstein was human trafficking minors for these sex parties, and you show up and patronize the establishment at that party, yes, you're guilty, because patronizing is part of the law, the federal sex trafficking law."<sup>[5](#ref-5)</sup>
 
-Sen. Sheldon Whitehouse (D-RI) posted on social media that the comment proved the administration was "actively working to protect Epstein's associates rather than hold them accountable."
+Lieu said Blanche "needs to resign, not only for not knowing the law but for a massive screwup — the biggest privacy violation in history."<sup>[5](#ref-5)</sup>
 
-Several Republican lawmakers declined to comment on Blanche's statement when asked by reporters on Capitol Hill.
+Rep. Melanie Stansbury (D-NM) responded on social media: "Sir, yes it is a crime. And, prosecuting these crimes is your job."<sup>[3](#ref-3)</sup>
 
-## Social Media Reaction
+## Reaction
 
-The clip of Blanche's comment spread rapidly across social media platforms, becoming one of the most discussed political topics of the day. The phrase "party with Epstein" trended nationally on multiple platforms.
+The clip of Blanche's comment spread quickly on social media. Critics said his framing downplayed evidence that Epstein used social events to introduce powerful figures to young women and girls.
 
-Critics noted that Blanche's framing ignored the extensive evidence in released documents showing that Epstein used social events as a mechanism to introduce powerful figures to vulnerable young women and girls.
-
-Newsweek reported that even some conservative commentators who had previously defended the administration's handling of the Epstein files expressed discomfort with Blanche's characterization.<sup>[2](#ref-2)</sup>
-
-The DOJ did not issue a follow-up statement or clarification regarding Blanche's comments.
+Some conservative commentators also voiced discomfort. Evan Kilgore called it "horrible messaging from the Trump Administration," adding, "I'm in shock how tone deaf this is." Another commentator, Brian Allen, wrote: "Horrible optics. Worse values. This isn't justice, it's moral rot dressed up as legalism."<sup>[3](#ref-3)</sup>
 
 ## References
 
-1. <span id="ref-1"></span>[The Hill — "Acting AG Blanche: 'Not a crime to party' with Epstein"](https://thehill.com)
-2. <span id="ref-2"></span>[Newsweek — "Blanche 'party with Epstein' comment sparks outrage"](https://www.newsweek.com)
+1. <span id="ref-1"></span>[The Hill — "Blanche: 'It isn't a crime to party with Mr. Epstein'"](https://thehill.com/homenews/administration/5719992-doj-todd-blanche-epstein-files-parties/)
+2. <span id="ref-2"></span>[Mediaite — "Deputy AG Tells Fox News 'It Isn't a Crime to Party With Mr. Epstein'"](https://www.mediaite.com/crime/deputy-ag-tells-fox-news-it-isnt-a-crime-to-party-with-mr-epstein/)
+3. <span id="ref-3"></span>[Newsweek — "Trump DOJ official saying 'not a crime' to party with Epstein sparks fury"](https://www.newsweek.com/trump-doj-official-saying-not-a-crime-to-party-with-epstein-sparks-fury-11460343)
+4. <span id="ref-4"></span>[The New Republic — "Top Trump Official Insists It's 'Not a Crime to Party' With Epstein"](https://newrepublic.com/post/206064/donald-trump-todd-blanche-party-epstein)
+5. <span id="ref-5"></span>[Mediaite — "Ted Lieu on Trump: It Was a Crime to Party With Epstein"](https://www.mediaite.com/politics/house-dem-makes-the-case-it-was-a-crime-to-party-with-epstein-countering-trump-doj/)

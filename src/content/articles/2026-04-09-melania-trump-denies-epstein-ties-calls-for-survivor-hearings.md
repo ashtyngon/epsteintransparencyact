@@ -21,21 +21,21 @@ tags:
 keyTakeaways:
   - "Melania Trump denied being friends with Epstein or being introduced to Donald Trump by him."
   - "She called on Congress to hold public hearings centered around Epstein's survivors."
-  - "More than 15 survivors pushed back, saying she was shifting the burden onto victims."
-  - "President Trump said he was 'OK with' public hearings but questioned why survivors 'refused to go under oath.'"
+  - "A group of 15 survivors pushed back, saying she was shifting the burden onto victims."
+  - "President Trump said he was 'OK with' public hearings but called it 'a little surprising' that survivors 'refused to go under oath.'"
 status: published
 aiGenerated: true
 articleType: news
 confidence: 0.95
 ---
 
-First lady **Melania Trump** delivered a rare six-minute livestreamed statement from the White House on April 9, 2026, directly addressing her connections to **Jeffrey Epstein** and calling on Congress to hold public hearings centered around survivors of his abuse.<sup>[1](#ref-1)</sup>
+First lady **Melania Trump** delivered a rare on-camera statement from the White House on April 9, 2026, directly addressing her connections to **Jeffrey Epstein** and calling on Congress to hold public hearings centered around survivors of his abuse.<sup>[1](#ref-1)</sup>
 
 The statement marked one of the most substantive public remarks Melania Trump has made on the Epstein matter, which has shadowed the Trump administration amid ongoing investigations and document releases.
 
 ## Melania Trump Denies Friendship With Epstein
 
-In her address, the first lady denied being friends with Epstein and rejected claims that the convicted sex trafficker introduced her to **Donald Trump**. She said she first met Epstein in 2000 at an event she attended with her husband, according to NPR.<sup>[1](#ref-1)</sup>
+In her address, the first lady said, "I have never been friends with Epstein," and rejected claims that the convicted sex offender introduced her to **Donald Trump**, stating, "Epstein did not introduce me to Donald Trump." She said the first time she "crossed paths with Epstein was in the year 2000, at an event Donald and I attended together," according to the official text of her statement.<sup>[1](#ref-1)</sup><sup>[6](#ref-6)</sup>
 
 Melania Trump also addressed correspondence between herself and **Ghislaine Maxwell**, Epstein's longtime associate who was convicted of sex trafficking charges in 2021. She characterized the exchange as "casual," telling viewers, "My polite reply to her email doesn't amount to anything more than a trivial note."<sup>[1](#ref-1)</sup>
 
@@ -43,7 +43,7 @@ The first lady then pivoted to a direct appeal to lawmakers, calling on Congress
 
 ## Survivors Push Back
 
-The call for hearings drew a swift and critical response from Epstein's survivors. More than 15 survivors released a joint statement saying the first lady was "shifting the burden onto survivors under politicized conditions," according to CBS News.<sup>[3](#ref-3)</sup>
+The call for hearings drew a swift and critical response from some of Epstein's survivors. A group of 15 survivors released a joint statement saying the first lady was "shifting the burden onto survivors under politicized conditions that protect those with power," according to CBS News.<sup>[3](#ref-3)</sup>
 
 Attorney **Gloria Allred**, who represents 27 Epstein survivors, offered a more measured reaction. Allred said she was glad Melania Trump made the statement and that she supports a hearing, but she cautioned that survivors should not be subpoenaed to appear, NBC News reported.<sup>[4](#ref-4)</sup>
 
@@ -51,7 +51,7 @@ President Trump, for his part, told PBS News correspondent **Liz Landers** that 
 
 ## Congressional Response
 
-On Capitol Hill, the statement appeared to gain immediate traction. **Rep. James Comer** (R-Ky.), chairman of the House Oversight Committee, responded by saying "we will have hearings," signaling that formal proceedings could move forward in the coming weeks, CNN reported.<sup>[5](#ref-5)</sup>
+On Capitol Hill, the statement drew a response from **Rep. James Comer** (R-Ky.), chairman of the House Oversight Committee. The following day, April 10, Comer told Fox News' "America Reports," "I agree with the first lady and appreciate what she said. We will have hearings," signaling that formal proceedings could move forward, Reuters reported.<sup>[5](#ref-5)</sup>
 
 Advocates for transparency have called for public proceedings that would examine the broader network of individuals connected to Epstein, while survivor advocates have warned that any process must prioritize the well-being of victims rather than serve as a venue for political positioning.
 
@@ -69,4 +69,6 @@ The release of thousands of pages of Epstein-related documents over the past two
 
 4. <span id="ref-4"></span>[NBC News — "Melania Trump Denies Ties to Epstein, Calls on Congress to Hold Hearing"](https://www.nbcnews.com/politics/white-house/melania-trump-denies-ties-jeffrey-epstein-calls-congress-hold-hearing-rcna267510)
 
-5. <span id="ref-5"></span>[CNN — "House Oversight Chair Comer Says 'We Will Have Hearings' on Epstein"](https://www.cnn.com/2026/04/09/politics/melania-trump-epstein-statement)
+5. <span id="ref-5"></span>[Reuters (via WTAQ) — "US House Oversight chair vows hearings with Epstein victims after Melania Trump's speech"](https://wtaq.com/2026/04/10/us-house-oversight-chair-vows-hearings-with-epstein-victims-after-melania-trumps-speech/)
+
+6. <span id="ref-6"></span>[The White House — "First Lady Melania Trump's Statement"](https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-statement/)

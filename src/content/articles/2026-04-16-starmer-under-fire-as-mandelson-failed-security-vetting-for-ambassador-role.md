@@ -20,7 +20,7 @@ keyTakeaways:
   - "Peter Mandelson failed security vetting before becoming UK ambassador to Washington."
   - "Foreign Office officials overruled the security recommendation without informing PM Starmer."
   - "Opposition leaders accused Starmer of misleading Parliament over the appointment."
-  - "Starmer fired Mandelson as ambassador in September 2025 after new Epstein documents emerged."
+  - "Starmer fired Mandelson as ambassador on September 11, 2025, after the publication of his emails to Jeffrey Epstein."
 status: published
 aiGenerated: true
 articleType: news
@@ -37,15 +37,15 @@ According to multiple reports, officials at the Foreign, Commonwealth and Develo
 
 The decision to bypass the security process has raised serious questions about accountability within the Foreign Office and the degree of oversight exercised by Downing Street over sensitive diplomatic appointments.
 
-**Kemi Badenoch**, the Conservative Party leader, accused Starmer of misleading Parliament regarding the circumstances of Mandelson's appointment, calling for a full accounting of what the prime minister knew and when he knew it.<sup>[2](#ref-2)</sup>
+**Kemi Badenoch**, the Conservative Party leader, accused Starmer of misleading Parliament regarding the circumstances of Mandelson's appointment, noting that he had previously told MPs that "full due process" had been followed.<sup>[2](#ref-2)</sup>
 
-Liberal Democrat leader **Sir Ed Davey** went further, describing the situation as a "catastrophic error of judgment" on Starmer's part.<sup>[2](#ref-2)</sup> Davey's remarks reflected growing cross-party frustration with the government's handling of the Mandelson affair, which has dogged Starmer's administration for months.
+Liberal Democrat leader **Sir Ed Davey** described Starmer's appointment of Mandelson as "a catastrophic error of judgment," and his party referred the prime minister to the independent adviser on ministerial standards over a possible breach of the ministerial code.<sup>[7](#ref-7)</sup> The remarks reflected growing cross-party frustration with the government's handling of the Mandelson affair, which has dogged Starmer's administration for months.
 
 ## A Scandal With Deep Roots
 
-The ambassador appointment had already proven to be one of the most damaging episodes of Starmer's premiership. Starmer fired Mandelson from the ambassador role in September 2025 after new documents surfaced detailing Mandelson's friendship with convicted sex offender **Jeffrey Epstein**.<sup>[3](#ref-3)</sup> Those documents had been released by a US Congressional committee, drawing renewed scrutiny to the nature and extent of the relationship between the two men.<sup>[4](#ref-4)</sup>
+The ambassador appointment had already proven to be one of the most damaging episodes of Starmer's premiership. Starmer fired Mandelson from the ambassador role on September 11, 2025, after the publication of emails detailing Mandelson's friendship with convicted sex offender **Jeffrey Epstein** — including a message in which Mandelson suggested Epstein's 2008 conviction was wrongful and should be challenged.<sup>[5](#ref-5)</sup> The renewed scrutiny followed the release by the Democrats on the US House Oversight Committee of an Epstein birthday album in which Mandelson had called Epstein his "best pal."<sup>[5](#ref-5)</sup>
 
-The fallout from the appointment had already claimed senior figures in Starmer's inner circle. Both **Morgan McSweeney**, Starmer's chief of staff, and **Tim Allan**, his communications director, resigned from their positions earlier in the scandal over the handling of the Mandelson situation.<sup>[3](#ref-3)</sup>
+The fallout from the appointment also claimed senior figures in Starmer's inner circle. **Morgan McSweeney**, Starmer's chief of staff, and **Tim Allan**, his communications director, both resigned on February 9, 2026, over the handling of the Mandelson situation.<sup>[6](#ref-6)</sup>
 
 In February 2026, the crisis deepened further when Mandelson was [arrested by UK police](/news/2026-02-23-peter-mandelson-faces-misconduct-charge-in-epstein-investigation) over accusations connected to the Epstein case.<sup>[4](#ref-4)</sup> That arrest marked a significant escalation, transforming the matter from a political embarrassment into an active criminal investigation.
 
@@ -55,7 +55,7 @@ The latest revelations about the failed security vetting have compounded what wa
 
 For the opposition, the vetting failure provides new ammunition. Badenoch and the Conservatives have sought to frame the episode as evidence of broader governance failures within the Labour government, while Davey's Liberal Democrats have pressed for greater transparency around the decision-making process that led to the appointment.<sup>[2](#ref-2)</sup>
 
-The government's defence — that Starmer was not personally informed of the overruled vetting — may shield the prime minister from direct culpability but does little to address the systemic concerns. Parliament is expected to face further questions in the coming days as opposition parties push for a fuller accounting of the events surrounding the appointment.
+The government's defence — that Starmer was not personally informed of the overruled vetting — may shield the prime minister from direct culpability but does little to address the systemic concerns. Starmer said the fact that Mandelson had failed security vetting "could and should have been shared with me before he took up his post," and he laid the blame on Foreign Office officials.<sup>[8](#ref-8)</sup> Parliament is expected to face further questions in the coming days as opposition parties push for a fuller accounting of the events surrounding the appointment.
 
 ## References
 
@@ -66,3 +66,11 @@ The government's defence — that Starmer was not personally informed of the ove
 3. <span id="ref-3"></span>[Irish Times — "Peter Mandelson became UK's ambassador to US despite failing security vetting"](https://www.irishtimes.com/world/uk/2026/04/16/mandelson-became-uks-ambassador-to-us-despite-failing-security-vetting/)
 
 4. <span id="ref-4"></span>[Cyprus Mail — "Mandelson failed security vetting; Starmer unaware advice was overruled"](https://cyprus-mail.com/2026/04/16/mandelson-failed-security-vetting-starmer-unaware-advice-was-overruled-government-says/)
+
+5. <span id="ref-5"></span>[PBS NewsHour — "U.K. fires ambassador to the U.S. Peter Mandelson after publication of supportive emails to Jeffrey Epstein"](https://www.pbs.org/newshour/world/u-k-fires-ambassador-to-the-u-s-peter-mandelson-after-publication-of-supportive-emails-to-jeffrey-epstein)
+
+6. <span id="ref-6"></span>[GB News — "Tim Allan: Keir Starmer hit by another resignation as pressure mounts on PM over Mandelson scandal"](https://www.gbnews.com/politics/tim-allan-keir-starmer-resignation-morgan-mcsweeney)
+
+7. <span id="ref-7"></span>[Courthouse News Service — "Starmer refuses to quit as Mandelson vetting scandal engulfs UK"](https://www.courthousenews.com/starmer-refuses-to-quit-as-mandelson-vetting-scandal-engulfs-uk/)
+
+8. <span id="ref-8"></span>[PBS NewsHour — "Starmer says he made wrong judgment in appointing Peter Mandelson as ambassador"](https://www.pbs.org/newshour/world/starmer-says-he-made-wrong-judgment-in-appointing-peter-mandelson-as-ambassador)
