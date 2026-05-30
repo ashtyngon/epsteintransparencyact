@@ -5,7 +5,6 @@ seoDescription: "Norwegian diplomat Terje Rød-Larsen is under criminal investig
 aliases:
   - "Terje Rod-Larsen"
 role: "Former President of the International Peace Institute, Norwegian diplomat"
-image: "/images/people/terje-rod-larsen.jpg"
 category: "named-in-documents"
 shortBio: "Norwegian diplomat and former president of the International Peace Institute who is under criminal investigation in Norway over financial dealings with Jeffrey Epstein. Rød-Larsen and his wife, Mona Juul, were left $10 million in Epstein's will. He previously resigned from the International Peace Institute in 2020 after documents revealed he had received donations and a personal loan from Epstein."
 notableConnections:

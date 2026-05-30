@@ -5,7 +5,6 @@ seoDescription: "Bill Gates met Jeffrey Epstein multiple times after Epstein's 2
 aliases:
   - "William Henry Gates III"
 role: "Microsoft co-founder, philanthropist"
-image: "/images/people/bill-gates.jpg"
 category: "named-in-documents"
 shortBio: "Microsoft co-founder who met Jeffrey Epstein on multiple occasions beginning in 2011 — years after Epstein's 2008 conviction. Gates has said spending time with Epstein was a 'huge mistake' and an error in judgment, and that the contact concerned hoped-for philanthropy funding that never materialized. Melinda French Gates has said the meetings were among the things she objected to in their marriage, which ended in divorce in 2021. In February 2026, Gates withdrew from an India AI summit amid renewed scrutiny over his Epstein ties following Justice Department document releases."
 notableConnections:

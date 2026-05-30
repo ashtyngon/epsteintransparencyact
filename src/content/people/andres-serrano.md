@@ -4,7 +4,6 @@ seoTitle: "Is Andres Serrano in the Epstein files? — American artist and photo
 seoDescription: "Andres Serrano is an American artist who photographed Jeffrey Epstein in 2019; the 2025 Epstein files release also included a 2016 email exchange between them."
 aliases: []
 role: "American artist and photographer"
-image: "/images/people/andres-serrano.jpg"
 category: named-in-documents
 shortBio: "Andres Serrano is an American photographer and artist, best known for the 1987 work Piss Christ. He photographed Jeffrey Epstein in 2019, months before Epstein's death, and a 2016 email exchange between the two was included in the Epstein files released by the U.S. House Oversight Committee in November 2025."
 notableConnections:

@@ -6,7 +6,6 @@ aliases:
   - "Rep. Raskin"
   - "Representative Raskin"
 role: "U.S. Representative (D-MD)"
-image: "/images/people/jamie-raskin.jpg"
 category: "official"
 shortBio: "Democratic congressman from Maryland who co-authored a letter to the Department of Justice demanding five concrete steps toward transparency in the Epstein case, including full release of investigative records and accountability for prosecutorial decisions. Raskin has been a vocal advocate for government accountability and public disclosure in matters of institutional failure."
 notableConnections:

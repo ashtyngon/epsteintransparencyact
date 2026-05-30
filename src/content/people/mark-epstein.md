@@ -5,7 +5,6 @@ seoDescription: "Mark Epstein is Jeffrey Epstein's younger brother, a New York r
 aliases:
   - "Mark Lawrence Epstein"
 role: "Real estate developer, Jeffrey Epstein's brother"
-image: "/images/people/mark-epstein.jpg"
 category: "named-in-documents"
 shortBio: "Jeffrey Epstein's younger brother and a New York-based real estate developer who founded Ossa Properties. His public relevance derives from his family relationship to Jeffrey Epstein and from his vocal skepticism of the official finding that his brother died by suicide in 2019."
 notableConnections:

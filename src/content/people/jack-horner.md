@@ -4,7 +4,6 @@ seoTitle: "Is Jack Horner in the Epstein files? — Paleontologist"
 seoDescription: "Paleontologist Jack Horner appears in correspondence in the Epstein files: he visited an Epstein-owned New Mexico property in 2012 and later exchanged emails."
 aliases: []
 role: "American paleontologist; technical advisor on the Jurassic Park films and partial inspiration for the character Dr. Alan Grant"
-image: "/images/people/jack-horner.jpg"
 category: named-in-documents
 shortBio: "American paleontologist known for discovering Maiasaura and for serving as technical advisor on the Jurassic Park films, where he was a partial inspiration for the character Dr. Alan Grant. He appears in correspondence in the Epstein files after visiting an Epstein-owned New Mexico property in 2012 and exchanging emails thereafter; his employment at Chapman University ended in early 2026."
 notableConnections:

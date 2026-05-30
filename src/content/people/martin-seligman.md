@@ -4,7 +4,6 @@ seoTitle: "Martin Seligman & Epstein Files — Positive Psychology Founder"
 seoDescription: "Martin Seligman, UPenn psychologist and founder of positive psychology, had documented meetings with Jeffrey Epstein per released files."
 aliases: []
 role: "University of Pennsylvania psychologist, founder of positive psychology"
-image: "/images/people/martin-seligman.jpg"
 category: "named-in-documents"
 shortBio: "Professor of psychology at the University of Pennsylvania and founder of the positive psychology movement. Had documented meetings with Jeffrey Epstein. Seligman has stated he met Epstein in a professional capacity and has not been accused of criminal conduct in connection with Epstein."
 notableConnections:

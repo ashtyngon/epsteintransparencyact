@@ -6,7 +6,6 @@ aliases:
   - "Rep. James Comer"
   - "Chairman Comer"
 role: "U.S. Representative (R-KY), Chairman of the House Oversight Committee"
-image: "/images/people/james-comer.jpg"
 category: "official"
 shortBio: "Republican congressman from Kentucky who chairs the House Oversight and Accountability Committee. Comer led bipartisan efforts to subpoena Attorney General Pam Bondi over the delayed release of Epstein files and has committed to holding survivor hearings to ensure full transparency in the case."
 notableConnections:

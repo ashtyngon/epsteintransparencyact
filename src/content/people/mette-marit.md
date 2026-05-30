@@ -6,7 +6,6 @@ aliases:
   - "Crown Princess Mette-Marit of Norway"
   - "Mette-Marit Tjessem Høiby"
 role: "Crown Princess of Norway"
-image: "/images/people/mette-marit.jpg"
 category: official
 shortBio: "Mette-Marit is the Crown Princess of Norway, married to Crown Prince Haakon, the heir apparent. She is named in connection with the Jeffrey Epstein files, which reporting says document email contact and meetings with Epstein between 2011 and 2014."
 notableConnections:

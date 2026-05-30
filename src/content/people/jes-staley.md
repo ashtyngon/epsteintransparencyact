@@ -6,7 +6,6 @@ aliases:
   - "James E. Staley"
   - "James Staley"
 role: "Former CEO of Barclays, former JPMorgan executive"
-image: "/images/people/jes-staley.jpg"
 category: "named-in-documents"
 shortBio: "Former CEO of Barclays who exchanged approximately 1,200 emails with Jeffrey Epstein between 2008 and 2012 while a senior executive at JPMorgan. Departed Barclays in November 2021 after UK regulators investigated whether he had been transparent about his Epstein relationship. In 2025 the Upper Tribunal upheld the Financial Conduct Authority's decision to ban him from senior UK finance roles and fined him £1.1 million, finding he had recklessly misled the regulator. JPMorgan separately settled for $290 million with Epstein victims over the bank's relationship with Epstein."
 notableConnections:

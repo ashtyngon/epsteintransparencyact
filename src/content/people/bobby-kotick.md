@@ -4,7 +4,6 @@ seoTitle: "Is Bobby Kotick in the Epstein files? — Former CEO of Activision Bl
 seoDescription: "Bobby Kotick, former CEO of Activision Blizzard, appears in emails released from the Epstein files. His attorney says he never discussed Activision business with Epstein."
 aliases: []
 role: "Former CEO of Activision Blizzard"
-image: "/images/people/bobby-kotick.jpg"
 category: named-in-documents
 shortBio: "Bobby Kotick is the former CEO of Activision Blizzard, who led the video game company from 1991 to 2023. Emails released in the Epstein files show correspondence between Kotick and Jeffrey Epstein; Kotick's attorney has said he never discussed any Activision business with Epstein and has never met one of the other people in the exchanges."
 notableConnections:

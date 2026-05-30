@@ -5,7 +5,6 @@ seoDescription: "Steve Tisch, NFL co-owner of the New York Giants and film produ
 aliases:
   - "Steven Tisch"
 role: "NFL Co-Owner, New York Giants; Film Producer"
-image: "/images/people/steve-tisch.jpg"
 category: "named-in-documents"
 shortBio: "American businessman, co-owner of the New York Giants, and Academy Award-winning film producer (Forrest Gump). His name appeared more than 440 times in released Epstein documents. Files showed Epstein scouted women for Tisch and the two discussed whether women were 'pro or civilian.' Tisch has not been charged with any crime related to Epstein."
 notableConnections:

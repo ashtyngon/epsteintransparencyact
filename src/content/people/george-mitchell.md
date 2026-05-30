@@ -6,7 +6,6 @@ aliases:
   - "George Mitchell"
   - "Senator George Mitchell"
 role: "Former U.S. Senate Majority Leader, diplomat"
-image: "/images/people/george-mitchell.jpg"
 category: "named-in-documents"
 shortBio: "Former U.S. Senate Majority Leader and diplomat who brokered the Good Friday Agreement who faced wide institutional fallout in early February 2026 following disclosures of his long association with Jeffrey Epstein, including resignation from the Mitchell Institute and removal of his name from organizations in the U.S. and Northern Ireland."
 notableConnections:

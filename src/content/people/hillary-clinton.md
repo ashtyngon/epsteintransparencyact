@@ -6,7 +6,6 @@ aliases:
   - "Hillary Rodham Clinton"
   - "Secretary Clinton"
 role: "Former Secretary of State, U.S. Senator, and First Lady"
-image: "/images/people/hillary-clinton.jpg"
 category: "named-in-documents"
 shortBio: "Former Secretary of State and First Lady whose name appears in Epstein-related documents primarily through her husband Bill Clinton's extensive documented contacts with Epstein, including multiple flight segments on Epstein's private jet. Hillary Clinton has not been personally accused of wrongdoing in connection with the case."
 notableConnections:

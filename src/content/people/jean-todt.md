@@ -4,7 +4,6 @@ seoTitle: "Is Jean Todt in the Epstein files? — Former FIA president; former F
 seoDescription: "Jean Todt, former FIA president and ex-Ferrari executive, is named in reporting on the Epstein files over a 2017 contact and visit after an introduction."
 aliases: []
 role: "Former FIA president; former Ferrari team principal"
-image: "/images/people/jean-todt.jpg"
 category: named-in-documents
 shortBio: "Jean Todt is a French motorsport executive who led Scuderia Ferrari and served as president of the FIA from 2009 to 2021. He is named in reporting on the Epstein files in connection with a 2017 contact and visit to Jeffrey Epstein's home after a mutual acquaintance introduced them."
 notableConnections:

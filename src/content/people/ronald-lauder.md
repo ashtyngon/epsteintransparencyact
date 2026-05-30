@@ -4,7 +4,6 @@ seoTitle: "Is Ronald Lauder in the Epstein files? — Estée Lauder heir & World
 seoDescription: "Ronald Lauder, Estée Lauder heir and World Jewish Congress president, appears 900+ times in the Epstein files, tied to a 2014 art-purchase LLC."
 aliases: []
 role: "Estée Lauder heir, businessman, art collector, and president of the World Jewish Congress"
-image: "/images/people/ronald-lauder.jpg"
 category: named-in-documents
 shortBio: "Ronald Lauder is an American businessman, heir to the Estée Lauder cosmetics company, art collector, and president of the World Jewish Congress. His name appears more than 900 times in the Epstein files, and documents show Epstein set up a 2014 LLC for Lauder and Leon Black to share ownership of a multimillion-dollar artwork. He has not been accused of any wrongdoing."
 notableConnections:

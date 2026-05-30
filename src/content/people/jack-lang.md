@@ -4,7 +4,6 @@ seoTitle: "Jack Lang Epstein — French Culture Minister Resigns Arab World Inst
 seoDescription: "Former French culture minister Jack Lang resigned as head of the Arab World Institute in February 2026 after French authorities opened an investigation into financial links with Jeffrey Epstein."
 aliases: []
 role: "Former French Culture Minister, former head of the Arab World Institute"
-image: "/images/people/jack-lang.jpg"
 category: "named-in-documents"
 shortBio: "French politician and former culture minister who resigned as head of the Arab World Institute in Paris in February 2026 after French authorities said they were investigating financial links between Lang, his family, and Jeffrey Epstein."
 notableConnections:

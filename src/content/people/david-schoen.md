@@ -4,7 +4,6 @@ seoTitle: "Is David Schoen in the Epstein files? — Defense and civil-rights at
 seoDescription: "David Schoen is an American defense and civil-rights attorney who met Jeffrey Epstein in 2008 and says Epstein asked him to take over his defense in 2019."
 aliases: []
 role: "American defense and civil-rights attorney"
-image: "/images/people/david-schoen.jpg"
 category: legal
 shortBio: "David Schoen is an American attorney known for federal criminal defense and civil-rights litigation. He first met Jeffrey Epstein around the time of Epstein's 2008 case and, by his own account, met with Epstein at a federal jail in August 2019 — shortly before Epstein's death — when Epstein asked him to take over his defense. Schoen later represented Donald Trump in his second impeachment trial and has publicly questioned the official ruling that Epstein died by suicide."
 notableConnections:

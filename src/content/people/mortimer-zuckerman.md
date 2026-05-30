@@ -5,7 +5,6 @@ seoDescription: "Mortimer Zuckerman, owner of U.S. News & World Report and forme
 aliases:
   - "Mort Zuckerman"
 role: "Billionaire media owner (U.S. News & World Report; former New York Daily News owner) and real estate developer"
-image: "/images/people/mortimer-zuckerman.jpg"
 category: associate
 shortBio: "Mortimer Zuckerman is a Canadian-American billionaire, owner of U.S. News & World Report and former owner of the New York Daily News. Reporting on the Epstein files documents correspondence with Jeffrey Epstein, a financial advisory relationship, and Epstein's efforts to shape coverage in Zuckerman's newspaper."
 notableConnections:

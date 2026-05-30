@@ -7,7 +7,6 @@ aliases:
   - "Sofia Hellqvist"
   - "Sofia Kristina Hellqvist"
 role: "Swedish princess, Duchess of Värmland"
-image: "/images/people/princess-sofia-of-sweden.jpg"
 category: official
 shortBio: "Princess Sofia of Sweden, born Sofia Hellqvist, is the wife of Prince Carl Philip and a member of the Swedish royal family. Swedish reporting in 2025 surfaced 2005 emails indicating she met Jeffrey Epstein on a few social occasions before her marriage; the Royal Court says she declined an invitation to his island and had no further contact with him."
 notableConnections:

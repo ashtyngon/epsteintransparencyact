@@ -4,7 +4,6 @@ seoTitle: "Is Robert Mugabe in the Epstein files? — Former President of Zimbab
 seoDescription: "Robert Mugabe, the late Zimbabwean leader, is referenced indirectly in the Epstein files — in a 2015 Epstein email and an unverified 2017 FBI source claim."
 aliases: []
 role: "Former President of Zimbabwe (in office 1987–2017; died 2019)"
-image: "/images/people/robert-mugabe.jpg"
 category: named-in-documents
 shortBio: "Robert Gabriel Mugabe led Zimbabwe for nearly four decades, as Prime Minister from 1980 and President from 1987 until 2017. He appears in the Epstein files only indirectly — discussed in a 2015 Epstein email exchange and named in an unverified 2017 FBI source claim — with no documented meeting or interaction between the two men. He died in 2019."
 notableConnections:

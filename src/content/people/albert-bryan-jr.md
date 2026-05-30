@@ -4,7 +4,6 @@ seoTitle: "Is Albert Bryan Jr. in the Epstein files? — Governor of the U.S. Vi
 seoDescription: "Albert Bryan Jr., Governor of the U.S. Virgin Islands, is named in released Epstein files over 2019 messages about an unpermitted-construction dispute on Epstein's islands."
 aliases: []
 role: "Governor of the U.S. Virgin Islands"
-image: "/images/people/albert-bryan-jr.jpg"
 category: official
 shortBio: "Albert Bryan Jr. (born 1968) is the ninth Governor of the U.S. Virgin Islands, in office since January 2019. He appears in released Epstein files through 2019 communications about an unpermitted land-clearing and construction dispute on Epstein's islands."
 notableConnections:

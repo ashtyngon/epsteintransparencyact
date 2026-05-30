@@ -4,7 +4,6 @@ seoTitle: "Is Bill Richardson in the Epstein files? — Former Governor of New M
 seoDescription: "Bill Richardson, former New Mexico governor and U.S. Energy Secretary, was named in 2019 unsealed Epstein court documents. He denied the allegations and was never charged."
 aliases: []
 role: "Former Governor of New Mexico and U.S. Secretary of Energy (deceased 2023)"
-image: "/images/people/bill-richardson.jpg"
 category: official
 shortBio: "Bill Richardson (1947–2023) was a U.S. Democratic politician who served as Governor of New Mexico, U.S. Secretary of Energy, U.S. Ambassador to the United Nations, and a member of Congress. His name appeared in court documents related to Jeffrey Epstein; he denied the allegations against him and was never charged."
 notableConnections:

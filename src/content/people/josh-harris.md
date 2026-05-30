@@ -4,7 +4,6 @@ seoTitle: "Is Josh Harris in the Epstein files? — Apollo Global Management co-
 seoDescription: "Josh Harris, Apollo Global Management co-founder and owner of the 76ers, Devils and Commanders, corresponded with Jeffrey Epstein from 2013–2016."
 aliases: []
 role: "Co-founder of Apollo Global Management; owner of the Washington Commanders, Philadelphia 76ers and New Jersey Devils"
-image: "/images/people/josh-harris.jpg"
 category: named-in-documents
 shortBio: "American investor and sports-team owner who co-founded Apollo Global Management. Emails released in January 2026 show correspondence with Jeffrey Epstein from 2013 to 2016 and at least one 2014 breakfast meeting. A spokesperson said Harris never had an independent relationship with Epstein and sought to avoid him."
 notableConnections:

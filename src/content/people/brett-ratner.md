@@ -4,7 +4,6 @@ seoTitle: "Is Brett Ratner in the Epstein files? — Film director and producer"
 seoDescription: "Brett Ratner appears in photographs released as part of the Epstein files. He says he did not know Jeffrey Epstein. He is not accused of wrongdoing."
 aliases: []
 role: "Film director and producer"
-image: "/images/people/brett-ratner.jpg"
 category: named-in-documents
 shortBio: "Brett Ratner is an American film director and producer known for the Rush Hour series and X-Men: The Last Stand. He is connected to the Epstein record through photographs released in the Epstein files showing him with Jeffrey Epstein. He has said he did not have a personal relationship with Epstein and is not accused of wrongdoing."
 notableConnections:

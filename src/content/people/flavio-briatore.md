@@ -4,7 +4,6 @@ seoTitle: "Is Flavio Briatore in the Epstein files? — Italian businessman and 
 seoDescription: "Flavio Briatore, the Italian businessman and former Formula One team principal, is reported to have exchanged emails with Jeffrey Epstein between 2005 and 2010."
 aliases: []
 role: "Italian businessman; former Formula One team principal (Benetton, Renault)"
-image: "/images/people/flavio-briatore.jpg"
 category: associate
 shortBio: "Flavio Briatore is an Italian businessman and former Formula One team principal who led the Benetton and Renault teams. Reporting on the Epstein files says he exchanged emails with Jeffrey Epstein between 2005 and 2010. Being named does not imply wrongdoing."
 notableConnections:

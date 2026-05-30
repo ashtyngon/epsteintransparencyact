@@ -4,7 +4,6 @@ seoTitle: "Is Stacey Plaskett in the Epstein files? — U.S. Delegate for the U.
 seoDescription: "Stacey Plaskett, U.S. Delegate for the Virgin Islands, exchanged texts with Jeffrey Epstein during a 2019 House hearing. She said she sought information; a censure vote failed."
 aliases: []
 role: "U.S. Delegate for the U.S. Virgin Islands"
-image: "/images/people/stacey-plaskett.jpg"
 category: official
 shortBio: "Stacey Plaskett is the nonvoting Delegate to the U.S. House of Representatives from the U.S. Virgin Islands. Released estate records show she exchanged text messages with Jeffrey Epstein during a February 2019 House hearing; she has said she believed Epstein had useful information and noted he was then a Virgin Islands constituent."
 notableConnections:

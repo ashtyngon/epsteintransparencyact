@@ -4,7 +4,6 @@ seoTitle: "Is Howard Gardner in the Epstein files? — Harvard developmental psy
 seoDescription: "Howard Gardner, the Harvard psychologist behind multiple intelligences theory, received research support from Jeffrey Epstein and says he later refused further funding."
 aliases: []
 role: "Harvard developmental psychologist, originator of the theory of multiple intelligences"
-image: "/images/people/howard-gardner.jpg"
 category: named-in-documents
 shortBio: "Howard Gardner is a Harvard developmental psychologist best known for his theory of multiple intelligences. Reporting on Epstein's ties to academia documents that Epstein supported some of Gardner's research at Harvard; Gardner says he told Epstein he would not accept further support."
 notableConnections:

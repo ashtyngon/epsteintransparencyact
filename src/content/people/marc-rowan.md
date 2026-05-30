@@ -4,7 +4,6 @@ seoTitle: "Is Marc Rowan in the Epstein files? — Chairman and CEO of Apollo Gl
 seoDescription: "Marc Rowan, chairman and CEO of Apollo Global Management, appears in released Epstein documents via 2016 correspondence on Apollo tax matters. He denies any relationship with Epstein."
 aliases: []
 role: "Chairman and CEO of Apollo Global Management"
-image: "/images/people/marc-rowan.jpg"
 category: named-in-documents
 shortBio: "Marc Rowan is the chairman and chief executive of Apollo Global Management, which he co-founded in 1990. Released Epstein documents include a 2016 email exchange in which Rowan and Epstein discussed a potential Apollo corporate inversion, and an instance in which Rowan forwarded internal Apollo tax correspondence to Epstein. Rowan and Apollo say neither he nor anyone at the firm other than co-founder Leon Black had a business or personal relationship with Epstein. He has not been charged with any crime."
 notableConnections:

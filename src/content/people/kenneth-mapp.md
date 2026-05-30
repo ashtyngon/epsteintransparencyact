@@ -4,7 +4,6 @@ seoTitle: "Is Kenneth Mapp in the Epstein files? — Former Governor of the U.S.
 seoDescription: "Kenneth Mapp, former Governor of the U.S. Virgin Islands (2015–2019), is named in the Epstein files over 2016 emails about a loan request and meetings."
 aliases: []
 role: "Former Governor of the U.S. Virgin Islands (2015–2019)"
-image: "/images/people/kenneth-mapp.jpg"
 category: official
 shortBio: "Kenneth Mapp is an American politician who served as the eighth Governor of the U.S. Virgin Islands from 2015 to 2019. He is named in the Epstein files in connection with 2016 emails in which he asked Jeffrey Epstein about a loan for the territorial government, and he later acknowledged in sworn testimony having lunch with Epstein on Little St. James."
 notableConnections:

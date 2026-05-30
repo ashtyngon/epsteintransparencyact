@@ -4,7 +4,6 @@ seoTitle: "Is Michael Wolff in the Epstein files? — American journalist and au
 seoDescription: "Michael Wolff, the journalist and author of 'Fire and Fury,' corresponded with Jeffrey Epstein and recorded interviews with him; emails were released by Congress in 2025."
 aliases: []
 role: "American journalist and author"
-image: "/images/people/michael-wolff.jpg"
 category: named-in-documents
 shortBio: "Michael Wolff is an American journalist and author best known for 'Fire and Fury: Inside the Trump White House.' He corresponded with Jeffrey Epstein and has said he recorded roughly 100 hours of interviews with him; House Oversight Committee Democrats released emails between the two in November 2025."
 notableConnections:

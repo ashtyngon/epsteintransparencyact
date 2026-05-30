@@ -4,7 +4,6 @@ seoTitle: "Is Lawrence Krauss in the Epstein files? — Theoretical physicist an
 seoDescription: "Theoretical physicist Lawrence Krauss appears in the Epstein files through correspondence in which he sought Epstein's advice on misconduct allegations in 2017."
 aliases: []
 role: "Theoretical physicist and author"
-image: "/images/people/lawrence-krauss.jpg"
 category: named-in-documents
 shortBio: "Lawrence Krauss is a Canadian-American theoretical physicist, cosmologist and author. Files released by the U.S. House Oversight Committee in November 2025 contain correspondence in which Krauss sought Jeffrey Epstein's advice while facing sexual-misconduct allegations in 2017."
 notableConnections:

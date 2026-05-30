@@ -4,7 +4,6 @@ seoTitle: "Is John Phelan in the Epstein files? — U.S. Secretary of the Navy"
 seoDescription: "John Phelan, who served as U.S. Secretary of the Navy, is listed on a 2006 passenger manifest released as part of the Epstein files. Context and his response."
 aliases: []
 role: "U.S. Secretary of the Navy (2025–2026); businessman and investor"
-image: "/images/people/john-phelan.jpg"
 category: official
 shortBio: "John C. Phelan is a businessman and investor who served as the 79th U.S. Secretary of the Navy from March 2025 to April 2026. He is listed on a 2006 passenger manifest released as part of the Epstein files, showing he flew on Jeffrey Epstein's private plane several months before Epstein's first arrest on sex charges. A friend told CNN it was his only interaction with Epstein; there is no evidence he knew of any wrongdoing."
 notableConnections:

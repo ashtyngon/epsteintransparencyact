@@ -4,7 +4,6 @@ seoTitle: "Is Stephen Kosslyn in the Epstein files? — Psychologist and former 
 seoDescription: "Stephen Kosslyn, psychologist and former Harvard dean of social science, is named in the Epstein files over donations to his department, a 2008 jail visit and emails."
 aliases: []
 role: "Psychologist and neuroscientist; former Harvard psychology chair and dean of social science"
-image: "/images/people/stephen-kosslyn.jpg"
 category: named-in-documents
 shortBio: "Stephen M. Kosslyn is an American psychologist and neuroscientist and a former chair of the psychology department and dean of social science at Harvard University. He is named in the Epstein files in connection with department donations, a 2008 visit to Epstein in jail, and released emails; his counsel has contested allegations against him."
 notableConnections:

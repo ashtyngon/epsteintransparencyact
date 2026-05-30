@@ -5,7 +5,6 @@ seoDescription: "Andrés Pastrana, President of Colombia 1998–2002, was named 
 aliases:
   - "Andrés Pastrana Arango"
 role: "Former President of Colombia (1998–2002)"
-image: "/images/people/andres-pastrana.jpg"
 category: official
 shortBio: "Andrés Pastrana Arango, President of Colombia from 1998 to 2002, was named on a 2003 register of the flight logbook of Jeffrey Epstein's private aircraft. He acknowledged appearing in the registry on a flight to Nassau, Bahamas, that he described as a stop-over with a final destination of Havana, Cuba. Being named is not evidence of wrongdoing."
 notableConnections:

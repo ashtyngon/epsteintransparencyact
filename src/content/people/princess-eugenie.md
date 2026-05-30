@@ -6,7 +6,6 @@ aliases:
   - "Eugenie Victoria Helena"
   - "Princess Eugenie of York"
 role: "British Royal, daughter of Prince Andrew"
-image: "/images/people/princess-eugenie.jpg"
 category: "named-in-documents"
 shortBio: "Princess Eugenie of York, daughter of Prince Andrew, faced collateral consequences from the Epstein case when she lost her patronage of an anti-slavery charity following renewed scrutiny of her father's ties to Epstein. She has not been personally accused of any wrongdoing."
 notableConnections:

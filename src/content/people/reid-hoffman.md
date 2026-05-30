@@ -4,7 +4,6 @@ seoTitle: "Is Reid Hoffman in the Epstein files? — Co-founder of LinkedIn; ven
 seoDescription: "Reid Hoffman, LinkedIn co-founder and venture capitalist, is named in the Epstein files via a 2014 island visit and emails tied to MIT fundraising; he says he regrets it."
 aliases: []
 role: "Co-founder and former executive chairman of LinkedIn; venture capitalist"
-image: "/images/people/reid-hoffman.jpg"
 category: named-in-documents
 shortBio: "Reid Hoffman is an American internet entrepreneur and venture capitalist best known as the co-founder of LinkedIn. He is named in released Jeffrey Epstein documents through a November 2014 visit to Epstein's island and email contact tied to MIT fundraising, and has said he deeply regrets the association."
 notableConnections:

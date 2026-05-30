@@ -4,7 +4,6 @@ seoTitle: "Is Woody Allen in the Epstein files? — Filmmaker"
 seoDescription: "Woody Allen, the American filmmaker, is named in the Epstein files as a townhouse guest; emails show Epstein helped his daughter gain admission to Bard College."
 aliases: []
 role: "Filmmaker"
-image: "/images/people/woody-allen.jpg"
 category: named-in-documents
 shortBio: "Woody Allen is an American filmmaker, writer and actor. He is named in the Epstein files as a guest at Jeffrey Epstein's Manhattan townhouse, and released emails show Epstein helped his daughter gain admission to Bard College."
 notableConnections:

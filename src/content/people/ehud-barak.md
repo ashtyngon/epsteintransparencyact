@@ -4,7 +4,6 @@ seoTitle: "Is Ehud Barak in the Epstein files? — Former Israeli Prime Minister
 seoDescription: "Ehud Barak, former Prime Minister of Israel, exchanged emails with and visited Jeffrey Epstein over many years. He says he regrets the association and saw no wrongdoing."
 aliases: []
 role: "Former Prime Minister of Israel"
-image: "/images/people/ehud-barak.jpg"
 category: official
 shortBio: "Ehud Barak is a former Prime Minister and Minister of Defense of Israel whose long association with Jeffrey Epstein — including emails, repeated meetings, and visits to Epstein's properties — is documented in released files. Barak says he regrets the relationship and was unaware of Epstein's crimes."
 notableConnections:

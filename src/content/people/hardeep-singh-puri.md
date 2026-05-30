@@ -4,7 +4,6 @@ seoTitle: "Is Hardeep Singh Puri in the Epstein files? — Indian Union Minister
 seoDescription: "Hardeep Singh Puri, India's Union Petroleum Minister and a former diplomat, is named in the Epstein files over a November 2014 email he has acknowledged sending."
 aliases: []
 role: "Indian Union Minister of Petroleum and Natural Gas; former Indian Foreign Service diplomat"
-image: "/images/people/hardeep-singh-puri.jpg"
 category: official
 shortBio: "Hardeep Singh Puri is a retired Indian Foreign Service officer and a BJP politician who serves as India's Union Minister of Petroleum and Natural Gas. He is named in the Epstein files over email exchanges with Jeffrey Epstein from 2014, including a November 13, 2014 message about investment in India's internet sector that Puri has acknowledged sending and described as making the case for initiatives such as 'Digital India.'"
 notableConnections:

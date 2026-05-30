@@ -4,7 +4,6 @@ seoTitle: "Is William Burns in the Epstein files? — CIA Director (2021–2025)
 seoDescription: "William Burns, CIA Director (2021–2025) and former Deputy Secretary of State, was reported by the WSJ to have three scheduled 2014 meetings with Jeffrey Epstein."
 aliases: []
 role: "CIA Director (2021–2025); former Deputy Secretary of State; career diplomat"
-image: "/images/people/william-burns.jpg"
 category: official
 shortBio: "William Joseph Burns (born 1956) is an American career diplomat who served as Director of the CIA from 2021 to 2025 and as U.S. Deputy Secretary of State from 2011 to 2014. The Wall Street Journal reported in 2023 that scheduling documents showed three meetings with Jeffrey Epstein in 2014; a CIA spokesperson said Burns had no relationship with Epstein."
 notableConnections:

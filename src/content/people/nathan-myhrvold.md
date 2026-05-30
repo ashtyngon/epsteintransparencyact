@@ -4,7 +4,6 @@ seoTitle: "Is Nathan Myhrvold in the Epstein files? — Former Microsoft CTO; co
 seoDescription: "Nathan Myhrvold, former Microsoft CTO and co-founder of Intellectual Ventures, is named in the Epstein files via emails, flight logs and a 2003 birthday book."
 aliases: []
 role: "Former Microsoft CTO; co-founder of Intellectual Ventures"
-image: "/images/people/nathan-myhrvold.jpg"
 category: named-in-documents
 shortBio: "Nathan Myhrvold is a former Microsoft chief technology officer and co-founder of the patent firm Intellectual Ventures. His name appears in records connected to Jeffrey Epstein, including emails, flight logs, an address book, and a 2003 birthday book. He has said through a spokesperson that he regrets ever meeting Epstein."
 notableConnections:

@@ -4,7 +4,6 @@ seoTitle: "Is Carl Icahn in the Epstein files? — Activist investor"
 seoDescription: "Carl Icahn, the activist investor, is documented only as a name listed in a 1990s address book attributed to Jeffrey Epstein. Being listed is not evidence of any relationship or wrongdoing."
 aliases: []
 role: "Activist investor and businessman, founder of Icahn Enterprises"
-image: "/images/people/carl-icahn.jpg"
 category: named-in-documents
 shortBio: "Carl Icahn is an American activist investor and the founder of Icahn Enterprises. His only documented link to Jeffrey Epstein is the appearance of his name in a 1990s address book attributed to Epstein. No relationship beyond that listing has been reported, and being listed is not evidence of wrongdoing."
 notableConnections:

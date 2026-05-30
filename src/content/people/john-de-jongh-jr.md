@@ -4,7 +4,6 @@ seoTitle: "Is John de Jongh Jr. in the Epstein files? — Former Governor of the
 seoDescription: "John de Jongh Jr., former Governor of the U.S. Virgin Islands (2007–2015), is named in reporting on the Epstein files over tuition Epstein paid for his children."
 aliases: []
 role: "Former Governor of the U.S. Virgin Islands (2007–2015)"
-image: "/images/people/john-de-jongh-jr.jpg"
 category: official
 shortBio: "John de Jongh Jr. is an American businessman and politician who served as the 7th Governor of the U.S. Virgin Islands from 2007 to 2015. His name appears in reporting on the Epstein files in connection with college tuition that Jeffrey Epstein paid for his children in 2008–2009."
 notableConnections:

@@ -4,7 +4,6 @@ seoTitle: "Is Ben Goertzel in the Epstein files? — AI researcher and Singulari
 seoDescription: "Ben Goertzel, AI researcher and SingularityNET founder, is named in the Epstein files over research funding Epstein's non-profit channeled to his work from 2010–2015."
 aliases: []
 role: "AI researcher; founder and CEO of SingularityNET; former chief scientist at Hanson Robotics"
-image: "/images/people/ben-goertzel.jpg"
 category: named-in-documents
 shortBio: "American computer scientist and artificial-intelligence researcher who helped popularize the term 'artificial general intelligence' (AGI), founded SingularityNET, and served as chief scientist at Hanson Robotics. He is named in connection with the Epstein files over at least US$113,000 that Epstein's US non-profit Humanity+ channeled to his AI work between 2010 and 2015; Goertzel has said he regrets taking the money."
 notableConnections:

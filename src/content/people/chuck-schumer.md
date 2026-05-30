@@ -6,7 +6,6 @@ aliases:
   - "Charles Schumer"
   - "Charles E. Schumer"
 role: "U.S. Senate Minority Leader (D-NY)"
-image: "/images/people/chuck-schumer.jpg"
 category: "official"
 shortBio: "U.S. Senate Democratic Leader from New York whose documented link to Jeffrey Epstein is a set of small campaign contributions Epstein made in the 1990s, which Schumer said in 2019 he would donate to anti-trafficking groups. In 2026 he introduced victim-focused legislation named for Epstein accuser Virginia Giuffre."
 notableConnections:

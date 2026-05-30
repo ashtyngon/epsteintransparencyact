@@ -6,7 +6,6 @@ aliases:
   - "Rep. Jayapal"
   - "Representative Jayapal"
 role: "U.S. Representative (D-WA)"
-image: "/images/people/pramila-jayapal.jpg"
 category: "official"
 shortBio: "Democratic congresswoman from Washington state who co-authored a letter to the Department of Justice demanding five steps toward transparency in the Epstein case. Jayapal, former chair of the Congressional Progressive Caucus, has pushed for full accountability regarding prosecutorial failures and the protection of co-conspirators in the original plea deal."
 notableConnections:
