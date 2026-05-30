@@ -27,13 +27,13 @@ articleType: news
 confidence: 0.95
 ---
 
-UK Prime Minister **Keir Starmer** told the House of Commons on April 20, 2026 that the Foreign, Commonwealth and Development Office made a "deliberate decision" to withhold information about **Peter Mandelson**'s failed security vetting from members of Parliament, according to CNN and The Washington Post.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
+UK Prime Minister **Keir Starmer** told the House of Commons on April 20, 2026 that officials in the Foreign, Commonwealth and Development Office had withheld information about **Peter Mandelson**'s failed security vetting from senior ministers, telling MPs that "a deliberate decision was taken to withhold that material from me."<sup>[1](#ref-1)</sup><sup>[4](#ref-4)</sup><sup>[5](#ref-5)</sup>
 
-Starmer said he should not have appointed Mandelson as the UK's ambassador to Washington and acknowledged that he would not have made the appointment had he known the full conclusions of the security vetting process, multiple outlets reported.<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
+In his statement, Starmer said: "I should not have appointed Peter Mandelson." He added that if he had known, before Mandelson took up his post, that United Kingdom Security Vetting (UKSV) had recommended that developed vetting be denied, "I would not have gone ahead."<sup>[4](#ref-4)</sup>
 
 ## Starmer's Statement to MPs
 
-In his Commons statement, the prime minister sought to push the political blame onto the Foreign Office bureaucracy, saying officials there had decided to keep ministers in the dark about the security concerns flagged during Mandelson's vetting. Mandelson, a senior Labour figure and former cabinet minister, was the UK's most prestigious diplomatic appointment when he took up the Washington role in February 2025.
+In his Commons statement, the prime minister sought to push the political blame onto the Foreign Office bureaucracy, saying it "beggars belief that throughout the whole timeline of events officials in the Foreign Office saw fit to withhold this information from the most senior ministers."<sup>[4](#ref-4)</sup> Pressed by MPs on whether the omission was an oversight, he said: "This was not a lack of asking. This wasn't an oversight. It was a decision taken not to share that information on repeated occasions."<sup>[5](#ref-5)</sup> Mandelson, a senior Labour figure and former cabinet minister, was the UK's most prestigious diplomatic appointment when he took up the Washington role in February 2025.
 
 Starmer fired Mandelson from the ambassadorship in September 2025 after newly released DOJ documents revealed the depth of his ongoing relationship with **Jeffrey Epstein**, including communications that continued after Epstein's 2008 conviction. UK police arrested Mandelson in February 2026 on suspicion of misconduct in public office related to passing sensitive government information to Epstein.
 
@@ -64,3 +64,7 @@ The scandal has rolled on for months, fueled by a steady stream of new disclosur
 2. <span id="ref-2"></span>[Washington Post — "British PM Starmer's job at risk over Epstein-Mandelson revelations"](https://www.washingtonpost.com/world/2026/04/20/starmer-uk-epstein-mandelson/)
 
 3. <span id="ref-3"></span>[Al Jazeera — "UK's Starmer under fire over report Mandelson failed security vetting"](https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting)
+
+4. <span id="ref-4"></span>[GOV.UK — "PM statement on the appointment of Peter Mandelson: 20 April 2026"](https://www.gov.uk/government/speeches/pm-statement-on-the-appointment-of-peter-mandelson-20-april-2026)
+
+5. <span id="ref-5"></span>[BBC News — "'I should not have appointed Peter Mandelson' — Starmer faces MPs" (via AOL)](https://www.aol.com/news/officials-deliberately-withheld-mandelson-vetting-173045041.html)
