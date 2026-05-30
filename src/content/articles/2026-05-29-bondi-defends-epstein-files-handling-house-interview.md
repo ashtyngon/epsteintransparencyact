@@ -3,6 +3,9 @@ title: "Bondi Defends Epstein Files Handling in Closed-Door House Interview, Con
 publishedAt: "2026-05-29T22:00:00.000Z"
 source: "Associated Press"
 sourceUrl: "https://www.pbs.org/newshour/politics/pam-bondi-will-face-a-closed-door-questioning-from-house-lawmakers-over-the-epstein-files"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pam_Bondi_official_portrait_%28cropped%29%282%29.jpg/960px-Pam_Bondi_official_portrait_%28cropped%29%282%29.jpg"
+imageCaption: "Former Attorney General Pam Bondi sat for a transcribed House Oversight interview on May 29, 2026."
+imageCredit: "Official DOJ portrait via Wikimedia Commons"
 summary: "Former Attorney General Pam Bondi defended the Trump administration's release of the Epstein files in a transcribed House Oversight interview, acknowledging 'redaction errors' but declining to discuss President Trump's involvement and pointing to Todd Blanche as the official who oversaw the release."
 people:
   - jeffrey-epstein

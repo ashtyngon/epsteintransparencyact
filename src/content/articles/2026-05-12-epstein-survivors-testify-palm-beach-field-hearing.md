@@ -3,6 +3,9 @@ title: "Epstein Survivors Testify at Palm Beach Field Hearing as Democrats Decla
 publishedAt: "2026-05-12T21:30:00.000Z"
 source: "WLRN"
 sourceUrl: "https://www.wlrn.org/law-justice/2026-05-12/survivors-jeffrey-epstein-congressional-hearing-west-palm-beach"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Robert_Garcia_119th_Congress.jpeg/960px-Robert_Garcia_119th_Congress.jpeg"
+imageCaption: "Rep. Robert Garcia led the Oversight Democrats' field hearing in West Palm Beach on May 12, 2026."
+imageCredit: "Official congressional portrait via Wikimedia Commons"
 summary: "House Oversight Democrats brought their Epstein investigation to West Palm Beach, where survivors testified within three miles of the mansion where many were abused. Rep. Robert Garcia said the panel is entering a 'new phase' of its inquiry."
 people:
   - jeffrey-epstein

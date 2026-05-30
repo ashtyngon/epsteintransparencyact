@@ -3,6 +3,9 @@ title: "Acting Attorney General Blanche Tells Senate He Won't Recommend a Pardon
 publishedAt: "2026-05-19T20:00:00.000Z"
 source: "MS NOW"
 sourceUrl: "https://www.ms.now/deadline-white-house/deadline-legal-blog/ghislaine-maxwell-pardon-blanche-senate-testimony-trump-epstein"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DAG_DAG_Todd_Blanche_Official_Port.jpg/960px-DAG_DAG_Todd_Blanche_Official_Port.jpg"
+imageCaption: "Acting Attorney General Todd Blanche testified before a Senate Appropriations subcommittee on May 19, 2026."
+imageCredit: "Official DOJ portrait via Wikimedia Commons"
 summary: "At a Senate budget hearing, Acting Attorney General Todd Blanche committed that the Justice Department will not recommend clemency for Ghislaine Maxwell. But the decision ultimately rests with President Trump, who retains sole pardon power."
 people:
   - jeffrey-epstein

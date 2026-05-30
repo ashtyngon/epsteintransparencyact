@@ -3,6 +3,9 @@ title: "After Losing His Primary, Massie Vows to Read Redacted Epstein Names on 
 publishedAt: "2026-05-25T16:00:00.000Z"
 source: "Newsweek"
 sourceUrl: "https://www.newsweek.com/thomas-massie-promises-to-expose-more-names-from-epstein-files-11989729"
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg"
+imageCaption: "Rep. Thomas Massie lost his Kentucky Republican primary on May 19, 2026, and vowed to keep naming figures from the Epstein files."
+imageCredit: "Official congressional portrait via Wikimedia Commons"
 summary: "Rep. Thomas Massie, defeated in a Trump-backed primary, says he intends to use his remaining months in Congress to read additional redacted names from the Epstein files aloud on the House floor — protected by the Constitution's Speech or Debate Clause."
 people:
   - jeffrey-epstein
