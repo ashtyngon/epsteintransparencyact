@@ -26,7 +26,7 @@ keyTakeaways:
   - "Oversight Democrats released an interim report titled 'The Price of Non-Prosecution' on May 12, 2026."
   - "The report argues Acosta's 2008 deal allowed Epstein to continue and expand his trafficking operation internationally."
   - "It notes investigators had already gathered evidence from 34 victims and drafted an indictment before the deal was struck."
-  - "The 2008 agreement let Epstein plead to a single state prostitution charge and serve about 13 months with work release."
+  - "The 2008 agreement let Epstein plead to state prostitution charges and serve about 13 months with extensive work release."
 status: published
 aiGenerated: true
 articleType: analysis
@@ -39,7 +39,7 @@ The report, titled "The Price of Non-Prosecution: The Evolution of Epstein's Tra
 
 ## What the 2008 Deal Did
 
-The non-prosecution agreement was negotiated by **Alex Acosta**, then the U.S. Attorney for the Southern District of Florida. Under its terms, Epstein pleaded guilty in state court to a single count of solicitation of prostitution, served roughly 13 months in the Palm Beach County jail — much of it on work release — and registered as a sex offender. The federal government agreed not to prosecute him, and the deal also shielded potential co-conspirators.<sup>[1](#ref-1)</sup>
+The non-prosecution agreement was negotiated by **Alex Acosta**, then the U.S. Attorney for the Southern District of Florida. Under its terms, Epstein pleaded guilty in state court to felony solicitation of prostitution — and, pursuant to the agreement, to a second state charge of procuring a minor for prostitution — served roughly 13 months in the Palm Beach County jail, much of it on work release that let him leave custody for up to 16 hours a day, and registered as a sex offender. The federal government agreed not to prosecute him, and the deal also forwent prosecution of four named co-conspirators and any potential co-conspirators.<sup>[1](#ref-1)</sup><sup>[5](#ref-5)</sup>
 
 The Democrats' report stresses how far the federal investigation had already advanced before that resolution. Investigators had assembled evidence from 34 victims and prepared a draft indictment, according to Latin Post's account of the report, when prosecutors instead agreed to the arrangement that ended the federal case.<sup>[2](#ref-2)</sup> Survivors have long called it a "sweetheart deal," and it was the same agreement that survivor **Courtney Wild** and others spent years challenging in federal court.
 
@@ -66,3 +66,5 @@ Acosta, who went on to serve as President Trump's Labor secretary before resigni
 3. <span id="ref-3"></span>[International Business Times UK — "Epstein Survivor Tells Palm Beach Hearing: Sex Trafficking Was 'Protected and Funded by Powerful People'"](https://www.ibtimes.co.uk/florida-hearing-epstein-scandal-1796491)
 
 4. <span id="ref-4"></span>[U.S. House Committee on Oversight (Democrats) — "The Price of Non-Prosecution" (interim staff report)](https://oversightdemocrats.house.gov/imo/media/doc/the_price_of_non-prosecution.pdf)
+
+5. <span id="ref-5"></span>[NPR — "Jeffrey Epstein's Prosecutors Used 'Poor Judgment' In 2008 Deal, DOJ Says"](https://www.npr.org/2020/11/12/934265386/jeffrey-epsteins-former-prosecutors-used-poor-judgment-in-deal-doj-says)

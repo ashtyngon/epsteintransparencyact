@@ -44,13 +44,13 @@ The disclosures sharpen the central allegation that has driven the criminal case
 
 The files were published in response to a "humble address" — a parliamentary mechanism a lawmaker invoked in February, after Andrew's arrest, to compel the government to lay documents before Parliament. Presenting them, Trade Minister **Chris Bryant** told lawmakers that his department had "found no evidence that a formal due diligence or vetting process was undertaken" before Andrew was appointed, and that the government was cooperating with the Thames Valley Police investigation.<sup>[2](#ref-2)</sup>
 
-The documents also show how Andrew came to hold the role in the first place. The head of Britain's trade body wrote that "the Queen is very keen that the Duke of York should take on a prominent role in the promotion of national interests" — a reference to the late **Queen Elizabeth II**, Andrew's mother, indicating royal enthusiasm for the appointment.<sup>[2](#ref-2)</sup>
+The documents also show how Andrew came to hold the role in the first place. David Wright, then chief executive of British Trade International, wrote that "the Queen is very keen that the Duke of York should take on a prominent role in the promotion of national interests" — a reference to the late **Queen Elizabeth II**, Andrew's mother, indicating royal enthusiasm for the appointment.<sup>[2](#ref-2)</sup><sup>[3](#ref-3)</sup>
 
 ## Background
 
 The releases are the latest fallout from a collapse in Andrew's public standing that accelerated after the U.S. Justice Department released millions of pages of Epstein records. In October 2025, **King Charles III** moved to strip his brother of his royal titles, including the Duke of York title and his style as a prince. In February 2026, Andrew was evicted from the Royal Lodge and arrested on suspicion of misconduct in public office; Thames Valley Police have continued investigating and have appealed for witnesses to come forward.<sup>[1](#ref-1)</sup>
 
-Andrew has long denied wrongdoing in connection with Epstein, including the sexual-abuse allegations made by the late **Virginia Giuffre**, which he has consistently rejected. He has not been charged with a crime; the misconduct investigation centers on his conduct as a public official rather than the abuse allegations.
+Andrew has long denied wrongdoing in connection with Epstein, including the sexual-abuse allegations made by the late **Virginia Giuffre**, which he has consistently rejected. He has not been charged with a crime. The investigation centers on the offense of misconduct in public office; Thames Valley Police have said that offense is defined broadly and that their inquiry could also examine sexual-misconduct allegations, not solely the sharing of trade material.<sup>[3](#ref-3)</sup>
 
 ## What the Files Add
 
@@ -62,4 +62,4 @@ The May 21 release moves the Andrew story from the realm of social association i
 
 2. <span id="ref-2"></span>[CP24 — "UK government to release papers related to former Prince Andrew's appointment as trade envoy"](https://www.cp24.com/news/world/2026/05/21/uk-government-to-release-papers-related-to-former-prince-andrews-appointment-as-trade-envoy/)
 
-3. <span id="ref-3"></span>[TIME — "Five Things We Learned From the U.K. Government's Release of Files Related to Former Prince Andrew"](https://time.com/article/2026/05/21/government-releases-confidential-files-prince-andrew-trade-envoy-key-revelations/)
+3. <span id="ref-3"></span>[CNN — "Andrew was not vetted for controversial UK trade envoy role that was late Queen's 'wish,' files show"](https://www.cnn.com/2026/05/21/uk/andrew-mountbatten-windsor-trade-files-released-intl) and [CNN — "Andrew Mountbatten-Windsor investigation could examine sexual misconduct allegations"](https://www.cnn.com/2026/05/22/uk/andrew-mountbatten-windsor-intl-hnk)

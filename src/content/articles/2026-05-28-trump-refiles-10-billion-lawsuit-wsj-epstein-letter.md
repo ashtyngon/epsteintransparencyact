@@ -39,7 +39,7 @@ Trump has consistently denied any involvement, and his lawsuit asserts that the 
 
 ## A Second Attempt After Dismissal
 
-The refiling follows a setback. A federal judge dismissed Trump's original $10 billion suit in April, ruling that he had failed to plausibly allege the newspaper acted with "actual malice" — the demanding legal standard a public figure must meet to win a defamation claim. The judge allowed Trump a window to file an amended complaint with new evidence, and the May 28 filing is that second attempt.<sup>[1](#ref-1)</sup>
+The refiling follows a setback. On April 13, 2026, U.S. District Judge Darrin Gayles, who sits in the Southern District of Florida in Miami, dismissed Trump's original $10 billion suit, ruling that he had failed to plausibly allege the newspaper acted with "actual malice" — the demanding legal standard a public figure must meet to win a defamation claim.<sup>[1](#ref-1)</sup><sup>[4](#ref-4)</sup> The dismissal was without prejudice, and the judge gave Trump a window to file an amended complaint; the May 28 filing is that second attempt.<sup>[4](#ref-4)</sup><sup>[5](#ref-5)</sup>
 
 Dow Jones has stood by the reporting. "We have full confidence in the rigor and accuracy of our reporting, and will vigorously defend against any lawsuit," the company has said.<sup>[1](#ref-1)</sup> A spokesperson for Trump's legal effort said the president "will continue to hold those who mislead the American People with Fake News and smears accountable."<sup>[2](#ref-2)</sup>
 
@@ -54,3 +54,7 @@ The authenticity of the 2003 letter is disputed and unresolved. The Wall Street 
 2. <span id="ref-2"></span>[Deadline — "Donald Trump Files New Lawsuit Against The Wall Street Journal Over Story On Jeffrey Epstein Letter"](https://deadline.com/2026/05/trump-wall-street-journal-lawsuit-jeffrey-epstein-1236928975/)
 
 3. <span id="ref-3"></span>[The Hill — "Trump refiles $10 billion lawsuit over Wall Street Journal report on Epstein birthday letter"](https://thehill.com/homenews/administration/5899382-trump-sues-dow-jones-epstein/)
+
+4. <span id="ref-4"></span>[Reuters — "Trump refiles $10 billion defamation suit against WSJ over report on Epstein ties"](https://www.usnews.com/news/politics/articles/2026-05-28/trump-refiles-10-billion-defamation-suit-against-wsj-over-report-on-epstein-ties) (via U.S. News & World Report)
+
+5. <span id="ref-5"></span>[NPR — "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting"](https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch)
