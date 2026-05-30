@@ -8,7 +8,7 @@ aliases:
 role: "Former independent counsel, attorney, university president (deceased 2022)"
 image: "/images/people/ken-starr.jpg"
 category: "named-in-documents"
-shortBio: "Former independent counsel who led the investigation of President Bill Clinton and later served as president of Baylor University. Starr joined Jeffrey Epstein's defense team and played a role in negotiating the controversial 2008 non-prosecution agreement in Florida. He died in September 2022."
+shortBio: "Former independent counsel who led the investigation of President Bill Clinton and later served as president of Baylor University. Starr joined Jeffrey Epstein's defense team and played a role in the legal effort that produced the controversial 2008 non-prosecution agreement in Florida. He died in September 2022."
 notableConnections:
   - jeffrey-epstein
   - alan-dershowitz
@@ -24,13 +24,21 @@ sources:
     url: "https://en.wikipedia.org/wiki/Ken_Starr"
   - title: "Jeffrey Epstein — Wikipedia"
     url: "https://en.wikipedia.org/wiki/Jeffrey_Epstein"
+  - title: "Ken Starr, former Baylor president and Clinton investigator, dies at 76 — The Texas Tribune"
+    url: "https://www.texastribune.org/2022/09/13/ken-starr-dead-baylor-clinton/"
+  - title: "Ken Starr and Jeffrey Epstein—A Timeline of Their Relationship — Newsweek"
+    url: "https://www.newsweek.com/ken-starr-jeffrey-epstein-timeline-relationship-1609592"
+  - title: "Former Epstein attorney Ken Starr says Alex Acosta played tough in 2008 — Fox News"
+    url: "https://www.foxnews.com/transcript/former-epstein-attorney-ken-starr-says-alex-acosta-played-tough-in-2008"
 ---
 
-Kenneth W. Starr was an American lawyer whose public career included service as U.S. Solicitor General from 1989 to 1993 under President George H.W. Bush and as independent counsel from August 1994 to September 1998. According to his Wikipedia biography, as independent counsel he investigated the Whitewater controversy and the Clinton administration, an inquiry that expanded to include the Clinton–Lewinsky matter and produced the Starr Report, which formed the basis for President Bill Clinton's impeachment. Starr later served as president of Baylor University. He died on September 13, 2022, at age 76, from complications following surgery at a hospital in Houston, according to the same source.
+Kenneth W. Starr was an American lawyer whose public career included service as U.S. Solicitor General from 1989 to 1993 under President George H.W. Bush and as independent counsel from August 1994 to September 1998. According to his Wikipedia biography, as independent counsel he investigated the Whitewater controversy involving the Clinton administration, an inquiry that expanded to include the Clinton–Lewinsky matter and produced the Starr Report, which formed the basis for President Bill Clinton's impeachment. Starr later served as president of Baylor University from 2010 to 2016. He died on September 13, 2022, at age 76, from complications following surgery at a hospital in Houston, according to the same source and to the Texas Tribune.
 
-Starr is relevant to the Epstein matter through his work as legal counsel for Jeffrey Epstein. According to Wikipedia's biography of Epstein, "Epstein's defense lawyers included Roy Black, Gerald Lefcourt, Harvard Law School professor Alan Dershowitz, and former U.S. solicitor general Ken Starr." Starr joined the defense effort in 2007, while Epstein faced charges arising from accusations involving underage girls, as described in Starr's Wikipedia biography.
+Starr is relevant to the Epstein matter through his work as legal counsel for Jeffrey Epstein. According to Wikipedia's biography of Epstein, "Epstein's defense lawyers included Roy Black, Gerald Lefcourt, Harvard Law School professor Alan Dershowitz, and former U.S. solicitor general Ken Starr." Starr joined the defense effort in 2007, while Epstein faced accusations involving underage girls, as described in Starr's Wikipedia biography and in a Newsweek timeline of the relationship.
 
-The defense team negotiated a non-prosecution agreement with then–U.S. Attorney Alexander Acosta. According to Wikipedia's account of Epstein, under the resulting plea deal Epstein pleaded guilty to state charges of soliciting a minor for prostitution and procuring a person under 18 for prostitution, received an 18-month prison sentence, was required to register as a sex offender, and obtained immunity from federal charges that also extended to named and potential co-conspirators. Starr's own Wikipedia biography states that he said he was "in the room" when the plea deal was negotiated and described Acosta as "a person of complete integrity." A federal judge later found that prosecutors had violated victims' rights in connection with how the agreement was handled, according to Starr's Wikipedia biography.
+The defense team negotiated a non-prosecution agreement with then–U.S. Attorney Alexander Acosta in Florida. According to Wikipedia's account of Epstein, under the resulting plea deal Epstein pleaded guilty to one count of felony solicitation of prostitution and one count of procuring a person under 18 for prostitution, received an 18-month prison sentence, was required to register as a sex offender, and obtained immunity from federal charges that also extended to named and potential co-conspirators. As part of the defense effort, Starr did not confine his work to negotiating with Acosta's office; according to the Newsweek timeline, reporter Julie K. Brown's reporting describes Starr campaigning to pressure the Justice Department to drop the case, including an eight-page letter Starr is reported to have written to Deputy U.S. Attorney General Mark Filip.
+
+In later public comments, Starr described his role favorably. Speaking on the record (as quoted by Fox News and in his Wikipedia biography), Starr said he was "in the room" during the negotiations, called Alexander Acosta "a person of complete integrity," and said the parties "ultimately came to an agreement that everyone was satisfied with." In 2019, a federal judge (Judge Kenneth Marra of the U.S. District Court for the Southern District of Florida) found that the non-prosecution agreement had violated victims' rights under the Crime Victims' Rights Act, according to Wikipedia's account of Epstein; Wikipedia notes that this decision was later overturned by an appellate court in 2020.
 
 ## Is Ken Starr in the Epstein files?
 
