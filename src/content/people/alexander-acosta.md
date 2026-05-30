@@ -7,7 +7,7 @@ aliases:
   - "R. Alexander Acosta"
 role: "Former U.S. Attorney, Former Secretary of Labor"
 category: "official"
-shortBio: "As U.S. Attorney for the Southern District of Florida, Acosta's office negotiated the 2007-2008 non-prosecution agreement that allowed Epstein to plead to state charges, serve 13 months with work release, and granted immunity from federal prosecution to four named co-conspirators and any unnamed potential co-conspirators — a deal a federal judge later ruled violated victims' rights. A 2020 DOJ review found Acosta exercised 'poor judgment' but committed no professional misconduct. Served as Trump's Secretary of Labor until resigning in July 2019 amid renewed scrutiny of the deal."
+shortBio: "As U.S. Attorney for the Southern District of Florida, Acosta's office negotiated the 2007-2008 non-prosecution agreement that allowed Epstein to plead to state charges, serve 13 months with work release, and granted immunity from federal prosecution to four named co-conspirators and any unnamed potential co-conspirators — a deal a federal judge later ruled violated victims' rights. A 2020 DOJ review found Acosta exercised 'poor judgment' but committed no professional misconduct. Served as Trump's Secretary of Labor until resigning in July 2019 amid renewed scrutiny of the deal. In 2025–2026 House Oversight reexamined the agreement; Bloomberg reporting revealed his office had investigated Epstein for money laundering, contradicting his testimony that he did not recall any 'potential financial crimes.'"
 notableConnections:
   - jeffrey-epstein
   - alan-dershowitz
@@ -114,6 +114,18 @@ The immunity clause effectively foreclosed the broader federal investigation tha
 
 The question of why Acosta's office agreed to such broad co-conspirator immunity has been examined but not fully resolved. The 2020 DOJ Office of Professional Responsibility review concluded the decision was within Acosta's discretion and found no evidence it resulted from corruption or from Epstein's wealth, status, or associations, while characterizing it as "poor judgment." The pressure from Epstein's defense team has been cited as one factor. Additional documents released under the Epstein Transparency Act may shed further light.
 
+## 2025–2026: Congressional Scrutiny Returns
+
+Acosta's handling of the case returned to the center of national politics in 2025 and 2026, as the House Oversight Committee made the 2008 non-prosecution agreement a focus of its investigation into the federal government's treatment of Epstein and [Ghislaine Maxwell](/people/ghislaine-maxwell).
+
+On September 19, 2025, Acosta sat for a roughly six-hour transcribed interview with the committee, defending his office's work as he had for years — arguing that the deal at least guaranteed Epstein jail time and sex-offender registration.
+
+Weeks later, that testimony collided with the documentary record. On October 31, 2025, Bloomberg News reported — citing emails from Epstein's private Yahoo account — that Acosta's office had investigated Epstein for money laundering as part of its sex-crimes probe. The lead prosecutor, former Assistant U.S. Attorney Marie Villafaña, had prepared an 82-page prosecution memo in May 2007 recommending that Epstein be charged with financial crimes including money laundering, and the office examined allegations that he ran an unlicensed money-transmitting business. The financial inquiry ran roughly 18 months and, according to the reporting, turned up at least tens of millions of dollars in questionable transactions; the cadence of records requests increased in August 2007, and Villafaña contacted Epstein's money-management client [Leslie Wexner](/people/leslie-wexner) about the inquiry.
+
+Yet Acosta had told the committee in September that he did not recall any discussion of "potential financial crimes." Chairman [James Comer](/people/james-comer) asked Acosta whether he wished to clarify his testimony, and the panel's ranking Democrat, [Robert Garcia](/people/robert-garcia), said it was "now clear that former U.S. Attorney Alex Acosta may have misled Congress."
+
+The scrutiny intensified in the spring. On May 12, 2026, Oversight Democrats released an interim report, "The Price of Non-Prosecution," arguing that the leniency of the 2008 deal had let Epstein build an international trafficking operation "from Palm Beach to Paris." It was released alongside a survivor field hearing in West Palm Beach that Democrats called the start of a "new phase" of the inquiry.
+
 ## What Is and Is Not Established
 
 Acosta was not accused of criminal conduct. He was not alleged to have been aware of or involved in Epstein's crimes. His role was prosecutorial: he was the U.S. Attorney who had the authority and the evidence to pursue a federal case against Epstein and chose not to.
@@ -128,3 +140,4 @@ Primary-source records that name or reference Alexander Acosta. Acosta was never
 
 - **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — The 2007–2008 non-prosecution agreement Acosta authorized as U.S. Attorney for the Southern District of Florida is among the exhibits unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). The signed agreement, filed as Document 1330-6, opens "on the authority of R. Alexander Acosta, United States Attorney for the Southern District of Florida" and bears his signature block.
 - **[DOJ Office of Professional Responsibility report on the 2006–2008 investigation and non-prosecution agreement (Nov. 2020)](https://www.justice.gov/opr/page/file/1336471/dl)** — Acosta is the central subject of this DOJ review of the federal handling of the Epstein case. It concluded he exercised "poor judgment" in resolving the matter through the non-prosecution agreement but committed no professional misconduct, and reported finding no evidence that Epstein was an intelligence asset.
+- **[Oversight Democrats, "The Price of Non-Prosecution" (interim staff report, May 12, 2026)](https://oversightdemocrats.house.gov/imo/media/doc/the_price_of_non-prosecution.pdf)** — A House Oversight Committee minority report arguing that the leniency of the non-prosecution agreement Acosta authorized allowed Epstein to continue and expand his trafficking operation internationally after 2008. Released with a survivor field hearing in West Palm Beach.
