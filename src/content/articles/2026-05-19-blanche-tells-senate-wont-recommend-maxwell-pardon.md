@@ -12,6 +12,7 @@ people:
   - ghislaine-maxwell
   - todd-blanche
   - donald-trump
+  - pam-bondi
 relatedArticles:
   - 2026-04-22-house-republicans-divided-over-pardoning-ghislaine-maxwell-for-testimony
   - 2026-04-02-todd-blanche-named-acting-attorney-general-after-bondi-firing

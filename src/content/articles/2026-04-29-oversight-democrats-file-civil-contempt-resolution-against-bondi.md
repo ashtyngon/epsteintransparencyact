@@ -15,6 +15,7 @@ people:
   - james-comer
   - donald-trump
   - todd-blanche
+  - nancy-mace
 relatedArticles:
   - 2026-04-15-pam-bondi-faces-contempt-threat-after-skipping-epstein-deposition
   - 2026-04-22-rep-garcia-formally-pursues-bondi-contempt-charges

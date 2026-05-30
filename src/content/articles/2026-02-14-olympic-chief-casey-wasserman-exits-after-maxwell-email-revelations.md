@@ -16,6 +16,7 @@ people:
   - thomas-massie
   - peter-mandelson
   - brad-karp
+  - todd-blanche
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed

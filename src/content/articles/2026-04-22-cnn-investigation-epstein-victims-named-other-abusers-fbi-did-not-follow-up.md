@@ -12,7 +12,9 @@ people:
   - jes-staley
   - leon-black
   - kash-patel
-relatedArticles: []
+  - thomas-massie
+relatedArticles:
+  []
 tags:
   - investigation
   - victims

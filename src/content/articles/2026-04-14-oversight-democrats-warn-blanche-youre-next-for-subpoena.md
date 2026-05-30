@@ -12,6 +12,7 @@ people:
   - ghislaine-maxwell
   - robert-garcia
   - james-comer
+  - todd-blanche
 relatedArticles:
   []
 tags:

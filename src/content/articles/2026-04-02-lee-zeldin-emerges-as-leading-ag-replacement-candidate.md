@@ -11,6 +11,7 @@ people:
   - pam-bondi
   - jeffrey-epstein
   - ghislaine-maxwell
+  - todd-blanche
 relatedArticles:
   []
 tags:

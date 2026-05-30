@@ -11,6 +11,7 @@ people:
   - pam-bondi
   - donald-trump
   - nancy-mace
+  - todd-blanche
 relatedArticles:
   []
 tags:

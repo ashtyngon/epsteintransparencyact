@@ -8,6 +8,7 @@ imageCaption: "Jeffrey Epstein"
 summary: "Deputy Attorney General Todd Blanche said on Fox News's 'The Ingraham Angle' that 'it's not a crime to party with Mr. Epstein,' drawing sharp criticism from Democratic lawmakers and some conservative commentators."
 people:
   - jeffrey-epstein
+  - todd-blanche
 relatedArticles:
   []
 tags:

@@ -17,6 +17,7 @@ people:
   - virginia-giuffre
   - keir-starmer
   - james-comer
+  - todd-blanche
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties

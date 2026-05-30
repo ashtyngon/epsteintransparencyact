@@ -9,7 +9,9 @@ summary: "Todd Blanche's prior prison meeting with Ghislaine Maxwell and his sta
 people:
   - ghislaine-maxwell
   - jeffrey-epstein
-relatedArticles: []
+  - todd-blanche
+relatedArticles:
+  []
 tags:
   - political
   - investigation

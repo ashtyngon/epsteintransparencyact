@@ -12,6 +12,7 @@ people:
   - nancy-mace
   - donald-trump
   - james-comer
+  - todd-blanche
 relatedArticles:
   []
 tags:

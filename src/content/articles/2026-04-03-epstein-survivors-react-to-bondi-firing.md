@@ -10,6 +10,7 @@ people:
   - pam-bondi
   - jeffrey-epstein
   - gloria-allred
+  - todd-blanche
 relatedArticles:
   []
 tags:

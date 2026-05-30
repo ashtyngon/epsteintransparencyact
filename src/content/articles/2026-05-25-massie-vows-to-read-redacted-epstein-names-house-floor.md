@@ -15,6 +15,7 @@ people:
   - leon-black
   - jes-staley
   - leslie-wexner
+  - donald-trump
 relatedArticles:
   - 2026-05-12-epstein-survivors-testify-palm-beach-field-hearing
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act

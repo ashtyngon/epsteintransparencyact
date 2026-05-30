@@ -10,6 +10,7 @@ summary: "The FBI initiates its review process for Epstein-related records as ma
 people:
   - jeffrey-epstein
   - alexander-acosta
+  - courtney-wild
 tags:
   - transparency-act
   - fbi

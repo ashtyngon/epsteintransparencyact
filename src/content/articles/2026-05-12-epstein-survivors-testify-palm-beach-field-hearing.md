@@ -15,6 +15,7 @@ people:
   - virginia-giuffre
   - maria-farmer
   - courtney-wild
+  - james-comer
 relatedArticles:
   - 2026-05-12-oversight-democrats-report-acosta-deal-let-epstein-expand-trafficking
   - 2026-04-10-comer-commits-to-epstein-victim-hearings-after-melania-call

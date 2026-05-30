@@ -17,6 +17,7 @@ people:
   - thomas-massie
   - bill-clinton
   - ken-starr
+  - todd-blanche
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash

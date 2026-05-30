@@ -13,6 +13,8 @@ people:
   - alexander-acosta
   - robert-garcia
   - jean-luc-brunel
+  - courtney-wild
+  - donald-trump
 relatedArticles:
   - 2026-05-12-epstein-survivors-testify-palm-beach-field-hearing
   - 2026-04-22-cnn-investigation-epstein-victims-named-other-abusers-fbi-did-not-follow-up

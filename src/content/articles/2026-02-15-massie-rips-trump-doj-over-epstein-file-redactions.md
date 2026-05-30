@@ -17,6 +17,7 @@ people:
   - ro-khanna
   - leslie-wexner
   - ghislaine-maxwell
+  - todd-blanche
 relatedArticles:
   - 2026-02-14-massie-declares-not-suicidal-as-epstein-files-pressure-mounts
   - 2026-02-14-greene-blasts-trump-s-epstein-file-handling-as-political-miscalculation

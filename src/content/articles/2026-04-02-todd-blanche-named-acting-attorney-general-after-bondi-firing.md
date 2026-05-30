@@ -10,7 +10,9 @@ people:
   - pam-bondi
   - donald-trump
   - jeffrey-epstein
-relatedArticles: []
+  - todd-blanche
+relatedArticles:
+  []
 tags:
   - political
   - breaking
