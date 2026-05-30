@@ -4,7 +4,7 @@ publishedAt: "2026-03-01T11:00:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5759749-trump-precedent-congressional-subpoena/"
 summary: "House Republicans secured closed-door testimony from former President Bill Clinton and former Secretary of State Hillary Clinton before the House Oversight and"
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/Clinton_Beitsch-Lillis_Getty_Adam-Gray.jpg?w=900"
+image: "/images/articles/2026-03-01-democrats-warn-gop-clinton-epstein-subpoenas-could-backfire-politically.jpg"
 people:
   - bill-clinton
   - hillary-clinton

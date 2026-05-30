@@ -3,7 +3,7 @@ title: "Trump Refiles $10 Billion Lawsuit Against Wall Street Journal Over Epste
 publishedAt: "2026-05-28T21:00:00.000Z"
 source: "CNN"
 sourceUrl: "https://www.cnn.com/2026/05/28/politics/trump-refiles-lawsuit-wall-street-journal-epstein"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg"
+image: "/images/articles/2026-05-28-trump-refiles-10-billion-lawsuit-wsj-epstein-letter.jpg"
 imageCaption: "President Donald Trump, who refiled a $10 billion defamation suit against the Wall Street Journal's publisher on May 28, 2026."
 imageCredit: "Official White House portrait via Wikimedia Commons"
 summary: "After a judge threw out his original case, President Trump refiled a $10 billion defamation lawsuit against Dow Jones, Rupert Murdoch, and two reporters over the Journal's report on a lewd 2003 birthday letter bearing Trump's name in Epstein's album."

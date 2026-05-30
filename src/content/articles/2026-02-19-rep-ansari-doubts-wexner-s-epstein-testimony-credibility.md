@@ -4,7 +4,7 @@ publishedAt: "2026-02-19T15:28:44.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5744986-yassamin-ansari-les-wexner-jeffrey-epstein-files/"
 summary: "A member of the House Oversight and Government Reform Committee said she found it difficult to believe testimony given by billionaire Les Wexner about his relat"
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26049663384740-e1771514348485.jpg?w=900"
+image: "/images/articles/2026-02-19-rep-ansari-doubts-wexner-s-epstein-testimony-credibility.jpg"
 people:
   - leslie-wexner
   - jeffrey-epstein

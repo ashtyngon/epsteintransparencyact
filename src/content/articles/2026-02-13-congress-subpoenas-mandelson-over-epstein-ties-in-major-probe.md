@@ -5,7 +5,7 @@ source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5737647-jeffrey-epstein-peter-mandelson-testimony/"
 articleType: news
 summary: "Peter Mandelson, former UK ambassador to the U.S., was summoned to testify before Congress about his Epstein connections, the first foreign envoy called to answer."
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26033470028233-e1770237677695.jpg?w=900"
+image: "/images/articles/2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe.jpg"
 people:
   - peter-mandelson
   - jeffrey-epstein

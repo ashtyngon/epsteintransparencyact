@@ -3,7 +3,7 @@ title: "Labour Routed in Local Elections as Mandelson-Epstein Scandal Weighs on 
 publishedAt: "2026-05-08T17:00:00.000Z"
 source: "NPR"
 sourceUrl: "https://www.opb.org/article/2026/05/10/keir-starmer-s-party-lost-big-in-u-k-local-elections-heres-what-comes-next/"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg/960px-Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg"
+image: "/images/articles/2026-05-08-labour-routed-in-local-elections-mandelson-epstein-scandal-weighs-on-starmer.jpg"
 imageCaption: "UK Prime Minister Keir Starmer, whose Labour Party suffered heavy losses in the May 2026 local elections."
 imageCredit: "Official portrait via Wikimedia Commons"
 summary: "Labour lost more than 1,100 council seats in elections widely read as a verdict on Keir Starmer, whose premiership has been battered by the fallout from appointing Epstein associate Peter Mandelson as ambassador to Washington. Some Labour MPs called on him to resign."

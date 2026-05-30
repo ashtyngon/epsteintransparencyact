@@ -5,7 +5,7 @@ updatedAt: ''
 source: The Hill
 sourceUrl: https://thehill.com/policy/technology/5745226-bill-gates-ai-summit-jeffrey-epstein/
 summary: Bill Gates withdrew from a scheduled keynote address at India's AI Impact Summit on Thursday, citing a need to keep focus on the event's priorities amid ongoing scrutiny of his past association with Jeffrey Epstein.
-image: https://upload.wikimedia.org/wikipedia/commons/e/e7/Bill_Gates_MSC_2017.jpg
+image: "/images/people/bill-gates.jpg"
 imageCaption: Bill Gates, Co-Chair, Bill & Melinda Gates Foundation, at the Munich Security Conference in 2017.
 imageCredit: MSC / Kuhlmann
 status: published

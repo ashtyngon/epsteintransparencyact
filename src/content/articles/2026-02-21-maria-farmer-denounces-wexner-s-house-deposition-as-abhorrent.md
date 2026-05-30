@@ -4,7 +4,7 @@ publishedAt: "2026-02-21T19:01:38.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5749222-maria-farmer-epstein-survivor-les-wexner-testimony/"
 summary: "Maria Farmer, an Epstein survivor, issued a statement Saturday calling billionaire Les Wexner's recent congressional testimony \"abhorrent\" after the retail"
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26048785881271-e1771700295368.jpg?w=900"
+image: "/images/articles/2026-02-21-maria-farmer-denounces-wexner-s-house-deposition-as-abhorrent.jpg"
 people:
   - maria-farmer
   - leslie-wexner

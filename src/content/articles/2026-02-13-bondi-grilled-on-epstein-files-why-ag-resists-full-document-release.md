@@ -5,7 +5,7 @@ source: "The Hill"
 articleType: news
 sourceUrl: "https://thehill.com/homenews/media/5737123-bondi-sparks-outrage-epstein/"
 summary: "AG Pam Bondi faced fierce bipartisan criticism during a five-hour House hearing on Epstein files, with Democrats accusing her of lying under oath about DOJ releases."
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/bondipam_021126gn23_w.jpg?w=900"
+image: "/images/articles/2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release.jpg"
 people:
   - pam-bondi
   - jeffrey-epstein

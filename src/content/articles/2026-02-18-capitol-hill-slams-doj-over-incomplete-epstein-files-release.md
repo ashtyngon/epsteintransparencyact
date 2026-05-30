@@ -4,7 +4,7 @@ publishedAt: "2026-02-18T22:57:41.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5744386-doj-epstein-files-transparency-act/"
 summary: "The Justice Department released what it says is its final disclosure under the Epstein Transparency Act, but lawmakers say the list of names falls far short of the law's mandate for comprehensive records review."
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/khannaro_massiethomas_020926gn03_w.jpg?w=900"
+image: "/images/articles/2026-02-18-capitol-hill-slams-doj-over-incomplete-epstein-files-release.jpg"
 people:
   - jeffrey-epstein
   - leslie-wexner

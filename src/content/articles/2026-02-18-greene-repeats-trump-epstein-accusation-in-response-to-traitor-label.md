@@ -4,7 +4,7 @@ publishedAt: "2026-02-18T14:55:32.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/state-watch/5743252-marjorie-taylor-greene-trump-feud/"
 summary: "Former Rep. Marjorie Taylor Greene responded to President Donald Trump calling her a \"traitor\" by stating she is \"not in his cult\" and repeating her accusation "
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP25322629288278-e1767726563607.jpg?w=900"
+image: "/images/articles/2026-02-18-greene-repeats-trump-epstein-accusation-in-response-to-traitor-label.jpg"
 people:
   - marjorie-taylor-greene
   - donald-trump

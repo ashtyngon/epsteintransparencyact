@@ -4,7 +4,7 @@ publishedAt: "2026-02-19T15:13:30.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/policy/international/5745067-giuffre-family-justice-mountbatten/"
 summary: "The family of Virginia Giuffre released a statement Thursday following the arrest of Andrew Mountbatten-Windsor, the former Prince Andrew, saying their \"broken "
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26050372156316-e1771504887120.jpg?w=900"
+image: "/images/articles/2026-02-19-giuffre-family-broken-hearts-lifted-by-andrew-s-arrest.jpg"
 people:
   - virginia-giuffre
   - prince-andrew

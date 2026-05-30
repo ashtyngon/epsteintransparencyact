@@ -4,7 +4,7 @@ publishedAt: "2026-02-15T11:00:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/senate/5738208-republican-senators-lutnick-epstein/"
 summary: "Republican senators privately worry Commerce Secretary Howard Lutnick's documented Epstein contacts could damage the party ahead of the 2026 midterms."
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/lutnickhoward_021026gn04_w.jpg?w=900"
+image: "/images/articles/2026-02-15-commerce-secretary-lutnick-s-epstein-ties-become-gop-liability.jpg"
 people:
   - howard-lutnick
   - jeffrey-epstein

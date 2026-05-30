@@ -4,7 +4,7 @@ publishedAt: "2026-02-18T15:30:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/opinion/criminal-justice/5740973-why-biden-didnt-release-the-epstein-files-but-maybe-should-have/"
 summary: "A former official writing in The Hill examined whether President Biden had authority to release files related to Jeffrey Epstein during his term and whether he "
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP26030548214041-e1769792497810.jpg?w=900"
+image: "/images/articles/2026-02-18-opinion-biden-s-authority-on-epstein-files-release.jpg"
 people:
   - jeffrey-epstein
   - ghislaine-maxwell

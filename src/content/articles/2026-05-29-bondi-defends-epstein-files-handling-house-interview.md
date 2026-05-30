@@ -3,7 +3,7 @@ title: "Bondi Defends Epstein Files Handling in Closed-Door House Interview, Con
 publishedAt: "2026-05-29T22:00:00.000Z"
 source: "Associated Press"
 sourceUrl: "https://www.pbs.org/newshour/politics/pam-bondi-will-face-a-closed-door-questioning-from-house-lawmakers-over-the-epstein-files"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pam_Bondi_official_portrait_%28cropped%29%282%29.jpg/960px-Pam_Bondi_official_portrait_%28cropped%29%282%29.jpg"
+image: "/images/articles/2026-05-29-bondi-defends-epstein-files-handling-house-interview.jpg"
 imageCaption: "Former Attorney General Pam Bondi sat for a transcribed House Oversight interview on May 29, 2026."
 imageCredit: "Official DOJ portrait via Wikimedia Commons"
 summary: "Former Attorney General Pam Bondi defended the Trump administration's release of the Epstein files in a transcribed House Oversight interview, acknowledging 'redaction errors' but declining to discuss President Trump's involvement and pointing to Todd Blanche as the official who oversaw the release."
@@ -45,7 +45,7 @@ Bondi sat for a transcribed interview rather than a sworn deposition — an arra
 
 In her opening remarks, Bondi told lawmakers that **Todd Blanche** — Trump's former personal attorney, who has served as acting attorney general since Bondi was fired — "had overseen the process to publish" the Epstein files.<sup>[2](#ref-2)</sup> The framing effectively placed the mechanics of the troubled release with her successor, even as she defended the administration's overall record.
 
-Bondi led the department when the releases drew the harshest criticism, including from Epstein survivors whose identities were exposed. Trump fired her on April 2 after growing frustrated with her handling of the files, and Blanche has run the department in an acting capacity since.
+Bondi led the department when the releases drew the harshest criticism, including from Epstein survivors whose identities were exposed. Trump fired her on April 2 after growing frustrated with her handling of the files, and Blanche has run the department in an acting capacity since.<sup>[4](#ref-4)</sup>
 
 ## Declining to Discuss Trump
 
@@ -59,7 +59,7 @@ Republican Chairman **James Comer** of Kentucky struck a more conciliatory note 
 
 Bondi's appearance was the product of a months-long standoff. The committee subpoenaed her over the Epstein files, and she did not appear for a scheduled deposition on April 14. Garcia and Oversight Democrats then moved to hold her in civil contempt of Congress — a resolution that would have directed the House to go to court to compel her testimony. Bondi ultimately agreed to the transcribed interview instead, a format that allowed her, with a Justice Department lawyer present, to decline certain questions.<sup>[1](#ref-1)</sup>
 
-The session unfolded against the backdrop of a separate Justice Department inspector general investigation, opened in April, into whether the department complied with the Epstein Files Transparency Act, and amid continued bipartisan complaints that heavy redactions have shielded politically connected figures named in the files.
+The session unfolded against the backdrop of a separate Justice Department inspector general investigation, opened in April, into whether the department complied with the Epstein Files Transparency Act, and amid continued bipartisan complaints that heavy redactions have shielded politically connected figures named in the files.<sup>[5](#ref-5)</sup>
 
 ## What Is Established
 
@@ -72,3 +72,7 @@ Bondi has now given Congress an on-the-record defense of the administration's ha
 2. <span id="ref-2"></span>[KOLD / Associated Press — "Bondi refuses to answer lawmakers' questions about Trump's involvement in Epstein files release"](https://www.kold.com/2026/05/29/bondi-defends-trump-administrations-release-epstein-case-files-she-testifies-before-lawmakers/)
 
 3. <span id="ref-3"></span>[OPB / Associated Press — "Bondi defends Trump administration's release of Epstein case files as she testifies before lawmakers"](https://www.opb.org/article/2026/05/29/bondi-defends-trump-administration-s-release-of-epstein-case-files-as-she-testifies-before-lawmakers/)
+
+4. <span id="ref-4"></span>[Newsweek — "Read Pam Bondi's House Testimony Statement That Defends Jeffrey Epstein Files Dump"](https://www.newsweek.com/pam-bondi-testimony-hearing-jeffrey-epstein-files-trump-12010127)
+
+5. <span id="ref-5"></span>[JURIST — "US Justice Department inspector announces audit of Epstein files"](https://www.jurist.org/news/2026/04/us-justice-department-inspector-announces-audit-of-epstein-files/)

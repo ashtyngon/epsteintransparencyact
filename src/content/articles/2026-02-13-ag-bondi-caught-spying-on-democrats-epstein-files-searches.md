@@ -4,7 +4,7 @@ publishedAt: "2026-02-13T21:59:55.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5738162-epstein-files-doj-bondi-house-democrats/"
 summary: "AG Bondi was caught reviewing documents tracking which lawmakers searched specific names in unredacted Epstein files during a five-hour House hearing."
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/bondipam_021126gn32_w.jpg?w=900"
+image: "/images/articles/2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches.jpg"
 people:
   - pam-bondi
   - ghislaine-maxwell

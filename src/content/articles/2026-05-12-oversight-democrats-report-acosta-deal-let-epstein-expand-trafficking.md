@@ -3,7 +3,7 @@ title: "Oversight Democrats' Report: Acosta's 2008 Plea Deal Let Epstein Build a
 publishedAt: "2026-05-12T22:30:00.000Z"
 source: "MS NOW"
 sourceUrl: "https://www.ms.now/news/epstein-hearing-house-democrats-survivors-acosta"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alexander_Acosta_official_portrait.jpg/960px-Alexander_Acosta_official_portrait.jpg"
+image: "/images/articles/2026-05-12-oversight-democrats-report-acosta-deal-let-epstein-expand-trafficking.jpg"
 imageCaption: "Alex Acosta negotiated Epstein's 2008 non-prosecution agreement as U.S. Attorney for the Southern District of Florida."
 imageCredit: "Official portrait via Wikimedia Commons"
 summary: "An interim staff report from House Oversight Democrats argues that the lenient 2008 non-prosecution agreement negotiated by U.S. Attorney Alex Acosta did not just spare Epstein — it allowed him to expand his abuse into an international operation."

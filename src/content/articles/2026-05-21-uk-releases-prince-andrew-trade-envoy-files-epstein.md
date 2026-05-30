@@ -3,7 +3,7 @@ title: "UK Releases Confidential Prince Andrew Files Showing Trade Briefings For
 publishedAt: "2026-05-21T18:00:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/news/epstein-files-former-prince-andrew-arrested/"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg"
+image: "/images/articles/2026-05-21-uk-releases-prince-andrew-trade-envoy-files-epstein.jpg"
 imageCaption: "Andrew Mountbatten-Windsor, the former Duke of York, served as a UK trade envoy from 2001 to 2011."
 imageCredit: "Photo via Wikimedia Commons"
 summary: "Confidential UK government files released on May 21 show that as trade envoy, Andrew forwarded official 'visit reports' and a 'confidential brief' to Jeffrey Epstein. A minister told Parliament there was no record that Andrew was ever vetted for the role."

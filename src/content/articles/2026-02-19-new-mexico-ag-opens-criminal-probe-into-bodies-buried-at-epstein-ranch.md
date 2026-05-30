@@ -4,7 +4,7 @@ publishedAt: "2026-02-19T22:33:33.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/state-watch/5746366-zorro-ranch-illegal-activity/"
 summary: "New Mexico Attorney General Raúl Torrez ordered an investigation into alleged illegal activity at Epstein's former ranch, including reports of two buried bodies."
-image: "https://thehill.com/wp-content/uploads/sites/2/2023/08/zorro-ranch-sky-news.jpg?w=900"
+image: "/images/articles/2026-02-19-new-mexico-ag-opens-criminal-probe-into-bodies-buried-at-epstein-ranch.jpg"
 people:
   - jeffrey-epstein
   - raul-torrez

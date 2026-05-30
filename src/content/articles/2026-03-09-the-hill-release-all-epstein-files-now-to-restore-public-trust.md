@@ -4,7 +4,7 @@ publishedAt: "2026-03-09T13:00:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/opinion/white-house/5774228-epstein-files-transparency-act-doj/"
 summary: "A former federal prosecutor has accused the U.S. Department of Justice of damaging public trust by withholding millions of documents related to Jeffrey"
-image: "https://thehill.com/wp-content/uploads/sites/2/2025/12/epstein_victims_rally_090325gn03_w.jpg?w=900"
+image: "/images/articles/2026-03-09-the-hill-release-all-epstein-files-now-to-restore-public-trust.jpg"
 people:
   - jeffrey-epstein
   - pam-bondi

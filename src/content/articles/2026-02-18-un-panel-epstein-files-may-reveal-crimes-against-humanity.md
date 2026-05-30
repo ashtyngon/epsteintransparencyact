@@ -4,7 +4,7 @@ publishedAt: "2026-02-18T16:04:10.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/policy/international/5743461-epstein-files-allegations-crimes-against-humanity-un/"
 summary: "A panel of United Nations experts said allegations detailed in documents released by the Justice Department from its investigation of Jeffrey Epstein could cons"
-image: "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26032807622808.jpg?w=900"
+image: "/images/articles/2026-02-18-un-panel-epstein-files-may-reveal-crimes-against-humanity.jpg"
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
