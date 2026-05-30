@@ -35,6 +35,12 @@ The amended complaint names **Dow Jones**, parent company **News Corp**, Chairma
 
 The Wall Street Journal reported in the summer of 2025 that a letter carrying Trump's name had been included in a leather-bound album of messages collected for Epstein's 50th birthday in 2003. According to the newspaper, the letter contained typewritten text framed by the outline of a naked woman that appeared to be drawn with a heavy marker.<sup>[2](#ref-2)</sup>
 
+The document is no longer just a description. The House Oversight Committee released the page when it published Epstein's "birthday book" in September 2025, and a version is reproduced below.
+
+![The page attributed to Donald Trump in Jeffrey Epstein's 2003 "birthday book," released by the House Oversight Committee](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2003_birthday_letter_to_Epstein_%28text_censored%29.png/960px-2003_birthday_letter_to_Epstein_%28text_censored%29.png)
+
+*The page bearing a signature reading "Donald," from the album compiled for Epstein's 50th birthday in 2003, as released by the House Oversight Committee in September 2025. The typewritten text is redacted in this version. Trump denies writing it and disputes the document's authenticity. — U.S. House Oversight Committee, via Wikimedia Commons*
+
 Trump has consistently denied any involvement, and his lawsuit asserts that the letter is not authentic. His legal team has argued that the reporters "falsely pass off as fact that President Trump, in 2003, wrote, drew, and signed this letter" and that "no authentic letter or drawing exists." The complaint accuses the paper of "glaring failures in journalistic ethics and standards of accurate reporting."<sup>[1](#ref-1)</sup><sup>[2](#ref-2)</sup>
 
 ## A Second Attempt After Dismissal
@@ -46,6 +52,13 @@ Dow Jones has stood by the reporting. "We have full confidence in the rigor and 
 ## What Is and Is Not Established
 
 The authenticity of the 2003 letter is disputed and unresolved. The Wall Street Journal stands by its account; Trump denies writing or drawing the letter and says no genuine document exists. No court has ruled on whether the letter is authentic — the April dismissal turned on the "actual malice" pleading standard, not on the truth of the underlying report. The refiled suit now puts that dispute back before a federal judge, who will again weigh whether Trump's amended complaint clears the high bar for a public-figure defamation case.
+
+## Documents
+
+See the letter for yourself, in the primary-source record.
+
+- **[Epstein's "birthday book" — House Oversight Committee release (Sept. 8, 2025)](https://oversight.house.gov/release/oversight-committee-releases-records-provided-by-the-epstein-estate-chairman-comer-provides-statement/)** — The 200-plus-page album compiled for Epstein's 50th birthday in 2003, turned over by his estate under subpoena. The page bearing Trump's name appears in its "Friends" section. Trump denies writing it.
+- **[Epstein Birthday Book — full scan (Internet Archive)](https://archive.org/details/epstein-birthday-book)** — A complete copy of the released book, including the page at the center of this lawsuit.
 
 ## References
 
