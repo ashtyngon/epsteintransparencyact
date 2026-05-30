@@ -1,13 +1,13 @@
 ---
 name: "Leslie Wexner"
 seoTitle: "Les Wexner & Epstein — Victoria's Secret, Mansion Transfer"
-seoDescription: "Les Wexner gave Epstein sweeping power of attorney. A $77M NYC mansion transferred with no sale price on record. Subpoenaed by Congress in 2026 after being labeled a 'co-conspirator.'"
+seoDescription: "Les Wexner gave Epstein sweeping power of attorney. His Manhattan mansion went to Epstein, who paid roughly $20M via a structured deal. Deposed by Congress in 2026 after DOJ files labeled him a 'co-conspirator.'"
 aliases:
   - "Les Wexner"
   - "Leslie H. Wexner"
 role: "Billionaire retail magnate, founder of L Brands"
 category: "named-in-documents"
-shortBio: "Founder of L Brands (Victoria's Secret, Bath & Body Works) and Epstein's only confirmed financial client. Gave Epstein sweeping power of attorney over his finances. Public records show a $77M Manhattan mansion — NYC's largest private residence — transferred with no sale price recorded; Wexner testified Epstein paid appraised value. That property became a primary site of abuse. In 2019, claimed Epstein 'misappropriated vast sums.' Subpoenaed by Congress in February 2026 after a congressman labeled him a 'co-conspirator' based on DOJ files."
+shortBio: "Founder of L Brands (Victoria's Secret, Bath & Body Works) and Epstein's only publicly confirmed money-management client. Gave Epstein sweeping power of attorney over his finances. His Manhattan mansion — once described as possibly the largest private residence in Manhattan — passed to Epstein in 1998; Wexner says Epstein bought it for the appraised value, and bank records reported in 2026 show roughly $20M paid via an initial payment plus a $10M promissory note. That property became a primary site of abuse. In 2019, Wexner said Epstein 'misappropriated vast sums' (he has put at least $46M of it on the record). Deposed by the House Oversight Committee in February 2026 after the DOJ named him a 'co-conspirator' in released Epstein files."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -29,17 +29,31 @@ sources:
     url: "https://www.cnn.com/2026/02/13/politics/congress-subpoena-wexner-epstein"
   - title: "Victoria's Secret and the Epstein Connection — New Yorker"
     url: "https://www.newyorker.com/news/news-desk/les-wexner-jeffrey-epstein-victorias-secret"
+  - title: "Leslie Wexner — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Leslie_Wexner"
+  - title: "9 East 71st Street (Herbert N. Straus House) — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/9_East_71st_Street"
+  - title: "Estate of Jeffrey Epstein — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Estate_of_Jeffrey_Epstein"
+  - title: "Jeffrey Epstein may have taken $46 million from Victoria's Secret billionaire Les Wexner — CBS News"
+    url: "https://www.cbsnews.com/news/jeffrey-epstein-may-have-taken-46-million-from-victorias-secret-billionaire-les-wexner/"
+  - title: "Les Wexner downplays Epstein ties in Oversight deposition — Axios"
+    url: "https://www.axios.com/2026/02/18/les-wexner-epstein-oversight-deposition"
+  - title: "Les Wexner: How the billionaire enabled Jeffrey Epstein's rise — Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/2/19/les-wexner-how-the-billionaire-enabled-jeffrey-epsteins-rise"
+  - title: "Billionaire businessman Leslie Wexner refuses to reveal full scope of Epstein's alleged theft — ABC News"
+    url: "https://abcnews.com/US/billionaire-businessman-leslie-wexner-refuses-reveal-full-scope/story?id=68461262"
 ---
 
-Leslie H. Wexner is the founder and former CEO of L Brands, the parent company of Victoria's Secret, Bath & Body Works, and other retail brands. He is one of the wealthiest people in Ohio and built a retail empire that at its peak was valued at tens of billions of dollars. He is also [Jeffrey Epstein](/people/jeffrey-epstein)'s only confirmed financial management client — and the person whose wealth, access, and trust provided the financial foundation on which Epstein built his operation.
+Leslie H. Wexner is the founder and former CEO of L Brands, the parent company of Victoria's Secret, Bath & Body Works, and other retail brands. He is one of the wealthiest people in Ohio and built a retail empire that at its peak was valued at tens of billions of dollars. He is also [Jeffrey Epstein](/people/jeffrey-epstein)'s only publicly confirmed money-management client — and the person whose wealth, access, and trust provided the financial foundation on which Epstein built his operation.
 
-The relationship between Wexner and Epstein is one of the least explained and most consequential connections in the entire case. The degree of control Wexner ceded to Epstein — sweeping power of attorney, a $77 million Manhattan mansion transferred with no sale price on record, access to the Victoria's Secret brand — has no parallel in the documented relationships between Epstein and other wealthy individuals.
+The relationship between Wexner and Epstein is one of the least explained and most consequential connections in the entire case. The degree of control Wexner ceded to Epstein — sweeping power of attorney, his Manhattan mansion, access to the Victoria's Secret brand — has no clear parallel in the documented relationships between Epstein and other wealthy individuals.
 
 ## How They Connected
 
-Wexner and Epstein became close in the late 1980s. The exact circumstances of their introduction are disputed. One account places it through Robert Meister, an insurance executive. Another, described by author James Patterson in "Filthy Rich," suggests they were connected through social circles in New York and Columbus, Ohio.
+Wexner and Epstein became close in the late 1980s. Wexner has said his friend Robert Meister, an insurance executive, recommended he meet Epstein for financial advice around 1987.
 
-By 1991, the relationship was firmly established. Epstein was managing Wexner's finances and had been granted power of attorney over Wexner's affairs — an extraordinary grant of authority that gave Epstein the legal power to sign documents, conduct transactions, and make financial decisions on Wexner's behalf.
+By July 1991, the relationship was firmly established. Epstein was managing Wexner's finances and had been granted power of attorney over Wexner's affairs — an extraordinary grant of authority that gave Epstein the legal power to sign documents, conduct transactions, and make financial decisions on Wexner's behalf. That same year, Wexner also made Epstein a trustee of the Wexner Foundation.
 
 Wexner's associates and L Brands executives have described Epstein's role in terms that ranged from financial advisor to something closer to a shadow manager of Wexner's personal affairs. Epstein attended L Brands board-adjacent functions, had access to Wexner's Columbus estate, and traveled on Wexner's behalf.
 
@@ -53,15 +67,13 @@ The power of attorney meant that Epstein had, for a period of years, largely unc
 
 ## The Manhattan Mansion Transfer
 
-In 1989, Wexner purchased the townhouse at 9 East 71st Street on Manhattan's Upper East Side for approximately $13.2 million. He spent millions more renovating the property into what became the largest single-family residence in New York City — a seven-story, approximately 21,000-square-foot mansion with more than 40 rooms.
+In 1989, Wexner purchased the townhouse at 9 East 71st Street (the Herbert N. Straus House) on Manhattan's Upper East Side for $13.2 million. The roughly 21,000-square-foot mansion, with about 40 rooms, was described by author Vicky Ward as possibly the largest private residence in Manhattan; it was later enlarged. Epstein moved into the house in the mid-1990s and made it his New York base.
 
-In 1998, the property was transferred from a Wexner-linked entity to Epstein for $0. The mechanism was a transfer through the Wexner Family Limited Partnership, with no sale price recorded. The property's market value at the time of transfer was estimated at $77 million.
+The ownership change was structured as a transaction between entities rather than a conventional recorded home sale, which is why public deed records (ACRIS tracks real-estate deeds, not changes in control of a corporation) do not show a Wexner-to-Epstein conveyance price for the 1990s. Bank documents reported in 2026 by NBC4 Investigates and others, and Justice Department records, indicate Epstein acquired the property through a corporation in November 1998 for $20 million — an initial payment of about $10 million followed by the balance paid in installments through March 2000, backed by a $10 million promissory note and a personal guaranty Epstein signed. (A separate 2011 transfer, between entities tied to Epstein, was recorded at zero consideration.)
 
-The townhouse became a primary location for Epstein's abuse. Multiple victims described being assaulted at the property. When the FBI raided the mansion in July 2019, agents recovered a safe containing CDs labeled with names and dates — suggesting possible blackmail material — along with diamonds, cash, and a fake passport.
+The townhouse became a primary location for Epstein's abuse. Victims have described being assaulted at the property. When the FBI raided the mansion in July 2019, agents sawed open a safe and recovered diamonds, more than $70,000 in cash, hard drives, binders of labeled CDs, and an expired Austrian passport bearing Epstein's photograph under a different name.
 
-In his February 2026 congressional testimony, Wexner disputed this characterization, stating: "Contrary to rumor, I did not give Epstein the New York townhouse; he purchased it from me for what I was told was the appraised value." Public property records, however, show no sale price recorded for the 1998 transfer.
-
-Wexner has not explained why the property transfer records show $0 in consideration, or why he did not raise public concerns when the property became associated with criminal conduct.
+In his February 2026 congressional deposition, Wexner addressed the property directly, stating: "Contrary to rumor, I did not give Epstein the New York townhouse; he purchased it from me for what I was told was the appraised value." He also said most of the alleged crimes at the house occurred after his 1998 sale to Epstein.
 
 ## The Victoria's Secret Connection
 
@@ -75,11 +87,11 @@ Wexner has said he was unaware of Epstein using the Victoria's Secret name in th
 
 ## Wexner's 2019 Letter
 
-On August 7, 2019 — three days before Epstein's death — Wexner sent a letter to the Wexner Foundation community. In the letter, he stated that Epstein had "misappropriated vast sums of money from me and my family." Wexner said he had discovered the misappropriation and severed ties with Epstein "in 2007" — a year after the Palm Beach police investigation became public and approximately a year before Epstein's plea deal.
+In August 2019, days before Epstein's death, Wexner sent a letter to the Wexner Foundation community. In it, he said Epstein had "misappropriated vast sums of money from me and my family." Wexner said he discovered the missing money and cut ties with Epstein in 2007, amid the first federal investigation into Epstein, and that he had no knowledge of Epstein's sexual crimes before that point.
 
-The letter did not specify the amounts misappropriated, the nature of the misappropriation, or whether Wexner had reported it to law enforcement. Wexner said he was "NEVER aware of the illegal activity charged in the indictment" and expressed "disgust" at the allegations.
+The letter itself did not put a number on the loss, but Wexner has elsewhere put at least $46 million of misappropriated funds on the record — describing a $46 million payment Epstein made in early 2008 to a charitable trust tied to Wexner's wife as only "a portion" of what was recovered. Wexner has not detailed the full amount, the mechanics of the misappropriation, or whether he reported it to law enforcement.
 
-The 2007 date for the severance of ties has drawn scrutiny. If Wexner ended the relationship in 2007, it means the friendship and financial arrangement continued for approximately 15 to 18 years — spanning a period during which Epstein was operating his trafficking network.
+The 2007 date for the severance of ties has drawn scrutiny. If Wexner ended the relationship in 2007, it means the friendship and financial arrangement ran for roughly 15 to 18 years — spanning a period during which Epstein was operating his trafficking network.
 
 ## Financial Questions
 
@@ -89,20 +101,20 @@ Multiple financial analyses — by Bloomberg, the New York Times, and others —
 
 The question of whether Epstein's wealth came entirely from Wexner — through authorized compensation, unauthorized misappropriation, or some combination — has not been resolved. No independent audit of the Epstein-Wexner financial relationship has been conducted or made public.
 
-Epstein's estate, upon his death, was valued at approximately $634 million. Wexner's claimed misappropriation, if accurate, would account for a substantial portion of that figure — but the specific amounts, timing, and mechanisms remain undisclosed.
+Epstein's estate, upon his death, was valued at over $577 million by one analysis, though the true scale of his wealth has itself been questioned. Wexner's account of the misappropriation — at least $46 million by his own telling, possibly more — would represent a meaningful slice of that, but the full amounts, timing, and mechanisms remain undisclosed.
 
-## The February 2026 Congressional Subpoena
+## The 2026 Congressional Subpoena and Deposition
 
-In February 2026, following the release of documents under the Epstein Transparency Act, a congressman reviewing files at the Department of Justice publicly labeled Wexner a "co-conspirator" in Epstein's trafficking operation. The characterization was based on documents the congressman viewed at the DOJ.
+In newly unredacted Justice Department documents from 2019, Wexner was named as a "co-conspirator" in materials related to Epstein's trafficking operation. He has never been charged, and reporting on the underlying FBI emails has noted only "limited evidence" tying him to Epstein's crimes.
 
-Congress subsequently issued a subpoena seeking Wexner's testimony about the extent of his knowledge of Epstein's criminal activities, the financial relationship between the two men, and the circumstances surrounding the mansion transfer and power of attorney.
+In January 2026, the House Committee on Oversight and Government Reform subpoenaed Wexner. Rep. Robert Garcia, the panel's ranking Democrat, said the subpoenas were meant to "hear directly from the individuals most closely involved in Epstein's inner circle." On February 18, 2026, members of the committee deposed Wexner at his home in New Albany, Ohio, after he had originally been ordered to Washington.
 
-As of February 2026, Wexner has not publicly responded to the subpoena or the co-conspirator characterization. His legal representatives have not issued a public statement on the congressional action.
+In that deposition, Wexner disputed that he had given Epstein the Manhattan townhouse, said he revoked Epstein's power of attorney in 2007, and characterized himself as having been deceived — saying he was "naïve, foolish, and gullible to put any trust in Jeffrey Epstein" and calling Epstein "a con man." Democrats on the committee criticized his answers as evasive.
 
 ## What Is and Is Not Established
 
 Wexner has never been charged with any crime. He has denied knowledge of Epstein's criminal activities. He characterized himself as a victim of Epstein's financial misappropriation.
 
-What is established is that Wexner gave Epstein extraordinary control over his finances — more control than any other known relationship in Epstein's network. Public records show a $77 million property transferred with no sale price recorded — though Wexner testified he was told Epstein paid appraised value. That property became a site of systematic abuse. The Victoria's Secret brand he built was used as a recruiting tool for trafficking victims. The financial relationship lasted at least 15 years, spanning the period when Epstein was operating his trafficking network.
+What is established is that Wexner gave Epstein extraordinary control over his finances — more control than in any other publicly known relationship in Epstein's network. His Manhattan mansion passed to Epstein in 1998 through a structured, entity-level transaction; Wexner says Epstein paid the appraised value, and bank and DOJ records reported in 2026 indicate Epstein paid roughly $20 million through an initial payment and a promissory note. That property became a site of systematic abuse. The Victoria's Secret brand he built was used as a recruiting tool for trafficking victims. The financial relationship lasted on the order of 15 years, spanning the period when Epstein was operating his trafficking network.
 
 Wexner has claimed he was unaware of the abuse, unaware of the misuse of his brand, and a victim of financial misappropriation. Congress has subpoenaed him to explain how all of that was possible. The question is not whether Wexner was formally involved in the trafficking — there is no evidence of that. The question is how a billionaire who granted another person total control over his finances, his property, and his most valuable brand failed to detect or prevent the abuse that was conducted using those assets.

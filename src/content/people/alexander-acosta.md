@@ -1,13 +1,13 @@
 ---
 name: "Alexander Acosta"
-seoTitle: "Acosta Epstein Plea Deal — How Trump's Labor Secretary Protected Him"
-seoDescription: "U.S. Attorney who gave Epstein 13 months in jail with work release and immunity for co-conspirators. Told Trump team Epstein 'belonged to intelligence.'"
+seoTitle: "Alexander Acosta and the Epstein Non-Prosecution Agreement"
+seoDescription: "As U.S. Attorney, Acosta's office negotiated the 2007-2008 agreement that let Epstein plead to state charges, serve 13 months with work release, and immunized co-conspirators. A 2020 DOJ review found 'poor judgment' but no misconduct."
 aliases:
   - "Alex Acosta"
   - "R. Alexander Acosta"
 role: "Former U.S. Attorney, Former Secretary of Labor"
 category: "official"
-shortBio: "As U.S. Attorney for the Southern District of Florida, Acosta negotiated the 2008 non-prosecution agreement that allowed Epstein to plead to minor state charges, serve 13 months with work release, and shield his co-conspirators from federal prosecution — a deal a federal judge later ruled violated victims' rights. Told Trump's transition team Epstein 'belonged to intelligence.' Served as Trump's Secretary of Labor until resigning in July 2019 after the Miami Herald's investigation brought renewed scrutiny."
+shortBio: "As U.S. Attorney for the Southern District of Florida, Acosta's office negotiated the 2007-2008 non-prosecution agreement that allowed Epstein to plead to state charges, serve 13 months with work release, and granted immunity from federal prosecution to four named co-conspirators and any unnamed potential co-conspirators — a deal a federal judge later ruled violated victims' rights. A 2020 DOJ review found Acosta exercised 'poor judgment' but committed no professional misconduct. Served as Trump's Secretary of Labor until resigning in July 2019 amid renewed scrutiny of the deal."
 notableConnections:
   - jeffrey-epstein
   - alan-dershowitz
@@ -29,9 +29,17 @@ sources:
     url: "https://www.miamiherald.com/news/local/article214210674.html"
   - title: "The Epstein Connections Fueling Conspiracy Theories — FactCheck.org"
     url: "https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/"
+  - title: "Alexander Acosta — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Alexander_Acosta"
+  - title: "Jeffrey Epstein — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Jeffrey_Epstein"
+  - title: "Key Takeaways From the DOJ Review of the Epstein Deal (OPR 'poor judgment') — ABC News"
+    url: "https://abcnews.com/US/key-takeaways-justice-department-review-jeffrey-epstein-sweetheart/story?id=74222922"
+  - title: "Trump Labor Secretary Alex Acosta Resigns Amid Epstein Controversy — ABC News"
+    url: "https://abcnews.com/Politics/trump-labor-secretary-acosta-resigns-amid-controversy-epstein/story?id=64291111"
 ---
 
-R. Alexander Acosta served as U.S. Attorney for the Southern District of Florida from 2005 to 2009. During that period, he oversaw the federal investigation into [Jeffrey Epstein](/people/jeffrey-epstein) and personally negotiated the non-prosecution agreement (NPA) that became the single most consequential — and most condemned — prosecutorial decision in the Epstein case. The deal allowed Epstein to avoid federal charges, plead to minor state offenses, serve a sentence designed to minimize actual incarceration, and secure immunity for unnamed co-conspirators who have never been prosecuted.
+R. Alexander Acosta served as U.S. Attorney for the Southern District of Florida from 2005 to 2009. During that period, his office oversaw the federal investigation into [Jeffrey Epstein](/people/jeffrey-epstein) and negotiated the non-prosecution agreement (NPA) that became one of the most consequential — and most condemned — prosecutorial decisions in the Epstein case. The deal allowed Epstein to avoid federal charges, plead to state offenses, serve his sentence in county jail with work release, and secured immunity from federal prosecution for four named co-conspirators and any unnamed potential co-conspirators.
 
 A federal judge later ruled that the deal violated the Crime Victims' Rights Act. Acosta went on to serve in [Donald Trump](/people/donald-trump)'s cabinet — and resigned under pressure when the deal's terms became a subject of national outrage.
 
@@ -53,10 +61,10 @@ The terms of the NPA were extraordinary:
 - **13 months in county jail**: Epstein was sentenced to 18 months in the Palm Beach County Stockade — a county jail, not a federal prison. He served approximately 13 months.
 - **Work release**: Epstein was granted work release six days a week, 12 hours a day. He was permitted to leave the jail and go to his office in downtown West Palm Beach. The work release arrangement was administered by the Palm Beach County Sheriff's Office and, according to later reporting, involved remarkably loose supervision. Epstein's office received visits from young women during the work release period.
 - **Sex offender registration**: Epstein was required to register as a sex offender.
-- **Co-conspirator immunity**: The NPA included a clause granting immunity from federal prosecution to Epstein's unnamed co-conspirators. This provision effectively shut down any broader investigation into the network of individuals who facilitated Epstein's crimes — the recruiters, schedulers, and enablers who made the trafficking operation possible.
+- **Co-conspirator immunity**: The NPA included a clause granting immunity from federal prosecution to four named co-conspirators — Sarah Kellen, Adriana Ross, Lesley Groff, and Nadia Marcinkova — and to any unnamed "potential co-conspirators." This unusually broad provision effectively shut down any broader federal investigation into the network of individuals who facilitated Epstein's crimes — the recruiters, schedulers, and enablers who made the trafficking operation possible.
 - **Victims not notified**: The agreement was negotiated and finalized without notifying the victims, as required by the federal Crime Victims' Rights Act.
 
-The NPA was classified and kept sealed, meaning that the public — and the victims — did not know its full terms until years later.
+The NPA was kept sealed until after it was finalized, meaning that the public — and the victims — did not know its full terms until years later.
 
 ## The Crime Victims' Rights Act Violation
 
@@ -68,13 +76,13 @@ The ruling was significant not only for the Epstein case but as a broader statem
 
 The ruling came too late to undo the plea deal — Epstein had already served his sentence — but it placed the NPA's terms on the public record and contributed to the momentum that led to Epstein's 2019 federal arrest on new charges.
 
-## "I Was Told to Leave It Alone"
+## The Reported "Belonged to Intelligence" Claim
 
-In 2017, when Acosta was being vetted for the position of Secretary of Labor, he reportedly told Trump's transition team that he had been told to "leave it alone" because Epstein "belonged to intelligence." The remark was first reported by Vicky Ward in the Daily Beast.
+In a 2019 Daily Beast article, journalist Vicky Ward reported that when Acosta was vetted for the position of Secretary of Labor during the Trump transition, he told his interviewers, "I was told Epstein 'belonged to intelligence' and to leave it alone." Ward presented this as something Acosta said he had been told, not as a verified fact. The claim is attributed to Ward's reporting and has not been independently corroborated on the public record.
 
-Acosta has not publicly confirmed or denied the statement. He has not identified who told him to "leave it alone" or what intelligence agency was referenced. The remark has fueled extensive speculation about whether Epstein had connections to U.S. or foreign intelligence services — speculation that has never been confirmed or definitively refuted by any government agency.
+Acosta has not publicly confirmed the account as Ward framed it, and the 2020 DOJ Office of Professional Responsibility review reported that, when asked whether Epstein had been an intelligence asset, Acosta said "the answer is no." That review stated it found "no evidence suggesting that Epstein was such a cooperating witness or 'intelligence asset.'"
 
-If the statement is accurate, it raises the possibility that the lenient plea deal was influenced by factors beyond the evidence and the law — that national security or intelligence considerations played a role in protecting Epstein from federal prosecution. No official investigation has confirmed this.
+The reported remark has nonetheless fueled extensive speculation about whether Epstein had connections to U.S. or foreign intelligence services — speculation that no government agency has confirmed. Whether the lenient plea deal was influenced by factors beyond the evidence and the law remains unestablished; no official investigation has found that intelligence considerations played a role.
 
 ## Nomination and Confirmation as Secretary of Labor
 
@@ -100,16 +108,16 @@ On July 12, 2019, Acosta resigned as Secretary of Labor, effective one week late
 
 ## The Co-Conspirator Immunity Question
 
-The immunity clause in the NPA remains one of the most significant and least resolved aspects of the case. By granting blanket immunity to unnamed co-conspirators, the agreement ensured that individuals who facilitated Epstein's trafficking — recruiters like Sarah Kellen and Nadia Marcinkova, schedulers like Lesley Groff, and potentially others — would never face federal prosecution for their roles.
+The immunity clause in the NPA remains one of the most significant and least resolved aspects of the case. By granting immunity to four named co-conspirators — Sarah Kellen, Adriana Ross, Lesley Groff, and Nadia Marcinkova — and to any unnamed "potential co-conspirators," the agreement ensured that individuals who facilitated Epstein's trafficking would not face federal prosecution under this agreement for their roles.
 
-The immunity clause effectively foreclosed the broader investigation that victims and law enforcement had hoped would follow Epstein's prosecution. Palm Beach Police Chief Reiter and Detective Recarey, who had built the case with the expectation that it would lead to a wider reckoning, expressed deep frustration.
+The immunity clause effectively foreclosed the broader federal investigation that victims and law enforcement had hoped would follow Epstein's prosecution. Palm Beach Police Chief Michael Reiter and Detective Joseph Recarey, who had built the case, both publicly protested the decision not to pursue stronger charges.
 
-The question of why Acosta agreed to co-conspirator immunity — protecting individuals who had not even been named, let alone charged — has never been satisfactorily answered. The "intelligence" remark, if accurate, provides one possible explanation. The pressure from Epstein's high-powered defense team provides another. The full answer may lie in the documents that have been released under the Epstein Transparency Act — or in those that remain redacted.
+The question of why Acosta's office agreed to such broad co-conspirator immunity has been examined but not fully resolved. The 2020 DOJ Office of Professional Responsibility review concluded the decision was within Acosta's discretion and found no evidence it resulted from corruption or from Epstein's wealth, status, or associations, while characterizing it as "poor judgment." The pressure from Epstein's defense team has been cited as one factor. Additional documents released under the Epstein Transparency Act may shed further light.
 
 ## What Is and Is Not Established
 
 Acosta was not accused of criminal conduct. He was not alleged to have been aware of or involved in Epstein's crimes. His role was prosecutorial: he was the U.S. Attorney who had the authority and the evidence to pursue a federal case against Epstein and chose not to.
 
-What is established is that Acosta's office negotiated a deal that allowed a serial child sex trafficker to serve 13 months in a county jail with work release privileges. The deal immunized his co-conspirators. It was conducted in secret, without notifying the victims. A federal judge ruled it violated the law. And Acosta reportedly told the incoming Trump administration that the deal was influenced by intelligence considerations that have never been publicly explained.
+What is established is that Acosta's office negotiated a deal that allowed Epstein — who admitted to state prostitution-related offenses and was later charged federally with sex trafficking of minors — to serve 13 months in a county jail with work release privileges. The deal immunized four named co-conspirators and any unnamed potential co-conspirators. It was kept sealed, without notifying the victims, and a federal judge ruled this violated the Crime Victims' Rights Act. A 2020 DOJ review characterized Acosta's handling as "poor judgment" but found no professional misconduct. A widely circulated claim — reported by Vicky Ward and attributed to Acosta's transition vetting — that he was told Epstein "belonged to intelligence" remains uncorroborated, and the DOJ review found no evidence Epstein was an intelligence asset.
 
-The plea deal is the single decision in the Epstein case that, more than any other, ensured that the trafficking operation and its participants were shielded from accountability for over a decade. Every year between 2008 and 2019 — during which Epstein moved freely among the powerful, continued to host visitors at his properties, and maintained his social network — was a year made possible by the terms Alexander Acosta negotiated.
+The plea deal resolved the federal investigation without charges and, in the years that followed, was widely criticized for shielding Epstein and his associates from broader federal accountability. Between 2008 and 2019, Epstein remained active among the powerful — continuing to host visitors at his properties and maintaining his social network — until the agreement's terms came under renewed public scrutiny and he was arrested on new federal charges.
