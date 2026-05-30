@@ -348,7 +348,13 @@ export function getDownFeeds(health: FeedHealthData, threshold: number = 3): Fee
  * the content pipeline (lowercase, non-alphanumerics → '-', capped length).
  */
 export function slugify(text: string, maxLen: number = 80): string {
+  const map: Record<string, string> = {
+    ø: 'o', æ: 'ae', œ: 'oe', å: 'a', ð: 'd', þ: 'th', ł: 'l', đ: 'd', ß: 'ss',
+  };
   return text
+    .normalize('NFKD')
+    .replace(/[̀-ͯ]/g, '') // strip combining diacritics (é→e, ñ→n)
+    .replace(/[øæœåðþłđß]/gi, (c) => map[c.toLowerCase()] || c)
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '')
