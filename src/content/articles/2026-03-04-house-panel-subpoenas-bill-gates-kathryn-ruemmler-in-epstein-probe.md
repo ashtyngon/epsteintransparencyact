@@ -3,6 +3,9 @@ title: "House Panel Subpoenas Bill Gates, Kathryn Ruemmler in Epstein Probe"
 publishedAt: "2026-03-04T12:22:36.000Z"
 source: "The American Bazaar"
 sourceUrl: "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYzM0cy15NFBaQUR1UFJzcEVjcVBFWDhyRUQxTmZabE10X1BvSl9CQjlBZnNXNjZFZkxXam11Z2tmSXJPMkpXVGxtYUktcEc1MU1PQ0pESC1OZlN5WmtXSjJvbzJZMl91UVpNNjFRbnlocF9kdUQtNXdHOFlJQ3VWMnNXQTBucHVEMEgtT25XV3lZOHdKczR0Mzg2WkF3ZHBXMTM3emt0UlZPNnhqUy1IbWE0MHN4bDEyak9DNjRlMDlUYUlLQU5wMFBuT1djT2d6LTdja1N3?oc=5"
+image: "/images/people/bill-gates.jpg"
+imageCaption: "Bill Gates"
+imageCredit: "Wikimedia Commons"
 summary: "The House Select Committee on the January 6th Attack has issued subpoenas to Bill Gates and Kathryn Ruemmler, a former White House counsel who later worked for"
 people:
   - bill-gates

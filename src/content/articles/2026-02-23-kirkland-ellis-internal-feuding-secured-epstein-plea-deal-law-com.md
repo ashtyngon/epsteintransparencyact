@@ -3,6 +3,8 @@ title: "Kirkland & Ellis Internal Feuding Secured Epstein Plea Deal: Law.com"
 publishedAt: "2026-02-23T05:01:00.000Z"
 source: "Law.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0lKWkw4cVRUTGd2eUV4bWJtQkJlQkFxS3FJWFBJTWtpZ25MeDZGX0NZbUpyZDNnaTk2bUU2WnB1ZFA2bUhLWWNoY0pIUVhUOXhHdFozUW1Gb1BhbXotbFhtYmNSOHZLaWRQSFZ3NGYxQ2xjdUxxWGlTQjk1ZWNXZ1ptNTc5NktHRkg4SjhiaXIxbkk3RHFDbUZIY09Wc2Q5TWY4TmZGbkVMa193bHJ6ZkRxQngzWkU2TElaU3hSc2xOQ3BEa0JEUGpWeTVSWklaSU1RelBybExrd0hQQzhxaU5YWQ?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A new report details how attorneys at Kirkland & Ellis navigated internal conflicts and external pressure to secure the controversial 2008 plea deal that"
 people:
   - jeffrey-epstein

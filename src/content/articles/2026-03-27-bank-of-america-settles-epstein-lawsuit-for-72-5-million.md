@@ -3,6 +3,8 @@ title: "Bank of America Settles Epstein Lawsuit for $72.5 Million"
 publishedAt: "2026-03-27T18:00:00.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/news/us-news/bank-america-agrees-pay-72-million-epstein-survivors-rcna265607"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Bank of America agreed to pay $72.5 million to settle a lawsuit accusing it of ignoring $170 million in suspicious transactions linked to Jeffrey Epstein's sex trafficking operation."
 people:
   - jeffrey-epstein

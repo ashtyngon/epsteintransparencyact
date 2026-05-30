@@ -3,6 +3,8 @@ title: "Mar-a-Lago Intruder Austin Martin Fixated on Epstein Files"
 publishedAt: "2026-02-24T14:27:00.000Z"
 source: "The Palm Beach Post"
 sourceUrl: "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNk84S1pkanBNMXhJTlhGdERpdVZtNHlvMGwwTHRUcHpWX3JIVlBRdlR4d1V4bjcxWWdQdE9fd3lSTG55blBDTW9PRXdTdmFGRy1HY2drSmo4Mk9Ub29udm9LcEZRdVdjVDFBc19ka2ZlazFGQ2RBc2U3TUNjM21xN2RZeEktSlRHdm5YSVFCcjRpaWZmQ3BMbW9ueFVnMmJ6TWcwV0ZtbW9fd3JYV083YVRMc3pYMkNjRmc5cWdhZ0hjV3VhbG85aWFyMEJidXgtYWxadlIxSWYwc254Tmw4Z0U3c0Q3TkRMM0lwT1E0dUVTQVpwWGY1bTYtdEU?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A man who allegedly attempted to enter Mar-a-Lago earlier this year was fixated on obtaining government files related to Jeffrey Epstein, according to The Palm"
 people:
   - jeffrey-epstein

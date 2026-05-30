@@ -3,6 +3,8 @@ title: "Staten Island Search Uncovers Hundreds of Hits in Epstein Files"
 publishedAt: "2026-02-16T19:45:00.000Z"
 source: "SILive.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWZvcldIeHNLN2VYdl9qcVBBajRDTlhobWVubF9xakdDRGhRVUp4eWlCWmMzYl9PYl9hMl9tdnpLNWt6NEpfZUFVejFublFpMVVsN2NzcElSTGFMOXJTWllXaV9CdEhLeGhnN2w0bDEyblBTNjJrWUVzb2xzMWdwY0VRZDZBNE1QbGlrcWhQanM2MDZHcUxuT0dib0pGT05ZYWhGYmxCNUNQRGpXYzU5b3N6aGtXZmYtQTlUamdRR0k2Z0Mta1Y5OGZR0gHeAUFVX3lxTE1QZzVwT1hlU0xYZFdFRVUxY3RkSXhwaVNFMUhsYXFMRmVodjZXZFo3NjBsZ2RHTzVfOHlLTTI4b3dGTERSLVJVcXZ3OWNsQ3pRQWJfLVpOaExyRTdOSHQyb1VjbFB5N0RLSWstZ2hqSFZUSVZNa0tqeERMRTVheHY0WUZ0NHdCcVNwWkp5em9VWDE4VzdnUjhNQ1dwV1JqMEpCbzVlRU1VbFM1ZGRkMjY4LWRJVmtZNUNRWXg2T3NwYmlrNDktRkxNaEhla1VjSFJvczR2ajVKcEs4QWlQUQ?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A search for 'Staten Island' in the DOJ Epstein files returns hundreds of hits across three categories: underwear, attorney records, and autopsy documents."
 people:
   - jeffrey-epstein

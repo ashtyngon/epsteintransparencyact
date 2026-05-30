@@ -3,6 +3,8 @@ title: "Business Insider: Epstein's Playbook for Landing Billionaire Clients"
 publishedAt: "2026-03-08T09:00:00.000Z"
 source: "Business Insider"
 sourceUrl: "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUFQNEZaeEVYYm5nelhZU2IxcjlZSl9WMTBRMmdyUktiN1RxcHY1SzNhS3ZTYmxUVGJvbHBfRXh1VUktYVRYZjBfRG5wMnN3VmtNZmx3dWZkQThUaEFraGFCQnVQQmNia3Z6OE9xVVZ0V3ItRG1KWEE5THBUNzVaR2x1dHAwd1JRWGhUOGwwR2kwUF9scWhZUmRST3otbWI0OHo4RUxFb3E4WmFZZk82ZW93?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Jeffrey Epstein used a combination of urgency, pressure, and persistence to secure Leslie Wexner, the billionaire founder of L Brands, as a client, according"
 people:
   - jeffrey-epstein

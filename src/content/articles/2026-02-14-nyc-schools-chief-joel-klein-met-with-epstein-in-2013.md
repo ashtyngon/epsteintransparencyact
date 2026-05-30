@@ -3,6 +3,8 @@ title: "NYC Schools Chief Joel Klein Met With Epstein in 2013"
 publishedAt: "2026-02-14T10:02:46.000Z"
 source: "New York Times (US)"
 sourceUrl: "https://www.nytimes.com/2026/02/14/us/how-former-nyc-schools-chief-joel-klein-became-friendly-with-epstein.html"
+image: "/images/people/joel-klein.jpg"
+imageCaption: "Joel Klein"
 summary: "Former NYC Schools Chancellor Joel Klein met repeatedly with Jeffrey Epstein in 2013, five years after the financier's sex offense conviction, the New York Times found."
 people:
   - joel-klein

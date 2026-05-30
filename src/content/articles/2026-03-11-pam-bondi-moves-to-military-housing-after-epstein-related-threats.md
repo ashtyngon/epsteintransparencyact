@@ -3,6 +3,8 @@ title: "Pam Bondi Moves to Military Housing After Epstein-Related Threats"
 publishedAt: "2026-03-11T13:25:33.000Z"
 source: "New York Daily News"
 sourceUrl: "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW1PQXhHdXpuLVY0ODdiU1o1cGlLNWV6dzVXM1BNODAwOHVERmE3UlQxNzZHamM1TkFsRTFOUGQzQlN4U2ZtZXhHMXVyM3R5SWtBZkhIMzdxQkVKWThQMlF6OF9yTU9LdXhxSFMwd0xLazZ5QW1ka1hhT2RFSlhSMWlWaTRtLWRwYXc?oc=5"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "Attorney General Pam Bondi has relocated to military housing following threats related to the Epstein case, according to the New York Daily News. The move"
 people:
   - pam-bondi

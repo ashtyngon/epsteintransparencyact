@@ -3,6 +3,8 @@ title: "Prince Andrew Arrested in London Over Epstein Documents"
 publishedAt: "2026-02-19T22:26:14.000Z"
 source: "ABC News"
 sourceUrl: "https://abcnews.com/International/video/andrew-mountbatten-windsor-arrested-london-130313325"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "U.S. Lawmakers Demand Domestic Charges After Prince Andrew Arrest The arrest of Prince Andrew in London on Thursday has prompted members of Congress to"
 people:
   - prince-andrew

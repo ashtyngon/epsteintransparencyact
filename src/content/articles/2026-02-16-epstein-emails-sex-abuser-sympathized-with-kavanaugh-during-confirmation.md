@@ -3,6 +3,8 @@ title: "Epstein Emails: Sex Abuser Sympathized With Kavanaugh During Confirmatio
 publishedAt: "2026-02-16T12:00:26.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/16/jeffrey-epstein-brett-kavanaugh-supreme-court"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Jeffrey Epstein tracked Brett Kavanaugh's 2018 Supreme Court confirmation and exchanged messages expressing sympathy for the nominee, according to released DOJ emails."
 people:
   - jeffrey-epstein

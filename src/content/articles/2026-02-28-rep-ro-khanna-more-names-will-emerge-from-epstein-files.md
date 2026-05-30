@@ -3,6 +3,8 @@ title: "Rep. Ro Khanna: More Names Will Emerge From Epstein Files"
 publishedAt: "2026-02-28T11:01:51.000Z"
 source: "Time Magazine"
 sourceUrl: "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44LTZNeUZGWXNtM2hSNHBHcXBHbTBNSXJvYVlSMUxDdGl0Y3MzLVhZYWtodmt0dGFzWmY1eXVjcHMxZE1VelJhc2NIRUk4TjVZNWdkOHNsNE8tdnBvZFFkbGZKMFM4VmNN?oc=5"
+image: "/images/people/ro-khanna.jpg"
+imageCaption: "Ro Khanna"
 summary: "Rep. Ro Khanna D-Calif., one of the primary sponsors of the Epstein Transparency Act, said in an interview with Time Magazine that he expects additional"
 people:
   - ro-khanna

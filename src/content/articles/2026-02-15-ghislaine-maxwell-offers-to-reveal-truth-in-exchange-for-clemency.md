@@ -3,6 +3,8 @@ title: "Ghislaine Maxwell Offers to Reveal 'Truth' in Exchange for Clemency"
 publishedAt: "2026-02-15T13:00:23.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/15/ghislaine-maxwell-epstein-clemency"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Ghislaine Maxwell offered to reveal 'the truth' about Epstein through her legal team, but only if freed from her 20-year prison sentence, according to The Guardian."
 people:
   - ghislaine-maxwell

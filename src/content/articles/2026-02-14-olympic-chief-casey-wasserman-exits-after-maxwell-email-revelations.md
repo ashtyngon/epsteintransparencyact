@@ -3,6 +3,8 @@ title: "Olympic Chief Casey Wasserman Exits After Maxwell Email Revelations"
 publishedAt: "2026-02-14T04:28:03.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/13/us/casey-wasserman-agency-epstein.html"
+image: "/images/people/casey-wasserman.jpg"
+imageCaption: "Casey Wasserman"
 summary: "Casey Wasserman resigned from the LA 2028 Olympics committee and will sell his agency after documents revealed email correspondence with convicted trafficker Ghislaine Maxwell."
 people:
   - casey-wasserman

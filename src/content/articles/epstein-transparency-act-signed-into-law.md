@@ -3,6 +3,8 @@ title: Epstein Transparency Act Signed Into Law
 publishedAt: 2025-11-19T13:01:00.000Z
 source: Associated Press
 sourceUrl: https://apnews.com/article/epstein-transparency-act
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: >-
   President signs the Epstein Transparency Act into law, mandating the release
   of federal records related to Jeffrey Epstein's activities.

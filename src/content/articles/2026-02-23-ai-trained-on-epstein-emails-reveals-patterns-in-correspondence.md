@@ -3,6 +3,8 @@ title: "AI Trained on Epstein Emails Reveals Patterns in Correspondence"
 publishedAt: "2026-02-23T21:19:23.000Z"
 source: "Decrypt"
 sourceUrl: "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FVRmQwdVJtRy1xblFTN2Z0VkZWU3hkN1VWLURqQktmMllBQjkzN3FlWWZEdnlGaWI2cy1LbUJjS3ltNzRLVWUzaFg5TGZPODZMb3BBb2xnRmxfWFZ3R1NQZmltUHNUam14eXRwSFVWN1M3aGFvbDZncjR5TndHTElPb9IBiwFBVV95cUxPV0hodzl5a2M1TTExN0RKbTBzNzh3SDdyZWl1QkRpU0Q2QmVObGhOWXRNRVRkTXFnWFFGWGVmR0MzTGduOTVGZGRGeWQtdmlfWW96RGgwR2hyOHBDbk02ZFR2UXc0aXM5blpfamd5Sld4RWZOeHZQbzNWQVRPVFhyQk5ETm1mUWNJc2pv?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A company has released an AI chatbot trained on emails from Jeffrey Epstein's estate, according to Decrypt, raising questions about public access to materials"
 people:
   - jeffrey-epstein

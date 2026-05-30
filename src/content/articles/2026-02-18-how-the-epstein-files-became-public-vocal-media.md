@@ -3,6 +3,8 @@ title: "How the Epstein Files Became Public - vocal.media"
 publishedAt: "2026-02-18T20:06:36.000Z"
 source: "vocal.media"
 sourceUrl: "https://news.google.com/rss/articles/CBMickFVX3lxTE5aSEstU3hmdTBoaXd4cU9iVU5oSmE3MUItbEo0M1JVVGFYZnV4d2pKR1VtVEtBTk1LV2V3ajFRaThTOVBxSnhrY0hUOWxKdnNOX2dfN0FHUFJSeUhoNUVoT2FZdF9ScWJDZjN2RWZ4NGRudw?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A new explainer published on Vocal Media traces the legal proceedings that led to the public release of documents related to Jeffrey Epstein's activities and as"
 people:
   - jeffrey-epstein

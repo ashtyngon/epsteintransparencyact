@@ -3,6 +3,8 @@ title: "Morning Joe rips 'morally bankrupt' GOP for 'protecting' people in Epste
 publishedAt: "2026-02-19T16:13:16.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/morning-joe-republicans-epstein-files-andrew-b2923644.html"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Joe Scarborough criticized Republican lawmakers for their response to the Epstein case, calling them 'morally bankrupt' as Prince Andrew faced arrest in the UK."
 people:
   - prince-andrew

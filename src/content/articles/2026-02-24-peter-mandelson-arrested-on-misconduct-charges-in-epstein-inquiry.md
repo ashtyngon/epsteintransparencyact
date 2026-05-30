@@ -3,6 +3,8 @@ title: "Peter Mandelson Arrested on Misconduct Charges in Epstein Inquiry"
 publishedAt: "2026-02-24T01:01:44.000Z"
 source: "Rural Radio Network"
 sourceUrl: "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFZ5TDEwWDNlNEtXYzNGcjNPT2RxWS1ZTmxZWnpPMmpiSDlBRFNVRVRsQlk1TFBXb2Z3eFAyUHpXR3Nia2ZwSzVVTEdwa3d4elBRdHgtNG0yOHphekt3aENFaHFTN1VRcTNnd093d0pIRllFOUZHN0dEUjhhNlpEeVJvNEVDVThjSFp5UENsUF9XSXE4QnZCTndRNTh1RGtfMGFqR0U1ZmtxZ2dlRWVxYkRRNU9JalFVeTVjLXQzb3QzZUFlLVFONnEwNUtCR0J4OXhORDRYRUt2WjJfbVB2Vlln?oc=5"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "Peter Mandelson, the former UK ambassador to the United States, was arrested Monday on suspicion of misconduct in public office over allegations he sent"
 people:
   - peter-mandelson

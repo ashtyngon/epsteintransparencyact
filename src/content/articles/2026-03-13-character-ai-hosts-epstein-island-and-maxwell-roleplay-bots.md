@@ -3,6 +3,8 @@ title: "Character.AI Hosts Epstein Island and Maxwell Roleplay Bots"
 publishedAt: "2026-03-13T14:06:35.000Z"
 source: "Futurism"
 sourceUrl: "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmxKU3Fhcm1zaUJKM3RKRkVWeHg3S3BSMnVESHBFamU2WTdzUlhnRzEzLVEtcDNTNDFqYWdPMDA2M3JlcnJiam4yQVVRdEdvcVVCYUF6bHYwbl9SdmRRZUZVYlpENmdzY2JmVTRFMlJ4OFhVWmtwbEtzLVdyUzBXTDNzWFZ6S0F2c0JnNGxVeVYwVXot?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A controversial artificial intelligence chatbot platform is hosting user-created bots that roleplay scenarios involving Jeffrey Epstein's private island and"
 people:
   - jeffrey-epstein

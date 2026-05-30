@@ -3,6 +3,8 @@ title: "Maxwell Challenges Epstein Files Law as Unconstitutional"
 publishedAt: "2026-02-22T12:38:00.000Z"
 source: "The News International"
 sourceUrl: "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHJXQkM5b1A5Nm1NOXh6SXM4dVRnMm8yRXc4ZlBXVjl2VlRmblQwR0lGa2lyWFlGTS1hbEtDNWVQV2xFYzhtejZIb0Zqc0lsZ3ZHT0h4SzNWcERsVldZcERTMzVNeXNLbF9Tbi1YdTk2akhCaWxFb3I5WFotVDhTYU5TR1pxeVpMakNRdjU1S28zQ25MN3ZwNmtHQWs1alhvdS1SYklldEttQkpTVGpzT25qSVdtZ28yY3l1aTZ1d0Vvd9IBvgFBVV95cUxQTF90dk5QakVsOFo1NGt4UDJCemVHYnVDZHd0Q0xyNEZWZ2tscWl3bU5oM1BzQ3NpNG9lbXhfQXBBMEpnUWoyZGZpRFRHQ0VsalFwUzBjVG5leFJmcHgzUXFEQnFCRktCS0lCNkNvUFpubUc5c29jTG9PdzdTQzFSeEZJbTg3UGEtOGVaR25qc25hdk02U0hVVmxINmx4TnJOZEs4Zmp4V0pXeHRGdlRWdm5qMm1xYUk5OXVYRVlB?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Ghislaine Maxwell has filed a legal challenge to block the continued release of documents under the Epstein Transparency Act, calling the law"
 people:
   - ghislaine-maxwell

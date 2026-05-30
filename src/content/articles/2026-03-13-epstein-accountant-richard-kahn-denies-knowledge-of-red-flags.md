@@ -3,6 +3,9 @@ title: "Epstein Accountant Richard Kahn Denies Knowledge of Red Flags"
 publishedAt: "2026-03-13T13:29:30.000Z"
 source: "Reality Tea"
 sourceUrl: "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTRLNXJnNXJ4dnZ6dm1OTjJBVi1sQ2xmdXlKOGM4WkVpVjctUFdYd3lIdUhwb3NVSi1sSzN3MlZNLVFkNzUwTFlzekg1SXJSV1ZDbE12cGZjT1IwdUllX3NueEQ3NFBmY0FJMkV6VVJiQ1ZSYVRvdlhGOXNnVnh3c2VvOGJzZENZNlVNZnB6cTc2ZUJrNm00Ylk2SDnSAaIBQVVfeXFMUDRINXMwRWVKdjd6WjE4dFBueXZnaEl5Zk9MSkhCaWFxUWFHOXJMeWhsVFVVb1IyX2Zwb2lyZXJvRUI5YU5JejQwZnFPN2pCU2g0SmxfbmZMX2FJZ3UwSHdWdVlBdHNaek5FRFhBaG9FTXhkd1Z2eXJaeG1lRF9OenpvczVMOEVQa2h2WUJ2UDlXUVlsRDlYTEMxUk1meWVYNzZ3?oc=5"
+image: "/images/people/richard-kahn.jpg"
+imageCaption: "Richard Kahn"
+imageCredit: "Wikimedia Commons"
 summary: "Richard Kahn, Jeffrey Epstein's former accountant, testified before the House Oversight Committee this week, claiming he observed no warning signs during his"
 people:
   - jeffrey-epstein

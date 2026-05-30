@@ -3,6 +3,8 @@ title: "Carnegie Mellon AI Pioneer's Emails Reveal Years of Epstein Ties"
 publishedAt: "2026-03-01T13:04:17.000Z"
 source: "Pittsburgh Post-Gazette"
 sourceUrl: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUHlwUzRKMEloWDd2ODNFLXVlX3lSdDl1N0JfZEJSNUV5UktXazRhTmJtaGE3aXFPYjZqMndhTTRremE3WU5xcW1JQmJ5Vjd4U2s1ZG02dUhvWVR3azJmOUhPSXEtZEg1NTg0YnlPT3M3RnZPTGFxbnhYenJzcThSOWtyY3U3QjR4NzFfeG90WldOQnl5LWN5Sy02X3hDM0NzMlVYSllMdy1OcmlyTHhVbnNZd3VHc0s1dFhz?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A prominent artificial intelligence researcher and former Carnegie Mellon University administrator maintained yearslong contact with convicted sex offender"
 people:
   - jeffrey-epstein

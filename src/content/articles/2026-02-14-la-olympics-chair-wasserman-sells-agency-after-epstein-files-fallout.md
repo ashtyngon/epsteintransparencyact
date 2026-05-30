@@ -3,6 +3,8 @@ title: "LA Olympics Chair Wasserman Sells Agency After Epstein Files Fallout"
 publishedAt: "2026-02-14T21:48:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/news/casey-wasserman-2028-olympics-chair-to-sell-talent-agency-epstein-files/"
+image: "/images/people/casey-wasserman.jpg"
+imageCaption: "Casey Wasserman"
 summary: "Casey Wasserman, chair of the 2028 LA Olympics, is selling his talent agency after emails with Ghislaine Maxwell surfaced in the Epstein files."
 people:
   - casey-wasserman

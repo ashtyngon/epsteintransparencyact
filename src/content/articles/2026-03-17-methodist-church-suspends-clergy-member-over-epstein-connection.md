@@ -3,6 +3,8 @@ title: "Methodist Church Suspends Clergy Member Over Epstein Connection"
 publishedAt: "2026-03-17T12:48:00.000Z"
 source: "Christian Post"
 sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEFHZlVzd1Y2ZXF1LTRhLUFOekN4VzZvYWVKOXlXbk9INkR5eHZlekk3dmQtQWh1cUZTaWpDYzF6RDFYUmprLWdlQ2tkZnpnUWZ4cm41d2F1SlVDRUtneE90ejVRU1kzT2JiSWFtWU5PVl9sWVJ1OHpWQVN6X08tei1CeXJoSWNFdHBqQVk5Z1FjT0dhZEhqdE5iU3RwTkZJWmdJ?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "The United Methodist Church has suspended a clergy member over connections to Jeffrey Epstein, according to a report by The Christian Post. The church took"
 people:
   - jeffrey-epstein

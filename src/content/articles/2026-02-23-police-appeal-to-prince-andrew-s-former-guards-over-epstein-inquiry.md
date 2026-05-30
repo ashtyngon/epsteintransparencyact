@@ -3,6 +3,8 @@ title: "Police Appeal to Prince Andrew's Former Guards Over Epstein Inquiry"
 publishedAt: "2026-02-23T15:13:38.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/23/andrew-mountbatten-windsor-former-protection-officers-urged-share-what-they-saw"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Detectives investigating Prince Andrew's ties to Jeffrey Epstein are now urging the former royal's police protection officers to come forward with information"
 people:
   - prince-andrew

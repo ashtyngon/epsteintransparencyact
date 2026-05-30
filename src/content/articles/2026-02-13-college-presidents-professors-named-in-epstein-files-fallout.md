@@ -3,6 +3,8 @@ title: "College Presidents, Professors Named in Epstein Files Fallout"
 publishedAt: 2026-02-13
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/education/5736016-epstein-files-ohio-state-harvard-bard-yale/"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "At least three university presidents and multiple professors have been identified in recent Epstein document releases, with Columbia University emerging as one of the most deeply implicated institutions after revelations of admissions corruption and survivor exploitation."
 people:
   - jeffrey-epstein

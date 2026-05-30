@@ -3,6 +3,8 @@ title: "Epstein Survivor Demands DOJ Release 'Damn Files' Over Withholding"
 publishedAt: "2026-02-24T22:18:35.000Z"
 source: "NBC New York"
 sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFhDR25WV2JpN3JNa2NtMFBwa3lQZTd3ZHd3MENQaWR1cmZ1b25mUnFOZXItelVfZ1R1WGQxQmU0LWJUdTlVTjZTNjBfWlFNdEIxOXBpenVoNFhSOE1QcndPbjF0djlxT1BiSHBVVGY5VHRqRXhMQlI5bWdKSks0ZlAtQ3ByQkg3OHhJUGZLVzc3cVdMQXdRX1VtVlhsS3k4ZUdweW9GeDRQZzFwWGo2Sk1nONIBuwFBVV95cUxORFdDRlFqWFNwcllkOERXUmlDZDk2YWhGVXFBUWRvSU9IT2ZrNjZxckx5ekxvaXhJVTIzQzFuOWI2Y1RPOVdTYkN4MVJWUFVrbHppWkhXeVVZeUJjaHQxOVhZempFeFdVQzB1RWFwd1dWWEpkeTRTRmg0aHcwOV85LWF3bUY0dUxNZmtGM2lVdTc2cTNlVm5BSlllak5ySkxHSzQtc2ljMW9rdW41NDYzNnZlME90aTRQN0VF?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "An Epstein abuse survivor criticized the Department of Justice for withholding records related to the Jeffrey Epstein case, calling the agency \"no better\" than"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Tim Dillon Blasts Bondi's Epstein Hearing Testimony: 'Completely Unprepa
 publishedAt: "2026-02-16T15:54:04.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/tim-dillon-pam-bondi-epstein-files-b2921247.html"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "Podcaster Tim Dillon called AG Bondi 'completely unprepared' after she yelled about stock market performance during congressional testimony on Epstein files."
 people:
   - pam-bondi

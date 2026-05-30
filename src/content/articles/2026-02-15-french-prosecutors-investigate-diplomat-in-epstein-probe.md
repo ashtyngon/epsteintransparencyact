@@ -3,6 +3,8 @@ title: "French Prosecutors Investigate Diplomat in Epstein Probe"
 publishedAt: "2026-02-15T00:29:37.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/14/world/europe/france-epstein-files.html"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "French prosecutors opened an investigation into a diplomat with Epstein ties and are examining three new complaints linked to the released files."
 people:
   - jeffrey-epstein

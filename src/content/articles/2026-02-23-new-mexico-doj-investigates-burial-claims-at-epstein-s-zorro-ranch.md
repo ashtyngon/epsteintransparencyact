@@ -3,6 +3,8 @@ title: "New Mexico DOJ Investigates Burial Claims at Epstein's Zorro Ranch"
 publishedAt: "2026-02-23T02:36:50.000Z"
 source: "Scripps News"
 sourceUrl: "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2Y0bVllb3kzXzBTV3hVMFNFcGFlZXN6MzljVmNLaGo2VW1QM0cyN01mYnN4OF9QdHpyTE42OHBiZDBnWXU1VUdDVnkxNEZlb3ZJV0tWckZJUGtmM2NIb2FQVU41WUprZ3g5VW12eVU1UU1HTmdWYmJOa1JsOGdiRFUxSFp5bDBUSkdTczNNdDFJRVR6WVVBaTItbVpDbU9NbFEwMUF5X2JTSlNTaHBSMUN5T1FLTWtUWkxNM0Uwbw?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "The New Mexico Department of Justice is investigating claims that burials may be located near Jeffrey Epstein's Zorro Ranch, according to Scripps News. The"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "FBI Investigates Epstein's New Mexico Ranch After Years-Long Delay"
 publishedAt: "2026-03-09T13:39:00.000Z"
 source: "The Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTc4NkNZZlJKLWVoN3VQMG1lMWhacllHMW9KNTJEVmt5TTd4YVI3akh1clRUN1N1TXRFamFnbl8wYmtRemxNbjVRUDB2STJZNENOUEhUTkhMcEh1aG1EVkdaWFhyRHV4TDhyN212cm1Rd3ZNMHI0dXlpa0NPSFNiZzBfeFVPSFE?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Investigators have opened an inquiry into Jeffrey Epstein's Zorro Ranch in New Mexico, but the probe may face significant obstacles due to the passage of time,"
 people:
   - jeffrey-epstein

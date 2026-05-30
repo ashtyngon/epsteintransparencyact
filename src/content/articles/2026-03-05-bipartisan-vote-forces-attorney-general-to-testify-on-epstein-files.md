@@ -3,6 +3,8 @@ title: "Bipartisan Vote Forces Attorney General to Testify on Epstein Files"
 publishedAt: "2026-03-05T12:55:00.000Z"
 source: "International Business Times UK"
 sourceUrl: "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUJ3QnJpQ204ejFja2ZGRUtVc1dBWFF2QVMxQjU2eTQ0MDZTUUtKLWVLbWNIbDV6S05RS3k5anJHRVhvS2puN1RHSU1yRGxidHZXb05uampnblRjV3BpZ1pMMHJNdWwzaTdXQmIzUVdYYUdSS0VQZERBLU4zOWVnek5uejhFYlFpR0RkRmtORldRcXR4?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A bipartisan vote in Congress has compelled the Attorney General to testify regarding the Epstein files, according to International Business Times UK. The vote"
 people:
   - jeffrey-epstein

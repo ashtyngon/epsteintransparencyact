@@ -3,6 +3,8 @@ title: "Guardian: US Could Learn From UK on Holding Elites Accountable"
 publishedAt: "2026-03-03T13:00:04.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/commentisfree/2026/mar/03/trump-epstein-files-us-uk-lessons"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A commentary published in The Guardian on March 3, 2025, contrasted accountability measures in the United Kingdom with what it described as \"elite impunity\" in"
 people:
   - jeffrey-epstein

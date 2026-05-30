@@ -3,6 +3,8 @@ title: "Bard College President Had Epstein Ties Through Fundraising"
 publishedAt: "2026-02-19T10:02:50.000Z"
 source: "New York Times (US)"
 sourceUrl: "https://www.nytimes.com/2026/02/19/us/bard-college-leon-botstein-jeffrey-epstein.html"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Leon Botstein, president of Bard College in New York, maintained contact with Jeffrey Epstein while leading fundraising efforts to save his institution from fin"
 people:
   - jeffrey-epstein

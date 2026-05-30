@@ -3,6 +3,8 @@ title: "FBI Holds Thousands of Files on Detroit Millionaire's Secret Island Oper
 publishedAt: "2026-02-14T14:10:29.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/crime/north-fox-island-frank-shelden-fbi-files-epstein-b2918769.html"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The FBI holds thousands of files on Francis Shelden, a Detroit millionaire who ran a secret abuse operation on North Fox Island decades before Epstein's crimes."
 people:
   - jeffrey-epstein

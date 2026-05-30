@@ -3,6 +3,8 @@ title: "Hollywood Execs Lose Deals as Epstein Files Trigger Industry Fallout"
 publishedAt: "2026-02-23T13:00:28.000Z"
 source: "Fox News"
 sourceUrl: "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcy1WUHpKNmZLRlNIcWg4SE1Ka2g1X0xZT0hFSDFtTWU2S0hBWGE4Qmh6ek9wNmViQnhwWjUxX1RkYno0cWJWcGwzM2RSeWVldXgwam90LXhIT0VEdElCak12RlhULXVyS05RUlJfcHJHUEJ0bzR3UnZ6OVdWRmYtSFkzZUpyenBHc3QzbkJ4QndVajhkaDhvcWVQVHRvNTM5Vmg0WlFURHQ4SWdRMjl4Q05BczVmU2fSAbwBQVVfeXFMUEZpZTRWNGpiVWpSODJUbDFSSmt6LUxMbjM3Q0Q4VkJfT2hxSjMtbU5Nb21iRHpvRENWU2VQQWd0R2h0bXI2dFNKNzl5ZlI1aFU3VFNPbC1EQmlVSUptSm42bWhnTEhaOTRfc3dySEpSd2EtN1JsaVh3Y3l2eFdNSmVMOWxheVJsbndNNXNLNHZVU1pFbzNKMWNIWWhDWXByOUJiQ0FnUEd2S2tiaTMxYUdqMV9WTDk2NGpBX24?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Entertainment industry executives have lost business deals and clients following the recent release of government files related to Jeffrey Epstein, according"
 people:
   - jeffrey-epstein

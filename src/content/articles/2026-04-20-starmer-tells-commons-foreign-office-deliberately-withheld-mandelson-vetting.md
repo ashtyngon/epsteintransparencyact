@@ -3,6 +3,8 @@ title: "Starmer Tells Commons Foreign Office 'Deliberately' Withheld Mandelson V
 publishedAt: "2026-04-20T16:00:00.000Z"
 source: "CNN"
 sourceUrl: "https://www.cnn.com/2026/04/20/uk/keir-starmer-mandelson-epstein-vetting-intl"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "UK PM Keir Starmer told the House of Commons on April 20 that the Foreign Office made a 'deliberate decision' to withhold information about Peter Mandelson's failed vetting."
 people:
   - peter-mandelson

@@ -3,6 +3,8 @@ title: "Bondi Defies House Subpoena Over Epstein Files After Firing"
 publishedAt: "2026-04-08T16:00:00.000Z"
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/04/08/pam-bondi-epstein-house-oversight-subpoena"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "Former Attorney General Pam Bondi's legal team informed the House Oversight Committee she would not appear for her April 14 deposition, arguing the subpoena no longer applies after her firing."
 people:
   - pam-bondi

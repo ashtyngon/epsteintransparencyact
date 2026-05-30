@@ -3,6 +3,8 @@ title: "Olympics Chairman Named in Epstein Files Faces Resignation Call"
 publishedAt: "2026-02-18T20:58:44.000Z"
 source: "California Globe"
 sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2tlSVQtVGFZcEdZQW05bEIwRTVSdFNhQmdscm1EeFNRd1NqU0xKOU1OQWR6NEZhbDVNbU43LXJ1TGlZRUtkRDJyVUluRFpGRkxyUWxEX3lsb2E5REhmN0ptd29KemkzSnM1SEhXZl9BbHRZeGlQLVYxZUdsSGl3eUVDRjR0WFJaVEVPYnV2THBiM1B6NHBfbE0zUEFiMmxCYkswQS12Q3RfMi1IMlNxT01IMHVtVklIM0E?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Los Angeles Mayor Karen Bass has called for the resignation of Casey Wasserman, chairman of the LA28 Olympic and Paralympic Games Organizing Committee, followin"
 people:
   - casey-wasserman

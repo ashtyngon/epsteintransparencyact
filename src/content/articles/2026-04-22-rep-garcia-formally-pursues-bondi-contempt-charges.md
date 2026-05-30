@@ -3,6 +3,8 @@ title: "Rep. Garcia Formally Pursues Bondi Contempt Charges Over Skipped Epstein
 publishedAt: "2026-04-22T13:00:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/house/5829799-garcia-threatens-bondi-contempt/"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "Top House Oversight Democrat Robert Garcia announced he would push for contempt of Congress charges against Pam Bondi for refusing to appear at her April 14 Epstein deposition."
 people:
   - pam-bondi

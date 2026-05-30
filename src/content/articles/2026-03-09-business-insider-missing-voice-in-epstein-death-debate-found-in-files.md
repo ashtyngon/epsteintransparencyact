@@ -3,6 +3,8 @@ title: "Business Insider: Missing Voice in Epstein Death Debate Found in Files"
 publishedAt: "2026-03-09T11:30:00.000Z"
 source: "Business Insider"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0JiZnpsUlp2YXVNMUl1QWFMbG1HdTBrWi1GMWtQNXhYXzkxNmoxUUhLSDE1eUsyRXdNRDYxSVc5YW01RGdoZFN2cDJkMUFRYlF1d0FBbXM0aktac2FxbUhFdjNYajhVbWFEc2dtOXJwamZoazBUSmdpMS1WbjhjbWdTUUpIbERuZVZ6SXVyb2JrZWxIV0E2eTVMUFJ6TkhNNUtwbWJxdHJWLWM?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A recently released government document from the Epstein files reveals statements from an individual who was housed near Jeffrey Epstein at the Metropolitan"
 people:
   - jeffrey-epstein

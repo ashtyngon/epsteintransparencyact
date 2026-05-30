@@ -3,6 +3,8 @@ title: "New Zealand Calls for Prince Andrew Removal From Royal Succession"
 publishedAt: "2026-02-24T00:57:42.000Z"
 source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/articles/c4gjz2p8wr2o?at_medium=RSS&at_campaign=rss"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "New Zealand's parliament has voted to support removing Prince Andrew from the British royal line of succession, citing his connections to convicted sex"
 people:
   - prince-andrew

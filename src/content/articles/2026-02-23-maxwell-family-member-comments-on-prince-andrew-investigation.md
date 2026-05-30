@@ -3,6 +3,8 @@ title: "Maxwell Family Member Comments on Prince Andrew Investigation"
 publishedAt: "2026-02-23T10:02:14.000Z"
 source: "Inquisitr News"
 sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenNEcFZua3VCLW43ZGVZUktGMEJ3c0Z1bTAyUEh0aWYxWjI1dkVROU5kcGlNVlJGT2stdUhLV1FxUGVMR1BUa0M4WVJUb0drVnJDNFgzcFpmVHByclAyT1o0anhMVk5KTWhBQ2xsdGpVbDRtRjFEU3JoTmFEOU0xUm9ydXlTX0pxWlNqOFNhUFJuVUZWYWdPNHhibWtrMmhpVnE4b0lPZWx5Zm1lTlp2SjVfMUlMcVFDRVE?oc=5"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Ian Maxwell, brother of convicted sex trafficker Ghislaine Maxwell, has publicly criticized the British royal family following the arrest of Prince Andrew on"
 people:
   - ghislaine-maxwell

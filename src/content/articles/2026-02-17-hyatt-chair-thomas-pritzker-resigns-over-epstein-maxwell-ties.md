@@ -3,6 +3,9 @@ title: "Hyatt Chair Thomas Pritzker Resigns Over Epstein, Maxwell Ties"
 publishedAt: "2026-02-17T11:02:10.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/business/2026/feb/17/hyatt-chair-thomas-pritzker-jeffrey-epstein-ghislane-maxwell"
+image: "/images/people/thomas-pritzker.jpg"
+imageCaption: "Thomas Pritzker"
+imageCredit: "Natacha Pisarenko/AP"
 summary: "The fallout from the Justice Department's release of Jeffrey Epstein files continues to reshape boardrooms and political institutions worldwide, with"
 people:
   - thomas-pritzker

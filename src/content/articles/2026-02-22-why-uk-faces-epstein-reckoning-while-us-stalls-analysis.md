@@ -3,6 +3,8 @@ title: "Why UK Faces Epstein Reckoning While US Stalls: Analysis"
 publishedAt: "2026-02-22T18:34:00.000Z"
 source: "The Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmxVblo2ZmtIc3J4TVJsU1RqYmxWb3NoenRlWkVsZER5eGVjMnhtbk9GYm40cXdseG84T1FxbTNHWlJOdkF4V0o2eTV5WWZNY1hXQnZVeFk5OFlMeUdvTWtaYUNxWE1oRVo4R3M5YktuRGdKSFo2dFZ0eUJfYlM1RHJwZkRwaGRqWW5VNjF5N2o0UzNhbVNoQXFxUQ?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A Guardian opinion columnist has drawn attention to the disparity in accountability between the United Kingdom and the United States regarding associates of"
 people:
   - jeffrey-epstein

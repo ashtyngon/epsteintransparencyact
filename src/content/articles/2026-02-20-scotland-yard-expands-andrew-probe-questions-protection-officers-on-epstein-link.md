@@ -3,6 +3,8 @@ title: "Scotland Yard Expands Andrew Probe: Questions Protection Officers on Eps
 publishedAt: "2026-02-20T18:55:42.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/20/police-quiz-former-prince-andrew-protection-officers-over-epstein-links"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Scotland Yard is contacting all former protection officers who worked with Prince Andrew and reviewing airport flight records as part of the Epstein investigation."
 people:
   - prince-andrew

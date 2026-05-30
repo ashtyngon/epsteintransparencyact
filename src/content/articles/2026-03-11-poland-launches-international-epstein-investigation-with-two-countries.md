@@ -3,6 +3,8 @@ title: "Poland Launches International Epstein Investigation With Two Countries"
 publishedAt: "2026-03-11T13:21:46.000Z"
 source: "CP24"
 sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTFFbkhONlZCRkdDWWlfeExYREo5akhWX3FoaVhjOVZjUmNmcFVMZjhZalJyM3hZRVhVZHQyX0ZJVkFlRFZkOTJwTU4zbUdPV1dKZkN4V3h5eDNfTXpOZjZJR3dBZVVwWnVYNUJyMlE2d3BpT0lYMkNvanptZU52cTBWZy0tMU5ITy1lVGJtTGlmREg3ZWZqbjZPNE5IV2JoXzNWSEFnQ1FQUDV1bk0yMVhmcw?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Poland is seeking international assistance in its investigation into connections between convicted sex offender Jeffrey Epstein and Polish nationals, according"
 people:
   - jeffrey-epstein

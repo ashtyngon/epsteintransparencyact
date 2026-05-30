@@ -3,6 +3,8 @@ title: "Police Widen Prince Andrew Investigation After Epstein Files Arrest"
 publishedAt: "2026-02-22T01:55:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/video/details-investigation-former-prince-andrew/"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Police in the United Kingdom have expanded their investigation into former Prince Andrew following his arrest in connection with the Epstein case, according to"
 people:
   - prince-andrew

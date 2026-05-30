@@ -3,6 +3,8 @@ title: "King Charles Distances Himself From Prince Andrew Over Epstein Ties"
 publishedAt: "2026-02-21T19:12:27.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/21/world/europe/andrew-epstein-queen-elizabeth-charles.html"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Queen Elizabeth Defended Andrew Through Epstein Scandal; King Charles Withdraws Support After Arrest King Charles III has withdrawn royal support from his"
 people:
   - prince-andrew

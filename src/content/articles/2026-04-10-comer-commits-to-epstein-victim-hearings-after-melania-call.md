@@ -3,6 +3,9 @@ title: "Comer Commits to Epstein Victim Hearings After Melania Trump's Call"
 publishedAt: "2026-04-10T18:00:00.000Z"
 source: "CNBC"
 sourceUrl: "https://www.cnbc.com/2026/04/10/comer-epstein-victim-hearings-melania-trump.html"
+image: "/images/people/james-comer.jpg"
+imageCaption: "James Comer"
+imageCredit: "Wikimedia Commons"
 summary: "House Oversight Chairman James Comer announced he would hold public hearings with Epstein victims after Melania Trump called for transparency, though no date has been set."
 people:
   - james-comer

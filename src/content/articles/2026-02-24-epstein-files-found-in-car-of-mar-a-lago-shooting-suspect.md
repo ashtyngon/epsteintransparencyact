@@ -3,6 +3,8 @@ title: "Epstein Files Found in Car of Mar-a-Lago Shooting Suspect"
 publishedAt: "2026-02-24T03:20:16.000Z"
 source: "WBAL News Radio"
 sourceUrl: "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHNRSU02alY2b1B4X1VmbmVqUVd3VnNOTUhCcHQ3aG1lMlVhYWozSHlhQjc3anZIMkR2aTRSdnpFam8zeDdYMk5RV2xQZjBNUkpMN0Y5OU05T3M0OXF2UTlId19MQVBwdnJ5dWFmaVhsQ1hwZTBHaUlkQjY2VXNrbmMtT0c0N2szMDZneTZoTU9UYWREaWNTV0lzMWhYUTYwVTBEaUYwd2p0Q0VZRTdWZ0RORkdUeDA?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Investigators searching the car of a man shot and killed outside Mar-a-Lago on an unspecified date discovered writings related to the Epstein files, according"
 people:
   - jeffrey-epstein

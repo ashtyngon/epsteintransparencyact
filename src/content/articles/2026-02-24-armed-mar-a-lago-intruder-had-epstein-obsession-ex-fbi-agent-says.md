@@ -3,6 +3,8 @@ title: "Armed Mar-a-Lago Intruder Had Epstein Obsession, Ex-FBI Agent Says"
 publishedAt: "2026-02-24T00:48:52.000Z"
 source: "Fox Business"
 sourceUrl: "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY1NyLVNlUDdMSVB2OTNkOFJXQ0hOMXhuVTlqdVp3NWs5cVhadk9LZG5YX3JIT2FnN2xOcFlpSUJmUmxqMHpMYThqNi14WFVVeDlIem96YVpnSTg?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A former FBI agent has stated that an armed man who attempted to gain entry to Mar-a-Lago had an \"obsession\" with Jeffrey Epstein, according to Fox Business."
 people:
   - jeffrey-epstein

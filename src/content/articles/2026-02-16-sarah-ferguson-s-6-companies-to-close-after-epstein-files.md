@@ -3,6 +3,9 @@ title: "Sarah Ferguson's 6 Companies to Close After Epstein Files"
 publishedAt: "2026-02-16T23:53:18.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations"
+image: "/images/people/sarah-ferguson.jpg"
+imageCaption: "Sarah Ferguson"
+imageCredit: "Wikimedia Commons"
 summary: "Six companies linked to Sarah Ferguson are being dissolved after released documents showed her continued contact with Jeffrey Epstein following his 2008 conviction."
 people:
   - sarah-ferguson

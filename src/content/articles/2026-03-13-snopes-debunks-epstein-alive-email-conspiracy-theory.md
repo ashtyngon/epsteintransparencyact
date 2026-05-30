@@ -3,6 +3,8 @@ title: "Snopes Debunks 'Epstein Alive' Email Conspiracy Theory"
 publishedAt: "2026-03-13T13:04:10.000Z"
 source: "Snopes"
 sourceUrl: "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sZG9LNlNzWllYVmwyOHZyWDlZX1dXOE1KaG1odGoyYktEZXJ6M1Z2ZEdZZVMzczI1UGkwam41RmFzR1hRZ2R4RnRObEdIYnZUbDR2LU92RmV3ZVM1VzUwLVVoQU1paXRKY255Tg?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A widely circulated claim alleging that an email from recently released Epstein files proves Jeffrey Epstein is still alive has been debunked by Snopes, the"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Why Epstein Files Release Hasn't Triggered More Charges: CTV Analysis"
 publishedAt: "2026-03-16T11:26:17.000Z"
 source: "CTV News"
 sourceUrl: "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWEJKZUhzV01KUDR1dDNmN1JUcUFkVzNFdXB6RDF3UGlCVDh6ZVFzRnotT3hCdkF4OVhuRnpMb2JoX2lCcmJ1T3haNGhzSHB3dHMtdlFBVFNKdVROX01YWXhDLUZCTkQyTmlBSHYxOGpxY2xSbl9aQ0U4UHg5YVk5bm1kUHV1eEhlV25IWWx0MmdWbnR6TTV1STZCN2xkcTFP?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The release of thousands of pages of documents related to Jeffrey Epstein has generated significant public attention, but legal experts say the files are"
 people:
   - jeffrey-epstein

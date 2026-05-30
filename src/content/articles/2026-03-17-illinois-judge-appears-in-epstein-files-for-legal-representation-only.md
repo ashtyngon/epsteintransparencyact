@@ -3,6 +3,8 @@ title: "Illinois Judge Appears in Epstein Files for Legal Representation Only"
 publishedAt: "2026-03-17T12:21:08.000Z"
 source: "Illinois Answers Project"
 sourceUrl: "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2hzbi13UVkwZ19aNUl0NHNVbmItdTZnOHhwTTJ0UGdoSS00WTJYYmJ1WkMwZXAwT1NnRWJxSG8yb0Z0dGpWQmNKQm10aF9ULXBLN2NTNWJBUTd5SENaY1pRRjJacWUwbWplaEl3V2diVDFEN01sYVBsSmpzcTR3RzFxcmJraFRGWldXRmhsWVFGMjZjWmRzb2NYTlYxRmVocm5fekNoSFVNY0lXYkx4RXF4alozN0lIaUpZaw?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A Madison County, Illinois, judge appeared in recently released Epstein-related documents because of prior legal representation, according to the Illinois"
 people:
   - jeffrey-epstein

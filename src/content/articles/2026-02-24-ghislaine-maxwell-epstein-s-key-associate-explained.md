@@ -3,6 +3,8 @@ title: "Ghislaine Maxwell: Epstein's Key Associate Explained"
 publishedAt: "2026-02-24T01:55:10.000Z"
 source: "Outlook India"
 sourceUrl: "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkdVdFZhWEFMSkN0c0RablFsTXZVMHR3TjhUQ0dsSFdKYXhnVmExeWdrbTRnMHExVTZndWhTR1VlRkd2TXJhN3pwQXpyS3pyb2NLRHROTmhVQXRYa3RSTjYyUkRrZzZPOXRyNjJtSE1jckRGcnZlNWoxVjNwcFUtN1pyOUdpTEVjWU16M0t1NTEzNkJKUnVubXA1UXVZMnhkNEQxakYzckRVMzdoSW9j0gG8AUFVX3lxTE9Jcm1zbkQ2ZDhKMjZqSmJPT09VejFNSEVtcDBqeVlNQjhrUWZOejVmd2JqM0MyNV9HaEYtOEdfUGszNllPRWcxcTBjbGtLTTA3azRSRENTZkczSEpIb043UEJBNTRra3ZxVU02ajFoSDVWUGFJX3RPXzd4NG1FdFdoU0VicGc5S3hzOTZqQ0lDWW52UTBmRGhzdEZNU0xlMi1ZREVMNkVkR0hUbEF5S3ZWdFFzc0RnTWRFVTRM?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Ghislaine Maxwell remains a central figure in the ongoing Epstein case, currently serving a 20-year federal prison sentence for her role in recruiting and"
 people:
   - ghislaine-maxwell

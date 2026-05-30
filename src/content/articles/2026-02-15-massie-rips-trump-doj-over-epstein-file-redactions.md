@@ -3,6 +3,8 @@ title: "Massie Rips Trump DOJ Over Epstein File Redactions"
 publishedAt: "2026-02-15T16:57:15.000Z"
 source: "Washington Examiner"
 sourceUrl: "https://www.washingtonexaminer.com/news/house/4452272/thomas-massie-todd-blanche-redactions-epstein-files-les-wexner/"
+image: "/images/people/thomas-massie.jpg"
+imageCaption: "Thomas Massie"
 summary: "Rep. Thomas Massie criticized President Trump and the DOJ over continued redactions of Epstein files, escalating a rift within the Republican Party over transparency."
 people:
   - thomas-massie

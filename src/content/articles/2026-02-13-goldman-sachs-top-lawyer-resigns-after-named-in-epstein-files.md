@@ -3,6 +3,8 @@ title: "Goldman Sachs Top Lawyer Resigns After Named in Epstein Files"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/02/13/epstein-files-goldman-sachs-lawyer-kathryn-ruemmler-resigns"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 articleType: news
 summary: "Goldman Sachs top lawyer Kathryn Ruemmler resigned after released emails showed her referring to Epstein as 'Uncle Jeffrey' in years of personal correspondence."
 people:

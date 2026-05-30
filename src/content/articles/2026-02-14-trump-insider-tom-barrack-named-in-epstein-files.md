@@ -3,6 +3,8 @@ title: "Trump Insider Tom Barrack Named in Epstein Files"
 publishedAt: "2026-02-14T17:00:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/news/tom-barrack-jeffrey-epstein-files/"
+image: "/images/people/tom-barrack.jpg"
+imageCaption: "Tom Barrack"
 summary: "Tom Barrack, a longtime Trump confidant and former U.S. special envoy to the Middle East, was named in Epstein files showing years of contact with the financier."
 people:
   - tom-barrack

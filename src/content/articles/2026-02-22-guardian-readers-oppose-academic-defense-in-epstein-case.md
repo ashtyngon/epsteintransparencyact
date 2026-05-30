@@ -3,6 +3,8 @@ title: "Guardian Readers Oppose Academic Defense in Epstein Case"
 publishedAt: "2026-02-22T17:57:00.000Z"
 source: "The Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VZaHNkUjFRaDloUUNWQ3lVRDhKay1yYTRqaEdOazlLbGk4b1NTUjJHYnNZTGQ1QkRWVEZTUmk3NWhDbDR6MHMxR0pLV3k3aXljVFVoWFlDQzVGUlFLazI2NDRGOEJrZ0thSWhPZ3E1NUFlT3VYS0k0NlFTaExjYXdULVNUaW16dllHRFNybEpFY0N3blhPck5ycTUzNGZvY2hfRk40ck1PMWhn?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A reader has criticized academics who maintained relationships with Jeffrey Epstein after his 2008 conviction for soliciting a minor,"
 people:
   - jeffrey-epstein

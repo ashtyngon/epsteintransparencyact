@@ -3,6 +3,8 @@ title: "House Republicans Divided Over Pardoning Ghislaine Maxwell for Testimony
 publishedAt: "2026-04-22T18:00:00.000Z"
 source: "The Daily Beast"
 sourceUrl: "https://www.thedailybeast.com/top-republican-confirms-lawmakers-considering-maxwell-pardon/"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "House Oversight Chairman James Comer says some panel Republicans would back a pardon-for-testimony deal with Ghislaine Maxwell. Democrats are united against it."
 people:
   - ghislaine-maxwell

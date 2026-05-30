@@ -3,6 +3,8 @@ title: "Pension Funds Scrutinize Apollo Over Epstein Files"
 publishedAt: "2026-02-24T19:28:00.000Z"
 source: "Pensions & Investments"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVRSQVluNDZJMjREZU1Ic3VoSC1qOThGc1F1OEFTUDg1N1FtUmNvYWpiRmZ3TUtnWWxFNDgyQVI2VExQODB0UTZkcGdmUC1PNzdpQ0pNS2FTUVRBODY5VE9JZkF3MGpZRExyLXEtQTBZU1lFM3l0aENMaDI2bkZZMmI3WUhQQlZwakRyaU1yQ0VINktZUWRJTlpLbDRLYlhVcFNpLWhEblltUQ?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Several public pension funds are continuing their review of ties between Apollo Global Management and Jeffrey Epstein following the latest document releases"
 people:
   - jeffrey-epstein

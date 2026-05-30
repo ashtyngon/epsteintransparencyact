@@ -3,6 +3,8 @@ title: "U.K. Considers Removing Andrew From Royal Succession After Arrest"
 publishedAt: "2026-02-21T17:39:43.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/news/uk-government-prince-andrew-mountbatten-windsor-line-of-succession/"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "U.K. Government Weighs Removal of Andrew Mountbatten-Windsor from Royal Succession Line The British government is considering removing Andrew"
 people:
   - prince-andrew

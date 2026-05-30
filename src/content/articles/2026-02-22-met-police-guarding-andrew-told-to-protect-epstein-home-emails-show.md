@@ -3,6 +3,8 @@ title: "Met Police Guarding Andrew Told to Protect Epstein Home, Emails Show"
 publishedAt: "2026-02-22T13:22:53.000Z"
 source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/articles/cz9qkjvg033o?at_medium=RSS&at_campaign=rss"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Metropolitan Police officers assigned to protect Prince Andrew were instructed to guard Jeffrey Epstein's London residence, according to emails disclosed by"
 people:
   - prince-andrew

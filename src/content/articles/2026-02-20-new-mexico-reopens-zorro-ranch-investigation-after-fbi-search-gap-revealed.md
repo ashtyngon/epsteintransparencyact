@@ -3,6 +3,8 @@ title: "New Mexico Reopens Zorro Ranch Investigation After FBI Search Gap Reveal
 publishedAt: "2026-02-20T18:14:21.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/20/new-mexico-epstein-zorro-ranch-investigation"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The New Mexico Department of Justice will reopen its criminal investigation into Jeffrey Epstein's Zorro Ranch after records revealed gaps in the FBI's original search."
 people:
   - jeffrey-epstein

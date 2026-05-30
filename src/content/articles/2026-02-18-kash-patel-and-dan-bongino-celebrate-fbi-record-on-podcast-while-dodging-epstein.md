@@ -3,6 +3,9 @@ title: "Kash Patel and Dan Bongino celebrate FBI record on podcast while dodging
 publishedAt: "2026-02-18T19:12:22.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/kash-patel-dan-bongino-interview-trump-podcast-b2923093.html"
+image: "/images/people/kash-patel.jpg"
+imageCaption: "Kash Patel"
+imageCredit: "Wikimedia Commons"
 summary: "FBI Director Kash Patel appeared on Dan Bongino's podcast on February 18, 2026, in a reunion between the current director and his former deputy, but the two did"
 people:
   - jeffrey-epstein

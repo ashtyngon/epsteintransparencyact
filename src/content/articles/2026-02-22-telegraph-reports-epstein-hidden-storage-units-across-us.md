@@ -3,6 +3,8 @@ title: "Telegraph Reports Epstein Hidden Storage Units Across US"
 publishedAt: "2026-02-22T22:29:00.000Z"
 source: "The Telegraph"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1B0RExZcWUtX19YV0NqLWFRTU1RSUV4TVRFNkF6Q2o5YVZZcFVzTUtYc3hqOExMUGZVekVEU0RPWnZqV1N3TVFjeHFnOEZIZERrRjZ4a0JvTGFnTUZCZkQxRFpadEdMYnFQUGZQaklONVg0bWsybVJ1R0NmY05zd2lzTzJlU3JWVjdQQVRDV1hRem9scXhMZGZFaXhqLUpuSDZNOXJQMHd2Nms?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Jeffrey Epstein maintained secret storage units across the United States containing unreleased evidence, according to a report by The Telegraph. The storage"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Trump DOJ Email Labels Epstein Death 'Murder,' Daily Beast Reports"
 publishedAt: "2026-02-23T20:50:00.000Z"
 source: "The Daily Beast"
 sourceUrl: "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNfdzFHUm02R3dnQ3BUQm5IakJ5ajh5cHV4YzI3MnF6a2k2bEw3bTBWNG5fR0poTEJKSDFLMGdFdTc0V0U3ejNzNFRRdjhSY2FMbDE0eUVYVm9GU3E0dW1ZaW9LMEUxZVpxSzlPSk51T1FlUjN1QXZZNUkzZUdJVUNjQThEdmVmQkpZOXZxeVRmYlRKTU9pZg?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "A Department of Justice email from the Trump administration surfaced referring to Jeffrey Epstein's death as a \"murder,\" according to The Daily Beast. The"
 people:
   - jeffrey-epstein

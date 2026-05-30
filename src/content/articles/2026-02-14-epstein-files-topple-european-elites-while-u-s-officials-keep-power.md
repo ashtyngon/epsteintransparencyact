@@ -3,6 +3,8 @@ title: "Epstein Files Topple European Elites While U.S. Officials Keep Power"
 publishedAt: "2026-02-14T23:04:44.000Z"
 source: "NPR"
 sourceUrl: "https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "European officials tied to Epstein have resigned or been forced out, while their American counterparts remain in power, exposing a transatlantic accountability gap."
 people:
   - david-rubenstein

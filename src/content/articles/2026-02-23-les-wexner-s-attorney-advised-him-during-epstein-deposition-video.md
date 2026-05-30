@@ -3,6 +3,8 @@ title: "Les Wexner's Attorney Advised Him During Epstein Deposition: Video"
 publishedAt: "2026-02-23T15:57:00.000Z"
 source: "The Columbus Dispatch"
 sourceUrl: "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcnhaSDVYWFYzWUhCRUZZalBVRjlTS19jUVJhTVNXOVBobUV2MzhXMTZveEdqd3JJTE4zR2NrMGpHd3c2Wm5HQkhIZWhRQ1dkOFNQRmlIcEo5bUN5dnhISk85MUw4Rm82Y0ZaLVJZZ1B2YzBTcmNfZnVQWmNteTFOY1FhU2Q4Mm9pR2dOWjYtdmthNXRRSG9FVVNneHNPU2xoVElfbTZ3VWNTVzA4Mm1WSDZfeHVtaWFlV0lZUS03T1Q3TDhoOWl1R1FHUzc2Mms3YkdTeFVyNko5VTE4ek9jbmpScGhMV3VT?oc=5"
+image: "/images/people/leslie-wexner.jpg"
+imageCaption: "Leslie Wexner"
 summary: "A newly surfaced video from a 2009 deposition shows Les Wexner, the billionaire founder of Victoria's Secret parent company L Brands, conferring with his"
 people:
   - leslie-wexner

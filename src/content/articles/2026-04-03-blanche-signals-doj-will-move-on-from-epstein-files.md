@@ -3,6 +3,8 @@ title: "Acting AG Blanche Signals DOJ Will 'Move On' From Epstein Files"
 publishedAt: "2026-04-03T18:00:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/regulation/court-battles/blanche-doj-epstein-files-move-on"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Newly installed Acting Attorney General Todd Blanche declared the DOJ is done releasing Epstein documents, claiming no pages remain. Critics say 2.5 million documents are still unreleased."
 people:
   - jeffrey-epstein

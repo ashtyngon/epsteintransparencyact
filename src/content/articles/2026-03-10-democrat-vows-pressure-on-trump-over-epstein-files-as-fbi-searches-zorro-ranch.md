@@ -3,6 +3,8 @@ title: "Democrat Vows Pressure on Trump Over Epstein Files as FBI Searches Zorro
 publishedAt: "2026-03-10T13:52:00.000Z"
 source: "The Independent"
 sourceUrl: "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXlpc1FPQnJWNjh3N0IxSlJMOWtmLWJGZnluY2V5RGQtX0o1TXZfcDdHUlFMV1FERXdhcUhOWm1UX3puZ3ViZ3lQdE9ITG1WUlFQNjZOcFQ4dFljSTVXdFAwdkUxSjQtR3g3Mk1ZR044SmRsNzdITHB2S3ZGWlNXWUpWM2poSkFYRFpNQjZCdXhSNjdiVjNwTWRNb3l6d2ttY3o4TUFpZkNsWkIy?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "A Democratic member of Congress said she will continue pushing the Trump administration for full disclosure of records related to Jeffrey Epstein as federal"
 people:
   - jeffrey-epstein

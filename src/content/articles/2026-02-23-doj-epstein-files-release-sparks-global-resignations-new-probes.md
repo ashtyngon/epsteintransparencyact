@@ -3,6 +3,8 @@ title: "DOJ Epstein Files Release Sparks Global Resignations, New Probes"
 publishedAt: "2026-02-23T10:00:00.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/politics/justice-department/epstein-files-fallout-resignations-firings-investigations-rcna259702"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The Justice Department's release of millions of files from its investigation into Jeffrey Epstein has triggered a wave of firings, resignations, and criminal"
 people:
   - jeffrey-epstein

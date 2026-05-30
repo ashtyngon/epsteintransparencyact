@@ -3,6 +3,9 @@ title: "Sarah Ferguson Enters Rehab Over Prince Andrew's Epstein Ties"
 publishedAt: "2026-02-22T19:15:00.000Z"
 source: "Page Six"
 sourceUrl: "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTU9jM09IQkFhTGxSaGNqa2czU1dYVzNyWU5XRnlYZ2xXYVRKWG9IWVdHUkpCcjZmVlJad1hXc2lJYkNrTnZocGNhT0lXdWFVOFJNXzBBazRnV0EwVGZfckRKZEd5V1NPWXV6cEVpRzF4YzZtZV84VWprbTlrNng4WmYyWU5BblRRYjFQWG1hTWpwblpYQUkxSnZqTmk0SFBXOUU2NnJDQW1lNjI3ODBnNm1oMzNKRHlVWm1NTjVaQ2s4NmIyazFFR0M1ZjhJYlgtazhGZmZmcTd2TkdPZ1ptLVJqTXU?oc=5"
+image: "/images/people/sarah-ferguson.jpg"
+imageCaption: "Sarah Ferguson"
+imageCredit: "Wikimedia Commons"
 summary: "Sarah Ferguson, Duchess of York, checked into a rehabilitation clinic in recent weeks, according to a report by Page Six. The outlet reported that Ferguson"
 people:
   - sarah-ferguson

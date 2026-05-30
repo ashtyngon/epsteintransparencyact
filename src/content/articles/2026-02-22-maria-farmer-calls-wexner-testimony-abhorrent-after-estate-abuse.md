@@ -3,6 +3,8 @@ title: "Maria Farmer Calls Wexner Testimony 'Abhorrent' After Estate Abuse"
 publishedAt: "2026-02-22T00:41:17.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/maria-farmer-epstein-survivor-leslie-wexner-b2925109.html"
+image: "/images/people/leslie-wexner.jpg"
+imageCaption: "Leslie Wexner"
 summary: "Maria Farmer, an Epstein survivor, has condemned testimony given by billionaire Leslie Wexner before the House Oversight Committee, calling his statements"
 people:
   - maria-farmer

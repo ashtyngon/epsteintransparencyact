@@ -3,6 +3,8 @@ title: "Democrats Skip State of Union, Invite Epstein Survivors in Protest"
 publishedAt: "2026-02-24T16:49:23.000Z"
 source: "1430wcmy.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmkzbTZBUHFfX08wX2NyMDVZb21odlRKRDI1NmUzalBtaWhScXRyc2RVM0M3SWxHRVVkUFFfTHZnMjFDTzVTZENJZS14M0JsbXY5RnppaDJQX294YzA4SGhNSGhldHQ4SktMRU5uYUlWcUVHQW8zaU1zRERmVklWSDBtU0FsZEhlYm9Ua0lOR2s5cHBvYnBRZmVuSnlkSmp0QThEN01SY2lhMGRfNHpmQ1VHYm1SalVjN1A0cEcwb19obVJKcEpZ?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Several Democratic members of Congress have invited survivors of Jeffrey Epstein's sex trafficking operation to attend President Donald Trump's State of the"
 people:
   - jeffrey-epstein

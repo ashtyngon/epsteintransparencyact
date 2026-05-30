@@ -3,6 +3,8 @@ title: "Prince Andrew Charged Taxpayers for Massages as Trade Envoy: Guardian"
 publishedAt: "2026-02-23T10:44:05.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/23/former-prince-andrew-mountbatten-windsor-charged-massages-taxpayers-uk-trade-envoy"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Former senior civil servants have reported that Andrew Mountbatten-Windsor charged British taxpayers for massage expenses and excessive travel costs during his"
 people:
   - prince-andrew

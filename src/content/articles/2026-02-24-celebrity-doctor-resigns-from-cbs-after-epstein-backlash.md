@@ -3,6 +3,8 @@ title: "Celebrity Doctor Resigns From CBS After Epstein Backlash"
 publishedAt: "2026-02-24T15:17:57.000Z"
 source: "AOL.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1I0VEl0VkgzOEtLb09DUTFqb0tZV3g3Q2JaMnV4d25zRlI3a2pOR3I1NG1Vb1UwbUl1Sm1uT3pZZWNQbWhxb1plenR5eGlfOTg4cU52SFUxUDA1YU9mMlpyNTFNcmdWWHFsaFhfYmNmeHMxaWh3ZTIzNFdMLXNtVE9KMVk0alU?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A celebrity doctor has resigned from a position at CBS following backlash over revelations in newly released court documents related to Jeffrey Epstein,"
 people:
   - jeffrey-epstein

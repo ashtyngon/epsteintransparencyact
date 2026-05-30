@@ -3,6 +3,8 @@ title: "Paris Police Raid Arab World Institute in Epstein Investigation"
 publishedAt: "2026-02-16T17:38:53.000Z"
 source: "Fox News"
 sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUkxanJwSVpBR0g5ZzdYODZ6YndCYVB5YjJwdi1vRy10bXZBREc4ekRaT19ydzE0bUxFb1E4Q0dsaC1lUDVPeEl5Nm5RbU1JNkJkQW13d3J6QWdLSk5wYm9vSE5tSXREbTVuZUExVlhqb0JGSzhtbzVVb1FFVDkyT2FKOThMcGtMM1ZWUjExYy1RS013Sm9yQXdyb19CLVBDY2R30gGoAUFVX3lxTE05MTYyN2cxS2RNWnpLTVdLRnJkalMtckJJU2ZGd3FpdVcwQVV1RXIxUU9hM3p6ZnNFMUp1NjZZZS1BYjBzd19ueV9jYXJ1UDRkWFVuZWhwN256Y3VLSDhhcXBkR1RuSm5ESUh5OWR4Q0hnNUJOWnBqUFBqZ3Flb196Z1BQWno1UEllRHpHdlBNaVJXYTc1T1ZfVTY2ZTVkaVlSbTVOaEpVQQ?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Paris police executed a raid on the Arab World Institute in connection with the expanding international investigation into Jeffrey Epstein's network, according "
 people:
   - jeffrey-epstein

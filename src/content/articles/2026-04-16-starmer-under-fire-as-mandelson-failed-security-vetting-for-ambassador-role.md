@@ -3,6 +3,8 @@ title: "Starmer Under Fire as Mandelson Failed Security Vetting for Ambassador R
 publishedAt: "2026-04-16T16:00:00.000Z"
 source: "Al Jazeera"
 sourceUrl: "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "UK Prime Minister Keir Starmer faces renewed pressure after reports that Peter Mandelson failed security vetting before becoming ambassador to Washington."
 people:
   - peter-mandelson

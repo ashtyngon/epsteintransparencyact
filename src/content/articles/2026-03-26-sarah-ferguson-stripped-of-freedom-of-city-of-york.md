@@ -3,6 +3,9 @@ title: "Sarah Ferguson Stripped of Freedom of City of York Over Epstein Ties"
 publishedAt: "2026-03-26T12:00:00.000Z"
 source: "ITV News"
 sourceUrl: "https://www.foxnews.com/entertainment/sarah-fergusons-fall-from-grace-deepens-york-strips-title-under-epstein-linked-scrutiny"
+image: "/images/people/sarah-ferguson.jpg"
+imageCaption: "Sarah Ferguson"
+imageCredit: "Wikimedia Commons"
 summary: "The City of York council voted unanimously to strip Sarah Ferguson of the Freedom of the City, a title she received as a wedding gift in the 1980s, citing her ties to Jeffrey Epstein."
 people:
   - sarah-ferguson

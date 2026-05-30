@@ -3,6 +3,8 @@ title: "Epstein Victims Invited to State of the Union by Democrats"
 publishedAt: "2026-02-24T21:30:46.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/24/us/politics/state-of-the-union-guest-list.html"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Democratic members of Congress have invited survivors of Jeffrey Epstein's abuse to attend President Donald Trump's State of the Union address on Tuesday"
 people:
   - jeffrey-epstein

@@ -3,6 +3,9 @@ title: "Steven Sinofsky's Undisclosed Epstein Ties From Microsoft Days"
 publishedAt: "2026-03-12T12:49:00.000Z"
 source: "Fortune"
 sourceUrl: "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjg5aFpVY2hFRzJ6S3RjS3JQNS1WUU9vSElYV1ZMSXRWanJlTkhJbDF2cmRzbVRHbmpUQWtfODBsS2dKaVpoSDVvRUhOS3JTckFTWnRDYjZyR24xX1dkT0IwZDVQSUNUQldjQVp4T3p3M1lQR0RFYjZLRkJHZVFteUNob25BekpNbmJOYlRiN0xUQXUtSGFIM2dmbGVwUGt1b1hvTGVDNEFmTkl4X2pKbkt3?oc=5"
+image: "/images/people/steven-sinofsky.jpg"
+imageCaption: "Steven Sinofsky"
+imageCredit: "Wikimedia Commons"
 summary: "A senior executive at venture capital firm Andreessen Horowitz had business dealings with convicted sex offender Jeffrey Epstein during his tenure at"
 people:
   - steven-sinofsky

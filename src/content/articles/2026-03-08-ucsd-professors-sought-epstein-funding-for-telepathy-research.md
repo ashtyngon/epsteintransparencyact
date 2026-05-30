@@ -3,6 +3,8 @@ title: "UCSD Professors Sought Epstein Funding for Telepathy Research"
 publishedAt: "2026-03-08T12:01:41.000Z"
 source: "San Diego Union-Tribune"
 sourceUrl: "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWFOeWFQVGRsd2xsX3RFRjlkb0dsYW5DQlJmaTJJVUFHQ1U1MGV3aTBiWmhwM3hiVGlpV25EUHBKUi1fMFVmQXg5b09Pbmg5X0RSMmNGbWp0UldsQnN6UVdDOV9NSk9aWlF1REtGTU1tajh3c0liNlRVZVB0ZllSYl9wR1BJenhnUXh2M3BsV2w0akd5ZFJwdmZQdGRDWU1sZFo2RXZOeWgxTmVVZ3pYV3U3eDNoeld0ZjFidVN4U0tsVGNGbTlSUG1n?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Two professors at the University of California, San Diego sought funding from Jeffrey Epstein to research telepathy and other unconventional scientific topics,"
 people:
   - jeffrey-epstein

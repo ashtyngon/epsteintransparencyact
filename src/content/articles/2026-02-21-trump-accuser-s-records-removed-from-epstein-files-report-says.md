@@ -3,6 +3,8 @@ title: "Trump Accuser's FBI Interview Records Removed From Epstein Files"
 publishedAt: "2026-02-21T22:08:09.000Z"
 source: "The New Republic"
 sourceUrl: "https://newrepublic.com/post/206765/department-justice-fbi-interviews-donald-trump-accuser-epstein"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "The DOJ removed FBI interview records of a woman who accused Donald Trump of sexual misconduct as a minor from the public Epstein files release, The New Republic reported."
 people:
   - donald-trump

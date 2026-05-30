@@ -3,6 +3,8 @@ title: "Bloomberg: Secret DEA Probe Examined Epstein Ketamine, Prostitution Ring
 publishedAt: "2026-03-06T14:00:07.000Z"
 source: "Bloomberg"
 sourceUrl: "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUFQOHl0OGZHZW9mLWlabEhsbDhjUTB3b1lQa21MbldoLTNDZlFUWmpXVUhEYVMteW1TS0QzcE5aVGVaX0VBWXgzRWhwZ2p0MEgtWGszV0RyZUEtU1lxY1ViZEN2MFBwSUEzWlUyS3lXODJrcnNTd2JaUXVqaE0zTmpsSWtSVWJRTFJLNGZSLUNjLW5OVW44UW0zTmM2LVB4VHhOSk9HWWQ3V0UyYnhqdE82azA?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "The Drug Enforcement Administration conducted a previously undisclosed investigation into Jeffrey Epstein that examined his alleged involvement with ketamine"
 people:
   - jeffrey-epstein

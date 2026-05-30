@@ -3,6 +3,8 @@ title: "Trump GOP Candidate's Family Bought Epstein's Abuse Ranch for $13.4M"
 publishedAt: "2026-02-16T16:55:18.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/16/epstein-ranch-new-mexico-purchase-republican-candidate"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Donald Huffines, a Texas GOP candidate for comptroller, confirmed his family purchased Epstein's Zorro Ranch for $13.4 million, a property tied to trafficking and abuse."
 people:
   - jeffrey-epstein

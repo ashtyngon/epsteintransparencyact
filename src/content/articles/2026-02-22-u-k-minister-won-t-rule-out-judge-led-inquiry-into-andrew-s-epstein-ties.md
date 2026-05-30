@@ -3,6 +3,8 @@ title: "U.K. Minister Won't Rule Out Judge-Led Inquiry Into Andrew's Epstein Tie
 publishedAt: "2026-02-22T16:07:24.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/uk-news/2026/feb/22/inquiry-into-former-prince-andrew-epstein-links-not-ruled-out-as-police-searches-continue"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Police continued searching Prince Andrew's former residence at Royal Lodge on the Windsor estate Sunday, while a U.K. government minister said a judge-led"
 people:
   - prince-andrew

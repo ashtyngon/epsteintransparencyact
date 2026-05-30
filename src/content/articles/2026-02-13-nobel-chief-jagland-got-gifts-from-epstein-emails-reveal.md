@@ -3,6 +3,8 @@ title: "Nobel Chief Jagland Got Gifts From Epstein, Emails Reveal"
 publishedAt: "2026-02-13T21:23:39.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/13/world/europe/norway-jagland-epstein.html"
+image: "/images/people/thorbjorn-jagland.webp"
+imageCaption: "Thorbjorn Jagland"
 summary: "Former Norwegian PM and Nobel Committee chair Thorbjorn Jagland received gifts from Jeffrey Epstein and promised influence in return, according to newly released emails."
 people:
   - jeffrey-epstein

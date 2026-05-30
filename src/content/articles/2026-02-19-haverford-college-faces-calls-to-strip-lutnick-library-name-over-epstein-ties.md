@@ -3,6 +3,8 @@ title: "Haverford College Faces Calls to Strip Lutnick Library Name Over Epstein
 publishedAt: "2026-02-19T20:44:51.000Z"
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/02/19/howard-lutnick-haverford-college-epstein-files"
+image: "/images/people/howard-lutnick.jpg"
+imageCaption: "Howard Lutnick"
 summary: "Students and alumni at Haverford College are calling for the removal of Commerce Secretary Howard Lutnick's name from the school's library following revelations"
 people:
   - howard-lutnick

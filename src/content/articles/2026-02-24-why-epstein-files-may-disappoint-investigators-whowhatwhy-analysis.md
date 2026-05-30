@@ -3,6 +3,8 @@ title: "Why Epstein Files May Disappoint Investigators: WhoWhatWhy Analysis"
 publishedAt: "2026-02-24T12:28:19.000Z"
 source: "WhoWhatWhy"
 sourceUrl: "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDN3N1JKUUhyN0JsU3NoRnRTX0djUnljS29McUd4LVRIZEVOX3R4Qm9oOExsUDBmX2t5S1E3emV2SXhaOTh2NkF6S1c3OGRIbWZ6NVFTbDQxdW1ZRVhWZXl4Yk04am0wQ3FyNHpfSzNqV0g5ODFqWGdlLUR6VGVmQl83WDhXWWVtR2ZXQVdSYTg4czJWaXc?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A media outlet has published an opinion piece expressing skepticism about the potential outcomes of the recently enacted Epstein Transparency Act, which"
 people:
   - jeffrey-epstein

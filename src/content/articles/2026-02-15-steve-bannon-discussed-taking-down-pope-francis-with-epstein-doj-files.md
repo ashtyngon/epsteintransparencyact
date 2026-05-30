@@ -3,6 +3,8 @@ title: "Steve Bannon Discussed 'Taking Down' Pope Francis With Epstein: DOJ File
 publishedAt: "2026-02-15T00:36:13.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/steve-bannon-pope-francis-epstein-files-b2920599.html"
+image: "/images/people/steve-bannon.jpg"
+imageCaption: "Steve Bannon"
 summary: "Steve Bannon messaged Jeffrey Epstein about plans to 'take down' Pope Francis in June 2019, one month before Epstein's arrest, according to newly released DOJ files."
 people:
   - steve-bannon

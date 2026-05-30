@@ -3,6 +3,8 @@ title: "Court Allows BofA Epstein Trafficking Lawsuit to Proceed"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "Courthouse News"
 sourceUrl: "https://www.courthousenews.com/bofa-and-epstein/"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 articleType: news
 summary: "A federal court ruled an Epstein victim can proceed with trafficking claims against Bank of America, alleging the bank ignored red flags and profited from his operation."
 people:

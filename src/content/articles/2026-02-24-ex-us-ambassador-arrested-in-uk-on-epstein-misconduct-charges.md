@@ -3,6 +3,8 @@ title: "Ex-US Ambassador Arrested in UK on Epstein Misconduct Charges"
 publishedAt: "2026-02-24T22:12:00.000Z"
 source: "LAist"
 sourceUrl: "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0d3UlBBNmdUNnROZTZOcFV1NjQ0NkcteFJGUjdpc1FLZnd4bGNFd2FRS19VanBEUEs3TjhCeGJVWXkxUmh2ejQ2QlpNODZIeGo1WU9ZWHpBcEVuNElZb1E1X1ZnWFdHQzI1bTFKZHpmTlRKTGxxQ29UajloWFlYVmZxRUFwY0VtZmNra2lkME01OXFPN19OM190ZXFOcEJVUzNCXw?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "British authorities have arrested Peter Mandelson, the United Kingdom's former ambassador to the United States, on suspicion of misconduct in public office"
 people:
   - jeffrey-epstein

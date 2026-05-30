@@ -3,6 +3,9 @@ title: "Jes Staley and Leon Black Named by Epstein Victims in FBI Interview Memo
 publishedAt: "2026-04-22T15:30:00.000Z"
 source: "CNN"
 sourceUrl: "https://www.cnn.com/2026/04/22/us/epstein-files-sex-trafficking-allegations-invs"
+image: "/images/people/jes-staley.jpg"
+imageCaption: "Jes Staley"
+imageCredit: "Wikimedia Commons"
 summary: "CNN's April 22 review of FBI interview memos identified specific allegations from Epstein victims against former Barclays CEO Jes Staley and Apollo billionaire Leon Black."
 people:
   - jes-staley

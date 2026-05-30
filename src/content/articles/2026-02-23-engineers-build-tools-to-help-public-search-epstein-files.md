@@ -3,6 +3,8 @@ title: "Engineers Build Tools to Help Public Search Epstein Files"
 publishedAt: "2026-02-23T11:12:37.000Z"
 source: "Fast Company"
 sourceUrl: "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6Ym52RWEyeFBocVoyeFpfcFJFazBFMVUxZHFTR3h1OGJ2NUh3WUs5VzlJOG5faGlLMkZXWEh0Q2hOeUVHN2ZkWmRYYTJfVXlENEFuTHhHdzZweU5RM2NhaG9PYkpIODVzczRPZ1FlUzU5Qnd4b2c?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A team of volunteer engineers has built a free online tool to help journalists and researchers search through thousands of pages of documents related to"
 people:
   - jeffrey-epstein

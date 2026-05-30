@@ -3,6 +3,8 @@ title: "Epstein's West Palm Beach Concierge Doctor: Inside Their Relationship"
 publishedAt: "2026-03-09T13:32:44.000Z"
 source: "Miami New Times"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2x1ZEZxbzViTWRhdjdkLTN1SzVkZEVhWDFWclU2Rnd3UFNpOTdFeEdIbWp6TlMwXzZMZGVfejBpVmFPV2FQS3FvQjV2ZTNHcF9aT3V3eFI2TGtRRGJxbGRDTnFXMDZvckZTaXNqOHNidU4xemp3OVdpQ0NvM0tjWG1FR0YtbHBtaFQ2TkFQUVAxekZ6WVRpTVVhM2lFUjM2VzlmbTVn?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A West Palm Beach concierge physician maintained a close professional relationship with Jeffrey Epstein during the final years of his life, according to newly"
 people:
   - jeffrey-epstein

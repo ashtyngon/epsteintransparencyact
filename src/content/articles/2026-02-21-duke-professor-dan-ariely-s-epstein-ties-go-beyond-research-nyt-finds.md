@@ -3,6 +3,9 @@ title: "Duke Professor Dan Ariely's Epstein Ties Go Beyond Research, NYT Finds"
 publishedAt: "2026-02-21T13:25:20.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/21/business/jeffrey-epstein-dan-ariely-dishonesty.html"
+image: "/images/people/dan-ariely.jpg"
+imageCaption: "Dan Ariely"
+imageCredit: "Wikimedia Commons"
 summary: "Dan Ariely, a Duke University behavioral scientist known for studying dishonesty, corresponded with convicted sex offender Jeffrey Epstein for years beyond academic research."
 people:
   - dan-ariely

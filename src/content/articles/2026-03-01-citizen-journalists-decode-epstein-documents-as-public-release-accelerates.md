@@ -3,6 +3,8 @@ title: "Citizen Journalists Decode Epstein Documents as Public Release Accelerat
 publishedAt: "2026-03-01T12:30:00.000Z"
 source: "Channel 3000"
 sourceUrl: "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbXpGc3FzbnZ5dWFxdUlERmE1UWNWVTlsT0FhNGlNN1NyMkhPMUtzWlVMcW1UVm1VbUpqTXJBcG9qUGppSWd6LWtRYlZhVVI5TkN4aEhzMjJBbkFZRG1lc1Ntek1SRWxST2lVQmtMZlprdDZpcXUzejFoTjNuMFJraVBBVThlU2tKeVR4Y0hSM2ZKOThSSEpCUUp1TFNsb2dZVXdWdVV1MFdGVmNSbjR2d0tZTzVOemFvS2g0YnhUcjFNMllnYTRJZGdhYTRQVDF1WnIzeTRTbHVvZHpoWDZMYl9XRHhWOUxPTWVXMXhtMFE0LUxsZEp4Ml9tLWFwWXpLbmFUamJOeDM3T2xZNy10bzZMeVhEUQ?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Independent researchers and online volunteers are playing an increasingly significant role in analyzing the growing volume of documents related to Jeffrey"
 people:
   - jeffrey-epstein

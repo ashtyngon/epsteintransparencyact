@@ -3,6 +3,8 @@ title: "Letter from the Editor: Outrage won’t rescue us from the Epstein abyss
 publishedAt: "2026-02-19T13:00:00.000Z"
 source: "MLive.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUHU1NWxsakI2UFBhQmJHVE5XamhOZG8yR2xzaVFYbkxsWFRYSXZENGxLYnJ3c3dERTlsRG1EUmJ4a05hODN1S3cxeGhMZVlfdDdQUTl4V3hHc0xMLXZwaVAzRmNhWEdSSWZpV2VmcE5aUFYzRUx1ZHRTS3FQSjBRTWZwWnVFbG85OGZCTVpOaHFFMFhpMFZnUUhOOFlBdDYwOFdLeGdZb0JvemxsWW42TC1MVHdleVVhd2RhQmpYVUpLbUhIS254MWQ3eXF4czhBNVVFNzNIQ1dFVTRnWnRV0gHzAUFVX3lxTFBic1RURlBDZjlCaVZTZUl2YngwNVFtV05pY3lTck9wREhKWUkwSVVhRkhOMGtON2tqeWdYd2xjTGE3TGVTR1g2RlpTWENoV21uRFVxLTVQTTd5ZTlCdUFURzJFRnJiQTczSUpOcVo1SVJWbDJpUW0xTEotNXNHYkFUUnBNRS1rNzFocmtBcHdQMzdLVC1wa2pudWZmd3VaTGstcWQ1SUl4ZmpXbHVKa3JYUDdRS0xrYW1VZEIyWWxZY3A0SndkN0gwTS1NdkJabG11dF84OWRaOHYtMDc3R29wVTN5ZVRPdXRsTzFlUFItcVpMNA?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A Michigan newspaper editor called for disclosure and accountability in the Epstein case in a letter published Thursday, arguing that public outrage alone will "
 people:
   - jeffrey-epstein

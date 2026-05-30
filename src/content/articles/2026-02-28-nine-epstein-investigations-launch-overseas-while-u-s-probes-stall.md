@@ -3,6 +3,8 @@ title: "Nine Epstein Investigations Launch Overseas While U.S. Probes Stall"
 publishedAt: "2026-02-28T13:00:00.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/politics/justice-department/overseas-epstein-investigations-multiply-america-not-much-rcna260827"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "International Response to Epstein Files Expands as Foreign Governments Launch Probes At least nine investigations have been initiated in eight countries and"
 people:
   - jeffrey-epstein

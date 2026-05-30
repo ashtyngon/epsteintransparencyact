@@ -3,6 +3,8 @@ title: "Rep. Mace Demands Unredacted Epstein Co-Conspirator Files"
 publishedAt: "2026-02-16T17:52:21.000Z"
 source: "WCIV"
 sourceUrl: "https://news.google.com/rss/articles/CBMipwJBVV95cUxPWXVSdjVMaWhYcW9PWHVEVHFaMlFnME1nUUJHWlhvREFNYWlPRDExbHkzeE5YQXBqT1Z5ME9qYlBUQ2ZoejBSN1ZiT1FBektSLUE4eXpZbFh0dERRUm1OTHRBdFFXMlpwNFFZOVhuRlUydHIxb016QWhpOHlZbWV3Wm5qLVFiSHQ3OGt3dVlsUnlKLXJSWVk2ODd5Mk8zSzdPUnpmU2Zvb3gxcXZYSno4MG01ZktxRVd4eTVTYVRmNjRQNDBOZEl1WVBhOW9Rb1BVY0ppamo3bjdxTjJjU1RwMFVVOU5JRmgtRlYxd21PWlUxWko4bzIwYWlDMUdfejFCR2YwSmZnZDJqeVJOVGhaeGI5OEo4Y1RzM2pVV2g5SGtuWHU1ZGlN?oc=5"
+image: "/images/people/nancy-mace.jpg"
+imageCaption: "Nancy Mace"
 summary: "Rep. Nancy Mace formally requested unredacted files on potential Epstein co-conspirators as new documents continued to reveal ties between powerful figures and the financier."
 people:
   - nancy-mace

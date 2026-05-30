@@ -3,6 +3,9 @@ title: "Bill Gates' Epstein Files Confession Called 'Most Humiliating': Slate"
 publishedAt: "2026-02-26T13:59:00.000Z"
 source: "Slate"
 sourceUrl: "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDdaMWJjdnc0azdkQ3c1aE5lQS00MmhwOWNlZ21UNFd1MlhYR1JTYk9BTlZOd2pHV3FZV1prTVlVQ05weG5DZVRxYkItZ1NEMWlIcFk0RjFETms0M3pUZWFXS0EwX0JEeEdJTC1mT0x5ZWp1aW1MeUItd0tYcjBZNjZZN0xobVJuc0FBWWpn?oc=5"
+image: "/images/people/bill-gates.jpg"
+imageCaption: "Bill Gates"
+imageCredit: "Wikimedia Commons"
 summary: "Bill Gates acknowledged in a recent interview that he hoped Jeffrey Epstein could help him secure a Nobel Peace Prize, according to a report by Slate. The"
 people:
   - bill-gates

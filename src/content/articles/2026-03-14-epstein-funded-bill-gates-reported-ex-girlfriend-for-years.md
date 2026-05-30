@@ -3,6 +3,9 @@ title: "Epstein Funded Bill Gates' Reported Ex-Girlfriend for Years"
 publishedAt: "2026-03-14T10:59:00.000Z"
 source: "Fortune"
 sourceUrl: "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcjVlV3Y0LW5zNHNGaU9CNHRiT01ENWVlZlFub1J2LW1KX3JZWl9PX3lfYnVRVDNyQS1SaDBRWTRjUFlPUm9oaXVIb1puTmFEdG9lQW9MME52clpFTkgtc0YyaWRyZ25nUU1wUzZ2LWREWnVLTnJkdlpmdWJYR2pvS1c3Z2RxMFpMejdtNlBQUW1Yb1hDNlJLVmdUekd1M29qVWFJXw?oc=5"
+image: "/images/people/bill-gates.jpg"
+imageCaption: "Bill Gates"
+imageCredit: "Wikimedia Commons"
 summary: "Jeffrey Epstein financially supported Ann Winblad, the businesswoman widely reported to have been Bill Gates' girlfriend before his marriage, for several years"
 people:
   - jeffrey-epstein

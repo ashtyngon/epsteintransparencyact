@@ -3,6 +3,8 @@ title: "UK Government Defers Prince Andrew Epstein Inquiry to Parliament"
 publishedAt: "2026-02-23T19:22:00.000Z"
 source: "The Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVhsUlZDdnhfd1J2amgzZ1czRnJRUmF3ajN5UmVPSG44WEUydnd2U0ZMUkhBWjRkOVJLbE95bVhyN0xBYUZBMDAxOU5IVk1lb0lTRkJlMmJYaTR1SVZ5SGQ0dWl5dzJSQnl4NEhhcXJoM3hQdUdFeFBhSzVzRmpxZURkM2RxdGR3RnIydHJrSzNRQk93NUd1ODBJd2E5cENkQUtjel9mRVpWeG1ERjBz?oc=5"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "The UK government has stated that any inquiry into Prince Andrew's connections to Jeffrey Epstein falls under the jurisdiction of Parliament, not the executive"
 people:
   - prince-andrew

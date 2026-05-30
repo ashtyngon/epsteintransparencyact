@@ -3,6 +3,8 @@ title: "Trump Claims Exoneration in Epstein Files Matter"
 publishedAt: "2026-02-18T11:39:05.000Z"
 source: "tyla.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVWY2RDBtRElaMndRSWpRZEM2b21kbkZjYWpnTEZRem45MEFIbVFNaXdRdlliNGJhYVBaazBwdTJSZnFoRGhtN1p1Qm8yZ0dCS0hrTHRUYVpDYllnYllvdjNFSHY1VE9JTmMwQlR4aHRwSGdKeXFHN3dXRzlwWS1BVWVLMWowZw?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "President Donald Trump stated he has been \"totally exonerated\" in connection with documents related to convicted sex offender Jeffrey Epstein, according to a re"
 people:
   - donald-trump

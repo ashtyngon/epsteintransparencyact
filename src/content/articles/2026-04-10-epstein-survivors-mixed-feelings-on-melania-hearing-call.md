@@ -3,6 +3,8 @@ title: "Epstein Survivors Have Mixed Feelings on Melania Trump's Hearing Call"
 publishedAt: "2026-04-10T14:00:00.000Z"
 source: "NPR"
 sourceUrl: "https://www.npr.org/2026/04/10/nx-s1-5780858/melania-trump-jeffrey-epstein"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "More than 15 Epstein survivors released a statement saying Melania Trump was shifting the burden onto survivors under politicized conditions, while attorney Gloria Allred expressed cautious support for hearings."
 people:
   - donald-trump

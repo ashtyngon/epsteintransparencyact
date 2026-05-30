@@ -3,6 +3,8 @@ title: "Bank of America Settles Suit Alleging It Aided Epstein's Crimes"
 publishedAt: "2026-03-17T12:31:06.000Z"
 source: "Rural Radio Network"
 sourceUrl: "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRDBjLUktZE5RTVBsQ0ZJNHpQWXlXVUtwLVNucERWS3ZsVzliZkZRSkhPc0xwQ3RmYmkzU2ZfWXVlYm96UEJYbWVSVkhBR3h6VTRZcHVqX3hjbHd5TC13bWRpbW82UG1sSmZCYVN1c0hXWTZlMFkzNy1wUXdtRFJBOHlZX2o2ZEpBWUZ4c1dIbDdwY2JnUHRDMHZtUDEtSjVzMlQydkRKbHh4WHhkX25oeGR5ZUt0QUpUdURlczVuR1dJMmF4NnVIcmZLUUpwdWJMN3p0VXQ2aVZuQVNoLUwxLS1nU0xFNmpfaURqY2hBcTJBMUFZ?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Bank of America has reached a proposed settlement in a lawsuit alleging the bank facilitated Jeffrey Epstein's sex trafficking operations, according to court"
 people:
   - jeffrey-epstein

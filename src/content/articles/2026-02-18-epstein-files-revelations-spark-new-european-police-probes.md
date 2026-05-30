@@ -3,6 +3,8 @@ title: "Epstein files revelations spark new European police probes"
 publishedAt: "2026-02-18T18:58:18.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/world/europe/paris-london-police-open-new-probes-epstein-files-rcna259513"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "European law enforcement has opened new criminal investigations following the Department of Justice's release of files related to Jeffrey Epstein, according to "
 people:
   - jeffrey-epstein

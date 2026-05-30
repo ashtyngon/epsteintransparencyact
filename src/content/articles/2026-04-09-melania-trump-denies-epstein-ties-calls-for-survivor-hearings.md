@@ -3,6 +3,8 @@ title: "Melania Trump Denies Epstein Ties, Calls for Survivor Hearings"
 publishedAt: "2026-04-09T18:00:00.000Z"
 source: "NPR"
 sourceUrl: "https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "First lady Melania Trump delivered a rare White House statement denying ties to Jeffrey Epstein and calling on Congress to hold public hearings with survivors."
 people:
   - donald-trump

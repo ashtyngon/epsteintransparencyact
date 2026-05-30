@@ -3,6 +3,8 @@ title: "Prince Andrew Photo Hung at Louvre in Epstein Protest"
 publishedAt: "2026-02-23T12:24:46.000Z"
 source: "RFI"
 sourceUrl: "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzhwQ19WOG1qc1BfTmc1N053TUJtQ3Jld1M5N19iQk5XU3d2T1FmeUhaYnNjMFpIcDZXbUJGak5id3NfeVVuTUh4VVpUQmItMUMtVDdxU2xKZnV0TXJVMjJnUWNUS2ZNV0VnMFprZXpSZnJ1OVFXV00ydkRDbVZieFQxYzFpTFk1QUQ0cU13SWh5RFhHTG1YUXdTNjlqUllYMWNINU1mVmxpaEZwOTJSQ0U4aUNOQUE3RHFSSA?oc=5"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Activists hung a large photograph of Prince Andrew inside the Louvre Museum in Paris to protest his alleged misconduct related to Jeffrey Epstein, according to"
 people:
   - prince-andrew

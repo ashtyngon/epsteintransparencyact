@@ -3,6 +3,8 @@ title: "Global Investigations Into Epstein's International Network Expand"
 publishedAt: "2026-02-16T14:46:58.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/europe/jeffrey-epstein-files-investigation-europe-b2916546.html"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Multiple countries have opened criminal investigations into individuals named in the Epstein files released by the Department of Justice, according to a review "
 people:
   - jeffrey-epstein

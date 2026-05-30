@@ -3,6 +3,8 @@ title: "Met Police Chief Demands Unredacted Epstein Files for Mandelson Probe"
 publishedAt: "2026-03-16T14:23:00.000Z"
 source: "The Independent"
 sourceUrl: "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMEFnR1BmUmJzaFlCUFJXR0tNRVJxVmt0SFh3QkJuXzZJc0c1NW9YUy1UZC04TnFubk42TkhKbVFWX042QTNsMGJ0b1ktOU1qWGpVLVdMTGY4d01pOEV5a284Z2xfSjAza0dqSzdhZDlGSXJUd05OekFaeDdCODMwQWhhMHlMcXRMamgxUEx6dU1OaU9obnphQ3QzdnJIUllsT1N2Z2ItOEJIcWUzVHRR?oc=5"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "Britain's most senior police official plans to travel to the United States to request unredacted versions of FBI documents concerning Peter Mandelson,"
 people:
   - jeffrey-epstein

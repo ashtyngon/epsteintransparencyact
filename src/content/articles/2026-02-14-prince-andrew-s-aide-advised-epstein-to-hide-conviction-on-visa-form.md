@@ -3,6 +3,8 @@ title: "Prince Andrew's Aide Advised Epstein to Hide Conviction on Visa Form"
 publishedAt: "2026-02-14T07:00:47.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/us-news/2026/feb/14/david-stern-jeffrey-epstein-hide-conviction-china-visa"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "A Prince Andrew associate advised Jeffrey Epstein to conceal his sex abuse conviction on a Chinese visa application, according to newly released DOJ documents."
 people:
   - prince-andrew

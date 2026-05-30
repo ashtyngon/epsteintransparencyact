@@ -3,6 +3,8 @@ title: "Why Academics Populate Epstein Files: Status Hunger, Not Just Money"
 publishedAt: "2026-02-20T13:00:12.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/commentisfree/2026/feb/20/epstein-files-professors-academics"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A university professor with more than two decades of experience at Harvard, Cornell and Cambridge said the recently released emails from Jeffrey Epstein's"
 people:
   - jeffrey-epstein

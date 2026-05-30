@@ -3,6 +3,8 @@ title: "British House of Lords Members Named in Epstein Files Face Pressure"
 publishedAt: "2026-02-18T23:07:21.000Z"
 source: "PBS NewsHour"
 sourceUrl: "https://www.pbs.org/newshour/world/the-epstein-files-rattle-the-age-old-foundations-of-britains-house-of-lords"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The release of Epstein-related documents has prompted scrutiny of British House of Lords members named in the files, raising questions about their connections."
 people:
   - jeffrey-epstein

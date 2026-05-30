@@ -3,6 +3,9 @@ title: "DOJ Files Reveal Deepak Chopra Messages With Epstein"
 publishedAt: "2026-02-23T14:10:00.000Z"
 source: "WION"
 sourceUrl: "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZld3SC1pei1zVmNhd09xUk1kdmF4OTRSNWhUR0xjVFU1RUR4eVNzS3F3WnprMjlXSzZsMnJTZ2lIQ2NDamJQV29idWMzQVNDNm5ZVFZPRHNsSWhEYllYNXBPejJaZi1NcUo1OTB6cmE4NGZ1THctdGhiczUzRG01V21NSUJpWktOUUtpRXRtR2t6dEVZT2d30gGcAUFVX3lxTE94RmFaaW1vbnBGQk5aSW9HTXI1UkdPcnYtbnZ2U0ZfU3h3Qkw3WTdaTmdENHJvbHB5TlVadnNKVGR0Y2lsOHZ6X0RnRzh4cDRmVmQwSlRIb0ZtOE0zS3Y4ZHo5U251bnRibU5jOEU0VGp6TjN2OUprdXdWOGFXMVZiQThGVWJ0aUVWWnI4LWh6UTJKelAxVUd5ZzVMRw?oc=5"
+image: "/images/people/deepak-chopra.jpg"
+imageCaption: "Deepak Chopra"
+imageCredit: "Wikimedia Commons"
 summary: "Messages between alternative medicine advocate Deepak Chopra and Jeffrey Epstein have surfaced in newly released Department of Justice files, according to"
 people:
   - jeffrey-epstein

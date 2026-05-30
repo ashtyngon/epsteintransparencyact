@@ -3,6 +3,8 @@ title: "No New U.S. Charges After Latest Epstein Files Release"
 publishedAt: "2026-02-19T16:15:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/video/no-new-charges-in-the-us-yet-after-latest-epstein-files-release/"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "No new criminal charges have emerged in the United States following the Justice Department's latest release of Epstein-related documents, according to CBS News."
 people:
   - prince-andrew

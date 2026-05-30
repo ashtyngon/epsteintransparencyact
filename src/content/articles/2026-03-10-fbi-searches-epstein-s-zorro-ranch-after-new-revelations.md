@@ -3,6 +3,8 @@ title: "FBI Searches Epstein's Zorro Ranch After New Revelations"
 publishedAt: "2026-03-10T13:13:13.000Z"
 source: "CBS News"
 sourceUrl: "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmhxX1dDY0lNSTByWHFsTVY5Ukp5OWIwTlhaeW9XYlVKa1c0aEhLclBVc2JTaGRvd3RuN1BuWUJPNTROMkk4RVFXczloVDRCaVF2VUQwcmN0bDBxa0xCMHFmck5LZXNfeV9HQmRNUFJ1Mi16dDFQcG1RcV9pRVZmMUJWYmZIdlhkU1FldF9NVjBTUDJSdmtyVjQyVFJFV0FabExkcFh1VEl1TzMxR2c2MXVBYWdoT1NZSXpiRFhNQXFNNDM4elc3dVRMQdIB0AFBVV95cUxNclRsTTJGUXhoZFlwRmVNeXJjN1gwdGluemtJZ2xWd19QUWE0Y01qMFlEaVFVWlNRcEUxY1hXajVzRE9UOEw1RzIzeHRKOU1aNFhJRzFuMFZSVjl1RzVsWUNyMFdFRE1tZEZ0Q2F0NFpnUVdDUkZwQ0Y1Qmg2Y2V3TzZ3cjhRUGpzLWF6MXRaWTFzUUZFTGZJWTFQS29IZzFKWG85REVMM3QtX1ZoQXlyRjhkQ1JKRmdXTG5FejRjLTBMQWY3bTBXZEt5UTdPXzRn?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Law enforcement authorities in New Mexico have conducted a search of Jeffrey Epstein's former Zorro Ranch following revelations contained in recently released"
 people:
   - jeffrey-epstein

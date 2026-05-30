@@ -3,6 +3,8 @@ title: "Rep. Mace: Epstein Files Reveal 'Much Bigger' Criminal Network"
 publishedAt: "2026-02-24T17:00:00.000Z"
 source: "The Hill"
 sourceUrl: "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVN2c0Ewc0ozQlFmN1B0V2U1R0hwd0VhWHN2QjNYNGpTb0JPWk14LWY5NlBXNUtJY3JDMDZETEQyRVpfSFhOdkQ2UWJqVDZNcnNUZkxvdVhUVVk3Si1fSDFlRVVzQ1Ntbll5X2JKYVJadzU1dUtZZFd1aC1zRllDM3J1VUlVUnPSAYwBQVVfeXFMT2EwWkw1S1dITk5JNUNTNkVlU0VTYUdwY3VFR2dmN0szRlp0TkdOTDM1b0pfX2RHWnplNGNYWklWdUNINGdtNnVGMUVhVVpNdFFpeUlKX0Z4dmoySzhjTnZWYzJ2WHRvaWJQTGxabXVMSFJ4UmNNbWw3QnZhNFdyWkRzVnZFVjVDNVBjU3c?oc=5"
+image: "/images/people/nancy-mace.jpg"
+imageCaption: "Nancy Mace"
 summary: "Rep. Nancy Mace R-S.C. said the Jeffrey Epstein case involves more than sex crimes, describing it as part of a larger pattern of misconduct during a recent"
 people:
   - nancy-mace

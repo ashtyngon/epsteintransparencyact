@@ -3,6 +3,8 @@ title: "Lawmaker Names 6 Men Hidden in Epstein Files Despite Transparency Act"
 publishedAt: "2026-02-14T03:41:31.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men/"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Rep. Thomas Massie named six men hidden in redacted Epstein files from the House floor, using constitutional immunity to bypass DOJ secrecy on the documents."
 people:
   - ro-khanna

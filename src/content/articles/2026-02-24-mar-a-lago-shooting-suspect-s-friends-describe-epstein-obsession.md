@@ -3,6 +3,8 @@ title: "Mar-a-Lago Shooting Suspect's Friends Describe Epstein Obsession"
 publishedAt: "2026-02-24T00:11:27.000Z"
 source: "Salon.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUFKVFF6alVtdlIySENMTWYzLVhXbTk0MXpuSW5UTGgtZ3FwdDdpZ1BGRTFjTXJGemJXdWVaQkQtUkR5WVREM2l5LUlrejZ6aUlyV0ZMcnY0cmlLRFpHdl9xQWk2MFF3cmtvLWhpUDVBQko2WWRlNGxNd0tLcjZXR2w5d2s0dVJJaDEwOGNlSFRiRmlScXhyaVFKYUZSSWtuVlhkbjFmWk5Wdm9JOU1UNmV1WHpXUERkSHJSV3FDd3U?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Friends and family of Jonathan Lee Riches, the man shot and killed by Secret Service agents after breaching security at Mar-a-Lago on January 28, say he had"
 people:
   - jeffrey-epstein

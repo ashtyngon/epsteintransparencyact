@@ -3,6 +3,8 @@ title: "U.S. Epstein Files Handling 'Unjust and Threatening' to Victims"
 publishedAt: "2026-03-06T13:33:16.000Z"
 source: "the Southerner Online"
 sourceUrl: "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1dvbThzcnkyQnBlV3pGUjF6VEZqcnJQaHVPSjhUeUVOOEZVTFd1SFV2MVNZcGhRZm1OVWlnTGF5c2xOOHVUSWVISEVOODUyQ2lxbUk5ejBtUF9QWUEwSlZKY1c2cjBGWks2enVhWWwxelpLbTNkMmw2Q2s1LUcxM2dBZUV1bWdGdjZwcUxRNVlGczR6MTR2czZxb2syeTJFYURWYUo3MEZGRzkzbDJyZ01EMnZDM2Jm?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The Southerner Online, a student publication, published an opinion piece criticizing the U.S. government's handling of documents related to Jeffrey Epstein,"
 people:
   - jeffrey-epstein

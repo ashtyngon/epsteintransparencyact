@@ -3,6 +3,8 @@ title: "Tinubu Not in Epstein Files, Africa Check Confirms"
 publishedAt: "2026-02-20T09:03:08.000Z"
 source: "Africa Check"
 sourceUrl: "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNW9seHk3Ulc0N2Z6S1ZXV0JzU1g0cHRwbkVqYXJuQWp0NGtBaEFJYWlseVBWdldvTXNhNXZ1d0paQXlJSWNHODZPRGpUaTNVbmhrOVlrcG5feFhFWm1Ib1V0MUlYMF85VmhDQ2gtMm0wNFRPQ1k0ajlCaTVYM3AwWnY4czMyVGxjU1RLVkY3eUIzMk0wSXlYbE1BWHJBNTdXajMxR2JyQTJBazRwaVhON2VqcEl2TVM5UmlSclZqNlI?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A fact-checking organization has debunked claims circulating online that Nigerian President Bola Tinubu appears in documents released as part of the Jeffrey"
 people:
   - jeffrey-epstein

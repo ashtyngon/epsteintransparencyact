@@ -3,6 +3,8 @@ title: "Lawyers Search for Epstein Survivors Eligible for Bank of America Settle
 publishedAt: "2026-04-03T12:00:00.000Z"
 source: "Al Jazeera"
 sourceUrl: "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Following Bank of America's $72.5 million settlement, lawyers launched a search for eligible Epstein survivors. The bank is the third major financial institution to settle."
 people:
   - jeffrey-epstein

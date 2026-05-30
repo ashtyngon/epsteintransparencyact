@@ -3,6 +3,9 @@ title: "Richard Kahn: What Epstein Files Reveal About His Accountant"
 publishedAt: "2026-02-23T21:13:26.000Z"
 source: "NewsNation"
 sourceUrl: "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGxWSFEzY3k0akhYY21NTmZYbkE4WEFWMHFvai1ycWdIU25MTDZOWG81NEhvZEwwVjVBTEN5c2xyOGthbmxNOUVxZmVwZlNxV2dBQTdZcHQyOVVtSlVFS3F0T0JYc0VuTHR5SndDOGdNQk9oU1B5MlZJZFJQNXRfMzZlZ9IBiAFBVV95cUxPbWx1Vk9WOElQS1NHc05IbTJrMWNPVkVSUTJhLUlOZEtPY3huekd0bU81Rmc0YUh3ZDh1UERmYnE5QWhwQXVHbWF3ZUZxMF9TSE5kdlJyUWN3cGZrVVphTE9DMlB2QUQ3cmZ6VEZKM1VFbG1nZm5kc3NkaFFyWURITjg5eVFLTUFU?oc=5"
+image: "/images/people/richard-kahn.jpg"
+imageCaption: "Richard Kahn"
+imageCredit: "Wikimedia Commons"
 summary: "Richard Kahn, Jeffrey Epstein's longtime accountant, appears frequently in court documents related to the late financier's estate and legal proceedings,"
 people:
   - jeffrey-epstein

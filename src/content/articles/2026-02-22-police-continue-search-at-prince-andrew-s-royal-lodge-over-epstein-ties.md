@@ -3,6 +3,8 @@ title: "Police Continue Search at Prince Andrew's Royal Lodge Over Epstein Ties"
 publishedAt: "2026-02-22T12:55:15.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/politics/live/2026/feb/22/uk-education-ehcp-attainment-schools-andrew-latest-news-updates"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Conservative Education Spokesperson Addresses Prince Andrew Succession Bill Priti Patel, the Conservative Party's education spokesperson, said her party would"
 people:
   - prince-andrew

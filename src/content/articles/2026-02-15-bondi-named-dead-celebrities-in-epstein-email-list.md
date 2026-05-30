@@ -3,6 +3,8 @@ title: "Bondi Named Dead Celebrities in Epstein Email List"
 publishedAt: "2026-02-15T16:43:00.000Z"
 source: "The Daily Beast"
 sourceUrl: "https://www.thedailybeast.com/bondi-blasted-for-putting-long-dead-celebs-on-epstein-emails-list/"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "AG Pam Bondi released a DOJ list of Epstein email contacts that included deceased celebrities, drawing criticism from members of Congress over lack of vetting."
 people:
   - pam-bondi

@@ -3,6 +3,8 @@ title: "DOJ Memo: Epstein Accusers Had Credibility Issues, Past Arrests"
 publishedAt: "2026-03-06T13:19:00.000Z"
 source: "New York Post"
 sourceUrl: "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU1dJYUZfWWtHNExyLTdHYkt4Yzd5V2xBS3p0WC01Um1CSHphWFVHYjNCc3hUSFpRVVEzWGdIYmpCRGVHQ2dwWjRkZUVKRVNEMW5HQjM0Y2xXQXdURWhUaDltbHlzTDZTWnV6cE5wN1dZUmJnVWZ0NlNITXVHaTNfejhtTllhTE50U3Nad0JlWG5zMzlnM0E1Z0NOLTVaRUQ2RnZ6aDlLcWVFYk85N0RXaG83X1BsSjM3d2lEanc2M280bTkyWVFhc0lUa1ktTDQwSmZzRFNSNGs3QURmTmNRVg?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A newly released Department of Justice memo details what prosecutors described as \"credibility challenges\" among women who accused Jeffrey Epstein of sexual"
 people:
   - jeffrey-epstein

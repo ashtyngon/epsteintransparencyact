@@ -3,6 +3,8 @@ title: "Epstein Used Nobel Prize Access to Lure Elite Network, Files Show"
 publishedAt: "2026-02-14T13:06:59.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/jeffrey-epstein-steve-bannon-norway-donald-trump-larry-summers-b2920430.html"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Jeffrey Epstein leveraged his ties to the Nobel Peace Prize committee chairman to recruit elite contacts, using institutional prestige to expand his network."
 people:
   - jeffrey-epstein

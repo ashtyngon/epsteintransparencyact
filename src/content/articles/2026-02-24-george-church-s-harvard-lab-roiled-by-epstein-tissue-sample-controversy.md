@@ -3,6 +3,9 @@ title: "George Church's Harvard Lab Roiled by Epstein Tissue Sample Controversy"
 publishedAt: "2026-02-24T09:32:50.000Z"
 source: "statnews.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0hUUnNRWUhzcElvTWQ3SUZOTGEwMm9KRFlrNjBtbF9nOEUzSnJXU0tSU3EwSElMbVRXd1JXNThfS3FwLXFwbkdJSGVrWG5acjdfODVDRC1wTFlLdi1LSjBzNDA5M09Ca3pNbFFkYTYwMHhoXzdCdDR6VHNucHhlbkFVQURJdHM3NzBUZDE4QXZPMlJlR2dBSHRyTFhid0dQTWc?oc=5"
+image: "/images/people/george-church.jpg"
+imageCaption: "George Church"
+imageCredit: "Wikimedia Commons"
 summary: "A furor erupted in the Harvard laboratory of geneticist George Church after it was revealed that tissue samples from Jeffrey Epstein were present in the lab,"
 people:
   - jeffrey-epstein

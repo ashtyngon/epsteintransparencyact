@@ -3,6 +3,8 @@ title: "Bill Clinton Scheduled for Deposition in Epstein Probe"
 publishedAt: "2026-02-27T14:12:58.000Z"
 source: "Sports Radio 93.3 KJR"
 sourceUrl: "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM21pNk1lN3A0YkFfcTRnQlRzbnI2WFBKdzhCdTVTRm9kb3JpQ2lDRGhpUHhZTldkaTRwcVhQLXVSTy1INXEtckRqYktmUGxvNDdFMXhLR3ZsYXF5VXFEeUs1d3FjdS1oSjZheUhrSzd4QmVYdGx5dWZoM2VzcG04QjRaVXpFVnFaRzJMRm9vTXFqMWo4Z1VmUGl3?oc=5"
+image: "/images/people/bill-clinton.jpg"
+imageCaption: "Bill Clinton"
 summary: "Bill Clinton Gives Closed-Door Deposition in House Epstein Investigation Former President Bill Clinton testified Friday before the House Oversight and"
 people:
   - bill-clinton

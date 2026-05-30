@@ -3,6 +3,8 @@ title: "Epstein Survivors Attend Trump's SOTU: Who Invited Them"
 publishedAt: "2026-02-24T02:43:00.000Z"
 source: "Newsweek"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjhtSzlTZXduQlZYOGRiY0hJSGNoeThTSmxLWFpzb3VRdkZwcDc3eWMydFVzWkI0MzNjNWJza21heTlLR3BzaFdzSmRlMVFlZV9DV3I4M1c1eFBIUzc1TmhlQnRRdFg5S2UydGtwTWowN2FULUVMSmUteGhRdnRmOTM4YjBvbXFERjFEZWlsY2VpbTlxckg4aVhYbzE5a2pmMTV2TkpUcWZyUQ?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "Several survivors of Jeffrey Epstein's abuse will attend President Donald Trump's State of the Union address on Tuesday as guests of Republican members of"
 people:
   - jeffrey-epstein

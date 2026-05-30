@@ -3,6 +3,8 @@ title: "Lutnick's Years-Long Business Ties to Epstein Exposed in Files"
 publishedAt: "2026-02-23T15:18:06.000Z"
 source: "Mother Jones"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0JDbERjc05xQ0RlR2QwbmI3TzN4VUNJakJ0bEl6NGJySzNnSFhHR1ZuN3RacDNsWHVpV19CM1VRbnJtamo0Zm5fZElaRUgtdFZYN0NFanFtbU1VZFBzcnZDanhnakhvd0lNTFVsRWM1OHk2ek1ZelpYejZkM0V3dThhX040U0lNWVEwR0tEdzFXQ01fVk9uUEljQWpLQVZaMVVpOUdyOTBpdw?oc=5"
+image: "/images/people/howard-lutnick.jpg"
+imageCaption: "Howard Lutnick"
 summary: "Howard Lutnick, the Commerce Secretary, maintained a business relationship with Jeffrey Epstein that lasted years and involved Epstein's financial interest in"
 people:
   - jeffrey-epstein

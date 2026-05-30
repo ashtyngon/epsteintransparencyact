@@ -3,6 +3,8 @@ title: "USA Today: Congress Must Act to Stop Pam Bondi's Epstein Cover-Up"
 publishedAt: "2026-03-08T09:01:00.000Z"
 source: "USA Today"
 sourceUrl: "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXc0dndEZDRwb1JVZzU1bzhXdEM5Wk5VWW5BZTlRcVdfS0RFT1p6R2VsdTRUMjF6VkhBb2ZJMU9GczRxQmdLY1JjWDZyMHZYTDduZ19OUGY0Tjk2QWhmMW9wSFB0SGZKODdYcFZQNi1sMGE5ZHJlYjZJTDNRNDBsQllzMjJTRFN1UmJoMEx5U0o4ckplZTltNU5Ia3R0M0I0WkJXN1NyVWV2R3ZHOTZubWRKNEJ0X0UzR0RibQ?oc=5"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "A USA Today opinion piece published Sunday called on Congress to act in response to what the author characterized as Attorney General Pam Bondi's handling of"
 people:
   - pam-bondi

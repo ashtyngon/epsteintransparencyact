@@ -3,6 +3,9 @@ title: "Peter Attia Steps Down from CBS News Over Epstein Emails"
 publishedAt: "2026-02-23T20:43:04.000Z"
 source: "Reuters"
 sourceUrl: "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2VtcXRSVzY3d05fTzZfLVRBa3JydXlzT0V2TGNmY2IxbXFzdFMwVzhxRWp2OUFISnphNkhfTHlsbjdYemRhd2lYMF9RN183VHFDV0NPZkNMdnVXMlZYSG1NMV9RNG5PaGtCY1hhREY0dlpibjN5alVmaE5fQXQxaGJkNkk5OTdFdzRSRjYtOFI2a2VxaTQtOFRHSFJNMEU2WnFYaHB5c21BQnNpMXJ2V3l5UVJaOEpucmNVZ082QkZEd2p4ODU2NHk4Q0hBQQ?oc=5"
+image: "/images/people/peter-attia.jpg"
+imageCaption: "Dr. Peter Attia"
+imageCredit: "Wikimedia Commons"
 summary: "Longevity expert Peter Attia has stepped aside from his role at CBS News following the emergence of emails connecting him to Jeffrey Epstein, according to"
 people:
   - peter-attia

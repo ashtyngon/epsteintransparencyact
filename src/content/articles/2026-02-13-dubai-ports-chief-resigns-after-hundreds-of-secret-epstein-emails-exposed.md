@@ -4,6 +4,8 @@ publishedAt: 2026-02-13T12:00:00.000Z
 source: "BBC News"
 articleType: news
 sourceUrl: "https://www.bbc.com/news/news/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "DP World CEO Sultan Ahmed bin Sulayem resigned after his name appeared 4,700-plus times in newly released Epstein files, marking a major corporate casualty of the document release."
 people:
   - sultan-ahmed-bin-sulayem

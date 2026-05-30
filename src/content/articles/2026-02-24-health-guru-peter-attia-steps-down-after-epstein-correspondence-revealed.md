@@ -3,6 +3,9 @@ title: "Health Guru Peter Attia Steps Down After Epstein Correspondence Revealed
 publishedAt: "2026-02-24T00:07:22.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/peter-attia-cbs-bari-weiss-epstein-emails-b2926145.html"
+image: "/images/people/peter-attia.jpg"
+imageCaption: "Dr. Peter Attia"
+imageCredit: "Wikimedia Commons"
 summary: "Peter Attia, a physician and health podcaster, has stepped down from his role at CBS News after correspondence between him and Jeffrey Epstein became public,"
 people:
   - peter-attia

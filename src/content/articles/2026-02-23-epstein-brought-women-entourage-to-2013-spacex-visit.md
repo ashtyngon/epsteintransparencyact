@@ -3,6 +3,8 @@ title: "Epstein Brought Women Entourage to 2013 SpaceX Visit"
 publishedAt: "2026-02-23T18:07:54.000Z"
 source: "The Mercury News"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxONnc0WmYycGoxMHF5OGl1YVBPVlRnYXRSSS1EUDN4Qi0wNUh2bnVlaXo4eENhdkV5XzdzaTBLaVNsZ1hsUko1MWg3WTdlNDVjaERPTVpPU1RfcmtnQWY0dmVJaG05akFpZU9mNVJLYVdBLXdXTWl3ZTFqRkxLZDVPTHI0aWNza09ISmlfMWZGWFlYSE9Kc2ZpQ2c5RlRrdDNwd2lHLV9n0gGrAUFVX3lxTFBzNi1EcWtlTWJKOExKUUpacVlVN1ZSOU84THFaT3Z3WG9rU0JSZEpjM0xGcjc0dFBmUFJyRWRXMzJRcndfTkVlaFhwaElJN2x4eFgtQk5OWXpEYnpLQTJNcy1ocldHRnlFWnRaYm1FdFJsUTNqd3pEY2ZSeFhKLXQ3c3NpY2R3MXd4ZGcwVDdObjRrdVdPdGdEQVd5QVlkQVh3TzFqXzhZYi1MUQ?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Jeffrey Epstein attempted to bring multiple women with him during a planned 2013 visit to SpaceX headquarters, according to a new report. The Mercury News"
 people:
   - jeffrey-epstein

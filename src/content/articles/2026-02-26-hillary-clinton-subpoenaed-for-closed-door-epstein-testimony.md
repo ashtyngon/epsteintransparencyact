@@ -3,6 +3,9 @@ title: "Hillary Clinton Subpoenaed for Closed-Door Epstein Testimony"
 publishedAt: "2026-02-26T14:20:38.000Z"
 source: "France 24"
 sourceUrl: "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzhqaUt4WTgzQi1LQmJYdmNmei16X051bnIzd0dlUHhKV29JWEJBcElaV3N5Si0xVzhpZFpzcnNTMTBYUXotRVQxNUN5M2dqRGJIOGppaWJkQmVoUklFQldpekhKczdJbTNBUlpjNkR0RFVhaGw1Mms4Qm56NVFvbXVLSXVPaDdVYUQxZl9nYzc5RzBRWU0tbFBKaFIyTFhSal92VFQ1QnQ4U3pDbUdLLUlxNWcyTEd0WjhwQmcxZ1g3UGc?oc=5"
+image: "/images/people/hillary-clinton.jpg"
+imageCaption: "Hillary Clinton"
+imageCredit: "Wikimedia Commons"
 summary: "Hillary Clinton is scheduled to testify Thursday before the House Oversight Committee regarding connections to Jeffrey Epstein, with Bill Clinton set to appear"
 people:
   - hillary-clinton

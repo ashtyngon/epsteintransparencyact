@@ -3,6 +3,8 @@ title: "Ohio Politicians Received Campaign Funds From Wexner"
 publishedAt: "2026-02-14T05:29:52.000Z"
 source: "WFMJ"
 sourceUrl: "https://www.wfmj.com/story/53436751/ohio-politicians-received-campaign-funds-from-wexner-epstein-coconspirator"
+image: "/images/people/leslie-wexner.jpg"
+imageCaption: "Leslie Wexner"
 summary: "Ohio politicians received campaign contributions from Leslie Wexner, Epstein's only confirmed financial client who was subpoenaed by Congress and labeled a co-conspirator."
 people:
   - leslie-wexner

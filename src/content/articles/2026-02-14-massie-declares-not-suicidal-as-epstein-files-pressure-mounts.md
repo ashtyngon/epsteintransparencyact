@@ -3,6 +3,8 @@ title: "Massie Declares 'I Am Not Suicidal' as Epstein Files Pressure Mounts"
 publishedAt: "2026-02-14T19:00:00.000Z"
 source: "Mediaite"
 sourceUrl: "https://www.mediaite.com/online/thomas-massie-posts-grim-tweet-saying-hes-not-suicidal-amid-trump-epstein-files-fracas/"
+image: "/images/people/thomas-massie.jpg"
+imageCaption: "Thomas Massie"
 summary: "Rep. Thomas Massie publicly warned he has no health issues and is 'not suicidal' after his push for unredacted Epstein files led to the ouster of DP World's CEO and threatened powerful figures worldwide."
 people:
   - thomas-massie

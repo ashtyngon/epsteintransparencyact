@@ -3,6 +3,8 @@ title: "Forbes Billionaires List Includes Multiple Epstein File Associates"
 publishedAt: "2026-03-15T11:00:00.000Z"
 source: "New York Post"
 sourceUrl: "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnVraE9CY1hNWVhqV09LN0k4MjdIUlE0RGpXMWhpUVJzWHJMVzdVa3A1NXMwdlZfRDZiS3VFM1BHTS1kRlRWbkR3Wk5oY1E2TUFKWW1uczNBemRENTNpcVBqUlloUUR6YXhaUXlpUGladUh4Vjg3MENpVFlyV3dld2w3V1J0elRUN2o3RmVjMUFjV19JZnNqeGpmNkI0SkFfUmF0M2xYVXVjRXBEdS1wRzNhc3gzSlRHRGNhU093QzVTc3VyeHhXR0d4MnM?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Several billionaires named in documents related to Jeffrey Epstein appear on Forbes' 40th annual World's Billionaires list, published in March 2025, according"
 people:
   - jeffrey-epstein

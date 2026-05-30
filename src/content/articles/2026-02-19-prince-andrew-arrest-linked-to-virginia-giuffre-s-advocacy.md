@@ -3,6 +3,8 @@ title: "Prince Andrew Arrest Linked to Virginia Giuffre's Advocacy"
 publishedAt: "2026-02-19T21:45:50.000Z"
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/02/19/prince-andrew-virginia-giuffre-epstein"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Andrew Mountbatten-Windsor's arrest on Thursday has drawn renewed attention to Virginia Giuffre, whose civil lawsuit against the former prince helped establish"
 people:
   - prince-andrew

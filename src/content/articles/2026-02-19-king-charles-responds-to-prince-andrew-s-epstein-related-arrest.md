@@ -3,6 +3,8 @@ title: "King Charles Responds to Prince Andrew's Epstein-Related Arrest"
 publishedAt: "2026-02-19T13:20:00.000Z"
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/video/king-charles-reacts-after-former-prince-andrews-stunning-arrest-on-his-66th-birthday/"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "King Charles III responded to the arrest of his brother Prince Andrew by saying 'the law must take its course,' signaling the Palace will not interfere with the legal process following Andrew's detention on suspicion of misconduct in public office."
 people:
   - prince-andrew

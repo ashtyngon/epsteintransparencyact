@@ -3,6 +3,8 @@ title: "Arte.tv Documentary: Epstein Files—Power, Money, Human Trafficking"
 publishedAt: "2026-03-04T13:20:44.000Z"
 source: "Arte.tv"
 sourceUrl: "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DYk8tOUZRd05wbUZkeUllbE1DVGRjOVk2Y01KekxuNVR6VTk3Ym13Y285NkFjclZDQ0ViUW12NE13c1RSMVp4OVA1TU10OEs5a3pud20zM0FDeE4zSXUyb3ZUd0FkWm96?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A documentary exploring Jeffrey Epstein's criminal network and its international dimensions is now available for streaming on Arte.tv, the Franco-German public"
 people:
   - jeffrey-epstein

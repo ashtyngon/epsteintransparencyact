@@ -3,6 +3,8 @@ title: "School Districts Sever Lifetouch Ties Over Epstein-Black Revelations"
 publishedAt: "2026-02-18T17:35:37.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/tech/internet/epstein-files-lifetouch-jeffrey-leon-black-names-people-school-rcna259348"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Multiple school districts have ended contracts with Lifetouch, the school photography company, following social media attention to connections between the firm'"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "60% of Americans to Vote Based on Epstein Files Stance: NOW Poll"
 publishedAt: "2026-03-10T13:55:25.000Z"
 source: "National Organization for Women"
 sourceUrl: "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclRVNlpOeEp6d3djRV9IbzI1UkJwUlc2blI2UnpMZ05tOE9IdGFWZlpPNVIwMFAwajJ1YjFYdmFJM2JOalE5UzU4VmFZdFFULXpIelhrdGVIVTExSUhIcWhCQTVNVWI2V3F3aUw0UEFlTko5d3V3NDZGRXQ5Qm1lLW1xcThtMURpY3AydXBDTkJ0TWZBRkN1SFJ3VVA0OWVWRkhLQlNJakRjY2ZoZGxXU2Qza1Q2d180RkphSmZZdXlOR0NpZFZkeG9B?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A new poll shows that 60% of Americans say a political candidate's position on releasing the Epstein files would influence their vote, according to data"
 people:
   - jeffrey-epstein

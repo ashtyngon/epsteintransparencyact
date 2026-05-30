@@ -3,6 +3,8 @@ title: "Senator blocked Epstein files after receiving mysterious donation"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "The New Republic"
 sourceUrl: "https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 articleType: news
 summary: "Sen. Josh Hawley voted against the Epstein Transparency Act weeks after his PAC received $50,000 from a dark money group with ties to individuals named in the files."
 people:

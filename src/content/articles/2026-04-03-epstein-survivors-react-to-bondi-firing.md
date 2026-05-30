@@ -3,6 +3,8 @@ title: "Epstein Survivors React to Bondi Firing: 'She Failed Us'"
 publishedAt: "2026-04-03T12:00:00.000Z"
 source: "NewsNation"
 sourceUrl: "https://www.newsnationnow.com/politics/epstein-files-blanche-attorney-general-permanently-source/"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "Epstein survivors and their attorneys reacted to Pam Bondi's firing, with attorney Gloria Allred calling the departure 'long overdue' and survivors expressing frustration with both Bondi and the DOJ."
 people:
   - pam-bondi

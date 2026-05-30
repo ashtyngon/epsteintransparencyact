@@ -3,6 +3,8 @@ title: "Epstein Used Arts Camp Donations to Access Teen Victims, NPR Docs Show"
 publishedAt: "2026-02-19T10:25:51.000Z"
 source: "NPR"
 sourceUrl: "https://www.npr.org/2026/02/19/nx-s1-5707290/epstein-files-victims-interlochen-ghislaine-maxwell"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Jeffrey Epstein and Ghislaine Maxwell donated money to Interlochen Center for the Arts, an elite performing arts camp in Michigan, and used their access to the "
 people:
   - jeffrey-epstein

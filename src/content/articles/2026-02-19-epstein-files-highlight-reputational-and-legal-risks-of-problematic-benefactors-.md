@@ -3,6 +3,8 @@ title: "Epstein Files Highlight Reputational And Legal Risks Of Problematic Bene
 publishedAt: "2026-02-19T08:27:26.000Z"
 source: "Mondaq"
 sourceUrl: "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQjM3U0FrMEFpRi0waXF3QUNNLXZmR1IzQ2NINjladGhJeUt3TVpUT0tzM2VpX1dkdHI3REpGekN0N3BDNTIxbVlKUTVLTGJPaFZheEt2bUp3UjlDLWZURkUwMmdTVHRIMUFmV2lnY3hnaHhpdklwWXhoR21ZRlBVWWF4cHowSUgxWDYxOEFmLXdFZFpIcDZhWDVvMmdYZjVPRUxBQ3lLSmlqaE1VODROMlFnV2NGY1N5enk5anhpeDNwU0pkVTRabE5WSHphd2lCWmVvWXJrbjZyY1NhbVE?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A legal analysis published by law firm Skadden, Arps, Slate, Meagher & Flom warns that recent document releases related to Jeffrey Epstein underscore significan"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Twelve Prominent Figures Resign After Being Named in Epstein Files"
 publishedAt: "2026-02-17T02:46:00.000Z"
 source: "Newsweek"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWTJuWEwzdzBEb2d4Tm1ENzdybjBCMFhhZFlqR0N5VkZzZXJ2UENiM2J3aEprVUpqN21RR21LNGZma2lMSkE4NHVxa2E2aUFHZWllYjhZcDBiYkVlOTA3Vnp0eVg2T3hkdC1SaXY5SG00S2xORExPeFkzTXNPVlFDcnpuZElMZXNRakctTndLbmxwUjhxOGlMTWxMX044WGNmdEtHTEdn?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "At least a dozen prominent figures across business, politics, and international institutions have resigned or left their positions after being named in Justice Department files documenting Jeffrey Epstein's network"
 people:
   - jeffrey-epstein

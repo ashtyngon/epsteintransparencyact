@@ -3,6 +3,8 @@ title: "NYT: Elite Doctors Treated Epstein and His Victims—Potential Conflicts
 publishedAt: "2026-03-01T12:42:00.000Z"
 source: "The New York Times"
 sourceUrl: "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvN0F3d2U1SWZPd3k3anFKblJNR3VrcEtIWFFjVFVhNldYUEJPaUNIUDVDLUJ6cnBlU01qY1pTX3ZMLUViRGFzRFNXOGdlXzU5bVh3eHJJQVY3dVRyS29pM2t2YUFrandzOWtBSDRhMV9OZF9R?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Elite Doctors Treated Epstein's Victims While Serving as His Personal Physicians The New York Times reported that several elite physicians maintained"
 people:
   - jeffrey-epstein

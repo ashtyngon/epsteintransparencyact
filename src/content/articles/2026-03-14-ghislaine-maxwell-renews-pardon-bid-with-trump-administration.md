@@ -3,6 +3,8 @@ title: "Ghislaine Maxwell Renews Pardon Bid With Trump Administration"
 publishedAt: "2026-03-14T11:20:53.000Z"
 source: "La Voce di New York"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDFiWWd0OU54ZER1RjBuaHo5Vk5wY0h3LU5HREtMbl9zSmVnamtNQTRfMGNadmY3OXc5cWRabFhkcEtyNVVCYVU4VjJFWkluN3d2bTJ4MmR1X19yS05pRUV1LXIzREgtZGQ2b3QtTXlFc1Nsc2JCaUNlNW5Sb25xV1JLSlg5azZUd2pZM05fTW9yN0RDZ2pDMWhQdVV1UGVNVnlLMkFn?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "Ghislaine Maxwell is continuing efforts to secure a presidential pardon from President Donald Trump, according to a report by La Voce di New York. Maxwell, the"
 people:
   - ghislaine-maxwell

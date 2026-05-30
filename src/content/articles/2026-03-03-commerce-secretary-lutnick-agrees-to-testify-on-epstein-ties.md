@@ -3,6 +3,8 @@ title: "Commerce Secretary Lutnick Agrees to Testify on Epstein Ties"
 publishedAt: "2026-03-03T14:00:00.000Z"
 source: "CNBC"
 sourceUrl: "https://www.cnbc.com/2026/03/03/howard-lutnick-epstein-house-oversight-testimony.html"
+image: "/images/people/howard-lutnick.jpg"
+imageCaption: "Howard Lutnick"
 summary: "Commerce Secretary Howard Lutnick voluntarily agreed to testify before the House Oversight Committee about his relationship with Jeffrey Epstein, as discrepancies emerged about his claimed 2005 cutoff of contact."
 people:
   - howard-lutnick

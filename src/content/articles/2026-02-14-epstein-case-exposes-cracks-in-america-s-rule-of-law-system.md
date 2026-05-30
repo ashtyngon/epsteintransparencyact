@@ -3,6 +3,8 @@ title: "Epstein Case Exposes Cracks in America's Rule of Law System"
 publishedAt: "2026-02-14T05:10:04.000Z"
 source: "CGTN"
 sourceUrl: "https://news.cgtn.com/news/2026-02-14/The-Epstein-case-mirrors-the-decline-of-America-s-rule-of-law-1KKFDGc0klq/p.html"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "China's state-run CGTN published an editorial using the Epstein case as evidence of declining American rule of law, citing DOJ redactions and questions about accountability."
 people:
   - donald-trump

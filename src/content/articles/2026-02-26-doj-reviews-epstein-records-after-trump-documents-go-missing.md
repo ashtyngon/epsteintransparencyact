@@ -3,6 +3,8 @@ title: "DOJ Reviews Epstein Records After Trump Documents Go Missing"
 publishedAt: "2026-02-26T14:07:00.000Z"
 source: "The Hill"
 sourceUrl: "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUDlpOWdZOHFfUlR0TjVUNXdydXBiR2wtcXEtLWItUVRSMGNIN0lTOUZDLUpNWG9iYkFSX1NWT2daQjBsbnVrVEF1Wlp3RGl5VzcxRmV2dEM2VVdaaXdlT3VGdnozdEZpX3poY0U2NWxSQ0x6clZ1R1ZXT3BLT2VVb2hzbXpuOTVaVUNUNTN4bXhJdkpJY1Zfd9IBngFBVV95cUxNZlZOUnc5aUFlQ1ZLZ3VmVTFUc1lzbVRLQUFwaVlYMjlHbUZwQ2lzb1RtQjFlOWNuc3hRVjNJODk4N3RiMXE3ZV9uQ2hkS0t3c3B2SGZQdERkU0JKQ19OWHkxZWVwN1FDb3lNSVZXZGVndHg0ZWlzblN3WTBCNnFWTGdkRHQ3ODhLSVZlZmw5OVNDOUFPeko0blJCdGNuUQ?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "The Department of Justice has launched a review to determine whether any records related to Jeffrey Epstein were improperly withheld from Congress, The Hill"
 people:
   - jeffrey-epstein

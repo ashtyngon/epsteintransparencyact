@@ -3,6 +3,8 @@ title: "Ghislaine Maxwell Fights Release of 90,000 Epstein Files"
 publishedAt: "2026-02-21T21:11:00.000Z"
 source: "The Independent"
 sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXRGLThCVm1IdTNIaTJ5V3hSUEVLLXdyUjJ6QS1jWHh6c1RiN09zTlFGamJLY0hDMWdaXzR6bVQ5Y0JZUUs5eDNzbzl3cWdQMVhhTHlnb2d5Ykl2aGNIUmg0RVRyVlhkUm41XzlaMjFVTVZHcVpyZ3VFU0o5azJMZjBHQ24tWlRVNFFsR0tjVmZIQVBGeDhEc3ExNWg5MTB4Q0FZ?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Ghislaine Maxwell is opposing the release of approximately 90,000 additional documents related to Jeffrey Epstein, according to court filings. The legal effort"
 people:
   - ghislaine-maxwell

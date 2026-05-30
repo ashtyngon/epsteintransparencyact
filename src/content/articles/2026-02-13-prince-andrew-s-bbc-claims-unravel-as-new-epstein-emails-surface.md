@@ -3,6 +3,8 @@ title: "Prince Andrew's BBC Claims Unravel as New Epstein Emails Surface"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 articleType: news
 summary: "Prince Andrew's 2019 BBC interview denials are being contradicted by newly released Epstein emails, prompting the network to revisit the disastrous sit-down."
 people:

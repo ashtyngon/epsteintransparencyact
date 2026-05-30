@@ -3,6 +3,8 @@ title: "Epstein Survivor Calls Wexner's House Testimony 'Abhorrent'"
 publishedAt: "2026-02-21T19:01:00.000Z"
 source: "The Hill"
 sourceUrl: "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnJhbG9JVVdtcDZEYl9FYU5jR281T2pMTVVuUjFFRmhUSGhWX2JxcWVuaHJTNlozc0FEWm4tcmdrYTVnUVZacHpYamRoTGFLcDQ5OEt4Q3g3QnNfS1RKNU9YMEQydHpvOGktZWpJRC1nOC1zWU9GTjlKbm9ETzMzTDhta2x3bjRwODdKbzFVSHJfWGJMS0kxdW5n?oc=5"
+image: "/images/people/leslie-wexner.jpg"
+imageCaption: "Leslie Wexner"
 summary: "An attorney for Jeffrey Epstein survivors called billionaire Les Wexner's recent closed-door congressional testimony \"abhorrent,\" while a survivor who voted"
 people:
   - leslie-wexner

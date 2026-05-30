@@ -3,6 +3,9 @@ title: "Documents Reveal Epstein's Attempt to Court Penn Psychology Professor Se
 publishedAt: "2026-02-23T05:21:48.000Z"
 source: "The Daily Pennsylvanian"
 sourceUrl: "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRkRfRno0bDVaNF9CUGd6RzlZVVVKZXNNZjlxMnhpT3RvT2VoOUd2ajk0dTdNWGc4WGRtZ2hHd3hvV1VMc1pUNjZmSFZncl9UbDI1My1VZlVGSGN2UU9lRU1USmFYZjdpYk9sU3poUTFydTI5dUgtYU83U0QzazJ5WkFwV1hQSldURGJWZ2tVQ1hlRjNXcmRXQUhRUQ?oc=5"
+image: "/images/people/martin-seligman.jpg"
+imageCaption: "Martin Seligman"
+imageCredit: "Wikimedia Commons"
 summary: "A newly released batch of documents reveals Jeffrey Epstein's persistent efforts to cultivate a relationship with Martin Seligman, a prominent psychologist at"
 people:
   - jeffrey-epstein

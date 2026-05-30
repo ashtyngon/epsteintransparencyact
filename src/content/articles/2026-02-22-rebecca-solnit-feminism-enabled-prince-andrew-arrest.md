@@ -3,6 +3,8 @@ title: "Rebecca Solnit: Feminism Enabled Prince Andrew Arrest"
 publishedAt: "2026-02-22T19:46:09.000Z"
 source: "The Guardian (US)"
 sourceUrl: "https://www.theguardian.com/commentisfree/2026/feb/22/andrew-mountbatten-windsor-epstein-files-trump"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "A member of the British royal family was arrested this week in the United Kingdom on suspicion of misconduct in public office related to communications with"
 people:
   - prince-andrew

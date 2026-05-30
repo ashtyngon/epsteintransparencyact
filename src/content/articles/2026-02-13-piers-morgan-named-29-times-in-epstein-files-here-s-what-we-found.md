@@ -3,6 +3,8 @@ title: "Piers Morgan Named 29 Times in Epstein Files—Here's What We Found"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "BuzzFeed"
 sourceUrl: "https://www.buzzfeed.com/stephaniesoteriou/piers-morgan-epstein-files-explained"
+image: "/images/people/piers-morgan.jpg"
+imageCaption: "Piers Morgan"
 articleType: news
 summary: "Piers Morgan's name appears 29 times in newly released Epstein files, according to BuzzFeed, despite the British broadcaster's public denials of any connection."
 people:

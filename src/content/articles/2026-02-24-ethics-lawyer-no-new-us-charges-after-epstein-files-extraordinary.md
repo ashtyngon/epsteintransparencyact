@@ -3,6 +3,8 @@ title: "Ethics Lawyer: No New US Charges After Epstein Files 'Extraordinary'"
 publishedAt: "2026-02-24T19:15:00.000Z"
 source: "Australian Broadcasting Corporation"
 sourceUrl: "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMElRMWhDc01aUlY1aUVMRDZSZVhBOHotSm9PR0UyWmpxWUJ3aHhObmNwaGJpeXNvbkRSaURRQzlsTmdNcWdUUXFzaFUtT1NPb0JRUTFvdC1zWXd6Q1ZYa1lKNXc5UlYxeXNnYVpIVWJDZXZIc05DUUpOaDhNbjAzOFlHNlVtYWZWS3VMU1Z0VDNQWWE3QnVqeU9FNUlPVU5pT0FGZXBRRW5sNTZJdGkxX3RsRlFQMWFuTTJIVTRKMnZxOVo4YlE5Z291QW52OGFkbUgw?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "An ethics lawyer has described the absence of criminal charges in the United States following the release of the Epstein files as \"extraordinary,\" according to"
 people:
   - jeffrey-epstein

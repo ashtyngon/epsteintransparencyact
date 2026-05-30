@@ -3,6 +3,8 @@ title: "How Elite Immunity Protected Epstein: NYT Investigation Reveals"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/12/us/politics/epstein-files.html"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 articleType: news
 summary: "A New York Times investigation concluded Epstein was given a 'free ride by the ruling class,' revealing how institutional power protected a sexual predator for decades."
 people:

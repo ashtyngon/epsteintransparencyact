@@ -3,6 +3,8 @@ title: "Almost 7 in 10 say Epstein files show powerful people rarely held accoun
 publishedAt: "2026-02-18T17:28:55.000Z"
 source: "WRIC ABC 8News"
 sourceUrl: "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaEg5bTlqVlFNX2ZjWkxOYnVCT1NwS3VmOVdzUDZhR2Q1OEhEaDQyU2N6SnJWZC1OOUloQkhteEpaMUNlUHNQNGNLWmVuN29MOW4xczdzdmxQMnhhRnAwZlZBUTJWNkt3bHhyMlFDVExQbzVyVkdhM0ExeGVLcS1yR05Vb1NNeS00eE5DbjVZWEJQOXQ1djZlMnBNVFJ3emoxTld3SDU2WWtvbk96OUHSAbMBQVVfeXFMUHFhWGNwbFZvMlhwMThhSk9XUnhPbndITjk2dHBKMmZQZkJsSURiYk9Hb2N6UDNNNVlTdTVBQnhhbU5OVmpfXzMycmVYLXRzMmZGRnhJYk1oTWdPVzdiaTNUQy1NRWp5VEpWNzIwN09fWGE0ZWk1RXQtT3duVnk1eVg3U0V3ak5kQWNLNmVQS1hXZlpTbFV6Rzg2ZGw3Y2VSTE9WWlhCWDBTMmMzVDQ0QVpELTg?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A new poll found that nearly 70% of respondents believe the release of documents related to Jeffrey Epstein demonstrates that powerful individuals are rarely he"
 people:
   - jeffrey-epstein

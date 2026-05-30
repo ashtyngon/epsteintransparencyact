@@ -3,6 +3,9 @@ title: "Supermodel Naomi Campbell Stayed In Epstein's Orbit But Denies Ties With
 publishedAt: "2026-02-18T15:34:54.000Z"
 source: "Black Enterprise"
 sourceUrl: "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQnJyOWx3VjZFc3lRTGtVbG9GZVNPT05sVTFLUmgtSGx5WFhVdFB2SVBuRmI3djY3dy1sZ2RHWDV6eHVkWWNST1JlN3pDZGlpa3ZEaDNPbHBqSFZZc2JYdzZEdV9OU1JFZjFPM0FfZS1UVzJpZnc?oc=5"
+image: "/images/people/naomi-campbell.jpg"
+imageCaption: "Naomi Campbell"
+imageCredit: "Wikimedia Commons"
 summary: "Supermodel Naomi Campbell has publicly denied involvement in financier Jeffrey Epstein's criminal activities, despite documented connections between the two tha"
 people:
   - jeffrey-epstein

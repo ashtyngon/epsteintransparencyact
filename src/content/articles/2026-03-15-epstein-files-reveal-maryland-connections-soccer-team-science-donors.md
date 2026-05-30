@@ -3,6 +3,8 @@ title: "Epstein Files Reveal Maryland Connections: Soccer Team, Science Donors"
 publishedAt: "2026-03-15T09:04:36.000Z"
 source: "Baltimore Sun"
 sourceUrl: "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFhDV2JHRk92UnVzSVBKSTB0ZXhudmpRNGtiOEwybHp6OHVWb25XbXB4UVlxWldhNENkbTFxcVc5TG84UFdNbm1ad2ctRzhsVXJ6RkRGZmU4b0lqZDlUMGExdFM5RXF1SjV5a2tvTDlNbFlCT3UxN0VCWlhOVjFaX2ZzZw?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The Baltimore Sun reports that newly released documents show Jeffrey Epstein's connections extended into Maryland, including ties to a soccer team and"
 people:
   - jeffrey-epstein

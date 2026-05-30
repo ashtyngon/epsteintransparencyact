@@ -3,6 +3,8 @@ title: "Khanna Demands Names After Major Epstein Associate Steps Down"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "Spectrum News"
 sourceUrl: "https://spectrumnews1.com/ky/louisville/news/2026/02/13/massie-epstein-records-sulayem"
+image: "/images/people/ro-khanna.jpg"
+imageCaption: "Ro Khanna"
 articleType: news
 summary: "Rep. Ro Khanna praised DP World CEO Sultan Ahmed bin Sulayem's resignation and demanded full disclosure of all names in the Epstein files."
 people:

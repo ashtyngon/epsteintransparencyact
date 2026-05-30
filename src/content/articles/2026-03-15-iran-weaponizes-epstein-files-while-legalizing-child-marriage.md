@@ -3,6 +3,8 @@ title: "Iran Weaponizes Epstein Files While Legalizing Child Marriage"
 publishedAt: "2026-03-15T09:55:00.000Z"
 source: "WION"
 sourceUrl: "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMEljYWJkZXNEeVFrMmhWeTlxR09wdC1ZakptZzFfR21oNWdOcmxNd09YOFNEeG5LVC1fRkE3TFFoSlFOVTFuU1ZkR1VxcldrZVEwRUtCWW1VdldnRFIxNHNLS3FLQmhuV09uN1F0eHZlS0ljeGQxbHRPZ2xZQkFtMXRfNU9YMHo5cWNUYXhWSldzWFhpZGhTdDBZcHRPZHZVZWtycVBPUDJaWEYtZ1gzOEI3Q0xPUGxNUUpIel9mWlh0ekp6V3l4LTAtVERqNG1VS25rQWZiNnVNRnlmSkFlQ1Nn?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Iran's state media has begun promoting newly released U.S. government documents related to Jeffrey Epstein as evidence of Western moral corruption, even as the"
 people:
   - jeffrey-epstein

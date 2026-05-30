@@ -3,6 +3,9 @@ title: "Politico: Epstein Secretly Funded Peter Attia's Rise"
 publishedAt: "2026-03-16T09:55:00.000Z"
 source: "Politico"
 sourceUrl: "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3R3SmhSbTdjZmc4aHdiME90eWlCaGpKVE1lR2xyYXdVMF84Smltd3BVSDlOV3hzZHJVbl81d1N5Mmd3U0lGMTlFYUo5VWtpanpwUjdhSWJ5SW9fRmF2ZFRuTEpVSFdEc0QyeHF5ZWFsYmQ3VC1hMzNfRGMwNy13Rk41dlFHc3NYMXRr?oc=5"
+image: "/images/people/peter-attia.jpg"
+imageCaption: "Dr. Peter Attia"
+imageCredit: "Wikimedia Commons"
 summary: "A Politico report has revealed Jeffrey Epstein's involvement in the early career of physician Peter Attia, according to newly surfaced communications. The"
 people:
   - jeffrey-epstein

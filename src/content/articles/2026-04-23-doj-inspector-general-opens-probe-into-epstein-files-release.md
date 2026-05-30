@@ -3,6 +3,8 @@ title: "DOJ Inspector General Opens Probe Into Epstein Files Release"
 publishedAt: "2026-04-23T15:00:00.000Z"
 source: "CNN"
 sourceUrl: "https://www.cnn.com/2026/04/23/politics/jeffrey-epstein-justice-department-inspector-general"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The Justice Department's internal watchdog will investigate whether the DOJ complied with the Epstein Files Transparency Act, examining redactions and missed deadlines."
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Bank of America Settles With Epstein Victims in Landmark Deal"
 publishedAt: "2026-03-17T09:27:04.000Z"
 source: "News24"
 sourceUrl: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0dDdGxOVG9MZWNWRVhydnZCU3pRN3RyMTNBYnZNeHpIazlObm53ZVd4RGR4MTBRMllhYnd1OUtEa2c4VFBuQ2FsOVdicG9sOERQM1VFbVg4N3JUSGRHemlPT2k1elEzVzktcm5SRTFfRXNpS3Z0NUpyNmYtMWRWM05aNXNVWGZuT1hlOGxNSWRJN3MyYUFmNEctSTZHNVJpQlB4eVhZQXluUU5LX2ZOWDZ4UUR6MjE1OW5z?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Bank of America has reached a settlement in principle with victims of Jeffrey Epstein, according to a report by News24. The settlement represents a resolution"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "House Democrats Bring Epstein Survivors to State of the Union"
 publishedAt: "2026-02-23T21:02:55.000Z"
 source: "NBC News"
 sourceUrl: "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjRBTmkyRzNoSjVmRGR0ay1jMksySVJVQmtmQ3ZYZTllNXBhOWJ3YjlQWTFxR3dETEZjZzlTX1Y5a2V5OXBubTFTVnRoU0VoMzRvdzIyaTFBTlRBaXhxVVg3UUNPLWQzTkw0VjMyOXlsYUR6VVlmSVhNVXNuV2hWeXNuaFlpNlR6RDJ0RUVzNUpGd055MV8zY3ZTVzVjaW1jcEp4TFdRcHlvX19JS1FhaEd6UVFDV2p2VW1JUEZSQQ?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "House Democrats have invited survivors of Jeffrey Epstein's sex trafficking operation to attend President Donald Trump's State of the Union address, according"
 people:
   - jeffrey-epstein

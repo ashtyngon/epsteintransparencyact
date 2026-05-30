@@ -3,6 +3,8 @@ title: "Media Mogul Michael Ferro Canceled Last-Minute Epstein Meeting, Emails R
 publishedAt: "2026-02-13T23:00:39.000Z"
 source: "Chicago Tribune"
 sourceUrl: "https://www.chicagotribune.com/2026/02/13/michael-ferro-epstein-files/"
+image: "/images/people/michael-ferro.jpg"
+imageCaption: "Michael Ferro"
 summary: "Media mogul Michael Ferro canceled a last-minute meeting with Jeffrey Epstein, according to emails in the DOJ release, as Deputy AG Blanche accused lawmakers of naming 'random people.'"
 people:
   - michael-ferro

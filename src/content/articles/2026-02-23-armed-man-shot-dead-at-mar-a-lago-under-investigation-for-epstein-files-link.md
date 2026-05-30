@@ -3,6 +3,8 @@ title: "Armed Man Shot Dead at Mar-a-Lago Under Investigation for Epstein Files 
 publishedAt: "2026-02-23T19:06:00.000Z"
 source: "The Hill"
 sourceUrl: "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG1pbHFvLXR2M0Iza1RSMkNJcFZ5dk1lR3VPRldRZmt6RVI5cThFcjhqOXZCLU9Rb1VwSUxaMWdDQU5Vc3FLOXdfN01Ga29WQXdTcGhBZXhuajBRd0diTDJ0VDJiaEh0OHVER21ucjVqaTh1SHd1WHZkRFVyN25qRzZIYw?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Federal investigators are examining whether Jeffrey Epstein-related files may have motivated an armed man who was fatally shot by Secret Service agents at"
 people:
   - jeffrey-epstein

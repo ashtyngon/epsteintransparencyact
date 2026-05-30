@@ -3,6 +3,8 @@ title: "Olly Robbins Tells UK Foreign Affairs Committee of 'Serious Pressure' to
 publishedAt: "2026-04-21T11:00:00.000Z"
 source: "CNN"
 sourceUrl: "https://www.cnn.com/2026/04/20/uk/keir-starmer-mandelson-epstein-vetting-intl"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "Former Foreign Office permanent secretary Olly Robbins testified that his department was placed under 'serious pressure' to push through Peter Mandelson's ambassadorial appointment despite vetting concerns."
 people:
   - peter-mandelson

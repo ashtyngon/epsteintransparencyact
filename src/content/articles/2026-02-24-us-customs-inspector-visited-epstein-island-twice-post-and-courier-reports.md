@@ -3,6 +3,8 @@ title: "US Customs Inspector Visited Epstein Island Twice, Post and Courier Repo
 publishedAt: "2026-02-24T10:00:00.000Z"
 source: "Post and Courier"
 sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGdnNUNpdXpMa0x6c2h0R0dFTEFRVlZkelNLeEFxNG1RQzA2cUQ5YkY2blBjdUpkYmM1VWZ5VDVGM3hoWXBZd1pzd2xjNFV2NUlyeHJ0YU5aWXNhWFJwYzg1Rm5DTHd0bHcwdTNPS2ZGNzgxWWZIM1NkLVZiV2g0bDMzQXlaZ29ITmNJZEFUTVVqdFQzUnh2c0tHbkJhSEd5WTlvN0g0ckRFcWdWUHRscnpWNA?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A former U.S. Customs and Border Protection inspector who worked at the Port of Charleston traveled twice to Jeffrey Epstein's private island in the U.S."
 people:
   - jeffrey-epstein

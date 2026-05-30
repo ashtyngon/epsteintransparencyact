@@ -3,6 +3,8 @@ title: "Epstein Emails Spread Across Social Media in Viral Leak"
 publishedAt: "2026-02-14T11:22:00.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/tech/tech-news/jeffrey-epstein-files-reveal-deep-tech-ties-musk-gates-rcna257092"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Private Epstein emails have gone viral on social media, with screenshots circulating millions of times often stripped of context about the nature of the communications."
 people:
   - jeffrey-epstein

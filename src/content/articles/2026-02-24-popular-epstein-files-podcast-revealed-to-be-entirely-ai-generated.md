@@ -3,6 +3,8 @@ title: "Popular Epstein Files Podcast Revealed to Be Entirely AI-Generated"
 publishedAt: "2026-02-24T17:14:20.000Z"
 source: "Fast Company"
 sourceUrl: "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SV0dWZkUtaUtDNkd1OUpLUzVadVhESnVpXzJ4Z3R6YjZVM2FQMFdPbGlRWG1Yb0xoUmlxWTFPREdTbzNMVHhsOWlfdHAzTjRfMTNySVlWc056TC1xa28wLWtIX3lOc1BJRzBXNGZLLUFoZ1JxVU85M2ZnMA?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A podcast focused on the Jeffrey Epstein case has gained a significant audience despite being produced entirely through artificial intelligence, according to"
 people:
   - jeffrey-epstein

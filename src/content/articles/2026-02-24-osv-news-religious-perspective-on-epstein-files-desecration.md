@@ -3,6 +3,8 @@ title: "OSV News: Religious Perspective on Epstein Files Desecration"
 publishedAt: "2026-02-24T19:14:17.000Z"
 source: "OSV News"
 sourceUrl: "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDc1TERGMkZfQ0RjUTNTZ2MxMzh2MFhyRklPRE1jSjF2Ri1NUDlHMDJWQndtZUxzU2Z2REl2NkJhektOV2NqTXoyb1d4eERwV3RtTEFjeHFYSl9OUWR0aHBrU2dtMVpuZ3kxelVJdFFpZE9oN1ZNdWVydndsQWlGVFlhcFR0OXU5RW1yQzRuMHh6ZzB2NjNkcmhNVlhnR2NnUlpQM2FCRlROS3I2ek9zRk9HYW8?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A Catholic news outlet has published an analysis examining what recently released documents in the Jeffrey Epstein case reveal about institutional failures and"
 people:
   - jeffrey-epstein

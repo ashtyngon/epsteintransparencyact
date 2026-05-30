@@ -5,7 +5,9 @@ updatedAt: ''
 source: PBS NewsHour
 sourceUrl: https://www.pbs.org/newshour/nation/thomas-pritzker-steps-down-from-hyatt-board-saying-he-deeply-regrets-association-with-epstein
 summary: Thomas Pritzker stepped down from the board of Hyatt Hotels Corporation on Tuesday, citing his contact with Jeffrey Epstein as the reason for his departure.
-image: ''
+image: /images/people/thomas-pritzker.jpg
+imageCaption: Thomas Pritzker, executive chairman of Hyatt Hotels Corporation.
+imageCredit: Natacha Pisarenko/AP
 status: published
 articleType: news
 people:

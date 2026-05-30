@@ -3,6 +3,8 @@ title: "Columbia Removes Staff Who Facilitated Epstein-Linked Dental School Admi
 publishedAt: "2026-02-16T18:45:23.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/16/nyregion/columbia-epstein-dental-shuliak.html"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Columbia University removed officials who helped Karyna Shuliak, Epstein's last girlfriend, gain entry to its dental college through an irregular admissions process tied to fundraising solicitations."
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "France Launches Diplomat Inquiry Over Epstein Ties"
 publishedAt: "2026-02-23T07:33:48.000Z"
 source: "Unknown Source"
 sourceUrl: "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVE5T2oxTjJvclhjTUllcVZMVU1EWnZZM1QwSGlsZmlrdndCMmkycWpldjRadE55bXRJTGFNWGkzeU1taUFIdkR5SkYxdmpXWVFqbG9ieEJfWENJVE5nb3RDQ29sODZHWDJVTDVWYXlNQ3NUUlRXT0hFb1lOQzBVYlZOUE50SmtIcFV4Q29HOGlNM0swYVlKMmtweFN5ajlCdzFjTW16R09qUTRjcEItUmhuNlB0TURQcVZaaw?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "French Foreign Minister Pledges Full Investigation Into Diplomat's Alleged Epstein Connections France's foreign minister has committed to conducting a"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Trump DOJ Released Only 2% of Epstein Files, Study Shows"
 publishedAt: "2026-02-16T15:59:06.000Z"
 source: "The Independent (US)"
 sourceUrl: "https://www.independent.co.uk/news/world/americas/us-politics/epstein-files-released-trump-percent-b2921206.html"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "An independent analysis found the Trump DOJ released only about 2% of Epstein files in its possession, contradicting AG Bondi's claim of releasing 'all' documents."
 people:
   - donald-trump

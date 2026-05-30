@@ -3,6 +3,8 @@ title: "Greene Blasts Trump's Epstein File Handling as 'Political Miscalculation
 publishedAt: "2026-02-14T22:53:00.000Z"
 source: "The Hill"
 sourceUrl: "https://thehill.com/homenews/administration/5739226-marjorie-greene-trump-epstein-files/"
+image: "/images/people/marjorie-taylor-greene.jpg"
+imageCaption: "Marjorie Taylor Greene"
 summary: "Former Rep. Marjorie Taylor Greene called Trump's handling of the Epstein files his 'biggest political miscalculation,' accusing him of fighting 'the hardest' against their release."
 people:
   - marjorie-taylor-greene

@@ -3,6 +3,8 @@ title: "French Prosecutors Launch Two Epstein Probes, Call for Victim Complaints
 publishedAt: "2026-02-18T18:31:21.000Z"
 source: "Courthouse News"
 sourceUrl: "https://www.courthousenews.com/paris-prosecutors-open-2-epstein-linked-probes-and-call-on-victims-to-come-forward/"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "French prosecutors have opened two separate criminal investigations related to Jeffrey Epstein and are urging victims to come forward with testimony, according "
 people:
   - jeffrey-epstein

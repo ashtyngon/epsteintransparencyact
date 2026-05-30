@@ -3,6 +3,9 @@ title: "Raskin, Jayapal Honor Late Epstein Survivor Giuffre at State of the Unio
 publishedAt: "2026-02-20T19:21:12.000Z"
 source: "raskin.house.gov"
 sourceUrl: "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQd3RfUFBwNXRyTUV1XzloaE9iLVhabk5qa0pJRXZZX3NfYW9kWGptaUE0SWVUejdHc3Z1akg5OFhUNlNVN0s4MEtqTEZvYU4zaXdZVjZEdWdGNUgyaHRjQjhLRVNjTnJtV3o3ZUsySkFwaGplWkVMYlpCeFB0ZVF1M3FwQlE2UXNtUXczOG9qR1haYUVWNXhJdFpPUFMzVUVydndTU1FhNlR6WHNMZEZOU0NybnR4QnRnWENwQ3NaM0FZYmZ3QjFPMTJQTzYzSUM2aUk5TE5vTnByclF1QUwybFZGNUU1ZmhySWhKMkRxdVMwZEQ2ZE9xN1RqV0s?oc=5"
+image: "/images/people/jamie-raskin.jpg"
+imageCaption: "Jamie Raskin"
+imageCredit: "Wikimedia Commons"
 summary: "Rep. Jamie Raskin D-Md. and Rep. Suhas Subramanyam D-Va. announced they will bring family members of Virginia Roberts Giuffre, the Epstein survivor who died in"
 people:
   - jamie-raskin

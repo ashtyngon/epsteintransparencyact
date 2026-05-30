@@ -3,6 +3,8 @@ title: "Opinion - Why Biden didn’t release the Epstein files — but maybe sho
 publishedAt: "2026-02-18T17:52:43.000Z"
 source: "AOL.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXeENRXzJSdG9oQjVKdTE5RDlrMFNrbG1mR0VfWWI1ZUJ3Wm9SWWJaeDh5TUx2M1g3MTVhRzNzR0F2QjBGYVZnZ2gyOXpJcHB0YTFWTEhiSlVGRjY5NjJTanRpZU8tY0JzVF9QalpHa3NTOWRRZEZz?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "An opinion piece published on AOL.com examined the Biden administration's approach to releasing documents related to Jeffrey Epstein and Ghislaine Maxwell, ques"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Epstein Survivors Attend Trump Address as House Democrats' Guests"
 publishedAt: "2026-02-24T12:07:12.000Z"
 source: "The Source Magazine"
 sourceUrl: "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU15OHExUTJYVkJ6enhlUGJZZk9FSlJJNUpiWkhBV19VcGlJTkNQR205bTRFSnVnZTlBQl9ld1UwME5LYWlWVDI2eC03ZzNjbTVsbnhQcFBsaExRN29vLXROZWwtUWdYN1lEalZzSWFveFB5enoxV2JoeXM4R3NSN2F1YU5uMlZPM1JYa2xRVFZzUWJibWp0NDlaeFM5YjVQRVc3MHJ6MA?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "Several survivors of Jeffrey Epstein's sex trafficking operation will attend President Donald Trump's address to a joint session of Congress as guests of"
 people:
   - jeffrey-epstein

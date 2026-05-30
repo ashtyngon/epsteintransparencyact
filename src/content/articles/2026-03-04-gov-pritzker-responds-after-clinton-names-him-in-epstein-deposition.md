@@ -3,6 +3,8 @@ title: "Gov. Pritzker Responds After Clinton Names Him in Epstein Deposition"
 publishedAt: "2026-03-04T11:26:15.000Z"
 source: "wandtv.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNampfQzJhWnE4X0lTSy1rOC1rbF9YbGxuQU43RWZZWmJIdUJGOVlLaDdnN2pMdmNQZ2YxZDRqU3dvWkVWNl9GNjhYWlpCb0VWaU1VWDJfb3V2dzdsM2RzSmNkTmU4bEQzZGljY25QbEo5bHVpeWhNd0pVaDlIN0FsRUthczNQRVhrQVNIMUdwX19INDFYQmZENE5uQ1hNZVdqSU1vVzl3VGNGZ1F1cGdFWm96YzY3aWZCNnhFWEEwYjBGZjFqNXRmbDJyRzZjZkpzZmNlazVPN0VCSGF4dzZDdGZCdzRVMDllb2ZaT2t6VnU?oc=5"
+image: "/images/people/bill-clinton.jpg"
+imageCaption: "Bill Clinton"
 summary: "Illinois Gov. J.B. Pritzker issued a statement Wednesday after former President Bill Clinton named him during a recent deposition related to the Epstein case,"
 people:
   - bill-clinton

@@ -3,6 +3,8 @@ title: "New Albany Officials Demand Transparency After Wexner Deposition"
 publishedAt: "2026-02-19T04:18:00.000Z"
 source: "10tv.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1RWODVlUmtUSDk3OERRblZyWHp1eWc4U19wU3A4UmMxTGxCS0FvOVVRRkQ5LUU2OTZDMWxzOXRkemplQWxWeHJoOVpkTkg2c1A1WGxmLWdpbENTemZDcV9oZU9RajE1YlJYcFhaOFN1ZEdZZFB4QWZWbXhwX2YzVkUwYWwwd0tGdUtlLXRMZ0xYbmgwVTZCR2VtRWtsZzhQdlFGWXJMY0E0WndlakVuZW9Xa2JMY3gxMDd2Z28tM0ZmUEZsQllxM1ZqZWtSY3JVaWM0dw?oc=5"
+image: "/images/people/leslie-wexner.jpg"
+imageCaption: "Leslie Wexner"
 summary: "Local officials in New Albany, Ohio are facing calls for greater transparency following Les Wexner's recent congressional testimony about his relationship with "
 people:
   - leslie-wexner

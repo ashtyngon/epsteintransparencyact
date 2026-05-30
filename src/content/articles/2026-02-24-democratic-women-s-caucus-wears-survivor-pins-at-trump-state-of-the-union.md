@@ -3,6 +3,8 @@ title: "Democratic Women's Caucus Wears Survivor Pins at Trump State of the Unio
 publishedAt: "2026-02-24T21:44:47.000Z"
 source: "The National News Desk"
 sourceUrl: "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR2FIamtVWWkwZVBNSTJRaVQ5c1N3djA5UG9LQ1FsQ2VzUlpXaFpJV2J6VzRtalhLbzFCQnY5VlVqc19scmtfUkxzVF8zdFVUNm5fVDJyTFFHRXBrakRDMUI2elN6MThJQ1l2RzVNa0JrR2F5enByb0FXS3RCNHRudjJPcDlFXzF0MjdEV2FkUVgwSEpBXy1RcDB5a21YUkhsWHAtTGxBY0ZXU2x1S0cyZHBLaEhJcDFyM0dFWEhkT1lDZ0FYanY2TnZpTUFSUWd6eGlhd3BiYjBjWUtZaElBNjlrOFdBUDFpU1A0UQ?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "Members of the House Democratic Women's Caucus plan to wear pins honoring survivors of Jeffrey Epstein during President Donald Trump's upcoming State of the"
 people:
   - jeffrey-epstein

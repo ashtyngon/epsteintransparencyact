@@ -3,6 +3,8 @@ title: "Central Dauphin School District Responds to Lifetouch-Epstein Link"
 publishedAt: "2026-02-19T03:46:00.000Z"
 source: "fox43.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX0RnTzhHbnU4SnRYX1VIX01XLUZVUS16UGVvS1JxU2FqSUgtNEt4RHFFSE1zZTdDY2hTV1IwaUtGenE5R05mbmpyTVpyS2s0Ujk1TGc4MGpubUViRTY0OWllLUdYajlXbVB1OFRRZ2hlVDJ0VE1wSVZNNjZPMkZ5VDRoZUhRQ25iRklGaHBOUVBKU2h2aVR6NTM0RWZzSm1oX0pqbVdBY0x3M2pNczJ3a2FKdkQta3Izdk5HdGZvLVdaRnZIdFZSMmhEcXFRXzlXcnNMTHJuU1BCNUs3QnhvbHJ1RG4xaEMzWGh0Q3lEd1NsLXdZbC1ZTA?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A Pennsylvania school district has issued a statement after Lifetouch, the company that provides its student photography services, was named in recently release"
 people:
   - jeffrey-epstein

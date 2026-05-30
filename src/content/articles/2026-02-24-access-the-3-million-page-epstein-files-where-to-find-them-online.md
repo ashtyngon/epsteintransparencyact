@@ -3,6 +3,8 @@ title: "Access the 3 Million-Page Epstein Files: Where to Find Them Online"
 publishedAt: "2026-02-24T19:10:00.000Z"
 source: "The Times of India"
 sourceUrl: "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbFl4MDVXQl9BSk5hSTgwT081LWtsUkhNX3hsVHdQNEY5RGtVOTRlcENMMDhNS1VydUNCYTluYjcxcjdFTS1SR3ExeU5QVGl6aWZhUjhXSWwtT09VbFprazB4U3MyY2c4V0h0WmkwYVpNTTB4NnFJSG1XcEJLUDJ4a2VuVXFTYXhwOWlGdkJqbENZbDZfalBkLWhDUTVxbzZvaWRYLTZFdEdGZ1ZTNkE5QjVVdlV2Z0FhNWpab1JaX2pVaVY0b084dS10QXJ6R2l0MlNnSkE1cjlPcUpCNjNRMWpURWZwSlV6QXfSAe8BQVVfeXFMT0VvRTB6TVZ5aXhlYUlvR0dfczlkbjZzLVg0S3dBVFloYmRTOWVPUzRRUEdhNVhaaE5Ca2c5NlF0YV9lUzVsZjZlc0VoZ09qS1p3Q0JVaXBsNlRWRk9iWTlsZFg3TGYxVnphejM2eFdsNDFyazVJYTZvZWUtbDI4TXhiMlBnWWNDZGlibWhrakxzUXJSVGx3UW5GSHpqZEttNmVTNzBYemRKUUF6MU1nSXFEZEdzX1pvMTdBbENXUk5DRVVscEJQQjA3ZDBOOFFva011NGt1em5aR29TNW92YVFtQzRXdFJ4WDVXakdHLWM?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The Department of Justice has released more than 3 million pages of documents related to Jeffrey Epstein, according to The Times of India. The massive trove of"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Massie Loses Confidence in AG Bondi Over Epstein Files Clash"
 publishedAt: "2026-02-15T18:49:03.000Z"
 source: "ABC News"
 sourceUrl: "https://abcnews.go.com/Politics/rep-massie-confidence-bondi-attorney-general/story?id=130185628"
+image: "/images/people/thomas-massie.jpg"
+imageCaption: "Thomas Massie"
 summary: "Rep. Thomas Massie declared he no longer has confidence in AG Bondi after a House hearing on Epstein files, breaking with his own party's DOJ leadership."
 people:
   - thomas-massie

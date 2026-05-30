@@ -3,6 +3,8 @@ title: "Leon Black Named in Epstein Files: Schools Cancel Photo Day"
 publishedAt: "2026-02-15T12:15:57.000Z"
 source: "Daily Kos"
 sourceUrl: "https://www.dailykos.com/stories/2026/2/15/2368819/-Schools-Cancel-Yearbook-Photos-After-Leon-Black-Named-in-Epstein-Files"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Schools canceled yearbook photo sessions with a company after its founder Leon Black, also founder of Apollo Global Management, appeared in released Epstein files."
 people:
   - leon-black

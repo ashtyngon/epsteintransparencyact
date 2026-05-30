@@ -3,6 +3,8 @@ title: "Prince Andrew Linked to Three New Epstein Victims"
 publishedAt: "2026-02-23T16:34:59.000Z"
 source: "Reality Tea"
 sourceUrl: "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFpZ0RuT0ZRYkNhcUlCLTh3TDM5RjRKY25UdF9wM09iaXgzTDZVaDhoNUpoQlJCUEtkMl9qLUFnTGkydlN5dGNUdTlEX2VJRFhsMXlQYlBOdk1fM1JVWTY4UU44UlJ2bk5NXzdQMFRHdGNQZ1VMeUNkYk5nZFdpOEJxMGdid0N0dm5VR3NkcHAwd9IBlwFBVV95cUxQNlJScTdncWNaUXhsTlNZbER5cFZxWUhYYzFtdDdJaFNhMWl5MjEtVnJlYzdGME9hNTV5NzRGSS1IS3pnMXNEOGJETndONHVuNGNnbkpsQXo0M01vY2FLcTM5djZqMUFydlBFcHpTTzNFeFBLck0tLVVGX0V1cGF1dEZtcWxVcWFORlBxMTBhY1FJUUtYS1Mw?oc=5"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Prince Andrew faces new allegations connecting him to three additional women who say they were sexually abused by Jeffrey Epstein, according to attorneys"
 people:
   - prince-andrew

@@ -3,6 +3,9 @@ title: "Gordon Brown Demands Probe Into Andrew's RAF Base Epstein Meetings"
 publishedAt: "2026-02-22T15:15:42.000Z"
 source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/articles/cj0dme87l84o?at_medium=RSS&at_campaign=rss"
+image: "/images/people/gordon-brown.jpg"
+imageCaption: "Gordon Brown"
+imageCredit: "Wikimedia Commons"
 summary: "Former British Prime Minister Gordon Brown has called for a police investigation into whether Prince Andrew used Royal Air Force bases to meet Jeffrey Epstein"
 people:
   - gordon-brown

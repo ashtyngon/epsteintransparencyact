@@ -3,6 +3,9 @@ title: "Elon Musk Asked Epstein for 'Wildest Party,' WaPo Reports"
 publishedAt: "2026-02-28T13:57:06.000Z"
 source: "The Washington Post"
 sourceUrl: "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEx2TnNkTGdyQlFJUDU4NmlLMHZ6QmtwS3F3cmYxN19qNGhrZ3ZGUGJZQkkyQ3NtcnFVaXVuQ2pOendrcnFOcHVFTmxBWVFFRUtqOVQtMU00UXhzT2pnRk1fNUtFSTNCOEhld29NMGJGTDlabFlGTWZXdkdBREl4REhIU3pORVNBMzlEMnp3?oc=5"
+image: "/images/people/elon-musk.jpg"
+imageCaption: "Elon Musk"
+imageCredit: "Wikimedia Commons"
 summary: "Elon Musk once asked Jeffrey Epstein to arrange \"the wildest party\" he could organize, according to The Washington Post. The request came in communications"
 people:
   - jeffrey-epstein

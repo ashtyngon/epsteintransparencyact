@@ -3,6 +3,9 @@ title: "Sen. Schumer to Unveil Epstein Bill at Staten Island Event"
 publishedAt: "2026-03-16T13:47:00.000Z"
 source: "SILive.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTBrZ2F1MjVjOXpSVzNyNGxuMmpqNndHUXdBNkhSMXloalpoNGVGMlZ3Tm95UnpXWTBOYnQ5cVVBT1BvY0xXSWkycWFXNHBJbGhUNFZYcF8yT01memZrYWxZOVFCVnQtVGluNjhCTXJaY0dyMFFIUjNzMjJqeGZKX0FzRGd5ZXRHcWNNOWFuWENZVC15enhXaDFJMnFQYVdkZkp0SDB4Nm5tZlRNVHA2aWl2Rk9JVUZ2cFZj0gHPAUFVX3lxTE42OWJKdGwxRzFzTHpiWTl6MThldFRzVU5wZWE2M253by0zcTNwVzdvSnJlY0tyMVJua0l1ZHNodlVJQ3VoSm1IaVBjS05ITExaUHdTd0llNWpuZFlpZnB2TnlZb1FQc2Q3RVpWcW9OcEpBZ0hXS2lRcFpUVTgzaGNRZ3k4X0JWLUhmVUFPUWtFMGM4SWY4SlNIblNaeWduT0pROFVfVjZzM29jQmxPUlM3aGplNGxLaVZPbUhVWjhsUGszYlItS0NIS0FsakF6RQ?oc=5"
+image: "/images/people/chuck-schumer.jpg"
+imageCaption: "Chuck Schumer"
+imageCredit: "Wikimedia Commons"
 summary: "Sen. Chuck Schumer D-N.Y. is scheduled to discuss an Epstein-related bill on Staten Island on Monday, according to SILive.com. The Senate Majority Leader's"
 people:
   - chuck-schumer

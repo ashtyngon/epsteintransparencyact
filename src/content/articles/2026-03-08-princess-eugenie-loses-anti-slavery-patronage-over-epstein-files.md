@@ -3,6 +3,9 @@ title: "Princess Eugenie Loses Anti-Slavery Patronage Over Epstein Files"
 publishedAt: "2026-03-08T13:06:50.000Z"
 source: "Amanda Matta | Substack"
 sourceUrl: "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QREE1bVI2VTVobjNwRmRYZmZqQWFFVlF0ek90OFlZNkxtai15NEtoRTVaZmpUNGVrN2JwbHE4TS1SVmJKTWw3VWJvZFlJSWFuRkJqOFVkWjhRRDJxV2wwSHRkclp2TWMtZzJucmNGaDBnMjBZV0lLcG5R?oc=5"
+image: "/images/people/princess-eugenie.jpg"
+imageCaption: "Princess Eugenie"
+imageCredit: "Wikimedia Commons"
 summary: "Princess Eugenie has lost her role as Royal Patron of the Anti-Slavery Collective, the organization she co-founded in 2017, following renewed scrutiny of her"
 people:
   - princess-eugenie

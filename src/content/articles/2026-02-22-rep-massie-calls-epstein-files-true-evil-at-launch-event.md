@@ -3,6 +3,8 @@ title: "Rep. Massie Calls Epstein Files 'True Evil' at Launch Event"
 publishedAt: "2026-02-22T13:39:00.000Z"
 source: "Cincinnati Enquirer"
 sourceUrl: "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUpKUTVpVGdvMDNFeEhmLVVTVWVXanhDeDd1WmYwd2JHVE1ORjV5Mm84clVsaDVNYjQzWE1CNk9JbTZnM05YQVJ3WkxrVjRybVJCaVpqTW1IMWVmaGw2NGN4VkN3M0xzaVJlYWtab1IyUV9QNng1NFI4ZVJ2WlV0aUNtSTZtTURsYnZlUTBsSHRYQTVSTVFpWndTc3ZsWF9LR0JIVjgzQW1Pc2ZpNGRyR1dMaDgwSE9HWVpPR3hUdmE?oc=5"
+image: "/images/people/thomas-massie.jpg"
+imageCaption: "Thomas Massie"
 summary: "Rep. Thomas Massie R-Ky. described the contents of the Epstein files as revealing \"true evil\" during a public event, according to the Cincinnati Enquirer."
 people:
   - thomas-massie

@@ -3,6 +3,8 @@ title: "Rep. Garcia: Epstein Files Scandal 'Worse Than Watergate,' Bondi Faces B
 publishedAt: "2026-03-15T12:00:10.000Z"
 source: "AOL.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVhHcDFLaFJuRnk2RTVMQmViYnJ4Y2VsZWFWN1RFOUoxeWZqZ092LVhLRnZxQURnRFdveTNzeXNvQ1Axa1l0TjhuUFI4R2FDRmtrNlpFYklBR1dIR1BhX2tYWlNYVFRYV2c0S2RJdnFGRUh4UTFTT1ZDZG4yYUZUTm5xSVY3ZndaN2c?oc=5"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "Rep. Mike Garcia R-Calif. called the Epstein files scandal \"infinitely worse than Watergate\" and suggested that Attorney General Pam Bondi could face blame for"
 people:
   - jeffrey-epstein

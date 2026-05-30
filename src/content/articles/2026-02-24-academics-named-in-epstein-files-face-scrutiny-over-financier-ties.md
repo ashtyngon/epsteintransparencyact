@@ -3,6 +3,8 @@ title: "Academics Named in Epstein Files Face Scrutiny Over Financier Ties"
 publishedAt: "2026-02-24T00:02:27.000Z"
 source: "Times Higher Education"
 sourceUrl: "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVl1YnRJRnZ3LUMtYUZRR0RBa2E3TFZpQXRJTDJSTXdHeV91eWdZZGh5S3hYckE0eFBVeEVpSUlHak5NZ1VHWGFFbVNaeHdyUDAtbmhqTjhXTnVqczJXdC0tdExqZm85MzRTWTVjXzZsbE1la3haRWUyaDRySlRpT0pBcWxfal82ZElBVVNMbTk5cENjVEk5c0xma1Q?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A forthcoming academic analysis examines the connections between convicted sex offender Jeffrey Epstein and scientists, exploring how the financier cultivated"
 people:
   - jeffrey-epstein

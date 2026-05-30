@@ -3,6 +3,8 @@ title: "CNN Investigation: Epstein Victims Named Other Abusers, FBI Did Not Foll
 publishedAt: "2026-04-22T14:00:00.000Z"
 source: "CNN"
 sourceUrl: "https://www.cnn.com/2026/04/22/us/epstein-files-sex-trafficking-allegations-invs"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A CNN review of FBI interviews found victims named more than a half-dozen other powerful men, including Jes Staley and Leon Black, but the files show no clear follow-up by federal agents."
 people:
   - jeffrey-epstein

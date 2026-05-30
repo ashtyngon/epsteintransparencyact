@@ -3,6 +3,8 @@ title: "Prince Andrew Arrest Covered in Multi-Topic Political Roundup"
 publishedAt: "2026-02-19T20:40:57.000Z"
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/02/19/prince-andrew-yoon-suk-yeol-epstein-america"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "British authorities arrested Andrew Mountbatten-Windsor, formerly known as Prince Andrew, on Thursday over his ties to Jeffrey Epstein, according to Axios. The"
 people:
   - prince-andrew

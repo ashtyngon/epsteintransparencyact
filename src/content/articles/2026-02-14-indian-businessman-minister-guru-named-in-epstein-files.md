@@ -3,6 +3,8 @@ title: "Indian Businessman, Minister & Guru Named in Epstein Files"
 publishedAt: "2026-02-14T13:37:28.000Z"
 source: "The News Minute"
 sourceUrl: "https://www.thenewsminute.com/news/a-businessman-a-minister-and-a-guru-the-indians-in-epsteins-web-of-power-and-access"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Three prominent Indians — businessman Subrata Roy, ex-minister Kapil Sibal, and guru Sri Sri Ravi Shankar — appear in documents released under the Epstein Transparency Act."
 people:
   - jeffrey-epstein

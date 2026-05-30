@@ -3,6 +3,8 @@ title: "Epstein Victims to Attend State of the Union Amid File Release Calls"
 publishedAt: "2026-02-24T22:41:03.000Z"
 source: "New York Times (US)"
 sourceUrl: "https://www.nytimes.com/2026/02/24/us/politics/epstein-victims-trump-sotu-guests.html"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "More than a dozen victims of Jeffrey Epstein's abuse will attend President Donald Trump's upcoming State of the Union address as guests of Democratic"
 people:
   - jeffrey-epstein

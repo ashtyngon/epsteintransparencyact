@@ -3,6 +3,8 @@ title: "UK MP Seeks Treason Probe Into Prince Andrew Over Epstein"
 publishedAt: "2026-02-22T20:09:00.000Z"
 source: "The Times of India"
 sourceUrl: "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS0hhM3EyTzJwWnVaRjF6S3JObWRqRXpRLXZLMmJvVFZmTjFyOG50eVFCYVlRYmE5TmlUa0pMWEpnblRMaFpvWGMwd1k5VUxDSk1RRVRTajBaLXBCVmhfeEM2dnNKYmFYekp6R2s1RnhjWXptdURnckVPaHJrdVV1am11Z0g2cEphQWVCVWU0WDBQLWhTbGhDQ01yQkhMWmFMYnVGUmxjMFRSbUswdUhUZXpLQmZEbUpxN1AwdzR5X0kwOWpuanFXckZqeDRXRkR0Tk5VcjlpcjFRcTVWTkpURW02djVuWWVMY00xSWNrd0hUakNXNkdsc0NqMUJjYVljX3pibtIBigJBVV95cUxPRG9KTWhEZkR3emlQcjB0SXhuTTlVbVh6WlBTbkhzYVh0TDhvNlFhY0FsTFVrOHVneDk4XzJkZk9XQkhoRnBYRU1PenNPQmVaa2tNWElzRklYZU96OEJTSUZkX2RyUElFYk5LRjdfSWVkNDFfNWRJcW1ydjE0bTgzdHNUUHdiQ2ViQXg5cEpTcU9XVU5xMjhXeUtaT0Z3aEE3bl91YXBaWmlfck85R0Y3N0hPdnlzdzkwY2hPbG5PcDZTUGdzQ3RRd2lFc29qNnV6eGZDcjlqUXUxcmhYRU93c2Zhc0dhS3pyYXFjRU5XXzN5MG0xUVp6MV9vM1NWVnJEU2tQOHF3d0tadw?oc=5"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "A British Member of Parliament has called for a treason investigation into Prince Andrew over his ties to convicted sex offender Jeffrey Epstein, while the UK"
 people:
   - prince-andrew

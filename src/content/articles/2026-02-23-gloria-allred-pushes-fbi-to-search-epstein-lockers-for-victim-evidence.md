@@ -3,6 +3,9 @@ title: "Gloria Allred Pushes FBI to Search Epstein Lockers for Victim Evidence"
 publishedAt: "2026-02-23T23:43:00.000Z"
 source: "The Telegraph"
 sourceUrl: "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmpPSm4zYlgzOWdZX3FjX1JJZDN2OEVRaWNuTlpLazZMWTNjb0R0Y1FRQzJFa2l2RkVuQXY0UG1ybHAxam04RVBJZ05pUjBOZlJ0SG92WVdBYUdpb0dFVWVqT29uN3NEOFFvSG15dTlnSW5hd3NkU25zOTRuMDM3Qy0wM2x4ZVoya19vaTNwQkJQWHRRZEFzeVlR?oc=5"
+image: "/images/people/gloria-allred.jpg"
+imageCaption: "Gloria Allred"
+imageCredit: "Wikimedia Commons"
 summary: "Gloria Allred, the prominent victims' rights attorney, has called on the FBI to search safety deposit boxes reportedly belonging to Jeffrey Epstein for the"
 people:
   - jeffrey-epstein

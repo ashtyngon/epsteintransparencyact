@@ -3,6 +3,8 @@ title: "UK Government Says Starmer 'Deeply Regrets' Mandelson Appointment"
 publishedAt: "2026-03-12T16:00:00.000Z"
 source: "TIME"
 sourceUrl: "https://www.nbcnews.com/world/united-kingdom/epstein-scandal-perilous-uk-prime-minister-keir-starmer-mandelson-rcna257890"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "Chief Secretary to the Treasury Darren Jones told parliament that PM Starmer 'deeply regrets taking him at his word' regarding Mandelson's representations about his Epstein ties."
 people:
   - peter-mandelson

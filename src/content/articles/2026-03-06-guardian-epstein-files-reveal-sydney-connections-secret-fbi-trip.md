@@ -3,6 +3,8 @@ title: "Guardian: Epstein Files Reveal Sydney Connections, Secret FBI Trip"
 publishedAt: "2026-03-06T14:03:00.000Z"
 source: "The Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYy1YQjAwNzFuWVRhcmc0WXdKT2ZaU2tsUXpaWDM5VzZJSWtUN1Fzdll0MG9fNmRWT0dzOERFd2lidGQtdENSbVlUN0V1MjE0ZXU4MGNqSllyR18xRUY1dVJxS0V5dG5nLVdDLUNhUHNnOWM2V2pIa0YxREIya1R6NnZBT2U3anBYaUwzQVROTXNlRVc0T0pRSEMyQndkZEpf?oc=5"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "FBI Made Secret Trip to Australia During Epstein Investigation, Files Reveal Newly released documents show FBI agents traveled to Australia in connection with"
 people:
   - jeffrey-epstein

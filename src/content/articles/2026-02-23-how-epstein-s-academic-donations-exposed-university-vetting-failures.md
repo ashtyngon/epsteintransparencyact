@@ -3,6 +3,8 @@ title: "How Epstein's Academic Donations Exposed University Vetting Failures"
 publishedAt: "2026-02-23T15:43:14.000Z"
 source: "Chronicle of Philanthropy"
 sourceUrl: "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb3owbDI1bVNWY0ZKZm91Y3BqOEg5emwzU0JzRTA0bE5McW4zdll2WHU5Y3g1QzlwQkNicFB1LUpLZ2lKVUxoM0syUHB0LWYwR2hpZ1N0RWI5Sk5mVHVmS1RPeFZlVGRJYkxlNWJsLW9RcDZ3cmo1VnlmQ2dDVEtYa3d4Wm9OcEFiaWw3b0p2Y2E4alNNNllmOUQ4cmFHUW80eXhDekU1VldEZDlnMkRTYWJsMEk1QQ?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A recent opinion piece in the Chronicle of Philanthropy has highlighted the importance of donor screening procedures at academic institutions, citing Jeffrey"
 people:
   - jeffrey-epstein

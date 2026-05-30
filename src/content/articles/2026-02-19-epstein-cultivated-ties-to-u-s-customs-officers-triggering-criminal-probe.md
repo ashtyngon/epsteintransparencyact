@@ -3,6 +3,8 @@ title: "Epstein Cultivated Ties to U.S. Customs Officers, Triggering Criminal Pr
 publishedAt: "2026-02-19T19:48:03.000Z"
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/19/us/epstein-customs-officers-usvi.html"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Jeffrey Epstein cultivated relationships with multiple U.S. customs officers, prompting a criminal investigation into whether officials facilitated his travel."
 people:
   - jeffrey-epstein

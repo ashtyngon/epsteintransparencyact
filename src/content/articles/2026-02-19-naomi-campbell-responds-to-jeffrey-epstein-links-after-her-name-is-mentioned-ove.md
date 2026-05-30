@@ -3,6 +3,9 @@ title: "Naomi Campbell responds to Jeffrey Epstein links after her name is menti
 publishedAt: "2026-02-19T11:28:04.000Z"
 source: "The Tab"
 sourceUrl: "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGxOakhZTWRyTFBuYlNiUWJFQW9Sb09PV0tEU0JSU0pORDBWUF9hY1Z3SDRJcy1FM1puSFhYemduVUNvSjZLSFZ1TEVoQnBjZ3hmREVyc2JLb3lJNTdLMDNWNklvZ2VFNXBYcEpuem1EMVN1eUptQW5nelFmaDkwVTRmYm1EM0ZoZGZ2WEVJZENfaTJkbXNjQ1RkTngwdEQxdHo0YVh5SzJEaTRRX2V4V3dXUWZGaU5TYko3VU93?oc=5"
+image: "/images/people/naomi-campbell.jpg"
+imageCaption: "Naomi Campbell"
+imageCredit: "Wikimedia Commons"
 summary: "Naomi Campbell has publicly addressed her connections to Jeffrey Epstein following the disclosure that her name appears more than 300 times in newly released co"
 people:
   - naomi-campbell

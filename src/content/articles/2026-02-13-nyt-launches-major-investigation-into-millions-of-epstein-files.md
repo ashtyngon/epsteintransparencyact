@@ -3,6 +3,8 @@ title: "NYT Launches Major Investigation Into Millions of Epstein Files"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "New York Times"
 sourceUrl: "https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-documents.html"
+image: "/images/documents/black-book-p2.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 articleType: news
 summary: "The New York Times assigned 24 journalists to analyze millions of pages of Epstein documents, one of the largest resource commitments to the case by any outlet."
 people:

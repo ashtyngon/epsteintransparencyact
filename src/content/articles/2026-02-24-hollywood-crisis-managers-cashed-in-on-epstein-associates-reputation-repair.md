@@ -3,6 +3,8 @@ title: "Hollywood Crisis Managers Cashed In on Epstein Associates' Reputation Re
 publishedAt: "2026-02-24T15:55:56.000Z"
 source: "The Hollywood Reporter"
 sourceUrl: "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSy1CbDJ5WUoyU2liM09zdW01cGJzVTJsdzI4NFVUTTE4clhfWGdUU01IQ19Xc0YyTHJGYlF0dmxhRmJ5TVF5eGNNSEhqMVZDcnJleU5TN1FzaUctOXB2akp3S0haWGw4OFdNcEVHRzB0cmJLMGlvbF9zNURRelNiTk5JejY4R2dxUGdIZXB3eHp4VDZvSHNWdmpuSzVpZVYwS0pPN0l0aXRMOEV5ZlY0UkZaYmpwd2ZqcE9EZnQ4M3BuR2ZneUxlSEhOWXhwWmtFWUlNN1dCd1lTbWpxTUVKTVp2R2lHNXFTVG5ORQ?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A network of high-profile Hollywood crisis management firms and public relations specialists solicited work from individuals connected to Jeffrey Epstein"
 people:
   - jeffrey-epstein

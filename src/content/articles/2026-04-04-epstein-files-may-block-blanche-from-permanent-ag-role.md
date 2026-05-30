@@ -3,6 +3,8 @@ title: "Epstein Files Controversies May Block Blanche From Permanent AG Role"
 publishedAt: "2026-04-04T14:00:00.000Z"
 source: "NewsNation"
 sourceUrl: "https://www.newsnationnow.com/politics/blanche-epstein-ag-confirmation"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Todd Blanche's prior prison meeting with Ghislaine Maxwell and his statements about moving past Epstein files may jeopardize his chances for permanent attorney general confirmation."
 people:
   - ghislaine-maxwell

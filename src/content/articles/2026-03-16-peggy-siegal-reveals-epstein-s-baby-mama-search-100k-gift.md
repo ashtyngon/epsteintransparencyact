@@ -3,6 +3,8 @@ title: "Peggy Siegal Reveals Epstein's 'Baby Mama' Search, $100K Gift"
 publishedAt: "2026-03-16T12:00:25.000Z"
 source: "Fox News"
 sourceUrl: "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVRsZXdXcDhyVmNNNkE3cjg2YXBZcl9uSGVmakhwSlpkOVpZQkI2b0F1OVZBUGJWeXhpbUdaeXJKNDRuZ3BkZE03aGFHVkMwQTdCVjRXT2VHZWppUVhLLUxlUGZ5M0doVUZNb1psY1AxaVpVQ1c0SjNHdllzdVpMRjFQNE9MMkMzSE5SWnJNNG1iY2ZWc0didFlOOE80ckFHWnY2YkFQZjNyRHpFSEhIVmVXOHJqMXE0UkVLT0dWM0NqYnhfdFl2RmhqSVNMNE4xbVJn0gHYAUFVX3lxTFBRSDlDYm05TW9GTWlWaWE2WmhXN1Rxd2xiVXlDYllJbnZCanBrQTFOYVpocVpRRWxUbFBvUDFjM2VwbVdyVTRpeGxrZG93ZnZfbG9KbEI4NUZjZG9SZlY0UlJ0SG1ySVI0cTJvRTNoZEp4QXFUWVlZd2cyT2VsdkROeFVObXZUbkJEN1lfTTdaRGh2YjFQV3Q2OTcySXMyXzh5MEVSVHBQX1BJbE9kdW9SQmNoMXhNd25EOXlRTFRFajZ1b3dOZkZMVDFHeUFhNHpWdS1KcVRwRg?oc=5"
+image: "/images/documents/black-book-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A prominent Hollywood publicist has disclosed new details about Jeffrey Epstein's efforts to find a woman to bear his child, financial gifts, and her social"
 people:
   - jeffrey-epstein

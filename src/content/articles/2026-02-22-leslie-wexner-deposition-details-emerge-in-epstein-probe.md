@@ -3,6 +3,8 @@ title: "Leslie Wexner Deposition Details Emerge in Epstein Probe"
 publishedAt: "2026-02-22T17:00:00.000Z"
 source: "10TV"
 sourceUrl: "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMG0wdnhDTElMRnVJWDA2UnQwUzZyakpIWDhJYmw2c094eUtYNXFYM2xPbnRnVWp4b01fSnVpenpYbVNTOW54YU5kUHZLNWt6bnVQYTBwUFpYcXkwSk1wZk45dUkyLWdodU5aQ05UVS1PZTBndWRXYXZrVWZHenVwTmY3cVZZWDFNNUNvVWJMdkhjcnI0NzZUeXBsYk8zMDczOWxuNDJWVGtGZFZrYVlZZ2hURWRJMzNHOUtCQjU1aXdTeTVaRHVLYXZadGtTQzdVbTQtcWxfbXhLN2d2dS01MzJEQWtObW5CazNKcWIteUpWNzA?oc=5"
+image: "/images/people/leslie-wexner.jpg"
+imageCaption: "Leslie Wexner"
 summary: "A deposition of Les Wexner, the billionaire founder of Victoria's Secret and L Brands, was the focus of discussion on 10TV's \"Face the State\" program Sunday,"
 people:
   - leslie-wexner

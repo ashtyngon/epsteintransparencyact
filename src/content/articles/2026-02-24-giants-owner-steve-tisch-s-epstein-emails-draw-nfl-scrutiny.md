@@ -3,6 +3,9 @@ title: "Giants Owner Steve Tisch's Epstein Emails Draw NFL Scrutiny"
 publishedAt: "2026-02-24T20:59:10.000Z"
 source: "Troy Record"
 sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFpOcGxja0Z6dVBXVF9zNFdHVEYwNlVLNURpc09JYXEtQlVmeXY2bXhiZXQ1SVlNTTVtYjlfT2x6WTdGOTRPNHRiazNxc21MY1BHUHRIdmdKaWlpbk94T2oxZl9QbTBza25WeVpMbWJteC1qSHBOT1lxQlJwVDhUX1FEa2NrM2FpWkFWNGxkTjIzNjlucVZOeWdRSW0yajFCUFJr?oc=5"
+image: "/images/people/steve-tisch.jpg"
+imageCaption: "Steve Tisch"
+imageCredit: "Wikimedia Commons"
 summary: "A New York newspaper has criticized the National Football League and the New York Giants for their handling of emails between Giants co-owner Steve Tisch and"
 people:
   - steve-tisch

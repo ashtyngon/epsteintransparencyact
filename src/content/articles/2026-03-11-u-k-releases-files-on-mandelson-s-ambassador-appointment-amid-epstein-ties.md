@@ -3,6 +3,8 @@ title: "U.K. Releases Files on Mandelson's Ambassador Appointment Amid Epstein T
 publishedAt: "2026-03-11T14:16:48.000Z"
 source: "CP24"
 sourceUrl: "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYjk3YjVMdFFEMU9FcVVLaFVFUUVfczRpTHhMZEhjbk83M2pjbFM0dVRjZWZCZUVFM21yTjd5c0hETTUwSFZia3hXSXJLbTRVSk5oSUxXSG01cVNLcnh2a0pkaExtZXRBWmlkM0xyTEEwU1lsRnZ5T1RYY0NiTUJaUnFiQ2w5OGVKSEZwRXJOdmo3Y21rbFR4OTFiRERZbXhmdDBQRXEyaklJV0VfcjR4dENQVlpwUDN4bDBoZ0dGS2F5RU1VdU5rZ01OLTRDM0VlNW1FNmstZzZxQQ?oc=5"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "UK Government Releases Due Diligence Report on Mandelson's US Ambassador Appointment The UK government published files on Wednesday detailing the appointment"
 people:
   - peter-mandelson

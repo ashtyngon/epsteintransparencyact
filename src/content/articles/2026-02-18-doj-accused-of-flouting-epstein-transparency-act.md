@@ -3,6 +3,8 @@ title: "DOJ Accused of Flouting Epstein Transparency Act"
 publishedAt: "2026-02-18T22:57:00.000Z"
 source: "The Hill"
 sourceUrl: "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcERMVkZOV245RWdoN2UtUjZyUFpGTENXRGJ3TFA4X1B0MjVRRDVrYllXTFlXUEFhVFdfamZyVEhuUkJyT2FNOGFqdloyQTJrU1NUSEhTS01CRmFhWjBiNGFDZE1kb0RwdWYtLVVMSS03cUY1TmRtNzV0YVVLeWp5U1labHnSAYoBQVVfeXFMUG0zRTAyOVFXUzNZa0NmY1pwclZnbFNVOU0ydzIyN05MMWdWU056aVMwNkNiOV9HWlpvRlZMOVQ0WnB6VVo5TlJCY1V1bEFxOHE5T2hGeVVReTR6akwzSXd3TG1kUkxaSXVyUGNGSFdrcnB6S2NmLUJLTGswWG9HM0VoRFlHZHV5VzZn?oc=5"
+image: "/images/documents/flight-manifests-1995.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The Department of Justice released a list of names connected to Jeffrey Epstein but did not comply with the full requirements of the Epstein Transparency Act, a"
 people:
   - pam-bondi

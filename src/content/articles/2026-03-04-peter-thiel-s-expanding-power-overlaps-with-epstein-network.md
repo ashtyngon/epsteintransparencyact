@@ -3,6 +3,9 @@ title: "Peter Thiel's Expanding Power Overlaps With Epstein Network"
 publishedAt: "2026-03-04T13:30:39.000Z"
 source: "Washington Blade"
 sourceUrl: "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmpvSGVBZ2g0MkoydUFHQkNwODRPbGdyd1kybDcyQjFlZW1vcGxSR0Y2R0VSbmNWWjB3ODFfeGJsazlmS1dnWXN5VmdpNjlhb1oxd0VhZ1hUazJNWG5sa2w4SjdxazhsbTdxR25rQ21JcUtvUjlORDd0alA0WmhzY2RxUV9wX3k1T28wNV9MTlhGT3FMZmtPdy1hOA?oc=5"
+image: "/images/people/peter-thiel.jpg"
+imageCaption: "Peter Thiel"
+imageCredit: "Wikimedia Commons"
 summary: "Peter Thiel, the billionaire tech investor and political donor, has expanded his influence in Washington in recent years, according to the Washington Blade."
 people:
   - jeffrey-epstein

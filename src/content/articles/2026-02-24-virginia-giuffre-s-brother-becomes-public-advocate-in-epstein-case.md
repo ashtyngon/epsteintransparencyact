@@ -3,6 +3,8 @@ title: "Virginia Giuffre's Brother Becomes Public Advocate in Epstein Case"
 publishedAt: "2026-02-24T22:06:00.000Z"
 source: "USA Today"
 sourceUrl: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1hOckVNTXBHVVB5QjJsZ3VZaG1FSjhNX1FDd2xvWUpKME92VFlrNkZGM2NIMHotdlZhZUtZZFZjdm9IX0NfRFlScVN2TVZLNDBBN2JTUmxoQUsyZEpyVndzT3VhUmlvU2tVSjVtdS1Ga1JBclhZenFyQXJrRkdJUHhIeTlkb2tlaE1GYVZuU2RtWnpXRzh6bU51c2pEZDNmWmJQYUlEYURKMU5CbjhVcWNrNFV5Wl95SVVj?oc=5"
+image: "/images/people/virginia-giuffre.jpg"
+imageCaption: "Virginia Giuffre"
 summary: "Virginia Giuffre's younger brother has become an advocate for survivors of sex trafficking after his sister's public allegations against Jeffrey Epstein and"
 people:
   - virginia-giuffre

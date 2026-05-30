@@ -3,6 +3,8 @@ title: "Lee Zeldin Emerges as Leading Attorney General Replacement Candidate"
 publishedAt: "2026-04-02T23:00:00.000Z"
 source: "TIME"
 sourceUrl: "https://www.foxnews.com/politics/pam-bondi-already-fired-attorney-general-cabinet-official-teed-up-replacement-sources"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "EPA Administrator Lee Zeldin, a former New York congressman, is widely reported as Trump's top pick to permanently replace Pam Bondi as attorney general."
 people:
   - donald-trump

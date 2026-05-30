@@ -3,6 +3,9 @@ title: "Mark Epstein Hangs Up Mid-Interview in Viral Clip"
 publishedAt: "2026-02-24T13:01:45.000Z"
 source: "UNILAD Tech"
 sourceUrl: "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWFFCMlFnZUl2QmZBUE1tUkxsTzNWODFTZ2FDdWtTbGZSbDktRU5LYXl4Nk5yZ2doa1hUbGdkUWFCVnh5VXFBazFlMEkxMTktTTc2U0JabzM1N2JBdXhQN2dWZGUzdUpGTjRSNldyNnZrM0Z0SlE0dmRVNE53eFhPVFk0WklWV0o4R1NFLQ?oc=5"
+image: "/images/people/mark-epstein.jpg"
+imageCaption: "Mark Epstein"
+imageCredit: "Wikimedia Commons"
 summary: "Mark Epstein, the brother of convicted sex offender Jeffrey Epstein, abruptly ended an interview after being questioned about his late brother, according to a"
 people:
   - jeffrey-epstein

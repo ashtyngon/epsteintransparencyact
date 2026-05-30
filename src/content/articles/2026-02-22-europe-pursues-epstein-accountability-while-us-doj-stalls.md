@@ -3,6 +3,8 @@ title: "Europe Pursues Epstein Accountability While US DOJ Stalls"
 publishedAt: "2026-02-22T18:00:02.000Z"
 source: "The Washington Post"
 sourceUrl: "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVpxeWxvQVFuNUJuOU1CLWx1MWNCeWJUSHNSc1c0MnhDYmtIQmJVMVJlQ09Kdk1pVk9aTmM3ZjZOVVNyTmdGcDFhWTVxdC1vY2Ruay0zTHUtbHRTNjBDMEM5STdMWU5FUVRrUmV4UUtiS1gzUkFXOGwzSzFIaS1OT0VoVmxEdElXN0RXZDA2RlZxS3pESkEtUjJWSHRCQQ?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "The Washington Post has reported on the contrasting responses to recent Epstein-related revelations between European and U.S. authorities, with European"
 people:
   - jeffrey-epstein

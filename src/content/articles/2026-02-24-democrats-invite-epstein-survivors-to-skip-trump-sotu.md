@@ -3,6 +3,8 @@ title: "Democrats Invite Epstein Survivors to Skip Trump SOTU"
 publishedAt: "2026-02-24T17:44:47.000Z"
 source: "AOL.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFh1SEh6djkxcEtCeGh6WGctblFCMl9kYVNBTkZSWjFITDYwRmd6cWtzYzlLaGxZMHBnQXFVX0haSjhidGZiNERYWnEtcGRaX2RQc1NVaTN5VHhZOGMwdXU3cGhMOTl0eUVQVVBsN29zVHZrdTVLcDQzbkoycnRBYVo2WQ?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "Several Democratic members of Congress have announced plans to invite survivors of Jeffrey Epstein's abuse as their guests to President Donald Trump's State of"
 people:
   - jeffrey-epstein

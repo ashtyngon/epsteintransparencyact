@@ -3,6 +3,8 @@ title: "FBI's Five-Year Probe Into Epstein Jet's UK Airport Landings Revealed"
 publishedAt: "2026-02-22T21:02:00.000Z"
 source: "The Sun"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0dhUVhiOGFDZDd5dE00RXdWV1c1c0RCb2U4dzNEU1lIQkRUc3N4YzRhOEQxNUZuUkRpOF9HSmF4S2JHTXdwSEtTTlU4d05fZDVJMjZZSXdWVDdtM2h4UXhIbE4zaGhhdy1JTkF0RjJfLVJwcndLbkhSQW5Zc0tuenczR0l4dGtVWlcxTE16UXJkcXJfVzFhbmhneDVhUVdyZm9Eb2s2eU9Wdw?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "The FBI has been investigating whether Jeffrey Epstein's private jet, known as the \"Lolita Express,\" flew to and from British airports, according to The Sun."
 people:
   - jeffrey-epstein

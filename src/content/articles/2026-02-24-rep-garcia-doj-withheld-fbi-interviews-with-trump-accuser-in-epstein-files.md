@@ -3,6 +3,9 @@ title: "Rep. Garcia: DOJ Withheld FBI Interviews With Trump Accuser in Epstein F
 publishedAt: "2026-02-24T16:02:43.000Z"
 source: "CNBC"
 sourceUrl: "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DUER4ejdmV0MyY2MxNnVHeHliYTBSRHlzZmR4TjA2TXFxbjZSQWhYY2J2SnctLWlaQ2VzVXNFaE1Qc1FYNzVqcW44ZHFfTjNXakhJQXVyRjFWMkZyYk14QzBpclVyeU5sNVFzVnpB0gFzQVVfeXFMT1V6NVpYYTdtYzNJRHN3SGFzTXhqTFg1X2d1Z0hUY2E5MjB3LVFLWk9Ub0EtYUs0M1JYbGs3azZYVUttY2ZDeFlRbzBQN0U4cl9mWGR4RFNUUE1kVXdNaGsxOTlzc3MxM1pUS1JZQ1h3aUsyNA?oc=5"
+image: "/images/people/robert-garcia.jpg"
+imageCaption: "Robert Garcia"
+imageCredit: "Wikimedia Commons"
 summary: "Rep. Robert Garcia D-Calif. said Tuesday that the Department of Justice may not have fully complied with the Epstein Transparency Act by withholding FBI"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "DEA Investigation Targeted Epstein, 14 Others for Drug and Prostitution 
 publishedAt: "2026-02-24T06:35:00.000Z"
 source: "x.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50RUpMT3hlN1gyVFZsMzBJSTZQZ3hQMk1mN3NXMXdSQ3RpU3F5Tmo5QXMtMlhkMmJWYTFlUkthb3B6dEZ5a1E1cjhQSFFjb21vQVVuYnRTMmdDbXNGZ3A3ZG93?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A previously undisclosed investigation by the Drug Enforcement Administration targeted Jeffrey Epstein and 14 other individuals for suspicious wire transfers"
 people:
   - jeffrey-epstein

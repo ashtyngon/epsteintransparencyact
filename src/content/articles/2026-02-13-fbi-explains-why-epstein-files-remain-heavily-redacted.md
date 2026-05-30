@@ -3,6 +3,8 @@ title: FBI Explains Why Epstein Files Remain Heavily Redacted
 publishedAt: 2026-02-13T00:00:00.000Z
 source: Bloomberg
 sourceUrl: "https://www.bloomberg.com/news/newsletters/2026-02-13/epstein-files-fbi-s-reasons-for-redacting-the-documents"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "The FBI cited ongoing investigations, intelligence sources, and privacy rights as justifications for heavy redactions in the Epstein files, according to Bloomberg."
 articleType: news
 status: published

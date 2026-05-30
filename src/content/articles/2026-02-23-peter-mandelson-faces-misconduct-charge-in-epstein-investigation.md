@@ -3,6 +3,8 @@ title: "Peter Mandelson Faces Misconduct Charge in Epstein Investigation"
 publishedAt: "2026-02-23T17:55:17.000Z"
 source: "The Sunday Guardian"
 sourceUrl: "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWm41eDZyUHFzWUdZYUNWeUlwS1FKcDgtSktOaVNJX1VDOWRKa3BhRzVoeFc2T2hFUHFvLWdUcE5wX0Fhc0MyZUoyTFQxZC1iaGxIQ1luTU54NHZhN2U0QUZqUzltY3p4MDhfQU5WU1ByY3JLX1RfS3J2c1RyaVR5YTl6UTdHbjFNTEk5LUlMZFN3TjZPUlNxUFRQWDZ6UkEtQWxTYXB2cm5fb011dEFMdDRQTGFDWHZGLW8wOEF4STRERUluX1Z6ZF9XTlpoNGpxWTJOTV9jbm9CTy1JUEFkdi1KQ3ZtVEFzLWVvRUx3NnBtVWp4dEo3SDVpd0VBZGMteDRwanRyWHYyRVJVd0E?oc=5"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "Peter Mandelson, former UK ambassador and long-serving Labour politician, is facing a misconduct charge in connection with the ongoing investigation into"
 people:
   - peter-mandelson

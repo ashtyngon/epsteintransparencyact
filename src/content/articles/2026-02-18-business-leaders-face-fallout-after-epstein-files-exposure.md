@@ -3,6 +3,8 @@ title: "Business Leaders Face Fallout After Epstein Files Exposure"
 publishedAt: "2026-02-18T14:39:39.000Z"
 source: "Fast Company"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWNfVmpWRWFqTGU3MUtOLWMxQkxRRE52TWhENHpPSExlTmp2clpHa3RGMTA5b1FaRnNnS1Y1bmRORFYxMXJjT1JOZmstblNUNlg2NE5TTnhUNDJwRGxubHVaQVVWRnA5bVhUMTNXQVU1WVEtZnJtNUpzaFVBNHRuaVJuTVp2TVJicTI5QzVqbzhQWHZfRHBaUnA1X2gxYUh4U2wyaDdINzZJRlU?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Several business executives and public figures named in Epstein-related documents have faced professional consequences in recent weeks, according to a Fast Comp"
 people:
   - jeffrey-epstein

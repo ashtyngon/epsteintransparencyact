@@ -3,6 +3,8 @@ title: "Peter Mandelson: From US Ambassador to Arrest in Six Months"
 publishedAt: "2026-02-23T20:47:58.000Z"
 source: "The Guardian (World)"
 sourceUrl: "https://www.theguardian.com/politics/2026/feb/23/mandelsons-downfall-is-one-of-fastest-ever-seen-in-british-public-life"
+image: "/images/people/peter-mandelson.jpg"
+imageCaption: "Peter Mandelson"
 summary: "Peter Mandelson's trajectory from UK ambassador to the United States to arrest in an Epstein-related investigation represents one of the most precipitous"
 people:
   - peter-mandelson

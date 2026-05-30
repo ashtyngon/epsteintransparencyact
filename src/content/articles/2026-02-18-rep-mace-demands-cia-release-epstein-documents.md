@@ -3,6 +3,8 @@ title: "Rep. Mace Demands CIA Release Epstein Documents"
 publishedAt: "2026-02-18T17:44:16.000Z"
 source: "The National News Desk"
 sourceUrl: "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTkk3dWVjMHdJcmpfTUZtbXNGa0gwTHI2OU1KVllqMEFEMnl3NHhvbElVLUJSNXRqc0tsWXZ4cVhPM1Z5eVVFRUQ2Sk9YLVJyQkZkNGthdHdETkJZLXBpRUxkOXQ1NWVfTTQzZVl1WkVfVnZjQkRnNDItT3VwSFNNdXRLM0h6YlJQbFRQNENRekVWakJZcGJBbjZPbHNhMW10MmxLZl9kRjJMVm03VXNQX3Boa0RHVXYzRmlRZl9mbkpxM3g2bmVmSkV1N1c1RjEtcVB1ZmhmX1YzLXF3MlhGcHczUlI2bnZNVTJWTU9LcWp3RkVIUDVNZkkwM3gyX3pLa0JKQW1FTjEwQ3ptM0N1d29IZmhtUDA?oc=5"
+image: "/images/people/nancy-mace.jpg"
+imageCaption: "Nancy Mace"
 summary: "Rep. Nancy Mace called on the Central Intelligence Agency to turn over all documents related to Jeffrey Epstein and Ghislaine Maxwell, according to a statement "
 people:
   - nancy-mace

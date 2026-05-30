@@ -3,6 +3,8 @@ title: "Psychiatric Times Examines Mental Health Implications of Epstein Case"
 publishedAt: "2026-02-24T15:05:27.000Z"
 source: "Psychiatric Times"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJXZFdtZFhzbjlzbWVtUzBWcmRSMEV2eVI3YUdWTGE5Mkd4MEppN0xHbXFmZXA5RzRKOWVVd3hNbnJvR0dyVG90TVdGYnFTay1JTlltNVNFTUFBSGw3clh2M3FwaHZ5NWgyV2Q4eVdjZ3JBUnJhQnc0dnhrWmx6VzZVWUNIcFpNd2hobnh2bWhYdV95dHdOd2d4SzdjMmNEMElvbGdZWUNDcTA?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "A psychiatrist who has written extensively on the mental health implications of the Epstein case has published new commentary examining how the case intersects"
 people:
   - jeffrey-epstein

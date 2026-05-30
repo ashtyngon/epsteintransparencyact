@@ -3,6 +3,8 @@ title: "Ghislaine Maxwell Email From India Visit Released in Court Documents"
 publishedAt: "2026-02-24T08:00:12.000Z"
 source: "Firstpost"
 sourceUrl: "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOekJRbWtyYmVQOEtwSDZyX29zVldBT0lScDVrNlZ4VncxUG9wcVA2ZGJfUFM0SmJNNDJtUU5oNWJjTGRkSGFxa0JxNENXNjA4SmRTVHNVc3JneDN3QjZKNGZTS25mUzd3dnRRdGF2S0dyWlQ5aHVrN2g1Wk9yQWUtTWYyS292NVluLTVtdVY1Q3hud3VYb3dGclRlWkIweVVrRTZSQ2pOZ3VCVFY1ZHVFemg1bFpqS3FuQXBlQVdWQUJXc2pCamJQU0NfbE1adHFCMGdDQTdXQ0jSAd4BQVVfeXFMTlY3LV9DaE9rYnlsNUhlVXJUM1B1dDdHb1hKV3FVTklqU2lQb3UxZXkzNHNWRUZnMmV5RC0yb2Q4Nm9mSEVzYWxHQ0ZEa2hkMWo2Y2tSejRKeUhqLWktUmQtWnAwaDRCUGh1Ukxza1ZwNHp1aXZPWjRjTDZBUFZTblZSa01ENnZuXzlRcUpwbDdoTFM1a0VndlBJa3NmZzhoWGFsTmRVQUFYeFFsazV6OHpfSk96bHljVkVZVzJGTnNXNWpUTGZNQ1JYaDBiYTFqR21UTHYyaHR6Ti0zdzF3?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A recently released email from Ghislaine Maxwell describes her impressions of India's Taj Mahal following a visit, according to newly disclosed court"
 people:
   - ghislaine-maxwell

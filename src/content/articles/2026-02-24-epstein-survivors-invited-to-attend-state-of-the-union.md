@@ -3,6 +3,8 @@ title: "Epstein Survivors Invited to Attend State of the Union"
 publishedAt: "2026-02-24T17:54:00.000Z"
 source: "Talk Radio 98.3 WLAC"
 sourceUrl: "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BaN3M2NnVxSHp1dnRYb0RZcHBKb0NTUHFkME9uQ2IxQnhGc1N0Nm1zTTBBQzFKdFdybU1SUlpGbXo0NlJxX1dtajYzUjlHUkNpR0dUQ0I5c1RRaS1aZXd5bTZMUkJuZjhpV0d6OEZSdmRJSGp3d2Z0QWF2ZHVMU3c4aFoxRjFpZGd2Z2k4Tm0zQ1FP?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Survivors of Jeffrey Epstein's sex trafficking operation will attend President Donald Trump's State of the Union address on Tuesday evening, according to"
 people:
   - jeffrey-epstein

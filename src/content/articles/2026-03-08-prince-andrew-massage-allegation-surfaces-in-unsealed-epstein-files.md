@@ -3,6 +3,8 @@ title: "Prince Andrew Massage Allegation Surfaces in Unsealed Epstein Files"
 publishedAt: "2026-03-08T14:00:05.000Z"
 source: "Perspective Media"
 sourceUrl: "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3VhQUxIT05USXZYTVRXLUkyaFZUU3ZTM2NjYjdKbFFDUUNvWEJIdG15OUl1MmlxRnAyRURGNV9VcnRnVHFQYnR6VkdvbHU0TG9pRkZXQkpSSnJYdG9jdEJnUHNPa1c3aDJfODhQeFZMY09Bbl9iMXB5UWlnRncxeXE5MUNlMkctV3FRb0ozdjJCVGdhS0RLVzRxWTBjVUxObW9XQQ?oc=5"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "A woman told FBI agents that Andrew Mountbatten-Windsor massaged her, according to documents released as part of the Justice Department's disclosure of Jeffrey"
 people:
   - prince-andrew

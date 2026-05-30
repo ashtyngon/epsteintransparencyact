@@ -3,6 +3,8 @@ title: "NBC News: How Epstein Lured Vulnerable Girls to Zorro Ranch"
 publishedAt: "2026-03-14T11:15:43.000Z"
 source: "NBC News"
 sourceUrl: "https://www.nbcnews.com/news/us-news/epstein-lured-girls-zorro-ranch-new-mexico-investigation-jeffrey-rcna261370"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "How Epstein Lured Girls to New Mexico Ranch and Evaded Scrutiny Jeffrey Epstein used promises of financial support for college and career advancement to"
 people:
   - jeffrey-epstein

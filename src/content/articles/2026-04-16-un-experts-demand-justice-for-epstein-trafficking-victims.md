@@ -3,6 +3,8 @@ title: "UN Experts Demand Justice for Epstein Trafficking Victims"
 publishedAt: "2026-04-16T14:00:00.000Z"
 source: "UN News"
 sourceUrl: "https://news.un.org/en/story/2026/04/1167314"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "UN independent human rights experts called for justice, accountability, and reparations for victims of trafficking connected to Jeffrey Epstein."
 people:
   - jeffrey-epstein

@@ -3,6 +3,9 @@ title: "Epstein Accountant Richard Kahn Testifies Before House Oversight"
 publishedAt: "2026-03-12T13:41:19.000Z"
 source: "NBC News"
 sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDJUdm9qVWlfWG9IVjlwbnpsSk1adVA0czVtQVdJNmxkMlpkeVUzcVFyd1RaVkNXZ2JRM0JPZFpTbEhsaktSb2xEblhTRnRvZ0dpXzQycWNvQXV3bzNZSC1xektYdDhnU0hRN3lHZGlZUWEzZFU1QUtaejNZWjhkdDRuYmtRNDRKaHkxQlhjSWswdndNUWVWRzFwTUxQMHEyd2I3bnR3SUNrWGJOS29fZmprNmdubHlTNFE?oc=5"
+image: "/images/people/richard-kahn.jpg"
+imageCaption: "Richard Kahn"
+imageCredit: "Wikimedia Commons"
 summary: "Richard Kahn, Jeffrey Epstein's longtime accountant, testified before the House Oversight Committee in a closed-door session on Thursday, according to NBC"
 people:
   - jeffrey-epstein

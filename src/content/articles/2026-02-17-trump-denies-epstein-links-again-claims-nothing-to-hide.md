@@ -3,6 +3,8 @@ title: "Trump Denies Epstein Links Again, Claims 'Nothing to Hide'"
 publishedAt: "2026-02-17T06:50:55.000Z"
 source: "Open Magazine"
 sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0Z5MVNxWlRuN0o1b1ZKVFp2ZVlBTWJZNnc2c3IzV2pud29heGY3ZHRuVGIzTGVoMUIzUWR1X251dURoZFkzRDlyYy1BOHpyM005UmljVGNSdTZ4T1ZCZ0RfajBvZXhwbGcycFc4aThHTVBJbE8zMmxUc2pEdXQxTFM4Q0xMb1ZFRlM4U2Z3aXNUcm55LVlaUkFyU095OFZ5ZXZF?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "Donald Trump has denied any connection to Jeffrey Epstein beyond a \"fallout\" that occurred years before the financier's 2019 death, telling reporters he has \"no"
 people:
   - donald-trump

@@ -3,6 +3,8 @@ title: "AG Bondi Lists 300 Names in Epstein Files Release"
 publishedAt: "2026-02-15T13:20:00.000Z"
 source: "New York Post"
 sourceUrl: "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzhVLThodGlyTGtTWkZBX2o2VXBnMzd5bVloQXk5SENORXhCMkxOamVvSU1WVWVVOTZES1hiakRMM2FrSnBuZFk0MEhfa1M1NnlMNnhrVFQzRFRtNlE3UGNGT1hYbWZPWE9sTVpKSEVUZjMxTWlyR2NsdnAwWUVWa2FPZEl2UnhGdWRIRzJDM0h4emZRRWUxci1DWVhtQXU1SHZhRDhPZUtpTEFNelRndjZyYjR1Zw?oc=5"
+image: "/images/people/pam-bondi.jpg"
+imageCaption: "Pam Bondi"
 summary: "AG Bondi released a list of roughly 300 individuals named in Epstein files, including current and former presidents, drawing intense scrutiny from Congress."
 people:
   - pam-bondi

@@ -3,6 +3,8 @@ title: "Bill Clinton's Epstein Testimony: Analysis and Skepticism"
 publishedAt: "2026-02-28T12:11:15.000Z"
 source: "Yahoo"
 sourceUrl: "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlpGY3dGZjdLSTVVSUVYQVRBa0hvYnBvTm9ZOFhpaVBGUlZZajdwVVg2TF9OU2ZycjVSemNSNl8tOU4zSlZVODFwbzhKdzdoQmhlZ3NyZjZJblZYS2VHQlFURkpLRTdDZ0oyR1FFc1pvcW9oYl9VZXpGalU4ZjlxazQwQWotMjFYMlE?oc=5"
+image: "/images/people/bill-clinton.jpg"
+imageCaption: "Bill Clinton"
 summary: "Bill Clinton released a video statement Saturday after testifying under oath in the ongoing congressional investigation into Jeffrey Epstein, stating he \"saw"
 people:
   - bill-clinton

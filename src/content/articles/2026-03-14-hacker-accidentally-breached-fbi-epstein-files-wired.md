@@ -3,6 +3,8 @@ title: "Hacker Accidentally Breached FBI Epstein Files: WIRED"
 publishedAt: "2026-03-14T10:30:00.000Z"
 source: "WIRED"
 sourceUrl: "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXBTQ0Fac3JPY2pXZHBIcFFSVW1Qb0lUZlpuS1YwX1ZaaUNTN1BNbVZSMGtsUWk3OTF0Y0dQLTduYXprNnUwa3hfVWRldGJfSWdnd3RYMk8wS0Q0UW44bnZlNjk3UVFpT0VwOXBkWGVFMFdXZjNTTnB5Z3Jzcjdzc3RKN0FacWZKTUZFN1pOdmpGS3liQnJWZ0pkYXlMMEhkc1FLNEhoQnhNRDJJ?oc=5"
+image: "/images/documents/flight-logs-cover.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "A foreign hacker who physically broke into an FBI field office building in New Orleans inadvertently accessed files related to the Jeffrey Epstein case,"
 people:
   - jeffrey-epstein

@@ -3,6 +3,8 @@ title: "Iran Uses AI Video to Mock Trump's Epstein Ties in Political Attack"
 publishedAt: "2026-03-11T13:34:00.000Z"
 source: "The Independent"
 sourceUrl: "https://news.google.com/rss/articles/CBMisAFBVV95cUxObG5oTVFIMEZYOTY3VERvV3lIeVFTNVRrRkFOTFItaWN3eFJqbWhmZnJPRGExQUg1WnJPa3Z4QTdZV3FDZU1JMkdDRmI5ZElwS1AtZ2FOSGFjb2MzOUJYMTVZTnczZEI3V0NSMnJjYkp4SGFURGlmbk9GVHYyYm00M29qTHVxcDBrTFhLenRRX1dyQzNGZ3M4NEUxMy1MaS1vRTlCWUVfSzlhVF9WRS1YNA?oc=5"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 summary: "Iran's state media released an AI-generated video depicting former President Donald Trump in Lego-style animation alongside references to Jeffrey Epstein,"
 people:
   - donald-trump

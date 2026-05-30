@@ -3,6 +3,8 @@ title: "Craven County Schools Responds to Student Records Found in Epstein Files
 publishedAt: "2026-02-16T12:52:00.000Z"
 source: "WITN"
 sourceUrl: "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFFxTGJYTWlFeHVEclVRSGwweC1MWEFRVzlhdzFyQk1PRzhBQUI2ek8xZE1NOW4yRGZKZnp5TjF5ZVY0am42TmY3VWdVaGV0bmRuNUNuRjdSUDRNaG9hU2dlUHJrQ29jOHNGWnJZMl9PT3VJa3VLRXV5VUp4OXlmNlh2WVN6RFFwdVNfSUtIY3lSWERmbkV4OVpkWTVrX0xPUXNKa2dVTDFiQVZWREZUSVZuZmJxNzJHMmVUeEJnRVNTVWRVY1REem1BQk12RUXSAeMBQVVfeXFMTm1PcHVZYVpuWlhkTTFXVzdzcVBBRnBNT2ttWFpUSm9iQWZnRTFrNkZmNWE2SE1lM3hYUHdqOE9pc25JVG9pQzJGcHJiM3BBejNpRURFdXpobVpsa3oyNGxfazlGMTE1OFFTaTIzTkdCbUd6WHFsM3Zkb0I5VVpjY0o5N24weWduSFJpaWpfV2xmNy1OdXFhckJWSkd1VFFfbUFsRFVLTWhYYjU4eW15RUU5U3V5ekllSjJfVURGam5oTk5wS2lUR3VvRmtzZWExZXk1VzQ5VHVtY2hJdUV0dkd6V00?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Craven County Schools confirmed a middle school immunization record appeared in the DOJ's Epstein files release, raising questions about how the document left school custody."
 people:
   - jeffrey-epstein

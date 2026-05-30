@@ -3,6 +3,8 @@ title: "Chronicle: Epstein's Academic Fixer Enabled University Access"
 publishedAt: "2026-02-24T17:54:51.000Z"
 source: "The Chronicle of Higher Education"
 sourceUrl: "https://news.google.com/rss/articles/CBMibkFVX3lxTFAteDdUTHBqN2k5TkJNSlAtdkh6QlVld2tneC1FcDlxZE5qTi1rSkp1LXFzRndrcFVnTXcyQVk3M2VTMXdoV0RiYkNNWGNhV05DVkVsV2JGVUNRWExOX3BVbVRaaUFSWWtaZWlfaHJB?oc=5"
+image: "/images/people/jeffrey-epstein.jpg"
+imageCaption: "Jeffrey Epstein"
 summary: "Epstein's \"Academic Fixer\" Revealed in New Chronicle Report The Chronicle of Higher Education has published an investigation identifying an individual who"
 people:
   - jeffrey-epstein

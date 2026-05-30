@@ -3,6 +3,8 @@ title: "Minnesota, Iowa Lawmakers Plan Review of Unredacted Epstein Files"
 publishedAt: "2026-02-16T23:03:00.000Z"
 source: "KTTC | Rochester, MN"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXZOWndqYTd5WVpJSkF5Nk9LTGtFaHpreEhnWnFod0E0bjVibmo1UDZVUkp0Y1U2MWRXZDV3V0RxRWo3bmRJeE9xZDhNVkt4bUVsS3dBbXRhNFJlYnY1QjFrVUVIQ2ZmdHpQZWowQlFYV3hzcm1qcEtWX1N2MkhZVWVjNmlOTmpJOUkzTll5cFEwZTlxbEFxd0lPLWtXZF9OT2ROS181TEXSAbwBQVVfeXFMUDZiN015clMzOG45bGlVVlN0cXdfbVlIWHo1cnpSbjdCYjZCSHdEMzZZcGlaaFFfc3pubXFuM0RSdVplNS0wdDMtVXdzZ0FDWXV5bjdpWVlBNl9GRHRnWm5UQjhQeV9ha1ZDSzhQbE9EQ0lvdUhUb0V5UzRWODRBZWdnOGpEVmVUYUFyUlMtMUIwcW1YcGppcEJRaC1PZGlGRDRtdVo2RF9jVlFJSnZOTm1fQWc2WmJoUjkyUGM?oc=5"
+image: "/images/documents/flight-logs-page.jpg"
+imageCaption: "Documents released in the Epstein files investigation."
 summary: "Members of Congress from Minnesota and Iowa have declined to say whether they will review unredacted versions of the Epstein files, according to a survey conduc"
 people:
   - jeffrey-epstein

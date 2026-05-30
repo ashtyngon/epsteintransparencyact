@@ -3,6 +3,8 @@ title: "U.K. Papers Call for Prince Andrew Epstein Inquiry"
 publishedAt: "2026-02-22T00:07:11.000Z"
 source: "BBC News"
 sourceUrl: "https://www.bbc.com/news/articles/cx28ldj544jo?at_medium=RSS&at_campaign=rss"
+image: "/images/people/prince-andrew.jpg"
+imageCaption: "Prince Andrew"
 summary: "Several British newspapers reported on calls for an investigation into Prince Andrew's connections to Jeffrey Epstein in their Sunday editions, according to a"
 people:
   - prince-andrew

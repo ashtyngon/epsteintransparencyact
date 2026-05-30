@@ -3,6 +3,8 @@ title: "Trump Calls for End to Epstein Investigation"
 publishedAt: 2026-02-13T12:00:00.000Z
 source: "CBS News"
 sourceUrl: "https://www.cbsnews.com/video/24-the-takeout-with-major-garrett/"
+image: "/images/people/donald-trump.jpg"
+imageCaption: "Donald Trump"
 articleType: news
 summary: "President Trump told CBS News the U.S. should move on from the Epstein investigation, signaling resistance to further transparency as congressional probes continue."
 people:
