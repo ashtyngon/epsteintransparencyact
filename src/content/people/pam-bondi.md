@@ -7,7 +7,7 @@ aliases:
   - "Attorney General Bondi"
 role: "U.S. Attorney General"
 category: "official"
-shortBio: "U.S. Attorney General (2025–April 2026) who, as head of the Justice Department, oversaw the release of the Epstein files and drew bipartisan criticism for shifting statements and heavy redactions. A February 2025 'client list … on my desk' remark — later clarified by officials as referring to the case file generally — was contradicted by a July 2025 DOJ/FBI memo finding no such list. At a February 2026 House Judiciary hearing she was photographed with a page tracking a lawmaker's Epstein-file search history."
+shortBio: "U.S. Attorney General (2025–April 2026) who, as head of the Justice Department, oversaw the release of the Epstein files and drew bipartisan criticism for shifting statements and heavy redactions. A February 2025 'client list … on my desk' remark — later clarified by officials as referring to the case file generally — was contradicted by a July 2025 DOJ/FBI memo finding no such list. At a February 2026 House Judiciary hearing she was photographed with a page tracking a lawmaker's Epstein-file search history. Fired by Trump in April 2026, she returned in May 2026 for a transcribed House Oversight interview in which she conceded 'redaction errors' but credited acting AG Todd Blanche with overseeing the release."
 notableConnections:
   - jeffrey-epstein
   - donald-trump
@@ -103,4 +103,15 @@ The backlash was notable because much of it came from within the MAGA movement. 
 
 ## Current Status
 
-Reps. Khanna and Massie said they were drafting a resolution to hold Bondi in "inherent contempt" of Congress over the DOJ's handling of the releases, including a proposed daily fine until the files were fully released. The House Oversight Committee voted on March 4, 2026 to subpoena Bondi over the matter. According to multiple reports, Trump removed Bondi as Attorney General on April 2, 2026; she later agreed to a transcribed interview with the House Oversight Committee. Whether the DOJ fully complied with the Epstein Files Transparency Act has remained contested.
+Reps. Khanna and Massie said they were drafting a resolution to hold Bondi in "inherent contempt" of Congress over the DOJ's handling of the releases, including a proposed daily fine until the files were fully released. The House Oversight Committee voted on March 4, 2026 to subpoena Bondi over the matter. According to multiple reports, Trump removed Bondi as Attorney General on April 2, 2026, with [Todd Blanche](/people/todd-blanche) taking over as acting attorney general.
+
+The Oversight Committee kept seeking her testimony after she left office. Bondi did not appear for a subpoenaed deposition on April 14, 2026, and on April 29 [Robert Garcia](/people/robert-garcia) and the committee's Democrats filed a resolution to hold her in civil contempt of Congress — a step that would direct the House to go to court to compel her testimony. Republicans announced a date for her appearance within the hour.
+
+Bondi ultimately sat for a transcribed interview, rather than a sworn deposition, on May 29, 2026. She defended the department's record, declaring that "justice and transparency in this matter have been delivered at the direction of President Trump and his administration," while conceding that the department had made "redaction errors." She told lawmakers that Blanche had overseen the process of publishing the files, and she declined to answer questions about the president's own knowledge, telling one member she was "not certain of the extent of his knowledge." Democrats objected that the interview was not recorded on video. Whether the DOJ fully complied with the Epstein Files Transparency Act has remained contested.
+
+## Documents
+
+Primary-source records of the releases Bondi oversaw and the congressional effort to question her.
+
+- **[DOJ — "Department of Justice Publishes 3.5 Million Responsive Pages in Compliance with the Epstein Files Transparency Act" (Justice.gov)](https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files)** — The department's own announcement of the production Bondi's DOJ made under the Transparency Act, the release that drew bipartisan criticism over redactions and missed deadlines.
+- **[Oversight Democrats — "Ranking Member Robert Garcia Leads Oversight Democrats in Filing Pam Bondi Civil Contempt Resolution" (April 2026)](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-leads-oversight-democrats-in-filing-pam-bondi-civil-contempt-resolution)** — The April 29, 2026 civil contempt resolution filed after Bondi skipped her subpoenaed deposition.
