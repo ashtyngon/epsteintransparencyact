@@ -34,3 +34,9 @@ The Globe and Mail reported that Krauss said he had "never hidden the fact that 
 Yes. According to The Globe and Mail and reporting republished by AOL from USA TODAY/Arizona Republic, files released by the U.S. House Oversight Committee in November 2025 include correspondence between Lawrence Krauss and Jeffrey Epstein, including 2017 emails in which Krauss sought Epstein's advice while facing sexual-misconduct allegations. Krauss has stated he never hid that he knew Epstein and has said the communications did not relate to the crimes Epstein was accused of in 2019.
 
 Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context.
+
+## Documents
+
+Primary-source records that reference Lawrence Krauss. Inclusion in these documents is not, by itself, evidence of wrongdoing; Krauss has said he never hid that he knew Epstein and that their communications did not relate to the crimes Epstein was accused of in 2019.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The emails released by the House Oversight Committee in November 2025 include correspondence between Krauss and Epstein, among them 2017 messages in which Krauss sought Epstein's advice while facing sexual-misconduct allegations, as reported by The Globe and Mail.

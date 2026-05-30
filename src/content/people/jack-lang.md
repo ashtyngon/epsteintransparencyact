@@ -29,3 +29,9 @@ French authorities confirmed they were examining the financial relationship betw
 ## Context
 
 Lang's case added to a pattern of fallout affecting prominent European cultural and political figures named in the Epstein documents. The Arab World Institute, which receives funding from both the French government and Arab states, is among France's most visible diplomatic-cultural institutions. Lang's resignation removed from leadership a figure whose personal reputation had become entangled with the Epstein disclosures at a moment of heightened international scrutiny of those named in the released files.
+
+## Documents
+
+Primary-source records that reference Jack Lang. Inclusion in these documents is not, by itself, evidence of wrongdoing; Lang has said he was "completely shocked" upon learning of Epstein's crimes and has called the French investigation's accusations "unfounded."
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Lang is named in email correspondence among the Epstein files released by the Department of Justice on January 30, 2026. As reported by Euronews and CNN, his name appears in correspondence with Epstein dated between 2012 and 2019; Euronews reported the name appeared 673 times across that correspondence. The records prompted Lang's resignation from the Arab World Institute and a separate French financial inquiry.

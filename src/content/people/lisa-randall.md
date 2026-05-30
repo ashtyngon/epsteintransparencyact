@@ -31,3 +31,9 @@ The Harvard Crimson reported that on November 30, 2014, Randall briefly visited 
 ## Is Lisa Randall in the Epstein files?
 
 Yes. Newly released Justice Department documents reported by The Harvard Crimson and The Boston Globe show that Lisa Randall, the Harvard theoretical physicist, exchanged emails and phone calls with Jeffrey Epstein over a span of years after his 2008 conviction, briefly visited his Caribbean island on November 30, 2014, and flew on his private jet that day. Both outlets reported that she has not been accused of any wrongdoing, that she said she never received research funding from Epstein, and that she stated she deeply regrets maintaining contact. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, and the documented facts here describe correspondence and contact, not any allegation against Randall.
+
+## Documents
+
+Primary-source records that reference Lisa Randall. Inclusion in these documents is not, by itself, evidence of wrongdoing; Randall has not been accused of any wrongdoing, said she never received research funding from Epstein, and stated she deeply regrets maintaining contact.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The Justice Department's release of investigative records includes email correspondence between Randall and Epstein spanning years after his 2008 conviction, and a flight manifest counting Randall as a passenger on the November 30, 2014 flight to Boston, as reported by The Harvard Crimson and The Boston Globe.

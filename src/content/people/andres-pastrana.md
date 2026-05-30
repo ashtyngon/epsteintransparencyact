@@ -32,3 +32,9 @@ The matter resurfaced after the U.S. Justice Department released materials relat
 ## Is Andrés Pastrana in the Epstein files?
 
 Yes. According to Colombia Reports, Andrés Pastrana — President of Colombia from 1998 to 2002 — was named on a 2003 register of the flight logbook of Jeffrey Epstein's private aircraft, and the matter drew renewed attention after U.S. Justice Department materials were released in 2025. Pastrana has acknowledged that he appeared in the registry on a flight to Nassau, Bahamas, which he described as a stop-over with a final destination of Havana, Cuba, and has denied any knowledge of abuse. Being named in these documents is not evidence of any crime or wrongdoing; people appear in such records in many contexts, including flight logs and passing references. See the sources above for the documented context.
+
+## Documents
+
+Primary-source records that reference Andrés Pastrana. Inclusion in these documents is not, by itself, evidence of wrongdoing; Pastrana has acknowledged the flight and denied any knowledge of abuse.
+
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot flight manifests for Epstein's aircraft, released by the DOJ in February 2025, contain the 2003 logbook register on which Pastrana's name appears. Pastrana has publicly confirmed appearing in the registry, describing the flight to Nassau, Bahamas, as a stop-over with a final destination of Havana, Cuba.

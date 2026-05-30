@@ -30,3 +30,9 @@ Gardner has stated that he ended financial ties with Epstein. He told BuzzFeed N
 ## Is Howard Gardner in the Epstein files?
 
 Based on the sources reviewed for this profile, Howard Gardner does not appear on the Wikipedia "List of people named in the Epstein files." He is, however, documented in reporting on Epstein's ties to academia: Epstein provided research support to Gardner at Harvard before Epstein's conviction, and Gardner says he subsequently told Epstein he would accept no further funding. Receiving research support from Epstein, or being named in reporting about his network, is not evidence of any crime or wrongdoing. See the sources below for the documented context.
+
+## Documents
+
+Primary-source records that reference Howard Gardner. Inclusion in these documents is not, by itself, evidence of wrongdoing; Gardner is named only as one of many academics who knew Epstein, and no allegation attaches to him.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Gardner is named in a declaration unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). The filing lists him among a group of Harvard-affiliated academics — alongside figures such as Larry Summers, Henry Rosovsky, and Stephen Jay Gould — described as having been friendly with Epstein because of his funding of academic research at Harvard. He appears only within that list, offered to illustrate the breadth of Epstein's academic contacts.

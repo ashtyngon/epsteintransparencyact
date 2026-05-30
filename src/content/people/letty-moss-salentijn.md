@@ -5,6 +5,7 @@ seoDescription: "Columbia University stripped dental college vice dean Letty Mos
 aliases:
   - "Letty Moss-Salentijn"
 role: "Columbia University dental college faculty, former vice dean"
+image: "/images/people/letty-moss-salentijn.jpg"
 category: "named-in-documents"
 shortBio: "Columbia University dental college faculty member who was stripped of her vice dean title in February 2026 after documents revealed she helped develop a personalized plan of study for Jeffrey Epstein's girlfriend at the College of Dental Medicine. She remains a tenured faculty member at the college."
 notableConnections:
@@ -30,3 +31,9 @@ The case involved a second Columbia faculty member, [Dr. Thomas Magnani](/people
 Columbia University announced on February 11, 2026 that it was stripping Moss-Salentijn of her title as vice dean at the dental college as a result of the disclosures. The university stated that she would remain in her tenured faculty position — a distinction that reflects the protections afforded to tenured professors under Columbia's academic governance policies. The removal of the vice dean title represented a demotion in administrative standing without termination of her employment or academic appointment.
 
 Columbia's simultaneous action against Magnani was more complete: the university cut all ties with him, removing him from the admissions review committee and all volunteer leadership roles, though it noted he had not taught at the college since 2017.
+
+## Documents
+
+Primary-source records that reference Letty Moss-Salentijn. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The Justice Department's release of investigative records includes correspondence describing Moss-Salentijn's role in developing a personalized plan of study for a woman in Epstein's circle who enrolled at Columbia's College of Dental Medicine — the disclosures that, as reported by The New York Times, led the university to strip her of the vice dean title in February 2026.

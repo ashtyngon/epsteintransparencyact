@@ -37,3 +37,9 @@ Klein's case is particularly notable given his background leading the nation's l
 ## Context
 
 The disclosure of Klein's Epstein meetings emerged from the New York Times' major investigation into the millions of pages of documents available under the Transparency Act. That review has identified connections between Epstein and numerous figures across education, business, and government. Klein's meetings took place during 2013, six years before Epstein's death on August 10, 2019 at the Metropolitan Correctional Center in Manhattan.
+
+## Documents
+
+Primary-source records that reference Joel Klein. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The New York Times reported on February 14, 2026 that records within the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3.5-million-page release made in January 2026) show Klein met repeatedly with Epstein over a several-month period in 2013, five years after Epstein's 2008 conviction. The Times did not specify the nature or context of the meetings.

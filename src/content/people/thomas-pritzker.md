@@ -44,3 +44,10 @@ Pritzker's resignation was the third major executive departure following DOJ fil
 ## What Is Established
 
 Pritzker has never been charged with any crime. The DOJ files documented contact between Pritzker and Epstein's network, but the specific nature and extent of that contact has not been publicly detailed. What is known is that Pritzker acknowledged "maintaining contact" and described it as the product of "terrible judgment" — and that the revelation was serious enough to end his decades-long leadership role at the family's flagship company.
+
+## Documents
+
+Primary-source records that name or reference Thomas Pritzker. Inclusion in or being named in these documents is not, by itself, evidence of wrongdoing; Pritzker has never been charged with any crime and, through a spokesperson, has vehemently denied the allegation described below.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — "Tom Pritzker," identified in a court filing as "the chairman of the Hyatt Corporation," is named in records unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). In her deposition, Virginia Giuffre named him among individuals she alleged she was directed to have sex with; he also appears on a list of people said to have potential knowledge of Epstein and Maxwell's conduct. Pritzker has vehemently denied Giuffre's allegation, which his spokesperson has called a "false and isolated allegation" (per Newsweek).
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Separately, Department of Justice files released in 2026 documented contact between Pritzker and Epstein; Pritzker said he "exercised terrible judgment in maintaining contact" and stepped down from the Hyatt board in February 2026.

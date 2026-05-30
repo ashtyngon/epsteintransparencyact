@@ -43,3 +43,10 @@ In later public comments, Starr described his role favorably. Speaking on the re
 ## Is Ken Starr in the Epstein files?
 
 Ken Starr's connection to Jeffrey Epstein is as one of Epstein's defense attorneys. Wikipedia's biography of Epstein lists Starr among the defense lawyers who represented Epstein during the proceedings that led to the 2007–2008 federal non-prosecution agreement in Florida. Reviewed this session, Wikipedia's "List of people named in the Epstein files" does not include an entry for Ken Starr; that article describes the "Epstein files" as a body of documents detailing Epstein's activities, separate from the roster of his legal representatives. Starr's role in this matter was that of legal counsel for Epstein, not that of a person named in those files.
+
+## Documents
+
+Primary-source records that reference Ken Starr. Starr's role in the Epstein matter was that of one of Epstein's defense lawyers; being named in these records is not, by itself, evidence of wrongdoing.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Starr is referenced in the documents unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433), but only as counsel: an email exhibit names "Kenneth Starr" alongside Alan Dershowitz as among the lawyers who negotiated Epstein's plea agreement — the records expressly note he is mentioned "as one of the lawyers," not as an abuser.
+- **[DOJ Office of Professional Responsibility report on the 2006–2008 investigation and non-prosecution agreement (Nov. 2020)](https://www.justice.gov/opr/page/file/1336471/dl)** — This report examines the federal investigation and the resulting non-prosecution agreement that Starr's defense team negotiated with then–U.S. Attorney Alexander Acosta. Starr has said publicly that he was "in the room" during those negotiations.

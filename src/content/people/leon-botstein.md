@@ -45,3 +45,9 @@ The inclusion of a liberal arts college president in Epstein's contacts illustra
 Bard College opened an independent review of Botstein's connections to Jeffrey Epstein following the release of Department of Justice emails in early 2026 that showed a closer relationship between Botstein and Epstein than had been previously known publicly. The emails went beyond Botstein's mere presence in Epstein's contacts, revealing a more substantive personal connection.
 
 The independent review was announced by the college as a formal inquiry into the scope and nature of the relationship. Bard did not specify a timeline for the review's completion or the scope of its mandate at the time of the announcement.
+
+## Documents
+
+Primary-source records that reference Leon Botstein. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The Justice Department's release of investigative records includes a large volume of email correspondence referencing Botstein, including a December 2012 exchange between his office and Epstein's coordinating a trip to Epstein's island; reporting on the release (WAMC) noted the documents return more than 2,500 results for his name and that contact continued until January 2018.

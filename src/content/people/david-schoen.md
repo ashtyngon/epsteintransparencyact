@@ -30,3 +30,9 @@ Schoen has also publicly questioned the official determination that Epstein died
 ## Is David Schoen in the Epstein files?
 
 David Schoen is publicly documented as one of the attorneys connected to Jeffrey Epstein. By his own account, reported by Newsweek, he met with Epstein at a federal jail in August 2019, shortly before Epstein's death, and Epstein asked him to take over his criminal defense. Being named or appearing in connection with the Epstein matter is not evidence of any crime or wrongdoing; people appear in these documents and reporting in many contexts, including as attorneys, correspondents, or associates. The sources below reflect the specific, documented context for Schoen, including his own public statements.
+
+## Documents
+
+Primary-source records that name or reference David Schoen. Inclusion in these documents is not, by itself, evidence of wrongdoing; Schoen has not been charged with any crime, and he says he was never formally retained as Epstein's counsel.
+
+- **[House Oversight Committee — Epstein email correspondence (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — Schoen appears in email correspondence with Jeffrey Epstein among the records released by the House Oversight Committee. As reported by The New Arab (Feb. 2026), the released emails show the two communicating frequently from February 2019 until Epstein's death in August 2019 — including a February 28, 2019 message from Schoen — with Epstein discussing Schoen as early as 2010. Schoen's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

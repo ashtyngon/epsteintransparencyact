@@ -31,3 +31,9 @@ Puri has publicly addressed the emails. According to The News Minute, at a Febru
 ## Is Hardeep Singh Puri in the Epstein files?
 
 Yes. Hardeep Singh Puri, India's Union Petroleum Minister and a former diplomat, is named in the Epstein files released by the U.S. Department of Justice, which include email exchanges with Jeffrey Epstein from 2014 onward — among them a November 13, 2014 message about investment in India's internet sector that Puri has acknowledged sending. Puri has publicly explained the emails as part of his efforts to promote India's economic and digital initiatives and has said he was a private citizen at the time. Being named in the files is not evidence of any crime or wrongdoing. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that name or reference Hardeep Singh Puri. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (full release)](https://www.justice.gov/epstein)** — The Justice Department records released on January 30, 2026, include the 2014–2017 email exchanges between Puri and Epstein, among them the November 13, 2014 message about investment in India's internet sector that Puri has acknowledged sending, as reported by The Wire and The News Minute.

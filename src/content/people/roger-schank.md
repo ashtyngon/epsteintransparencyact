@@ -4,6 +4,7 @@ seoTitle: "Is Roger Schank in the Epstein files? — AI and cognitive-science pi
 seoDescription: "Roger Schank (1946–2023), an American AI and cognitive-science pioneer, was a neighbor of Jeffrey Epstein who showed public support for him after his 2008 conviction."
 aliases: []
 role: "American AI and cognitive-science pioneer (1946–2023)"
+image: "/images/people/roger-schank.jpg"
 category: named-in-documents
 shortBio: "Roger Schank (1946–2023) was an American artificial-intelligence theorist, cognitive psychologist and learning scientist who taught at Yale and Northwestern. Reporting and his Wikipedia biography document that he was a Florida neighbor of Jeffrey Epstein, attended a 2002 conference on Epstein's island, and showed public support for Epstein after his 2008 conviction."
 notableConnections:
@@ -27,3 +28,9 @@ The Wikipedia biography further states that "Epstein files were released in 2026
 ## Is Roger Schank in the Epstein files?
 
 Yes. According to his Wikipedia biography and the Epstein Web tracker reviewed for this profile, Roger Schank was a Florida neighbor of Jeffrey Epstein, attended a 2002 AI conference Epstein sponsored on his island, publicly supported Epstein after his 2008 conviction, and was the author of emails released among 2026 Epstein-file disclosures that reporting describes as deeply misogynist. Being named in or appearing in these documents is not, by itself, evidence of any crime. People appear in this material in many contexts — correspondence, contact books, scheduling, photographs, or passing references. See the sources above for the specific documented context.
+
+## Documents
+
+Primary-source records that name or reference Roger Schank. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per *The Daily Northwestern* and the *Pittsburgh Post-Gazette* (Feb.–Mar. 2026), the DOJ release contains years of email and text correspondence between Schank and Epstein, running from roughly 2009 to 2017 — after Epstein's 2008 conviction — including messages that reporting describes as deeply misogynist.

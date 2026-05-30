@@ -4,6 +4,7 @@ seoTitle: "Is Paul Tweed in the Epstein files? — Defamation lawyer"
 seoDescription: "Paul Tweed is a Northern Irish defamation lawyer reported to have been engaged in 2011 to challenge media descriptions of Jeffrey Epstein."
 aliases: []
 role: "Northern Irish defamation and media lawyer"
+image: "/images/people/paul-tweed.jpg"
 category: legal
 shortBio: "Paul Tweed is a Northern Irish solicitor known for high-profile defamation and reputation cases. Byline Times reported that he was engaged in 2011 to contest media descriptions of Jeffrey Epstein. Tweed says he gave only limited advice and acted within his professional obligations."
 notableConnections:
@@ -27,3 +28,9 @@ Byline Times reported that when questioned, Tweed downplayed his involvement, sa
 ## Is Paul Tweed in the Epstein files?
 
 Paul Tweed's own Wikipedia entry lists Jeffrey Epstein among his clients, and Byline Times reported that Tweed was engaged in 2011 to contest media descriptions of Epstein and corresponded with him over a matter of months. Tweed has said he provided only limited advice, never met Epstein, and did not seek to manage media scrutiny. Inclusion here reflects documented reporting of a professional engagement and does not imply any wrongdoing. See the sources above for the specific context.
+
+## Documents
+
+Primary-source records that reference Paul Tweed. Inclusion in these documents is not, by itself, evidence of wrongdoing; Tweed has said he gave only limited advice, never met Epstein, and did not seek to manage media scrutiny.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Per Byline Times (February 4, 2026), which cites the Justice Department release, the files include 2011 correspondence and invoices between Tweed's then-firm and Epstein, totalling £25,254, relating to letters his firm sent to publications including *Tatler* and *The Telegraph* contesting descriptions of Epstein — among them an email in which Tweed said he had "put some timely pressure on the Telegraph in particular."

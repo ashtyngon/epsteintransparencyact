@@ -41,3 +41,9 @@ MIT placed Lloyd on paid administrative leave while it reviewed the situation. T
 ## Significance
 
 Lloyd's case highlights a pattern in which Epstein used personal grants — paid directly to individual researchers rather than to institutions — to build individual loyalty and personal obligation. A $225,000 personal payment creates a different dynamic than an institutional donation: it binds the recipient directly to the donor. Lloyd's acceptance of the grant and his visits to Epstein's island illustrate how Epstein used financial generosity to cultivate relationships with prominent scientists, leveraging their credibility and intellectual prestige for his own purposes.
+
+## Documents
+
+Primary-source records that name or reference Seth Lloyd. Inclusion in these documents is not, by itself, evidence of wrongdoing; Lloyd has apologized for accepting Epstein's money and was not sanctioned beyond a temporary administrative review.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per MIT's student newspaper *The Tech* (Feb. 2026) and other reporting on the January 2026 DOJ release, the files name Lloyd in correspondence relating to Epstein and quantum-computing publicity, building on earlier disclosures that Lloyd accepted a $225,000 personal grant from Epstein, visited his private island, and maintained contact after Epstein's 2008 conviction.

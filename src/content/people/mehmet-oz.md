@@ -30,3 +30,9 @@ Newsweek further reported that on February 1, 2016, Oz and his wife, Lisa Oz, se
 ## Is Mehmet Oz in the Epstein files?
 
 Yes. Mehmet Oz, the CMS Administrator and former television physician, is named in documents released as part of the Epstein files, primarily through a 2004 travel-expense record and event invitations dated 2014 and 2016, as reported by CBS News and Newsweek. Being named in the files is not evidence of any crime or wrongdoing. Newsweek reported that "Oz has not been accused of any wrongdoing, and appearing in the Epstein files does not imply wrongdoing or criminal behaviour." People appear in these documents in many contexts — correspondence, invitations, scheduling, and transactional records among them. See the sources below for the specific, documented context.
+
+## Documents
+
+Primary-source records that reference Mehmet Oz. Inclusion in these documents is not, by itself, evidence of wrongdoing; Newsweek reported that Oz has not been accused of any wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The Department of Justice's release of Epstein records includes the items that reference Oz: a 2004 transaction record showing Epstein paid $1,592 to Shoppers Travel, Inc. for travel for Oz; a 2014 email invitation (from physician Dean Ornish) to an event with Oz that Epstein said he could not attend; and a February 1, 2016 email from Mehmet and Lisa Oz containing a Valentine's e-card link. CBS News and Newsweek reported these records from the DOJ release.

@@ -50,3 +50,10 @@ Newly released emails added further detail to the relationship. In one exchange,
 ## Context
 
 Jagland's naming in the Epstein files placed him among the most prominent European figures documented in Epstein's network, alongside Sultan Ahmed bin Sulayem of DP World and Lord Peter Mandelson. His case illustrated Epstein's method of embedding himself in institutions of global significance — not merely to associate with powerful individuals, but to use those associations as tools for expanding his network further. The criminal charges filed against Jagland in February 2026 represent one of the most significant legal consequences to emerge from the Epstein files for a European official.
+
+## Documents
+
+Primary-source records that reference Thorbjorn Jagland. Inclusion in these documents is not, by itself, evidence of wrongdoing; Norwegian police charged Jagland with gross corruption in February 2026, and the matter remains under investigation.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — Jagland appears in Epstein's email correspondence among the records made public in the 2025–2026 disclosures. As reported by The New York Times, the emails describe "mutually beneficial ties" in which Jagland "promised influence" while Epstein "had gifts to give"; in one exchange Jagland asked to stay at Epstein's Paris apartment, and in another Epstein suggested Russian Foreign Minister Sergei Lavrov contact Jagland.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Documents concerning Epstein's use of the Nobel connection to reference Jagland in outreach to other figures form part of the broader body of Epstein records released under the Epstein Files Transparency Act.

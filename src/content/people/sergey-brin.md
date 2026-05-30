@@ -28,3 +28,9 @@ Wikipedia's list of people named in the Epstein files states that documents indi
 ## Is Sergey Brin in the Epstein files?
 
 Yes. Sergey Brin, the co-founder of Google, is named in the Epstein files. Reporting documents 2003 emails in which Ghislaine Maxwell invited him to events including a dinner at Epstein's home, and records indicate a visit to Epstein's private island. Being named in these documents is not evidence of any crime or wrongdoing. People appear in the files in many contexts — correspondence, scheduling, photographs, or passing references. See the sources above for the specific, documented context.
+
+## Documents
+
+Primary-source records that name or reference Sergey Brin. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per PBS NewsHour, the DOJ release includes 2003 emails in which Ghislaine Maxwell invited Brin to a film screening and to dinner at Epstein's New York home — which Brin offered to attend with Google's then-CEO Eric Schmidt — and documents indicating a visit to Epstein's private island.

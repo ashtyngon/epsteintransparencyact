@@ -34,3 +34,10 @@ In February 2026, Axel resigned as head of Columbia's Zuckerman Mind Brain Behav
 ## Is Richard Axel in the Epstein files?
 
 Yes. According to Wikipedia's list of people named in the Epstein files and reporting by the Columbia Daily Spectator, MSNBC, and The Daily Beast, Richard Axel — the 2004 Nobel laureate and Columbia University neuroscientist — corresponded with Jeffrey Epstein, was invited to Epstein's island, and made multiple visits to Epstein's Manhattan home. Being named in the files is not evidence of any crime or wrongdoing; Columbia University said it found no evidence that Axel violated any law or university policy, and Axel publicly apologized and resigned from leadership positions in February 2026, calling his association with Epstein a serious error in judgment. See the sources above for the documented context.
+
+## Documents
+
+Primary-source records that reference Richard Axel. Inclusion in these documents is not, by itself, evidence of wrongdoing; Columbia University said it found no evidence that Axel violated any law or university policy.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Reporting on the records the Department of Justice released under the Epstein Files Transparency Act (per the Columbia Daily Spectator, MSNBC, and The Daily Beast) places Axel in the files numerous times, documenting correspondence with Epstein from 2010 to 2019 and an invitation to Epstein's island.
+- **[House Oversight Committee — Epstein records provided by the DOJ (33,295 pages, 2025)](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)** — Axel's correspondence with Epstein is among the Epstein-related records the Department of Justice provided to Congress.

@@ -32,3 +32,9 @@ Ratner has publicly disputed any relationship with Epstein. He told Fox News Dig
 Brett Ratner appears in the public Epstein record through photographs released as part of the Epstein files in late 2025 and early 2026 that show him with Jeffrey Epstein, Epstein associate Jean-Luc Brunel, and unidentified women, as documented by Wikipedia, Fox News, and Deadline. Ratner has said he did not know Epstein and did not have a personal relationship with him, and reporting notes there is no suggestion his inclusion means he was aware of Epstein's wrongdoing.
 
 Being named or appearing in connection with the files is **not** evidence of any crime or wrongdoing. People appear in this record in many contexts — flight logs, correspondence, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Brett Ratner. Inclusion in these documents is not, by itself, evidence of wrongdoing; Ratner has said he did not know Epstein and had no personal relationship with him, and reporting notes there is no suggestion his inclusion means he was aware of Epstein's wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — A batch of Epstein records released by the Justice Department in early 2026 included a photograph showing Ratner with his arm around an unidentified woman seated next to Epstein, per Fox News and Snopes. Ratner says the photo was taken roughly 20 years ago at an event he attended with his then-fiancée. Reporting indicates his name also appears in released correspondence in which Epstein appears to attempt to contact him in December 2010.

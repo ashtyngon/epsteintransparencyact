@@ -4,6 +4,7 @@ seoTitle: "Peggy Siegal & Epstein Files — Hollywood Publicist Associate"
 seoDescription: "Hollywood publicist Peggy Siegal, an Epstein associate, revealed details about his search for a surrogate and a $100K gift in 2026 disclosures."
 aliases: []
 role: "Hollywood publicist and events organizer"
+image: "/images/people/peggy-siegal.jpg"
 category: "named-in-documents"
 shortBio: "Prominent Hollywood publicist and social fixture who maintained a relationship with Jeffrey Epstein. In 2026, Siegal revealed details about Epstein's efforts to find a surrogate mother and disclosed receiving a $100,000 gift from him."
 notableConnections:
@@ -31,4 +32,10 @@ The 2019 reporting carried significant professional consequences. *Variety* repo
 
 ## Is Peggy Siegal in the Epstein files?
 
-As of this writing, Peggy Siegal does not appear in the Wikipedia "List of people named in the Epstein files," which catalogs individuals referenced in the released documents. Her documented connection to Epstein comes instead from contemporaneous news reporting — by *Variety*, *The Hollywood Reporter*, and, as those outlets reference, *The New York Times* — describing social events she helped organize and her association with Epstein after his 2008 conviction, along with her own public statements of regret. Being named or associated with Epstein in news reporting is **not** evidence of any crime or wrongdoing. Siegal has said she was unaware of Epstein's abuse of underage girls and would not have maintained a friendship with him had she known. See the sources above for the specific, documented context, and the note at the bottom of this page.
+As of this writing, Peggy Siegal does not appear in the Wikipedia "List of people named in the Epstein files," which catalogs individuals referenced in the released documents. Her documented connection to Epstein comes instead from contemporaneous news reporting — by *Variety*, *The Hollywood Reporter*, and, as those outlets reference, *The New York Times* — describing social events she helped organize and her association with Epstein after his 2008 conviction, along with her own public statements of regret. *Variety*'s 2026 reporting, however, draws on her correspondence with Epstein contained in the files later released by the Justice Department. Being named or associated with Epstein in news reporting is **not** evidence of any crime or wrongdoing. Siegal has said she was unaware of Epstein's abuse of underage girls and would not have maintained a friendship with him had she known. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Peggy Siegal. Inclusion in these documents is not, by itself, evidence of wrongdoing; Siegal has said she was unaware of Epstein's abuse of underage girls and would not have maintained a friendship with him had she known.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — *Variety* (February 2026) reports that the files released by the Justice Department contain extensive correspondence between Siegal and Epstein, documenting how she helped report on and populate social gatherings and arranged introductions for him, including after his 2008 conviction.

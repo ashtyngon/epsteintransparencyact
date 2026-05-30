@@ -4,6 +4,7 @@ seoTitle: "Is Nick Candy in the Epstein files? — British luxury property devel
 seoDescription: "Nick Candy, a British luxury property developer and former Reform UK treasurer, is named in the Epstein files over emails with Epstein associates from 2004."
 aliases: []
 role: "British luxury property developer and businessman; former Reform UK treasurer"
+image: "/images/people/nick-candy.jpg"
 category: named-in-documents
 shortBio: "Nick Candy is a British luxury property developer and businessman who co-founded the Candy & Candy interior design firm and the CPC Group with his brother Christian, and who was appointed treasurer of Reform UK in December 2024. He is named in the Epstein files in connection with emails exchanged in 2004 with Epstein associates Sarah Kellen and Ghislaine Maxwell; there is no suggestion of wrongdoing on his part."
 notableConnections:
@@ -31,3 +32,9 @@ None of the sources reviewed for this profile quoted a direct statement from Can
 ## Is Nick Candy in the Epstein files?
 
 Yes, but the documented connection is limited and indirect. Nick Candy is named in the Epstein files and in Wikipedia's list of people named in them, on the basis of emails — chiefly from 2004 — in which he was in contact with Epstein associates Sarah Kellen and Ghislaine Maxwell, alongside a reported 2010 property dealing involving One Hyde Park. The reporting reviewed here describes correspondence with members of Epstein's network rather than evidence of any unlawful conduct, and the outlets covering it state explicitly that there is no suggestion of wrongdoing on Candy's part. Being named in these documents is not evidence of any crime. See the sources below for the specific, documented context.
+
+## Documents
+
+Primary-source records that name or reference Nick Candy. Inclusion in these documents is not, by itself, evidence of wrongdoing; the outlets reviewing the material state explicitly that there is no suggestion of wrongdoing on Candy's part.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Per Middle East Eye and Left Foot Forward (February 2026), the released files contain emails — chiefly from 2004 — in which Candy was in contact with Epstein associate Sarah Kellen and sought the email address and phone number of Ghislaine Maxwell. The reporting describes correspondence with members of Epstein's network rather than evidence of any unlawful conduct.

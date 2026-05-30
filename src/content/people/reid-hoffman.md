@@ -36,3 +36,10 @@ According to ABC News and Fortune, the renewed scrutiny coincided with a Trump-o
 ## Is Reid Hoffman in the Epstein files?
 
 Yes. Reid Hoffman, the co-founder of LinkedIn and a venture capitalist, is named in the released Epstein documents. According to Wikipedia's list of people named in the Epstein files, the records include a November 2014 visit to Epstein's island, emails dated 2015 and 2017, Skype calls in 2013 and 2014, and a dinner with Elon Musk, Peter Thiel, and Mark Zuckerberg. Hoffman has said his involvement was limited to fundraising for the MIT Media Lab, has repeatedly expressed regret over the association, and — per ABC News — has called for the full release of the files. Being named in the files is not evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that reference Reid Hoffman. Inclusion in these documents is not, by itself, evidence of wrongdoing; Hoffman says his contact was limited to MIT Media Lab fundraising, and no Epstein survivor has alleged wrongdoing by him.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The November 2025 email release — including a March 2017 message in which Epstein proposed creating a large donor-advised fund — is the basis for the renewed scrutiny of Hoffman's contact with Epstein (per Fortune).
+- **[House Oversight Committee — Epstein records provided by the DOJ (33,295 pages, 2025)](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)** — Hoffman's documented interactions with Epstein, tied to MIT Media Lab fundraising, are among the Epstein-related records released to Congress by the Department of Justice.

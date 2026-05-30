@@ -30,3 +30,9 @@ The Daily Pennsylvanian reported on February 11, 2026, that documents released b
 ## Is Ronald Lauder in the Epstein files?
 
 Yes. According to the Wikipedia "List of people named in the Epstein files," Ronald Lauder's name appears in the files more than 900 times, in connection with a 2014 LLC Epstein helped arrange for Lauder and Leon Black to jointly own a Kurt Schwitters artwork. The Daily Pennsylvanian reported that documents released by the Department of Justice show communications between the two men's offices as recently as 2017. The Daily Pennsylvanian noted that Lauder "did not respond to a request for comment" and that he "has not been accused of any wrongdoing in connection with Epstein or his crimes." Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, including correspondence, scheduling, and business or financial arrangements.
+
+## Documents
+
+Primary-source records that name or reference Ronald Lauder. Inclusion in these documents is not, by itself, evidence of wrongdoing; per *The Daily Pennsylvanian*, Lauder has not been accused of any wrongdoing in connection with Epstein or his crimes.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per *The Daily Pennsylvanian* (Feb. 11, 2026), the DOJ release contains documents naming Lauder; his name appears in the files more than 900 times. The records describe Friends Ventures LLC, set up around 2013–2014 under Epstein's supervision for Lauder and Leon Black to jointly own a $25 million Kurt Schwitters artwork, and correspondence between the two men's offices as recently as a scheduled February 2017 visit to Epstein's home.

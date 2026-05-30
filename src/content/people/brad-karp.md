@@ -32,3 +32,10 @@ Karp resigned as chairman of Paul Weiss on February 4, 2026. He remained at the 
 ## Context
 
 Karp's case was one of several involving prominent legal figures whose connections to Epstein became matters of public record through the document releases. [Kathryn Ruemmler](/people/kathryn-ruemmler), the former White House counsel and Goldman Sachs general counsel, resigned from Goldman on February 13, 2026 after "Uncle Jeffrey" emails surfaced. The parallel cases illustrated the extent to which Epstein had cultivated relationships with some of the most powerful lawyers in the country — relationships that those individuals maintained even after his 2008 conviction.
+
+## Documents
+
+Primary-source records that reference Brad Karp. Inclusion in these documents is not, by itself, evidence of wrongdoing; Paul Weiss has stated the firm was adverse to Epstein and that neither it nor Karp ever represented him.
+
+- **[House Oversight Committee — Epstein email correspondence release](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — Karp's documented tie is to email correspondence with Epstein surfaced through the 2025–2026 disclosures. According to ABA Journal and Bloomberg Law reporting, the correspondence includes a March 3, 2019 email in which Karp reviewed and praised a draft court filing arguing Epstein's 2008 plea deal should not be reopened.
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — The Justice Department released a further batch of Epstein records on January 30, 2026 that included additional Karp–Epstein correspondence; reporting indicates the exchanges date back as early as 2013.

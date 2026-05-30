@@ -44,3 +44,9 @@ Harvard's 2020 internal review, ordered by then-President Lawrence Bacow, acknow
 ## Significance
 
 Nowak's case represents one of the most direct examples of Epstein's strategy of using targeted academic funding to buy access and intellectual prestige. A $6.5 million donation to create a named research program gave Epstein a permanent institutional foothold at Harvard — a reason to visit campus, meet with faculty, and present himself as a serious science philanthropist. The fact that this access persisted after a sex crimes conviction underscores the difficulty institutions faced in severing ties with a donor who had embedded himself into their intellectual infrastructure.
+
+## Documents
+
+Primary-source records that reference Martin Nowak. Inclusion in these documents is not, by itself, evidence of wrongdoing; Nowak's connection to Epstein was an academic-funding relationship, and he has not been accused of any crime.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Nowak is named once in the documents unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). In a court filing, Alan Dershowitz lists "Martin Nowak" among "dozens of other academics and public figures who were associated with Mr. Epstein" — alongside names such as Larry Summers, Stephen Hawking, Steven Pinker, George Church and Richard Dawkins — as part of an argument that mere association with Epstein does not implicate a person. The mention concerns Epstein's academic circle, not any allegation against Nowak.

@@ -5,6 +5,7 @@ seoDescription: "Leon Black paid Epstein ~$158M (Senate investigators say ~$170M
 aliases:
   - "Leon D. Black"
 role: "Billionaire private equity executive, co-founder of Apollo Global Management"
+image: "/images/people/leon-black.jpg"
 category: "named-in-documents"
 shortBio: "Co-founder of Apollo Global Management who paid Jeffrey Epstein for tax and estate planning advice between 2012 and 2017 — after Epstein's 2008 conviction. A board-commissioned Dechert review put the total around $158 million; Senate investigators later put it near $170 million. Black stepped down as Apollo's CEO and chairman in March 2021. In 2026, school districts severed contracts with Lifetouch after its corporate ties to Black surfaced amid Epstein file releases."
 notableConnections:
@@ -63,3 +64,9 @@ In February 2026, [school districts began canceling contracts with Lifetouch](/n
 ## What Is Established
 
 Black has never been charged with any crime in connection with Epstein, and he has denied wrongdoing. The board-commissioned Dechert review found no evidence that he was involved in Epstein's criminal activities. What is established is that Black maintained a paid relationship with Epstein for five years after Epstein's 2008 conviction, paying him a sum the Dechert review put at about $158 million and Senate investigators later put at about $170 million — and that the institutional consequences of that relationship extended to school districts across the country in 2026. The Senate Finance Committee's [continuing investigation](/news/2026-04-13-wyden-sets-deadline-for-leon-black-on-170-million-epstein-payments) into those payments remains ongoing.
+
+## Documents
+
+Primary-source records that name or reference Leon Black. Inclusion in these documents is not, by itself, evidence of wrongdoing; Black has never been charged with any crime in connection with Epstein and denies all allegations, and a board-commissioned independent review found no evidence he was involved in Epstein's criminal activities.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The Justice Department's release of investigative records documents Epstein's relationship with Black, including material on the payments Black made to him. The release also contains third-party allegations against Black; through his attorney he has called them "false and fraudulent," and they remain uncharged and disputed.

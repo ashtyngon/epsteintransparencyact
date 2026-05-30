@@ -30,3 +30,9 @@ In the reporting reviewed for this profile, Boyden is named only as the honoree 
 ## Is Edward Boyden in the Epstein files?
 
 Yes, but only in a limited and indirect way. Edward Boyden is named in the Epstein files and in related reporting solely as the person being honored at a 2015 Palo Alto dinner that Epstein later referenced in unsealed emails. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts, and in Boyden's case the documented connection is that a dinner held in his honor was attended by figures Epstein wrote about afterward. See the sources below for the specific, documented context.
+
+## Documents
+
+Primary-source records that reference Edward Boyden. Inclusion in these documents is not, by itself, evidence of wrongdoing; Boyden's only documented connection is as the honoree of a dinner, and there is no reported indication he corresponded with or had any relationship with Epstein.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Boyden is referenced in the released Epstein files as the honoree of an August 2015 Palo Alto dinner, hosted by Reid Hoffman, that Jeffrey Epstein described in an email. As reported by The Daily Beast, the email and an accompanying photo place other figures at the dinner; Boyden is named only as the person being honored. His name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

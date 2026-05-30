@@ -33,3 +33,9 @@ Brende's own account differs in scale from the figures cited above. According to
 Yes. Børge Brende, the former Norwegian foreign minister who served as President of the World Economic Forum until February 2026, is named in reporting on the Jeffrey Epstein files. Wikipedia's list of people named in the files states he exchanged more than 120 emails and texts with Epstein and attended dinners at Epstein's New York townhouse, while Brende himself described his contact as three business dinners and "a few emails and SMS messages" and said he was unaware of Epstein's criminal history. He resigned from the World Economic Forum on February 26, 2026, following the scrutiny.
 
 Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Børge Brende. Inclusion in these documents is not, by itself, evidence of wrongdoing; Brende said he was unaware of Epstein's criminal history and described his contact as three business dinners and a few emails and texts.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The emails and text messages between Brende and Epstein are part of the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3-million-page release made in late 2025 and early 2026). Reporting on the release (CNN, Al Jazeera) describes the correspondence and dinners that prompted the World Economic Forum's independent review and Brende's February 2026 resignation.

@@ -34,3 +34,9 @@ In February 2026, several outlets reported that emails between Pierce and [Jeffr
 Yes. In February 2026, *Fortune*, *CoinDesk*, and *Protos* reported that emails between Brock Pierce and Jeffrey Epstein — concerning cryptocurrency investments, including Epstein's 2014 investment in Coinbase — appeared in newly released US Department of Justice records. The reporting describes a documented correspondence and advisory relationship; *Fortune* noted that Pierce has not been linked to any wrongdoing in connection with Epstein, and Pierce had not publicly responded to requests for comment as of those reports.
 
 Being named in or appearing in the files is **not** evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Brock Pierce. Inclusion in these documents is not, by itself, evidence of wrongdoing; *Fortune* reported that Pierce has not been linked to any wrongdoing in connection with Epstein.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Newly released Justice Department records reported in February 2026 by *Fortune*, *CoinDesk*, and *Protos* include email correspondence between Pierce and Epstein about cryptocurrency investments — among them a December 2, 2014 message in which Pierce described a Coinbase funding round to Epstein as "the most platinum-plated deal in the space."

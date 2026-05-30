@@ -30,3 +30,9 @@ Reporting by Meaww (published November 2025) independently notes that Getty's em
 ## Is Gordon Getty in the Epstein files?
 
 Yes. Gordon Getty is named in connection with the Jeffrey Epstein files through email correspondence dated 2013–2018, after an introduction by Robert Trivers, as documented by Wikipedia (drawing on files released in 2026) and reported by Meaww. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — including correspondence, contact records, scheduling, and passing references. See the sources above for the specific documented context.
+
+## Documents
+
+Primary-source records that name or reference Gordon Getty. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[House Oversight Committee — Epstein records provided by the DOJ](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)** — The records released by the House Oversight Committee on January 30, 2026, include the 2013–2018 email correspondence between Epstein and Getty, who was introduced to Epstein by the evolutionary scientist Robert Trivers, as reported by Meaww and the Chronicle of Higher Education.

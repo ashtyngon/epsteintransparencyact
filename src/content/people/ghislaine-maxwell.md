@@ -142,3 +142,11 @@ Maxwell's deposition in that case, taken in 2016, included numerous instances wh
 The Maxwell trial established — through sworn testimony, corroborating evidence, and a unanimous jury verdict — that Epstein did not act alone. His trafficking operation required a sophisticated partner who could identify vulnerable targets, build their trust, and manage the logistics of abuse across multiple properties and jurisdictions.
 
 Ghislaine Maxwell was that partner. The jury concluded that she was not a passive bystander, not a victim of Epstein's manipulation, and not merely aware of the abuse. She was a participant and a co-conspirator who played an indispensable role in one of the most extensive sex trafficking operations ever prosecuted in the United States.
+
+## Documents
+
+Primary-source records that name or reference Ghislaine Maxwell, the only person tried and convicted for her role in Epstein's trafficking operation.
+
+- **[United States v. Ghislaine Maxwell — criminal court records (S.D.N.Y., 20-cr-330)](https://www.justice.gov/epstein/doj-disclosures/court-records-united-states-v-maxwell-no-120-cr-00330-sdny-2020)** — The full record of the criminal prosecution in which Maxwell was convicted in December 2021 on five counts, including sex trafficking of a minor, and sentenced to 20 years. Four accusers testified, and the flight logs and Epstein's pilots' testimony were entered as evidence.
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Maxwell is the named defendant in this civil defamation case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Her own 2016 deposition, accuser depositions, and thousands of pages of exhibits were unsealed beginning in January 2024, providing among the most detailed accounts of Epstein's operation in any proceeding.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025 and previously entered as evidence at her trial, record Maxwell as one of the most frequent passengers.

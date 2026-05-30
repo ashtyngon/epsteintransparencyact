@@ -44,3 +44,10 @@ Prince Andrew's friendship with Epstein — facilitated through [Ghislaine Maxwe
 ## What Is Established
 
 Ferguson has never been charged with any crime in connection with Epstein. She acknowledged the 2011 payment and called it an error. The 2026 document release added a new dimension: evidence of direct messages to Epstein after his conviction, and the subsequent closure of six businesses. The full scope of her contact with Epstein beyond these documented interactions has not been publicly established.
+
+## Documents
+
+Primary-source records that name or reference Sarah Ferguson. Inclusion in these documents is not, by itself, evidence of wrongdoing; Ferguson has never been charged with any crime in connection with Epstein.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — In one deposition unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433), a witness listing celebrities seen at Epstein's home named "Princess Sarah, the wife of Andrew," confirmed on the record as Sarah Ferguson. This is a single passing reference; no allegation against Ferguson attaches to it.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per *The Guardian* (Feb. 2026) and CNN (Mar. 2026), the DOJ release of Epstein's correspondence includes affectionate messages Ferguson sent to Epstein after his 2008 conviction, in which she addressed him as a "supreme friend" and sought financial help.

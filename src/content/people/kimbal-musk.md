@@ -34,3 +34,9 @@ Musk has responded publicly. MS NOW reports that he wrote on X on February 9, 20
 ## Is Kimbal Musk in the Epstein files?
 
 Yes. Kimbal Musk, a businessman and restaurateur and the brother of Elon Musk, appears in released Epstein documents through emails dated to the early 2010s, according to Wikipedia, Boulder Reporting Lab and Fortune. The reporting documents social contact with Epstein, an island invitation that the records do not show was taken up, and an introduction to a woman in Epstein's circle facilitated in part by associate Boris Nikolic. Musk has disputed parts of the account, saying Epstein did not introduce them and attributing the email volume to a mass newsletter, though Fortune notes an email in which he thanked Epstein and Nikolic for "connecting" him. Being named in the files is not evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that reference Kimbal Musk. Inclusion in these documents is not, by itself, evidence of wrongdoing; Musk has disputed parts of the reporting.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The emails released by the House Oversight Committee include correspondence referencing Musk, who according to reporting on the release (TIME, Boulder Reporting Lab) is referenced across the records in connection with social contacts, invitations, and an introduction to a woman in Epstein's circle.

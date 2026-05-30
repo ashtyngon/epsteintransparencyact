@@ -139,3 +139,11 @@ Giuffre's core account — recruitment by Maxwell at Mar-a-Lago at age 16, traff
 Her specific allegations against Prince Andrew were settled without adjudication. Her allegations against Alan Dershowitz were formally walked back in a 2024 settlement. Her accounts regarding other named individuals have not been independently adjudicated.
 
 The January 2024 document unsealing and the subsequent Epstein Transparency Act releases have broadly supported the framework of Giuffre's accounts while raising questions about specific identifications. Her role in forcing transparency in the Epstein case — through litigation, public testimony, and sheer persistence — is a matter of public record.
+
+## Documents
+
+Primary-source records from Virginia Giuffre's legal actions and testimony. As the central survivor and plaintiff in much of the Epstein litigation, Giuffre is named throughout these records.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Giuffre's own 2015 defamation suit against Ghislaine Maxwell (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). The 2024 unsealing of this case — the result of years of litigation by Giuffre, the Miami Herald, and others — produced her depositions and the bulk of the public documentary record on Epstein's network. Giuffre is named throughout.
+- **[Giuffre v. Prince Andrew — civil complaint (2021)](https://www.courtlistener.com/docket/60119368/giuffre-v-prince-andrew/)** — Giuffre's August 2021 lawsuit accusing Prince Andrew of battery and intentional infliction of emotional distress (S.D.N.Y., No. 1:21-cv-06702), alleging abuse when she was 17. Settled in February 2022 with no admission of liability.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025, corroborate Giuffre's accounts of being transported between Epstein's properties.

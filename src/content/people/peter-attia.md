@@ -32,3 +32,10 @@ Following the release of the correspondence, Attia stepped down from his positio
 ## Public Profile
 
 Attia had built a substantial reputation in the health and longevity space in the years prior to the disclosure, including publishing a widely-read book on longevity medicine. His case was notable in that his professional reputation rested substantially on questions of scientific rigor and personal integrity — values that his documented association with Epstein placed under scrutiny. He remains a licensed physician.
+
+## Documents
+
+Primary-source records that reference Peter Attia. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The released correspondence is the basis for Attia's documented contact with Epstein, including the multi-year email exchanges in which he gave medical advice and the crude emails about women that drew public attention after publication.
+- **[House Oversight Committee — Epstein records provided by the DOJ (33,295 pages, 2025)](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)** — Attia's communications with Epstein are among the materials released to Congress by the Department of Justice as part of the wider disclosure that preceded his February 2026 resignation.

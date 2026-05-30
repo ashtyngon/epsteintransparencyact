@@ -32,3 +32,10 @@ The Journal reported that the 2011 correspondence connected Boehly to a proposed
 ## Is Todd Boehly in the Epstein files?
 
 Yes. According to the Wikipedia list of people named in the Epstein files and to reporting by Front Office Sports and The Journal, Todd Boehly appears in the files through 2011 emails in which Epstein arranged business meetings involving Boehly, then a Guggenheim Partners managing partner, in connection with a proposed financial deal and a bid to buy the Silverstone racetrack. Being named in the files is not evidence of any crime or wrongdoing. The documented context here is business correspondence and meeting arrangements; based on the sources reviewed, no allegation of misconduct has been reported against Boehly, and no response from him was reported.
+
+## Documents
+
+Primary-source records that reference Todd Boehly. Inclusion in these documents is not, by itself, evidence of wrongdoing; the documented context is business correspondence, and no allegation of misconduct has been reported against Boehly.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — Boehly appears in Epstein's email correspondence among the records made public in the 2025–2026 disclosures. As reported by Front Office Sports and The Journal, 2011 emails show Epstein arranging two business meetings involving Boehly, then a Guggenheim Partners managing partner, in connection with a proposed Allied Irish Banks deal and a consortium bid to buy the Silverstone racetrack.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — The Boehly correspondence forms part of the broader body of Epstein records released by the U.S. Department of Justice under the Epstein Files Transparency Act.

@@ -59,3 +59,9 @@ Given Rogan's perceived influence on the 2024 presidential election and his enor
 ## Contrast with Other Media Figures
 
 Rogan's approach to being named in the files — acknowledging the mention and providing full context — contrasted with that of other media personalities. British broadcaster [Piers Morgan](/people/piers-morgan), who appeared 29 times in the files, publicly disputed and refused to accept that his name was in the documents. The two responses illustrate different strategies adopted by public figures confronted with their documented proximity to Epstein's network.
+
+## Documents
+
+Primary-source records that reference Joe Rogan. Inclusion in these documents is not, by itself, evidence of wrongdoing; the only reference is a failed third-party attempt to introduce Epstein to Rogan, and no meeting or direct contact occurred.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Rogan's sole appearance is in a September 2017 email exchange between Epstein and physicist Lawrence Krauss, released as part of the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3.5-million-page release made in January 2026). Epstein asked Krauss to introduce him to Rogan after seeing Rogan's interview with Krauss; Krauss reported back that Rogan was unresponsive. Rogan is not in Epstein's contact book or the flight logs, and no direct correspondence between the two exists in the released files.

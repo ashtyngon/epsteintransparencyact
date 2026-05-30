@@ -32,3 +32,9 @@ The Standard and The South African also report that an FBI document dated 2017 r
 ## Is Robert Mugabe in the Epstein files?
 
 Only indirectly. Mugabe is listed by Wikipedia among people named in the Epstein files, but the references are second-hand: he is discussed in a 2015 Epstein email exchange with Joi Ito, and he is named in an unverified 2017 FBI source claim about wealth management. According to the sources reviewed here, there is no documented evidence that Epstein and Mugabe ever met, communicated directly, or did business together — Epstein himself said in the email that he was not close to Mugabe. Being referenced in these documents is not evidence of any crime or wrongdoing, and the wealth-manager allegation was expressly described by reporters as unverified.
+
+## Documents
+
+Primary-source records that reference Robert Mugabe. Inclusion in these documents is not, by itself, evidence of wrongdoing; the references to Mugabe are indirect and second-hand, and the wealth-manager claim was reported as unverified.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per BBC News reporting (republished by Zimbabwe's *The Standard*), the DOJ release includes a 2015 email exchange in which Epstein discussed approaching Mugabe about a new Zimbabwean currency, telling Joi Ito he was not close to Mugabe but "can easily get his attention." The release also includes a 2017 FBI document recording an unverified confidential-source claim that Epstein acted as a "wealth manager" for Mugabe. There is no documented meeting or direct contact between the two men.

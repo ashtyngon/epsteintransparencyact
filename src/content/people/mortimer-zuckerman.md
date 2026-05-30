@@ -31,3 +31,10 @@ Al Jazeera also reports that Epstein sought to influence coverage in the *New Yo
 ## Is Mortimer Zuckerman in the Epstein files?
 
 Yes. Based on the sources reviewed for this profile, Mortimer Zuckerman is named in reporting on the Epstein files — documented through a contribution to Epstein's 50th-birthday book, a financial advisory relationship, email correspondence, and Epstein's efforts to shape coverage in the *New York Daily News* during Zuckerman's ownership. Per Al Jazeera, Zuckerman has never been accused of any involvement in Epstein's crimes. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, business dealings, scheduling, or passing references. See the sources above for the specific documented context.
+
+## Documents
+
+Primary-source records that name or reference Mortimer Zuckerman. Inclusion in these documents is not, by itself, evidence of wrongdoing; per Al Jazeera, Zuckerman has never been accused of any involvement in Epstein's crimes.
+
+- **[House Oversight Committee (Democrats) — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The released email correspondence documents exchanges between Epstein and Zuckerman, including the messages in which Epstein sought to shape *New York Daily News* coverage of the abuse allegations — among them an instruction to "take ghislaine out" of a piece — and a 2014 message in which Zuckerman called Epstein "a great friend."
+- **[House Oversight Committee — additional Epstein estate documents (2025)](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)** — The estate materials released by the committee include the book of letters compiled for Epstein's 50th birthday, to which Zuckerman is reported to have contributed.

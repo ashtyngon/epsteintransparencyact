@@ -35,3 +35,9 @@ Asked about the dinner, Zuckerberg's representatives told The Daily Beast: "Mark
 ## Is Mark Zuckerberg in the Epstein files?
 
 Mark Zuckerberg is referenced in the Epstein files, but only indirectly. According to Wikipedia's list of people named in the files, he does not have his own entry and is mentioned solely within the entries of Edward Boyden and Reid Hoffman, in connection with a single August 2015 dinner in Palo Alto that Epstein also attended and photographed. The Daily Beast, citing Department of Justice document releases, reported that Epstein described the dinner as "wild" in an August 20, 2015 email and kept a photo of the attendees, and that Zuckerberg's representatives said Mark met Epstein in passing one time and did not communicate with him again afterward. Being named or appearing in these documents is **not** evidence of any crime or wrongdoing; people are referenced in many contexts — including correspondence, photographs, and passing mentions by third parties — and an indirect reference of this kind does not establish a personal relationship.
+
+## Documents
+
+Primary-source records that reference Mark Zuckerberg. Inclusion in these documents is not, by itself, evidence of wrongdoing; Zuckerberg is referenced only indirectly — via a photograph and within other people's entries — and his representatives say he met Epstein in passing once and had no further contact.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Among the Department of Justice's release of Epstein records is a photograph Epstein sent himself (dated August 3, 2015) showing attendees at an August 2015 Palo Alto dinner, including Zuckerberg and Priscilla Chan, and an August 20, 2015 email in which Epstein described the gathering as "wild." Zuckerberg is not the subject of any direct correspondence in the material. The Daily Beast reported these items from the DOJ release.

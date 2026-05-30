@@ -32,3 +32,9 @@ Kotick has responded through his attorney. As quoted in an App Trigger retractio
 ## Is Bobby Kotick in the Epstein files?
 
 Yes. Bobby Kotick, the former CEO of Activision Blizzard, is named in materials released from the Epstein files, which include email correspondence between him and Jeffrey Epstein dating to 2012 and 2013, according to Wikipedia and reporting by GameSpot. Being named in these documents is not evidence of any crime or wrongdoing. Kotick's attorney has said he never discussed any Activision business with Epstein, and one outlet that initially tied him to commercial microtransaction strategy later retracted that characterization.
+
+## Documents
+
+Primary-source records that reference Bobby Kotick. Inclusion in these documents is not, by itself, evidence of wrongdoing; Kotick's attorney says he never discussed any Activision business with Epstein.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The emails between Kotick and Epstein are part of the Justice Department's Epstein Files Transparency Act disclosure (released in early 2026). As reported by GameSpot, more than a dozen emails dated 2012 and 2013 show the two arranging to meet; Kotick's attorney has said he never discussed Activision business with Epstein and does not know one of the other people referenced in the exchanges.

@@ -4,6 +4,7 @@ seoTitle: "Maria Farmer & Epstein Case — Early Accuser and Survivor"
 seoDescription: "Maria Farmer was one of the first people to report Jeffrey Epstein and Ghislaine Maxwell to the FBI in 1996. Her early warnings went unheeded for years."
 aliases: []
 role: "Artist and Epstein survivor"
+image: "/images/people/maria-farmer.jpg"
 category: "victim-survivor"
 shortBio: "One of the earliest known accusers of Jeffrey Epstein and Ghislaine Maxwell. Farmer reported both to the FBI in 1996 after being sexually assaulted, but her complaint was not acted upon for years. Her courageous early reporting helped establish a pattern of abuse that later corroborated other survivors' accounts."
 notableConnections:

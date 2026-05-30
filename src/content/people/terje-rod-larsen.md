@@ -31,3 +31,10 @@ Newly unsealed documents made public in early 2026 revealed that Rød-Larsen and
 ## Criminal Investigation
 
 Norwegian police opened a corruption investigation into Rød-Larsen and Juul as of February 8, 2026. The investigation centers on the financial dealings between the couple and Epstein. Rød-Larsen's case represents one of the more documented financial entanglements in the released files, combining a personal loan, institutional donations, and a multimillion-dollar testamentary bequest — spanning a period that included years after Epstein's 2008 conviction for soliciting a minor.
+
+## Documents
+
+Primary-source records that reference Terje Rød-Larsen. Inclusion in these documents is not, by itself, evidence of wrongdoing; the financial dealings are the subject of an ongoing Norwegian investigation, and Rød-Larsen has not been charged.
+
+- **[House Oversight Committee — additional Epstein estate documents (2025)](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)** — As reported by The New York Times, records made public in early 2026 showed that Rød-Larsen and his wife, Mona Juul, were left $10 million in Epstein's will, indicating a financial relationship more extensive than the donations and personal loan disclosed in 2020.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Rød-Larsen's documented financial ties to Epstein form part of the broader body of Epstein records released under the Epstein Files Transparency Act.

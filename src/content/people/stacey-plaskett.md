@@ -31,3 +31,9 @@ Plaskett has defended the exchange. ABC News quoted her telling CNN, "I believed
 ## Is Stacey Plaskett in the Epstein files?
 
 Yes. Released records and reporting reviewed for this profile document that Stacey Plaskett exchanged text messages with Jeffrey Epstein during the February 27, 2019, House Oversight Committee hearing at which Michael Cohen testified, and that Epstein supplied her with information used in her questioning. A 2025 House resolution to censure her over the texts failed. Plaskett has said she sought information to "get at the truth" and has noted that Epstein, who owned property in the U.S. Virgin Islands, was a constituent at the time. Being named in or connected to the Epstein files is not, by itself, evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that name or reference Stacey Plaskett. Inclusion in these documents is not, by itself, evidence of wrongdoing; Plaskett has said she was seeking information and was not censured by the House.
+
+- **[House Oversight Committee — additional Epstein estate documents (2025)](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)** — Per *The Washington Post* and NPR (Nov. 2025), this 20,000-page release of Epstein estate records includes the text exchange in which Epstein fed Plaskett information — including a reference to Rhona Graff as "keeper of the secrets" — during the February 27, 2019 hearing at which Michael Cohen testified, followed by Epstein's message "Good work."

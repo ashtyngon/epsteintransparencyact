@@ -47,3 +47,11 @@ Marcinkova later changed her name to Nadia Marcinko and obtained a commercial pi
 ## What Is Established
 
 Marcinkova was named as a potential co-conspirator by federal prosecutors. Victim statements describe her participation in abuse. She was brought to the U.S. by Epstein as a minor. She received immunity under the 2008 deal and has never been charged. The question of whether she was primarily a victim or a facilitator — or both — has never been resolved in court.
+
+## Documents
+
+Primary-source records that name Nadia Marcinkova. Marcinkova received immunity under the 2008 non-prosecution agreement and has never been charged.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Marcinkova is named repeatedly in the records unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Virginia Giuffre's filings describe her and Sarah Kellen as "heavily involved in the sex trafficking"; she was among the persons Giuffre sought to subpoena; she invoked her Fifth Amendment privilege in related litigation; and her own April 13, 2010 deposition is filed as an exhibit.
+- **[DOJ Office of Professional Responsibility report on the 2006–2008 investigation and non-prosecution agreement (Nov. 2020)](https://www.justice.gov/opr/page/file/1336471/dl)** — Marcinkova was one of four individuals named as a potential co-conspirator of Epstein in the 2008 non-prosecution agreement examined in this report; the agreement's terms extended immunity to those named co-conspirators.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025; court filings in Giuffre v. Maxwell note that Marcinkova appears repeatedly on the flight logs.

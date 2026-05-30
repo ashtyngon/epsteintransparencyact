@@ -64,3 +64,9 @@ In February 2026, Gates [withdrew from a scheduled appearance at an artificial i
 ## What Is Established
 
 Gates has not been accused of any criminal conduct in connection with Epstein, and reporting on the released documents does not allege that he participated in or knew of Epstein's crimes. The documented facts are: he met Epstein multiple times after the 2008 conviction, Gates Foundation staff discussed possible philanthropic arrangements with Epstein, and no charitable partnership resulted. Gates has repeatedly described the association as a mistake and an error in judgment, and has denied any wrongdoing related to Epstein.
+
+## Documents
+
+Primary-source records that name or reference Bill Gates. Inclusion in these documents is not, by itself, evidence of wrongdoing; Gates has called meeting Epstein a serious error in judgment and has denied any wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The Justice Department's Epstein Files Transparency Act disclosure (the roughly 3-million-page release made in early 2026) includes correspondence between Epstein and Gates Foundation staff concerning hoped-for philanthropy. The Gates Foundation has confirmed the emails and said it ultimately pursued no collaboration with Epstein and made no payments to him. The release also contained unsent draft emails Epstein wrote to himself making claims about Gates; Gates has said those claims are false and were never sent.

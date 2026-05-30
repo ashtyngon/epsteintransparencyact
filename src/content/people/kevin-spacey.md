@@ -31,3 +31,10 @@ Spacey has addressed the trip publicly, saying he later learned that the aircraf
 ## Is Kevin Spacey in the Epstein files?
 
 Yes. Kevin Spacey is named in the Epstein flight records as a passenger on a 2002 trip aboard a plane owned by Jeffrey Epstein that also carried former president Bill Clinton, on what has been described as a humanitarian mission focused on HIV/AIDS. Spacey has said he was invited by Clinton and only afterward learned the aircraft belonged to Epstein. Being named in these records is not evidence of any crime or wrongdoing, and the sourced reporting does not allege criminal conduct by Spacey in connection with the trip. See the sources below for the documented context.
+
+## Documents
+
+Primary-source records that name or reference Kevin Spacey. Inclusion in these records is not, by itself, evidence of wrongdoing; the reporting does not allege criminal conduct by Spacey.
+
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft record Spacey as a passenger on the 2002 Africa trip he has described, including a logged segment carrying Spacey alongside Bill Clinton.
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Spacey is referenced in the records unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433): a flight/contact entry lists "President Clinton, Kevin Spacey," and deponents were questioned about whether they had met him, with one witness recalling nothing of note about him.

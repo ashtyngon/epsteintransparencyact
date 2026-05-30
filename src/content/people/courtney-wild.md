@@ -51,3 +51,10 @@ Wild has remained an advocate for Epstein's survivors and for stronger victims'-
 ## What Is Established
 
 Courtney Wild's account of being abused by Epstein is part of the documented record of his Palm Beach crimes, and her legal challenge produced one of the most consequential appellate rulings to come out of the case. Her fight did not overturn the non-prosecution agreement, but it forced into public view exactly how prosecutors had sidelined victims — a failure that has since driven both the congressional investigation into the deal and the broader push for transparency around the Epstein files.
+
+## Documents
+
+Primary-source records from Courtney Wild's legal challenge to Epstein's secret plea deal.
+
+- **[In re: Courtney Wild — Eleventh Circuit en banc opinion (April 15, 2021)](https://media.ca11.uscourts.gov/opinions/pub/files/201913843.enb.pdf)** — The published opinion in Wild's Crime Victims' Rights Act case (No. 19-13843), in which she argued that federal prosecutors violated her rights by concealing Epstein's 2007–2008 non-prosecution agreement. The court ruled 6–4 against her on technical grounds while expressing sympathy for the victims who were "left in the dark."
+- **[DOJ Office of Professional Responsibility report on the 2006–2008 investigation (Nov. 2020)](https://www.justice.gov/opr/page/file/1336471/dl)** — The department's own 290-page review of how the non-prosecution agreement Wild challenged came about; it found that U.S. Attorney Alexander Acosta exercised "poor judgment."

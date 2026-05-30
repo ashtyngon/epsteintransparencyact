@@ -32,3 +32,9 @@ According to The Panther, Chapman University's student newspaper, Chapman ended 
 ## Is Jack Horner in the Epstein files?
 
 Yes. Paleontologist Jack Horner is named in the Epstein files through correspondence: according to the Daily Montanan, he visited an Epstein-owned New Mexico property in 2012 and exchanged emails afterward, including discussion of Epstein's interest in funding a research project. As reported by The Panther, his employment at Chapman University ended in early 2026 following the release of those emails. Being named in this context is not evidence of any crime or wrongdoing, and the reporting reviewed here does not allege any. Horner had not provided a public response in the sources reviewed. See the sources above for the specific, documented details.
+
+## Documents
+
+Primary-source records that reference Jack Horner. Inclusion in these documents is not, by itself, evidence of wrongdoing; the reporting reviewed here does not allege any wrongdoing by Horner.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Horner is named in email correspondence among the Epstein files released by the Department of Justice. As reported by the Daily Montanan, the emails document his summer 2012 visit to an Epstein-owned New Mexico ranch for a paleontological tour and subsequent exchanges, including Epstein's expressed interest in funding Horner's "Dinochicken Project." The reporting describes him only as named in released correspondence, not as an accuser or wrongdoer.

@@ -28,3 +28,10 @@ Churkin is listed on Wikipedia's "List of people named in the Epstein files." Th
 ## Is Vitaly Churkin in the Epstein files?
 
 Yes. Vitaly Churkin, who was Russia's Permanent Representative to the United Nations from 2006 until his death in 2017, is named in connection with the released Epstein files. The documented reference is 2016 correspondence between Churkin and a counterpart that Meduza and Wikipedia (citing CNN) identify as Jeffrey Epstein, primarily concerning Epstein helping Churkin's son Maxim secure work in the United States. Being named in these files is not evidence of any crime or wrongdoing; people appear in such documents in many contexts, including ordinary correspondence. See the sources above for the specific documented context.
+
+## Documents
+
+Primary-source records that reference Vitaly Churkin. Inclusion in these documents is not, by itself, evidence of wrongdoing; the documented context is ordinary correspondence, and no allegation of misconduct has been reported against Churkin.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — Churkin appears in Epstein's email correspondence among the records made public in the 2025–2026 disclosures. As reported by Meduza, 2016 emails between Churkin and a counterpart it identifies as Epstein concern Epstein helping Churkin's son Maxim find work — including Epstein writing "Max doing better" and Churkin replying "U r a great teacher!"
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — The Churkin correspondence forms part of the broader body of Epstein records released by the U.S. Department of Justice under the Epstein Files Transparency Act.

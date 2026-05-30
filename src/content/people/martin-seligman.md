@@ -29,3 +29,9 @@ In statements to The Daily Pennsylvanian, Seligman disputed claims that Epstein 
 ## Is Martin Seligman in the Epstein files?
 
 Yes. Martin Seligman's name appears in correspondence within the released Epstein documents, in which Epstein referenced him as a contact and described him visiting his New Mexico ranch, according to The Daily Pennsylvanian's February 23, 2026 review of the files. Seligman has confirmed meeting Epstein at a 2004 dinner and attending an academic seminar at the ranch in 2006 or 2007, but he has stated that he had no personal relationship with Epstein, no contact after 2007, and that Epstein never funded his research. Being named in or referenced within the documents is not evidence of wrongdoing, and the reporting states that Seligman has not been accused of any wrongdoing in connection with Epstein or his crimes ([The Daily Pennsylvanian](https://www.thedp.com/article/2026/02/penn-professor-epstein-research-seligman-psychology-trump)).
+
+## Documents
+
+Primary-source records that reference Martin Seligman. Inclusion in these documents is not, by itself, evidence of wrongdoing; Seligman says he had no personal relationship with Epstein and no contact after 2007, and reporting states he has not been accused of any wrongdoing in connection with Epstein.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The Department of Justice's January 30, 2026 release of Epstein records includes the emails that reference Seligman, in which Epstein described him as a "core participant" in proposed academic meetings (2009) and wrote that "Marty has been at my ranch … he is great" (2010). The Daily Pennsylvanian reviewed these documents in a February 23, 2026 report. Seligman says Epstein never funded his research.

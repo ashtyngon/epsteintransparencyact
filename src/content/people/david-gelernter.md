@@ -32,3 +32,9 @@ According to Newsweek, Yale suspended Gelernter from teaching pending a conduct 
 ## Is David Gelernter in the Epstein files?
 
 Yes. Wikipedia's "List of people named in the Epstein files" lists David Gelernter as a Yale professor who corresponded with Epstein from 2009 to 2015. Reporting by Newsweek and The Nation, based on records released under the Epstein Files Transparency Act, documents that correspondence and reports that Yale relieved Gelernter of teaching duties in February 2026 pending a review, with Gelernter publicly defending his conduct. Being named in the files is not, by itself, evidence of any crime or wrongdoing; the documented context here is correspondence and a disputed recommendation email, and Gelernter has stated his own account of those exchanges. See the sources above for the specific reporting.
+
+## Documents
+
+Primary-source records that name or reference David Gelernter. Inclusion in these documents is not, by itself, evidence of wrongdoing; Gelernter has publicly defended his conduct and said he was unaware of Epstein's criminal history at the relevant time.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Gelernter appears in email correspondence with Jeffrey Epstein released under the Epstein Files Transparency Act. As reported by The Nation, the exchanges run from 2009 to 2015 and include an October 2011 email recommending a Yale undergraduate; Yale relieved him of teaching duties in February 2026 pending a review. Gelernter's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

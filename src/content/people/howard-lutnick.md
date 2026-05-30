@@ -36,3 +36,9 @@ The senatorial concerns add to broader Republican tensions over the administrati
 Lutnick's situation follows a pattern of high-profile departures triggered by the Epstein file releases. [Goldman Sachs' top lawyer resigned](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files) after being named in documents. A [Dubai ports chief stepped down](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed) after hundreds of emails surfaced. [Casey Wasserman sold his talent agency](/news/2026-02-14-casey-wasserman-sells-talent-agency-after-epstein-files-expose-maxwell-emails) following exposure of communications with [Ghislaine Maxwell](/people/ghislaine-maxwell).
 
 Lutnick oversees trade policy, business regulation, and economic strategy as Commerce Secretary. His role gives him significant influence over the Trump administration's economic decisions.
+
+## Documents
+
+Primary-source records that reference Howard Lutnick. Inclusion in these documents is not, by itself, evidence of wrongdoing; Lutnick has said his contacts with Epstein were "meaningless and inconsequential" and that he never witnessed illegal conduct.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Email correspondence released by the Department of Justice under the Epstein Files Transparency Act includes exchanges involving Lutnick. As reported by Fortune (Jan. 30, 2026) and PBS NewsHour, the records show Epstein invited Lutnick to his Caribbean island for a 2012 family lunch and document other contacts, including a 2011 meeting and a 2018 email exchange regarding a company (Adfin Solutions) in which both held stock. Lutnick acknowledged the meetings and emails after the documents were released, while describing the relationship as inconsequential.

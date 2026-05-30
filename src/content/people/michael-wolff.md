@@ -32,3 +32,9 @@ Writing for The Daily Beast, Wolff defended his contact with Epstein as part of 
 ## Is Michael Wolff in the Epstein files?
 
 Yes. Michael Wolff corresponded with Jeffrey Epstein, and emails between the two were released by House Oversight Committee Democrats in November 2025, as reported by CBS News and ABC News. Wolff has also publicly said he recorded roughly 100 hours of interviews with Epstein, which he has described as journalistic source material. Being named in, or connected to, these documents is not evidence of any crime or wrongdoing. People appear in this material in many contexts — correspondence, interviews, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific documented context and Wolff's own account.
+
+## Documents
+
+Primary-source records that name or reference Michael Wolff. Inclusion in these documents is not, by itself, evidence of wrongdoing; Wolff has described his contact with Epstein as journalistic source-gathering.
+
+- **[House Oversight Committee (Democrats): Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — This November 13, 2025 release contains the email correspondence between Wolff and Epstein, including a December 15, 2015 exchange in which Wolff warned Epstein about a potential CNN question regarding Trump, and a January 31, 2019 email from Epstein to Wolff. CBS News and ABC News reported on these emails.

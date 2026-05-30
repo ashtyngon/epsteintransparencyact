@@ -40,3 +40,9 @@ Wasserman resigned from his position as chairman of the LA28 Olympic organizing 
 Wasserman's fall was among the highest-profile corporate casualties of the Epstein document releases. His case was notable because the entertainment industry had largely escaped the initial waves of resignations that struck finance and logistics — Goldman Sachs general counsel Kathryn Ruemmler resigned over "Uncle Jeffrey" emails, and DP World chairman Sultan Ahmed bin Sulayem was forced out after appearing more than 4,700 times in the files. Wasserman's exit extended the accountability wave into sports and entertainment.
 
 The agency has not disclosed the full extent of client departures or provided a timeline for the sale. Wasserman has not publicly addressed the specific content of the Maxwell emails beyond his general statement to staff.
+
+## Documents
+
+Primary-source records that reference Casey Wasserman. Inclusion in these documents is not, by itself, evidence of wrongdoing; the emails predate Epstein's 2008 guilty plea, and Wasserman has not been accused of any crime.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Records released by the Justice Department in February 2026 include 2003 email correspondence between Wasserman and Ghislaine Maxwell, which the New York Times described as "flirtatious exchanges."

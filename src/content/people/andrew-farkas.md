@@ -4,6 +4,7 @@ seoTitle: "Is Andrew Farkas in the Epstein files? — Real-estate investor, foun
 seoDescription: "Andrew Farkas, the real-estate investor behind Island Capital Group, co-owned a St. Thomas marina with Jeffrey Epstein and exchanged emails with him; he says he regrets the association."
 aliases: []
 role: "Real-estate investor, founder of Island Capital Group"
+image: "/images/people/andrew-farkas.jpg"
 category: associate
 shortBio: "Andrew Farkas is an American real-estate investor and the founder of the merchant bank Island Capital Group. He co-owned the American Yacht Harbor marina in St. Thomas with Jeffrey Epstein and exchanged emails with him over more than a decade; Farkas has said the relationship was business-related and that he regrets the association. Being named is not evidence of wrongdoing."
 notableConnections:
@@ -31,3 +32,9 @@ Farkas is named in connection with Jeffrey Epstein primarily through a marina pa
 ## Is Andrew Farkas in the Epstein files?
 
 Yes, in a documented business context. The released material and reporting describe a real partnership: Farkas and Epstein co-owned the American Yacht Harbor marina in St. Thomas, and the two exchanged nearly 2,000 emails over more than a decade, including warm personal notes from Farkas. Farkas has publicly characterized the relationship as a business one, said he regrets the association, and stated he never conducted himself inappropriately. Being named in the files — even in the context of a business relationship and friendly correspondence — is not in itself evidence of any crime or wrongdoing. See the sources above for the specific documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Andrew Farkas. Inclusion in these documents is not, by itself, evidence of wrongdoing; Farkas has said the relationship was business-related, that he regrets the association, and that he never conducted himself inappropriately.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The roughly 2,000 emails between Farkas and Epstein are part of the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3.5-million-page release made in late January 2026). As reported on the release, the correspondence spans more than a decade and documents their co-ownership of the American Yacht Harbor marina in St. Thomas; in a December 31, 2010 message Farkas wrote that Epstein was "one of the blessings in my life."

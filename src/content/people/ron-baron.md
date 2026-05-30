@@ -4,6 +4,7 @@ seoTitle: "Is Ron Baron in the Epstein files? — Founder and chairman of Baron 
 seoDescription: "Ron Baron, founder and chairman of Baron Capital, is named in the Epstein files via emails describing a December 2014 breakfast at Epstein's New York home."
 aliases: []
 role: "Investor; founder and chairman of Baron Capital"
+image: "/images/people/ron-baron.jpg"
 category: named-in-documents
 shortBio: "Ron Baron is the founder and chairman of Baron Capital, a New York-based investment management firm. He is named in the Epstein files through emails describing a December 2014 breakfast at Jeffrey Epstein's New York home attended by Baron, Bill Gates, and businessman Josh Harris."
 notableConnections:
@@ -29,3 +30,9 @@ The Philadelphia Inquirer's reporting does not include any statement, response, 
 ## Is Ron Baron in the Epstein files?
 
 Yes. Ron Baron is named in the Epstein files. Wikipedia's list of people named in the files references him in connection with emails describing a December 2014 breakfast at Epstein's New York home, and the Philadelphia Inquirer reported on January 30, 2026 that Baron was among the named attendees of that breakfast alongside Bill Gates and Josh Harris. The documented record consists of these email references; the available reporting does not contain a response from Baron. Being named in the Epstein files is not, by itself, evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that name or reference Ron Baron. Inclusion in these documents is not, by itself, evidence of wrongdoing; no reporting reviewed for this profile alleges any wrongdoing by Baron.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per *The Philadelphia Inquirer* (Jan. 30, 2026), the DOJ release includes emails naming Baron among the intended attendees of a December 5, 2014 breakfast at Epstein's New York home, alongside Bill Gates and Josh Harris; in a January 2015 email Epstein wrote that he "had a recent breadkfst at the hosue with ron baron. josh harris, and billgates."

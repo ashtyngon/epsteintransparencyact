@@ -32,3 +32,9 @@ In his own public statement, "On the Jeffrey Epstein Affair," Bach wrote that re
 ## Is Joscha Bach in the Epstein files?
 
 Yes. Joscha Bach is named in connection with the Jeffrey Epstein files. Wikipedia's list of people named in the files identifies him as a cognitive scientist whose MIT Media Lab research was subsidized by Epstein, and The Boston Globe reported that Epstein gave $300,000 toward that research in 2013 and 2014 and that the two exchanged emails in 2016 later released by the U.S. House Oversight Committee. Bach has publicly addressed the matter, saying he was introduced to Epstein by other academics, that Epstein did not influence his research, and that he does not hold the views attributed to the emails. Being named in the files is not evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that name or reference Joscha Bach. Inclusion in these documents is not, by itself, evidence of wrongdoing; Bach says he was introduced to Epstein by other academics, that Epstein did not influence his research, and that he does not hold the views attributed to the emails.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — According to The Boston Globe, a 2016 email chain between Bach and Epstein was among the correspondence released by the House Oversight Committee in November 2025. The Globe reported the exchange contained remarks by Bach about race and gender; after it became public, the AI company Liquid AI ended its advisory relationship with him. Bach reframed the emails as a private scientific discussion and said his views have changed.

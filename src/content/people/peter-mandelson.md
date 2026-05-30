@@ -66,3 +66,10 @@ The committee sought Mandelson's voluntary cooperation; it does not have the aut
 ## Context
 
 The request to Mandelson came amid a broader congressional inquiry into Epstein's network. The House Oversight Committee separately voted to subpoena Attorney General Pam Bondi over the handling of Epstein records, and the fallout from the released files extended to political and business figures in the United States and Europe.
+
+## Documents
+
+Primary-source records that name or reference Peter Mandelson. Inclusion in these documents is not, by itself, evidence of wrongdoing; Mandelson has denied any criminal wrongdoing in connection with his relationship with Epstein.
+
+- **[House Oversight Committee — additional Epstein estate documents (2025)](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)** — This release includes the "birthday book" compiled for Epstein's 50th birthday in 2003, which contains Mandelson's roughly ten-page entry describing Epstein as "my best pal."
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The released emails are the basis for the correspondence in which Mandelson urged Epstein to "fight for early release" before his 2008 sentence and suggested the conviction should be challenged — the messages that led to his dismissal as UK Ambassador.

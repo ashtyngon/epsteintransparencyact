@@ -30,3 +30,9 @@ In a statement reported by The Stanford Daily on February 5, 2026, Wolfe denied 
 ## Is Nathan Wolfe in the Epstein files?
 
 Yes. As reported by The Stanford Daily on February 3, 2026, virologist Nathan Wolfe's full name appears 589 times in the released Epstein files, which include friendly correspondence between Wolfe and Jeffrey Epstein from 2008 to 2013 and a request for research funding. Wolfe has publicly denied any wrongdoing, said he never received funding from Epstein, and expressed regret over the association. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, including correspondence and funding solicitations. See the sources above for the documented details.
+
+## Documents
+
+Primary-source records that name or reference Nathan Wolfe. Inclusion in these documents is not, by itself, evidence of wrongdoing; Wolfe has denied any wrongdoing, said he never received funding from Epstein, and expressed regret over the association.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — As reported by The Stanford Daily (February 3, 2026), Wolfe's full name appears 589 times in the files released by the Justice Department, which include friendly correspondence with Epstein from 2008 to 2013 — among them a December 2010 dinner invitation and a May 2013 message proposing a study on "sexual behavior and microbial diversity" that raised Epstein's potential funding.

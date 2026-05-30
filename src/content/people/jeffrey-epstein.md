@@ -154,3 +154,16 @@ The Epstein Files Transparency Act passed the House by a vote of 427-1 on Novemb
 Epstein's operation did not function in isolation. It required recruiters, pilots, household staff, legal representation, financial infrastructure, and — according to victims — a steady supply of powerful men who participated in or turned a blind eye to the abuse. The central, unresolved question of the Epstein case is not about one man. It is about how a convicted sex offender, after receiving what a federal judge called an unlawfully lenient plea deal, continued to move freely among the world's most powerful people — and what those people knew, when they knew it, and what they did or failed to do with that knowledge.
 
 The Epstein Transparency Act was designed to answer those questions. Whether the released documents will fully do so remains a matter of active public debate, ongoing litigation, and congressional investigation.
+
+## Documents
+
+Primary-source records that name or reference Jeffrey Epstein. As the central figure of the case, Epstein is the named subject of these documents.
+
+- **[United States v. Epstein — 2019 indictment (S.D.N.Y., 19-cr-490)](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)** — The federal indictment charging Epstein with sex trafficking of minors and conspiracy to commit sex trafficking, covering conduct alleged between at least 2002 and 2005 in New York and Florida.
+- **[United States v. Epstein — criminal court records (S.D.N.Y., 19-cr-490)](https://www.justice.gov/epstein/doj-disclosures/court-records-united-states-v-epstein-no-119-cr-00490-sdny-2019)** — Court records from the federal prosecution that was pending at the time of Epstein's death in August 2019.
+- **[DOJ Office of Professional Responsibility report on the 2006–2008 investigation & non-prosecution agreement (Nov. 2020)](https://www.justice.gov/opr/page/file/1336471/dl)** — The DOJ review of the 2006–2008 federal investigation and the 2008 non-prosecution agreement under which Epstein pleaded guilty to state charges.
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Epstein is named throughout the documents unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433), which include depositions, exhibits, and emails describing his conduct and network.
+- **[Epstein's contact book ("black book")](https://www.justice.gov/ag/media/1391321/dl?inline)** — Epstein's personal contact directory of roughly 1,500 names, seized by the FBI and released by the DOJ in February 2025.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025, documenting passengers carried over more than a decade.
+- **[DOJ Phase 1 "Evidence List" (Feb. 2025)](https://www.justice.gov/ag/media/1391271/dl?inline)** — A DOJ catalog of items seized from Epstein's properties.
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — The Department of Justice's release under the Epstein Files Transparency Act of roughly 3.5 million pages of records, including images and videos, relating to Epstein's prosecution.

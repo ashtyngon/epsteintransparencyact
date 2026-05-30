@@ -34,3 +34,9 @@ The New Mexico Political Report reported that records show King and his running 
 Yes. According to the Wikipedia list of people named in the Epstein files and reporting by KOB and the New Mexico Political Report, Gary King is named in connection with campaign donations from Jeffrey Epstein and 2014 travel aboard an Epstein-linked private jet. The Wikipedia list notes that King stated he did not remember meeting Epstein and did not know the jet was his.
 
 Being named in the files is **not** evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context.
+
+## Documents
+
+Primary-source records that name or reference Gary King. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[House Oversight Committee — additional Epstein estate documents](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)** — The House Oversight Committee's release of more than 20,000 pages of estate records, including emails Epstein exchanged between 2009 and 2019, contains the correspondence on which KOB and the New Mexico Political Report based their reporting — emails showing King contacted Epstein about using a private aircraft during his 2014 campaign and the donations (totaling more than $15,000) routed through Epstein-owned companies. King has said he did not know the chartered plane belonged to Epstein.

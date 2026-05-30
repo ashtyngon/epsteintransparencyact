@@ -31,3 +31,9 @@ Phelan declined to comment through a Navy spokesperson, according to the CNN rep
 ## Is John Phelan in the Epstein files?
 
 Yes. John Phelan, who served as U.S. Secretary of the Navy, is named on a passenger manifest released as part of the Epstein files, reflecting that he flew on Jeffrey Epstein's private plane in 2006. Being named in the files is not evidence of any crime or wrongdoing. As reported by CNN (via ABC17NEWS) and Navy Times, a friend of Phelan's said it was his only interaction with Epstein, that he was invited aboard by another financier and did not know whose plane it was, and that there is no evidence he knew of any wrongdoing; Phelan himself declined to comment through a Navy spokesperson. See the sources below for the documented context.
+
+## Documents
+
+Primary-source records that reference John Phelan. Inclusion in these documents is not, by itself, evidence of wrongdoing; a friend said this was Phelan's only interaction with Epstein and that he did not know whose plane he was boarding.
+
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — A pilot manifest for Epstein's aircraft records Phelan as a passenger on a March 3, 2006 London-to-New York flight, several months before Epstein's first arrest on sex charges; reporting indicates he also flew New York to London on February 27, 2006. As reported by CNN and Navy Times, the manifest was part of a House Oversight Committee document release in 2025. A friend told CNN that Phelan had been invited to fly by Bear Stearns CEO Jimmy Cayne, did not know it was Epstein's plane until arrival, and never interacted with Epstein again.

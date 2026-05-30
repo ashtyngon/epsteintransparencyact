@@ -32,3 +32,9 @@ In response, according to DL News (also dated February 3, 2026), Back stated on 
 ## Is Adam Back in the Epstein files?
 
 Yes. Adam Back is named in connection with the Jeffrey Epstein files over a April 2014 invitation to Epstein's island and a 2014 Blockstream investment made through a fund in which Epstein was a limited partner alongside Joichi Ito. Back has publicly stated that the fund divested its Blockstream stake within months over conflict-of-interest concerns and that Blockstream has no direct or indirect financial connection to Epstein or his estate. Being named in the files is not evidence of any crime or wrongdoing. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Adam Back. Inclusion in these documents is not, by itself, evidence of wrongdoing; Back says all financial ties were divested within months and denies any direct or indirect connection to Epstein or his estate.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The emails referencing Back are part of the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3.5-million-page release made in January 2026). Reporting on the release describes an April 19, 2014 email in which Epstein told Bitcoin developer Amir Taaki he had "Andy Back on my island this weekend," and a November 2014 exchange in which a venture capitalist asked Epstein's opinion of Back. Reviewers noted the documents do not suggest wrongdoing by Back.

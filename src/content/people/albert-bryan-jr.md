@@ -32,3 +32,9 @@ The New Republic, citing the same reporting, states that Epstein contacted Bryan
 ## Is Albert Bryan Jr. in the Epstein files?
 
 Yes. Albert Bryan Jr. appears in Wikipedia's list of people named in the Epstein files, and reporting on the released documents details 2019 communications in which Epstein contacted him about an unpermitted land-clearing and construction dispute on his islands. Bryan has denied, in 2023 deposition testimony, giving Epstein any special treatment. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context and Bryan's response.
+
+## Documents
+
+Primary-source records that reference Albert Bryan Jr. Inclusion in these documents is not, by itself, evidence of wrongdoing; Bryan testified in 2023 that he never gave Epstein special treatment.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The 2019 text messages between Bryan and Epstein are part of the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3.5-million-page release made in January 2026). As reported by CNN's KFile and the Virgin Islands Daily News, the messages span early 2019 and concern an unpermitted land-clearing and construction dispute on Epstein's islands; in one exchange Bryan replied "We got u," and in another, asked whether he could spare 15 minutes, "For u absolutely."

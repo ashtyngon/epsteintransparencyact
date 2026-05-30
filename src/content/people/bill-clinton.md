@@ -173,3 +173,10 @@ Clinton has never been charged with any crime related to Epstein. No accuser has
 What is established is that Clinton had multi-year documented contact with Epstein before Epstein's 2008 conviction; that he traveled on Epstein's plane (26 flight legs across six trips in 2002–2003); that Epstein visited the Clinton White House in the 1990s; and that he associated with Ghislaine Maxwell, later convicted of recruiting and grooming underage victims. Being recorded on flight logs or in visitor records is not evidence of wrongdoing, and Clinton has said he knew nothing of Epstein's crimes.
 
 The federal investigative files that might provide further clarity on the broader case have been released only in part and with redactions. The Epstein Transparency Act may eventually provide a fuller picture. Until then, the documented record establishes association, not criminal conduct.
+
+## Documents
+
+Primary-source records that name or reference Bill Clinton. Inclusion in these documents is not, by itself, evidence of wrongdoing; no accuser has alleged misconduct by Clinton, and he has said he knew nothing of Epstein's crimes.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Clinton is referenced in multiple documents unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Johanna Sjoberg's deposition relays Epstein's remark that "Clinton likes them young, referring to girls," while noting she did not meet Clinton; Ghislaine Maxwell's deposition characterized Giuffre's 2011 comments about Clinton as among the "obvious lies"; and Clinton is listed as a potential witness in the plaintiff's Rule 26 disclosures. No filing accuses Clinton of any wrongdoing.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025, record Clinton as a passenger. FactCheck.org's count of the logs found his name on 26 flight legs across six trips in 2002–2003; the logs do not place him on any flight to Epstein's island.

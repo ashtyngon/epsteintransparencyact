@@ -4,6 +4,7 @@ seoTitle: "Is Jean Pigozzi in the Epstein files? — Businessman, art collector 
 seoDescription: "Jean Pigozzi, the art collector and photographer and Simca heir, exchanged emails with Jeffrey Epstein. He told ARTnews he regretted meeting Epstein and Maxwell."
 aliases: []
 role: "Businessman, art collector and photographer; heir to the Simca automobile fortune"
+image: "/images/people/jean-pigozzi.jpg"
 category: named-in-documents
 shortBio: "Jean (\"Johnny\") Pigozzi is a French-Italian businessman, art collector and photographer, the son of Simca automobile executive Henri Pigozzi and the founder of the Contemporary African Art Collection (CAAC). He is named in documents released under the Epstein Files Transparency Act, which include 2013 email correspondence with Jeffrey Epstein. Pigozzi told ARTnews the emails were \"stupid,\" said he had nothing to do with Epstein and girls, and that he regretted meeting Epstein and Ghislaine Maxwell."
 notableConnections:
@@ -31,3 +32,9 @@ ARTnews reported Pigozzi's response in a phone call: he said he did not remember
 ## Is Jean Pigozzi in the Epstein files?
 
 Yes. Jean Pigozzi is named in documents released by the U.S. Department of Justice under the Epstein Files Transparency Act, which according to ARTnews include 2013 email correspondence between him and Jeffrey Epstein, as well as a 2010 email chain with an account ARTnews identified as "most likely" Ghislaine Maxwell. Pigozzi has publicly responded, telling ARTnews that he had nothing to do with Epstein and girls, that he did not recall the "red head" exchange, and that he regretted meeting Epstein and Maxwell. Being named in these documents is not evidence of any crime or wrongdoing. See the sources above for the specific, documented details.
+
+## Documents
+
+Primary-source records that reference Jean Pigozzi. Inclusion in these documents is not, by itself, evidence of wrongdoing; Pigozzi has said he "never had anything to do with him and girls" and that he regretted meeting Epstein and Maxwell.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Pigozzi is named in email correspondence among the Epstein files released by the Department of Justice under the Epstein Files Transparency Act. As reported by ARTnews and The Art Newspaper, the material includes 2013 emails between Pigozzi and Epstein and a 2010 email chain with an account the reporting identified as "most likely" Ghislaine Maxwell, discussing the possible sale of Pigozzi's properties. Pigozzi characterized the emails as "stupid" and denied any involvement with Epstein "and girls."

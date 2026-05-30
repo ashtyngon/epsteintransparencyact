@@ -38,3 +38,9 @@ Ferro's appearance in the files came during the same week that brought other med
 The Ferro revelation was reported alongside a wave of disclosures affecting executives across finance, politics, and academia. The January 30, 2026 DOJ release contained approximately 3 million pages of documents, triggering resignations at Goldman Sachs, DP World, and multiple universities. Deputy Attorney General Todd Blanche accused some congressional members of naming "completely random people" with no actual Epstein ties during floor speeches, highlighting the difficulty of distinguishing meaningful connections from incidental mentions in a dataset of this scale.
 
 Ferro has not publicly commented on the email correspondence or the nature of the planned meeting with Epstein.
+
+## Documents
+
+Primary-source records that reference Michael Ferro. Inclusion in these documents is not, by itself, evidence of wrongdoing; the reporting indicates Ferro canceled the planned meeting with Epstein.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The Department of Justice's January 30, 2026 release of Epstein records includes the email correspondence referencing Ferro, in which a planned meeting with Epstein was arranged and which Ferro, according to the Chicago Tribune, canceled "at the last minute." The Chicago Tribune (Feb. 13, 2026) and Axios reported his appearance in the released documents.

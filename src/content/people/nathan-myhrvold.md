@@ -32,3 +32,11 @@ In response to the reporting, Myhrvold said through a spokesperson, as quoted by
 ## Is Nathan Myhrvold in the Epstein files?
 
 Yes. Nathan Myhrvold, the former Microsoft CTO and co-founder of Intellectual Ventures, is named in records connected to Jeffrey Epstein, including emails, flight logs, an address book, and a 2003 birthday book, according to the sources cited above. Being named in these documents is not evidence of any crime or wrongdoing. People appear in the Epstein files in many contexts — correspondence, flight logs, contact books, photographs, or passing references. Myhrvold has said through a spokesperson that he knew Epstein from TED conferences and as a donor to scientific research and that he regrets ever meeting him, and reporting to date has not described any allegation of unlawful conduct against him.
+
+## Documents
+
+Primary-source records that name or reference Nathan Myhrvold. Inclusion in these documents is not, by itself, evidence of wrongdoing; reporting to date has described no allegation of unlawful conduct against Myhrvold, who has said he regrets ever meeting Epstein.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Myhrvold is named once, in passing, in a filing in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433) that lists academics and public figures "associated with Mr. Epstein" — alongside Lawrence Summers, Stephen Hawking, Steven Pinker and others. No allegation against Myhrvold attaches to the reference.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025, list Myhrvold as a passenger on two 1990s flights (December 9, 1996, and January 11, 1997), per The Spokesman-Review.
+- **[House Oversight Committee — additional Epstein estate documents (2025)](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)** — The estate materials released by the committee include the 2003 birthday book, to which Myhrvold contributed, according to The Spokesman-Review and KUOW.

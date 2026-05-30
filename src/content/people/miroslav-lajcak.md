@@ -30,3 +30,9 @@ Lajčák stepped down as national security adviser to Prime Minister Fico on Jan
 ## Context
 
 Lajčák's case illustrated the international scope of Epstein's network, which extended into central European security and diplomatic circles in addition to the more heavily covered connections in Western Europe and the United States. His resignation from a national security post — a role with access to sensitive governmental intelligence and policy — underscored the particular concern raised when individuals documented in close contact with Epstein held positions of security responsibility.
+
+## Documents
+
+Primary-source records that reference Miroslav Lajčák. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The Department of Justice's January 2026 release of Epstein records includes the email correspondence between Lajčák and Epstein that prompted his resignation as Slovakia's national security adviser on January 31, 2026. The New York Times documented his appearance among the names surfaced in the released files.

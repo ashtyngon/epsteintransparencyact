@@ -86,3 +86,9 @@ Bannon has acknowledged his contact with Epstein, saying he courted the financie
 ## What Is Established
 
 The released files show that Bannon maintained a personal, communicative relationship with Epstein through at least June 2019 — weeks before Epstein's arrest — and that, by his own account, he filmed roughly 12 to 15 hours of videotaped sessions with Epstein that same year. The communications included discussion of a media project targeting Pope Francis, with Bannon texting that Epstein was its "exec producer," though accounts differ on how serious that proposal was and Epstein did not take it up in the exchange. Bannon is named in the files and has not been accused of any crime in connection with Epstein; he has positioned himself as a public advocate for the files' release while acknowledging his own dealings with Epstein.
+
+## Documents
+
+Primary-source records that name or reference Steve Bannon. Inclusion in these documents is not, by itself, evidence of wrongdoing; Bannon has not been accused of any crime in connection with Epstein.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per CNN, the Associated Press, and other reporting on the early-2026 DOJ release, the files contain 2018–2019 text messages and emails between Bannon and Epstein, including the exchange in which Bannon wrote a proposed documentary would "take down [Pope] Francis" and called Epstein its "exec producer," and the September 2018 messages in which Epstein invoked his Nobel Committee ties.

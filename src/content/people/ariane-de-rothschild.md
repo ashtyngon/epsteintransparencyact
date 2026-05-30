@@ -30,3 +30,9 @@ In response, a bank spokesperson told Reuters that Epstein "was a business acqua
 ## Is Ariane de Rothschild in the Epstein files?
 
 The sources reviewed for this profile document that Ariane de Rothschild has been named in reporting on Epstein-related documents, principally a 2023 Wall Street Journal investigation describing more than a dozen meetings and 2026 reporting on correspondence and meetings between 2013 and 2019. The bank has said Epstein was a business acquaintance during that period, that de Rothschild had no knowledge of his conduct, and that she condemns his crimes. Being named in these documents is not evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that reference Ariane de Rothschild. Inclusion in these documents is not, by itself, evidence of wrongdoing; the bank says Epstein was a business acquaintance, that she had no knowledge of his conduct, and that she condemns his crimes.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The documents showing de Rothschild's correspondence with Epstein are part of the Justice Department's Epstein Files Transparency Act disclosure (released in early 2026). As reported by Reuters, the records show she corresponded dozens of times and agreed to multiple meetings over about five years before Epstein's 2019 arrest, including exchanges arranging meetings at his homes in New York and Paris. Reuters noted the documents do not appear to contain any sign of criminal wrongdoing.

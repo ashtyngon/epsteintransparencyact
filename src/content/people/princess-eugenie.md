@@ -41,3 +41,9 @@ Separately, Eugenie experienced professional fallout as scrutiny of her father i
 ## Is Princess Eugenie in the Epstein files?
 
 Based on the sources reviewed for this profile, Princess Eugenie is not the subject of any allegation in the Epstein files and does not appear in her own right on Wikipedia's list of people named in those files. The only documented reference to her in the released records is indirect: an email from her mother, Sarah Ferguson, to Jeffrey Epstein, released by the U.S. Department of Justice in January 2026, naming Eugenie and her sister as expected guests at a 2009 lunch in Miami when Eugenie was a teenager (per AOL and Yahoo). Family representatives have disputed accounts of that meeting. No reputable source reviewed here accuses Princess Eugenie of any wrongdoing. Being named in this context is not evidence of misconduct; the principal documented consequence for her has been the loss of an anti-slavery charity patronage amid the controversy surrounding her father (per Newsweek).
+
+## Documents
+
+Primary-source records that reference Princess Eugenie. Inclusion in these documents is not, by itself, evidence of wrongdoing; the only documented reference to Eugenie is indirect, she was a teenager at the time, and she is not the subject of any allegation.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Eugenie is referenced not in her own right but within a July 2009 email her mother, Sarah Ferguson, sent to Epstein arranging a Miami lunch ("It will be myself, Beatrice and Eugenie"), among the records the Department of Justice released on January 30, 2026. Family representatives have disputed accounts of the meeting, and no allegation attaches to Eugenie.

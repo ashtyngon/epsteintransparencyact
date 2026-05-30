@@ -33,3 +33,10 @@ Kamen has said he was unaware of Epstein's crimes. He told the *Union Leader*, "
 ## Is Dean Kamen in the Epstein files?
 
 Yes. According to the sources cited here, Dean Kamen appears in records released from Jeffrey Epstein's estate and the Justice Department, including a December 2025 photograph, 2003 flight logs, and emails documenting more than a decade of contact and a 2013 visit to Epstein's island. Being named in or appearing in these documents is not evidence of any crime or wrongdoing. Kamen has said he had no knowledge of Epstein's conduct beyond news reports, an independent FIRST review found no evidence of misconduct by him, and he has not been accused of any criminal wrongdoing. See the sources below for the documented context.
+
+## Documents
+
+Primary-source records that name or reference Dean Kamen. Inclusion in these documents is not, by itself, evidence of wrongdoing; Kamen says he was unaware of Epstein's crimes, an independent FIRST review found no evidence of misconduct by him, and he has not been accused of any criminal wrongdoing.
+
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — As reported by the Union Leader, 2003 flight logs list Kamen's name on a private flight with Epstein from New York to California.
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — New Hampshire Public Radio reported that released Justice Department emails show Kamen and Epstein in contact for more than a decade, including a 2009 email in which Epstein coordinated a $10,000 donation to a FIRST affiliate and a 2013 visit by Kamen to Epstein's Caribbean island, after which Kamen emailed describing it as a "magical place." Kamen's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

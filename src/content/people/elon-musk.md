@@ -30,3 +30,9 @@ Both CBS News and PBS News report Musk's own response. CBS News quotes Musk's st
 ## Is Elon Musk in the Epstein files?
 
 Yes. Elon Musk, the businessman who leads Tesla and SpaceX, is named in the released Epstein documents through email exchanges with Jeffrey Epstein dated 2012 to 2014, according to CBS News and PBS News. The reported emails discuss Epstein's Caribbean island and parties, but the records do not establish whether any visit occurred, and PBS News notes it is not clear the island visits took place. Musk has said he had little correspondence with Epstein and declined repeated invitations to the island. Being named in the files is not evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that name or reference Elon Musk. Inclusion in these documents is not, by itself, evidence of wrongdoing; Musk has said he declined repeated invitations to Epstein's island.
+
+- **[DOJ Epstein Files (full release)](https://www.justice.gov/epstein)** — The Justice Department's release of files from the federal inquiry into Epstein includes the 2012–2014 email exchanges in which Epstein and Musk discussed a possible visit to Epstein's Caribbean island, as reported by CBS News, Fortune, and NBC News. The emails do not establish that any visit took place.

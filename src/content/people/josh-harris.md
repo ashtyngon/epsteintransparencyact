@@ -32,3 +32,9 @@ In response to the document release, a spokesperson for Harris, Jonathan Rosen, 
 ## Is Josh Harris in the Epstein files?
 
 Yes. Emails released in January 2026 and reported by The Philadelphia Inquirer and Front Office Sports show that Josh Harris corresponded with Jeffrey Epstein between 2013 and 2016 and attended at least one breakfast meeting in 2014. Being named in these documents is not evidence of any crime or wrongdoing. A spokesperson said Harris never had an independent relationship with Epstein and sought to avoid him, and The Philadelphia Inquirer reported that the emails contain no indication that Harris was involved in sexual misconduct.
+
+## Documents
+
+Primary-source records that reference Josh Harris. Inclusion in these documents is not, by itself, evidence of wrongdoing; a spokesperson said Harris never had an independent relationship with Epstein and sought to avoid him, and The Philadelphia Inquirer reported the emails contain no indication he was involved in sexual misconduct.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — As reported by The Philadelphia Inquirer, emails within the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3-million-page release made on January 30, 2026) show Harris exchanged emails and phone calls with Epstein between 2013 and 2016 after Epstein's 2008 guilty plea, including a 2014 breakfast at Epstein's Manhattan home also attended by Bill Gates, Reid Hoffman and Ron Baron. The Inquirer reported the emails show Harris largely sought to avoid Epstein and contain no indication of involvement in sexual misconduct.

@@ -4,6 +4,7 @@ seoTitle: "Is Robert Trivers in the Epstein files? — Evolutionary biologist"
 seoDescription: "Robert Trivers was an evolutionary biologist and former Rutgers professor reported to have received research funding from Jeffrey Epstein and to have introduced Gordon Getty to him."
 aliases: []
 role: "Evolutionary biologist; former Rutgers University professor"
+image: "/images/people/robert-trivers.jpg"
 category: named-in-documents
 shortBio: "Robert Trivers was an American evolutionary biologist and a former Rutgers University professor, known for foundational theories including reciprocal altruism and parental investment. Reporting on the Epstein files and earlier coverage state that he received research funding from Jeffrey Epstein and introduced financier Gordon Getty to him."
 notableConnections:
@@ -35,3 +36,9 @@ A separate Inside Higher Ed article from February 3, 2026 ("9 More Higher Ed Nam
 ## Is Robert Trivers in the Epstein files?
 
 Robert Trivers is named in connection with the Jeffrey Epstein files and in earlier reporting about Epstein's ties to academics. According to Inside Higher Ed and the New York Daily News, he received research funding from Epstein, and according to the Wikipedia entries on Gordon Getty and on people named in the Epstein files, he introduced Getty to Epstein in 2013. Being named in the files or in related reporting is not in itself evidence of any crime or wrongdoing. The sources above document the specific, attributed context for his appearance; readers should consult them directly.
+
+## Documents
+
+Primary-source records that name or reference Robert Trivers. Inclusion in these documents is not, by itself, evidence of wrongdoing; Trivers's documented tie to Epstein is as a funded researcher and correspondent.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per Inside Higher Ed (Feb. 2026), the DOJ release of Epstein's correspondence includes emails to and from Trivers, in which he wrote that Epstein "was always a gentleman" and complained about the "strong national trend" of misconduct allegations against prominent men. Reporting on the release also records that Trivers introduced Gordon Getty to Epstein in 2013 and received roughly $40,000 from Epstein for research on knee symmetry and sprinting ability.

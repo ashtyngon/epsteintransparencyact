@@ -32,3 +32,10 @@ According to The Stanford Daily, Kosslyn did not himself make a public statement
 ## Is Stephen Kosslyn in the Epstein files?
 
 Yes. Stephen Kosslyn, the psychologist and former Harvard dean of social science, is named in the Epstein files. As described above and in the fetched sources, the documented context includes donations Epstein made to his Harvard psychology department, a September 2008 visit to Epstein in jail, released emails, and a 2010 referral request; his legal counsel has contested allegations against him. Being named in the files is not evidence of any crime or wrongdoing — people appear in these documents in many contexts, including correspondence, donations, scheduling, and passing references. See the sources above for the specific, documented context.
+
+## Documents
+
+Primary-source records that name or reference Stephen Kosslyn. Inclusion in these documents is not, by itself, evidence of wrongdoing; Kosslyn's counsel has contested allegations against him, and an attorney for Virginia Giuffre stated she "did not have sex with Stephen Kosslyn."
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Kosslyn is named once in a January 2024 filing in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433), in a list of Harvard academics the filer described as "friendly with" Epstein through his funding of academic research. The mention is a passing reference; no allegation against Kosslyn attaches to it.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Per *The Stanford Daily* and *Times Higher Education* (Feb. 2026), the DOJ files include correspondence involving Kosslyn and, with a Palm Beach County Jail visitor log, record his September 2008 visit to Epstein in jail.

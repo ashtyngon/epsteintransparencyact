@@ -30,3 +30,9 @@ Rudd, through his office, has denied any meeting or relationship with Epstein. H
 ## Is Kevin Rudd in the Epstein files?
 
 Yes. Kevin Rudd's name appears in documents released by the US Department of Justice in 2026, including emails, a meeting schedule, and messages in which Jeffrey Epstein and associates referenced him — most often, according to SBS News, "in passing" or in connection with attempted introductions by mutual acquaintances. Rudd's office has stated that no such introduction or meeting took place and that he never corresponded with or visited Epstein. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, scheduling, contact references, or third-party messages — and Rudd has denied any direct contact or relationship. See the sources above for the documented context and Rudd's full response.
+
+## Documents
+
+Primary-source records that reference Kevin Rudd. Inclusion in these documents is not, by itself, evidence of wrongdoing; Rudd's office has denied that he ever met, corresponded with, or visited Epstein, and says attempted introductions by mutual acquaintances never took place.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The Justice Department's release of more than 3 million pages of investigative records (January 30, 2026) includes emails in which Epstein and associates reference Rudd, among them a June 2014 message to an assistant adding "kevin rudd is also coming" and a note describing him as the "former prime minister of australia," plus a schedule entry for a meeting that, per the reporting, there is no evidence took place.

@@ -58,3 +58,11 @@ Her attorney, Martin Singer, stated: "Prior to Epstein's 2019 arrest in New York
 ## What Is Established
 
 Campbell has not been accused of any criminal conduct, and reporting on the released files has noted no evidence that she had knowledge of Epstein's crimes. What is documented is that her contact with Epstein — event invitations, email exchanges and scheduling handled through his staff over roughly a decade and a half, including after his 2008 conviction — was more extensive than was publicly known before the files were released.
+
+## Documents
+
+Primary-source records that name or reference Naomi Campbell. Inclusion in these documents is not, by itself, evidence of wrongdoing; Campbell has not been accused of any crime and has said she was unaware of Epstein's criminal conduct.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Campbell is referenced in passing in deposition testimony unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433); witnesses are asked about her by name and one uses "Naomi Campbell's birthday party" as a time marker. No allegation against Campbell attaches to these references.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025, record Campbell as a passenger.
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — In the Justice Department's 2026 release under the Epstein Files Transparency Act, Campbell's name appears in roughly 300 records — largely emails, address-book entries, call sheets and scheduling notes kept by Epstein and his staff — documenting contact from about 2001 into the mid-2010s, including event invitations she extended after his 2008 conviction.

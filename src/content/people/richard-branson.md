@@ -64,3 +64,10 @@ A spokesperson for Branson said, "Richard believes that Epstein's actions were a
 ## Significance
 
 Branson's appearance in the Epstein files has been cited as an illustration of how Epstein cultivated relationships with prominent figures, in part by advertising access to prestigious institutions and individuals. The Nobel committee connection, in particular, has been highlighted in reporting as an example of Epstein leveraging one high-status relationship to engage others. As with other public figures named in the files, being mentioned is not itself evidence of involvement in or knowledge of Epstein's crimes.
+
+## Documents
+
+Primary-source records that name or reference Richard Branson. Inclusion in these documents is not, by itself, evidence of wrongdoing; Branson has not been accused of any crime, and his representatives say his contact with Epstein was limited.
+
+- **[Epstein's contact book ("black book")](https://www.justice.gov/ag/media/1391321/dl?inline)** — Branson is listed in the redacted contact directory seized from Epstein. A listing in this book reflects a contact entry only and carries no allegation.
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Among the records the Department of Justice released under the Epstein Files Transparency Act is a 2013 email exchange in which Epstein offered to introduce Branson to Nobel Committee chair Thorbjørn Jagland and Branson replied that he would love to see Epstein "as long as you bring your harem!" — language a Virgin spokesperson said Branson regrettably echoed from Epstein's own reference to three adult women on his staff.

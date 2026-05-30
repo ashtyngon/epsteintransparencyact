@@ -30,3 +30,9 @@ Hyperallergic reported that the trove of Epstein-related documents released by t
 ## Is Andres Serrano in the Epstein files?
 
 Yes. According to Hyperallergic, the Epstein files released by the U.S. House Oversight Committee in November 2025 included an October 10, 2016 email exchange between Serrano and Jeffrey Epstein. Separately, as reported by Reuters, Serrano photographed Epstein in 2019, roughly four months before Epstein's death, in connection with a long-running arrangement involving a Madonna statue. Being named in the files or having corresponded with Epstein is not, by itself, evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that reference Andres Serrano. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[House Oversight Committee — Epstein email correspondence (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — As reported by Hyperallergic, this release included an October 10, 2016 email in which Serrano discussed his voting intentions with Epstein, writing that he had been "prepared to vote against Trump for all the right reasons" but might give him a "sympathy vote."

@@ -34,3 +34,9 @@ The VI Consortium reports, based on the Justice Department records, that Mapp al
 Yes. Kenneth Mapp, the former Governor of the U.S. Virgin Islands, appears in the Epstein files and on Wikipedia's list of people named in them. The documented context, per The Virgin Islands Daily News and the VI Consortium, is a set of 2016 emails in which Mapp asked Epstein about a possible loan to the territorial government, a later request for a campaign contribution, and Mapp's 2023 sworn testimony acknowledging a lunch meeting with Epstein on Little St. James.
 
 Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context.
+
+## Documents
+
+Primary-source records that reference Kenneth Mapp. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The Justice Department's release of investigative records includes 2016 email correspondence between Mapp and Epstein concerning territorial financing, and a request for a $50,000 contribution to Mapp's political action committee during his 2018 re-election campaign, as reported by The Virgin Islands Daily News and the VI Consortium.

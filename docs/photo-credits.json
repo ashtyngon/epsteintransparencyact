@@ -920,5 +920,145 @@
     "wikipedia": "https://www.pbs.org/newshour/nation/thomas-pritzker-steps-down-from-hyatt-board-saying-he-deeply-regrets-association-with-epstein",
     "artist": "Natacha Pisarenko/AP",
     "license": "editorial/public-interest use"
+  },
+  "andrew-farkas": {
+    "name": "Andrew Farkas",
+    "source": "Island Capital Group",
+    "wikipedia": "https://www.islandcapital.com/team-bio/andrew-farkas/",
+    "license": "editorial/public-interest use",
+    "file": "andrew-farkas.jpg"
+  },
+  "david-a-ross": {
+    "name": "David A. Ross",
+    "source": "ARTnews",
+    "wikipedia": "https://www.artnews.com/art-news/news/epstein-files-reveal-museum-director-david-a-ross-1234772018/",
+    "license": "editorial/public-interest use",
+    "file": "david-a-ross.jpg"
+  },
+  "doug-band": {
+    "name": "Doug Band",
+    "source": "dougband.com",
+    "wikipedia": "https://www.dougband.com/",
+    "license": "editorial/public-interest use",
+    "file": "doug-band.jpg"
+  },
+  "elisa-new": {
+    "name": "Elisa New",
+    "source": "AAE Speakers",
+    "wikipedia": "https://www.aaespeakers.com/keynote-speakers/elisa-new",
+    "license": "editorial/public-interest use",
+    "file": "elisa-new.jpg"
+  },
+  "jean-pigozzi": {
+    "name": "Jean Pigozzi",
+    "source": "Alain Elkann Interviews",
+    "wikipedia": "https://www.alainelkanninterviews.com/jean-pigozzi/",
+    "license": "editorial/public-interest use",
+    "file": "jean-pigozzi.jpg"
+  },
+  "joanna-rubinstein": {
+    "name": "Joanna Rubinstein",
+    "source": "Early Childhood Peace Consortium",
+    "wikipedia": "https://ecdpeace.org/joanna-rubinstein",
+    "license": "editorial/public-interest use",
+    "file": "joanna-rubinstein.jpg"
+  },
+  "juliette-bryant": {
+    "name": "Juliette Bryant",
+    "source": "CBS News",
+    "wikipedia": "https://www.cbsnews.com/news/epstein-files-juliette-bryant-trafficked-from-south-africa-assaulted-on-jet/",
+    "license": "editorial/public-interest use",
+    "file": "juliette-bryant.jpg"
+  },
+  "leon-black": {
+    "name": "Leon Black",
+    "source": "Private Equity Insights",
+    "wikipedia": "https://pe-insights.com/nobody-makes-money-like-apollos-ruthless-founder-leon-black/",
+    "license": "editorial/public-interest use",
+    "file": "leon-black.jpg"
+  },
+  "letty-moss-salentijn": {
+    "name": "Dr. Letty Moss-Salentijn",
+    "source": "Columbia University",
+    "wikipedia": "https://www.dental.columbia.edu/profile/letty-moss-salentijn-dds",
+    "license": "editorial/public-interest use",
+    "file": "letty-moss-salentijn.jpg"
+  },
+  "maria-farmer": {
+    "name": "Maria Farmer",
+    "source": "ABC News",
+    "wikipedia": "https://abcnews.go.com/US/jeffrey-epstein-survivor-paints-portraits-survivors-happened/story?id=68148224",
+    "license": "editorial/public-interest use",
+    "file": "maria-farmer.jpg"
+  },
+  "matthew-menchel": {
+    "name": "Matthew Menchel",
+    "source": "Kobre & Kim",
+    "wikipedia": "https://kobrekim.com/people/matthew-i-menchel",
+    "license": "editorial/public-interest use",
+    "file": "matthew-menchel.jpg"
+  },
+  "nick-candy": {
+    "name": "Nick Candy",
+    "source": "Candy Ventures",
+    "wikipedia": "https://www.themarque.com/profile/nick-candy",
+    "license": "editorial/public-interest use",
+    "file": "nick-candy.jpg"
+  },
+  "paul-tweed": {
+    "name": "Paul Tweed",
+    "source": "WP Tweed & Co",
+    "wikipedia": "https://wptweed.com/people/",
+    "license": "editorial/public-interest use",
+    "file": "paul-tweed.jpg"
+  },
+  "peggy-siegal": {
+    "name": "Peggy Siegal",
+    "source": "The Hollywood Reporter",
+    "wikipedia": "https://www.hollywoodreporter.com/news/general-news/hollywood-publicist-peggy-siegal-jeffrey-epstein-new-york-interview-1236522678/",
+    "license": "editorial/public-interest use",
+    "file": "peggy-siegal.jpg"
+  },
+  "robert-trivers": {
+    "name": "Robert Trivers",
+    "source": "Edge.org",
+    "wikipedia": "https://www.edge.org/memberbio/robert_trivers",
+    "license": "editorial/public-interest use",
+    "file": "robert-trivers.jpg"
+  },
+  "roger-schank": {
+    "name": "Roger Schank",
+    "source": "Edge.org",
+    "wikipedia": "https://www.edge.org/memberbio/roger_schank",
+    "license": "editorial/public-interest use",
+    "file": "roger-schank.jpg"
+  },
+  "ron-baron": {
+    "name": "Ron Baron",
+    "source": "Baron Capital",
+    "wikipedia": "https://www.baroncapitalgroup.com/bio/ron-baron",
+    "license": "editorial/public-interest use",
+    "file": "ron-baron.jpg"
+  },
+  "sarah-kellen": {
+    "name": "Sarah Kellen",
+    "source": "CNN",
+    "wikipedia": "https://www.cnn.com/2026/05/21/politics/sarah-kellen-epstein-testimony",
+    "license": "editorial/public-interest use",
+    "file": "sarah-kellen.jpg"
+  },
+  "thomas-magnani": {
+    "name": "Dr. Thomas Magnani",
+    "source": "7 West 51 Dental",
+    "wikipedia": "https://7w51dental.com/about/",
+    "license": "editorial/public-interest use",
+    "file": "thomas-magnani.jpg"
+  },
+  "wendy-raymond": {
+    "name": "Wendy Raymond",
+    "source": "Haverford College",
+    "wikipedia": "https://www.haverford.edu/users/president",
+    "license": "editorial/public-interest use",
+    "file": "wendy-raymond.jpg"
   }
 }

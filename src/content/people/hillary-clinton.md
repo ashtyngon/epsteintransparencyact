@@ -41,3 +41,9 @@ In a more recent development, Axios reported on February 3, 2026, that Bill and 
 ## Is Hillary Clinton in the Epstein files?
 
 Hillary Clinton's name appears in the Epstein-related court records only marginally — Newsweek identified a single reference in a 2016 defense filing listing potential witnesses, and the broader Wikipedia compilation of named individuals mentions her only incidentally. The substantive documented links between the Clinton family and Epstein concern Bill Clinton's flights on Epstein's private jet between 2002 and 2003, not Hillary Clinton. The sources reviewed here consistently state that she has not been accused of any wrongdoing, that her name appearing in the documents is not evidence of illegal activity, and that the Clintons have denied any wrongdoing tied to Epstein. As with everyone named in these files, being mentioned is not the same as being implicated in any crime.
+
+## Documents
+
+Primary-source records that reference Hillary Clinton. Inclusion in these documents is not, by itself, evidence of wrongdoing; the Clintons have denied any wrongdoing tied to Epstein and Hillary Clinton has not been personally accused.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Hillary Clinton's name appears marginally in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). A 2016 submission by Ghislaine Maxwell's attorneys concerning search terms lists "Bill and Hillary Clinton" among thirteen witnesses for whom the plaintiff had requested all communications; the document does not otherwise feature her, and no allegation attaches to the listing.

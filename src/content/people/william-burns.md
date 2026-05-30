@@ -30,3 +30,9 @@ The Daily Beast reported a statement from a CIA spokesperson that Burns "did not
 ## Is William Burns in the Epstein files?
 
 Yes. According to The Wall Street Journal's 2023 reporting, as summarized by Wikipedia and The Daily Beast, scheduling documents associated with Jeffrey Epstein listed three meetings arranged with William Burns in 2014, when Burns was U.S. Deputy Secretary of State. A CIA spokesperson said Burns had no relationship with Epstein and knew him only as someone introduced as a financial-services expert, and Wikipedia reports that Burns said he regretted the meetings. The reporting noted it could not confirm that all the scheduled meetings actually took place. Appearing in scheduling documents or being named in materials connected to the Epstein files is not, by itself, evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that reference William Burns. Appearing in scheduling documents is not, by itself, evidence of wrongdoing; a CIA spokesperson said Burns had no relationship with Epstein, and Burns has not been charged with any crime.
+
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — As reported by The Wall Street Journal (2023) and The Daily Beast, scheduling and calendar documents associated with Epstein listed three 2014 meetings with Burns — a lunch in August 2014 and two evening appointments in September 2014 at Epstein's Manhattan townhouse — while Burns was Deputy Secretary of State. The reporting could not confirm that all the scheduled meetings took place, and a CIA spokesperson said Burns and Epstein "had no relationship."

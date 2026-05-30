@@ -31,3 +31,9 @@ Poole has publicly disputed any suggestion that Epstein influenced his site. As 
 ## Is Christopher Poole in the Epstein files?
 
 Yes. Christopher Poole, the founder of 4chan, appears in emails released as part of the Epstein files, which document that Boris Nikolic introduced him to Jeffrey Epstein in October 2011 and that the two met. Poole has stated that Epstein had nothing to do with 4chan, that they met only once, and that he regrets ever encountering Epstein. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — including correspondence and passing references. See the sources above for the specific, documented details.
+
+## Documents
+
+Primary-source records that reference Christopher Poole. Inclusion in these documents is not, by itself, evidence of wrongdoing; Poole has said Epstein had nothing to do with 4chan and that he met him only once.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Released Epstein records include October–November 2011 email correspondence in which Boris Nikolic introduced Poole to Epstein, who then met him once. As reported by MS NOW, the exchanges do not appear to have continued past the following February.

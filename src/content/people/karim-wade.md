@@ -32,3 +32,9 @@ OCCRP and AFP report that after Wade's corruption conviction, Epstein helped fin
 Yes. According to reporting by OCCRP and Agence France-Presse based on emails released by the US Justice Department, Karim Wade appears in the Epstein files in correspondence describing a relationship with Jeffrey Epstein and Epstein's involvement in financing a US lobbying campaign to seek Wade's release after his 2015 corruption conviction in Senegal. Wade did not respond to OCCRP's questions, and his lawyer declined to comment to AFP.
 
 Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context.
+
+## Documents
+
+Primary-source records that reference Karim Wade. Inclusion in these documents is not, by itself, evidence of wrongdoing; Wade did not respond to OCCRP's questions and his lawyer declined to comment to AFP.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — According to the Organized Crime and Corruption Reporting Project (OCCRP) and Agence France-Presse, emails released by the U.S. Justice Department trace a relationship between Epstein and Wade beginning in late 2010 and describe Epstein helping to finance a U.S. lobbying campaign to seek Wade's release after his 2015 Senegalese corruption conviction. The reporting cites a September 2015 message putting the "Total cost for 3 months" at "100,000 USD" and Epstein covering fees for the lobbying firm Nelson Mullins.

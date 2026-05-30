@@ -34,3 +34,9 @@ In a September 13, 2025 interview with The Times, Allen described attending dinn
 ## Is Woody Allen in the Epstein files?
 
 Yes. Woody Allen is named in the Epstein files as a guest at Jeffrey Epstein's Manhattan townhouse and as the author of a letter in Epstein's birthday book, and emails released by the Justice Department show Epstein helped connect Allen's family with Bard College in relation to his daughter's admission. Being named in these documents is not evidence of any crime or wrongdoing; the reporting reviewed for this profile states that Allen has not been accused of any involvement in Epstein's abuse. See the sources below for the specific, documented context.
+
+## Documents
+
+Primary-source records that name or reference Woody Allen. Inclusion in these documents is not, by itself, evidence of wrongdoing; reporting on these records states that Allen has not been accused of any involvement in Epstein's alleged abuse.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The roughly three million pages of records the Justice Department released under the Epstein Files Transparency Act include emails involving Allen and his wife, Soon-Yi Previn. As reported by Variety and The Irish Times, the correspondence indicates the couple visited Epstein at his Manhattan townhouse and that Epstein helped connect the family with Bard College over their daughter's application; a January 2017 message from Allen's account thanked Epstein "for getting Bechet into Bard." Bard's president said the applicant was accepted on her own merits.

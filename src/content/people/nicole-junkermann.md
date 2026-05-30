@@ -34,3 +34,10 @@ In response, Junkermann's spokesperson said, as quoted by The Telegraph (via Yah
 ## Is Nicole Junkermann in the Epstein files?
 
 Yes. The sources reviewed for this profile document that Nicole Junkermann is named in the Epstein files, principally through years of email correspondence with Jeffrey Epstein that continued after his 2008 conviction, as reported by Wikipedia's list of named people, The Telegraph (via Yahoo), The Tab, and The Sunday Guardian. Her spokesperson has said she was "completely deceived and misled" by Epstein and "deeply regrets" their conversations. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, including correspondence, contact lists, and flight logs. See the sources above for the specific documented context.
+
+## Documents
+
+Primary-source records that name or reference Nicole Junkermann. Inclusion in these documents is not, by itself, evidence of wrongdoing; her spokesperson has said she was "completely deceived and misled" by Epstein and "deeply regrets" their conversations.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Per The Telegraph (via Yahoo, February 2026) and The Tab, the released files document hundreds of emails between Junkermann and Epstein, with the earliest disclosed correspondence dating to May 2009 and continuing over the following decade — in one of which she referred to Epstein as "Mr Wonderful."
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025; The Telegraph reports that Junkermann appears in the flight logs as far back as 2002.

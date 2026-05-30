@@ -75,3 +75,10 @@ Valeria wrote that "Epstein created a manipulative narrative about his case, whi
 ## No Criminal Allegations
 
 Chomsky has not been accused of involvement in any of Epstein's crimes. The released documents show a personal and financial relationship between the two men, but contain no allegations of criminal conduct by Chomsky.
+
+## Documents
+
+Primary-source records that name or reference Noam Chomsky. Inclusion in these documents is not, by itself, evidence of wrongdoing; Chomsky has not been accused of involvement in any of Epstein's crimes.
+
+- **[House Oversight Committee (Democrats) — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The released correspondence documents Chomsky's contact with Epstein, including the February 2019 email advising Epstein to "ignore" the press scrutiny following the Miami Herald investigation, and a letter in which Chomsky described Epstein as a "highly valued friend."
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — The broader Justice Department release under the Epstein Files Transparency Act includes scheduling records of planned 2015–2016 meetings and a photograph of Chomsky seated next to Epstein on a plane.

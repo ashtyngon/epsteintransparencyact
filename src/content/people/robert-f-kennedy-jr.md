@@ -31,3 +31,10 @@ According to the Wikipedia "List of people named in the Epstein files," Kennedy 
 ## Is Robert F. Kennedy Jr. in the Epstein files?
 
 Yes. Robert F. Kennedy Jr. is named in connection with the Jeffrey Epstein files, and he has personally acknowledged flying on Epstein's plane twice in the 1990s with his family. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, flight logs, contact books, scheduling, photographs, or passing references. See the sources below for the specific documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Robert F. Kennedy Jr. Inclusion in these documents is not, by itself, evidence of wrongdoing; Kennedy says the flights occurred in the 1990s before Epstein's crimes were known and that he was never on the jet alone, and he is not accused of any wrongdoing.
+
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft record Kennedy as a passenger, consistent with the two family flights he has publicly acknowledged. NBC News reports Kennedy appears in the files "both in Epstein's flight logs and in an email exchange."
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Among the records the Department of Justice released under the Epstein Files Transparency Act is a 2012 email in which Ghislaine Maxwell asked Epstein, "didn't we go fossil hunting with him and Bobby Kennedy in NDakota?" — corresponding to the South Dakota fossil-hunting trip Kennedy has described.

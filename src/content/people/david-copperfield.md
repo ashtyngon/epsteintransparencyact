@@ -32,3 +32,9 @@ Copperfield has, through his attorneys, disputed the characterization of his ass
 ## Is David Copperfield in the Epstein files?
 
 Yes. Based on the sources reviewed for this profile, David Copperfield is named in reporting and documents associated with the Jeffrey Epstein files — including 2005 message pads, an October 2007 email, deposition testimony describing a 2004 dinner, and photographs with Ghislaine Maxwell, as catalogued by Wikipedia and reported by outlets including The Daily Beast and Yahoo. Copperfield's attorneys have said he and Epstein were "at most, acquaintances" and that he did not know about Epstein's crimes. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, including correspondence, scheduling, social events, and photographs.
+
+## Documents
+
+Primary-source records that name or reference David Copperfield. Inclusion in these documents is not, by itself, evidence of wrongdoing; Copperfield's attorneys say he and Epstein were "at most, acquaintances," and he has not been charged with any crime.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Copperfield is referenced repeatedly in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Johanna Sjoberg's deposition describes a dinner at Epstein's home at which Copperfield was present and at which Sjoberg said he "questioned me if I was aware that girls were getting paid to find other girls"; he is also raised in other depositions and motions, where witnesses were questioned about him.

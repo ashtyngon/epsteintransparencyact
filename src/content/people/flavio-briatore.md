@@ -32,3 +32,10 @@ The reporting reviewed for this profile does not describe any allegation of wron
 ## Is Flavio Briatore in the Epstein files?
 
 Yes. Flavio Briatore is listed in Wikipedia's "List of people named in the Epstein files," which says he "maintained email contact with Epstein." Front Office Sports and a Yahoo Sports article syndicated from NJ.com reported that he exchanged emails with Epstein between 2005 and 2010 and that Epstein referred to him as his "Italian friend." Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, contact books, scheduling, or passing references. The sources reviewed for this profile report no allegation against Briatore in connection with Epstein's offenses, and an Alpine spokesperson declined to comment on the correspondence.
+
+## Documents
+
+Primary-source records that name or reference Flavio Briatore. Inclusion in these documents is not, by itself, evidence of wrongdoing; the reporting reviewed here describes no allegation against Briatore in connection with Epstein's crimes.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — In a declaration unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433), Alan Dershowitz states that Epstein's address book "contained the circled names of many celebrities and other individuals, including Donald Trump, Flavio Briatore, and Courtney Love, among others" — citing the listing in an argument that being named in the book "is probative of nothing."
+- **[DOJ Epstein Files (full release)](https://www.justice.gov/epstein)** — The records released under the Epstein Files Transparency Act and searchable on the Justice Department's website include the 2005–2010 email correspondence in which, per Front Office Sports and a Yahoo Sports article syndicated from NJ.com, Epstein referred to Briatore as his "Italian friend."

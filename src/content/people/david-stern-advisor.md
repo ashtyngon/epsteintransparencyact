@@ -40,3 +40,9 @@ The visa advice documented in the files represents a concrete instance of active
 ## Context
 
 Stern's revelation was part of a broader wave of disclosures showing how Epstein's network extended through facilitators who provided specific forms of assistance. A former Clifford Chance lawyer's ties were exposed in separate emails. Consultants pitched Epstein's access to New York Democrats in exchange for campaign contributions. The pattern described by victims' attorneys is one of a sophisticated operation requiring cooperation from advisers in law, finance, politics, and social circles.
+
+## Documents
+
+Primary-source records that name or reference David Stern. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Stern appears in email correspondence released under the Epstein Transparency Act in February 2026. As reported by The Guardian, the emails show Stern advising Epstein on a Chinese visa application — including the suggestion that it would be "better not to tick the boxes re being denied previously or criminal charges" — and a July 2010 chain in which Prince Andrew forwarded information to Stern, who relayed it to Epstein. Stern's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

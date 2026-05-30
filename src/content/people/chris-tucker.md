@@ -33,3 +33,10 @@ FactCheck.org reports that this Africa trip "was the longest trip Clinton took o
 Chris Tucker appears in the public Epstein record solely in connection with the September 2002 humanitarian trip to Africa aboard Epstein's plane, a flight he shared with Bill Clinton and Kevin Spacey for HIV/AIDS relief work, as documented by Wikipedia and FactCheck.org. He has not been accused of any wrongdoing.
 
 Being named or appearing in connection with the files is **not** evidence of any crime or wrongdoing. People appear in this record in many contexts — flight logs, correspondence, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Chris Tucker. Inclusion in these documents is not, by itself, evidence of wrongdoing; Tucker's sole documented connection is the 2002 humanitarian trip, and he has not been accused of any crime.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Tucker is referenced in Ghislaine Maxwell's deposition in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Counsel directs Maxwell to a flight-log exhibit and reads an entry listing "President Clinton, Kevin Spacey, Chris Tucker, Jeffrey Epstein and the initials GM," asking whether she recalls the trip.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft record Tucker as a passenger on the September 2002 trip to Africa for HIV/AIDS relief work, which he took alongside Bill Clinton and Kevin Spacey.

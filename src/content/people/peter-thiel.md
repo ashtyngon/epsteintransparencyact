@@ -35,3 +35,10 @@ Being named in the files is not evidence of wrongdoing. According to Peter Thiel
 ## Is Peter Thiel in the Epstein files?
 
 Yes. Peter Thiel is named in the 2026 releases of records from Jeffrey Epstein's estate. Per Peter Thiel's Wikipedia article, the documents show that Epstein placed about $40 million into funds managed by Valar Ventures, a firm Thiel co-founded, and that Thiel corresponded with Epstein over roughly five years, with meetings scheduled between 2014 and 2016. PBS NewsHour documented specific email exchanges, including a 2018 invitation from Epstein for Thiel to visit his Caribbean property, which it was unclear whether Thiel accepted. Thiel's spokesperson has stated that he never visited Epstein's island, and Thiel has denied any wrongdoing. He has not been accused of any criminal conduct in connection with Epstein.
+
+## Documents
+
+Primary-source records that reference Peter Thiel. Inclusion in these documents is not, by itself, evidence of wrongdoing; Thiel's spokesperson says he never visited Epstein's island, and he has denied any wrongdoing.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — The emails released by the House Oversight Committee are the basis for the reporting that Thiel corresponded with Epstein over roughly five years, including a 2014 message ("that was fun, see you in 3 weeks") and a 2018 invitation to "Dec visit me Caribbean."
+- **[House Oversight Committee — Epstein records provided by the DOJ (33,295 pages, 2025)](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)** — Thiel's communications and scheduled meetings with Epstein are among the records the Department of Justice provided to Congress.

@@ -40,3 +40,10 @@ His approach stands in contrast to other media figures named in the files. Podca
 Being named in the Epstein files does not itself prove wrongdoing. Epstein maintained extensive records of contacts, communications, and social connections across media, finance, politics, and academia. For comparison, Sultan Ahmed bin Sulayem of DP World appeared more than 4,700 times in the files and was subsequently forced out as CEO. The significance of 29 mentions depends on the nature and context of each reference.
 
 Morgan's 29 mentions indicate multiple documented points of contact within the networks Epstein maintained. The documents are public. Morgan continues to dispute the reports.
+
+## Documents
+
+Primary-source records that reference Piers Morgan. Inclusion in these documents is not, by itself, evidence of wrongdoing; per BuzzFeed's breakdown, the mentions are third-party references and Morgan is not alleged to have corresponded with Epstein or to have been involved in any crime.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Morgan's name appears roughly 29 times across the records the Department of Justice released under the Epstein Files Transparency Act. Per BuzzFeed's catalogue, the references are passive — third-party emails (e.g., a publicist and a journalist mentioning him as a possible guest or media contact), archived news clippings, and a single complaint about a TalkTV appearance — with no correspondence between Morgan and Epstein.
+- **[House Oversight Committee — Epstein records provided by the DOJ (33,295 pages, 2025)](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)** — Morgan's mentions are among the Epstein-related records the Department of Justice provided to Congress.

@@ -30,3 +30,9 @@ The Irish Times reported that Blaine "did not respond to requests for comment." 
 ## Is David Blaine in the Epstein files?
 
 Yes. David Blaine is named in the Epstein files. According to the "List of people named in the Epstein files" on Wikipedia and reporting by the Irish Times and IBTimes UK, the released records show a years-long correspondence and regular dinners with Jeffrey Epstein between 2012 and 2016, and a May 2015 letter Blaine agreed to write supporting a woman's U.S. visa application at Epstein's request. Being named in the files is not evidence of any crime or wrongdoing; the cited reporting states that Blaine has not been charged with any crime related to Epstein, and the Irish Times reported that he did not respond to requests for comment.
+
+## Documents
+
+Primary-source records that name or reference David Blaine. Inclusion in these documents is not, by itself, evidence of wrongdoing; Blaine has not been charged with any crime related to Epstein.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Blaine appears in email correspondence among the files released by the U.S. Department of Justice. As reported by the Irish Times (Feb. 2026), the correspondence runs from 2012 to 2016 and includes a May 2015 exchange in which Epstein asked Blaine to write a support letter for a woman's U.S. visa application, which Blaine agreed to do. Blaine's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

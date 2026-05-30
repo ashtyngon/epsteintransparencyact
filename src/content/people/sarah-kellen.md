@@ -6,6 +6,7 @@ aliases:
   - "Sarah Kellen Vickers"
   - "Sarah K. Vickers"
 role: "Epstein's personal assistant and alleged recruiter"
+image: "/images/people/sarah-kellen.jpg"
 category: "associate"
 shortBio: "Jeffrey Epstein's personal assistant who was identified as a potential co-conspirator in the 2008 non-prosecution agreement. Victims described Kellen as scheduling appointments and recruiting girls. She received immunity under the controversial 2008 plea deal negotiated by then-U.S. Attorney Alexander Acosta. Later married and changed her name to Sarah Kellen Vickers."
 notableConnections:
@@ -49,3 +50,11 @@ Kellen later married and changed her name to Sarah Kellen Vickers. She has not m
 ## What Is Established
 
 Kellen was named as a potential co-conspirator by federal prosecutors. Victims identified her as playing a logistical role in Epstein's abuse. She received immunity and was never charged. Her exact knowledge of and participation in the criminal activity — beyond what victims described in sworn statements — has not been tested in court.
+
+## Documents
+
+Primary-source records that name or reference Sarah Kellen. Being named in or appearing in these documents is not, by itself, evidence of wrongdoing; Kellen received immunity, was never charged, and has more recently described herself as one of Epstein's victims.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Kellen is named throughout the documents unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Filings and depositions repeatedly describe her as a scheduler and alleged recruiter, and she was the subject of subpoena efforts; the records note that she and Nadia Marcinkova "appear repeatedly on the flight logs."
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025; the Giuffre v. Maxwell record states Kellen appears repeatedly on these logs.
+- **[DOJ OPR report on the 2006–2008 investigation and non-prosecution agreement (Nov. 2020)](https://www.justice.gov/opr/page/file/1336471/dl)** — Kellen was one of four people named by name in the 2008 non-prosecution agreement's co-conspirator immunity clause, the agreement examined in this report.

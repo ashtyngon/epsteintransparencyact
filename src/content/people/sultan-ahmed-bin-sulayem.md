@@ -54,3 +54,10 @@ Khanna and Rep. [Thomas Massie](/people/thomas-massie) (R-KY) pointed to the DP 
 Bin Sulayem's departure was one of the most consequential corporate exits triggered by the Epstein file releases, alongside [Kathryn Ruemmler](/people/kathryn-ruemmler)'s resignation from Goldman Sachs. The DP World case demonstrated the global reach of the Epstein revelations — extending from American politics and finance into the governance structures of sovereign wealth-backed enterprises in the Gulf.
 
 The scale of his mentions in the files — more than 4,700 — raised questions about the depth and duration of Epstein's connections to powerful figures in the Middle East, and about what role those connections played in Epstein's financial and social network.
+
+## Documents
+
+Primary-source records that reference Sultan Ahmed Bin Sulayem. Inclusion in these documents is not, by itself, evidence of wrongdoing; the specific nature of the communications remains the subject of ongoing review, and Bin Sulayem has not been charged with any crime.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — Bin Sulayem appears in Epstein's email correspondence among the records made public in the 2025–2026 disclosures. As reported by The Guardian, Reuters, and the Financial Times, his name appeared more than 4,700 times across the released files — among the highest mention counts for any individual — in emails, scheduling records, and other communications with Epstein.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — The Bin Sulayem correspondence forms part of the broader body of Epstein records released by the U.S. Department of Justice under the Epstein Files Transparency Act.

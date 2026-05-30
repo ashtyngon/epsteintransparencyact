@@ -57,3 +57,9 @@ JPMorgan separately sued Staley, alleging he had hidden Epstein's crimes to keep
 ## What Is Established
 
 Staley has not been charged with any crime, and he has denied knowledge of Epstein's criminal activities. What is documented is that he maintained extensive personal correspondence with Epstein after the 2008 conviction, visited Epstein's U.S. Virgin Islands property, was found by a UK tribunal to have recklessly misled the financial regulator about that relationship, and lost his position at one of the world's largest banks. His former employer paid $290 million to settle claims brought by trafficking victims.
+
+## Documents
+
+Primary-source records that document Jes Staley's relationship with Epstein. Being named in these documents is not, by itself, evidence of wrongdoing; Staley has not been charged with any crime and denies knowledge of Epstein's offenses.
+
+- **[Government of the U.S. Virgin Islands v. JPMorgan Chase — court records (S.D.N.Y., 2022)](https://www.justice.gov/epstein/doj-disclosures/court-records-government-united-states-virgin-islands-v-jpmorgan-chase-bank-na-no-122-cv-10904-sdny-2022)** — The USVI's lawsuit against JPMorgan over its handling of Epstein's accounts (No. 1:22-cv-10904). Filings in this case put on the record roughly 1,200 emails between Staley and Epstein and the bank's own third-party claim against Staley; JPMorgan settled with the USVI for $75 million in September 2023. Staley is not identified in the Jan. 2024 *Giuffre v. Maxwell* unsealing.

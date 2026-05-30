@@ -43,3 +43,10 @@ Pinker has also said he attended two events at which Epstein was present — a d
 ## Context
 
 Pinker's case illustrates how Epstein's network of connections at Harvard drew in prominent academics through overlapping professional circles. The legal opinion provided via Dershowitz demonstrates how Epstein's defense team leveraged the intellectual credibility of Harvard faculty. While Pinker's involvement appears more peripheral than figures like Martin Nowak, who ran an Epstein-funded research program, his name in the Epstein orbit has contributed to the broader scrutiny of Harvard's institutional relationship with the convicted sex offender.
+
+## Documents
+
+Primary-source records that name or reference Steven Pinker. Inclusion in these documents is not, by itself, evidence of wrongdoing; Pinker has said he was not a friend of Epstein, was unaware of his crimes, and regrets the 2007 legal favor he provided.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Pinker is named in a declaration filed by Alan Dershowitz in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). The declaration lists Pinker among academics "associated with Mr. Epstein" — alongside Lawrence Summers, Stephen Hawking, and Richard Dawkins — to argue that association with Epstein's academic-funding circle is not, by itself, evidence of any wrongdoing.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025, record Pinker as a passenger on a single 2002 flight. Pinker has said his literary agent invited him to join a group of TED speakers Epstein flew to California, and that no one then knew of Epstein's crimes.

@@ -32,3 +32,9 @@ In response, according to the Anadolu Agency report, Goertzel said: "Looking bac
 ## Is Ben Goertzel in the Epstein files?
 
 Yes. Ben Goertzel is named in connection with the Epstein files over research funding — at least US$113,000 that Epstein's US non-profit Humanity+ channeled to his AI work between 2010 and 2015, which according to reporting helped him secure Hong Kong government grants. Goertzel has publicly said he regrets taking Epstein's money, and the South China Morning Post reported there is no evidence connecting him to Epstein's crimes. Being named in the files is not evidence of any crime or wrongdoing. See the sources above for the specific, documented context, and the note at the bottom of this page.
+
+## Documents
+
+Primary-source records that reference Ben Goertzel. Inclusion in these documents is not, by itself, evidence of wrongdoing; the South China Morning Post reported there is no evidence connecting Goertzel to Epstein's crimes.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The records documenting Epstein's funding of Goertzel's AI work are part of the Justice Department's Epstein Files Transparency Act disclosure (released in early 2026). As reported by the South China Morning Post and Anadolu Agency, the files show Epstein channeled at least US$113,000 through the non-profit Humanity+ to Goertzel's company between 2010 and 2015, which helped him meet matching-fund requirements for Hong Kong government grants.

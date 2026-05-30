@@ -30,3 +30,9 @@ Middle East Eye additionally cited a trip itinerary that listed a "Harvey Weinst
 ## Is Leonard Blavatnik in the Epstein files?
 
 Yes. The Wikipedia "List of people named in the Epstein files" includes Leonard Blavatnik, and Middle East Eye, reviewing documents released by the US Department of Justice, reported correspondence between Epstein and Blavatnik spanning more than a decade, including invitations to gatherings that he is described as having declined. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, invitations, scheduling, contact books or passing references — and the reporting reviewed here records contact and invitations rather than any allegation against Blavatnik. See the sources above for the documented context.
+
+## Documents
+
+Primary-source records that reference Leonard Blavatnik. Inclusion in these documents is not, by itself, evidence of wrongdoing; the reporting records contact and invitations rather than any allegation against Blavatnik.
+
+- **[DOJ Epstein Files (Epstein Files Transparency Act release)](https://www.justice.gov/epstein)** — The Justice Department's release of investigative records includes email correspondence referencing Blavatnik over more than a decade, including gathering invitations he is reported to have declined, as detailed by Middle East Eye.

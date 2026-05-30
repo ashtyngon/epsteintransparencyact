@@ -5,6 +5,7 @@ seoDescription: "Columbia University cut all ties with Dr. Thomas Magnani, forme
 aliases:
   - "Thomas Magnani"
 role: "Former Columbia University faculty, Epstein's former dentist"
+image: "/images/people/thomas-magnani.jpg"
 category: "named-in-documents"
 shortBio: "Former Columbia University dental faculty member and Jeffrey Epstein's former dentist who was cut by the university in February 2026 after documents revealed he was the point person for securing Epstein's girlfriend admission to the College of Dental Medicine."
 notableConnections:
@@ -32,3 +33,10 @@ Columbia University announced on February 11, 2026 that it had cut all ties with
 ## Context
 
 Magnani's case illustrated how Epstein's network could penetrate academic institutions through personal service relationships — in this instance, a dentist-patient connection that evolved into apparent facilitation of admissions favoritism. His role in the dental college's admissions and volunteer leadership structures provided a mechanism through which a personal obligation to Epstein could be acted upon within an institutional setting.
+
+## Documents
+
+Primary-source records that reference Dr. Thomas Magnani. Inclusion in these documents is not, by itself, evidence of wrongdoing; Magnani has not been charged with any crime.
+
+- **[Epstein's contact book ("black book")](https://www.justice.gov/ag/media/1391321/dl?inline)** — The redacted contact directory released by the DOJ lists a "Magnani, Dr." at a Madison Avenue, Manhattan office — a single contact-book entry consistent with his role as Epstein's dentist. No allegation attaches to the listing itself.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — As reported by The New York Times, records released in early 2026 identified Magnani as the primary point of contact for securing the admission of Epstein's girlfriend to Columbia's College of Dental Medicine; these records form part of the broader body of Epstein files released under the Epstein Files Transparency Act.

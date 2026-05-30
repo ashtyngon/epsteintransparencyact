@@ -32,3 +32,9 @@ ThePrint reported that it "reached Anil Ambani and a Reliance Group spokesperson
 ## Is Anil Ambani in the Epstein files?
 
 Yes. According to ThePrint and Business Today, Anil Ambani — chairman of India's Reliance Group — is reported to appear in Jeffrey Epstein's messages, exchanging communications with Epstein between 2017 and 2019 after being introduced through DP World chairman Sultan Ahmed bin Sulayem, with Ambani reportedly seeking help in establishing connections to the Trump White House. Being named in these documents is not evidence of any crime or wrongdoing; people appear in such records in many contexts, including correspondence and passing references. ThePrint reported that Ambani and the Reliance Group did not respond to its requests for comment before publication. See the sources above for the documented context.
+
+## Documents
+
+Primary-source records that reference Anil Ambani. Inclusion in these documents is not, by itself, evidence of wrongdoing; reporting noted the documents do not appear to contain any sign of criminal wrongdoing by Ambani.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The 2017–2019 messages between Ambani and Epstein are part of the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3-million-page tranche released January 30, 2026). As reported by ThePrint, Business Today and others, the correspondence includes a March 2017 message in which Ambani wrote that "Leadership wld like ur help for me to meet jared and bannon asap" and sought guidance on White House contacts for India.

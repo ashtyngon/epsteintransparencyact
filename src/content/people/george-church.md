@@ -39,3 +39,10 @@ Church told STAT News, "I certainly apologize for my poor awareness and judgment
 ## Is George Church in the Epstein files?
 
 Yes. George Church is named in the Wikipedia [list of people named in the Epstein files](https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files), which documents that records showed he met with Epstein multiple times in 2014 and dined with him alongside Joi Ito, Reid Hoffman, and Martin Nowak. His lab received research funding from Epstein between 2005 and 2007, and Church publicly apologized in 2019 for his contacts with Epstein, telling [STAT News](https://www.statnews.com/2019/08/05/citing-nerd-tunnel-vision-biologist-george-church-apologizes-for-contacts-with-jeffrey-epstein/) that he apologized for his "poor awareness and judgment." Being named in these records is not in itself evidence of wrongdoing; the documented connection is the research funding and the meetings, which Church has acknowledged and addressed publicly.
+
+## Documents
+
+Primary-source records that name or reference George Church. Inclusion in these documents is not, by itself, evidence of wrongdoing; Church has acknowledged the funding and meetings and apologized publicly.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — In a declaration unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433), Alan Dershowitz lists Church among the academics "associated with Mr. Epstein" — naming "Larry Summers, Stephen Hawking, Henry Rosovsky, Nathan Myhrvold, Steven Pinker, Martin Nowak, Daniel C. Dennett, David Gergen, George Church, Richard Dawkins" and others — in an argument that mere association with Epstein implies nothing. No allegation against Church appears in the filing.
+- **[DOJ Epstein Files (full release)](https://www.justice.gov/epstein)** — Church is among the Harvard faculty named in the Justice Department records released on January 30, 2026, as reported by the Harvard Crimson, Axios, and CNN; the records include email correspondence and documentation of funding Church received from Epstein or his associates.

@@ -30,3 +30,9 @@ The reporting describes contact and a single visit after an introduction; it doe
 ## Is Jean Todt in the Epstein files?
 
 Yes. Jean Todt, the former Ferrari executive and former FIA president, is named in reporting on the Epstein files. According to Front Office Sports and Yahoo Sports, Todt was introduced to Jeffrey Epstein in 2017 through their mutual acquaintance Terje Rød-Larsen, exchanged a message with Epstein, and visited Epstein's home; Epstein later described him as "odd." Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, introductions, scheduling, or passing references. See the sources above for the documented context.
+
+## Documents
+
+Primary-source records that reference Jean Todt. Inclusion in these documents is not, by itself, evidence of wrongdoing; the reporting reviewed here describes only a 2017 introduction and a single visit, and alleges no wrongdoing by Todt.
+
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — Todt is named in email correspondence among the Epstein files released by the Department of Justice. As reported by Front Office Sports and Yahoo Sports, a 2017 email shows Todt writing that it was "nice to get to know you through our common friend Terje" — a reference to former Norwegian diplomat Terje Rød-Larsen — after which Epstein noted that Todt had visited his home and described him as "odd."

@@ -28,3 +28,9 @@ Her Wikipedia article reports that Epstein claimed he had given her financial he
 ## Is Lynn Forester de Rothschild in the Epstein files?
 
 The sources reviewed for this profile document that Forester de Rothschild has been named in reporting about Epstein's circle, principally through Ghislaine Maxwell's July 2025 DOJ deposition, in which Maxwell claimed Forester de Rothschild introduced Epstein to Prince Andrew at a house in Martha's Vineyard in the early 2000s. That account is attributed to Maxwell, not established as a finding of fact, and a spokesperson has denied a separate claim that Epstein provided Forester de Rothschild financial help. Being named in reporting about Epstein is not evidence of any crime or wrongdoing.
+
+## Documents
+
+Primary-source records that reference Lynn Forester de Rothschild. Being named in these documents is not evidence of wrongdoing; the account below is attributed to Ghislaine Maxwell and is not an established finding of fact.
+
+- **[Ghislaine Maxwell — DOJ interview transcript (July 2025)](https://www.justice.gov/maxwell-interview)** — In her July 2025 interview with the Department of Justice, Maxwell stated that Forester de Rothschild had a house on Martha's Vineyard and invited Epstein there, and that she believed it was where Epstein met Prince Andrew. Forester de Rothschild is not named in the Jan. 2024 *Giuffre v. Maxwell* unsealing.

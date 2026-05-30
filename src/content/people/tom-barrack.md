@@ -52,3 +52,10 @@ Barrack's appearance in the Epstein files drew attention because of his close ti
 ## Ongoing Position
 
 Several figures named in the February 2026 release stepped down within days. Goldman Sachs general counsel Kathryn Ruemmler resigned on February 12, 2026, and Sultan Ahmed bin Sulayem resigned as chief executive and chairman of Dubai's DP World on February 13, 2026, both over their disclosed ties to Epstein. As of the February 2026 reporting, Barrack had not resigned and continued to serve as U.S. ambassador to Turkey and as a U.S. special envoy.
+
+## Documents
+
+Primary-source records that reference Tom Barrack. Inclusion in these documents is not, by itself, evidence of wrongdoing; CBS News found no evidence that Barrack participated in or had knowledge of any criminal conduct by Epstein, and he has not been charged.
+
+- **[House Oversight Committee — Epstein email correspondence release (Nov. 2025)](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)** — Barrack appears in Epstein's correspondence among the records made public in the 2025–2026 disclosures. A CBS News analysis of more than 100 texts and email exchanges found Barrack "was in regular, close contact with Jeffrey Epstein for years after Epstein's 2008 conviction," spanning roughly 2002 through 2018, including mutual introductions to diplomats and investors and discussions of business opportunities.
+- **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Barrack's correspondence with Epstein forms part of the broader body of Epstein records released by the U.S. Department of Justice under the Epstein Files Transparency Act in February 2026.

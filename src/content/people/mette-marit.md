@@ -32,3 +32,9 @@ According to Marie Claire (February 6, 2026), the Norwegian royal household issu
 ## Is Mette-Marit in the Epstein files?
 
 Yes. According to Wikipedia's list of people named in the Epstein files and a dedicated Wikipedia article on the relationship, Mette-Marit, Crown Princess of Norway, is mentioned over a thousand times in the released files, which reporting says document emails and meetings with Jeffrey Epstein between 2011 and 2014, including a 2013 stay at his Palm Beach home. Being named in the files is not evidence of any crime or wrongdoing. As reported by Marie Claire, the Norwegian royal household said the Crown Princess "strongly disavows Epstein's abuse and criminal acts" and is "very sorry for not having understood early enough what kind of person he was," and Mette-Marit expressed her "deepest regret" for the friendship. See the sources below for the documented context.
+
+## Documents
+
+Primary-source records that name or reference Mette-Marit. Inclusion in these documents is not, by itself, evidence of wrongdoing; the Norwegian royal household says the Crown Princess "strongly disavows Epstein's abuse and criminal acts" and she has expressed "deepest regret" for the friendship.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The Department of Justice's January 2026 release of Epstein records contains the email correspondence between Mette-Marit and Epstein spanning roughly 2011 to 2014; reporting describes her as referenced many hundreds of times across the material, including messages attributed to her and a 2013 stay at Epstein's Palm Beach residence. The disclosure prompted statements of regret from the Crown Princess and the Norwegian royal household.

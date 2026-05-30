@@ -31,3 +31,10 @@ On February 8, 2026, Norway's Ministry of Foreign Affairs announced Juul's resig
 Norwegian police launched a corruption investigation into both Juul and her husband, Terje Rød-Larsen, as of February 8, 2026. The investigation relates to the financial dealings between the couple and Epstein. Among the details that drew scrutiny was the revelation that Juul and Rød-Larsen had been left $10 million in Epstein's will — a bequest that raised questions about the nature of their relationship with him.
 
 The investigation placed Juul among a small number of individuals facing criminal-level scrutiny in connection with the Epstein documents, distinguishing her case from the broader wave of resignations and institutional departures that followed the file releases. [Thorbjorn Jagland](/people/thorbjorn-jagland), another prominent Norwegian figure, separately faced fallout for his documented ties to Epstein.
+
+## Documents
+
+Primary-source records that reference Mona Juul. Inclusion in these documents is not, by itself, evidence of wrongdoing; Juul has said she became aware of the will only through media reports and that her contact with Epstein was minimal and diplomatic.
+
+- **[House Oversight Committee — additional Epstein estate documents (2025)](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)** — Among the estate materials released by U.S. authorities is the will Epstein signed two days before his 2019 death, under which the children of Juul and her husband Terje Rød-Larsen were each designated to receive $5 million. The disclosure of this bequest prompted Juul's suspension and resignation as Norway's ambassador.
+- **[DOJ Epstein Files (EFTA release portal)](https://www.justice.gov/epstein)** — The broader Justice Department release under the Epstein Files Transparency Act is the corpus from which the financial dealings between the Rød-Larsen–Juul family and Epstein were drawn.

@@ -30,3 +30,9 @@ Court documents unsealed in August 2019 — part of a settled defamation lawsuit
 ## Is Bill Richardson in the Epstein files?
 
 Yes. Bill Richardson, the former New Mexico governor and U.S. Energy Secretary, is named in documents connected to Jeffrey Epstein. Court records unsealed in August 2019 included his name in connection with allegations made by Virginia Giuffre, which Richardson denied as "completely false," saying he had never met her (CBS News). Separately, DOJ records reported by the Santa Fe New Mexican document that he arranged to meet Epstein several times in the years after Epstein's 2006 conviction. Richardson was never charged. Being named in these documents is not evidence of any crime or wrongdoing; people appear in such records in many contexts, and Richardson denied the allegations against him.
+
+## Documents
+
+Primary-source records that name or reference Bill Richardson. Inclusion in these documents is not, by itself, evidence of wrongdoing; Richardson denied the allegations against him, said he had never met Virginia Giuffre, and was never charged.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Richardson is named repeatedly in records unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Virginia Giuffre's deposition alleges Maxwell directed her to give him a massage, and his name appears among individuals she identified; Maxwell's defense witness list also names him, stating he "may have knowledge concerning Plaintiff's false claims." (Many of these same allegations were first unsealed in August 2019.)

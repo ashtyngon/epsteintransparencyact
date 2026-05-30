@@ -69,3 +69,10 @@ The circumstances drew immediate comparisons to Epstein's own death in a Manhatt
 Brunel's death eliminated the possibility of a trial that could have exposed the international dimensions of Epstein's operation — particularly the role of the fashion industry as a recruitment mechanism and the cross-border logistics of trafficking. He was the only person besides [Ghislaine Maxwell](/people/ghislaine-maxwell) to face criminal charges directly tied to Epstein's network, and the only one to die before trial.
 
 His case remains central to understanding how Epstein's operation extended beyond the United States, using legitimate industries and immigration systems to access and exploit young women.
+
+## Documents
+
+Primary-source records that name or reference Jean-Luc Brunel. Brunel denied all charges and died in custody in February 2022 before any trial; the French allegations were never adjudicated.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Brunel is named extensively throughout the documents unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). Virginia Giuffre's filings allege Epstein "sexually trafficked" her to Brunel "many times" and describe him as "one of Epstein's closest friends and a regular traveling companion"; the records also include deposition scheduling and subpoena materials directed at him as a witness.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft, released by the DOJ in February 2025, record Brunel as a frequent passenger on flights between New York, Palm Beach, the U.S. Virgin Islands, and Paris.

@@ -4,6 +4,7 @@ seoTitle: "Is Matthew Menchel in the Epstein files? — Former federal prosecuto
 seoDescription: "Matthew Menchel, a former federal prosecutor who handled Jeffrey Epstein's 2007 plea deal and later met with him, is named in reporting on the Epstein files."
 aliases: []
 role: "Former federal prosecutor; partner at Kobre & Kim"
+image: "/images/people/matthew-menchel.jpg"
 category: legal
 shortBio: "Matthew Menchel is a former chief of the criminal division at the U.S. Attorney's Office for the Southern District of Florida who handled Jeffrey Epstein's 2007 plea deal. He later joined the law firm Kobre & Kim. Reporting and the Wikipedia list of people named in the Epstein files note his post-prosecution contacts with Epstein."
 notableConnections:
@@ -31,3 +32,10 @@ Menchel has disputed the characterization of his relationship with Epstein. As q
 ## Is Matthew Menchel in the Epstein files?
 
 Yes. Matthew Menchel is listed on Wikipedia's "List of people named in the Epstein files" and is named in reporting by the ABA Journal and others as the former federal prosecutor who handled Epstein's 2007 plea deal and later met with him on several occasions. Menchel has denied having any business relationship with Epstein. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts. See the sources above for the specific documented context.
+
+## Documents
+
+Primary-source records that name or reference Matthew Menchel. Inclusion in these documents is not, by itself, evidence of wrongdoing; Menchel has denied having any business relationship with Epstein.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Menchel is referenced in a deposition transcript among the documents unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433), where he is identified as one of the Assistant U.S. Attorneys in the Southern District of Florida office at the time of Epstein's case. The reference concerns his role as a prosecutor, not any allegation against him.
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — The Department of Justice's January 30, 2026 release of Epstein records includes the calendar entries and email exchanges documenting Menchel's post-prosecution contacts with Epstein — meetings or dinners reported in 2011, 2013 and 2017, years after he left the U.S. Attorney's Office — as reported by the ABA Journal.

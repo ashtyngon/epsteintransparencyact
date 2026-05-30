@@ -36,3 +36,9 @@ In a public statement quoted by Complex and ThePrint, Chopra responded to the re
 ## Is Deepak Chopra in the Epstein files?
 
 Yes. Based on the sources reviewed for this profile, Deepak Chopra is named in records connected to Jeffrey Epstein. Wikipedia's list of people named in the Epstein files states that he met with Epstein at least a dozen times between 2016 and 2019, and reporting by ThePrint and Complex describes email exchanges between the two — released as part of the U.S. Department of Justice's Epstein materials — that include messages from around 2017. None of the sources reviewed here state that Chopra has been accused of, charged with, or convicted of any crime in connection with Epstein. Chopra has publicly denied any criminal or exploitative conduct while acknowledging that some past email exchanges reflected "poor judgment in tone." Being named in these documents is not, by itself, evidence of wrongdoing.
+
+## Documents
+
+Primary-source records that name or reference Deepak Chopra. Inclusion in these documents is not, by itself, evidence of wrongdoing; Chopra has denied any criminal or exploitative conduct.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Chopra appears in email correspondence with Jeffrey Epstein among the released Justice Department Epstein materials. As reported by ThePrint and Complex, the exchanges date to around 2017; Chopra has said any contact was "limited and unrelated to abusive activity" while acknowledging that some messages "reflect poor judgment in tone." Chopra's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

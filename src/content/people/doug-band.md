@@ -4,6 +4,7 @@ seoTitle: "Is Doug Band in the Epstein files? — Businessman and former counsel
 seoDescription: "Doug Band, a businessman and former counselor to Bill Clinton, appears in Epstein-related flight logs and documents. Being named is not evidence of wrongdoing."
 aliases: []
 role: "Businessman, co-founder of Teneo, and former counselor and aide to President Bill Clinton"
+image: "/images/people/doug-band.jpg"
 category: named-in-documents
 shortBio: "Doug Band is an American businessman and lawyer who served as an aide and counselor to former President Bill Clinton and co-founded the advisory firm Teneo. He appears in Epstein-related flight logs and documents released by the U.S. Department of Justice."
 notableConnections:
@@ -33,3 +34,10 @@ Separately, Newsweek reported (January 2, 2024) that in 2020 Band told Vanity Fa
 ## Is Doug Band in the Epstein files?
 
 Yes. According to The Independent Florida Alligator's reporting on documents and flight logs released by the U.S. Department of Justice, Doug Band appears in Epstein-related flight logs (described by the Alligator as more than 35 flights between 2002 and 2005, and by Band's own Wikipedia article, citing released flight records, as 26 flights) and in emails involving Ghislaine Maxwell, including a 2005 discussion of a $35,000 watch. The Alligator reported that Band did not respond to its requests for comment. Being named or appearing in these documents is not evidence of any crime or wrongdoing; people appear in this material in many contexts, including correspondence, flight logs, and passing references.
+
+## Documents
+
+Primary-source records that name or reference Doug Band. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — Band is named in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). He is listed, as "President of Teneo Holdings," among individuals identified as potentially having knowledge of the case — described in the record as having been "present on flights with Jeffrey Epstein and Ghislaine Maxwell and President Clinton" — and is referenced in deposition testimony about flight-log manifests. There is no allegation against Band in these records.
+- **[Epstein flight logs](https://www.justice.gov/ag/media/1391276/dl?inline)** — Pilot manifests for Epstein's aircraft record Band as a passenger; The Independent Florida Alligator reported he appears on more than 35 flights between 2002 and 2005, and released flight records cited by his Wikipedia entry place him on 26 flights.

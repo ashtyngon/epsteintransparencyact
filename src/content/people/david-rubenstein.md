@@ -41,3 +41,9 @@ As of February 2026, Rubenstein has not made a detailed public statement address
 ## Context
 
 Rubenstein's appearance in the files placed him among a growing number of prominent business and political figures whose names surfaced in the document releases. His case illustrates the breadth of Epstein's network across finance, philanthropy, and institutional power — and the ongoing questions about what the connections documented in these files represent.
+
+## Documents
+
+Primary-source records that name or reference David Rubenstein. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Rubenstein appears in records released under the Epstein Transparency Act in February 2026, which the Washington Post and CBS News reported as showing scheduled meetings and communications with Jeffrey Epstein, with the earliest documented contact dating to approximately 2010. Rubenstein's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

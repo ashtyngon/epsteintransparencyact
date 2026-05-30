@@ -4,6 +4,7 @@ seoTitle: "David A. Ross Epstein — Art World Leader Resigns After Emails Surfa
 seoDescription: "Art world leader David A. Ross resigned from the School of Visual Arts after emails revealed a friendship with Jeffrey Epstein spanning decades."
 aliases: []
 role: "Art world leader, former department chair at the School of Visual Arts"
+image: "/images/people/david-a-ross.jpg"
 category: "named-in-documents"
 shortBio: "A longtime leader in the contemporary art world who directed major American museums and served as department chair at the School of Visual Arts in Manhattan. Ross resigned from that position in February 2026 after emails showed a friendship with Jeffrey Epstein spanning decades."
 notableConnections:
@@ -28,3 +29,9 @@ Ross resigned from his position as department chair at the School of Visual Arts
 ## Context
 
 Ross's case reflected a pattern visible across the Epstein file releases: figures whose professional reputations rested on institutional credibility and cultural authority found that their associations with Epstein — however indirect their professional intersections with him may have been — carried significant reputational consequences once documented in released files. His connections to the Whitney Museum, the San Francisco Museum of Modern Art, and the Institute of Contemporary Art made his Epstein association notable within arts philanthropy and museum circles, where donor and trustee relationships often intersect with major financial networks.
+
+## Documents
+
+Primary-source records that name or reference David A. Ross. Inclusion in these documents is not, by itself, evidence of wrongdoing.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Ross appears in email correspondence released under the Epstein Transparency Act, which the New York Times reported showed a friendship with Jeffrey Epstein spanning decades. The emails prompted his February 2026 resignation as department chair at the School of Visual Arts. Ross's name does not appear in the Jan. 2024 Giuffre v. Maxwell unsealing.

@@ -32,3 +32,9 @@ Much of the reporting centers on Cecile de Jongh, who served as First Lady durin
 ## Is John de Jongh Jr. in the Epstein files?
 
 Yes. John de Jongh Jr., former Governor of the U.S. Virgin Islands, is named in the Epstein files in connection with college tuition that Jeffrey Epstein paid for his children in 2008–2009, as documented in the Wikipedia list of people named in the files and in reporting by the Elon News Network on Department of Justice files. Being named in the files is not evidence of any crime or wrongdoing. The documented context concerns tuition payments and related court allegations, much of which focuses on his wife, Cecile de Jongh; see the sources above for specifics.
+
+## Documents
+
+Primary-source records that reference John de Jongh Jr. Inclusion in these documents is not, by itself, evidence of wrongdoing; the documented context concerns tuition payments and centers largely on his wife, Cecile de Jongh.
+
+- **[DOJ Epstein Files (EFTA release)](https://www.justice.gov/epstein)** — Reporting by the Elon News Network on the Justice Department's Epstein Files Transparency Act disclosure (the roughly 3-million-page release made on January 30, 2026) describes emails and tuition checks showing Epstein paid college tuition for de Jongh's children in 2008–2009, including a June 2009 email in which Cecile de Jongh wrote, "Its as if i had my own kids in college." Separately, JPMorgan Chase alleged in 2023 litigation that Cecile de Jongh acted as Epstein's "primary conduit" in the territory's government — a claim made in court filings, not a finding of wrongdoing against John de Jongh, whose office called the filing "an obvious attempt to shift blame."
