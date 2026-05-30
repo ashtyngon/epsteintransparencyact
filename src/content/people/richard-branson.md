@@ -6,7 +6,7 @@ aliases:
   - "Sir Richard Branson"
 role: "Founder of Virgin Group"
 category: "named-in-documents"
-shortBio: "British billionaire founder of the Virgin Group. Jeffrey Epstein visited Branson's private Necker Island in the British Virgin Islands, and newly released files show Epstein used his connection to the Nobel Peace Prize committee chairman to reach out to Branson."
+shortBio: "British billionaire founder of the Virgin Group. Jeffrey Epstein attended a charity tennis event on Branson's private Necker Island in 2013, and files released in 2026 show Epstein invoked his connection to the head of the Norwegian Nobel Committee in a message to Branson. Branson's spokesperson called Epstein's actions abhorrent and said contact was limited."
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2019-08-14
@@ -18,31 +18,49 @@ sources:
     url: "https://www.theguardian.com/us-news/2019/aug/14/richard-branson-jeffrey-epstein-necker-island"
   - title: "Epstein Flight Logs and Island Visitors — Court Records"
     url: "https://www.documentcloud.org/documents/6250471-Epstein-Flight-Logs.html"
+  - title: "How Jeffrey Epstein used the glamour of the Nobel Peace Prize to entice his network — The Philadelphia Inquirer (Washington Post)"
+    url: "https://www.inquirer.com/news/nation-world/jeffrey-epstein-nobel-peace-prize-jagland-trump-bannon-gates-branson-20260215.html"
+  - title: "Jeffrey Epstein used Nobel Peace Prize to entice global network of elites — The Washington Times"
+    url: "https://www.washingtontimes.com/news/2026/feb/14/jeffrey-epstein-used-nobel-peace-prize-entice-global-network-elites/"
+  - title: "Sir Richard Branson said 'bring your harem' in email reply to Jeffrey Epstein — LBC"
+    url: "https://www.lbc.co.uk/article/sir-richard-branson-harem-epstein-5HjdRg8_2/"
+  - title: "Uncovering Richard Branson's relationship with Jeffrey Epstein — The A.V. Club"
+    url: "https://www.avclub.com/uncovering-richard-bransons-extensive-relationship-with-jeffrey-epstein"
+  - title: "Epstein files set off Norwegian political storm: What we know — Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/2/6/epstein-files-set-off-norwegian-political-storm-what-we-know"
+  - title: "Richard Branson — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Richard_Branson"
+  - title: "Epstein Files Transparency Act — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act"
+  - title: "Trump signs Epstein Files Transparency Act into law — JURIST"
+    url: "https://www.jurist.org/news/2025/11/trump-signs-epstein-files-transparency-act-into-law/"
 sensitive: false
 ---
 
-Sir Richard Branson is a British billionaire, the founder of the Virgin Group conglomerate, and the owner of Necker Island, a private island in the British Virgin Islands. Branson became connected to the Epstein story through [Jeffrey Epstein](/people/jeffrey-epstein)'s visits to Necker Island and through newly released documents showing that Epstein used institutional prestige to cultivate the relationship.
+Sir Richard Branson is a British billionaire, the founder of the Virgin Group conglomerate, and the owner of Necker Island, a private island in the British Virgin Islands. He became connected to the Epstein story through Jeffrey Epstein's attendance at a charity event held on Necker Island and through documents released in 2026 showing that Epstein invoked his ties to a prestigious institution in correspondence with Branson. Being named in the files is not evidence of wrongdoing; Branson has not been accused of any crime, and his representatives have said his contact with Epstein was limited.
 
 ## Background
 
-Born in 1950 in London, Branson founded Virgin Records in 1972 and built the Virgin brand into a global conglomerate spanning airlines, telecommunications, banking, health care, and space travel. He was knighted in 2000 for services to entrepreneurship. Forbes has estimated his net worth at approximately $3 billion. He has lived on Necker Island, which he purchased in 1978 for $180,000 and developed into a luxury retreat, since the early 1980s.
+Born July 18, 1950, in Blackheath, London, Branson founded Virgin Records in 1972 and built the Virgin brand into a global conglomerate spanning airlines, rail, telecommunications, hospitality, health care, and space tourism. He was knighted in 2000 for services to entrepreneurship. As of 2023, Forbes estimated his net worth at approximately $3 billion. He owns and lives on Necker Island, which he developed into a luxury retreat.
 
-## Epstein's Visits to Necker Island
+## Epstein and Necker Island
 
-Epstein visited Branson's Necker Island, which is located approximately 100 miles from Epstein's own private island, Little St. James, in the U.S. Virgin Islands. The proximity of the two islands in the Caribbean has drawn attention in the context of Epstein's network in the region. Branson confirmed in 2019 that Epstein had visited Necker Island, stating that Epstein had come as a guest and that he was not aware of Epstein's criminal activities.
+According to reporting on the released files, Epstein attended the Necker Cup, a charity tennis tournament held on Necker Island in November 2013. The event was run by an external organiser and attended by roughly 150 people, including tennis figures and other guests. According to a Virgin spokesperson cited in the coverage, about two weeks after that event Branson traveled across the U.S. Virgin Islands aboard an aircraft operated by Epstein, and the spokesperson said Branson flew alone, without Epstein or other guests aboard.
 
-The timing and number of Epstein's visits to Necker Island have not been comprehensively disclosed. Branson has said that he did not maintain a close relationship with Epstein and that interactions were limited.
+Branson's spokesperson said his contact with Epstein was "limited to only a few occasions more than 12 years ago" in group or business settings, and that Branson had no knowledge of Epstein's crimes. The full timing and number of any in-person encounters have not been comprehensively or independently confirmed in the sources reviewed here.
 
 ## Nobel Prize Connection in Released Files
 
-Documents released under the Epstein Transparency Act, signed November 19, 2025, revealed that Epstein used his connection to Thorbjorn Jagland — former Norwegian prime minister and chairman of the Norwegian Nobel Committee — in outreach to Branson. Epstein name-dropped Jagland in invitations and messages to Branson, using the Nobel connection as a prestige tool to attract and maintain relationships with high-profile figures.
+Files released under the Epstein Files Transparency Act — signed into law by President Donald Trump on November 19, 2025, with the bulk of the records (about 3.5 million documents) published by the Justice Department on January 30, 2026 — show that Epstein invoked his connection to Thorbjorn Jagland, the former Norwegian prime minister who headed the Norwegian Nobel Committee from 2009 to 2015. In a 2013 email to Branson, Epstein wrote that Jagland would be staying with him in September that year, adding, "if you are there, you might find him interesting." Branson replied that he would love to see Epstein "as long as you bring your harem!" A Virgin Group spokesperson said the word "harem" had originally been used by Epstein to refer to three adult women on his staff and that Branson had, regrettably, echoed that language.
 
-The files showed a pattern in Epstein's approach: he would host Jagland, then leverage that relationship in subsequent communications with business leaders and other contacts, including Branson, former Treasury Secretary Larry Summers, and Steve Bannon.
+Reporting on the files describes a recurring pattern in which Epstein used the prestige of the Nobel organization as a social credential with prominent figures. In a 2012 email to former Treasury Secretary Larry Summers, Epstein wrote, "head of the nobel peace prize staying with me, if you have any interest." In a 2015 email to former White House counsel Kathy Ruemmler, he wrote, "head of nobel peace prize coming to visit, want to join?" In a September 2018 text exchange with Steve Bannon, Epstein wrote that "donalds head would explode if he knew you were now buds with the guy who on monday will decide the nobel peace prize." The reporting also references contact with Bill Gates about Jagland.
+
+The disclosures about Jagland prompted scrutiny in Norway. Norwegian authorities opened an investigation, and Jagland has been charged in connection with allegations of aggravated corruption tied to potential benefits received during his time as Nobel Committee chair and as secretary general of the Council of Europe. Jagland, through his lawyer, has denied wrongdoing and described his contact with Epstein as "unwise."
 
 ## Public Response
 
-Branson addressed the Epstein connection in 2019, stating that he had met Epstein on a small number of occasions and that Epstein had visited Necker Island. He said he found the allegations against Epstein "abhorrent" and that he had no knowledge of criminal activity. The Virgin Group has not issued further statements in response to the 2026 document releases.
+A spokesperson for Branson said, "Richard believes that Epstein's actions were abhorrent and supports the right to justice for his many victims," and stated that Branson had no knowledge of Epstein's crimes. The spokesperson characterized their interactions as a small number of contacts in group or business settings more than a decade earlier. The Virgin Group has disputed implications drawn from Branson's appearance in the documents.
 
 ## Significance
 
-Branson's appearance in the Epstein files illustrates Epstein's strategy of cultivating relationships with global business figures by offering access to prestigious institutions and individuals. The Nobel committee connection, in particular, demonstrates the transactional nature of Epstein's networking — using one high-status relationship to attract another. Branson's ownership of a private Caribbean island near Epstein's own island has made his case a recurring subject of public attention in the broader Epstein investigation.
+Branson's appearance in the Epstein files has been cited as an illustration of how Epstein cultivated relationships with prominent figures, in part by advertising access to prestigious institutions and individuals. The Nobel committee connection, in particular, has been highlighted in reporting as an example of Epstein leveraging one high-status relationship to engage others. As with other public figures named in the files, being mentioned is not itself evidence of involvement in or knowledge of Epstein's crimes.

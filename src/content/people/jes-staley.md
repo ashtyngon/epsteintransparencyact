@@ -7,7 +7,7 @@ aliases:
   - "James Staley"
 role: "Former CEO of Barclays, former JPMorgan executive"
 category: "named-in-documents"
-shortBio: "Former CEO of Barclays who exchanged approximately 1,200 emails with Jeffrey Epstein between 2008 and 2012 while a senior executive at JPMorgan. Departed Barclays in November 2021 after UK regulators investigated whether he had been transparent about his Epstein relationship. Visited Epstein at his U.S. Virgin Islands estate. JPMorgan later settled for $290 million with Epstein victims over the bank's relationship with Epstein."
+shortBio: "Former CEO of Barclays who exchanged approximately 1,200 emails with Jeffrey Epstein between 2008 and 2012 while a senior executive at JPMorgan. Departed Barclays in November 2021 after UK regulators investigated whether he had been transparent about his Epstein relationship. In 2025 the Upper Tribunal upheld the Financial Conduct Authority's decision to ban him from senior UK finance roles and fined him £1.1 million, finding he had recklessly misled the regulator. JPMorgan separately settled for $290 million with Epstein victims over the bank's relationship with Epstein."
 notableConnections:
   - jeffrey-epstein
 firstMentionedDate: 2020-02-13
@@ -19,28 +19,40 @@ sources:
     url: "https://www.nytimes.com/2023/06/12/business/jpmorgan-epstein-settlement.html"
   - title: "Jes Staley Exchanged 1,200 Emails With Epstein — Financial Times"
     url: "https://www.ft.com/content/5f4e6c86-d87b-4b3c-a17b-6bd31f5dd567"
+  - title: "Upper Tribunal upholds Jes Staley ban — Financial Conduct Authority"
+    url: "https://www.fca.org.uk/news/press-releases/upper-tribunal-upholds-jes-staley-ban"
+  - title: "Jes Staley fails to overturn ban over Jeffrey Epstein links — The Irish Times"
+    url: "https://www.irishtimes.com/business/2025/06/26/jes-staley-fails-to-overturn-ban-over-jeffrey-epstein-links/"
+  - title: "JPMorgan settles with Jeffrey Epstein victims for $290 million — WHYY"
+    url: "https://whyy.org/articles/jpmorgan-settlement/"
+  - title: "Jes Staley and Jeffrey Epstein: Key Facts — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Jes_Staley"
 ---
 
-Jes Staley is a former chief executive of Barclays and a former senior executive at JPMorgan Chase. His relationship with [Jeffrey Epstein](/people/jeffrey-epstein) led to his departure from Barclays and figured centrally in JPMorgan's $290 million settlement with Epstein's victims.
+Jes Staley is a former chief executive of Barclays and a former senior executive at JPMorgan Chase. His relationship with [Jeffrey Epstein](/people/jeffrey-epstein) led to his departure from Barclays, a 2025 regulatory ban from senior UK finance roles, and figured in JPMorgan's $290 million settlement with Epstein's victims.
 
 ## 1,200 Emails with Epstein
 
-Court filings in the JPMorgan litigation revealed that Staley exchanged approximately 1,200 emails with Epstein between 2008 and 2012, while Staley was running JPMorgan's private banking division and later its investment bank. The correspondence continued after Epstein's 2008 conviction.
+Court filings in the JPMorgan litigation revealed that Staley exchanged approximately 1,200 emails with Epstein between 2008 and 2012 from his JPMorgan email account, during a period when Staley held senior private banking and wealth management roles and, from 2009, led the investment bank. The correspondence continued after Epstein's 2008 guilty plea to sex crimes in Florida.
 
-The emails were described in court filings as ranging from personal to professional in nature. Some included Epstein proposing introductions between Staley and other wealthy individuals. Staley visited Epstein at his estate in the U.S. Virgin Islands on multiple occasions.
+The messages were cited as evidence of a close personal relationship. In one November 2009 email Staley wrote, "I deeply appreciate our friendship. I have few so profound." The UK regulator later noted that Staley had described Epstein as one of his "deepest" and "most cherished" friends. One email cited in the litigation was sent from Epstein's Little St. James property in the U.S. Virgin Islands in November 2009, indicating Staley had visited the island.
 
 ## Departure from Barclays
 
-In November 2021, Staley stepped down as CEO of Barclays after the UK's Financial Conduct Authority and Prudential Regulation Authority investigated his characterization of his relationship with Epstein to the Barclays board. The regulators examined whether Staley had been sufficiently transparent with his employer about the nature and extent of his Epstein ties.
+In November 2021, Staley stepped down as CEO of Barclays after the UK's Financial Conduct Authority (FCA) and Prudential Regulation Authority investigated his characterization of his relationship with Epstein. JPMorgan had provided the FCA with documents about Staley's Epstein ties, and the investigation examined whether he had been transparent with regulators about the nature and timing of that relationship.
 
-Barclays said it was "made aware of the preliminary conclusions" of the investigation and that Staley had "sufficiently" described his relationship to the board. Staley contested the regulators' characterization and said he would "vigorously" defend himself.
+## FCA Ban and Fine
+
+In 2023 the FCA decided to ban Staley from holding senior management roles in financial services. The regulator found that Staley had approved an October 2019 letter from Barclays to the FCA that contained misleading statements — namely that he did not have a close relationship with Epstein and that the two had last been in contact well before he joined Barclays. In fact, Staley had been in contact with Epstein in the days before his appointment as Barclays CEO was announced on 28 October 2015.
+
+Staley appealed to the Upper Tribunal. On 26 June 2025 the Tribunal upheld the FCA's prohibition, finding that Staley had "acted recklessly" when he signed off the letter, that parts of his evidence lacked credibility, and that he had shown no remorse. The FCA had proposed a £1.8 million fine; the Tribunal reduced it to £1.1 million after Barclays decided not to permit Staley to receive deferred shares he could otherwise have been entitled to. The FCA issued its Final Notice on 23 July 2025. Staley said he was disappointed with the outcome and referred to his "long and distinguished career."
 
 ## JPMorgan Settlement
 
-JPMorgan Chase settled a class action lawsuit brought by Epstein's victims for $290 million in June 2023. The lawsuit alleged the bank had maintained Epstein as a client despite internal warnings about his conduct, and that Staley's personal relationship with Epstein influenced the bank's decision to retain him as a client.
+JPMorgan Chase reached a $290 million settlement with Epstein's victims in June 2023. The underlying lawsuit alleged the bank had provided Epstein loans and allowed large cash withdrawals from 1998 through August 2013 despite awareness of his conduct, and that it continued serving him as a client after his 2008 guilty plea.
 
-JPMorgan separately sued Staley, seeking to recover potential settlement costs by arguing he had been personally responsible for maintaining the bank's relationship with Epstein.
+JPMorgan separately sued Staley, alleging he had hidden Epstein's crimes to keep him as a client and seeking to hold him responsible for related costs.
 
 ## What Is Established
 
-Staley has not been charged with any crime. He has denied knowledge of Epstein's criminal activities. What is documented is that he maintained extensive personal correspondence with Epstein after the conviction, visited Epstein's properties, and that these ties ultimately cost him his position at one of the world's largest banks and contributed to his former employer paying $290 million to trafficking victims.
+Staley has not been charged with any crime, and he has denied knowledge of Epstein's criminal activities. What is documented is that he maintained extensive personal correspondence with Epstein after the 2008 conviction, visited Epstein's U.S. Virgin Islands property, was found by a UK tribunal to have recklessly misled the financial regulator about that relationship, and lost his position at one of the world's largest banks. His former employer paid $290 million to settle claims brought by trafficking victims.

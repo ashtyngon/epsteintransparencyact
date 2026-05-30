@@ -1,42 +1,54 @@
 ---
 name: "Tom Barrack"
 seoTitle: "Tom Barrack Epstein — Trump Inaugural Chair Named in Files"
-seoDescription: "Billionaire Tom Barrack, Trump's 2017 inaugural chair and Colony Capital founder, networked and socialized with Epstein for years per CBS News."
+seoDescription: "Tom Barrack, Trump's 2017 inaugural chair and Colony Capital founder, was in regular contact with Epstein for years after Epstein's 2008 conviction, per a CBS News review of files."
 aliases:
   - "Thomas Barrack"
   - "Thomas J. Barrack Jr."
-role: "Founder of Colony Capital (now DigitalBridge), Trump 2017 inaugural chair, former U.S. special envoy to the Middle East"
+role: "Founder of Colony Capital (now DigitalBridge), Trump 2017 inaugural chair, U.S. ambassador to Turkey and special envoy"
 category: "named-in-documents"
-shortBio: "Billionaire real estate investor, founder of Colony Capital (now DigitalBridge Group), chairman of President Trump's 2017 inaugural committee, and former U.S. special envoy to the Middle East. Named in Epstein files released in February 2026 with CBS News reporting he networked and socialized with Epstein for years. One of the highest-ranking Trump associates identified in the documents."
+shortBio: "Real estate and private-equity investor, founder of Colony Capital (later rebranded DigitalBridge), chairman of President Trump's 2017 inaugural committee, and U.S. ambassador to Turkey and special envoy. A CBS News review of the Justice Department's February 2026 Epstein file release found Barrack was in regular contact with Jeffrey Epstein for years after Epstein's 2008 conviction. CBS found no evidence he knew of or took part in any criminal conduct."
 notableConnections:
   - jeffrey-epstein
   - donald-trump
 firstMentionedDate: 2026-02-14
 image: "/images/people/tom-barrack.jpg"
 sources:
-  - title: "Trump Insider Tom Barrack Named in Epstein Files — CBS News"
+  - title: "Trump insider Tom Barrack kept in regular contact with Jeffrey Epstein for years, files show — CBS News"
     url: "https://www.cbsnews.com/news/tom-barrack-jeffrey-epstein-files/"
   - title: "Epstein Files Topple European Elites While U.S. Officials Keep Power — NPR"
     url: "https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout"
+  - title: "Tom Barrack — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Tom_Barrack"
+  - title: "List of people named in the Epstein files — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
+  - title: "DigitalBridge — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/DigitalBridge"
+  - title: "Epstein files: DP World chief executive Bin Sulayem resigns over links to disgraced financier — The Irish Times"
+    url: "https://www.irishtimes.com/world/us/2026/02/13/epstein-files-dp-world-chief-executive-bin-sulayem-resigns-over-links-to-disgraced-financier/"
+  - title: "Goldman Sachs' top lawyer resigns after Epstein files release as fallout grows — Fortune"
+    url: "https://fortune.com/2026/02/13/epstein-files-fallout-kathy-ruemmler-goldman-sachs-resigned/"
 sensitive: false
 ---
 
-Tom Barrack is an American billionaire real estate investor who founded Colony Capital, a private equity firm that managed over $60 billion in assets before being rebranded as DigitalBridge Group. A decades-long confidant of [Donald Trump](/people/donald-trump), Barrack served as chairman of the 2017 presidential inaugural committee, where he raised over $100 million for the event. He subsequently served as U.S. special envoy to the Middle East.
+Tom Barrack is an American investor who founded the real estate private-equity firm Colony Capital in 1990. The firm rebranded as DigitalBridge in 2021 after selling most of its non-digital assets to Fortress Investment Group; under successor leadership, DigitalBridge reported roughly $106 billion in assets under management as of mid-2025. A longtime confidant of [Donald Trump](/people/donald-trump), Barrack served as chairman of the 2017 presidential inaugural committee, for which he raised over $100 million — doubling the previous record. He later served as U.S. ambassador to Turkey and as a U.S. special envoy.
 
 ## Appearance in the Epstein Files
 
-Documents released under the Epstein Transparency Act in February 2026 identified Barrack as having contact with [Jeffrey Epstein](/people/jeffrey-epstein). CBS News reported, after reviewing the released files, that Barrack "networked and socialized" with Epstein for years. The report did not specify the exact timeframe, frequency, or nature of their interactions beyond networking and social events.
+Documents released under the Epstein Transparency Act in February 2026 identified Barrack as having extensive contact with [Jeffrey Epstein](/people/jeffrey-epstein). A CBS News analysis of more than 100 texts and email exchanges in the released Justice Department records found that Barrack "was in regular, close contact with Jeffrey Epstein for years after Epstein's 2008 conviction for soliciting a minor."
 
-The files did not establish whether the relationship continued after Epstein's 2008 conviction for soliciting a minor in Palm Beach, Florida, or whether Barrack had direct business dealings with Epstein. Colony Capital operated in some of the same financial and real estate circles as Epstein's investment activities.
+According to CBS News, the correspondence spans from at least 2002 through 2018 and includes invitations to private residences, mutual introductions to diplomats and investors, and discussions of business opportunities. CBS reported that Epstein facilitated introductions for Barrack to figures including Peter Thiel and former Israeli prime minister Ehud Barak, and that Epstein purchased roughly $1 million in Colony Capital stock in 2016. Wikipedia's list of people named in the files notes that, by the early 2000s, Barrack and Epstein "had business ties to the Middle East" and "invited each other, introduced each other to diplomats and investors, discussed business opportunities."
+
+CBS News stated there is "no evidence to suggest Barrack participated in or had knowledge of any ongoing criminal conduct by Epstein." CBS said it reached out to Barrack for comment and had not received a response as of publication.
 
 ## Prior Legal Issues
 
-Barrack was indicted in July 2021 on federal charges of acting as an unregistered foreign agent for the United Arab Emirates and lying to the FBI. He was acquitted on all counts in November 2022. The Epstein file references are unrelated to that case.
+Barrack was indicted on July 20, 2021, on federal charges of acting as an unregistered foreign agent for the United Arab Emirates, obstruction of justice, and making false statements to the FBI. He was found not guilty on all counts on November 4, 2022. That case is unrelated to the Epstein file references.
 
 ## Political Significance
 
-Barrack's appearance in the Epstein files is politically significant given his close ties to Trump. As chairman of the 2017 inaugural committee and a longtime presidential adviser, he is among the highest-ranking Trump associates named in the documents. His naming came as Trump called for ending the Epstein investigation on February 13, 2026, arguing that continued scrutiny served no public purpose.
+Barrack's appearance in the Epstein files drew attention because of his close ties to Trump. As chairman of the 2017 inaugural committee, a longtime adviser, and a sitting U.S. diplomat, he is among the higher-profile Trump associates named in the documents.
 
 ## Ongoing Position
 
-Unlike several European and corporate figures who resigned or were forced out after being named in the files — including DP World chairman Sultan Ahmed bin Sulayem and Goldman Sachs general counsel Kathryn Ruemmler — Barrack has retained his business positions and political connections. NPR reported in February 2026 that Barrack maintained his investment firm and his role as U.S. special envoy to the Middle East, highlighting a pattern in which American figures named in the documents have faced fewer professional consequences than their European counterparts.
+Several figures named in the February 2026 release stepped down within days. Goldman Sachs general counsel Kathryn Ruemmler resigned on February 12, 2026, and Sultan Ahmed bin Sulayem resigned as chief executive and chairman of Dubai's DP World on February 13, 2026, both over their disclosed ties to Epstein. As of the February 2026 reporting, Barrack had not resigned and continued to serve as U.S. ambassador to Turkey and as a U.S. special envoy.
