@@ -10,6 +10,10 @@ people:
   - jeffrey-epstein
   - pam-bondi
   - peter-thiel
+  - ehud-barak
+  - vitaly-churkin
+  - michael-wolff
+  - nicole-junkermann
 relatedArticles:
   - 2026-02-13-trump-calls-for-end-to-epstein-investigation
   - 2026-02-13-bondi-grilled-on-epstein-files-why-ag-resists-full-document-release

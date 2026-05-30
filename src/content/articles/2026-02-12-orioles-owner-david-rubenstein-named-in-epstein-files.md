@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - alexander-acosta
   - joe-rogan
+  - lawrence-krauss
 relatedArticles:
   - 2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files

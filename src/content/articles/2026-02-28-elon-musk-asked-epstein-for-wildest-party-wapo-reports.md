@@ -6,6 +6,7 @@ sourceUrl: "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEx2TnNkTGdyQlF
 summary: "Elon Musk once asked Jeffrey Epstein to arrange \"the wildest party\" he could organize, according to The Washington Post. The request came in communications"
 people:
   - jeffrey-epstein
+  - elon-musk
 tags:
   - associates
   - breaking

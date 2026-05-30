@@ -17,6 +17,7 @@ people:
   - thomas-magnani
   - letty-moss-salentijn
   - jamie-raskin
+  - richard-axel
 relatedArticles:
   - court-releases-new-batch-of-documents
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

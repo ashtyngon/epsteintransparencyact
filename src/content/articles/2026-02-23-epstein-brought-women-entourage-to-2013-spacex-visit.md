@@ -7,6 +7,7 @@ summary: "Jeffrey Epstein attempted to bring multiple women with him during a pl
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - elon-musk
 tags:
   - associates
   - document-release

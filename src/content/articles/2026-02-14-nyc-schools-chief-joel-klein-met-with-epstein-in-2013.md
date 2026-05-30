@@ -10,6 +10,8 @@ people:
   - bill-clinton
   - kathryn-ruemmler
   - joi-ito
+  - mortimer-zuckerman
+  - woody-allen
 relatedArticles:
   - 2026-02-13-nyt-launches-major-investigation-into-millions-of-epstein-files
   - 2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files

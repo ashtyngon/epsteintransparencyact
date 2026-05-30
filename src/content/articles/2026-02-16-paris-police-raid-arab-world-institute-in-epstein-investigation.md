@@ -10,6 +10,7 @@ people:
   - donald-trump
   - pam-bondi
   - jack-lang
+  - woody-allen
 relatedArticles:
   - 2026-02-14-france-sets-up-special-team-to-review-epstein-files-for-french-nationals
   - 2026-02-15-french-prosecutors-investigate-diplomat-in-epstein-probe

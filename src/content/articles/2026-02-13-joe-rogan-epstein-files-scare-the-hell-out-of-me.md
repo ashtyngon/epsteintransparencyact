@@ -15,6 +15,7 @@ people:
   - sultan-ahmed-bin-sulayem
   - thomas-massie
   - peter-mandelson
+  - lawrence-krauss
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
