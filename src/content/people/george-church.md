@@ -4,6 +4,7 @@ seoTitle: "George Church & Epstein Files — Harvard Geneticist Funding Ties"
 seoDescription: "Harvard geneticist George Church received research funding from Jeffrey Epstein and is named in the released Epstein files."
 aliases: []
 role: "Harvard geneticist, professor of genetics"
+image: "/images/people/george-church.jpg"
 category: "named-in-documents"
 shortBio: "Harvard Medical School professor of genetics and pioneer in genomics and synthetic biology. Received research funding from Jeffrey Epstein and was named in the released Epstein documents. Church publicly apologized in 2019 for his association with Epstein, stating he was unaware of Epstein's criminal conduct."
 notableConnections:

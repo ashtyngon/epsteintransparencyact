@@ -4,6 +4,7 @@ seoTitle: "Is Karim Wade in the Epstein files? — Senegalese politician and for
 seoDescription: "Karim Wade, son of former Senegalese president Abdoulaye Wade, is named in reporting on the Epstein files over Epstein's role in lobbying for his release."
 aliases: []
 role: "Senegalese politician and former government minister"
+image: "/images/people/karim-wade.jpg"
 category: official
 shortBio: "Karim Wade is a Senegalese politician and the son of former president Abdoulaye Wade. Reporting on the Epstein files describes how Jeffrey Epstein helped finance a US lobbying campaign aimed at securing Wade's release after a 2015 corruption conviction in Senegal."
 notableConnections:

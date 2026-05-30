@@ -4,6 +4,7 @@ seoTitle: "Naomi Campbell & Epstein — Emails, Files, Post-Conviction Contact"
 seoDescription: "DOJ files released in 2026 name Naomi Campbell nearly 300 times, documenting emails and event invitations that continued after Epstein's 2008 conviction. Campbell denies any wrongdoing and says she was unaware of his crimes."
 aliases: []
 role: "Supermodel, founder of Fashion for Relief"
+image: "/images/people/naomi-campbell.jpg"
 category: "named-in-documents"
 shortBio: "British supermodel whose name appears nearly 300 times in the Epstein files released by the DOJ in 2026. Records — emails, scheduling notes and address-book entries kept by Epstein's staff — show contact over roughly 2001 to 2016, including event invitations she extended to him that continued after his 2008 conviction. Campbell has not been accused of any crime; she says she was unaware of his criminal conduct before his 2019 arrest and stands in solidarity with survivors."
 notableConnections:

@@ -6,6 +6,7 @@ aliases:
   - "Nadia Marcinko"
   - "Global Girl"
 role: "Epstein associate, named potential co-conspirator"
+image: "/images/people/nadia-marcinkova.jpg"
 category: "associate"
 shortBio: "Brought to the United States by Jeffrey Epstein from the former Yugoslavia as a teenager, reportedly purchased from her family. Victims described her as participating in abuse. Named as a potential co-conspirator in the 2008 non-prosecution agreement and received immunity. Later obtained a commercial pilot license and founded a charter aviation company."
 notableConnections:

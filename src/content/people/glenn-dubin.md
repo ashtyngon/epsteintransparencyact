@@ -5,6 +5,7 @@ seoDescription: "Billionaire hedge fund manager Glenn Dubin maintained a decades
 aliases:
   - "Glenn R. Dubin"
 role: "Billionaire hedge fund manager, co-founder of Highbridge Capital Management"
+image: "/images/people/glenn-dubin.jpg"
 category: "named-in-documents"
 shortBio: "Co-founder of Highbridge Capital Management who maintained a decades-long friendship with Jeffrey Epstein. Virginia Giuffre alleged in sworn testimony that Epstein directed her to have sex with Dubin — an allegation he has denied. His wife, Dr. Eva Andersson-Dubin, previously dated Epstein. The family's au pair was later linked to Epstein's network in court filings. Dubin has never been charged with any crime."
 notableConnections:

@@ -4,6 +4,7 @@ seoTitle: "Gloria Allred & Epstein Survivors — Civil Rights Attorney"
 seoDescription: "Civil rights attorney Gloria Allred represents 27 Epstein survivors, supported congressional hearings, and opposed subpoenaing victims to testify."
 aliases: []
 role: "Civil rights attorney"
+image: "/images/people/gloria-allred.jpg"
 category: "legal"
 shortBio: "Prominent civil rights attorney representing 27 Epstein survivors in their pursuit of justice. Allred has supported congressional hearings on the Epstein files but has opposed efforts to subpoena survivors, arguing that victims should not be compelled to testify."
 notableConnections:

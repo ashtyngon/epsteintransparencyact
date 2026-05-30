@@ -1,10 +1,10 @@
 ---
 name: Donald Trump
 seoTitle: Trump Epstein Files — Named 38,000+ Times in Documents
-seoDescription: Second most-mentioned name in Epstein files with 38,000+ references. Flew 8 times on Epstein's jet. Fought release, called supporters 'weaklings.'
+seoDescription: Second most-mentioned name in Epstein files with 38,000+ references. Listed on at least 8 Epstein flights. Fought release, called supporters 'weaklings.'
 role: 45th & 47th President of the United States
 category: named-in-documents
-shortBio: The second most mentioned name in 3.5 million pages of Epstein files — appearing more than 38,000 times. Pledged during his 2024 campaign to release the files, then fought for months to suppress them after learning his name was in the documents. Called it a 'hoax,' branded supporters demanding transparency 'weaklings,' sued the Wall Street Journal for $20 billion over its Epstein reporting, and pressured Congress to block the Transparency Act. Signed only after a 427-1 House vote made resistance impossible. After the files were released, claimed they 'absolve' him, told the country to 'move on,' attacked the reporter who asked about survivors, and called himself '100% exonerated.'
+shortBio: The second most mentioned name in 3.5 million pages of Epstein files — appearing more than 38,000 times. Pledged during his 2024 campaign to release the files, then fought for months to suppress them after learning his name was in the documents. Called it a 'hoax,' branded supporters demanding transparency 'weaklings,' sued the Wall Street Journal for $10 billion over its reporting on a birthday letter he denies writing, and pressured Congress to block the Transparency Act. Signed only after a 427-1 House vote made resistance impossible. After the files were released, claimed they 'absolve' him, told the country to 'move on,' attacked the reporter who asked about survivors, and called himself '100% exonerated.' Trump has never been charged with any crime related to Epstein.
 image: /images/people/donald-trump.jpg
 aliases:
   - President Trump
@@ -53,54 +53,76 @@ sources:
     url: https://www.npr.org/2024/10/25/g-s1-29963/stacey-williams-donald-trump-jeffrey-epstein
   - title: Trump Wishes Ghislaine Maxwell 'Well' as She Faces Charges — CNN
     url: https://www.cnn.com/2020/07/21/politics/donald-trump-ghislaine-maxwell-i-wish-her-well
+  - title: Donald Trump and Jeffrey Epstein — Wikipedia
+    url: https://en.wikipedia.org/wiki/Donald_Trump_and_Jeffrey_Epstein
+  - title: Relationship of Donald Trump and Jeffrey Epstein — Wikipedia
+    url: https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein
+  - title: Jeffrey Epstein's Birthday Book — Wikipedia
+    url: https://en.wikipedia.org/wiki/Jeffrey_Epstein's_birthday_book
+  - title: List of People Named in the Epstein Files — Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files
+  - title: Trump Sues Wall Street Journal and Rupert Murdoch Over Epstein Story — PBS
+    url: https://www.pbs.org/newshour/politics/trump-sues-wall-street-journal-and-rupert-murdoch-over-story-reporting-on-epstein-ties
+  - title: Judge Dismisses Trump's $10 Billion Lawsuit Against Wall Street Journal — PBS
+    url: https://www.pbs.org/newshour/nation/judge-dismisses-trumps-10-billion-lawsuit-against-wall-street-journal-over-reporting-on-epstein-ties
+  - title: Judge Tosses Trump's Wall Street Journal Lawsuit Over Epstein Letter — Axios
+    url: https://www.axios.com/2026/04/13/trump-lawsuit-wsj-dismissed
+  - title: Ex-Police Chief Says Trump Told Him 'Thank Goodness You're Stopping' Epstein — ABC News
+    url: https://abcnews.com/US/police-chief-trump-told-goodness-stopping-epstein-2006/story?id=130010254
+  - title: Raskin Says Unredacted Files Contradict Trump's Mar-a-Lago Claim — Axios
+    url: https://www.axios.com/2026/02/10/trump-epstein-files-jamie-raskin-unredacted
+  - title: DOJ Defends Removing Trump Photo From Epstein Files — Axios
+    url: https://www.axios.com/2025/12/21/missing-epstein-files-doj-trump-photo
+  - title: DOJ Removed, Withheld Epstein Files Related to Accusations About Trump — NPR
+    url: https://www.npr.org/2026/02/24/nx-s1-5723968/epstein-files-trump-accusation-maxwell
 sensitive: false
 ---
 
 Donald Trump is the second most mentioned name in the Epstein files — after Jeffrey Epstein himself. Across the 3.5 million pages of documents released by the Department of Justice, Trump's name appears more than 38,000 times, flagged in more than 5,300 individual files. As Rep. Jared Moskowitz (D-FL) noted at AG [Pam Bondi](/people/pam-bondi)'s February 2026 hearing, that is more than Harry Potter is mentioned across all seven Harry Potter books.
 
-Not all of those mentions indicate wrongdoing. Many are press clippings, duplicates, and correspondence in which Epstein discussed Trump with others. But the sheer volume — combined with flight records showing Trump on at least eight Epstein flights between 1993 and 1996, with [Ghislaine Maxwell](/people/ghislaine-maxwell) present on at least four of them — underscores a relationship that was far deeper and longer than Trump's public statements have acknowledged. And his conduct as president, once the files threatened to surface, has been more obstructive than any other figure in the case — including [Bill Clinton](/people/bill-clinton), who called for full, unredacted release of every document bearing his name.
+Not all of those mentions indicate wrongdoing. Many are press clippings, duplicates, and correspondence in which Epstein discussed Trump with others. But the sheer volume — combined with flight records showing Trump on at least eight Epstein flights between 1993 and 1997, with [Ghislaine Maxwell](/people/ghislaine-maxwell) present on at least four of them — underscores a relationship that was far deeper and longer than Trump's public statements have acknowledged. And his conduct as president, once the files threatened to surface, has been more obstructive than any other figure in the case — including [Bill Clinton](/people/bill-clinton), who called for full, unredacted release of every document bearing his name.
 
 ## The Social Relationship (Late 1980s–Mid 2000s)
 
 Trump and Epstein moved in overlapping circles in Palm Beach and Manhattan beginning in the late 1980s. Both were prominent figures in Palm Beach society — Trump as owner of Mar-a-Lago (purchased in 1985), Epstein as a financier with a mansion on El Brillo Way.
 
-Epstein was a member of Mar-a-Lago. His contacts book, seized by the FBI in 2005, contained 14 phone numbers for Trump — including numbers for Mar-a-Lago, his New York apartment, his car, and his then-girlfriend Melania. No other individual in the black book had as many contact numbers listed.
+Epstein was a member of Mar-a-Lago. Epstein's contacts book — an earlier version of which was published in 2015, with the estate later turning over records to the House Oversight Committee in 2025 — listed contact information for Trump and members of his family, including multiple phone numbers. The presence of contact information does not by itself indicate involvement in Epstein's crimes.
 
-![The page from Epstein's contacts book listing Donald Trump's 14 phone numbers](/images/people/trump-epstein-contacts-book.jpg "House Oversight Democrats")
+![A page from Epstein's contacts book listing phone numbers for Donald Trump](/images/people/trump-epstein-contacts-book.jpg "House Oversight Democrats")
 
-The most widely quoted evidence of their relationship comes from a 2002 New York Magazine profile of Epstein by Landon Thomas Jr., in which Trump said: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side. No doubt about it — Jeffrey enjoys his social life."
+The most widely quoted evidence of their relationship comes from a 2002 New York Magazine profile of Epstein, in which Trump said: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side."
 
-That quote — particularly "many of them are on the younger side" — would become one of the most scrutinized statements in the entire Epstein case. Trump later claimed it was intended as a veiled warning. That interpretation has been widely disputed.
+That quote — particularly "many of them are on the younger side" — would become one of the most scrutinized statements in the entire Epstein case.
 
 ![President Trump with Jeffrey Epstein at Mar-a-Lago in 1997.](/images/people/trump-epstein-mar-a-lago.jpg)
 
 ### The Birthday Letter
 
-Among the documents released under the Transparency Act was a birthday letter from Epstein to Trump, first reported by The Wall Street Journal and confirmed by The New York Times and PBS. The letter included a hand-drawn illustration by Epstein depicting a naked woman. The accompanying message read: "May every day of your life be another wonderful secret that time longs to reveal." Trump's representatives have not publicly addressed the letter's contents.
+In July 2025, The Wall Street Journal reported on a letter bearing Trump's name that was included in a leather-bound album compiled for Epstein's 50th birthday in 2003. According to the Journal, the typewritten note — framed by the outline of a hand-drawn naked woman, with "Donald" signed below the waist — depicted an imaginary exchange between the two men and concluded: "A pal is a wonderful thing. Happy Birthday — and may every day be another wonderful secret." The full album, which the Epstein estate turned over under a congressional subpoena, was released by the House Oversight Committee in September 2025.
 
-![Drawing from Epstein's birthday letter to Trump](/images/people/trump-epstein-birthday-letter.jpg)
+Trump emphatically denied writing the letter. He told the Journal: "This is not me. This is a fake thing. It's a fake Wall Street Journal story. I never wrote a picture in my life. I don't draw pictures of women," and called the story "false, malicious, and defamatory." He sued the newspaper and its owners over the report (see below).
+
+![Drawing from Epstein's birthday album letter bearing Trump's name](/images/people/trump-epstein-birthday-letter.jpg)
 
 ### Epstein's Private Emails About Trump
 
-DOJ-released emails from Epstein's accounts, spanning 2011 to 2019, reveal how Epstein viewed the relationship — and what he believed he knew about Trump:
+In November 2025, Democrats on the House Oversight Committee released emails from Epstein's accounts that reference Trump. The committee released three exchanges, and the full context of each is not clear from the portions made public:
 
-- **April 2011**: In an email to a confidant, Epstein wrote that "the dog that hasn't barked in all this is Trump" — suggesting Trump had escaped scrutiny relative to their actual relationship.
-- **February 2017**: Epstein wrote to an associate: "none as bad as trump" — in the context of discussing powerful men with problematic behavior.
-- **August 2018**: Epstein told an associate: "I know how dirty donald is" and described Trump as "dangerous."
-- **January 2019**: In an email to his lawyer, Epstein wrote that Trump "knew about the girls" — one of the most incriminating single statements in the released documents.
-- **December 2015**: After Trump was asked about Epstein during a CNN interview, emails show Epstein communicated with journalist Michael Wolff about crafting Trump's response. The exchange suggests a level of coordination between Epstein and Trump's media strategy that neither party has publicly acknowledged.
+- **April 2011**: In an email to Ghislaine Maxwell, Epstein wrote: "I want you to realize that that dog that hasn't barked is trump." He added that a person the Democrats identified as a victim, whose name was redacted, had "spent hours at my house with him" and that Trump "has never once been mentioned."
+- **December 2015**: After author Michael Wolff emailed that CNN was planning to ask Trump about his relationship with Epstein, Epstein replied: "If we were to craft an answer for him, what do you think it should be?" The emails show Epstein offering to shape a response; they do not establish that Trump participated.
+- **January 2019**: In an email to Michael Wolff, Epstein wrote: "Trump said he asked me to resign, never a member ever...Of course he knew about the girls as he asked ghislaine to stop."
 
-These emails have not been disputed by Trump's legal team. The DOJ stated that the emails contained "untrue and sensationalist claims" but did not specify which claims it considered untrue.
+These are Epstein's own characterizations, and none of the documents made public in civil lawsuits or Maxwell's trial contain allegations of wrongdoing by Trump. The White House responded that Democrats had "selectively leaked emails to the liberal media to create a fake narrative to smear President Trump" and called the matter a "hoax."
 
 ## The Mar-a-Lago Ban
 
-Trump has claimed he banned Epstein from Mar-a-Lago in the mid-2000s, around 2004–2005, before Epstein's 2006 arrest. Attorney Brad Edwards — who represented Epstein's victims — offered partial corroboration. In a 2018 interview, Edwards said Trump was "the only person who picked up the phone and said, 'Let's just talk. I'll give you as much time as you want'" when Edwards was investigating Epstein's network. Edwards described Trump as "very helpful." Former Mar-a-Lago house manager Juan Alessi testified in a deposition that he never witnessed any inappropriate behavior by Trump toward underage girls at the club.
+Trump has claimed he banned Epstein from Mar-a-Lago in the mid-2000s, before Epstein's 2006 arrest. Attorney Brad Edwards — who represented Epstein's victims — offered partial corroboration. In a 2018 interview, Edwards said Trump was the only person on a list he contacted who was willing to talk and was "very helpful" when Edwards was investigating Epstein's network.
 
-An FBI 302 document released in February 2026 revealed that Trump called Palm Beach Police Chief Michael Reiter in July 2006 after Epstein's arrest, telling him: "Thank goodness you're stopping him, everyone has known he's been doing this." He called Ghislaine Maxwell "evil" and "Epstein's operative" and said to "focus on her." He also said that "people in New York knew Epstein was disgusting" and that he was once "around Epstein when teenagers were present and got the hell out of there." These statements — while supporting the claim that Trump eventually distanced himself — are difficult to reconcile with his 2020 "I wish her well" comment about Maxwell and his 2024 Lex Fridman interview claim "I was never on Epstein's plane."
+An FBI 302 document, reported in February 2026 as part of the DOJ's file release, recorded that Reiter told the FBI in October 2019 that Trump had called him in July 2006, after the Palm Beach police investigation became public, telling him: "thank goodness you're stopping him, everyone has known he's been doing this." According to the 302, Trump called Ghislaine Maxwell "Epstein's operative," said "she is evil and to focus on her," said "people in New York knew Epstein was disgusting," and said he had once been around Epstein when teenagers were present and "got the hell out of there." These statements — while supporting the claim that Trump eventually distanced himself — are difficult to reconcile with his 2020 "I wish her well" comment about Maxwell. They also stand against his later public denials of any close ties, including a January 2024 Truth Social post stating "I was never on Epstein's Plane, or at his 'stupid' Island" — a claim the flight logs contradict as to the plane.
 
-However, other documents released under the Transparency Act complicated the ban account further. According to Rep. Jamie Raskin, who viewed unredacted files, Epstein's lawyers recorded Trump as saying Epstein "was not a member of his club at Mar-a-Lago, but he was a guest," and that "he had never been asked to leave" — a claim at odds with Trump's public statements about kicking Epstein out. Mar-a-Lago records confirm Epstein remained a club member until at least October 2007 — more than a year after his July 2006 indictment in Palm Beach.
+However, other documents complicated the ban account further. According to Rep. Jamie Raskin, who reviewed unredacted files, a 2009 email exchange between Epstein and Maxwell — in which Epstein recounted his lawyers' account of a phone call with Trump — quoted or paraphrased Trump as saying Epstein "was not a member of Mar-a-Lago, but he was a guest at Mar-a-Lago," and "we never asked him to leave." Raskin said the passage was redacted in the public release. The exchange dates to 2009 — about two years after Trump says he expelled Epstein — and is at odds with Trump's public statements about kicking Epstein out. Mar-a-Lago's registry, as described in the 2020 book "The Grifter's Club," reportedly shows Epstein remained a member until October 2007 — more than a year after his July 2006 indictment in Palm Beach.
 
-The reason for any separation is also disputed. Some accounts attribute it to a real estate dispute. Edwards suggested it was related to Epstein approaching a member's young daughter at the club — a detail that, if accurate, places Trump's knowledge of Epstein's behavior earlier than his public statements acknowledged. Palm Beach Police Chief Michael Reiter has said Trump contacted him voluntarily during the initial Epstein investigation — a fact that Trump's defenders cite as evidence of cooperation.
+The reason for any separation is disputed. Some accounts attribute it to a real estate dispute, including a 2004 Palm Beach bankruptcy auction in which Trump outbid Epstein for a mansion. A widely cited account in "The Grifter's Club" holds that Trump barred Epstein after Epstein approached the teenage daughter of another club member at Mar-a-Lago — an account that, if accurate, would place Trump's awareness of Epstein's behavior earlier than some of his public statements suggested. Trump's defenders cite his voluntary contact with Palm Beach police during the initial investigation as evidence of cooperation.
 
 ## Virginia Giuffre and Mar-a-Lago
 
@@ -118,7 +140,7 @@ This is significantly more than the single documented flight that was publicly k
 
 ## The Stacey Williams Allegation (2024)
 
-In October 2024, during the presidential campaign, a woman named Stacey Williams publicly alleged that Trump groped her at Epstein's Manhattan apartment in 1993. Williams, who said she had been in a relationship with Epstein at the time, described being led by Epstein to Trump Tower and then to Epstein's apartment, where — she claimed — Trump touched her inappropriately while Epstein watched. She alleged that Epstein later told her Trump was "not good enough for you." Williams first made the allegation publicly in an interview with NPR and during a Survivors for Kamala call. Trump denied the allegations through a campaign spokesperson, calling them "made up." The allegation has not been the subject of any legal proceeding.
+In October 2024, during the presidential campaign, former model Stacey Williams publicly alleged that Trump groped her in 1993. Williams, who said she had been in a relationship with Epstein at the time, said Epstein walked her to Trump Tower to meet Trump, who she alleged "pulled me into him" and put his hands on her body while he and Epstein "kept talking and looking at each other and smiling." She said it felt "coordinated." Williams made the allegation in interviews, including with CNN, and on a Zoom call with Survivors for Kamala, a group unaffiliated with the campaign. The Trump campaign denied the allegation, with spokesperson Karoline Leavitt calling it a "fake story." The allegation has not been the subject of any legal proceeding.
 
 ## The Jane Doe Lawsuit (2016)
 
@@ -170,7 +192,9 @@ That same day, he posted on Truth Social branding it "the Jeffrey Epstein Hoax" 
 
 It was the first time a sitting president had explicitly disavowed supporters for demanding accountability in a child sex trafficking case. A September 2025 Marist poll found that 90 percent of Americans wanted at least some of the files released.
 
-The next day, after the Wall Street Journal published its report on the birthday letter from Epstein bearing a drawing of a naked woman, Trump posted on Truth Social: "This is not me. This is a fake thing... I never wrote a picture in my life. I don't draw pictures of women." He then filed a $20 billion defamation lawsuit against Rupert Murdoch and the Wall Street Journal over the story. He also asked Bondi to produce "any and all pertinent Grand Jury testimony," framing the entire Epstein saga as a "SCAM, perpetuated by the Democrats."
+The next day, after the Wall Street Journal published its report on the birthday album letter bearing his name, Trump said: "This is not me. This is a fake thing... I never wrote a picture in my life. I don't draw pictures of women." On July 18, 2025, he filed a $10 billion defamation lawsuit in federal court in Florida against the Journal's publisher Dow Jones, its parent News Corp, News Corp CEO Robert Thomson, Rupert Murdoch, and the two reporters who wrote the story. He also asked Bondi to produce "any and all pertinent Grand Jury testimony," framing the entire Epstein saga as a "SCAM, perpetuated by the Democrats."
+
+On April 13, 2026, U.S. District Judge Darrin P. Gayles dismissed the lawsuit, ruling that Trump's complaint "comes nowhere close" to plausibly alleging the "actual malice" that public figures must show in defamation cases. The judge dismissed the suit with leave to amend, noting that whether Trump authored the letter was a "question of fact" that could not be resolved at that stage. Trump refiled the suit in late May 2026, again seeking $10 billion. As of this writing, the matter has not been decided on the merits.
 
 On September 3, 2025, during a meeting with Poland's president, Trump called the Epstein push "a Democrat hoax that never ends" and said the files were "totally irrelevant."
 
@@ -216,7 +240,7 @@ On February 3, in the Oval Office, Trump told reporters: "I think it's really ti
 
 On February 12, after AG Bondi testified before Congress, Trump posted on Truth Social that he had been "100% exonerated" and praised Bondi as "fantastic." In the same post, he attacked Rep. [Thomas Massie](/people/thomas-massie) as a "Sanctimonious RINO" and "Weak and Pathetic RINO from the Great Commonwealth of Kentucky" who "must be thrown out of office, ASAP!" He endorsed a primary challenger to Massie and personally attacked Massie's wife, saying Massie "became liberal" because his wife is "supposedly a Radical Left 'flamethrower.'"
 
-Trump did not publicly address the 38,000+ mentions of his name, the Epstein emails describing him as "dangerous" and claiming he "knew about the girls," or the contradiction between the files and his public statements about never flying on Epstein's plane and banning Epstein from Mar-a-Lago.
+Trump did not substantively address the 38,000+ mentions of his name, the Epstein email stating he "knew about the girls," or the contradiction between the flight logs and his public statements about never flying on Epstein's plane.
 
 ## The Contrast with Clinton
 
@@ -228,8 +252,8 @@ No one involved in this case emerges cleanly. But the distinction matters: one f
 
 ## What Is and Is Not Established
 
-Trump has never been charged with any crime related to Epstein. He was never a target of the Epstein criminal investigations according to public records. Virginia Giuffre, who was recruited at Trump's property, has not accused Trump of sexual misconduct. The DOJ itself stated that the files contained "untrue and sensationalist claims" about Trump that did not warrant prosecution.
+Trump has never been charged with any crime related to Epstein, and no criminal wrongdoing by him has been established. He is not accused of a crime in the documents themselves. Virginia Giuffre, who was recruited at Trump's property, has not accused Trump of sexual misconduct. The Justice Department, in its 2026 release, said that some material it published — including allegations submitted to the FBI shortly before the 2020 election — contained "untrue and sensationalist claims" about Trump; separately, an NPR investigation reported that the DOJ also withheld and removed some files relating to accusations against him.
 
-What is established is this: Trump had a documented social relationship with Epstein spanning at least a decade. He flew on Epstein's plane at least eight times — despite telling Lex Fridman in 2024 "I was never on Epstein's plane." Epstein's private emails describe Trump as "dangerous," claim he "knew about the girls," and refer to knowing "how dirty donald is." A birthday letter from Epstein to Trump included a drawing of a naked woman. An underage victim was recruited at his club. He nominated the prosecutor who gave Epstein a lenient plea deal to his cabinet. He called Maxwell "evil" and "Epstein's operative" to police in 2006, then wished her "well" from the White House briefing room in 2020. He promised transparency during his campaign, then fought it for months once he learned his name was in the files — calling the case a "hoax," branding supporters who demanded accountability "weaklings," suing the Wall Street Journal for $20 billion, and pressuring Congress to block the Transparency Act, including bringing a sitting congresswoman into the Situation Room. He signed the Act only when a 427–1 House vote made resistance impossible — then claimed credit, framing the release as his idea. His DOJ repeatedly removed and restored files from the release website, including a photograph of him alongside Epstein. After the files were released, he claimed they "absolve" him, told the country to "move on," called himself "100% exonerated," attacked the reporter who asked about survivors, and threatened to sue the Epstein estate.
+What is established is this: Trump had a documented social relationship with Epstein spanning at least a decade. Flight logs list him on at least eight Epstein flights in the 1990s — contradicting his January 2024 statement "I was never on Epstein's Plane." In an email released by the House Oversight Committee, Epstein wrote that Trump "knew about the girls as he asked ghislaine to stop"; another, to Maxwell, called Trump "the dog that hasn't barked." A letter bearing Trump's name, framed by a drawing of a naked woman, appeared in Epstein's 2003 birthday album — a letter Trump denies writing and over which he is suing the Wall Street Journal for $10 billion. An underage victim was recruited at his club. He nominated the prosecutor who brokered Epstein's lenient plea deal to his cabinet. According to a 2006 FBI account, he called Maxwell "evil" and Epstein's "operative" to police, then wished her "well" from the White House briefing room in 2020. He promised transparency during his campaign, then fought it for months once he learned his name was in the files — calling the case a "hoax," branding supporters who demanded accountability "weaklings," and pressuring Congress to block the Transparency Act, including bringing a sitting congresswoman into the Situation Room. He signed the Act only when a 427–1 House vote made resistance impossible — then claimed credit, framing the release as his idea. His DOJ removed and later restored a photograph of him with Epstein from the release website. After the files were released, he claimed they "absolve" him, told the country to "move on," called himself "100% exonerated," attacked the reporter who asked about survivors, and threatened to sue the Epstein estate.
 
 His name appears in the Epstein files more than 38,000 times — more than Harry Potter in the Harry Potter books, more than the name of any person except Jeffrey Epstein himself.

@@ -4,6 +4,7 @@ seoTitle: "Is Gary King in the Epstein files? — Former Attorney General of New
 seoDescription: "Gary King, former New Mexico Attorney General (2007–2015), is named in reporting on the Epstein files over campaign donations and Epstein-linked jet travel."
 aliases: []
 role: "Former Attorney General of New Mexico (2007–2015)"
+image: "/images/people/gary-king.jpg"
 category: official
 shortBio: "Gary King is a New Mexico Democrat who served as the state's 30th Attorney General from 2007 to 2015 and was the Democratic nominee for governor in 2014. He is named in reporting on the Epstein files in connection with campaign donations from Jeffrey Epstein and 2014 travel aboard an Epstein-linked private jet."
 notableConnections:

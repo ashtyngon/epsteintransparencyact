@@ -4,6 +4,7 @@ seoTitle: "Is Chris Tucker in the Epstein files? — Actor and comedian"
 seoDescription: "Chris Tucker, the actor and comedian, traveled on a September 2002 Clinton Foundation humanitarian trip to Africa aboard Jeffrey Epstein's plane. Not accused of wrongdoing."
 aliases: []
 role: "Actor and comedian"
+image: "/images/people/chris-tucker.jpg"
 category: named-in-documents
 shortBio: "Chris Tucker is an American actor and comedian, best known for the Rush Hour film series. He is connected to the Epstein record through a September 2002 humanitarian trip to Africa aboard Jeffrey Epstein's plane, a trip also taken by Bill Clinton and Kevin Spacey. He has not been accused of any wrongdoing."
 notableConnections:

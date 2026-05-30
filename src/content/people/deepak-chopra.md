@@ -5,6 +5,7 @@ seoDescription: "Wellness author Deepak Chopra was named in released Epstein fil
 aliases:
   - "Dr. Deepak Chopra"
 role: "Author, public speaker, alternative medicine advocate"
+image: "/images/people/deepak-chopra.jpg"
 category: "named-in-documents"
 shortBio: "Prominent wellness author and alternative medicine advocate who was named in released Epstein files in connection with social interactions within Jeffrey Epstein's network. Chopra's name appeared in documents referencing Epstein's extensive social contacts. He has not been accused of any criminal conduct."
 notableConnections:

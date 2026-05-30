@@ -4,6 +4,7 @@ seoTitle: "Is Vitaly Churkin in the Epstein files? — Russian Permanent Represe
 seoDescription: "Vitaly Churkin, Russia's UN ambassador until his 2017 death, appears in released Epstein files through 2016 correspondence about a job for his son. Context here."
 aliases: []
 role: "Permanent Representative of Russia to the United Nations (2006–2017); Russian diplomat"
+image: "/images/people/vitaly-churkin.jpg"
 category: official
 shortBio: "Vitaly Churkin was a Russian career diplomat who served as Permanent Representative of Russia to the United Nations from 2006 until his death in 2017. Released Epstein files include 2016 correspondence between Churkin and a counterpart identified as Jeffrey Epstein, concerning a job for Churkin's son Maxim."
 notableConnections:

@@ -4,6 +4,7 @@ seoTitle: "Brad Karp Epstein — Paul Weiss Chairman Resigns After Emails Reveal
 seoDescription: "Brad Karp resigned as chairman of elite law firm Paul Weiss in February 2026 after emails showed he offered Jeffrey Epstein legal advice despite Epstein not being a firm client."
 aliases: []
 role: "Former Chairman of Paul Weiss (law firm)"
+image: "/images/people/brad-karp.jpg"
 category: "named-in-documents"
 shortBio: "Longtime chairman of Paul Weiss, one of the nation's top corporate law firms, who resigned as chairman in February 2026 after emails revealed he had offered Jeffrey Epstein his legal opinion on a plea deal involving soliciting a minor for prostitution — despite Epstein not being a Paul Weiss client."
 notableConnections:

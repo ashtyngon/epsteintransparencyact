@@ -6,6 +6,7 @@ aliases:
   - "Kenneth Starr"
   - "Kenneth W. Starr"
 role: "Former independent counsel, attorney, university president (deceased 2022)"
+image: "/images/people/ken-starr.jpg"
 category: "named-in-documents"
 shortBio: "Former independent counsel who led the investigation of President Bill Clinton and later served as president of Baylor University. Starr joined Jeffrey Epstein's defense team and played a role in negotiating the controversial 2008 non-prosecution agreement in Florida. He died in September 2022."
 notableConnections:

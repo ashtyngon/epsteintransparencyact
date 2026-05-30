@@ -4,6 +4,7 @@ seoTitle: "Is David Blaine in the Epstein files? — Magician and endurance perf
 seoDescription: "David Blaine, the magician and endurance performer, appears in the Epstein files through years-long correspondence and dinners with Jeffrey Epstein (2012–2016)."
 aliases: []
 role: "Magician and endurance performer"
+image: "/images/people/david-blaine.jpg"
 category: named-in-documents
 shortBio: "David Blaine is an American illusionist and endurance performer. The Epstein files show years-long correspondence and regular dinners with Jeffrey Epstein between 2012 and 2016, and a 2015 letter of support Blaine agreed to write for a woman's U.S. visa application at Epstein's request."
 notableConnections:

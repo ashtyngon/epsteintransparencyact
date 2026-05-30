@@ -4,6 +4,7 @@ seoTitle: "Is Kimbal Musk in the Epstein files? — Businessman and restaurateur
 seoDescription: "Kimbal Musk, businessman, restaurateur and brother of Elon Musk, appears in released Epstein emails through 2012-2013 social contact and an introduction; he disputes parts of the account."
 aliases: []
 role: "Businessman and restaurateur; brother of Elon Musk"
+image: "/images/people/kimbal-musk.jpg"
 category: named-in-documents
 shortBio: "Kimbal Musk is a businessman and restaurateur, brother of Elon Musk, and founder of The Kitchen Restaurant Group. He appears in released Jeffrey Epstein emails from around 2012-2013 documenting social contact and an introduction to a woman; Musk has disputed parts of the reporting."
 notableConnections:

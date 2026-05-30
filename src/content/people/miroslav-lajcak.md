@@ -5,6 +5,7 @@ seoDescription: "Miroslav Lajčák, Slovakia's national security adviser, resign
 aliases:
   - "Miroslav Lajcak"
 role: "Former National Security Adviser to Slovakia's Prime Minister"
+image: "/images/people/miroslav-lajcak.jpg"
 category: "named-in-documents"
 shortBio: "Slovak diplomat and former national security adviser to Prime Minister Robert Fico who resigned in January 2026 after the release of emails in which he and Jeffrey Epstein appeared to banter about young women."
 notableConnections:

@@ -4,6 +4,7 @@ seoTitle: "Is Anil Ambani in the Epstein files? — Chairman of Reliance Group (
 seoDescription: "Anil Ambani, chairman of India's Reliance Group, is reported to appear in Jeffrey Epstein's messages over 2017–2019. Being named is not evidence of wrongdoing."
 aliases: []
 role: "Chairman and managing director of the Reliance Group (Reliance Anil Dhirubhai Ambani Group)"
+image: "/images/people/anil-ambani.jpg"
 category: named-in-documents
 shortBio: "Anil Ambani, the Indian businessman who chairs the Reliance Group (Reliance Anil Dhirubhai Ambani Group), is reported by ThePrint and Business Today to have exchanged messages with Jeffrey Epstein between 2017 and 2019 after being introduced through DP World chairman Sultan Ahmed bin Sulayem. Being named is not evidence of any crime or wrongdoing."
 notableConnections:

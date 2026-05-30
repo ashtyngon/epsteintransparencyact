@@ -5,6 +5,7 @@ seoDescription: "Mehmet Oz, CMS Administrator and former TV physician, appears i
 aliases:
   - "Dr. Oz"
 role: "Administrator of the Centers for Medicare & Medicaid Services; cardiothoracic surgeon and former television physician"
+image: "/images/people/mehmet-oz.jpg"
 category: official
 shortBio: "Mehmet Oz is a cardiothoracic surgeon and former host of 'The Dr. Oz Show' who became the 17th Administrator of the Centers for Medicare & Medicaid Services in April 2025. His name appears in released Epstein documents through a 2004 travel-expense record and event invitations; he has not been accused of any wrongdoing."
 notableConnections:

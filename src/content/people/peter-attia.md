@@ -5,6 +5,7 @@ seoDescription: "Physician and podcaster Peter Attia resigned as chief science o
 aliases:
   - "Peter Attia"
 role: "Physician, former chief science officer at David (protein bar company)"
+image: "/images/people/peter-attia.jpg"
 category: "named-in-documents"
 shortBio: "Physician, longevity researcher, and podcast host who resigned as chief science officer at protein bar company David in February 2026 after documents revealed he spent part of the 2010s in close contact with Jeffrey Epstein, including visits, medical advice exchanges, and crude emails about women."
 notableConnections:

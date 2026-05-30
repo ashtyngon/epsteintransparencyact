@@ -4,6 +4,7 @@ seoTitle: "Is Lisa Randall in the Epstein files? — Harvard theoretical physici
 seoDescription: "Lisa Randall, the Harvard theoretical physicist, exchanged emails with Jeffrey Epstein for years after his 2008 conviction. She said she deeply regrets the contact."
 aliases: []
 role: "Theoretical physicist; Frank B. Baird, Jr. Professor of Science at Harvard University"
+image: "/images/people/lisa-randall.jpg"
 category: named-in-documents
 shortBio: "Lisa Randall is a theoretical physicist and the Frank B. Baird, Jr. Professor of Science at Harvard University. Newly released documents show she maintained email and phone contact with Jeffrey Epstein for years after his 2008 conviction, briefly visited his Caribbean island, and flew on his private jet in November 2014. She has not been accused of wrongdoing and said she deeply regrets maintaining contact."
 notableConnections:

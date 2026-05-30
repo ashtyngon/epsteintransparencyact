@@ -5,6 +5,7 @@ seoDescription: "Dean Kamen, inventor and FIRST founder, appears in released Eps
 aliases:
   - "Dean Lawrence Kamen"
 role: "American engineer and inventor; founder of FIRST and DEKA"
+image: "/images/people/dean-kamen.jpg"
 category: named-in-documents
 shortBio: "Dean Kamen is an American engineer and inventor known for the Segway and for founding the youth STEM organization FIRST. His name appears in photographs and emails released from Jeffrey Epstein's records. Kamen says he was unaware of Epstein's crimes; an independent FIRST review found no evidence of misconduct, though he acknowledged errors in judgment and resigned from the FIRST board in March 2026."
 notableConnections:

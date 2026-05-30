@@ -6,6 +6,7 @@ aliases:
   - "Cherie Booth"
   - "Cherie Booth Blair"
 role: "British Barrister; Wife of Former PM Tony Blair"
+image: "/images/people/cherie-blair.jpg"
 category: "named-in-documents"
 shortBio: "Prominent British barrister and wife of former Prime Minister Tony Blair whose name surfaced in the context of Epstein-related document releases. Blair has not been charged with any crime related to Epstein and has not been accused of wrongdoing."
 notableConnections:

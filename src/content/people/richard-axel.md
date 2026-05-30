@@ -4,6 +4,7 @@ seoTitle: "Is Richard Axel in the Epstein files? — Nobel laureate and Columbia
 seoDescription: "Richard Axel, the 2004 Nobel laureate and Columbia neuroscientist, is named in the Epstein files over correspondence and an island invitation."
 aliases: []
 role: "American molecular biologist and neuroscientist; University Professor at Columbia University; 2004 Nobel laureate"
+image: "/images/people/richard-axel.jpg"
 category: named-in-documents
 shortBio: "Richard Axel is a University Professor in Columbia University's Department of Neuroscience who shared the 2004 Nobel Prize in Physiology or Medicine for work on the olfactory system. The Epstein files document correspondence with Jeffrey Epstein and an invitation to Epstein's island; in February 2026 Axel resigned from leadership posts, calling his association with Epstein a serious error in judgment."
 notableConnections:

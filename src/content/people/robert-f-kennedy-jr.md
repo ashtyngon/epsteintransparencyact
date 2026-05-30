@@ -5,6 +5,7 @@ seoDescription: "Robert F. Kennedy Jr., U.S. Secretary of Health and Human Servi
 aliases:
   - "RFK Jr."
 role: "U.S. Secretary of Health and Human Services"
+image: "/images/people/robert-f-kennedy-jr.jpg"
 category: official
 shortBio: "Robert F. Kennedy Jr. is the 26th U.S. Secretary of Health and Human Services. He has publicly acknowledged taking two flights on Jeffrey Epstein's plane with his family in the 1990s and is not accused of any wrongdoing."
 notableConnections:

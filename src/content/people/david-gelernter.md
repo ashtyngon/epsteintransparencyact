@@ -4,6 +4,7 @@ seoTitle: "Is David Gelernter in the Epstein files? — Yale University computer
 seoDescription: "David Gelernter, a Yale computer scientist, corresponded with Jeffrey Epstein from 2009 to 2015 and was relieved of teaching duties amid a 2026 Yale review."
 aliases: []
 role: "Yale University computer scientist; pioneer of parallel computation"
+image: "/images/people/david-gelernter.jpg"
 category: named-in-documents
 shortBio: "David Gelernter is a Yale University computer scientist known for pioneering work in parallel computation. Records released under the Epstein Files Transparency Act show he corresponded with Jeffrey Epstein from 2009 to 2015, and in February 2026 Yale relieved him of teaching duties pending a review. Being named is not evidence of wrongdoing."
 notableConnections:

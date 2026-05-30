@@ -5,6 +5,7 @@ seoDescription: "Børge Brende, who resigned as World Economic Forum president i
 aliases:
   - "Borge Brende"
 role: "Former President of the World Economic Forum; former Norwegian Minister of Foreign Affairs"
+image: "/images/people/borge-brende.jpg"
 category: official
 shortBio: "Børge Brende is a Norwegian politician who served as Minister of Foreign Affairs from 2013 to 2017 and as President and CEO of the World Economic Forum from 2017 until he resigned in February 2026 amid scrutiny of his contacts with Jeffrey Epstein. He is named in reporting on the Epstein files."
 notableConnections:

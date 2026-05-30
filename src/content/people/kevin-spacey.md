@@ -4,6 +4,7 @@ seoTitle: "Is Kevin Spacey in the Epstein files? — Actor"
 seoDescription: "Kevin Spacey, an American actor, appears on a 2002 Epstein flight log alongside Bill Clinton during a humanitarian trip; he is not accused of wrongdoing in the records."
 aliases: []
 role: "Actor"
+image: "/images/people/kevin-spacey.jpg"
 category: named-in-documents
 shortBio: "Kevin Spacey is an American actor named in connection with the Jeffrey Epstein files through a 2002 trip toward Africa aboard a plane owned by Epstein that also carried former president Bill Clinton. Spacey has said he was invited by Clinton on a humanitarian mission and only later learned the aircraft was Epstein's. He is not accused of wrongdoing in the records."
 notableConnections:

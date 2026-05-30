@@ -7,6 +7,7 @@ aliases:
   - "Fergie"
   - "Sarah, Duchess of York"
 role: "Author, former member of the British royal family"
+image: "/images/people/sarah-ferguson.jpg"
 category: "named-in-documents"
 shortBio: "Former wife of Prince Andrew and mother to Princesses Beatrice and Eugenie. DOJ documents released in 2026 showed Ferguson sent messages to Jeffrey Epstein after his 2008 conviction. Six Ferguson-linked companies filed for dissolution through Companies House shortly after the revelations. Epstein had previously given Ferguson £15,000 through Prince Andrew in 2011."
 notableConnections:

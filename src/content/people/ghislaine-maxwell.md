@@ -34,6 +34,16 @@ sources:
     url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
   - title: "Robert Maxwell: A Supervillain's Daughter — Vanity Fair"
     url: "https://www.vanityfair.com/news/2003/03/ghislaine-maxwell-200303"
+  - title: "Ghislaine Maxwell — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Ghislaine_Maxwell"
+  - title: "Ghislaine Maxwell Sentenced to 20 Years in Prison — PBS NewsHour"
+    url: "https://www.pbs.org/newshour/politics/ghislaine-maxwell-sentenced-to-20-years-in-prison"
+  - title: "Update: Ghislaine Maxwell Sentenced to 20 Years and a $750,000 Fine — CSE Institute"
+    url: "https://cseinstitute.org/update-ghislaine-maxwell-sentenced-to-20-years-in-prison-and-a-750000-fine-for-aiding-jeffrey-epsteins-sexual-abuse-of-minors/"
+  - title: "Supreme Court Declines to Hear Ghislaine Maxwell's Appeal — SCOTUSblog"
+    url: "https://www.scotusblog.com/2025/10/supreme-court-declines-to-hear-ghislaine-maxwells-appeal/"
+  - title: "DOJ Meeting with Ghislaine Maxwell Happened After She Initiated Contact — ABC News"
+    url: "https://abcnews.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785"
 ---
 
 Ghislaine Maxwell is the only person to be tried and convicted for her role in [Jeffrey Epstein](/people/jeffrey-epstein)'s sex trafficking operation. On December 29, 2021, a federal jury in the Southern District of New York found her guilty on five of six counts, including the most serious charge: sex trafficking of a minor. On June 28, 2022, U.S. District Judge Alison Nathan sentenced her to 20 years in federal prison.
@@ -44,7 +54,7 @@ Maxwell was not a peripheral figure. Prosecutors established — and four accuse
 
 Ghislaine Maxwell was born on December 25, 1961, in Maisons-Laffitte, France, the youngest of nine children of Robert Maxwell and Elisabeth Maxwell. Robert Maxwell was a Czech-born British media mogul who built a publishing empire that included the Mirror Group Newspapers, Macmillan Publishers, and the New York Daily News. He was also a member of British Parliament.
 
-Robert Maxwell died on November 5, 1991, after falling from his yacht, the Lady Ghislaine — named after his youngest daughter — near the Canary Islands. His death was ruled a possible suicide or accidental drowning. Within weeks, it emerged that he had looted approximately 460 million pounds from his companies' pension funds to prop up his failing business empire.
+Robert Maxwell died on November 5, 1991, after falling from his yacht, the Lady Ghislaine — named after his youngest daughter — near the Canary Islands. His death was officially ruled a heart attack combined with accidental drowning. Within weeks, it emerged that he had taken hundreds of millions of pounds from his companies' pension funds to prop up his failing business empire.
 
 The Maxwell family went from wealth and influence to disgrace overnight. Ghislaine, who had been living in London, relocated to New York City in 1991, where she entered elite social circles. Within a year, she had begun her relationship with Jeffrey Epstein.
 
@@ -74,7 +84,7 @@ Annie Farmer testified that Maxwell gave her a massage at Epstein's New Mexico r
 
 Maxwell was arrested on July 2, 2020, at a 156-acre property in Bradford, New Hampshire, that she had purchased through a limited liability company. She had been in hiding for approximately a year following Epstein's death.
 
-The trial began on November 29, 2021, in U.S. District Court for the Southern District of New York, before Judge Alison Nathan. The prosecution called 24 witnesses over approximately two weeks.
+The trial began on November 29, 2021, in U.S. District Court for the Southern District of New York, before Judge Alison Nathan. The prosecution called its witnesses over approximately two weeks, including four accusers.
 
 The six-count indictment charged Maxwell with:
 
@@ -85,7 +95,7 @@ The six-count indictment charged Maxwell with:
 5. **Sex trafficking conspiracy** — Guilty
 6. **Sex trafficking of a minor** — Guilty
 
-The jury deliberated for approximately 40 hours over five full days before returning its verdict on December 29, 2021.
+The jury deliberated for approximately 40 hours over parts of six days before returning its verdict on December 29, 2021.
 
 Key prosecution witnesses included the four accusers, Epstein's former pilots Larry Visoski and David Rodgers, former house manager Juan Alessi, and FBI forensic analysts. The defense called one witness — a psychologist who testified about the unreliability of memory — and Maxwell did not take the stand.
 
@@ -93,23 +103,23 @@ Key prosecution witnesses included the four accusers, Epstein's former pilots La
 
 On June 28, 2022, Judge Nathan sentenced Maxwell to 20 years in prison, followed by five years of supervised release. The judge also imposed a $750,000 fine.
 
-At sentencing, several victims addressed the court. Annie Farmer told Maxwell directly: "You could have put an end to the rapes, the molestations, the sexual exploitation of young girls by Jeffrey Epstein. Instead, you chose to participate in them." Elizabeth Stein, another victim, described Maxwell as a "willing and enthusiastic partner in Jeffrey Epstein's crimes."
+At sentencing, several victims addressed the court, including Annie Farmer — who testified at trial under her real name — and Elizabeth Stein. Farmer described the lasting harm Maxwell's conduct had caused.
 
-Maxwell, in a brief statement, expressed sympathy for the victims but attributed the abuse to Epstein: "It is the greatest regret of my life that I ever met Jeffrey Epstein."
+Maxwell, in a brief statement, expressed sympathy for the victims but attributed the abuse to Epstein, calling it the greatest regret of her life that she ever met Jeffrey Epstein.
 
-Prosecutors had sought a sentence of 30 to 55 years. The defense asked for leniency, citing Maxwell's age (60 at sentencing) and difficult upbringing, and requested a sentence of four to five years.
+Prosecutors had sought a sentence of 30 to 55 years. The defense asked for leniency, citing Maxwell's difficult upbringing, and requested a sentence of about five years.
 
 ## Appeal
 
-Maxwell appealed her conviction, arguing that the court improperly allowed testimony about conduct that predated the statute of limitations, and raising issues about a juror who failed to disclose his own history of sexual abuse during jury selection. The Second Circuit Court of Appeals rejected her arguments and upheld the conviction in 2023.
+Maxwell appealed her conviction, raising issues including a juror who failed to disclose his own history of sexual abuse during jury selection and a 2007 non-prosecution agreement between Epstein and federal prosecutors in Florida that she argued should have shielded her from prosecution. On September 17, 2024, the U.S. Court of Appeals for the Second Circuit rejected her arguments and upheld her convictions and sentence. On October 6, 2025, the U.S. Supreme Court declined to hear her appeal, leaving the conviction in place.
 
 ## Current Incarceration
 
-Maxwell is currently incarcerated at FPC Bryan, a minimum-security federal prison camp in Bryan, Texas. She was transferred there from the Metropolitan Detention Center in Brooklyn, where she had been held since her arrest.
+Maxwell is currently incarcerated at FPC Bryan, a minimum-security federal prison camp in Bryan, Texas. On August 1, 2025, she was transferred there from FCI Tallahassee, a low-security facility in Florida where she had been serving her sentence. (She had earlier been held at the Metropolitan Detention Center in Brooklyn from her 2020 arrest through her trial and sentencing.) Her Bureau of Prisons inmate number is 02879-509, and her projected release date is July 17, 2037.
 
-Maxwell's prison number is 02879-509. Her projected release date, accounting for good behavior credits, is July 17, 2037.
+The transfer came days after Maxwell met with Deputy Attorney General Todd Blanche. According to the Justice Department, Maxwell initiated the contact; Blanche interviewed her over two days, July 24 and July 25, 2025, at the U.S. attorney's office in Tallahassee, Florida, with the stated purpose of hearing any information she had about others who may have committed crimes. The Justice Department later released transcripts of those interviews. The move to a minimum-security camp — unusual given the nature of her convictions — drew scrutiny from members of Congress.
 
-Reports from prison have described Maxwell teaching English to fellow inmates and, through her attorney, continuing to maintain that her trial was unfair.
+Maxwell was also subpoenaed by the House Oversight Committee. In a closed-door deposition, she repeatedly invoked her Fifth Amendment right against self-incrimination and declined to answer the committee's questions; her attorney said she would be willing to testify if granted clemency.
 
 ## Role in the Broader Network
 

@@ -4,6 +4,7 @@ seoTitle: "Peter Thiel & Epstein Files — Tech Billionaire Network Overlaps"
 seoDescription: "Peter Thiel, PayPal co-founder and billionaire investor, linked to Epstein network through overlapping social and political circles per 2026 reporting."
 aliases: []
 role: "Billionaire tech investor, PayPal co-founder"
+image: "/images/people/peter-thiel.jpg"
 category: "named-in-documents"
 shortBio: "Co-founder of PayPal and Palantir Technologies, and an early Facebook investor. Released Epstein files document correspondence and meetings with Epstein over several years; Epstein reportedly invested roughly $40 million in Thiel-linked venture funds. Thiel's spokesperson says he never visited Epstein's island, and Thiel has not been accused of criminal conduct in connection with Epstein."
 notableConnections:
