@@ -4,6 +4,7 @@ seoTitle: "Is Lynn Forester de Rothschild in the Epstein files? — Businesswoma
 seoDescription: "Lynn Forester de Rothschild is a businesswoman and CEO of E.L. Rothschild. Ghislaine Maxwell's 2025 DOJ deposition claimed she introduced Epstein to Prince Andrew."
 aliases: []
 role: "Businesswoman; Lady de Rothschild; CEO of E.L. Rothschild"
+image: "/images/people/lynn-forester-de-rothschild.jpg"
 category: associate
 shortBio: "Lynn Forester de Rothschild is an American-British businesswoman who chairs the holding company E.L. Rothschild and founded the Council for Inclusive Capitalism. In a 2025 U.S. Department of Justice deposition, Ghislaine Maxwell claimed Forester de Rothschild introduced Jeffrey Epstein to Prince Andrew at a house in Martha's Vineyard in the early 2000s. Being named is not evidence of wrongdoing."
 notableConnections:

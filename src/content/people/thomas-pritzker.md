@@ -6,6 +6,7 @@ aliases:
   - "Tom Pritzker"
   - "Thomas J. Pritzker"
 role: "Billionaire, former executive chairman of Hyatt Hotels"
+image: "/images/people/thomas-pritzker.jpg"
 category: "named-in-documents"
 shortBio: "Former executive chairman of Hyatt Hotels Corporation and member of one of America's wealthiest families. Resigned from the Hyatt board in February 2026 after DOJ files documented his contact with Jeffrey Epstein, stating he 'exercised terrible judgment in maintaining contact.' His resignation statement provided no details about the nature, duration, or frequency of his relationship with Epstein."
 notableConnections:

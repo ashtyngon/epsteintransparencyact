@@ -4,6 +4,7 @@ seoTitle: "Is Mark Zuckerberg in the Epstein files? — Co-founder and CEO of Me
 seoDescription: "Mark Zuckerberg is named in the Epstein files only via others' entries: a 2015 Palo Alto dinner Epstein attended and photographed. No direct contact is documented."
 aliases: []
 role: "Co-founder, chairman, and CEO of Meta Platforms"
+image: "/images/people/mark-zuckerberg.jpg"
 category: named-in-documents
 shortBio: "Mark Zuckerberg is the co-founder, chairman, and CEO of Meta Platforms (formerly Facebook). He is referenced in the Epstein files only within other people's entries, in connection with a single 2015 dinner that Jeffrey Epstein also attended and photographed."
 notableConnections:

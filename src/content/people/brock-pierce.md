@@ -4,6 +4,7 @@ seoTitle: "Is Brock Pierce in the Epstein files? — Cryptocurrency entrepreneur
 seoDescription: "Brock Pierce, a cryptocurrency entrepreneur and Tether co-founder, appears in DOJ Epstein file emails reported in 2026 over crypto investments including Coinbase."
 aliases: []
 role: "Cryptocurrency entrepreneur; co-founder of Tether and Block.one; former child actor; 2020 US presidential candidate"
+image: "/images/people/brock-pierce.jpg"
 category: named-in-documents
 shortBio: "Brock Pierce is a cryptocurrency entrepreneur, a co-founder of Tether and Block.one, a former child actor, and a 2020 independent US presidential candidate. In February 2026, news outlets reported that newly released US Department of Justice files on Jeffrey Epstein included emails between Pierce and Epstein about crypto investments. He has not been accused of wrongdoing."
 notableConnections:

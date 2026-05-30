@@ -4,6 +4,7 @@ seoTitle: "Richard Kahn & Epstein Files — Epstein's Longtime Accountant"
 seoDescription: "Richard Kahn, Jeffrey Epstein's longtime accountant, testified before the House Oversight Committee in March 2026 and denied knowledge of red flags."
 aliases: []
 role: "Accountant and financial advisor to Jeffrey Epstein"
+image: "/images/people/richard-kahn.jpg"
 category: "named-in-documents"
 shortBio: "Jeffrey Epstein's longtime accountant who managed financial records for the convicted sex trafficker. Kahn testified before the House Oversight Committee in March 2026, where he denied knowledge of red flags in Epstein's finances despite handling accounts that funded the trafficking operation."
 notableConnections:

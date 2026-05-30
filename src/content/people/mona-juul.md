@@ -4,6 +4,7 @@ seoTitle: "Mona Juul Epstein — Norwegian Ambassador Suspended and Resigned"
 seoDescription: "Norwegian ambassador Mona Juul resigned in February 2026 after being suspended over financial dealings with Jeffrey Epstein and a corruption investigation."
 aliases: []
 role: "Former Norwegian Ambassador to Jordan and Iraq"
+image: "/images/people/mona-juul.jpg"
 category: "named-in-documents"
 shortBio: "Norwegian diplomat who served as ambassador to Jordan and Iraq. Juul resigned in February 2026 after being suspended following disclosures of financial dealings between her, her husband Terje Rød-Larsen, and Jeffrey Epstein. Both she and her husband are under criminal investigation for corruption in Norway."
 notableConnections:

@@ -4,6 +4,7 @@ seoTitle: "Is Nathan Wolfe in the Epstein files? — Virologist"
 seoDescription: "Virologist Nathan Wolfe's name appears 589 times in the released Epstein files; reporting documents 2008–2013 correspondence. He denies wrongdoing."
 aliases: []
 role: "American virologist; founder of Global Viral and Metabiota"
+image: "/images/people/nathan-wolfe.jpg"
 category: named-in-documents
 shortBio: "American virologist known for pandemic-forecasting work, founder of the Global Viral Forecasting Initiative and Metabiota, and a former Stanford visiting professor. His name appears 589 times in the released Epstein files; reporting documents friendly correspondence with Jeffrey Epstein from 2008 to 2013, including a request for research funding. Wolfe has denied any wrongdoing and said he never received funding from Epstein."
 notableConnections:

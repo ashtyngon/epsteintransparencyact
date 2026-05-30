@@ -5,6 +5,7 @@ seoDescription: "Christopher Poole, founder of 4chan, appears in released Epstei
 aliases:
   - "moot"
 role: "Internet entrepreneur; founder of 4chan; later a product manager at Google"
+image: "/images/people/christopher-poole.jpg"
 category: named-in-documents
 shortBio: "Christopher Poole, known online as 'moot,' founded the imageboard 4chan in 2003 and later worked at Google. Released Epstein emails show that in October 2011 Boris Nikolic introduced Poole to Jeffrey Epstein, who met him once. Poole has said Epstein had nothing to do with 4chan and that he regrets ever encountering him."
 notableConnections:

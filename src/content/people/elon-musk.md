@@ -4,6 +4,7 @@ seoTitle: "Is Elon Musk in the Epstein files? — Businessman; CEO of Tesla and 
 seoDescription: "Elon Musk, CEO of Tesla and SpaceX, appears in released Epstein documents through 2012-2014 emails discussing the island; he says he declined to visit."
 aliases: []
 role: "Businessman; CEO of Tesla and SpaceX and owner of X"
+image: "/images/people/elon-musk.jpg"
 category: named-in-documents
 shortBio: "Elon Musk is a businessman known for leading Tesla and SpaceX. He appears in released Jeffrey Epstein documents through email exchanges from 2012 to 2014; Musk has said he declined repeated invitations to visit Epstein's island."
 notableConnections:

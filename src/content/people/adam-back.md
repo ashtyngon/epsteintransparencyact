@@ -4,6 +4,7 @@ seoTitle: "Is Adam Back in the Epstein files? — Cryptographer and CEO of Block
 seoDescription: "Adam Back, cryptographer and Blockstream CEO, is named in the Epstein files over a 2014 island invitation and an Epstein-linked fund's Blockstream investment."
 aliases: []
 role: "British cryptographer; inventor of Hashcash; co-founder and CEO of Blockstream"
+image: "/images/people/adam-back.jpg"
 category: named-in-documents
 shortBio: "British cryptographer and cypherpunk who invented Hashcash in 1997 and co-founded the blockchain company Blockstream in 2014, becoming its CEO in 2016. He is named in the Epstein files in connection with a 2014 invitation to Epstein's island and a 2014 Blockstream investment by a fund in which Epstein was a limited partner; Back says all financial ties were divested within months."
 notableConnections:

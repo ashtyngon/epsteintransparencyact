@@ -4,6 +4,7 @@ seoTitle: "Is Nicole Junkermann in the Epstein files? — German businesswoman a
 seoDescription: "Nicole Junkermann, German investor and founder of NJF Holdings, is named in the Epstein files over years of email correspondence; her spokesperson says she was deceived."
 aliases: []
 role: "German businesswoman and investor; founder of NJF Holdings"
+image: "/images/people/nicole-junkermann.jpg"
 category: named-in-documents
 shortBio: "Nicole Junkermann is a German businesswoman and investor who founded the investment firm NJF Holdings. Documents released as part of the Epstein files show she was in email correspondence with Jeffrey Epstein over several years, including after his 2008 conviction; her spokesperson said she was 'completely deceived and misled by him.' Being named is not evidence of wrongdoing."
 notableConnections:

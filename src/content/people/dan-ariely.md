@@ -4,6 +4,7 @@ seoTitle: "Dan Ariely Epstein — Duke Behavioral Economist Sought Out Convicted
 seoDescription: "Duke University behavioral economist Dan Ariely, known for research on dishonesty, sought out Jeffrey Epstein for research. Their extensive correspondence suggests the relationship extended beyond professional purposes."
 aliases: []
 role: "Duke University professor, behavioral economist"
+image: "/images/people/dan-ariely.jpg"
 category: "named-in-documents"
 shortBio: "Duke University behavioral economist and bestselling author known for research on dishonesty and irrational behavior who sought out Jeffrey Epstein for research purposes. Extensive correspondence released in 2026 suggests the relationship extended well beyond professional interactions."
 notableConnections:

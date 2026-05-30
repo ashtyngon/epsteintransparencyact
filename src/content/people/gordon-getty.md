@@ -4,6 +4,7 @@ seoTitle: "Is Gordon Getty in the Epstein files? — Businessman and composer; G
 seoDescription: "Gordon Getty, the billionaire Getty Oil heir and composer, is named in the Epstein files via 2013–2018 emails after an introduction by Robert Trivers."
 aliases: []
 role: "Businessman and classical music composer; Getty Oil heir"
+image: "/images/people/gordon-getty.jpg"
 category: named-in-documents
 shortBio: "Gordon Getty is an American businessman and classical music composer, the fourth child of oil tycoon J. Paul Getty. He is named in the Jeffrey Epstein files through email correspondence dated 2013–2018, after being introduced to Epstein by the evolutionary scientist Robert Trivers."
 notableConnections:

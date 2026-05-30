@@ -4,6 +4,7 @@ seoTitle: "Is Joshua Cooper Ramo in the Epstein files? — Author and Kissinger 
 seoDescription: "Joshua Cooper Ramo, author and Kissinger Associates vice chairman, appears in Jeffrey Epstein's calendar; the WSJ reported more than a dozen meetings, 2013–2017."
 aliases: []
 role: "Author; vice chairman and co-chief executive of Kissinger Associates"
+image: "/images/people/joshua-cooper-ramo.jpg"
 category: named-in-documents
 shortBio: "Author and foreign-affairs analyst who serves as vice chairman and co-chief executive of Kissinger Associates. The Wall Street Journal reported in April 2023 that Epstein's calendar documented more than a dozen meetings between Ramo and Jeffrey Epstein from 2013 to 2017. Ramo did not provide comment for the story."
 notableConnections:

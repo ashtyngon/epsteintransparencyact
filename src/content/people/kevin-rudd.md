@@ -4,6 +4,7 @@ seoTitle: "Is Kevin Rudd in the Epstein files? — Former Prime Minister of Aust
 seoDescription: "Kevin Rudd, former Australian PM and Ambassador to the US, is named in Epstein documents released in 2026. Rudd's office denies any meeting, correspondence or relationship."
 aliases: []
 role: "Former Prime Minister of Australia; Australian Ambassador to the United States (2023–2026)"
+image: "/images/people/kevin-rudd.jpg"
 category: official
 shortBio: "Kevin Rudd is a former Prime Minister of Australia (2007–2010 and 2013) who served as Australia's Ambassador to the United States from 2023 to 2026. His name appears in Epstein-related documents released by the US Justice Department in 2026, including emails and a meeting schedule in which Epstein and associates referenced him. Rudd's office has denied that he ever met, corresponded with, or visited Epstein, and says attempted introductions by mutual acquaintances never took place."
 notableConnections:

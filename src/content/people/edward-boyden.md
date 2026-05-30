@@ -4,6 +4,7 @@ seoTitle: "Is Edward Boyden in the Epstein files? — MIT neuroscientist"
 seoDescription: "Edward Boyden, an MIT neuroscientist, was the honoree at a 2015 Palo Alto dinner that Jeffrey Epstein referenced in unsealed emails. Being named is not evidence of wrongdoing."
 aliases: []
 role: "MIT neuroscientist"
+image: "/images/people/edward-boyden.jpg"
 category: named-in-documents
 shortBio: "Edward Boyden is an MIT neuroscientist known for pioneering optogenetics and expansion microscopy. He is named in the Epstein files only as the honoree of an August 2015 Palo Alto dinner that Jeffrey Epstein referenced in unsealed emails; there is no reported indication he corresponded with or had any relationship with Epstein."
 notableConnections:

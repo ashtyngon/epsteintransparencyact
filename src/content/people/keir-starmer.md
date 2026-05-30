@@ -5,6 +5,7 @@ seoDescription: "UK Prime Minister Keir Starmer appointed Peter Mandelson as amb
 aliases:
   - "Sir Keir Starmer"
 role: "Prime Minister of the United Kingdom"
+image: "/images/people/keir-starmer.jpg"
 category: "official"
 shortBio: "UK Prime Minister who appointed Peter Mandelson as ambassador to the United States despite warnings about his Epstein connections. Starmer fired Mandelson in September 2025 as the scandal intensified and has faced sustained calls to resign over the vetting failure."
 notableConnections:

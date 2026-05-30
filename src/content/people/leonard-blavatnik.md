@@ -4,6 +4,7 @@ seoTitle: "Is Leonard Blavatnik in the Epstein files? — British-American billi
 seoDescription: "Leonard Blavatnik, the British-American billionaire behind Access Industries, appears in Epstein-files correspondence over more than a decade, including invitations he is reported to have declined."
 aliases: []
 role: "British-American billionaire businessman; founder and chairman of Access Industries"
+image: "/images/people/leonard-blavatnik.jpg"
 category: named-in-documents
 shortBio: "Leonard Blavatnik is a Soviet-born British-American businessman and philanthropist, founder and chairman of the holding company Access Industries and owner of most of Warner Music Group. His name appears in Epstein-files correspondence released by the US Department of Justice, which documents emails and gathering invitations over more than a decade."
 notableConnections:

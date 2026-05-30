@@ -5,6 +5,7 @@ seoDescription: "Bridget Phillipson, UK Education Secretary, involved in the UK 
 aliases:
   - "Secretary Phillipson"
 role: "UK Education Secretary"
+image: "/images/people/bridget-phillipson.jpg"
 category: "official"
 shortBio: "British politician serving as Education Secretary who called on the Royal Family to cooperate with investigations into the Epstein scandal. Phillipson publicly criticized Peter Mandelson's ties to Epstein and advocated for greater transparency in the UK's response to the files."
 notableConnections:

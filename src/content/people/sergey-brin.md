@@ -4,6 +4,7 @@ seoTitle: "Is Sergey Brin in the Epstein files? — Google Co-founder"
 seoDescription: "Sergey Brin, co-founder of Google, is named in the Epstein files: 2003 emails with Ghislaine Maxwell about dinners, and a documented island visit."
 aliases: []
 role: "Co-founder of Google"
+image: "/images/people/sergey-brin.jpg"
 category: named-in-documents
 shortBio: "Sergey Brin is the co-founder of Google. He is named in the Epstein files: 2003 emails reference plans to meet Jeffrey Epstein and Ghislaine Maxwell, and documents indicate a visit to Epstein's private island. Being named is not evidence of wrongdoing."
 notableConnections:

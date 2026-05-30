@@ -4,6 +4,7 @@ seoTitle: "Is Ariane de Rothschild in the Epstein files? — CEO of the Edmond d
 seoDescription: "Ariane de Rothschild, CEO of the Edmond de Rothschild Group, appears in reporting on Epstein-related documents describing correspondence and meetings from 2013 to 2019."
 aliases: []
 role: "Banking executive; CEO of the Edmond de Rothschild Group"
+image: "/images/people/ariane-de-rothschild.jpg"
 category: associate
 shortBio: "Ariane de Rothschild is a French banker and CEO of the Edmond de Rothschild Group. A 2023 Wall Street Journal investigation reported she had more than a dozen meetings with Jeffrey Epstein, and 2026 reporting on Epstein-related documents described correspondence and meetings between 2013 and 2019. The bank says Epstein was a business acquaintance and that she had no knowledge of his conduct. Being named is not evidence of wrongdoing."
 notableConnections:

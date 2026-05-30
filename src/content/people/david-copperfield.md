@@ -4,6 +4,7 @@ seoTitle: "Is David Copperfield in the Epstein files? — Illusionist"
 seoDescription: "David Copperfield, the American illusionist, is named in Epstein-files reporting via message pads, a 2007 email and deposition testimony. He has denied a friendship."
 aliases: []
 role: "Illusionist"
+image: "/images/people/david-copperfield.jpg"
 category: named-in-documents
 shortBio: "David Copperfield is an American stage magician and illusionist. He is named in reporting on the Jeffrey Epstein files through message pads, a 2007 email and deposition testimony; his attorneys say he and Epstein were at most acquaintances. Inclusion does not imply wrongdoing."
 notableConnections:

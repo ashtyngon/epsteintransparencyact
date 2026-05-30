@@ -6,6 +6,7 @@ aliases:
   - "Kashyap Patel"
   - "Director Patel"
 role: "Director of the Federal Bureau of Investigation"
+image: "/images/people/kash-patel.jpg"
 category: "official"
 shortBio: "Director of the FBI under the second Trump administration. Patel has publicly stated there is 'no credible information' that Jeffrey Epstein trafficked his victims to other men, a position that contradicts accounts in FBI interview memos that surfaced as part of the Epstein Files Transparency Act release. The bureau's handling of victim allegations against named men has drawn sustained criticism from CNN reporting and victim advocates."
 notableConnections:

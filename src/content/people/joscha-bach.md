@@ -4,6 +4,7 @@ seoTitle: "Is Joscha Bach in the Epstein files? — AI researcher and cognitive 
 seoDescription: "Joscha Bach, a German AI researcher and cognitive scientist, is named in the Epstein files; reporting says Epstein subsidized his MIT research and they exchanged emails."
 aliases: []
 role: "German AI researcher and cognitive scientist"
+image: "/images/people/joscha-bach.jpg"
 category: named-in-documents
 shortBio: "Joscha Bach is a German cognitive scientist and artificial-intelligence researcher known for work on cognitive architectures and AI. He is named in connection with the Jeffrey Epstein files; reporting indicates Epstein subsidized his MIT Media Lab research and that the two exchanged emails."
 notableConnections:

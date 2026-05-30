@@ -4,6 +4,7 @@ seoTitle: "Is Todd Boehly in the Epstein files? — Chelsea F.C. chairman and El
 seoDescription: "Todd Boehly, chairman of Chelsea F.C. and co-founder of Eldridge Industries, appears in the Epstein files via 2011 emails that arranged business meetings."
 aliases: []
 role: "Investor; chairman and co-owner of Chelsea F.C.; co-founder and CEO of Eldridge Industries; former president of Guggenheim Partners"
+image: "/images/people/todd-boehly.jpg"
 category: named-in-documents
 shortBio: "American investor, chairman and co-owner of Chelsea F.C. and co-founder of Eldridge Industries. According to reporting on the Epstein files, 2011 emails show Jeffrey Epstein arranged two business meetings involving Boehly, then a managing partner at Guggenheim Partners, tied to a financial deal and a bid to buy the Silverstone racetrack."
 notableConnections:
