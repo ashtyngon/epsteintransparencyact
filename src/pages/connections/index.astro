@@ -14,7 +14,10 @@ import {
 
 const people = await getCollection('people');
 const articles = await getCollection('articles', (a) => a.data.status === 'published');
-const { nodes, edges } = buildGlobalGraph(people, articles, { excludeHubs: true });
+const { nodes, edges } = buildGlobalGraph(people, articles, {
+  excludeHubs: true,
+  dropIsolated: true,
+});
 
 const categories = CATEGORY_ORDER.filter((cat) => people.some((p) => p.data.category === cat));
 const totalCount = people.length;
@@ -37,10 +40,11 @@ const jsonLd = connectionsPageJsonLd(people.map((p) => ({ name: p.data.name, slu
         The Epstein Network
       </h1>
       <p class="text-base text-white/60 leading-relaxed max-w-2xl mb-2">
-        How the {totalCount} people named in the files connect — {nodes.length} individuals linked by
-        {edges.length} relationships drawn from shared news coverage and documented connections. Click
-        any node to open that person's profile. Jeffrey Epstein and Ghislaine Maxwell are omitted from
-        the map because they connect to nearly everyone.
+        How the {totalCount} people named in the files connect — {nodes.length} of them share
+        {edges.length} documented links drawn from co-reporting and the files themselves.
+        <span class="text-white/80">Hover a name to trace its connections; click to open a profile.</span>
+        Jeffrey Epstein and Ghislaine Maxwell are omitted because they connect to nearly everyone;
+        people with no shared link are listed in the full roster below.
       </p>
       <p class="text-xs text-white/30 leading-relaxed max-w-2xl">
         Links reflect that two people were named together in coverage or documents — not a verified
@@ -71,16 +75,51 @@ const jsonLd = connectionsPageJsonLd(people.map((p) => ({ name: p.data.name, slu
     <!-- Graph (progressive enhancement) -->
     <div
       id="graph"
-      class="relative w-full h-[clamp(420px,68vh,760px)] border border-border bg-surface"
+      class="graph-stage relative w-full h-[clamp(460px,74vh,820px)] overflow-hidden rounded-sm"
       role="img"
+      data-graph-version={`${nodes.length}x${edges.length}`}
       aria-label={`Network graph of ${nodes.length} people named in the Epstein files. A full browsable list follows below.`}
     >
-      <div id="graph-loading" class="absolute inset-0 flex items-center justify-center text-sm text-text-muted font-mono">
+      <div id="graph-loading" class="absolute inset-0 flex items-center justify-center text-sm text-white/40 font-mono">
         Loading network&hellip;
+      </div>
+
+      <!-- Floating tooltip (hover) -->
+      <div
+        id="graph-tooltip"
+        class="pointer-events-none absolute z-20 hidden max-w-[240px] -translate-x-1/2 -translate-y-full rounded-md border border-white/15 bg-[#0b1020]/90 px-3 py-2 shadow-xl backdrop-blur-md"
+      >
+        <div id="tt-name" class="text-[13px] font-semibold leading-tight text-white"></div>
+        <div id="tt-meta" class="mt-0.5 flex items-center gap-1.5 text-[11px] font-mono leading-tight text-white/55"></div>
+      </div>
+
+      <!-- Control cluster -->
+      <div class="absolute right-3 top-3 z-30 flex flex-col gap-1.5">
+        <button id="ctl-rotate" type="button" aria-pressed="true" title="Pause rotation"
+          class="graph-ctl flex h-8 w-8 items-center justify-center rounded-md border border-white/15 bg-white/10 text-white/80 backdrop-blur-md hover:bg-white/20 hover:text-white transition-colors">
+          <svg class="icon-pause h-4 w-4" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><rect x="4" y="3" width="3" height="10" rx="1"/><rect x="9" y="3" width="3" height="10" rx="1"/></svg>
+          <svg class="icon-play hidden h-4 w-4" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M5 3.5v9a.5.5 0 0 0 .77.42l7-4.5a.5.5 0 0 0 0-.84l-7-4.5A.5.5 0 0 0 5 3.5Z"/></svg>
+          <span class="sr-only">Toggle rotation</span>
+        </button>
+        <button id="ctl-zoom-in" type="button" title="Zoom in"
+          class="graph-ctl flex h-8 w-8 items-center justify-center rounded-md border border-white/15 bg-white/10 text-white/80 backdrop-blur-md hover:bg-white/20 hover:text-white transition-colors">
+          <svg class="h-4 w-4" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M8 4v8M4 8h8"/></svg>
+          <span class="sr-only">Zoom in</span>
+        </button>
+        <button id="ctl-zoom-out" type="button" title="Zoom out"
+          class="graph-ctl flex h-8 w-8 items-center justify-center rounded-md border border-white/15 bg-white/10 text-white/80 backdrop-blur-md hover:bg-white/20 hover:text-white transition-colors">
+          <svg class="h-4 w-4" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M4 8h8"/></svg>
+          <span class="sr-only">Zoom out</span>
+        </button>
+        <button id="ctl-reset" type="button" title="Reset view"
+          class="graph-ctl flex h-8 w-8 items-center justify-center rounded-md border border-white/15 bg-white/10 text-white/80 backdrop-blur-md hover:bg-white/20 hover:text-white transition-colors">
+          <svg class="h-4 w-4" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 8a5 5 0 1 1-1.46-3.54M13 3v2.5h-2.5"/></svg>
+          <span class="sr-only">Reset view</span>
+        </button>
       </div>
     </div>
     <p class="mt-2 text-xs text-text-muted font-mono">
-      Drag to pan &middot; scroll to zoom &middot; click a node to open a profile
+      Hover a node to trace its links &middot; drag a node to pull it free &middot; scroll to zoom &middot; click to open a profile
     </p>
     <noscript>
       <p class="mt-2 text-sm text-text-muted">
@@ -122,21 +161,72 @@ const jsonLd = connectionsPageJsonLd(people.map((p) => ({ name: p.data.name, slu
 <script>
   import Graph from 'graphology';
   import Sigma from 'sigma';
+  import { categoryLabel } from '../../utils/categories';
 
-  const container = document.getElementById('graph');
+  const container = document.getElementById('graph') as HTMLElement | null;
   const loading = document.getElementById('graph-loading');
+  const tooltip = document.getElementById('graph-tooltip') as HTMLElement | null;
+  const ttName = document.getElementById('tt-name');
+  const ttMeta = document.getElementById('tt-meta');
+
+  const DIM_NODE = '#222c44';     // receding node when out of the hovered ego-network (dark stage)
+  const ROTATE_SPEED = 0.05;      // radians per second — calm, ambient spin
+  const IDLE_MS = 2200;           // resume rotation this long after an interaction
+  // At rest only the strongest co-mention ties are drawn (a clean skeleton);
+  // hovering a node reveals ALL of its links. This keeps 700 edges from
+  // stacking into a white blob in the dense centre.
+  const REST_MIN_WEIGHT = 6;
+  const restEdge = (w: number) =>
+    `rgba(150,172,225,${Math.min(0.18, 0.06 + w * 0.008).toFixed(3)})`;
+
+  // "#rrggbb" -> "rgba(r,g,b,a)" so highlighted edges can take a translucent tint.
+  function rgba(hex: string, a: number): string {
+    const n = parseInt(hex.slice(1), 16);
+    return `rgba(${(n >> 16) & 255}, ${(n >> 8) & 255}, ${n & 255}, ${a})`;
+  }
+
+  // Custom label: light text with a dark halo so names stay legible over the
+  // glowing web of edges. Replaces Sigma's default (which paints a white box,
+  // wrong for a dark stage). Used for both resting and hovered labels.
+  function drawNodeLabel(context: CanvasRenderingContext2D, data: any, settings: any) {
+    if (!data.label) return;
+    const size = settings.labelSize as number;
+    context.font = `${settings.labelWeight} ${size}px ${settings.labelFont}`;
+    const x = data.x + data.size + 4;
+    const y = data.y + size / 3;
+    context.lineWidth = 3.5;
+    context.lineJoin = 'round';
+    context.strokeStyle = 'rgba(6,9,18,0.92)';
+    context.strokeText(data.label, x, y);
+    context.fillStyle = data.highlighted ? '#ffffff' : '#e7eefb';
+    context.fillText(data.label, x, y);
+  }
+
+  // Hover: a bright focus ring around the node under the cursor, then its label.
+  function drawNodeHover(context: CanvasRenderingContext2D, data: any, settings: any) {
+    context.beginPath();
+    context.arc(data.x, data.y, data.size + 3.5, 0, Math.PI * 2);
+    context.lineWidth = 2;
+    context.strokeStyle = 'rgba(255,255,255,0.92)';
+    context.stroke();
+    drawNodeLabel(context, data, settings);
+  }
 
   async function init() {
     if (!container) return;
-    let data;
+
+    // Version the request with a content signature so a rebuild busts the
+    // cache (graph.json carries a 1-hour max-age) while loads within one build
+    // still hit it.
+    const version = container.dataset.graphVersion || '';
+    let data: { nodes: any[]; edges: any[] };
     try {
-      const res = await fetch('/connections/graph.json');
-      data = await res.json();
+      data = await (await fetch(`/connections/graph.json?v=${version}`)).json();
     } catch {
       if (loading) loading.textContent = 'Could not load the network.';
       return;
     }
-    if (!data || !data.nodes || data.nodes.length === 0) {
+    if (!data?.nodes?.length) {
       if (loading) loading.textContent = 'No network data available.';
       return;
     }
@@ -148,91 +238,299 @@ const jsonLd = connectionsPageJsonLd(people.map((p) => ({ name: p.data.name, slu
         x: n.x,
         y: n.y,
         size: n.size,
-        color: n.color,
+        // the muted "other" grey vanishes on the dark stage — lift it
+        color: n.category === 'other' ? '#8a96ab' : n.color,
         category: n.category,
+        degree: n.degree,
       });
     }
     for (const e of data.edges) {
       if (!graph.hasNode(e.source) || !graph.hasNode(e.target)) continue;
       if (graph.hasEdge(e.source, e.target)) continue;
       graph.addEdge(e.source, e.target, {
-        size: Math.min(3, 0.4 + e.weight * 0.5),
-        color: e.manual ? '#9ca3af' : '#dcdcd8',
+        // thin hairlines at rest so even a tight cluster reads as a delicate
+        // thatch, not a solid blob; the hover reducer thickens the ego-web
+        size: Math.max(0.5, Math.min(1.6, 0.4 + e.weight * 0.05)),
+        color: restEdge(e.weight),
+        weight: e.weight,
+        manual: e.manual,
       });
     }
 
     if (loading) loading.remove();
 
     const renderer = new Sigma(graph, container, {
-      defaultEdgeColor: '#e2e2e0',
-      labelColor: { color: '#1a1a1a' },
-      labelFont: 'Inter, system-ui, sans-serif',
+      defaultEdgeColor: 'rgba(150,170,220,0.12)',
+      labelColor: { color: '#e7eefb' },
+      labelFont: "'Inter', system-ui, sans-serif",
       labelSize: 12,
-      labelDensity: 0.5,
-      labelRenderedSizeThreshold: 7,
+      labelWeight: '600',
+      labelDensity: 0.85,
+      labelGridCellSize: 80,
+      labelRenderedSizeThreshold: 13,
+      defaultDrawNodeLabel: drawNodeLabel,
+      defaultDrawNodeHover: drawNodeHover,
       zIndex: true,
+      minCameraRatio: 0.18,
+      maxCameraRatio: 1.6,
     });
+    const camera = renderer.getCamera();
 
+    // The container is much wider than tall, so Sigma fits the network to its
+    // height, leaving almost no vertical margin. Since the whole thing rotates,
+    // a hub that sits far out horizontally would swing past the top/bottom edge
+    // and clip. Zoom out just enough that the network's bounding circle (its
+    // rotation envelope) always fits the shorter dimension.
+    const FIT_MARGIN_PX = 46;
+    let maxRadius = 0;
+    graph.forEachNode((_n, a) => {
+      const r = Math.hypot(a.x, a.y);
+      if (r > maxRadius) maxRadius = r;
+    });
+    const dims0 = renderer.getDimensions();
+    const halfMin = Math.min(dims0.width, dims0.height) / 2;
+    const envelopePx = maxRadius * renderer.getGraphToViewportRatio();
+    const FIT_RATIO = Math.max(1, envelopePx / Math.max(1, halfMin - FIT_MARGIN_PX));
+    camera.setState({ ratio: FIT_RATIO });
+
+    // ── interaction state ───────────────────────────────────────────
     let activeCat = 'all';
-    let focusNode: string | null = null;
+    let hovered: string | null = null;
+    let neighbors = new Set<string>();
+    let dragged: string | null = null;
+    let dragging = false;
+    // Resting view is a clean constellation; the strong-tie skeleton is shown
+    // only while a category filter is active (far fewer edges, stays legible).
+    let showRestEdges = false;
 
-    renderer.setSetting('nodeReducer', (node, dataAttr) => {
-      const res: Record<string, unknown> = { ...dataAttr };
-      if (activeCat !== 'all' && dataAttr.category !== activeCat) {
-        res.hidden = true;
-      }
-      if (focusNode && node === focusNode) {
-        res.highlighted = true;
-        res.size = (dataAttr.size as number) * 1.7;
-        res.zIndex = 2;
-      }
-      return res;
-    });
+    // ── rotation state ──────────────────────────────────────────────
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let rotateOn = !reduceMotion;
+    let lastInteraction = 0;
+    let onScreen = true;
+    let lastT = 0;
+    const bump = () => { lastInteraction = performance.now(); };
 
-    renderer.setSetting('edgeReducer', (edge, dataAttr) => {
-      const res: Record<string, unknown> = { ...dataAttr };
-      if (activeCat !== 'all') {
-        const ext = graph.extremities(edge);
-        if (
-          graph.getNodeAttribute(ext[0], 'category') !== activeCat ||
-          graph.getNodeAttribute(ext[1], 'category') !== activeCat
-        ) {
-          res.hidden = true;
+    const catOk = (node: string) =>
+      activeCat === 'all' || graph.getNodeAttribute(node, 'category') === activeCat;
+
+    // Filter controls (wired up at the end; queried here so reset() can reach them).
+    const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>('.cat-filter'));
+    const sections = Array.from(document.querySelectorAll<HTMLElement>('.cat-section'));
+    function syncFilterButtons() {
+      buttons.forEach((b) => {
+        const on = (b.dataset.cat || 'all') === activeCat;
+        b.setAttribute('aria-pressed', String(on));
+        b.classList.toggle('bg-primary', on);
+        b.classList.toggle('text-white', on);
+        b.classList.toggle('border-primary', on);
+        b.classList.toggle('border-border', !on);
+        b.classList.toggle('text-text-muted', !on);
+      });
+    }
+
+    // ── reducers: category filter + ego-network focus/context ───────
+    renderer.setSetting('nodeReducer', (node, d) => {
+      const res: Record<string, unknown> = { ...d };
+      if (!catOk(node)) { res.hidden = true; return res; }
+      if (hovered) {
+        if (node === hovered) {
+          res.highlighted = true;
+          res.forceLabel = true;
+          res.zIndex = 3;
+          res.size = (d.size as number) * 1.18;
+        } else if (neighbors.has(node)) {
+          res.forceLabel = true;
+          res.zIndex = 2;
+        } else {
+          // recede into the dark, but keep a hint of the category hue
+          res.color = DIM_NODE;
+          res.label = '';
+          res.size = (d.size as number) * 0.7;
+          res.zIndex = 0;
         }
       }
       return res;
     });
 
-    renderer.on('clickNode', ({ node }: { node: string }) => {
+    renderer.setSetting('edgeReducer', (edge, d) => {
+      const res: Record<string, unknown> = { ...d };
+      const [s, t] = graph.extremities(edge);
+      if (!catOk(s) || !catOk(t)) { res.hidden = true; return res; }
+      if (hovered) {
+        // On hover, draw the hovered node's WHOLE web (every weight), each link
+        // glowing in the colour of the node it reaches; hide all others.
+        if (s === hovered || t === hovered) {
+          const other = s === hovered ? t : s;
+          res.color = rgba(graph.getNodeAttribute(other, 'color'), 0.9);
+          res.size = Math.max(1.5, Math.min(5, 0.9 + ((d.weight as number) || 1) * 0.22));
+          res.zIndex = 1;
+        } else {
+          res.hidden = true;
+        }
+      } else if (!showRestEdges) {
+        // resting state: a clean constellation — edges ignite only on hover
+        res.hidden = true;
+      } else if (((d.weight as number) || 0) < REST_MIN_WEIGHT && !(d.manual as boolean)) {
+        res.hidden = true;
+      }
+      return res;
+    });
+
+    // ── hover: reveal the ego-network + tooltip ─────────────────────
+    function setHover(node: string | null) {
+      hovered = node;
+      neighbors = node ? new Set(graph.neighbors(node)) : new Set();
+      renderer.refresh({ skipIndexation: true });
+    }
+    function positionTooltip(node: string) {
+      if (!tooltip) return;
+      const { x, y } = graph.getNodeAttributes(node);
+      const p = renderer.graphToViewport({ x, y });
+      const off = (graph.getNodeAttribute(node, 'size') as number) + 12;
+      tooltip.style.left = `${p.x}px`;
+      tooltip.style.top = `${p.y - off}px`;
+    }
+    function showTooltip(node: string) {
+      if (!tooltip || !ttName || !ttMeta) return;
+      const a = graph.getNodeAttributes(node);
+      const deg = a.degree as number;
+      ttName.textContent = a.label;
+      const cat = categoryLabel[a.category] || a.category;
+      ttMeta.innerHTML =
+        `<span style="display:inline-block;width:7px;height:7px;border-radius:9999px;background:${a.color}"></span>` +
+        `<span>${cat} · ${deg} connection${deg === 1 ? '' : 's'}</span>`;
+      tooltip.classList.remove('hidden');
+      positionTooltip(node);
+    }
+
+    renderer.on('enterNode', ({ node }) => {
+      setHover(node);
+      showTooltip(node);
+      container.style.cursor = 'pointer';
+    });
+    renderer.on('leaveNode', () => {
+      setHover(null);
+      tooltip?.classList.add('hidden');
+      container.style.cursor = '';
+      bump();
+    });
+    renderer.on('clickNode', ({ node }) => {
       window.location.href = '/people/' + node + '/';
     });
 
-    // Focus a node from ?focus=slug (deep link from a profile).
+    // ── drag a node free of the layout ──────────────────────────────
+    renderer.on('downNode', ({ node }) => {
+      dragging = true;
+      dragged = node;
+      graph.setNodeAttribute(node, 'highlighted', true);
+      if (!renderer.getCustomBBox()) renderer.setCustomBBox(renderer.getBBox());
+    });
+    const captor = renderer.getMouseCaptor();
+    captor.on('mousemovebody', (e) => {
+      if (!dragging || !dragged) return;
+      const pos = renderer.viewportToGraph(e);
+      graph.setNodeAttribute(dragged, 'x', pos.x);
+      graph.setNodeAttribute(dragged, 'y', pos.y);
+      positionTooltip(dragged);
+      e.preventSigmaDefault();
+      e.original.preventDefault();
+      e.original.stopPropagation();
+    });
+    function endDrag() {
+      if (dragged) graph.removeNodeAttribute(dragged, 'highlighted');
+      dragging = false;
+      dragged = null;
+      bump();
+    }
+    captor.on('mouseup', endDrag);
+    captor.on('mousedown', bump);
+    captor.on('wheel', bump);
+    container.addEventListener('touchstart', bump, { passive: true });
+
+    // keep the tooltip pinned to its node as the view moves
+    camera.on('updated', () => { if (hovered) positionTooltip(hovered); });
+
+    // ── ambient rotation loop ───────────────────────────────────────
+    function frame(t: number) {
+      requestAnimationFrame(frame);
+      if (!lastT) { lastT = t; return; }
+      const dt = Math.min(0.05, (t - lastT) / 1000);
+      lastT = t;
+      if (
+        rotateOn && !hovered && !dragging && onScreen &&
+        !document.hidden && t - lastInteraction > IDLE_MS
+      ) {
+        camera.setState({ angle: camera.angle + ROTATE_SPEED * dt });
+      }
+    }
+    requestAnimationFrame(frame);
+
+    if ('IntersectionObserver' in window) {
+      new IntersectionObserver(
+        ([entry]) => { onScreen = entry.isIntersecting; },
+        { threshold: 0.12 },
+      ).observe(container);
+    }
+
+    // ── controls (rotate / zoom / reset) ────────────────────────────
+    const rotateBtn = document.getElementById('ctl-rotate');
+    function syncRotateBtn() {
+      if (!rotateBtn) return;
+      rotateBtn.setAttribute('aria-pressed', String(rotateOn));
+      rotateBtn.setAttribute('title', rotateOn ? 'Pause rotation' : 'Resume rotation');
+      rotateBtn.querySelector('.icon-pause')?.classList.toggle('hidden', !rotateOn);
+      rotateBtn.querySelector('.icon-play')?.classList.toggle('hidden', rotateOn);
+    }
+    rotateBtn?.addEventListener('click', () => {
+      rotateOn = !rotateOn;
+      bump();
+      syncRotateBtn();
+    });
+    syncRotateBtn();
+
+    document.getElementById('ctl-zoom-in')?.addEventListener('click', () => {
+      bump();
+      camera.animatedZoom({ duration: 250 });
+    });
+    document.getElementById('ctl-zoom-out')?.addEventListener('click', () => {
+      bump();
+      camera.animatedUnzoom({ duration: 250 });
+    });
+    document.getElementById('ctl-reset')?.addEventListener('click', () => {
+      bump();
+      setHover(null);
+      tooltip?.classList.add('hidden');
+      activeCat = 'all';
+      showRestEdges = false;
+      syncFilterButtons();
+      sections.forEach((s) => (s.style.display = ''));
+      camera.animate({ x: 0.5, y: 0.5, ratio: FIT_RATIO, angle: 0 }, { duration: 500 });
+      renderer.refresh();
+    });
+
+    // ── focus deep-link (?focus=slug from a profile) ────────────────
     const focus = new URLSearchParams(window.location.search).get('focus');
     if (focus && graph.hasNode(focus)) {
-      focusNode = focus;
-      renderer.refresh();
+      rotateOn = false;
+      syncRotateBtn();
+      setHover(focus);
+      showTooltip(focus);
       requestAnimationFrame(() => {
         const pos = renderer.getNodeDisplayData(focus);
-        if (pos) renderer.getCamera().animate({ x: pos.x, y: pos.y, ratio: 0.35 }, { duration: 700 });
+        // gentle push-in that keeps most of the ego-web in frame (hubs reach
+        // right across the graph), centred on the focused person
+        if (pos) camera.animate({ x: pos.x, y: pos.y, ratio: FIT_RATIO * 0.82 }, { duration: 800 });
       });
     }
 
-    // Category filter — drives both the graph and the roster.
-    const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>('.cat-filter'));
-    const sections = Array.from(document.querySelectorAll<HTMLElement>('.cat-section'));
+    // ── category filter — drives both the graph and the roster ──────
     buttons.forEach((btn) => {
       btn.addEventListener('click', () => {
         activeCat = btn.dataset.cat || 'all';
-        buttons.forEach((b) => {
-          const on = b === btn;
-          b.setAttribute('aria-pressed', String(on));
-          b.classList.toggle('bg-primary', on);
-          b.classList.toggle('text-white', on);
-          b.classList.toggle('border-primary', on);
-          b.classList.toggle('border-border', !on);
-          b.classList.toggle('text-text-muted', !on);
-        });
+        showRestEdges = activeCat !== 'all';
+        bump();
+        syncFilterButtons();
         sections.forEach((s) => {
           s.style.display = activeCat === 'all' || s.dataset.cat === activeCat ? '' : 'none';
         });
@@ -243,3 +541,16 @@ const jsonLd = connectionsPageJsonLd(people.map((p) => ({ name: p.data.name, slu
 
   init();
 </script>
+
+<style>
+  /* Dark "investigation board" stage — a deep field that makes the
+     category-coloured nodes glow and keeps the faint edge-web atmospheric
+     rather than a hairball. */
+  .graph-stage {
+    background:
+      radial-gradient(115% 105% at 50% 14%, #1c2742 0%, #111a2e 46%, #0a0f1c 78%, #070a13 100%);
+    box-shadow:
+      inset 0 0 140px 10px rgba(0, 0, 0, 0.55),
+      inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+  }
+</style>

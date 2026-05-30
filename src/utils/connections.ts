@@ -126,9 +126,9 @@ export function getConnectionsFor(
 export function buildGlobalGraph(
   people: CollectionEntry<'people'>[],
   articles: CollectionEntry<'articles'>[],
-  opts: { excludeHubs?: boolean; minWeight?: number } = {},
+  opts: { excludeHubs?: boolean; minWeight?: number; dropIsolated?: boolean } = {},
 ): { nodes: GraphNode[]; edges: GraphEdge[] } {
-  const { excludeHubs = true, minWeight = 1 } = opts;
+  const { excludeHubs = true, minWeight = 1, dropIsolated = false } = opts;
   const peopleIndex = getPeopleIndex(people);
   const included = (slug: string) =>
     peopleIndex.has(slug) && (!excludeHubs || !HUB_SLUGS.includes(slug));
@@ -184,11 +184,16 @@ export function buildGlobalGraph(
   const nodes: GraphNode[] = [];
   for (const p of people) {
     if (!included(p.id)) continue;
+    const d = degree[p.id] || 0;
+    // A node-link diagram should only show nodes that actually link to something.
+    // Isolated people (no co-mention edge once hubs are excluded) remain fully
+    // browsable in the roster below the graph — they just don't belong in the map.
+    if (dropIsolated && d === 0) continue;
     nodes.push({
       id: p.id,
       name: p.data.name,
       category: p.data.category,
-      degree: degree[p.id] || 0,
+      degree: d,
       articleTotal: articleTotal[p.id] || 0,
     });
   }
