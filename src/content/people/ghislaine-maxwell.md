@@ -7,7 +7,7 @@ aliases:
   - "G. Maxwell"
 role: "Convicted sex trafficker, Epstein's primary associate"
 category: "associate"
-shortBio: "British socialite and daughter of media mogul Robert Maxwell. Convicted in December 2021 on five federal counts including sex trafficking of a minor for her role in recruiting and grooming girls for Jeffrey Epstein. Sentenced to 20 years in federal prison. Currently incarcerated at FPC Bryan, Texas."
+shortBio: "British socialite and daughter of media mogul Robert Maxwell. Convicted in December 2021 on five federal counts including sex trafficking of a minor for her role in recruiting and grooming girls for Jeffrey Epstein. Sentenced to 20 years in federal prison. Currently incarcerated at FPC Bryan, Texas. After she cooperated with the DOJ in 2025, a 2026 pardon debate followed; acting AG Todd Blanche told the Senate the department would not recommend clemency, though only Trump holds the pardon power."
 notableConnections:
   - jeffrey-epstein
   - virginia-giuffre
@@ -120,6 +120,12 @@ Maxwell is currently incarcerated at FPC Bryan, a minimum-security federal priso
 The transfer came days after Maxwell met with Deputy Attorney General Todd Blanche. According to the Justice Department, Maxwell initiated the contact; Blanche interviewed her over two days, July 24 and July 25, 2025, at the U.S. attorney's office in Tallahassee, Florida, with the stated purpose of hearing any information she had about others who may have committed crimes. The Justice Department later released transcripts of those interviews. The move to a minimum-security camp — unusual given the nature of her convictions — drew scrutiny from members of Congress.
 
 Maxwell was also subpoenaed by the House Oversight Committee. In a closed-door deposition, she repeatedly invoked her Fifth Amendment right against self-incrimination and declined to answer the committee's questions; her attorney said she would be willing to testify if granted clemency.
+
+## The 2026 Pardon Question
+
+Maxwell's cooperation revived a question that has hung over the case: whether [Donald Trump](/people/donald-trump) might pardon or commute the sentence of the only person convicted alongside Epstein. Her attorney has said she would speak more fully if granted clemency, and through 2026 the prospect drew both political pressure and speculation, with House Republicans openly divided over whether she should receive leniency in exchange for testimony.
+
+Acting Attorney General [Todd Blanche](/people/todd-blanche) — who had conducted the 2025 proffer interviews — sought to tamp down the speculation. At a Senate hearing on May 19, 2026, Sen. Chris Van Hollen pressed him to commit that the Justice Department would not recommend a pardon for Maxwell. "Yes, I can commit to that, of course," Blanche replied. The commitment binds only the department's recommendation: the pardon power belongs solely to the president, who can act regardless of what the DOJ advises. Trump has said "nobody's asked me to do it" while noting that he is "allowed to do it."
 
 ## Role in the Broader Network
 

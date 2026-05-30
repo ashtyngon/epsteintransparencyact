@@ -9,7 +9,7 @@ aliases:
   - "HRH Prince Andrew"
 role: "British royal, former Duke of York"
 category: "named-in-documents"
-shortBio: "British royal whose friendship with Epstein, facilitated through Ghislaine Maxwell, led to sexual abuse allegations by Virginia Giuffre, a disastrous 2019 BBC interview, and a 2022 civil lawsuit settled out of court for an undisclosed sum with no admission of liability. In October 2025 he gave up the use of his titles and was then stripped of his royal styles, including 'Prince' and 'Duke of York'. He was arrested in February 2026 on suspicion of misconduct in public office and released under investigation. He has consistently denied the allegations against him."
+shortBio: "British royal whose friendship with Epstein, facilitated through Ghislaine Maxwell, led to sexual abuse allegations by Virginia Giuffre, a disastrous 2019 BBC interview, and a 2022 civil lawsuit settled out of court for an undisclosed sum with no admission of liability. In October 2025 he gave up the use of his titles and was then stripped of his royal styles, including 'Prince' and 'Duke of York'. He was arrested in February 2026 on suspicion of misconduct in public office and released under investigation. In May 2026 the UK government released confidential files showing he had forwarded official trade-mission reports — one marked confidential — to Epstein while serving as a trade envoy. He has consistently denied the allegations against him."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
@@ -119,6 +119,14 @@ These revelations renewed calls in the British press and Parliament for Andrew t
 ## Arrest
 
 On February 19, 2026 — Andrew's birthday — Thames Valley Police arrested Andrew Mountbatten-Windsor on suspicion of misconduct in public office. The arrest followed reports that, while serving as a UK trade envoy around 2010, he had shared confidential government information with Jeffrey Epstein, including reports on official trips to destinations in Asia. He was questioned and, after several hours, released "under investigation," meaning he was neither charged nor exonerated. Commentators noted it was the first arrest of a senior British royal in centuries. The arrest was not tied to the sexual-abuse allegations themselves, and Andrew has consistently denied any wrongdoing.
+
+## The May 2026 Trade-Envoy Files
+
+On May 21, 2026, the UK government published a tranche of previously confidential files documenting Andrew's appointment and conduct as the country's "special representative for international trade and investment," a role he held from 2001 to 2011. The documents were released in response to a "humble address" — a parliamentary mechanism a lawmaker had invoked in February, after Andrew's arrest, to compel the government to lay the records before Parliament.
+
+The files put detail behind the misconduct allegation. Emails signed "A" and bearing the signature "HRH The Duke of York KG" forwarded official material to Epstein, including "visit reports" from Vietnam, Singapore, Hong Kong, and Shenzhen, China, produced during a 2010 Southeast Asia tour, and a document described as a "confidential brief produced by the Provincial Reconstruction Team in Helmand Province for International Investment Opportunities."
+
+The documents also showed how Andrew obtained the role. The head of Britain's trade body wrote that "the Queen is very keen that the Duke of York should take on a prominent role in the promotion of national interests" — a reference to the late Queen Elizabeth II, Andrew's mother. Presenting the files, Trade Minister Chris Bryant told lawmakers his department had "found no evidence that a formal due diligence or vetting process was undertaken" before Andrew's appointment, and that the government was cooperating with the Thames Valley Police investigation.
 
 ## What Is and Is Not Established
 
