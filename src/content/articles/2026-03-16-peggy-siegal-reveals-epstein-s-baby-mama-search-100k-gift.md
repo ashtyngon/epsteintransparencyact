@@ -9,6 +9,7 @@ summary: "A prominent Hollywood publicist has disclosed new details about Jeffre
 people:
   - jeffrey-epstein
   - peggy-siegal
+  - mohammed-bin-salman
 tags:
   - associates
   - investigation
