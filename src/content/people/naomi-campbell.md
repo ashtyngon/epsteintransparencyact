@@ -1,47 +1,59 @@
 ---
 name: "Naomi Campbell"
-seoTitle: "Naomi Campbell & Epstein — Emails, Flights, Post-Conviction Contact"
-seoDescription: "DOJ emails show years of correspondence between Naomi Campbell and Jeffrey Epstein, including coordinated flights and property meetings — continuing after his 2008 conviction."
+seoTitle: "Naomi Campbell & Epstein — Emails, Files, Post-Conviction Contact"
+seoDescription: "DOJ files released in 2026 name Naomi Campbell nearly 300 times, documenting emails and event invitations that continued after Epstein's 2008 conviction. Campbell denies any wrongdoing and says she was unaware of his crimes."
 aliases: []
 role: "Supermodel, founder of Fashion for Relief"
 category: "named-in-documents"
-shortBio: "British supermodel whose documented correspondence with Jeffrey Epstein spanned 2002 to 2010, including coordinated flights on Epstein's aircraft and meetings at his properties. Contact continued after his 2008 conviction. Campbell called Epstein 'an acquaintance' in 2020 and denied knowledge of illegal activity. DOJ emails released in 2026 showed the relationship was more extensive than her public statements indicated."
+shortBio: "British supermodel whose name appears nearly 300 times in the Epstein files released by the DOJ in 2026. Records — emails, scheduling notes and address-book entries kept by Epstein's staff — show contact over roughly 2001 to 2016, including event invitations she extended to him that continued after his 2008 conviction. Campbell has not been accused of any crime; she says she was unaware of his criminal conduct before his 2019 arrest and stands in solidarity with survivors."
 notableConnections:
   - jeffrey-epstein
   - ghislaine-maxwell
 firstMentionedDate: 2020-07-08
 sensitive: false
 sources:
-  - title: "Epstein Files: Naomi Campbell — New York Times"
-    url: "https://www.nytimes.com/2026/02/15/style/epstein-files-naomi-campbell.html"
+  - title: "Naomi Campbell Gave Jeffrey Epstein Access to A-List Parties and Fashion Events, But He Didn't Let Her Use His Private Jet — Yahoo"
+    url: "https://www.yahoo.com/entertainment/celebrity/articles/naomi-campbell-gave-jeffrey-epstein-013602188.html"
+  - title: "Naomi Campbell had way more contact with Epstein than previously believed, files reveal — Yahoo"
+    url: "https://www.yahoo.com/entertainment/celebrity/articles/naomi-campbell-had-way-more-221406267.html"
   - title: "Supermodel Naomi Campbell Stayed In Epstein's Orbit But Denies Ties With His Illegal Dealings — Black Enterprise"
-    url: "https://www.blackenterprise.com/supermodel-naomi-campbell-stayed-in-epsteins-orbit-but-denies-ties-with-his-illegal-dealings/"
+    url: "https://www.blackenterprise.com/naomi-cambell-jeffrey-epstein-deny/"
+  - title: "'Don't Come At Me' — Naomi Campbell Breaks Her Silence As Epstein Files Mention Her Nearly 300 Times — MadameNoire"
+    url: "https://madamenoire.com/1659243/naomi-campbell-epstein-files/"
+  - title: "Massive trove of Epstein files released by DOJ — CBS News"
+    url: "https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/"
+  - title: "Naomi Campbell — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Naomi_Campbell"
 ---
 
-Naomi Campbell is a British supermodel and founder of Fashion for Relief, a charitable organization established in 2005. DOJ emails released in February 2026 documented years of correspondence between Campbell and [Jeffrey Epstein](/people/jeffrey-epstein), revealing a relationship more extensive than her prior public statements suggested.
+Naomi Campbell is a British supermodel and founder of Fashion for Relief, a charitable initiative she launched in 2005. Files released by the U.S. Department of Justice in 2026 named Campbell nearly 300 times, documenting years of contact with [Jeffrey Epstein](/people/jeffrey-epstein). Campbell has not been accused of any crime, and she has said she was unaware of his criminal conduct.
 
-## DOJ Email Revelations
+## Epstein Files
 
-The New York Times reported in February 2026 that [released DOJ emails](/news/2026-02-15-naomi-campbell-s-epstein-ties-exposed-in-released-files) showed correspondence between Campbell and Epstein spanning from 2002 to 2010, with multiple exchanges per year after 2005.
+The DOJ released its Epstein files in 2026 under the Epstein Files Transparency Act, a release that included millions of documents. The New York Times reported that Campbell's name appeared in nearly 300 of the records, though some were duplicates. The materials referencing her are largely emails, address-book entries, call sheets and scheduling notes maintained by Epstein and his staff, including his assistant Lesley Groff.
 
-The emails documented:
-- Coordination of flights on Epstein's private aircraft
-- Meetings at Epstein's properties in Manhattan and the U.S. Virgin Islands
-- Social invitations including dinners at Epstein's townhouse
-- Epstein introducing Campbell to potential donors for her charity work in Africa
+The records indicate Campbell and Epstein were in contact over a period of years, with mentions of travel logistics, event invitations and meetings arranged through his assistants. Reporting and the documents place their acquaintance from around 2001 into at least the mid-2010s.
 
-One email chain coordinated Campbell's travel schedule with Epstein's assistant, discussing pickup times and locations.
+## What the Records Show
+
+According to outlets that reviewed the released files:
+
+- Campbell invited Epstein to events, including a 2010 Dolce & Gabbana gathering in Paris (which he briefly attended) and a 2010 NEON children's charity event in Moscow. He was invited to, but did not attend, a birthday celebration of hers in France.
+- Emails indicate Campbell planned to meet Epstein at his New York mansion. Her attorney has described "3 or 4 business meetings" at his home office; the records do not establish the nature of any social relationship beyond this.
+- In January 2016, emails show Campbell unsuccessfully requested use of Epstein's private jet to travel to Miami; he declined and a charter was arranged instead. Her attorney has separately said Campbell "had been on Epstein's plane on a few occasions but she never observed any inappropriate conduct." Campbell also appears in Epstein's flight logs.
 
 ## Contact After Conviction
 
-The email timestamps show correspondence continued after Epstein's 2008 guilty plea in Florida for soliciting a minor. Epstein served 18 months and was released on work-release terms. The documented post-conviction contact contradicted the impression left by Campbell's 2020 public statement.
+The documented contact continued after Epstein's 2008 guilty plea in Florida for soliciting a minor. The 2010 Paris and Moscow event invitations were extended after his release from custody, with the Moscow event taking place while he remained under house arrest.
 
-## Campbell's Public Statements
+## Campbell's Statements
 
-In 2020, Campbell told media that Epstein was "an acquaintance" she met "more than 15 years ago" through the fashion industry. She said she was "not aware of his illegal activity."
+Campbell first addressed Epstein publicly in 2019, saying his conduct was "indefensible" and that "when I heard what he had done, it sickened me to my stomach," adding, "I stand with the victims."
 
-After the 2026 email release, Campbell [denied involvement in Epstein's criminal activities](/news/2026-02-18-supermodel-naomi-campbell-stayed-in-epstein-s-orbit-but-denies-ties-with-his-ill) while acknowledging social connections. Her representatives did not respond to New York Times requests for comment about the emails.
+After the 2026 file release, Campbell wrote on Instagram on February 15: "I said it in 2019, and I'll say it again now: don't come at me when there is no wrongdoing on my part." She added, "I stand in complete solidarity with the courageous survivors."
+
+Her attorney, Martin Singer, stated: "Prior to Epstein's 2019 arrest in New York, my client knew nothing about his appalling criminal conduct." Singer added that if Campbell "had ever encountered any young woman whom she thought was being victimized by Epstein, she would have personally taken immediate action to help her," and said that if Epstein invoked her name to build trust with anyone, "he did that entirely without her knowledge or authorization."
 
 ## What Is Established
 
-Campbell has not been accused of any criminal conduct. The emails contain no allegations of illegal activity by her. What is documented is that the scope and duration of contact between Campbell and Epstein — coordinated flights, property visits, regular correspondence over eight years including post-conviction — was more extensive than the "acquaintance" characterization she offered publicly.
+Campbell has not been accused of any criminal conduct, and reporting on the released files has noted no evidence that she had knowledge of Epstein's crimes. What is documented is that her contact with Epstein — event invitations, email exchanges and scheduling handled through his staff over roughly a decade and a half, including after his 2008 conviction — was more extensive than was publicly known before the files were released.
