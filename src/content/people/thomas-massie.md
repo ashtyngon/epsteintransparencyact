@@ -6,7 +6,7 @@ aliases:
   - "Rep. Massie"
 role: "U.S. Representative (R-KY)"
 category: "official"
-shortBio: "Libertarian-leaning Republican congressman who co-authored the Epstein Transparency Act with Ro Khanna and led the discharge petition effort that forced the bill to the House floor over White House opposition."
+shortBio: "Libertarian-leaning Republican congressman who co-authored the Epstein Transparency Act with Ro Khanna and led the discharge petition effort that forced the bill to the House floor over White House opposition. After losing a Trump-backed primary in May 2026, he vowed to read additional redacted names from the files on the House floor before leaving Congress."
 notableConnections:
   - ro-khanna
   - pam-bondi
@@ -59,6 +59,12 @@ Massie later noted the irony: the administration had expended enormous political
 After the Transparency Act became law, Massie was among the first members of Congress to review the files at the Department of Justice. He and [Ro Khanna](/people/ro-khanna) visited the DOJ together in February 2026 to examine records.
 
 Both members expressed concern that the releases were excessively redacted and that key names had been obscured. They began discussing inherent contempt proceedings against Attorney General [Pam Bondi](/people/pam-bondi) over the DOJ's handling of compliance.
+
+## 2026: Primary Defeat and a Vow to Name Names
+
+On May 19, 2026, Massie lost the Republican primary in Kentucky's 4th district to Ed Gallrein, a challenger backed by [Donald Trump](/people/donald-trump), in what Newsweek described as the most expensive House primary in U.S. history — a defeat widely tied to Massie's break with Trump over forcing the Epstein files' release. With his term running through January 2027 and reelection no longer a constraint, Massie said he intended to use his remaining months to read additional redacted names from the files aloud on the House floor, where the Constitution's Speech or Debate Clause shields members from liability for what they say in legislative proceedings.
+
+He said that if survivors compiled a list of names, he would read them, and he accused acting Attorney General [Todd Blanche](/people/todd-blanche) of failing to comply with the Epstein Files Transparency Act by keeping millions of pages withheld. Massie has previously named billionaires [Leon Black](/people/leon-black), [Jes Staley](/people/jes-staley), and [Leslie Wexner](/people/leslie-wexner) from the floor; none has been charged, and all deny wrongdoing.
 
 ## Significance
 

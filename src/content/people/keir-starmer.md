@@ -7,7 +7,7 @@ aliases:
 role: "Prime Minister of the United Kingdom"
 image: "/images/people/keir-starmer.jpg"
 category: "official"
-shortBio: "UK Prime Minister who appointed Peter Mandelson as ambassador to the United States despite warnings about his Epstein connections. Starmer fired Mandelson in September 2025 as the scandal intensified and has faced sustained calls to resign over the vetting failure."
+shortBio: "UK Prime Minister who appointed Peter Mandelson as ambassador to the United States despite warnings about his Epstein connections. Starmer fired Mandelson in September 2025 as the scandal intensified and has faced sustained calls to resign over the vetting failure. In May 2026 his Labour Party was routed in local elections widely read as a verdict on a premiership weakened by the affair."
 notableConnections:
   - jeffrey-epstein
   - peter-mandelson
@@ -31,6 +31,10 @@ According to the Wikipedia article on the relationship of Peter Mandelson and Je
 ## The Vetting Controversy
 
 The Wikipedia account further reports that Mandelson had been denied security clearance by UK Security Vetting on 28 January 2025, yet was confirmed as ambassador two days later — a sequence that became public when it was revealed on 16 April 2026. Starmer said he was not informed of the failed vetting, while acknowledging that "at the heart of this is also a judgment I made that was wrong" and that he "should not have appointed Peter Mandelson." In the aftermath, the government dismissed Olly Robbins, the most senior civil servant in the Foreign Office; per the same article, Robbins said he had been placed under "serious pressure" to approve the appointment. Starmer has resisted opposition calls to resign over the affair.
+
+## The May 2026 Local Elections
+
+The Mandelson affair left Starmer badly weakened heading into local elections on May 6, 2026. Labour was routed, losing more than 1,100 of the council seats it had been defending, while the right-wing populist Reform UK gained more than 1,400 and the Greens captured London councils that had long been Labour strongholds. Some Labour MPs called on Starmer to resign — "The Prime Minister needs to go. That is not negotiable," said Norwich South MP Clive Lewis — but the prime minister refused, calling the results "really tough" while insisting he would not "walk away" and "plunge the country into chaos." Reporting on the vote cited the backlash over his appointment of an Epstein-linked ambassador among the factors that had eroded his standing, alongside broader economic discontent.
 
 ## Is Keir Starmer in the Epstein files?
 
