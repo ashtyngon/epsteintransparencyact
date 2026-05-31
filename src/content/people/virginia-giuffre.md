@@ -82,6 +82,11 @@ The case was settled in 2017 for undisclosed terms. However, the documents produ
 
 In 2019, the Second Circuit Court of Appeals began ordering the release of portions of the sealed documents. Additional releases followed, with the largest batch — approximately 900 pages — ordered unsealed by U.S. District Judge Loretta Preska and released on January 3, 2024.
 
+<figure>
+  <img src="/images/documents/giuffre-maxwell-unsealing-order.jpg" alt="January 2024 order unsealing records in Giuffre v. Maxwell" loading="lazy" decoding="async" />
+  <figcaption>A January 2024 order by Judge Loretta A. Preska directing the unsealing of roughly 900 pages of records in Giuffre’s defamation suit against Ghislaine Maxwell. <span class="credit">U.S. District Court, S.D.N.Y.</span></figcaption>
+</figure>
+
 ## The January 2024 Unsealing
 
 The January 2024 document release was a watershed moment. For the first time, names that had been redacted or replaced with pseudonyms in earlier releases were made public. The documents included deposition excerpts, flight logs, correspondence, and testimony that named numerous high-profile individuals in connection with Epstein's network.
@@ -105,6 +110,11 @@ These distinctions lend credibility to Giuffre's accounts: she differentiated be
 ## The Settlement with Prince Andrew
 
 The civil lawsuit against Prince Andrew — filed August 9, 2021, under the New York Child Victims Act — alleged that Andrew sexually assaulted Giuffre on three occasions when she was under 18.
+
+<figure>
+  <img src="/images/documents/giuffre-v-andrew-complaint.jpg" alt="Opening page of Virginia Giuffre’s 2021 complaint against Prince Andrew" loading="lazy" decoding="async" />
+  <figcaption>The opening page of Giuffre’s August 2021 complaint against Prince Andrew, filed in the Southern District of New York under the New York Child Victims Act. Andrew settled in 2022 with no admission of liability. <span class="credit">U.S. District Court, S.D.N.Y. (via CourtListener)</span></figcaption>
+</figure>
 
 Andrew's legal team fought to dismiss the case on jurisdictional grounds and based on the 2009 settlement agreement between Giuffre and Epstein. Judge Lewis Kaplan ruled in January 2022 that the case could proceed.
 

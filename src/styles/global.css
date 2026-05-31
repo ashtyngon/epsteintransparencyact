@@ -185,6 +185,46 @@
   text-decoration: underline;
 }
 
+/* Inline figures: photos + primary-source document scans embedded in profile/article bodies */
+.prose-article figure {
+  margin: 2.25em 0;
+}
+
+.prose-article figure img,
+.prose-article p > img,
+.prose-article > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--color-border);
+  border-radius: 0.375rem;
+  background: var(--color-surface);
+}
+
+/* Smaller, centered treatment for portrait-style photos (never upscale small scans) */
+.prose-article figure.portrait img {
+  width: auto;
+  max-width: min(100%, 420px);
+  margin-inline: auto;
+}
+
+.prose-article figcaption {
+  margin-top: 0.65em;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  color: var(--color-text-muted);
+}
+
+.prose-article figcaption .credit {
+  display: block;
+  margin-top: 0.2em;
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.7;
+}
+
 /* Source badge pill */
 .source-badge {
   display: inline-flex;

@@ -32,12 +32,6 @@ sources:
     url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
   - title: "King Charles 'Ready to Support' Police Over Andrew-Epstein Claims — CNN"
     url: "https://www.cnn.com/2026/02/09/uk/andrew-mountbatten-police-epstein-trade-intl"
-  - title: "Andrew Mountbatten-Windsor — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Prince_Andrew,_Duke_of_York"
-  - title: "Virginia Giuffre v. Prince Andrew — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Virginia_Giuffre_v._Prince_Andrew"
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "King Charles III strips Prince Andrew of titles, evicts him from royal home — Al Jazeera"
     url: "https://www.aljazeera.com/news/2025/10/30/king-charles-iii-strips-prince-andrew-of-titles-evicts-him-from-royal-home"
   - title: "Prince Andrew drops Duke of York title as Epstein fallout continues — NPR"
@@ -55,6 +49,11 @@ Prince Andrew, then Duke of York, the second son of Queen Elizabeth II and Princ
 Prince Andrew's connection to Epstein came through Ghislaine Maxwell, part of his social circle for years before Epstein entered the picture. Through Maxwell, Andrew came to know Epstein, and the three socialized together in London, New York, and at Epstein's properties during the late 1990s and 2000s.
 
 Andrew has acknowledged staying at Epstein's Manhattan mansion. In December 2010 — after Epstein's 2008 conviction and registration as a sex offender — Andrew was photographed strolling with Epstein in Central Park during a visit to New York, an image that drew significant public scrutiny. Andrew later said he stayed at Epstein's home for several days during that trip.
+
+<figure>
+  <img src="/images/documents/flight-logs-page.jpg" alt="Page from Epstein’s flight logs, an exhibit at Ghislaine Maxwell’s trial" loading="lazy" decoding="async" />
+  <figcaption>A page from Epstein’s flight manifests, entered as evidence at Ghislaine Maxwell’s trial. Releases in 2025–26 included a manifest recording Prince Andrew as a passenger on a May 2000 leg; he denies wrongdoing. <span class="credit">U.S. Department of Justice — U.S. v. Maxwell exhibit</span></figcaption>
+</figure>
 
 ## Virginia Giuffre's Allegations
 
@@ -94,6 +93,11 @@ On August 9, 2021, Virginia Giuffre filed a civil lawsuit against Prince Andrew 
 
 Andrew's legal team attempted to have the case dismissed, arguing that a 2009 settlement agreement between Giuffre and Epstein — which released Epstein and "any other person or entity who could have been included as a potential defendant" — also protected Andrew. On January 12, 2022, Judge Lewis A. Kaplan rejected this argument and allowed the case to proceed, noting that the meaning of the word "potential" in the release was unclear.
 
+<figure>
+  <img src="/images/documents/giuffre-v-andrew-kaplan-opinion.jpg" alt="First page of Judge Kaplan’s 2022 opinion allowing Giuffre’s suit against Andrew to proceed" loading="lazy" decoding="async" />
+  <figcaption>Judge Lewis A. Kaplan’s January 2022 opinion denying Andrew’s motion to dismiss and allowing Virginia Giuffre’s civil suit to proceed; Andrew settled the following month with no admission of liability. <span class="credit">U.S. District Court, S.D.N.Y.</span></figcaption>
+</figure>
+
 On February 15, 2022, a settlement was announced. The case was settled out of court, with Andrew making a substantial donation to Giuffre's charity for victims of abuse and with no admission of liability. The financial terms were never officially disclosed; British and American media outlets, including the Daily Telegraph, estimated the figure at as much as £12 million (around $16 million), but the precise amount was not confirmed.
 
 The settlement avoided what would have been the unprecedented spectacle of a senior British royal being deposed under oath in a U.S. civil case connected to Jeffrey Epstein.
@@ -123,6 +127,11 @@ On February 19, 2026 — Andrew's birthday — Thames Valley Police arrested And
 ## The May 2026 Trade-Envoy Files
 
 On May 21, 2026, the UK government published a tranche of previously confidential files documenting Andrew's appointment and conduct as the country's "special representative for international trade and investment," a role he held from 2001 to 2011. The documents were released in response to a "humble address" — a parliamentary mechanism a lawmaker had invoked in February, after Andrew's arrest, to compel the government to lay the records before Parliament.
+
+<figure>
+  <img src="/images/documents/andrew-trade-envoy-command-paper.jpg" alt="Cover of UK government command paper HC 222 on Andrew’s trade-envoy appointment" loading="lazy" decoding="async" />
+  <figcaption>The UK government’s May 2026 command paper (HC 222) on Andrew’s appointment as trade envoy. Presenting it, Trade Minister Chris Bryant said his department found no evidence that any formal vetting was undertaken before the appointment. Andrew denies wrongdoing. <span class="credit">UK Department for Business and Trade</span></figcaption>
+</figure>
 
 The files put detail behind the misconduct allegation. Emails signed "A" and bearing the signature "HRH The Duke of York KG" forwarded official material to Epstein, including "visit reports" from Vietnam, Singapore, Hong Kong, and Shenzhen, China, produced during a 2010 Southeast Asia tour, and a document described as a "confidential brief produced by the Provincial Reconstruction Team in Helmand Province for International Investment Opportunities."
 

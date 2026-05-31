@@ -23,11 +23,21 @@ sensitive: false
 
 Casey Wasserman is a Los Angeles entertainment executive who founded and led Wasserman Media Group, one of the most influential talent and sports marketing agencies in the industry. He is the grandson of Lew Wasserman, the legendary entertainment mogul who built MCA into a dominant force in Hollywood. Wasserman, 51, served as chairman of the LA 2028 Olympic and Paralympic Games organizing committee, making him the public face of Los Angeles's preparations for the Summer Olympics.
 
+<figure class="portrait">
+  <img src="/images/people/casey-wasserman-2025.jpg" alt="Casey Wasserman at the White House in August 2025" loading="lazy" decoding="async" />
+  <figcaption>Casey Wasserman, then chairman of the LA28 Olympic organizing committee, at the White House in August 2025. <span class="credit">Official White House photo by Joyce N. Boghosian</span></figcaption>
+</figure>
+
 ## Appearance in the Epstein Files
 
 Documents released by the Department of Justice under the Epstein Transparency Act in February 2026 exposed email correspondence between Wasserman and [Ghislaine Maxwell](/people/ghislaine-maxwell), [Jeffrey Epstein](/people/jeffrey-epstein)'s longtime associate and convicted sex trafficker. Maxwell was convicted on December 29, 2021 on five counts of sex trafficking and conspiracy, and sentenced to 20 years in federal prison. The emails between Wasserman and Maxwell were dated 2003, predating Epstein's 2008 guilty plea in Palm Beach County, Florida for soliciting a minor.
 
 The New York Times reported that the emails showed "flirtatious exchanges" between Wasserman and Maxwell. The specific content and full scope of the communications have not been publicly detailed beyond that characterization.
+
+<figure>
+  <img src="/images/documents/black-book-wasserman.jpg" alt="Page from Epstein’s contact book listing Wasserman, Casey &amp; Laura" loading="lazy" decoding="async" />
+  <figcaption>Wasserman also appears in Epstein’s redacted contact book, released by the Justice Department; the entry reads “Wasserman, Casey &amp; Laura.” Inclusion is not evidence of wrongdoing. <span class="credit">U.S. Department of Justice</span></figcaption>
+</figure>
 
 ## Professional Fallout
 

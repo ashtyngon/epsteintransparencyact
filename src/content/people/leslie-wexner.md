@@ -29,12 +29,6 @@ sources:
     url: "https://www.cnn.com/2026/02/13/politics/congress-subpoena-wexner-epstein"
   - title: "Victoria's Secret and the Epstein Connection — New Yorker"
     url: "https://www.newyorker.com/news/news-desk/les-wexner-jeffrey-epstein-victorias-secret"
-  - title: "Leslie Wexner — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Leslie_Wexner"
-  - title: "9 East 71st Street (Herbert N. Straus House) — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/9_East_71st_Street"
-  - title: "Estate of Jeffrey Epstein — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Estate_of_Jeffrey_Epstein"
   - title: "Jeffrey Epstein may have taken $46 million from Victoria's Secret billionaire Les Wexner — CBS News"
     url: "https://www.cbsnews.com/news/jeffrey-epstein-may-have-taken-46-million-from-victorias-secret-billionaire-les-wexner/"
   - title: "Les Wexner downplays Epstein ties in Oversight deposition — Axios"
@@ -71,7 +65,17 @@ In 1989, Wexner purchased the townhouse at 9 East 71st Street (the Herbert N. St
 
 The ownership change was structured as a transaction between entities rather than a conventional recorded home sale, which is why public deed records (ACRIS tracks real-estate deeds, not changes in control of a corporation) do not show a Wexner-to-Epstein conveyance price for the 1990s. Bank documents reported in 2026 by NBC4 Investigates and others, and Justice Department records, indicate Epstein acquired the property through a corporation in November 1998 for $20 million — an initial payment of about $10 million followed by the balance paid in installments through March 2000, backed by a $10 million promissory note and a personal guaranty Epstein signed. (A separate 2011 transfer, between entities tied to Epstein, was recorded at zero consideration.)
 
+<figure>
+  <img src="/images/documents/epstein-townhouse-staircase.jpg" alt="Interior staircase of 9 East 71st Street photographed during the FBI’s 2019 raid" loading="lazy" decoding="async" />
+  <figcaption>Inside 9 East 71st Street — the roughly 21,000-square-foot Manhattan townhouse that passed from Wexner to Epstein in 1998 — photographed by the FBI during its July 2019 raid. <span class="credit">FBI / U.S. Department of Justice (Epstein Files release)</span></figcaption>
+</figure>
+
 The townhouse became a primary location for Epstein's abuse. Victims have described being assaulted at the property. When the FBI raided the mansion in July 2019, agents sawed open a safe and recovered diamonds, more than $70,000 in cash, hard drives, binders of labeled CDs, and an expired Austrian passport bearing Epstein's photograph under a different name.
+
+<figure>
+  <img src="/images/documents/fbi-raid-9e71-report.jpg" alt="FBI evidence placard from the July 6, 2019 search of 9 East 71st Street" loading="lazy" decoding="async" />
+  <figcaption>An FBI evidence placard from the July 6, 2019 search of 9 East 71st Street. Wexner has never been charged and says he was a victim of Epstein’s financial misappropriation. <span class="credit">FBI / U.S. Department of Justice (Epstein Files release)</span></figcaption>
+</figure>
 
 In his February 2026 congressional deposition, Wexner addressed the property directly, stating: "Contrary to rumor, I did not give Epstein the New York townhouse; he purchased it from me for what I was told was the appraised value." He also said most of the alleged crimes at the house occurred after his 1998 sale to Epstein.
 
@@ -108,6 +112,11 @@ Epstein's estate, upon his death, was valued at over $577 million by one analysi
 In newly unredacted Justice Department documents from 2019, Wexner was named as a "co-conspirator" in materials related to Epstein's trafficking operation. He has never been charged, and reporting on the underlying FBI emails has noted only "limited evidence" tying him to Epstein's crimes.
 
 In January 2026, the House Committee on Oversight and Government Reform subpoenaed Wexner. Rep. Robert Garcia, the panel's ranking Democrat, said the subpoenas were meant to "hear directly from the individuals most closely involved in Epstein's inner circle." On February 18, 2026, members of the committee deposed Wexner at his home in New Albany, Ohio, after he had originally been ordered to Washington.
+
+<figure>
+  <img src="/images/people/leslie-wexner-deposition.jpg" alt="Leslie Wexner during his February 2026 House Oversight Committee deposition" loading="lazy" decoding="async" />
+  <figcaption>Leslie Wexner during his February 18, 2026 deposition by the House Oversight Committee, after DOJ files named him a “co-conspirator”; he called himself “naïve, foolish, and gullible” to have trusted Epstein and has never been charged. <span class="credit">U.S. House Committee on Oversight and Government Reform</span></figcaption>
+</figure>
 
 In that deposition, Wexner disputed that he had given Epstein the Manhattan townhouse, said he revoked Epstein's power of attorney in 2007, and characterized himself as having been deceived — saying he was "naïve, foolish, and gullible to put any trust in Jeffrey Epstein" and calling Epstein "a con man." Democrats on the committee criticized his answers as evasive.
 

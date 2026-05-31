@@ -20,8 +20,6 @@ sources:
     url: "https://www.nytimes.com/2026/02/13/business/epstein-ruemmler-goldman-sachs.html"
   - title: "Goldman Sachs' top lawyer Kathy Ruemmler to resign after emails show close ties to Jeffrey Epstein — PBS NewsHour"
     url: "https://www.pbs.org/newshour/politics/goldman-sachs-top-lawyer-kathy-ruemmler-to-resign-after-emails-show-close-ties-to-jeffrey-epstein"
-  - title: "Kathryn Ruemmler — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Kathryn_Ruemmler"
   - title: "President Obama Announces New White House Counsel Kathryn Ruemmler — White House (archived)"
     url: "https://obamawhitehouse.archives.gov/the-press-office/2011/06/02/president-obama-announces-new-white-house-counsel-kathryn-ruemmler/"
 sensitive: false
@@ -33,13 +31,18 @@ Kathryn Ruemmler served as White House counsel to President Barack Obama from 20
 
 Ruemmler holds a J.D. from Georgetown University Law Center and built a legal career in government before moving to the private sector. As a federal prosecutor, she was a co-lead prosecutor in the Justice Department's Enron Task Force, where she helped lead the fraud prosecution of former Enron chief executives. President Obama announced her appointment as White House counsel on June 2, 2011; she had previously served as principal deputy counsel to the president.
 
+<figure>
+  <img src="/images/people/kathryn-ruemmler-obama.jpg" alt="Kathryn Ruemmler with President Obama in the Oval Office, 2014" loading="lazy" decoding="async" />
+  <figcaption>Ruemmler (far left), then White House counsel, with President Obama, Lisa Monaco and Susan Rice in the Oval Office in January 2014, the year she left the administration. <span class="credit">Pete Souza / The White House</span></figcaption>
+</figure>
+
 After leaving the White House in 2014, Ruemmler returned to the law firm Latham & Watkins. She joined Goldman Sachs in 2020 and was named chief legal officer and general counsel in 2021 — one of the most senior legal positions on Wall Street — and served on the firm's management committee.
 
 ## The "Uncle Jeffrey" Emails
 
 Documents released from the Justice Department's Epstein files in early 2026 included emails between Ruemmler and Epstein. In correspondence after she left the White House in 2014, Ruemmler referred to Epstein in affectionate terms, calling him "Uncle Jeffrey." In a 2018 message thanking him for a gift, she wrote: "So lovely and thoughtful! Thank you to Uncle Jeffrey!!!" According to reporting, she received expensive gifts from Epstein during this period, including luxury handbags and a fur coat.
 
-The contact continued after Epstein's 2008 guilty plea to state prostitution charges and his registration as a sex offender — a period during which many public figures distanced themselves from him. According to Wikipedia, citing Epstein's schedule, Ruemmler met with Epstein on dozens of occasions between July 2014 and May 2019, and maintained an email correspondence with him from 2014 to 2018. Wikipedia also reports she was listed as a backup executor in a January 2019 version of Epstein's will. Ruemmler's representatives have said she knew Epstein through her work as a criminal defense attorney and was friendly with him in that professional context; she was reported to have denied that certain trips on his schedule, including a 2015 Paris flight and a 2017 stop at his U.S. Virgin Islands home, took place.
+The contact continued after Epstein's 2008 guilty plea to state prostitution charges and his registration as a sex offender — a period during which many public figures distanced themselves from him. According to reporting on the released files, citing Epstein's schedule, Ruemmler met with Epstein on dozens of occasions between July 2014 and May 2019, and maintained an email correspondence with him from 2014 to 2018. Reporting on the released files also indicates she was listed as a backup executor in a January 2019 version of Epstein's will. Ruemmler's representatives have said she knew Epstein through her work as a criminal defense attorney and was friendly with him in that professional context; she was reported to have denied that certain trips on his schedule, including a 2015 Paris flight and a 2017 stop at his U.S. Virgin Islands home, took place.
 
 ## Departure from Goldman Sachs
 

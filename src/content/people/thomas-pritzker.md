@@ -49,5 +49,10 @@ Pritzker has never been charged with any crime. The DOJ files documented contact
 
 Primary-source records that name or reference Thomas Pritzker. Inclusion in or being named in these documents is not, by itself, evidence of wrongdoing; Pritzker has never been charged with any crime and, through a spokesperson, has vehemently denied the allegation described below.
 
+<figure>
+  <img src="/images/documents/giuffre-maxwell-pritzker-order.jpg" alt="Court appendix listing names including Thomas Pritzker in Giuffre v. Maxwell" loading="lazy" decoding="async" />
+  <figcaption>An appendix to a 2020 unsealing order in Giuffre v. Maxwell lists “Thomas Pritzker” (item g) among individuals Virginia Giuffre testified she was trafficked to. Pritzker has never been charged and, through a spokesperson, vehemently denies the allegation. <span class="credit">U.S. District Court, S.D.N.Y. (via CourtListener)</span></figcaption>
+</figure>
+
 - **[Giuffre v. Maxwell — unsealed court records (Jan. 2024)](https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/)** — "Tom Pritzker," identified in a court filing as "the chairman of the Hyatt Corporation," is named in records unsealed in this civil case (U.S. District Court, S.D.N.Y., No. 1:15-cv-07433). In her deposition, Virginia Giuffre named him among individuals she alleged she was directed to have sex with; he also appears on a list of people said to have potential knowledge of Epstein and Maxwell's conduct. Pritzker has vehemently denied Giuffre's allegation, which his spokesperson has called a "false and isolated allegation" (per Newsweek).
 - **[DOJ Epstein Files (full EFTA release portal)](https://www.justice.gov/epstein)** — Separately, Department of Justice files released in 2026 documented contact between Pritzker and Epstein; Pritzker said he "exercised terrible judgment in maintaining contact" and stepped down from the Hyatt board in February 2026.

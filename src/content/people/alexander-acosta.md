@@ -29,10 +29,6 @@ sources:
     url: "https://www.miamiherald.com/news/local/article214210674.html"
   - title: "The Epstein Connections Fueling Conspiracy Theories — FactCheck.org"
     url: "https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/"
-  - title: "Alexander Acosta — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Alexander_Acosta"
-  - title: "Jeffrey Epstein — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Jeffrey_Epstein"
   - title: "Key Takeaways From the DOJ Review of the Epstein Deal (OPR 'poor judgment') — ABC News"
     url: "https://abcnews.com/US/key-takeaways-justice-department-review-jeffrey-epstein-sweetheart/story?id=74222922"
   - title: "Trump Labor Secretary Alex Acosta Resigns Amid Epstein Controversy — ABC News"
@@ -40,6 +36,11 @@ sources:
 ---
 
 R. Alexander Acosta served as U.S. Attorney for the Southern District of Florida from 2005 to 2009. During that period, his office oversaw the federal investigation into [Jeffrey Epstein](/people/jeffrey-epstein) and negotiated the non-prosecution agreement (NPA) that became one of the most consequential — and most condemned — prosecutorial decisions in the Epstein case. The deal allowed Epstein to avoid federal charges, plead to state offenses, serve his sentence in county jail with work release, and secured immunity from federal prosecution for four named co-conspirators and any unnamed potential co-conspirators.
+
+<figure class="portrait">
+  <img src="/images/people/alexander-acosta-us-attorney.jpg" alt="R. Alexander Acosta as U.S. Attorney for the Southern District of Florida" loading="lazy" decoding="async" />
+  <figcaption>Acosta as U.S. Attorney for the Southern District of Florida, the office that negotiated Epstein’s non-prosecution agreement. <span class="credit">U.S. Department of Justice</span></figcaption>
+</figure>
 
 A federal judge later ruled that the deal violated the Crime Victims' Rights Act. Acosta went on to serve in [Donald Trump](/people/donald-trump)'s cabinet — and resigned under pressure when the deal's terms became a subject of national outrage.
 
@@ -54,6 +55,11 @@ The draft indictment was ready to be filed. It would have charged Epstein with f
 ## The Non-Prosecution Agreement
 
 Instead, Acosta's office entered into negotiations with Epstein's defense team — which included [Alan Dershowitz](/people/alan-dershowitz), Kenneth Starr, Jay Lefkowitz, and Gerald Lefcourt. The result was the non-prosecution agreement, signed in September 2007 and finalized in June 2008.
+
+<figure>
+  <img src="/images/documents/epstein-npa-acosta.jpg" alt="Title page of the 2007–08 non-prosecution agreement in the Epstein investigation" loading="lazy" decoding="async" />
+  <figcaption>The non-prosecution agreement — captioned “In re: Investigation of Jeffrey Epstein” — that Acosta’s office signed in 2007–08. It deferred federal charges in favor of a state plea and granted immunity to potential co-conspirators. <span class="credit">Non-prosecution agreement (2008), filed in Doe v. United States, S.D. Fla.</span></figcaption>
+</figure>
 
 The terms of the NPA were extraordinary:
 
@@ -113,6 +119,11 @@ The immunity clause in the NPA remains one of the most significant and least res
 The immunity clause effectively foreclosed the broader federal investigation that victims and law enforcement had hoped would follow Epstein's prosecution. Palm Beach Police Chief Michael Reiter and Detective Joseph Recarey, who had built the case, both publicly protested the decision not to pursue stronger charges.
 
 The question of why Acosta's office agreed to such broad co-conspirator immunity has been examined but not fully resolved. The 2020 DOJ Office of Professional Responsibility review concluded the decision was within Acosta's discretion and found no evidence it resulted from corruption or from Epstein's wealth, status, or associations, while characterizing it as "poor judgment." The pressure from Epstein's defense team has been cited as one factor. Additional documents released under the Epstein Transparency Act may shed further light.
+
+<figure>
+  <img src="/images/documents/doj-opr-report.jpg" alt="Cover of the DOJ Office of Professional Responsibility’s 2020 report on the Epstein plea" loading="lazy" decoding="async" />
+  <figcaption>The Justice Department’s 2020 Office of Professional Responsibility review found Acosta exercised “poor judgment” in resolving the Epstein case through the agreement but committed no professional misconduct. <span class="credit">DOJ Office of Professional Responsibility (Nov. 2020)</span></figcaption>
+</figure>
 
 ## 2025–2026: Congressional Scrutiny Returns
 

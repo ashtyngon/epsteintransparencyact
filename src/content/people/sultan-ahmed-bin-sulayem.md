@@ -31,6 +31,11 @@ DP World is one of the largest port operators in the world, handling approximate
 
 Bin Sulayem had led the company for years and was one of the most prominent business executives in the Gulf states.
 
+<figure class="portrait">
+  <img src="/images/people/sultan-ahmed-bin-sulayem-wef-2025.jpg" alt="Sultan Ahmed bin Sulayem at the World Economic Forum in Davos, January 2025" loading="lazy" decoding="async" />
+  <figcaption>Sultan Ahmed bin Sulayem at the World Economic Forum in Davos in January 2025, about a year before he was forced out of DP World. <span class="credit">World Economic Forum (CC BY 3.0)</span></figcaption>
+</figure>
+
 ## Appearance in the Epstein Files
 
 Documents released under the Epstein Transparency Act revealed that Bin Sulayem's name appeared more than 4,700 times across the files — one of the highest mention counts for any individual in the released records. The documents included emails, scheduling records, and other communications between Bin Sulayem and Epstein.
