@@ -65,6 +65,38 @@ The committee sought Mandelson's voluntary cooperation; it does not have the aut
 
 The request to Mandelson came amid a broader congressional inquiry into Epstein's network. The House Oversight Committee separately voted to subpoena Attorney General Pam Bondi over the handling of Epstein records, and the fallout from the released files extended to political and business figures in the United States and Europe.
 
+## Evidence
+
+These passages come from the Epstein-estate materials released by the **House Oversight Committee** — the 2003 "birthday book" and the released emails — with our annotations connecting each to the claims this profile makes. Read the originals via the links beneath the panel.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released documents — U.S. House Oversight Committee</span><span>Epstein estate · 2003–2010</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Birthday-book entry, Peter Mandelson on Epstein · 2003</p>
+      <p class="ev-body">Mandelson described Epstein as “<mark class="ev-hl">my best pal<sup class="ev-num">1</sup></mark>” and an “<mark class="ev-hl">intelligent sharp-witted man<sup class="ev-num">2</sup></mark>”.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Released emails, Peter Mandelson → Jeffrey Epstein · before 2008</p>
+      <p class="ev-body">Mandelson encouraged Epstein to “<mark class="ev-hl">fight for early release<sup class="ev-num">3</sup></mark>” before his 2008 sentence and suggested the conviction was wrongful and should be challenged.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Estate financial records · 2003–2004</p>
+      <p class="ev-body"><mark class="ev-hl">Three payments of US$25,000 referencing Mandelson<sup class="ev-num">4</sup></mark> (reported as upwards of $75,000 in total to Mandelson and his husband over the period).</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. This is a text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "my best pal" — 2003</b><p>From Mandelson's entry in the book compiled for Epstein's 50th birthday — the basis for this profile's account of the years-long relationship.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "intelligent sharp-witted man" — 2003</b><p>The same birthday-book entry. Mandelson has since apologised "to the women and girls whose voices should have been heard," and says he knew nothing of Epstein's criminal activities.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> "fight for early release" — before 2008</b><p>The released emails (reported by The Sun) that led Prime Minister Keir Starmer to dismiss Mandelson as UK Ambassador; Starmer called the comments "reprehensible." Mandelson has denied any criminal wrongdoing.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">4</span> $25,000 payments — 2003–2004</b><p>Backs this profile's statement that newly released documents indicate Epstein made three payments referencing Mandelson.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/" target="_blank" rel="noopener">House Oversight — Epstein estate documents (birthday book) ↗</a> · <a href="https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising" target="_blank" rel="noopener">House Oversight — email correspondence release ↗</a> · <a href="https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel" target="_blank" rel="noopener">Zeteo searchable copy ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Peter Mandelson. Inclusion in these documents is not, by itself, evidence of wrongdoing; Mandelson has denied any criminal wrongdoing in connection with his relationship with Epstein.

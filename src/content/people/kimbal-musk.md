@@ -31,6 +31,37 @@ Musk has responded publicly. MS NOW reports that he wrote on X on February 9, 20
 
 Yes. Kimbal Musk, a businessman and restaurateur and the brother of Elon Musk, appears in released Epstein documents through emails dated to the early 2010s, according to Boulder Reporting Lab and Fortune. The reporting documents social contact with Epstein, an island invitation that the records do not show was taken up, and an introduction to a woman in Epstein's circle facilitated in part by associate Boris Nikolic. Musk has disputed parts of the account, saying Epstein did not introduce them and attributing the email volume to a mass newsletter, though Fortune notes an email in which he thanked Epstein and Nikolic for "connecting" him. Being named in the files is not evidence of any crime or wrongdoing.
 
+## Evidence
+
+These passages come from the Jeffrey Epstein emails released by the **House Oversight Committee**, transcribed below, with our annotations connecting each to what this profile states.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released emails — U.S. House Oversight Committee</span><span>Epstein estate · 2013</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Kimbal Musk · January 2013</p>
+      <p class="ev-body">“<mark class="ev-hl">You are invited to the island for a couple of days, come relax<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Boris Nikolic → Kimbal Musk · 2012–2013</p>
+      <p class="ev-body">Nikolic tells Musk to “be nice” to the woman because Epstein “<mark class="ev-hl">goes crazy when someone mistreats his girls/friends<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein · June 2013</p>
+      <p class="ev-body">“<mark class="ev-hl">I gave another girl to kimball and he is thrilled<sup class="ev-num">3</sup></mark>”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> Island invitation — January 2013</b><p>The 2013 island invitation referenced in this profile. Boulder Reporting Lab notes the documents do not establish that Musk traveled to Epstein's private island.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> Nikolic introduction — 2012–2013</b><p>Backs this profile's account of an introduction to a woman in Epstein's circle facilitated in part by associate Boris Nikolic, a former Bill &amp; Melinda Gates Foundation science adviser. Musk later said he met the woman "through a friend" and that "Epstein did not introduce us," while also thanking Epstein and Nikolic in an email — "I believe you both played a role."</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> "I gave another girl to kimball" — June 2013</b><p>Per Fortune, Epstein wrote this line in a June 2013 email. Being named is not evidence of wrongdoing; Musk has disputed parts of the reporting.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising" target="_blank" rel="noopener">House Oversight Committee release ↗</a> · <a href="https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel" target="_blank" rel="noopener">Zeteo searchable copy ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Kimbal Musk. Inclusion in these documents is not, by itself, evidence of wrongdoing; Musk has disputed parts of the reporting.

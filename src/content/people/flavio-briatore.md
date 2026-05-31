@@ -29,6 +29,28 @@ The reporting reviewed for this profile does not describe any allegation of wron
 
 Yes. Front Office Sports and a Yahoo Sports article syndicated from NJ.com reported that Flavio Briatore exchanged emails with Epstein between 2005 and 2010 and that Epstein referred to him as his "Italian friend." Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, contact books, scheduling, or passing references. The sources reviewed for this profile report no allegation against Briatore in connection with Epstein's offenses, and an Alpine spokesperson declined to comment on the correspondence.
 
+## Evidence
+
+These passages come from the released Epstein email correspondence, with our annotations connecting each to what this profile states.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released emails — DOJ Epstein files</span><span>2005–2010</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein email correspondence · 2010</p>
+      <p class="ev-body">Epstein refers to Briatore as his “<mark class="ev-hl">itialin frined<sup class="ev-num">1</sup></mark>” (Italian friend); another message states “<mark class="ev-hl">Briatore wanted to meet<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "Italian friend" — 2010</b><p>Per Front Office Sports and a Yahoo Sports article syndicated from NJ.com, Epstein referred to Briatore using this phrase (rendered in the email as "itialin frined") — the basis for this profile's statement that Briatore exchanged emails with Epstein between 2005 and 2010.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "Briatore wanted to meet" — 2010</b><p>Per Front Office Sports, one message said this; Briatore is "first mentioned in the files in April 2005, when he was the head of Renault."</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Flavio Briatore. Inclusion in these documents is not, by itself, evidence of wrongdoing; the reporting reviewed here describes no allegation against Briatore in connection with Epstein's crimes.

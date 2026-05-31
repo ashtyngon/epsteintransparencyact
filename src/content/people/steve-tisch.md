@@ -35,6 +35,42 @@ Yes. Steve Tisch appears in the Epstein record through email correspondence, lar
 
 Being named or appearing in connection with the files is **not** evidence of any crime or wrongdoing. People appear in this record in many contexts — flight logs, correspondence, contact books, scheduling, photographs, or passing references. See the sources above for the specific, documented context, and the note at the bottom of this page.
 
+## Evidence
+
+These passages are drawn from the **released Epstein email correspondence** (largely 2013), as quoted by CBS Sports and Front Office Sports; the annotations connect them to what this profile states, including Tisch's response.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released correspondence — Epstein email files</span><span>c. 2013</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Steve Tisch → Jeffrey Epstein · c. 2013</p>
+      <p class="ev-body">Asks whether one woman was a “<mark class="ev-hl">pro or civilian<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Steve Tisch ↔ Jeffrey Epstein · c. 2013</p>
+      <p class="ev-body">Tisch asks of another, “<mark class="ev-hl">Working girl?<sup class="ev-num">2</sup></mark>” — to which Epstein replied “<mark class="ev-hl">Never<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Steve Tisch · c. 2013</p>
+      <p class="ev-body">Following up about a woman from Ukraine: “<mark class="ev-hl">she is a little freaked by the age difference but go slow<sup class="ev-num">3</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Steve Tisch → Jeffrey Epstein · 2013</p>
+      <p class="ev-body">“<mark class="ev-hl">Is my present in NYC?<sup class="ev-num">4</sup></mark>”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> “pro or civilian” — c. 2013</b><p>One of the exchanges, reported by CBS Sports, in which Epstein connected Tisch with women and the two exchanged assessments of them — the basis for this profile’s account.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> “Working girl?” / “Never” — c. 2013</b><p>A second such exchange reported by CBS Sports. Tisch said the two “exchanged emails about adult women.”</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> “go slow” — c. 2013</b><p>The post-meeting follow-up about a woman from Ukraine in the released correspondence. Tisch said he “did not take him up on any of his invitations and never went to his island.”</p></div>
+    <div class="ev-note"><b><span class="ev-badge">4</span> “Is my present in NYC?” — 2013</b><p>A related 2013 exchange reported by Front Office Sports. Tisch called it “a brief association” he “deeply regret[s],” and has not been charged with any crime.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising" target="_blank" rel="noopener">House Oversight Committee release ↗</a> · <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA portal) ↗</a> · <a href="https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel" target="_blank" rel="noopener">Zeteo searchable copy ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Steve Tisch. Inclusion in these documents is not, by itself, evidence of wrongdoing; Tisch has said he "deeply regret[s]" associating with Epstein and has not been charged with any crime.

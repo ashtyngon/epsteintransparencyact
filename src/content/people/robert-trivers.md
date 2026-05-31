@@ -31,6 +31,37 @@ A separate Inside Higher Ed article from February 3, 2026 ("9 More Higher Ed Nam
 
 Robert Trivers is named in connection with the Jeffrey Epstein files and in earlier reporting about Epstein's ties to academics. According to Inside Higher Ed and the New York Daily News, he received research funding from Epstein, and the released Epstein files record that he introduced Getty to Epstein in 2013. Being named in the files or in related reporting is not in itself evidence of any crime or wrongdoing. The sources above document the specific, attributed context for his appearance; readers should consult them directly.
 
+## Evidence
+
+These passages come from the Epstein correspondence in the **DOJ Epstein Files** release, transcribed below as reported by Inside Higher Ed and the New York Daily News, with our annotations tying each to what this profile states. The quoted lines are Trivers's own words as recorded in the released emails.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files — U.S. Department of Justice</span><span>2026</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Robert Trivers, in released emails</p>
+      <p class="ev-body">Of Epstein, Trivers wrote that he “<mark class="ev-hl">was always a gentleman<sup class="ev-num">1</sup></mark>.”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Robert Trivers, in a released email</p>
+      <p class="ev-body">“<mark class="ev-hl">the basic problem is simple—i am going against a strong national trend—well-known man after well-known man is being brought low for alleged his misbehaviour toward women<sup class="ev-num">2</sup></mark>.”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein financial records · 2013</p>
+      <p class="ev-body"><mark class="ev-hl">Epstein wrote a $30,000 check to Trivers's foundation</mark>, and Trivers <mark class="ev-hl">introduced Gordon Getty to Epstein in 2013<sup class="ev-num">3</sup></mark>.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "was always a gentleman" — released emails</b><p>One of the quotes Inside Higher Ed (Feb. 3, 2026) attributed to Trivers from the released emails, behind this profile's account of how he characterized Epstein.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "strong national trend" — released email</b><p>The message Inside Higher Ed reported from the files in which Trivers framed the allegations against prominent men as a national trend he was resisting.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> Getty introduction & funding — 2013</b><p>Backs this profile's statement that the released files record Trivers introducing financier Gordon Getty to Epstein in 2013; the New York Daily News reported Epstein wrote a $30,000 check to Trivers's foundation, and Trivers confirmed receiving roughly $40,000 for the knee-symmetry research. Being named is not evidence of wrongdoing.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA release portal) ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Robert Trivers. Inclusion in these documents is not, by itself, evidence of wrongdoing; Trivers's documented tie to Epstein is as a funded researcher and correspondent.

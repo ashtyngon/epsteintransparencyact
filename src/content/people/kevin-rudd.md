@@ -31,6 +31,37 @@ Rudd, through his office, has denied any meeting or relationship with Epstein. H
 
 Yes. Kevin Rudd's name appears in documents released by the US Department of Justice in 2026, including emails, a meeting schedule, and messages in which Jeffrey Epstein and associates referenced him — most often, according to SBS News, "in passing" or in connection with attempted introductions by mutual acquaintances. Rudd's office has stated that no such introduction or meeting took place and that he never corresponded with or visited Epstein. Being named in the files is not evidence of any crime or wrongdoing. People appear in these documents in many contexts — correspondence, scheduling, contact references, or third-party messages — and Rudd has denied any direct contact or relationship. See the sources above for the documented context and Rudd's full response.
 
+## Evidence
+
+These passages come from the documents released by the **U.S. Department of Justice** in 2026 (emails and a meeting schedule), transcribed below as reported by SBS News and The Nightly, with our annotations tying each to what this profile states. Rudd's office disputes that any meeting or contact took place — that response appears in the annotations.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files — U.S. Department of Justice</span><span>2026</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein meeting schedule · 2014</p>
+      <p class="ev-body">A meeting with Rudd was scheduled for “<mark class="ev-hl">Sunday, 8 June 2014 at 4.30pm<sup class="ev-num">1</sup></mark>.”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → assistant · 6 June 2014</p>
+      <p class="ev-body">Epstein instructs his assistant to arrange “<mark class="ev-hl">non-vegetarian food, as now Kevin Rudd is also coming<sup class="ev-num">2</sup></mark>.”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → contact · September 2015</p>
+      <p class="ev-body">Epstein describes Rudd to a contact as the “<mark class="ev-hl">former prime minister of australia<sup class="ev-num">3</sup></mark>.”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> Scheduled meeting — 2014</b><p>The meeting-schedule entry behind this profile's statement that the files include a schedule entry referencing Rudd. SBS News noted there is no evidence the meeting took place; Rudd's office says it has "no records of this meeting" and that the introduction was "unsuccessful."</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "Kevin Rudd is also coming" — 2014</b><p>The 6 June 2014 email reported by The Nightly, cited here as an attempted introduction by mutual acquaintances. Rudd's office says: "No introduction ever took place, and there is no evidence of any direct contact."</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> "former prime minister of australia" — 2015</b><p>The September 2015 reference described by The Nightly. Per SBS News, most references to Rudd in the files mention him "in passing." Rudd has stated he never corresponded with or visited Epstein.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files release ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Kevin Rudd. Inclusion in these documents is not, by itself, evidence of wrongdoing; Rudd's office has denied that he ever met, corresponded with, or visited Epstein, and says attempted introductions by mutual acquaintances never took place.

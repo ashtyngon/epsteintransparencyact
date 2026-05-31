@@ -29,6 +29,27 @@ Copperfield has, through his attorneys, disputed the characterization of his ass
 
 Yes. Based on the sources reviewed for this profile, David Copperfield is named in reporting and documents associated with the Jeffrey Epstein files — including 2005 message pads, an October 2007 email, deposition testimony describing a 2004 dinner, and photographs with Ghislaine Maxwell, as reported by outlets including The Daily Beast and Yahoo. Copperfield's attorneys have said he and Epstein were "at most, acquaintances" and that he did not know about Epstein's crimes. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, including correspondence, scheduling, social events, and photographs.
 
+## Evidence
+
+This passage comes from a 2007 email surfaced in the released files, with our annotation connecting it to what this profile states.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released email — DOJ Epstein files</span><span>October 2007</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Email · October 2007</p>
+      <p class="ev-body">An October 2007 email described Copperfield as “<mark class="ev-hl">Epstein's favorite cohort<sup class="ev-num">1</sup></mark>” and stated that backstage passes to his performances were given as gifts to girls.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "Epstein's favorite cohort" — October 2007</b><p>The 2007 email referenced in this profile. Copperfield's attorneys called the reporting "a total distortion of the facts" and said he and Epstein "were, at most, acquaintances" who "only ever met on a handful of occasions."</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference David Copperfield. Inclusion in these documents is not, by itself, evidence of wrongdoing; Copperfield's attorneys say he and Epstein were "at most, acquaintances," and he has not been charged with any crime.

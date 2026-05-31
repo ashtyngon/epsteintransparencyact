@@ -128,6 +128,32 @@ What is established is that Wexner gave Epstein extraordinary control over his f
 
 Wexner has claimed he was unaware of the abuse, unaware of the misuse of his brand, and a victim of financial misappropriation. Congress has subpoenaed him to explain how all of that was possible. The question is not whether Wexner was formally involved in the trafficking — there is no evidence of that. The question is how a billionaire who granted another person total control over his finances, his property, and his most valuable brand failed to detect or prevent the abuse that was conducted using those assets.
 
+## Evidence
+
+These are documented facts drawn from primary records named in this profile — **bank documents and Justice Department records** on the mansion transaction, and a **2019 FBI document** in the DOJ release; the annotations connect each to what this profile states, including Wexner's account.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files &amp; bank records — DOJ / FBI</span><span>1998 · 2019</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Bank documents &amp; DOJ records · Nov. 1998</p>
+      <p class="ev-body"><mark class="ev-hl">Epstein acquired 9 East 71st Street through a corporation for $20 million — about $10 million up front, the balance backed by a $10 million promissory note and a personal guaranty Epstein signed<sup class="ev-num">1</sup></mark>.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">2019 FBI document (DOJ release)</p>
+      <p class="ev-body"><mark class="ev-hl">Listed Wexner among possible “co-conspirators” in the Epstein investigation<sup class="ev-num">2</sup></mark>; his name was initially redacted and later read aloud on the House floor.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> Mansion transaction — 1998</b><p>The structured, entity-level transfer at the center of this profile. Wexner says Epstein bought the house for what he was told was the appraised value; the bank and DOJ records reported in 2026 indicate roughly $20 million paid via an initial payment plus a $10 million promissory note.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> “co-conspirators” list — 2019</b><p>The basis for this profile’s statement that DOJ materials named Wexner a “co-conspirator.” He has never been charged; his representative says the lead prosecutor stated at the time that Wexner was “not a co-conspirator nor a target,” and reporting noted only “limited evidence” tying him to Epstein’s crimes.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/" target="_blank" rel="noopener">House Oversight — DOJ records release ↗</a> · <a href="https://www.courtlistener.com/docket/4355835/giuffre-v-maxwell/" target="_blank" rel="noopener">Giuffre v. Maxwell unsealed records ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Leslie Wexner. Inclusion in these documents is not, by itself, evidence of wrongdoing; Wexner has never been charged with any crime, denies any knowledge of Epstein's abuse, and says he was himself a victim of Epstein's financial misappropriation.

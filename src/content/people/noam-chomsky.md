@@ -76,6 +76,42 @@ Valeria wrote that "Epstein created a manipulative narrative about his case, whi
 
 Chomsky has not been accused of involvement in any of Epstein's crimes. The released documents show a personal and financial relationship between the two men, but contain no allegations of criminal conduct by Chomsky.
 
+## Evidence
+
+These passages come from the emails, letter, and financial records released by the **House Oversight Committee** and the DOJ; the annotations connect each to what this profile states.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released correspondence — U.S. House Oversight Committee</span><span>2019</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Noam Chomsky → Jeffrey Epstein · February 2019</p>
+      <p class="ev-body">“<mark class="ev-hl">It's painful to say, but I think the best way to proceed is to ignore it<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Noam Chomsky → Jeffrey Epstein · in response to an invitation</p>
+      <p class="ev-body">“<mark class="ev-hl">I'm really fantasizing about the Caribbean island<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Letter of recommendation, Chomsky for Epstein</p>
+      <p class="ev-body">Describes Epstein as a “<mark class="ev-hl">highly valued friend<sup class="ev-num">3</sup></mark>” and recounts how Epstein connected him with Ehud Barak.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Financial records</p>
+      <p class="ev-body"><mark class="ev-hl">$270,000 was transferred to Chomsky from Epstein-linked accounts<sup class="ev-num">4</sup></mark>.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> “ignore it” — Feb. 2019</b><p>Sent six months before Epstein’s death, this is the basis for this profile’s statement that Chomsky advised Epstein on handling the press scrutiny that followed the Miami Herald’s 2018 investigation.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> “fantasizing about the Caribbean island”</b><p>Backs the profile’s account that Chomsky expressed eagerness to visit Epstein’s island. There is no evidence in the released documents that he actually visited Little St. James.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> “highly valued friend”</b><p>The apparent letter of recommendation the House Oversight Committee released, referenced above.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">4</span> $270,000 transfer</b><p>The central financial figure in this profile. Chomsky said he had approached Epstein for help disbursing funds from his late first wife’s bank account and insisted none of the money belonged to Epstein.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising" target="_blank" rel="noopener">House Oversight Committee release ↗</a> · <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA portal) ↗</a> · <a href="https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel" target="_blank" rel="noopener">Zeteo searchable copy ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Noam Chomsky. Inclusion in these documents is not, by itself, evidence of wrongdoing; Chomsky has not been accused of involvement in any of Epstein's crimes.

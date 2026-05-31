@@ -29,6 +29,33 @@ In a statement reported by The Stanford Daily on February 5, 2026, Wolfe denied 
 
 Yes. As reported by The Stanford Daily on February 3, 2026, virologist Nathan Wolfe's full name appears 589 times in the released Epstein files, which include friendly correspondence between Wolfe and Jeffrey Epstein from 2008 to 2013 and a request for research funding. Wolfe has publicly denied any wrongdoing, said he never received funding from Epstein, and expressed regret over the association. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, including correspondence and funding solicitations. See the sources above for the documented details.
 
+## Evidence
+
+These passages come from the Epstein files released by the **U.S. Department of Justice**, as reviewed by The Stanford Daily, with our annotations connecting each to the claims this profile makes. Read the originals via the link beneath the panel.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files — U.S. Department of Justice</span><span>2008–2013</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">File-wide reference · 2008–2013</p>
+      <p class="ev-body"><mark class="ev-hl">Wolfe's full name appears 589 times in the released files<sup class="ev-num">1</sup></mark>, in friendly correspondence with Epstein from 2008 to 2013 — including a December 2010 dinner invitation.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Nathan Wolfe → Jeffrey Epstein · May 2013</p>
+      <p class="ev-body">Wolfe proposed a study linking “<mark class="ev-hl">sexual behavior and microbial diversity<sup class="ev-num">2</sup></mark>” — a project he referred to as a “<mark class="ev-hl">horny virus hypothesis<sup class="ev-num">3</sup></mark>” — explicitly raising Epstein's potential funding for it.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. This is a text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> 589 mentions — 2008–2013</b><p>The Stanford Daily reported this count and described the correspondence as friendly; it postdated Epstein's 2008 guilty plea. Wolfe acknowledged "overfamiliarity and poor judgment."</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "sexual behavior and microbial diversity" — May 2013</b><p>The research proposal this profile describes. Wolfe says the project was never pursued and that he never received funding from Epstein.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> "horny virus hypothesis" — May 2013</b><p>Wolfe's own term for the same proposed study, as cited in this profile. He has denied any wrongdoing and said he "never witnessed or participated in any misconduct."</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA release portal) ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Nathan Wolfe. Inclusion in these documents is not, by itself, evidence of wrongdoing; Wolfe has denied any wrongdoing, said he never received funding from Epstein, and expressed regret over the association.

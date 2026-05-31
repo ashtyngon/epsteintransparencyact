@@ -32,6 +32,37 @@ Both The Register and Fortune emphasized that the documents do not implicate Sin
 
 Yes — Steven Sinofsky appears in the 2026 Epstein document releases, primarily through emails concerning his 2012–2013 departure from Microsoft. Reporting by The Register (February 2, 2026) and Fortune (March 10 and March 12, 2026) describes Sinofsky consulting Epstein for advice on his exit negotiation, Epstein offering and being paid a $1 million fee around the time Sinofsky secured an approximately $14 million package, and contact continuing in a personal capacity until at least late 2017. The reporting stresses that he has not been charged with or accused of any wrongdoing, and his connection as documented is financial and advisory rather than involving the criminal allegations central to the Epstein case. Sinofsky declined to comment to Fortune.
 
+## Evidence
+
+These passages come from the Epstein email correspondence released by the **House Oversight Committee** and the broader DOJ files, transcribed below as reported by The Register and Fortune, with our annotations tying each to what this profile states. The reporting stresses Sinofsky has not been charged with or accused of any wrongdoing; he declined to comment to Fortune.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released correspondence — U.S. House Oversight Committee</span><span>Epstein records · 2026</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Steven Sinofsky · 2013</p>
+      <p class="ev-body">On the exit negotiation, Epstein urges him to hold out: “<mark class="ev-hl">Just repeat 20. Do not let [them] talk you down.<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Steven Sinofsky · 3 April 2013</p>
+      <p class="ev-body">Offering to handle the exit for a fee: “<mark class="ev-hl">I will charge you a one million dollar fee<sup class="ev-num">2</sup></mark>.”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Records re: wire transfer · 16 September 2013</p>
+      <p class="ev-body">A $1 million wire to Epstein is confirmed: “<mark class="ev-hl">Confirming $1,000,000<sup class="ev-num">3</sup></mark>.”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "Just repeat 20" — 2013</b><p>Backs this profile's account, per The Register, that Sinofsky turned to Epstein for advice on his Microsoft exit and Epstein repeatedly urged him to hold out for a larger sum.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "one million dollar fee" — 2013</b><p>The April 3, 2013 message quoted by Fortune in which Epstein offered to handle the exit for a fee — the basis for this profile's $1 million fee claim around Sinofsky's ~$14 million package.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> "Confirming $1,000,000" — 2013</b><p>The September 16, 2013 record Fortune described as confirming the $1 million wire to Epstein. The Register stated "there's no suggestion of criminal behavior by Sinofsky."</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising" target="_blank" rel="noopener">House Oversight Committee release ↗</a> · <a href="https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel" target="_blank" rel="noopener">Zeteo searchable copy ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Steven Sinofsky. Inclusion in these documents is not, by itself, evidence of wrongdoing; the reporting stresses that Sinofsky has not been charged with or accused of any wrongdoing.

@@ -61,6 +61,32 @@ A spokesperson for Branson said, "Richard believes that Epstein's actions were a
 
 Branson's appearance in the Epstein files has been cited as an illustration of how Epstein cultivated relationships with prominent figures, in part by advertising access to prestigious institutions and individuals. The Nobel committee connection, in particular, has been highlighted in reporting as an example of Epstein leveraging one high-status relationship to engage others. As with other public figures named in the files, being mentioned is not itself evidence of involvement in or knowledge of Epstein's crimes.
 
+## Evidence
+
+This passage comes from the files released under the **Epstein Files Transparency Act** (published by the U.S. Department of Justice), transcribed below as reported in the coverage cited here, with our annotations tying it to what this profile states. A Virgin spokesperson's account of the exchange appears in the annotations.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files — U.S. Department of Justice (EFTA)</span><span>2013</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Richard Branson · 2013</p>
+      <p class="ev-body">Epstein writes that Nobel Committee head Thorbjorn Jagland would be staying with him in September, adding: “<mark class="ev-hl">if you are there, you might find him interesting<sup class="ev-num">1</sup></mark>.”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Richard Branson → Jeffrey Epstein · 2013</p>
+      <p class="ev-body">Branson replies that he would love to see Epstein “<mark class="ev-hl">as long as you bring your harem!<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> Nobel invitation — 2013</b><p>Backs this profile's central claim that Epstein invoked his connection to Thorbjorn Jagland, head of the Norwegian Nobel Committee, in correspondence with Branson — the pattern the reporting describes of Epstein using the Nobel organization as a social credential.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "bring your harem" — 2013</b><p>Branson's quoted reply. A Virgin Group spokesperson said the word "harem" had originally been used by Epstein to refer to three adult women on his staff and that Branson had, regrettably, echoed that language. Branson's spokesperson says his contact with Epstein was limited and that he had no knowledge of Epstein's crimes.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA release portal) ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Richard Branson. Inclusion in these documents is not, by itself, evidence of wrongdoing; Branson has not been accused of any crime, and his representatives say his contact with Epstein was limited.

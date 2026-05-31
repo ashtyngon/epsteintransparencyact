@@ -67,6 +67,32 @@ In the days that followed, Summers resigned from the board of OpenAI; his role a
 
 The fallout extended to his wife, Elisa New, a Harvard professor and poet. In December 2025, PBS dropped her show "Poetry in America," whose fifth season had been set to air in spring 2026, after emails revealed Epstein's financial and creative involvement in the program. Arizona State University, where New had directed an educational media studio that distributed the show's content, terminated its relationship with her nonprofit, Verse Video Education, the same month.
 
+## Evidence
+
+These passages come from the emails released by the **House Oversight Committee** (Epstein-estate correspondence, Nov. 2025), with our annotations connecting each to the claims this profile makes. Read the originals via the links beneath the panel.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released correspondence — U.S. House Oversight Committee</span><span>Epstein estate · 2012–2019</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Lawrence Summers · 2012</p>
+      <p class="ev-body">“<mark class="ev-hl">head of the nobel peace prize staying with me, if you have any interest<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Summers ⇄ Epstein correspondence · 2017–2019</p>
+      <p class="ev-body"><mark class="ev-hl">Frequent contact from 2017 to 2019, including an exchange in which Summers sought Epstein's advice about pursuing a woman he described as a mentee<sup class="ev-num">2</sup></mark>; the most recent message was dated July 5, 2019, the day before Epstein's arrest.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. This is a text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "head of the nobel peace prize" — 2012</b><p>Epstein name-dropped Thorbjorn Jagland, who chaired the Norwegian Nobel Committee, to court contacts; this profile cites this message as the version sent to Summers. Being named this way is not, by itself, evidence of wrongdoing.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> 2017–2019 contact — released Nov. 17, 2025</b><p>Backs this profile's statement that the released emails showed frequent post-conviction contact. Their publication prompted Summers to say he was "deeply ashamed" and to step back from public roles; he has not been accused of participating in any of Epstein's alleged crimes.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising" target="_blank" rel="noopener">House Oversight Committee release ↗</a> · <a href="https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel" target="_blank" rel="noopener">Zeteo searchable copy ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Lawrence Summers. Inclusion in these documents is not, by itself, evidence of wrongdoing; Summers has not been accused of participating in any of Epstein's alleged crimes.

@@ -51,6 +51,32 @@ Wasserman's fall was among the highest-profile corporate casualties of the Epste
 
 The agency has not disclosed the full extent of client departures or provided a timeline for the sale. Wasserman has not publicly addressed the specific content of the Maxwell emails beyond his general statement to staff.
 
+## Evidence
+
+These passages come from the Epstein records released by the **U.S. Department of Justice** (Feb. 2026), with our annotations connecting each to the claims this profile makes. Read the originals via the link beneath the panel.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released documents — U.S. Department of Justice</span><span>2003 emails · contact book</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Email correspondence, Casey Wasserman ⇄ Ghislaine Maxwell · 2003</p>
+      <p class="ev-body"><mark class="ev-hl">Email correspondence between Wasserman and Ghislaine Maxwell, dated 2003<sup class="ev-num">1</sup></mark>, predating Epstein's 2008 guilty plea.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein's redacted contact book · entry</p>
+      <p class="ev-body">The entry reads “<mark class="ev-hl">Wasserman, Casey &amp; Laura<sup class="ev-num">2</sup></mark>”.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. This is a text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> 2003 Maxwell emails</b><p>The correspondence whose exposure triggered Wasserman's resignation as LA28 chairman and the sale of his agency. The New York Times described the emails as "flirtatious exchanges"; this profile notes their specific content has not been publicly detailed beyond that characterization. The emails predate Epstein's 2008 guilty plea, and Wasserman has not been accused of any crime.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "Wasserman, Casey &amp; Laura" — contact book</b><p>Wasserman's appearance in Epstein's released contact book, as cited in this profile. Inclusion is not evidence of wrongdoing.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA release portal) ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Casey Wasserman. Inclusion in these documents is not, by itself, evidence of wrongdoing; the emails predate Epstein's 2008 guilty plea, and Wasserman has not been accused of any crime.

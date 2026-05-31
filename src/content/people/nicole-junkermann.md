@@ -31,6 +31,37 @@ In response, Junkermann's spokesperson said, as quoted by The Telegraph (via Yah
 
 Yes. The sources reviewed for this profile document that Nicole Junkermann is named in the Epstein files, principally through years of email correspondence with Jeffrey Epstein that continued after his 2008 conviction, as reported by The Telegraph (via Yahoo), The Tab, and The Sunday Guardian. Her spokesperson has said she was "completely deceived and misled" by Epstein and "deeply regrets" their conversations. Being named in the files is not evidence of any crime or wrongdoing; people appear in these documents in many contexts, including correspondence, contact lists, and flight logs. See the sources above for the specific documented context.
 
+## Evidence
+
+These passages come from the released Epstein files and his flight logs, transcribed below, with our annotations connecting each to what this profile states.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files &amp; flight logs — DOJ (EFTA release)</span><span>2002–2010s</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Email from Nicole Junkermann · 2009 onward</p>
+      <p class="ev-body">In one email she referred to Epstein as “<mark class="ev-hl">Mr Wonderful<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Released files · earliest disclosed May 2009</p>
+      <p class="ev-body"><mark class="ev-hl">An account under her name was named 3,475 times in the files, with hundreds of emails, the earliest dating to May 2009 and continuing over the following decade.<sup class="ev-num">2</sup></mark></p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein flight logs · from 2002</p>
+      <p class="ev-body"><mark class="ev-hl">Junkermann appears in Epstein's flight logs as far back as 2002.<sup class="ev-num">3</sup></mark></p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "Mr Wonderful" — 2009 onward</b><p>Per The Telegraph (via Yahoo), Junkermann used this phrase in one email — the basis for this profile's account of years of correspondence that continued after Epstein's 2008 conviction.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> Named 3,475 times — from May 2009</b><p>The Tab reported the count and "extensive email communication"; The Telegraph reported the earliest disclosed correspondence dates to May 2009. Her spokesperson said she was "completely deceived and misled by him" and "deeply regrets" their conversations.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> Flight logs — from 2002</b><p>Per The Telegraph, Junkermann appears in the flight logs as far back as 2002. She is named as a contact and associate; she is not alleged in these sources to be a victim or a perpetrator of any crime.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files ↗</a> · <a href="https://www.justice.gov/ag/media/1391276/dl?inline" target="_blank" rel="noopener">Epstein flight logs ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Nicole Junkermann. Inclusion in these documents is not, by itself, evidence of wrongdoing; her spokesperson has said she was "completely deceived and misled" by Epstein and "deeply regrets" their conversations.

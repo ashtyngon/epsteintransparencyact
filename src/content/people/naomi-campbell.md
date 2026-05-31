@@ -57,6 +57,37 @@ Her attorney, Martin Singer, stated: "Prior to Epstein's 2019 arrest in New York
 
 Campbell has not been accused of any criminal conduct, and reporting on the released files has noted no evidence that she had knowledge of Epstein's crimes. What is documented is that her contact with Epstein — event invitations, email exchanges and scheduling handled through his staff over roughly a decade and a half, including after his 2008 conviction — was more extensive than was publicly known before the files were released.
 
+## Evidence
+
+These documented facts come from the files released by the DOJ in 2026 and Epstein's flight logs, with our annotations connecting each to what this profile states. The records referencing Campbell are largely emails, address-book entries and scheduling notes; the passages below are documented facts from those records, not verbatim quotes.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files &amp; flight logs — DOJ (EFTA release)</span><span>2001–2016</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Released files · 2026 DOJ release</p>
+      <p class="ev-body"><mark class="ev-hl">Campbell's name appears in nearly 300 of the released records — largely emails, address-book entries, call sheets and scheduling notes kept by Epstein and his staff.<sup class="ev-num">1</sup></mark></p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Emails · January 2016</p>
+      <p class="ev-body"><mark class="ev-hl">Emails show Campbell unsuccessfully requested use of Epstein's private jet to travel to Miami; he declined and a charter was arranged instead.<sup class="ev-num">2</sup></mark></p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein flight logs</p>
+      <p class="ev-body"><mark class="ev-hl">Campbell appears in Epstein's flight logs as a passenger.<sup class="ev-num">3</sup></mark></p>
+    </div>
+    <p class="ev-foot">Documented facts drawn from the released records. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> Named nearly 300 times — 2026 release</b><p>Per The New York Times, Campbell's name appeared in nearly 300 records, though some were duplicates — the basis for this profile's account of contact from about 2001 into the mid-2010s, including event invitations she extended after his 2008 conviction.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> 2016 jet request — January 2016</b><p>The records show Epstein declined the request. Her attorney has said Campbell "had been on Epstein's plane on a few occasions but she never observed any inappropriate conduct."</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> Flight logs — passenger</b><p>Campbell appears in the flight logs. She has not been accused of any crime; her attorney said that prior to Epstein's 2019 arrest she "knew nothing about his appalling criminal conduct."</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files ↗</a> · <a href="https://www.justice.gov/ag/media/1391276/dl?inline" target="_blank" rel="noopener">Epstein flight logs ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Naomi Campbell. Inclusion in these documents is not, by itself, evidence of wrongdoing; Campbell has not been accused of any crime and has said she was unaware of Epstein's criminal conduct.

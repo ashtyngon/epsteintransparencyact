@@ -39,6 +39,42 @@ Shareholders have sued Apollo, Rowan and Black in federal court in Manhattan, al
 
 Yes, in a documented but limited and largely indirect sense. Released Epstein documents include 2013–2016 emails in which Rowan's name appears — among them a January 2016 inquiry by Epstein about buying Rowan's private jet, a 2016 exchange about a potential Apollo corporate inversion, and an instance in which Rowan forwarded internal Apollo tax correspondence to Epstein — as reported by the Philadelphia Inquirer, The Daily Pennsylvanian and InvestmentNews. Much of the documented connection runs through Apollo and through co-founder Leon Black, whose paid tax-advisory relationship with Epstein is the more extensively documented one. Rowan and Apollo say that neither he nor anyone at the firm other than Black had a business or personal relationship with Epstein, and that any contact concerned Epstein's tax work for Black. Rowan has not been charged with any crime, and being named in these documents is not evidence of any crime or wrongdoing.
 
+## Evidence
+
+These passages are drawn from the 2013–2016 Epstein emails released by the **U.S. Department of Justice**, as reported by The Daily Pennsylvanian, the Philadelphia Inquirer and InvestmentNews; the annotations connect each to what this profile states, including Rowan's and Apollo's denials.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files — U.S. Department of Justice (EFTA)</span><span>2013–2016</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein’s assistant → “Irene” · January 2016</p>
+      <p class="ev-body">Requests “<mark class="ev-hl">the details of Marc's plane for sale … the hours, photos, any pertinent information!<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jet company → Epstein · 2016</p>
+      <p class="ev-body"><mark class="ev-hl">Offered Epstein the Gulfstream G450 for $18.9 million, noting it was in “immaculate condition”<sup class="ev-num">2</sup></mark>; the plane was ultimately sold to another buyer.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Marc Rowan → Jeffrey Epstein · March 2016</p>
+      <p class="ev-body"><mark class="ev-hl">Forwarded a detailed internal calculation of Apollo's tax receivable agreement to Epstein<sup class="ev-num">3</sup></mark>.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Email exchange · September 2013</p>
+      <p class="ev-body"><mark class="ev-hl">Arranged a meeting between members of Apollo — including “Leon” and “Josh” — and Epstein on Oct. 22, 2013<sup class="ev-num">4</sup></mark>.</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> Jet inquiry — Jan. 2016</b><p>The basis for this profile’s account of Epstein’s January 2016 inquiry about buying Rowan’s private jet. A spokesperson for Rowan declined to comment to the Inquirer.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> Gulfstream G450, $18.9M — 2016</b><p>The price the jet company quoted Epstein, per the Philadelphia Inquirer; the plane was sold to another buyer.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> Apollo tax-receivable calculation — March 2016</b><p>Backs the profile’s statement that Rowan forwarded internal Apollo tax correspondence to Epstein. Apollo says any such contact related to Epstein’s tax-advisory work for Leon Black; it says neither Rowan nor anyone other than Black had a business or personal relationship with Epstein.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">4</span> Apollo meeting — Sept. 2013</b><p>The September 2013 exchange arranging an Apollo–Epstein meeting, per The Daily Pennsylvanian. A Dechert review “found no evidence that Rowan or co-founder Josh Harris had hired Epstein or consulted with him on personal matters.”</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA release) ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Marc Rowan. Inclusion in these documents is not, by itself, evidence of wrongdoing; Rowan and Apollo say that neither he nor anyone at the firm other than Leon Black had a business or personal relationship with Epstein.

@@ -31,6 +31,37 @@ Separately, Newsweek reported (January 2, 2024) that in 2020 Band told Vanity Fa
 
 Yes. According to The Independent Florida Alligator's reporting on documents and flight logs released by the U.S. Department of Justice, Doug Band appears in Epstein-related flight logs (described by the Alligator as more than 35 flights between 2002 and 2005, and by released flight records as 26 flights) and in emails involving Ghislaine Maxwell, including a 2005 discussion of a $35,000 watch. The Alligator reported that Band did not respond to its requests for comment. Being named or appearing in these documents is not evidence of any crime or wrongdoing; people appear in this material in many contexts, including correspondence, flight logs, and passing references.
 
+## Evidence
+
+These passages come from the flight logs and emails released by the **U.S. Department of Justice**, transcribed below as reported by The Independent Florida Alligator, with our annotations tying each to what this profile states. Band did not respond to the Alligator's requests for comment.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files — U.S. Department of Justice</span><span>2002–2005</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Epstein flight records · 2002–2005</p>
+      <p class="ev-body"><mark class="ev-hl">Released flight records indicate Band traveled on the airplane 26 times<sup class="ev-num">1</sup></mark>, including two flights on June 14, 2003 with Epstein and Ghislaine Maxwell but without Clinton.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Ghislaine Maxwell → Doug Band · c. 2002</p>
+      <p class="ev-body">“<mark class="ev-hl">Let me know when you next go to Europe as I do have some interesting and fun friends that you could hook up with<sup class="ev-num">2</sup></mark>.”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Doug Band, on a proposed gift · 2005</p>
+      <p class="ev-body">Reacting to a $35,000 watch Epstein and Maxwell wanted to give him: “<mark class="ev-hl">If its bc he wants to buy me one then no can do<sup class="ev-num">3</sup></mark>.”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> Flight logs — 2002–2005</b><p>The pilot manifests behind this profile's flight-log claim. The Alligator reported Band appears on more than 35 flights over 2002–2005; released flight records place him on 26 flights, including two with Epstein and Maxwell but without Clinton.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> Maxwell message — c. 2002</b><p>The 2002-era email from Maxwell to Band quoted in the Alligator's reporting on the released documents.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> $35,000 watch — 2005</b><p>Backs this profile's note of a 2005 discussion of an Audemars Piguet watch Epstein and Maxwell wanted to give Band. The quoted line is Band's own reaction as reported by the Alligator.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/ag/media/1391276/dl?inline" target="_blank" rel="noopener">Epstein flight logs ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Doug Band. Inclusion in these documents is not, by itself, evidence of wrongdoing.

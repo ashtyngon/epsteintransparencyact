@@ -145,6 +145,32 @@ What is established is that Acosta's office negotiated a deal that allowed Epste
 
 The plea deal resolved the federal investigation without charges and, in the years that followed, was widely criticized for shielding Epstein and his associates from broader federal accountability. Between 2008 and 2019, Epstein remained active among the powerful — continuing to host visitors at his properties and maintaining his social network — until the agreement's terms came under renewed public scrutiny and he was arrested on new federal charges.
 
+## Evidence
+
+These passages come from the **DOJ Office of Professional Responsibility report** (Nov. 2020) named in this profile; the annotations connect each to what this profile states.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>DOJ report — Office of Professional Responsibility review</span><span>Nov. 2020</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">DOJ Office of Professional Responsibility report · Nov. 2020</p>
+      <p class="ev-body">Found Acosta exercised “<mark class="ev-hl">poor judgment<sup class="ev-num">1</sup></mark>” in resolving the matter through the agreement, but committed no professional misconduct.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">DOJ Office of Professional Responsibility report · Nov. 2020</p>
+      <p class="ev-body">Stated it found “<mark class="ev-hl">no evidence suggesting that Epstein was such a cooperating witness or 'intelligence asset'<sup class="ev-num">2</sup></mark>.”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> “poor judgment” — 2020</b><p>The DOJ review’s finding, restated throughout this profile: poor judgment in resolving the case through the non-prosecution agreement, but no professional misconduct, and no finding it resulted from corruption or Epstein’s wealth or status.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> “intelligence asset” finding — 2020</b><p>Bears on the reported, uncorroborated claim that Acosta was told Epstein “belonged to intelligence.” Asked directly, Acosta said “the answer is no,” and the OPR review found no evidence Epstein was an intelligence asset.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the original: <a href="https://www.justice.gov/opr/page/file/1336471/dl" target="_blank" rel="noopener">DOJ OPR report (Nov. 2020) ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Alexander Acosta. Acosta was never accused of any crime and was not alleged to be aware of or involved in Epstein's offenses; his role was prosecutorial.

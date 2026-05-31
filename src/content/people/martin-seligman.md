@@ -30,6 +30,32 @@ In statements to The Daily Pennsylvanian, Seligman disputed claims that Epstein 
 
 Yes. Martin Seligman's name appears in correspondence within the released Epstein documents, in which Epstein referenced him as a contact and described him visiting his New Mexico ranch, according to The Daily Pennsylvanian's February 23, 2026 review of the files. Seligman has confirmed meeting Epstein at a 2004 dinner and attending an academic seminar at the ranch in 2006 or 2007, but he has stated that he had no personal relationship with Epstein, no contact after 2007, and that Epstein never funded his research. Being named in or referenced within the documents is not evidence of wrongdoing, and the reporting states that Seligman has not been accused of any wrongdoing in connection with Epstein or his crimes ([The Daily Pennsylvanian](https://www.thedp.com/article/2026/02/penn-professor-epstein-research-seligman-psychology-trump)).
 
+## Evidence
+
+These passages come from the Epstein records released by the **U.S. Department of Justice** (Jan. 30, 2026), reviewed by The Daily Pennsylvanian, with our annotations connecting each to the claims this profile makes. Read the originals via the link beneath the panel.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released correspondence — U.S. Department of Justice</span><span>2009–2010</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein, on proposed academic meetings · 2009</p>
+      <p class="ev-body">Epstein called Seligman a “<mark class="ev-hl">core participant<sup class="ev-num">1</sup></mark>” in proposed academic meetings.</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein, on his New Mexico ranch · 2010</p>
+      <p class="ev-body">“<mark class="ev-hl">Marty has been at my ranch … he is great<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. This is a text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "core participant" — 2009</b><p>Epstein's own characterization of Seligman as a contact, as cited in this profile. Seligman says he had "no contact of any kind with him after 2007" and that Epstein never funded his research.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "Marty has been at my ranch" — 2010</b><p>Backs this profile's account of Seligman attending a seminar at Epstein's New Mexico ranch (which Seligman dates to 2006 or 2007 and described as "highly technical and about the mathematics of evolutionary theory"). The Daily Pennsylvanian reports Seligman has not been accused of any wrongdoing in connection with Epstein.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA release) ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Martin Seligman. Inclusion in these documents is not, by itself, evidence of wrongdoing; Seligman says he had no personal relationship with Epstein and no contact after 2007, and reporting states he has not been accused of any wrongdoing in connection with Epstein.

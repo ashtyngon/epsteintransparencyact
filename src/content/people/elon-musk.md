@@ -29,6 +29,32 @@ Both CBS News and PBS News report Musk's own response. CBS News quotes Musk's st
 
 Yes. Elon Musk, the businessman who leads Tesla and SpaceX, is named in the released Epstein documents through email exchanges with Jeffrey Epstein dated 2012 to 2014, according to CBS News and PBS News. The reported emails discuss Epstein's Caribbean island and parties, but the records do not establish whether any visit occurred, and PBS News notes it is not clear the island visits took place. Musk has said he had little correspondence with Epstein and declined repeated invitations to the island. Being named in the files is not evidence of any crime or wrongdoing.
 
+## Evidence
+
+These passages come from the Epstein records released by the **U.S. Department of Justice**, reported by CBS News, with our annotations connecting each to the claims this profile makes. Read the originals via the link beneath the panel.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released correspondence — U.S. Department of Justice</span><span>2012–2014</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Elon Musk · Nov. 25, 2012</p>
+      <p class="ev-body">Epstein asked about bringing guests by helicopter; Musk replied: “<mark class="ev-hl">Probably just Talulah and me<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Elon Musk → Jeffrey Epstein · Christmas 2012</p>
+      <p class="ev-body">“<mark class="ev-hl">What day/night will be the wildest party on your island?<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. This is a text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> "Probably just Talulah and me" — Nov. 25, 2012</b><p>Part of the 2012–2014 exchanges this profile cites; "Talulah" refers to Musk's then-wife Talulah Riley. The records do not establish whether any visit occurred.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> "wildest party on your island?" — Christmas 2012</b><p>Among the messages discussing Epstein's Caribbean island. Musk has said he "had very little correspondence with Epstein and declined repeated invitations" to the island, while acknowledging the emails could be "misinterpreted"; PBS News notes it is not clear the island visits took place.</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (full release) ↗</a></p>
+
 ## Documents
 
 Primary-source records that name or reference Elon Musk. Inclusion in these documents is not, by itself, evidence of wrongdoing; Musk has said he declined repeated invitations to Epstein's island.

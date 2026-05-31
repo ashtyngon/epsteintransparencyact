@@ -29,6 +29,32 @@ ARTnews reported Pigozzi's response in a phone call: he said he did not remember
 
 Yes. Jean Pigozzi is named in documents released by the U.S. Department of Justice under the Epstein Files Transparency Act, which according to ARTnews include 2013 email correspondence between him and Jeffrey Epstein, as well as a 2010 email chain with an account ARTnews identified as "most likely" Ghislaine Maxwell. Pigozzi has publicly responded, telling ARTnews that he had nothing to do with Epstein and girls, that he did not recall the "red head" exchange, and that he regretted meeting Epstein and Maxwell. Being named in these documents is not evidence of any crime or wrongdoing. See the sources above for the specific, documented details.
 
+## Evidence
+
+These passages come from the 2013 email correspondence between Pigozzi and Jeffrey Epstein in the documents released by the **U.S. Department of Justice** under the Epstein Files Transparency Act; the annotations connect them to what this profile states, including Pigozzi's response.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released files — U.S. Department of Justice (EFTA)</span><span>2013</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jean Pigozzi → Jeffrey Epstein · 2013</p>
+      <p class="ev-body">“<mark class="ev-hl">I like the red head. Seem fun and smart<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Jean Pigozzi · 2013 (reply)</p>
+      <p class="ev-body">“<mark class="ev-hl">german jew<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <p class="ev-foot">Transcribed from the released documents. Text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> “I like the red head” — 2013</b><p>The exchange ARTnews quoted as part of correspondence that, in its words, “discuss the appearance of different women.” Pigozzi told ARTnews he did not remember any correspondence about a “red head.”</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> Epstein’s reply — 2013</b><p>Epstein’s answer in the same exchange. Of his connections with Epstein, Pigozzi told ARTnews, “I never had anything to do with him and girls. Zero. Nothing,” and that he regretted meeting Epstein and Ghislaine Maxwell, calling the emails “stupid.”</p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://www.justice.gov/epstein" target="_blank" rel="noopener">DOJ Epstein Files (EFTA release portal) ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Jean Pigozzi. Inclusion in these documents is not, by itself, evidence of wrongdoing; Pigozzi has said he "never had anything to do with him and girls" and that he regretted meeting Epstein and Maxwell.

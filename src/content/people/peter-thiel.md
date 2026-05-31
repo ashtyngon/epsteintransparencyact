@@ -36,6 +36,37 @@ Being named in the files is not evidence of wrongdoing. The released House docum
 
 Yes. Peter Thiel is named in the 2026 releases of records from Jeffrey Epstein's estate. The emails released by the House Oversight Committee show that Epstein placed about $40 million into funds managed by Valar Ventures, a firm Thiel co-founded, and that Thiel corresponded with Epstein over roughly five years, with meetings scheduled between 2014 and 2016 — as reported by The Week (citing The New York Times) and PBS NewsHour. PBS NewsHour documented specific email exchanges, including a 2018 invitation from Epstein for Thiel to visit his Caribbean property, which it was unclear whether Thiel accepted. Per The Week, Thiel has said he never visited Epstein's island and has denied any wrongdoing. He has not been accused of any criminal conduct in connection with Epstein.
 
+## Evidence
+
+Every claim above traces to one primary source: the emails released by the **House Oversight Committee** (Epstein-estate documents, "Third Batch," 2026). Below is that correspondence, transcribed, with our annotations connecting each passage to what this profile states. Read the originals via the links beneath the panel.
+
+<div class="ev">
+  <div class="ev-doc">
+    <div class="ev-head"><span>Released correspondence — U.S. House Oversight Committee</span><span>Epstein estate · 2026</span></div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Peter Thiel · 2014</p>
+      <p class="ev-body">“<mark class="ev-hl">that was fun, see you in 3 weeks<sup class="ev-num">1</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Jeffrey Epstein → Peter Thiel · 2018</p>
+      <p class="ev-body">Epstein asks whether Thiel is enjoying Los Angeles; after Thiel replies that he can’t complain, Epstein writes: “<mark class="ev-hl">Dec visit me Caribbean<sup class="ev-num">2</sup></mark>”</p>
+    </div>
+    <div class="ev-mail">
+      <p class="ev-from">Estate financial records · 2015–2016</p>
+      <p class="ev-body"><mark class="ev-hl">Epstein placed about $40 million into two funds managed by Valar Ventures<sup class="ev-num">3</sup></mark>, the New York firm Thiel co-founded.</p>
+    </div>
+    <p class="ev-foot">Transcribed verbatim from the released documents. This is a text reproduction, not a scan.</p>
+  </div>
+  <div class="ev-notes">
+    <p class="ev-noteshead">Our annotations</p>
+    <div class="ev-note"><b><span class="ev-badge">1</span> “see you in 3 weeks” — 2014</b><p>One message within roughly five years of contact — the basis for this profile’s statement that Thiel “corresponded with Epstein for five years,” with meetings documented 2014–2016.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">2</span> “Dec visit me Caribbean” — 2018</b><p>The 2018 island invitation referenced above. A spokesperson told Politico that Thiel never visited the island; it is unclear whether he responded.</p></div>
+    <div class="ev-note"><b><span class="ev-badge">3</span> $40M into Valar — 2015–2016</b><p>Backs this profile’s central financial claim. Thiel says the contact concerned tax and financial advice. <em>Per Snopes, nothing in the emails shows Epstein offering anything improper to Thiel.</em></p></div>
+  </div>
+</div>
+
+<p class="ev-src">Read the originals: <a href="https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-release-third-batch-documents-jeffrey-epstein-estate" target="_blank" rel="noopener">House Oversight Committee release ↗</a> · <a href="https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel" target="_blank" rel="noopener">Zeteo searchable copy (Google Pinpoint) ↗</a></p>
+
 ## Documents
 
 Primary-source records that reference Peter Thiel. Inclusion in these documents is not, by itself, evidence of wrongdoing; Thiel's spokesperson says he never visited Epstein's island, and he has denied any wrongdoing.
