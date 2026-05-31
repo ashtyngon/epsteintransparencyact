@@ -9,8 +9,6 @@ shortBio: "Nicholas Christakis — Yale Sterling Professor of Social and Natural
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "Nicholas Christakis met and emailed with Epstein about his research (Yale Daily News)"
     url: "https://yaledailynews.com/articles/nicholas-christakis-met-and-emailed-with-epstein-about-his-research"
   - title: "Professors in the Epstein files say they hoped friendship would lead to research funding (Boston Globe)"
