@@ -33,8 +33,6 @@ sources:
     url: "https://www.newsweek.com/bill-gates-jeffrey-epstein-timeline-friendship-relationship-1590004"
   - title: "Bill Gates has pulled out of India's AI summit amid questions over his ties to Jeffrey Epstein — Fortune"
     url: "https://fortune.com/2026/02/19/bill-gates-india-ai-summit-epstein-chaos/"
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
 ---
 
 Bill Gates is the co-founder of Microsoft and was, until 2021, co-chair of the Bill & Melinda Gates Foundation. He met [Jeffrey Epstein](/people/jeffrey-epstein) on multiple occasions beginning in 2011 — years after Epstein's 2008 conviction in Florida for soliciting prostitution from a minor.

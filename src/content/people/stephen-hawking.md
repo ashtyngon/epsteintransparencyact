@@ -9,8 +9,6 @@ shortBio: "Stephen Hawking — Theoretical physicist and cosmologist (deceased) 
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "Did Stephen Hawking attend an Epstein conference? (Snopes)"
     url: "https://www.snopes.com/fact-check/stephen-hawking-jeffrey-epsteins-conference/"
 sensitive: false

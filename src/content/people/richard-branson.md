@@ -28,10 +28,6 @@ sources:
     url: "https://www.avclub.com/uncovering-richard-bransons-extensive-relationship-with-jeffrey-epstein"
   - title: "Epstein files set off Norwegian political storm: What we know — Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/2/6/epstein-files-set-off-norwegian-political-storm-what-we-know"
-  - title: "Richard Branson — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Richard_Branson"
-  - title: "Epstein Files Transparency Act — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act"
   - title: "Trump signs Epstein Files Transparency Act into law — JURIST"
     url: "https://www.jurist.org/news/2025/11/trump-signs-epstein-files-transparency-act-into-law/"
 sensitive: false

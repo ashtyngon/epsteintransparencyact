@@ -14,8 +14,6 @@ firstMentionedDate: 2026-01-30
 sources:
   - title: "Gloria Allred Opposes Subpoenaing Epstein Survivors for Congressional Hearings — NBC News"
     url: "https://www.nbcnews.com/news/us-news/gloria-allred-epstein-survivors-subpoena-hearings"
-  - title: "Gloria Allred — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Gloria_Allred"
   - title: "Gloria Allred | Discrimination Attorney | Feminist Lawyer"
     url: "https://www.gloriaallred.com/"
   - title: "Jeffrey Epstein accuser Alicia Arden says files release is 'easy bi-partisan issue' — NBC Los Angeles"
@@ -25,7 +23,7 @@ sources:
 status: published
 ---
 
-Gloria Allred is an American attorney known for representing clients in civil rights, women's rights, sexual harassment, and employment discrimination cases. According to her Wikipedia biography, she handles high-profile matters involving civil rights and sexual misconduct allegations, founded the law firm Allred, Maroko & Goldberg in 1976, and has been inducted into the National Women's Hall of Fame. Her law firm describes her as a "tireless and successful advocate for victims whose rights have been violated," with a practice spanning women's rights, victims' rights, civil rights, and employment discrimination.
+Gloria Allred is an American attorney known for representing clients in civil rights, women's rights, sexual harassment, and employment discrimination cases. She handles high-profile matters involving civil rights and sexual misconduct allegations, founded the law firm Allred, Maroko & Goldberg in 1976, and has been inducted into the National Women's Hall of Fame. Her law firm describes her as a "tireless and successful advocate for victims whose rights have been violated," with a practice spanning women's rights, victims' rights, civil rights, and employment discrimination.
 
 In connection with the Jeffrey Epstein matter, Allred serves as counsel for accusers and survivors. NBC Los Angeles reports that she "represents more than two dozen Epstein accusers," and NPR (as carried by KERA News) reports that she has represented 27 survivors of Epstein's abuse. In that capacity, Allred has advocated publicly for the release of Justice Department documents, telling reporters that "survivors have made it clear... they want transparency and they want truth," and emphasizing that the matter is not partisan: "not once has anyone said to me, 'Is the person who abused me a Democrat or a Republican?'"
 

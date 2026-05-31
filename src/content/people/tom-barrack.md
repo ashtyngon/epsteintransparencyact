@@ -18,12 +18,6 @@ sources:
     url: "https://www.cbsnews.com/news/tom-barrack-jeffrey-epstein-files/"
   - title: "Epstein Files Topple European Elites While U.S. Officials Keep Power — NPR"
     url: "https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout"
-  - title: "Tom Barrack — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Tom_Barrack"
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
-  - title: "DigitalBridge — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/DigitalBridge"
   - title: "Epstein files: DP World chief executive Bin Sulayem resigns over links to disgraced financier — The Irish Times"
     url: "https://www.irishtimes.com/world/us/2026/02/13/epstein-files-dp-world-chief-executive-bin-sulayem-resigns-over-links-to-disgraced-financier/"
   - title: "Goldman Sachs' top lawyer resigns after Epstein files release as fallout grows — Fortune"
@@ -37,7 +31,7 @@ Tom Barrack is an American investor who founded the real estate private-equity f
 
 Documents released under the Epstein Transparency Act in February 2026 identified Barrack as having extensive contact with [Jeffrey Epstein](/people/jeffrey-epstein). A CBS News analysis of more than 100 texts and email exchanges in the released Justice Department records found that Barrack "was in regular, close contact with Jeffrey Epstein for years after Epstein's 2008 conviction for soliciting a minor."
 
-According to CBS News, the correspondence spans from at least 2002 through 2018 and includes invitations to private residences, mutual introductions to diplomats and investors, and discussions of business opportunities. CBS reported that Epstein facilitated introductions for Barrack to figures including Peter Thiel and former Israeli prime minister Ehud Barak, and that Epstein purchased roughly $1 million in Colony Capital stock in 2016. Wikipedia's list of people named in the files notes that, by the early 2000s, Barrack and Epstein "had business ties to the Middle East" and "invited each other, introduced each other to diplomats and investors, discussed business opportunities."
+According to CBS News, the correspondence spans from at least 2002 through 2018 and includes invitations to private residences, mutual introductions to diplomats and investors, and discussions of business opportunities. CBS reported that Epstein facilitated introductions for Barrack to figures including Peter Thiel and former Israeli prime minister Ehud Barak, and that Epstein purchased roughly $1 million in Colony Capital stock in 2016. Reporting on the released files notes that, by the early 2000s, Barrack and Epstein had business ties to the Middle East and invited each other, introduced each other to diplomats and investors, and discussed business opportunities.
 
 CBS News stated there is "no evidence to suggest Barrack participated in or had knowledge of any ongoing criminal conduct by Epstein." CBS said it reached out to Barrack for comment and had not received a response as of publication.
 

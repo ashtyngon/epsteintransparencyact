@@ -10,8 +10,6 @@ shortBio: "Sergey Brin is the co-founder of Google. He is named in the Epstein f
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "A list of powerful men named in the Epstein files (PBS NewsHour)"
     url: "https://www.pbs.org/newshour/nation/a-list-of-powerful-men-named-in-the-epstein-files-from-elon-musk-to-former-prince-andrew"
 sensitive: false
@@ -23,7 +21,7 @@ Sergey Brin is an American computer scientist and businessman who co-founded Goo
 
 Brin's name appears in reporting on the documents commonly referred to as the Epstein files. According to PBS NewsHour, in 2003 Ghislaine Maxwell invited Brin to a film screening and later to a dinner at Jeffrey Epstein's home, which she described as "happily casual and relaxed." The reporting states that Brin made plans to meet Epstein and Maxwell at Epstein's New York townhouse and offered to bring Google's then-CEO, Eric Schmidt, to the dinner. PBS NewsHour reported that Google representatives did not respond to requests for comment.
 
-Wikipedia's list of people named in the Epstein files states that documents indicated Brin visited Epstein's private island and corresponded with Maxwell about attending dinners at Epstein's home.
+The released files indicate that Brin visited Epstein's private island and corresponded with Maxwell about attending dinners at Epstein's home.
 
 ## Is Sergey Brin in the Epstein files?
 

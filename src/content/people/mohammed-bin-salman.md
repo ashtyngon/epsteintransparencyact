@@ -11,8 +11,6 @@ shortBio: "Mohammed bin Salman — Crown Prince and Prime Minister of Saudi Arab
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "Inside Jeffrey Epstein’s relationship with Saudi Arabia (CBS News)"
     url: "https://www.cbsnews.com/news/jeffrey-epstein-saudi-arabia/"
 sensitive: false

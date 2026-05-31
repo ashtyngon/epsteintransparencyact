@@ -23,8 +23,6 @@ sources:
     url: "https://madamenoire.com/1659243/naomi-campbell-epstein-files/"
   - title: "Massive trove of Epstein files released by DOJ — CBS News"
     url: "https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/"
-  - title: "Naomi Campbell — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Naomi_Campbell"
 ---
 
 Naomi Campbell is a British supermodel and founder of Fashion for Relief, a charitable initiative she launched in 2005. Files released by the U.S. Department of Justice in 2026 named Campbell nearly 300 times, documenting years of contact with [Jeffrey Epstein](/people/jeffrey-epstein). Campbell has not been accused of any crime, and she has said she was unaware of his criminal conduct.

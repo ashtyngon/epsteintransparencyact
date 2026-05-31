@@ -73,9 +73,9 @@ The full scope of the network documented in the files remains only partially pub
 1. <span id="ref-1"></span>[The Epstein Files and the Hidden World of an Unaccountable Elite](https://www.nytimes.com/2026/02/12/us/politics/epstein-files.html) — New York Times
 2. <span id="ref-2"></span>[Goldman Sachs Top Lawyer Resigns After Named in Epstein Files](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)
 3. <span id="ref-3"></span>[Dubai Ports Chief Resigns After Hundreds of Secret Epstein Emails](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed)
-4. <span id="ref-4"></span>[Epstein files](https://en.wikipedia.org/wiki/Epstein_files) — Wikipedia
+4. <span id="ref-4"></span>[Investigation of the U.S. Attorney's Office's Resolution of Its 2006–2008 Federal Investigation of Jeffrey Epstein (OPR report, Nov. 2020)](https://www.justice.gov/opr/page/file/1336471/dl) — U.S. DOJ Office of Professional Responsibility
 5. <span id="ref-5"></span>[Epstein files have brought a wave of resignations and investigations](https://www.washingtonpost.com/politics/2026/02/17/epstein-files-resignations-investigations/) — Washington Post
 6. <span id="ref-6"></span>[Lawmaker Names 6 Men Hidden in Epstein Files](/news/2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act)
 7. <span id="ref-7"></span>[Thomas Massie, Ro Khanna suggest powerful men are being protected by over-redactions](https://www.cnn.com/2026/02/09/politics/unredacted-epstein-files-doj-congress) — CNN
 8. <span id="ref-8"></span>[Congress Subpoenas Wexner to Testify on Epstein Ties](/news/2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties)
-9. <span id="ref-9"></span>[Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act) — Wikipedia
+9. <span id="ref-9"></span>[Public Law 119–38: Epstein Files Transparency Act (Nov. 19, 2025)](https://www.congress.gov/119/plaws/publ38/PLAW-119publ38.pdf) — U.S. Congress

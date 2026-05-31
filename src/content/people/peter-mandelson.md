@@ -28,8 +28,6 @@ sources:
     url: "https://globalnews.ca/news/11648437/peter-mandelson-resigns-labour-party-house-of-lords-epstein-files/"
   - title: "Peter Mandelson steps down from the House of Lords – but he still has his title — The Conversation"
     url: "https://theconversation.com/peter-mandelson-steps-down-from-the-house-of-lords-but-he-still-has-his-title-275023"
-  - title: "Relationship of Peter Mandelson and Jeffrey Epstein — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Relationship_of_Peter_Mandelson_and_Jeffrey_Epstein"
   - title: "Lord Mandelson asked to give evidence over Epstein by US politicians — Stratford Herald (PA)"
     url: "https://www.stratford-herald.com/national/lord-mandelson-asked-to-give-evidence-over-epstein-by-us-politicians-162760/"
 sensitive: false

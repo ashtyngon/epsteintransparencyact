@@ -19,8 +19,6 @@ sources:
     url: "https://www.bostonglobe.com/2026/02/18/metro/george-mitchell-jeffrey-epstein-maine/"
   - title: "Jeffrey Epstein tried to meet with George Mitchell long after 2008 conviction — Bangor Daily News"
     url: "https://www.bangordailynews.com/2026/02/02/politics/washington/jeffrey-epstein-tried-to-meet-george-mitchell-after-2008-conviction/"
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
 sensitive: false
 ---
 

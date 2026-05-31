@@ -9,8 +9,6 @@ shortBio: "Chelsea Handler — Comedian, author, and television host — is name
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "New emails show how Epstein used the media to rehab his reputation (Semafor)"
     url: "https://www.semafor.com/article/02/08/2026/new-emails-show-how-epstein-used-the-media-to-rehab-his-reputation"
 sensitive: false

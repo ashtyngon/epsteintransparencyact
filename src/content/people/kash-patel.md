@@ -17,8 +17,6 @@ firstMentionedDate: 2025-11-01
 sources:
   - title: "Epstein's victims say other men abused them. Files shed little light on how investigators followed up — CNN"
     url: "https://www.cnn.com/2026/04/22/us/epstein-files-sex-trafficking-allegations-invs"
-  - title: "Kash Patel — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Kash_Patel"
   - title: "Kash Patel Says No 'Credible' Info Jeffrey Epstein Trafficked Young Women to Others — Newsweek"
     url: "https://www.newsweek.com/kash-patel-jeffrey-epstein-files-update-release-vote-2130678"
   - title: "News Wrap: Patel faces criticism for not releasing FBI's Epstein files — PBS NewsHour"
@@ -28,7 +26,7 @@ sources:
 status: published
 ---
 
-Kashyap "Kash" Patel is the Director of the Federal Bureau of Investigation. He was confirmed by the Senate on February 20, 2025 and sworn in the following day, according to his Wikipedia biography. As FBI Director, Patel oversees the agency that holds and processes the federal investigative files on Jeffrey Epstein, and his profile here reflects that official role rather than any reported personal connection to Epstein.
+Kashyap "Kash" Patel is the Director of the Federal Bureau of Investigation. He was confirmed by the Senate on February 20, 2025 and sworn in the following day. As FBI Director, Patel oversees the agency that holds and processes the federal investigative files on Jeffrey Epstein, and his profile here reflects that official role rather than any reported personal connection to Epstein.
 
 Patel addressed the Epstein investigation directly during congressional testimony in September 2025. At a Senate Judiciary Committee hearing on September 16, 2025, Republican Senator John Kennedy asked Patel to whom Epstein had trafficked his victims; Patel answered, "Himself. There is no credible information, none," adding, "If there were I would bring the case yesterday that he trafficked to other individuals," as reported by Newsweek. In that same exchange, Newsweek reported, Patel said the bureau's case files were "limited," attributing the gaps to narrow search warrants from the 2006–2007 period following an earlier deal between federal prosecutors and Epstein.
 

@@ -53,14 +53,6 @@ sources:
     url: https://www.npr.org/2024/10/25/g-s1-29963/stacey-williams-donald-trump-jeffrey-epstein
   - title: Trump Wishes Ghislaine Maxwell 'Well' as She Faces Charges — CNN
     url: https://www.cnn.com/2020/07/21/politics/donald-trump-ghislaine-maxwell-i-wish-her-well
-  - title: Donald Trump and Jeffrey Epstein — Wikipedia
-    url: https://en.wikipedia.org/wiki/Donald_Trump_and_Jeffrey_Epstein
-  - title: Relationship of Donald Trump and Jeffrey Epstein — Wikipedia
-    url: https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein
-  - title: Jeffrey Epstein's Birthday Book — Wikipedia
-    url: https://en.wikipedia.org/wiki/Jeffrey_Epstein's_birthday_book
-  - title: List of People Named in the Epstein Files — Wikipedia
-    url: https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files
   - title: Trump Sues Wall Street Journal and Rupert Murdoch Over Epstein Story — PBS
     url: https://www.pbs.org/newshour/politics/trump-sues-wall-street-journal-and-rupert-murdoch-over-story-reporting-on-epstein-ties
   - title: Judge Dismisses Trump's $10 Billion Lawsuit Against Wall Street Journal — PBS

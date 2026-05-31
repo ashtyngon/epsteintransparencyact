@@ -15,8 +15,6 @@ firstMentionedDate: 2026-01-30
 sources:
   - title: "House Oversight Democrats Push for Full Epstein File Release — The Hill"
     url: "https://thehill.com/homenews/house/epstein-files-oversight-garcia-transparency/"
-  - title: "Robert Garcia (California politician) — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Robert_Garcia_(California_politician)"
   - title: "Epstein files scandal 'infinitely worse than Watergate' as Bondi could face blame, Rep. Garcia says — The Mirror US"
     url: "https://www.themirror.com/news/us-news/epstein-files-scandal-infinitely-worse-1738219"
   - title: "Top Dem puts Pam Bondi on notice over 'enormous liability' — Raw Story"
@@ -24,7 +22,7 @@ sources:
 status: published
 ---
 
-Robert Garcia is a Democratic member of the U.S. House of Representatives, serving California's 42nd congressional district since January 3, 2023. According to his Wikipedia biography, he previously served as mayor of Long Beach, California, from 2014 to 2022, and assumed the role of Ranking Member of the House Committee on Oversight and Government Reform on June 24, 2025, succeeding Stephen Lynch. In that position he is the committee's top Democrat.
+Robert Garcia is a Democratic member of the U.S. House of Representatives, serving California's 42nd congressional district since January 3, 2023. He previously served as mayor of Long Beach, California, from 2014 to 2022, and assumed the role of Ranking Member of the House Committee on Oversight and Government Reform on June 24, 2025, succeeding Stephen Lynch. In that position he is the committee's top Democrat.
 
 As Ranking Member, Garcia has been a leading figure in the Democratic effort to compel the release of records related to Jeffrey Epstein. Raw Story, in a March 15, 2026 report, described him as the top Democrat on the House Oversight Committee, "which is conducting an active investigation into Epstein and potential co-conspirators," and reported that he has pressed the Department of Justice to comply with the Epstein Files Transparency Act. The Mirror US, also on March 15, 2026, characterized Garcia as "one of the chief backers of efforts to force the Justice Department to adhere to its congressional mandate" to release the Epstein files.
 

@@ -34,8 +34,6 @@ sources:
     url: "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-documents-list-names"
   - title: "Robert Maxwell: A Supervillain's Daughter — Vanity Fair"
     url: "https://www.vanityfair.com/news/2003/03/ghislaine-maxwell-200303"
-  - title: "Ghislaine Maxwell — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Ghislaine_Maxwell"
   - title: "Ghislaine Maxwell Sentenced to 20 Years in Prison — PBS NewsHour"
     url: "https://www.pbs.org/newshour/politics/ghislaine-maxwell-sentenced-to-20-years-in-prison"
   - title: "Update: Ghislaine Maxwell Sentenced to 20 Years and a $750,000 Fine — CSE Institute"

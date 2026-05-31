@@ -24,10 +24,6 @@ sources:
     url: "https://www.theguardian.com/us-news/2026/feb/13/bondi-doj-epstein-surveillance"
   - title: "Fighting It for Months, Trump Signs Epstein Bill — PBS"
     url: "https://www.pbs.org/newshour/politics/fighting-it-for-months-trump-signs-bill-to-release-jeffrey-epstein-case-files"
-  - title: "Pam Bondi — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Pam_Bondi"
-  - title: "Epstein Files Transparency Act — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act"
   - title: "Epstein 'client list' doesn't exist, DOJ says — PBS"
     url: "https://www.pbs.org/newshour/nation/epstein-client-list-doesnt-exist-doj-says-walking-back-theory-bondi-promoted"
   - title: "A look at how the Epstein files dogged Bondi's time as AG — PBS"
@@ -41,7 +37,7 @@ sensitive: false
 
 Pam Bondi served as the 87th Attorney General of the United States, nominated by President [Donald Trump](/people/donald-trump) and confirmed by the Senate in a 54–46 vote on February 4, 2025. As head of the Department of Justice, she was the central government figure responsible for carrying out the Epstein Files Transparency Act and for the DOJ's handling of the Epstein files more broadly. Her tenure on this issue was marked by shifting public statements, heavy redactions in the released documents, and a contentious February 2026 congressional hearing. According to multiple reports, Trump removed Bondi as Attorney General on April 2, 2026.
 
-Bondi's relevance to this site is as the official who oversaw the files' release. She is not named as an associate of Jeffrey Epstein in the released files, and she does not appear on Wikipedia's list of people named in the Epstein files.
+Bondi's relevance to this site is as the official who oversaw the files' release. She is not named as an associate of Jeffrey Epstein in the released files.
 
 ## Background: Florida AG
 

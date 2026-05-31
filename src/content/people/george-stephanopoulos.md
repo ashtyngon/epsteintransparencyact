@@ -9,8 +9,6 @@ shortBio: "George Stephanopoulos — ABC News anchor; former White House Communi
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "George Stephanopoulos says attending Epstein dinner was a mistake (NTD)"
     url: "https://www.ntd.com/abcs-george-stephanopoulos-on-attending-jeffrey-epstein-dinner-it-was-a-mistake_357417.html"
 sensitive: false

@@ -20,8 +20,6 @@ sources:
     url: "https://thehill.com/homenews/education/5736016-epstein-files-ohio-state-harvard-bard-yale/"
   - title: "DOJ Files: Epstein Pulled Strings at University of Alabama — WVTM"
     url: "https://www.wvtm13.com/article/epstein-university-alabama/63491922"
-  - title: "Lawrence Summers — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Lawrence_Summers"
   - title: "Report Regarding Jeffrey Epstein's Connections to Harvard (2020) — Harvard University"
     url: "https://www.harvard.edu/president/news-and-statements-by-president-bacow/2020/report-regarding-jeffrey-epstein-s-connections-to-harvard/"
   - title: "How Jeffrey Epstein Used the Glamour of the Nobel Peace Prize to Entice Elites — The Philadelphia Inquirer / Washington Post"

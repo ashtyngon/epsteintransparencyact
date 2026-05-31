@@ -15,12 +15,8 @@ firstMentionedDate: 2019-07-10
 sources:
   - title: "Jeffrey Epstein Donated Thousands To Chuck Schumer. Schumer Says He'll Donate That Amount Of Money. — BuzzFeed News"
     url: "https://www.buzzfeednews.com/article/kadiagoba/jeffrey-epstein-donated-thousands-to-chuck-schumer"
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "Schumer, Standing With Buffalo Survivors & Advocates, Announces New Legislation — In Honor of Epstein Victims — To End Federal Statute-of-Limitations Barrier — Office of U.S. Senator Chuck Schumer"
     url: "https://www.schumer.senate.gov/newsroom/press-releases/schumer-standing-with-buffalo-survivors-and-advocates-announces-new-legislation_in-honor-of-epstein-victims--to-end-federal-statute-of-limitations-barrier-that-lets-abusers-escape-and-denies-survivors-justice"
-  - title: "Chuck Schumer — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Chuck_Schumer"
 status: published
 ---
 
@@ -32,4 +28,4 @@ More recently, Schumer has positioned himself on the side of Epstein's victims. 
 
 ## Is Chuck Schumer in the Epstein files?
 
-Based on the sources reviewed here, no. Schumer does not appear on [Wikipedia's "List of people named in the Epstein files,"](https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files) which catalogs individuals identified in the released documents and explicitly notes that being listed "neither establishes wrongdoing by those named nor should it be interpreted as evidence that the people listed are guilty of misconduct." The only documented connection found between Schumer and Epstein is the seven $1,000 campaign contributions Epstein made between 1992 and 1997, an amount Schumer said in 2019 he would donate to anti-trafficking and anti-violence groups ([BuzzFeed News](https://www.buzzfeednews.com/article/kadiagoba/jeffrey-epstein-donated-thousands-to-chuck-schumer)). Receiving and later giving away these donations is not evidence of any involvement in Epstein's crimes.
+Based on the sources reviewed here, no. Schumer is not among the individuals identified in the released Epstein documents, and being named in those documents would in any case neither establish wrongdoing nor serve as evidence of misconduct. The only documented connection found between Schumer and Epstein is the seven $1,000 campaign contributions Epstein made between 1992 and 1997, an amount Schumer said in 2019 he would donate to anti-trafficking and anti-violence groups ([BuzzFeed News](https://www.buzzfeednews.com/article/kadiagoba/jeffrey-epstein-donated-thousands-to-chuck-schumer)). Receiving and later giving away these donations is not evidence of any involvement in Epstein's crimes.

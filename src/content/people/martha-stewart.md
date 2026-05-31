@@ -9,8 +9,6 @@ shortBio: "Martha Stewart — Media personality, author, and lifestyle entrepren
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "Breaking down boldface names in the Epstein files (CNN)"
     url: "https://www.cnn.com/2026/02/03/politics/epstein-files-musk-lutnick-branson-emails"
 sensitive: false

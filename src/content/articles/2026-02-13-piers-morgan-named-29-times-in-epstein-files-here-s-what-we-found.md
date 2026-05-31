@@ -69,6 +69,6 @@ The documents are publicly available through the [DOJ's Epstein Library](https:/
 2. <span id="ref-2"></span>[Joe Rogan: Epstein Files 'Scare the Hell Out of Me'](/news/2026-02-13-joe-rogan-epstein-files-scare-the-hell-out-of-me)
 3. <span id="ref-3"></span>[Piers Morgan's Name Appears in Epstein Files, But No Wrongdoing Alleged](https://nationaltoday.com/us/ny/new-york/news/2026/02/13/piers-morgans-name-appears-in-epstein-files-but-no-wrongdoing-alleged/) — National Today
 4. <span id="ref-4"></span>[Clavicular asks Piers Morgan if he would 'apologize' for Epstein mention](https://www.sportskeeda.com/us/podcasts/news-was-piers-morgan-mentioned-epstein-files-clavicular-asks-british-journalist-apologize) — Sportskeeda
-5. <span id="ref-5"></span>[Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act) — Wikipedia
-6. <span id="ref-6"></span>[Epstein files](https://en.wikipedia.org/wiki/Epstein_files) — Wikipedia
+5. <span id="ref-5"></span>[Public Law 119–38: Epstein Files Transparency Act (Nov. 19, 2025)](https://www.congress.gov/119/plaws/publ38/PLAW-119publ38.pdf) — U.S. Congress
+6. <span id="ref-6"></span>[The Epstein Files (document release)](https://www.justice.gov/epstein) — U.S. Department of Justice
 7. <span id="ref-7"></span>[Dubai Ports Chief Resigns After Hundreds of Secret Epstein Emails](/news/2026-02-13-dubai-ports-chief-resigns-after-hundreds-of-secret-epstein-emails-exposed)

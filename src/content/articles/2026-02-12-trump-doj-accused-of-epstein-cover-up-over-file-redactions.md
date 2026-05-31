@@ -76,4 +76,4 @@ Higbie said the law mandated full disclosure and that the DOJ's redactions direc
 5. <span id="ref-5"></span>[Goldman Sachs Top Lawyer Resigns After Named in Epstein Files](/news/2026-02-13-goldman-sachs-top-lawyer-resigns-after-named-in-epstein-files)
 6. <span id="ref-6"></span>[Thomas Massie, Ro Khanna suggest powerful men are being protected by over-redactions](https://www.cnn.com/2026/02/09/politics/unredacted-epstein-files-doj-congress) — CNN
 7. <span id="ref-7"></span>[Massie Loses Confidence in AG Bondi Over Epstein Files Clash](/news/2026-02-15-massie-loses-confidence-in-ag-bondi-over-epstein-files-clash)
-8. <span id="ref-8"></span>[Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act) — Wikipedia
+8. <span id="ref-8"></span>[Public Law 119–38: Epstein Files Transparency Act (Nov. 19, 2025)](https://www.congress.gov/119/plaws/publ38/PLAW-119publ38.pdf) — U.S. Congress

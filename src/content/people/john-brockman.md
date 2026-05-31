@@ -9,8 +9,6 @@ shortBio: "John Brockman — Literary agent; founder of Edge Foundation — is n
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
   - title: "How Epstein Bankrolled the Edge Foundation (BuzzFeed News)"
     url: "https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation"
 sensitive: false

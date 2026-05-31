@@ -26,8 +26,6 @@ sources:
     url: "https://www.irishtimes.com/business/2025/06/26/jes-staley-fails-to-overturn-ban-over-jeffrey-epstein-links/"
   - title: "JPMorgan settles with Jeffrey Epstein victims for $290 million — WHYY"
     url: "https://whyy.org/articles/jpmorgan-settlement/"
-  - title: "Jes Staley and Jeffrey Epstein: Key Facts — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Jes_Staley"
 ---
 
 Jes Staley is a former chief executive of Barclays and a former senior executive at JPMorgan Chase. His relationship with [Jeffrey Epstein](/people/jeffrey-epstein) led to his departure from Barclays, a 2025 regulatory ban from senior UK finance roles, and figured in JPMorgan's $290 million settlement with Epstein's victims.

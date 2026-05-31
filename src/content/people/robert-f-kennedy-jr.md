@@ -11,10 +11,6 @@ shortBio: "Robert F. Kennedy Jr. is the 26th U.S. Secretary of Health and Human 
 notableConnections:
   - jeffrey-epstein
 sources:
-  - title: "List of people named in the Epstein files — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files"
-  - title: "Robert F. Kennedy Jr. — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr."
   - title: "Fact Check: What RFK Jr. has said about taking two flights on Epstein's jet — Yahoo News / Snopes"
     url: "https://www.yahoo.com/news/articles/fact-check-rfk-jr-said-100000735.html"
 sensitive: false
@@ -26,7 +22,7 @@ Robert F. Kennedy Jr. is the 26th United States Secretary of Health and Human Se
 
 Kennedy has publicly acknowledged flying on Jeffrey Epstein's plane on two occasions. In his own account, he stated, "I was on Jeffrey Epstein's jet two times." He has described the first flight as a 1993 Easter trip to Palm Beach, Florida, with his wife and two children, after his wife had "some kind of relationship with Ghislaine Maxwell" and Maxwell and Epstein "offered us a ride." He described the second flight, roughly one to two years later, as a family fossil-hunting trip with his wife and four children to Rapid City, South Dakota. Kennedy said he "was never on his jet alone" and that the flights occurred "before anybody knew about Jeffrey Epstein's nefarious" activities.
 
-According to the Wikipedia "List of people named in the Epstein files," Kennedy admitted during his presidential campaign that he flew on Epstein's plane, and emails and audio transcripts within the files indicate that he had joined Epstein and Ghislaine Maxwell on two vacation trips around 2012–2013. There is no reported evidence that Kennedy was involved in or aware of Epstein's crimes.
+According to reporting on the released files, Kennedy admitted during his presidential campaign that he flew on Epstein's plane, and emails and audio transcripts within the files indicate that he had joined Epstein and Ghislaine Maxwell on two vacation trips around 2012–2013. There is no reported evidence that Kennedy was involved in or aware of Epstein's crimes.
 
 ## Is Robert F. Kennedy Jr. in the Epstein files?
 
