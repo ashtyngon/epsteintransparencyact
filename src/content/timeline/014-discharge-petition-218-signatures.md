@@ -10,7 +10,7 @@ people:
   - ro-khanna
 relatedEvents:
   - 013-discharge-petition-filed
-  - 007-transparency-act
+  - 021-trump-reversal-signs-transparency-act
 order: 14
 sources:
   - title: "The Release of the Epstein Files Moves Forward as Grijalva Is Sworn In — The 19th"

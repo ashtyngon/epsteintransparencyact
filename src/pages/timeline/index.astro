@@ -26,16 +26,16 @@ const jsonLd = timelineJsonLd(
 );
 
 function formatDate(d: Date): string {
-  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
 }
 
 function formatYear(d: Date): string {
-  return d.getFullYear().toString();
+  return d.getUTCFullYear().toString();
 }
 ---
 
 <BaseLayout
-  title="Epstein Case Timeline — 1994 to Present"
+  title="Epstein Case Timeline — 1976 to Present"
   description="Complete chronological timeline of the Jeffrey Epstein case — from first allegations through the Transparency Act, DOJ file releases, and ongoing investigations."
   jsonLd={jsonLd}
 >
@@ -47,7 +47,7 @@ function formatYear(d: Date): string {
     <div class="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
       <p class="text-[10px] font-semibold uppercase tracking-[0.2em] text-highlight mb-3 font-mono">Chronology</p>
       <h1 class="text-3xl md:text-[2.75rem] font-serif font-bold leading-[1.1] mb-3">
-        Epstein Case Timeline — 1994 to Present
+        Epstein Case Timeline — 1976 to Present
       </h1>
       <p class="text-base text-white/50 leading-relaxed max-w-2xl">
         {entries.length} documented events spanning {ERAS[0].dateRange.split('–')[0]} to present.

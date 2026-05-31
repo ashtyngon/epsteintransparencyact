@@ -134,7 +134,7 @@ export function timelineJsonLd(
   return {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: 'Epstein Case Timeline — 1994 to Present',
+    name: 'Epstein Case Timeline — 1976 to Present',
     itemListElement: entries.map((entry, i) => ({
       '@type': 'ListItem',
       position: i + 1,

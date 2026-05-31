@@ -7,6 +7,7 @@ import { getCollection } from 'astro:content';
 import { websiteJsonLd } from '../utils/json-ld';
 import { buildGlobalGraph } from '../utils/connections';
 import { getEra, getEraCategoryLabel } from '../utils/timeline-eras';
+import { getScorecard, OUTCOMES } from '../utils/accountability';
 import {
   CATEGORY_ORDER,
   categoryLabel as categoryLabels,
@@ -49,9 +50,14 @@ for (const a of allArticles) {
   for (const s of a.data.people) coverageCounts[s] = (coverageCounts[s] || 0) + 1;
 }
 
-// Key Figures: most-covered people that have a photo (photo-forward showcase)
+// Key Figures: the most-covered people the files cast in a bad light — those
+// named in the documents and Epstein's associates. Deliberately excludes the
+// officials handling the case (AG, FBI, members of Congress), attorneys,
+// witnesses, and survivors; they remain in the full directory and category
+// browse below, just not in this showcase of the implicated.
+const KEY_FIGURE_CATEGORIES = ['named-in-documents', 'associate'];
 const keyFigures = [...people]
-  .filter((p) => p.data.image)
+  .filter((p) => p.data.image && KEY_FIGURE_CATEGORIES.includes(p.data.category))
   .sort((a, b) => (coverageCounts[b.id] || 0) - (coverageCounts[a.id] || 0))
   .slice(0, 12);
 
@@ -85,6 +91,16 @@ const stats = [
   { value: `${sourcedPct}%`, label: 'Sourced' },
   { value: String(articleCount), label: 'Articles' },
   { value: String(connectionCount), label: 'Connections' },
+];
+
+// ── Accountability scorecard (counts derived from src/utils/accountability.ts) ──
+const scorecard = getScorecard();
+const peopleIds = new Set(people.map((p) => p.id));
+const accountabilityStats = [
+  { value: String(scorecard.prosecuted), label: 'Criminally charged', sub: 'Epstein · Maxwell · Brunel', highlight: false },
+  { value: String(scorecard.imprisoned), label: 'Behind bars today', sub: 'Ghislaine Maxwell', highlight: false },
+  { value: String(scorecard.lostRole), label: 'Lost a job or title', sub: 'Andrew · Mandelson · Black …', highlight: false },
+  { value: String(scorecard.newChargesSinceRelease), label: 'New co-conspirators charged', sub: 'since the files’ release', highlight: true },
 ];
 
 const itemListJsonLd = {
@@ -124,8 +140,51 @@ const itemListJsonLd = {
       <!-- Real, instant name lookup -->
       <PeopleSearch />
 
-      <!-- Stat strip -->
-      <dl class="mt-7 flex flex-wrap items-stretch border border-white/10 divide-x divide-white/10 max-w-3xl">
+      <!-- ===== Accountability scorecard ===== -->
+      <section class="mt-8 max-w-3xl" aria-label="Accountability scorecard">
+        <div class="flex items-baseline justify-between gap-3 mb-2.5">
+          <p class="text-[11px] font-semibold uppercase tracking-[0.2em] text-highlight">The Accountability Scorecard</p>
+          <span class="hidden sm:inline text-[10px] font-mono uppercase tracking-wider text-white/35">Hundreds named &middot; few held to account</span>
+        </div>
+        <dl class="flex flex-wrap items-stretch border border-white/15 divide-x divide-white/15">
+          {accountabilityStats.map((s) => (
+            <div class="flex-1 min-w-[8.5rem] px-4 py-4">
+              <dd class={`text-3xl md:text-4xl font-serif font-bold leading-none ${s.highlight ? 'text-highlight' : 'text-white'}`}>{s.value}</dd>
+              <dt class="text-[11px] font-semibold text-white/85 mt-2 leading-snug">{s.label}</dt>
+              <dd class="text-[10px] font-mono uppercase tracking-wider text-white/40 mt-1">{s.sub}</dd>
+            </div>
+          ))}
+        </dl>
+        <p class="text-xs text-white/55 mt-3 leading-relaxed">
+          Two of them — <span class="text-white/80">Andrew Mountbatten-Windsor</span> and <span class="text-white/80">Peter Mandelson</span> — were also arrested in 2026 and remain under investigation, though neither has been charged.
+          {' '}<a href="/timeline/" class="text-highlight hover:text-white underline transition-colors no-underline">See the full timeline &rarr;</a>
+        </p>
+        <details class="mt-3">
+          <summary class="text-[11px] font-semibold uppercase tracking-wider text-white/50 hover:text-white cursor-pointer select-none">Who's behind these numbers?</summary>
+          <ul class="mt-3 space-y-2.5 border-t border-white/10 pt-3">
+            {OUTCOMES.map((o) => (
+              <li class="text-sm leading-snug">
+                <span class="flex flex-wrap items-baseline gap-x-2">
+                  {o.slug && peopleIds.has(o.slug) ? (
+                    <a href={`/people/${o.slug}/`} class="font-semibold text-white hover:text-highlight transition-colors no-underline">{o.name}</a>
+                  ) : (
+                    <span class="font-semibold text-white">{o.name}</span>
+                  )}
+                  <span class="text-[10px] font-mono uppercase tracking-wider text-highlight/80">{o.consequence}</span>
+                </span>
+                <span class="block text-white/45 text-xs mt-0.5">{o.detail}</span>
+              </li>
+            ))}
+          </ul>
+          <p class="text-[10px] text-white/35 mt-3 leading-relaxed">
+            Counts only people named in the files for their ties to Epstein — associates, friends, and clients — who have faced a tangible consequence: a criminal charge, prison, or the loss of a job or formal title. Officials who lost posts over investigating or handling the case are not counted, and being named is not itself a consequence.
+          </p>
+        </details>
+      </section>
+
+      <!-- Tracker dataset strip -->
+      <p class="text-[10px] font-mono uppercase tracking-wider text-white/35 mt-8 mb-2">The tracker</p>
+      <dl class="flex flex-wrap items-stretch border border-white/10 divide-x divide-white/10 max-w-3xl">
         {stats.map((s) => (
           <div class="flex-1 min-w-[7rem] px-4 py-3">
             <dt class="sr-only">{s.label}</dt>

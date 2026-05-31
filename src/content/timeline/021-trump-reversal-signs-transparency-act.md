@@ -13,7 +13,7 @@ people:
 relatedEvents:
   - 018-trump-calls-epstein-files-hoax
   - 014-discharge-petition-218-signatures
-  - 007-transparency-act
+  - 016-doj-first-file-release
 order: 21
 sources:
   - title: "Fighting It for Months, Trump Signs Bill — PBS"

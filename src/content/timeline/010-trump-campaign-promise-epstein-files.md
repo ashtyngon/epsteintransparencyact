@@ -9,7 +9,7 @@ people:
   - jeffrey-epstein
   - donald-trump
 relatedEvents:
-  - 007-transparency-act
+  - 021-trump-reversal-signs-transparency-act
   - 012-massie-khanna-bill-introduced
   - 018-trump-calls-epstein-files-hoax
 order: 10

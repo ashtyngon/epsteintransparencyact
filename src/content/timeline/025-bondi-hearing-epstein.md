@@ -13,7 +13,7 @@ people:
 relatedEvents:
   - 017-maxwell-prison-transfer-fpc-bryan
   - 016-doj-first-file-release
-  - 021-trump-reversal-signs-transparency-act
+  - 037-trump-fires-bondi
 order: 25
 sources:
   - title: "Epstein Files Take Center Stage at Bondi Hearing — PBS"

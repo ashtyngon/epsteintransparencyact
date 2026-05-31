@@ -19,7 +19,7 @@ sources:
     url: "https://www.politico.com/news/2025/09/discharge-petition-epstein"
 ---
 
-On September 2, 2025 — the first day Congress returned from summer recess — Rep. Thomas Massie (R-KY) filed a discharge petition on the House floor to force a vote on the Epstein Transparency Act (H.R. 4501). The bill, co-authored by Massie and Rep. Ro Khanna (D-CA), had stalled after the House Judiciary Committee, chaired by Rep. Jim Jordan, declined to schedule a markup.
+On September 2, 2025 — the first day Congress returned from summer recess — Rep. Thomas Massie (R-KY) filed a discharge petition on the House floor to force a vote on the Epstein Files Transparency Act (H.R. 4405). The bill, co-authored by Massie and Rep. Ro Khanna (D-CA), had stalled after the House Judiciary Committee, chaired by Rep. Jim Jordan, declined to schedule a markup.
 
 ## A Rare Procedural Gambit
 
@@ -27,7 +27,7 @@ A discharge petition is one of the most difficult procedural tools available to 
 
 ## Why It Was Necessary
 
-Massie argued that the Judiciary Committee's refusal to advance H.R. 4501 was blocking the will of the majority of House members and the broader public. Despite strong bipartisan co-sponsorship, committee leadership had given no indication that the bill would receive a hearing or a vote. Massie framed the discharge petition as the only remaining path to force transparency on the Epstein case, given institutional resistance from within Congress itself.
+Massie argued that the Judiciary Committee's refusal to advance H.R. 4405 was blocking the will of the majority of House members and the broader public. Despite strong bipartisan co-sponsorship, committee leadership had given no indication that the bill would receive a hearing or a vote. Massie framed the discharge petition as the only remaining path to force transparency on the Epstein case, given institutional resistance from within Congress itself.
 
 ## Immediate Momentum
 

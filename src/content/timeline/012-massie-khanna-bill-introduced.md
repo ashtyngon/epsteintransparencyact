@@ -1,6 +1,6 @@
 ---
 title: "Massie and Khanna introduce Epstein Transparency Act in Congress"
-date: 2025-07-16
+date: 2025-07-15
 era: transparency
 category: legislation
 significance: standard
@@ -9,7 +9,7 @@ people:
   - jeffrey-epstein
   - ro-khanna
 relatedEvents:
-  - 007-transparency-act
+  - 021-trump-reversal-signs-transparency-act
   - 013-discharge-petition-filed
 order: 12
 sources:
@@ -19,7 +19,7 @@ sources:
     url: "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395780"
 ---
 
-On July 16, 2025, Rep. Thomas Massie (R-KY) and Rep. Ro Khanna (D-CA) introduced the Epstein Transparency Act in the U.S. House of Representatives. The bipartisan bill was modeled on the framework of the JFK Records Act of 1992, which mandated the collection and public release of documents related to the assassination of President John F. Kennedy.
+On July 15, 2025, Rep. Ro Khanna (D-CA) and Rep. Thomas Massie (R-KY) introduced the Epstein Files Transparency Act (H.R. 4405) in the U.S. House of Representatives. Khanna was the lead sponsor of record; Massie, who would later drive the discharge-petition fight, was the principal Republican co-lead, and the two branded it a bipartisan "Massie-Khanna" effort. The bill was modeled on the framework of the JFK Records Act of 1992, which mandated the collection and public release of documents related to the assassination of President John F. Kennedy.
 
 The bill required all federal agencies — including the DOJ, FBI, IRS, State Department, and intelligence agencies — to identify, collect, and publicly release any records related to Jeffrey Epstein's activities, his associates, and any investigations into his conduct. It established a review board to oversee the disclosure process and set timelines for release.
 

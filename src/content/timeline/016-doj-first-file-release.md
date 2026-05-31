@@ -1,6 +1,6 @@
 ---
 title: "DOJ releases first batch of Epstein files under Transparency Act"
-date: 2025-12-20
+date: 2025-12-19
 era: transparency
 category: document-release
 significance: standard
@@ -9,8 +9,9 @@ people:
   - jeffrey-epstein
   - pam-bondi
 relatedEvents:
-  - 007-transparency-act
+  - 021-trump-reversal-signs-transparency-act
   - 014-discharge-petition-218-signatures
+  - 025-bondi-hearing-epstein
 order: 16
 sources:
   - title: "First Epstein Files Released by DOJ — AP News"
@@ -19,11 +20,11 @@ sources:
     url: "https://www.reuters.com/legal/government/bondi-epstein-file-release"
 ---
 
-In late December 2025, approximately 180 days after the Epstein Transparency Act was signed into law, the Department of Justice under Attorney General Pam Bondi released the first tranche of federal records related to Jeffrey Epstein. The release marked the first time the federal government proactively disclosed its own investigative files on the case, moving beyond the civil court documents that had been the primary source of public information.
+On December 19, 2025 — 30 days after the Epstein Files Transparency Act was signed, the deadline the law itself imposed — the Department of Justice under Attorney General Pam Bondi posted its first tranche of federal records related to Jeffrey Epstein. The release marked the first time the federal government proactively disclosed its own investigative files on the case, moving beyond the civil court documents that had been the primary source of public information. It would prove to be only the opening installment of a rolling, bitterly contested series of releases that stretched into 2026.
 
 ## The First Release
 
-The DOJ would later claim that the release encompassed 3.5 million pages of documents. The materials included FBI investigation files, internal DOJ communications, and Bureau of Prisons (BOP) records. Some material was classified or marked as related to ongoing investigations. Attorney General Bondi framed the disclosure as fulfilling the administration's commitment to transparency under the new law, and the DOJ announced a rolling release schedule for additional batches as a review board completed its assessment of sensitive materials.
+The initial December 19 batch was far smaller than its billing — roughly 3,965 files, about 3 gigabytes of data — and much of it was heavily redacted or already public. Further waves followed within days: grand jury materials and flight logs on December 20, some 11,000 documents on December 22, and roughly 30,000 files on December 23. The department did not approach the scale it had promised until a fifth release on January 30, 2026, after which Deputy Attorney General Todd Blanche claimed the government had published "approximately 3.5 million" pages and had satisfied the law. The materials included FBI investigation files, internal DOJ communications, and Bureau of Prisons (BOP) records, with some marked as classified or related to ongoing investigations. Bondi framed the disclosure as fulfilling the administration's transparency commitment; lawmakers from both parties disputed that the releases amounted to full compliance.
 
 ## Redactions and Omissions
 

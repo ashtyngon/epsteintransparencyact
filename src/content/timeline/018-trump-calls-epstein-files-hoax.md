@@ -12,7 +12,7 @@ people:
 relatedEvents:
   - 010-trump-campaign-promise-epstein-files
   - 019-maga-backlash-epstein
-  - 014-discharge-petition-218-signatures
+  - 031-wsj-trump-birthday-letter
 order: 18
 sources:
   - title: "Trump Calls Epstein a 'Hoax' and 'Bulls***' — CBS News"

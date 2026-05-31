@@ -1,6 +1,6 @@
 ---
 title: "Kamala Harris explains why Biden White House did not release Epstein files"
-date: 2025-12-10
+date: 2025-12-17
 era: transparency
 category: other
 significance: standard
@@ -13,21 +13,21 @@ relatedEvents:
   - 018-trump-calls-epstein-files-hoax
 order: 15
 sources:
-  - title: "What's Next Now That Trump Has Signed a Bill Releasing the Epstein Files — NPR"
-    url: "https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files"
+  - title: "Kamala Harris defends Biden administration decision not to release Epstein files — The Hill"
+    url: "https://thehill.com/homenews/administration/5654686-kamala-harris-doj-independence-epstein-files/"
+  - title: "Harris defends Biden admin's decision not to release Jeffrey Epstein files — OANN"
+    url: "https://www.oann.com/newsroom/harris-defends-biden-admins-decision-not-to-release-jeffrey-epstein-files-it-was-the-right-thing-to-do/"
   - title: "Timeline of Trump's Shifting Stance on Epstein Files — NPR"
     url: "https://www.npr.org/2025/08/22/nx-s1-5508871/trump-bondi-epstein-files-release-history"
 ---
 
-In December 2025, former Vice President Kamala Harris addressed the Biden administration's handling of the Epstein files during an appearance on Jimmy Kimmel Live — the first time a senior Biden administration official had spoken at length about the decision.
+On December 17, 2025, former Vice President Kamala Harris addressed the Biden administration's handling of the Epstein files during an appearance on Jimmy Kimmel Live — one of the few times a senior Biden official had publicly defended the decision not to release them.
 
 ## What Harris Said
 
-When Kimmel asked why the Biden White House had not simply ordered the release of the files, Harris explained the principle directly: "The President of the United States should not be telling the Department of Justice what to investigate, who to prosecute, or what files to release. That is a line we should not cross."
+Asked by Kimmel why the Biden White House had not simply ordered the release of the files, Harris grounded her answer in Justice Department independence: "We strongly and rightly believed that there should be an absolute separation between what we wanted as an administration and what the Department of Justice did." Pressed further, she maintained that declining to direct the DOJ "was the right thing to do."
 
-Harris drew on her background as a former prosecutor and California Attorney General: "I spent my career in law enforcement. I know what happens when politicians start directing prosecutions. It doesn't end well for anyone — and it especially doesn't end well for victims."
-
-She framed the distinction clearly: "The question is not whether these files should be released. Of course they should. The question is whether we want a system where the President picks up the phone and tells the Attorney General what to do. Because if we say that's OK when we agree with the outcome, we have to accept it when we don't."
+Her response was widely panned across the political spectrum as halting and unpersuasive. Commentators — including some sympathetic to her — noted that she struggled to explain why a principle of prosecutorial independence required withholding records the public and survivors had spent years demanding, and that she never squarely addressed whether the files should ultimately come out. The exchange aired just days before the Trump DOJ's own statutory deadline to begin releasing files under the Transparency Act, sharpening the contrast critics drew between the two administrations' very different failures.
 
 ## The Context
 
