@@ -58,6 +58,11 @@ His Democratic co-author, **Rep. Ro Khanna** of California, has argued that the 
 
 What is established is that Massie, freed from reelection concerns by his primary defeat, has publicly committed to reading additional redacted names on the floor before he leaves Congress, and that he has done so before. What is not established is which names he will read, when, or on what evidentiary basis — and being named on the House floor is not an accusation that has been tested in court. Massie's previous floor naming of Black, Staley, and Wexner has not resulted in charges against any of them. The Speech or Debate Clause protects the speaker; it does not establish the truth of what is said.
 
+## Documents
+
+- **[Epstein Files Transparency Act — full text (H.R. 4405)](https://www.congress.gov/bill/119th-congress/house-bill/4405/text)** — The law Massie co-authored and accuses the Justice Department of flouting.
+- **[DOJ Epstein Library](https://www.justice.gov/epstein)** — The released files Massie says remain incomplete, with millions of pages still withheld.
+
 ## References
 
 1. <span id="ref-1"></span>[Newsweek — "Thomas Massie Promises To Expose More Names From Epstein Files"](https://www.newsweek.com/thomas-massie-promises-to-expose-more-names-from-epstein-files-11989729)

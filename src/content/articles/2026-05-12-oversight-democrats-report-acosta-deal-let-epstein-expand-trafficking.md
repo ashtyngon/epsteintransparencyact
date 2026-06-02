@@ -59,6 +59,13 @@ As an interim report from the committee's minority, the document does not carry 
 
 Acosta, who went on to serve as President Trump's Labor secretary before resigning in July 2019 amid renewed scrutiny of the Epstein deal, has defended his handling of the case, saying his office's intervention ensured Epstein served jail time and registered as a sex offender when the state had been prepared to let him avoid both.
 
+## Documents
+
+Read the primary sources behind this report.
+
+- **[Oversight Democrats — "The Price of Non-Prosecution" (interim staff report, May 12, 2026)](https://oversightdemocrats.house.gov/imo/media/doc/the_price_of_non-prosecution.pdf)** — The full report, which uses subpoenaed records to argue that the 2008 deal let Epstein expand his trafficking network internationally.
+- **[DOJ Epstein Library](https://www.justice.gov/epstein)** — The Justice Department's repository of released Epstein files underlying the investigation.
+
 ## References
 
 1. <span id="ref-1"></span>[MS NOW — "House Democrats hold hearing with Epstein survivors, declare probe is in 'new phase'"](https://www.ms.now/news/epstein-hearing-house-democrats-survivors-acosta)

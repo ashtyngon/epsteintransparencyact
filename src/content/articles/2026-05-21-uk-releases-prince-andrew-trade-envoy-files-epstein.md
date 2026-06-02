@@ -56,6 +56,11 @@ Andrew has long denied wrongdoing in connection with Epstein, including the sexu
 
 The May 21 release moves the Andrew story from the realm of social association into the substance of the criminal inquiry. Earlier disclosures established that Andrew and Epstein maintained contact for years. These documents show, in the government's own records, official trade material — including a brief explicitly labeled confidential — being routed to Epstein while Andrew represented the country abroad, and a government admission that no one appears to have vetted him before handing him that access.
 
+## Documents
+
+- **[House Oversight Committee — Epstein estate records release (Sept. 2025)](https://oversight.house.gov/release/oversight-committee-releases-records-provided-by-the-epstein-estate-chairman-comer-provides-statement/)** — The U.S. congressional release of Epstein estate documents, which included material referencing Andrew.
+- **[DOJ Epstein Library](https://www.justice.gov/epstein)** — Released U.S. files that include emails referencing Andrew's contacts with Epstein, including reports forwarded during his time as a trade envoy.
+
 ## References
 
 1. <span id="ref-1"></span>[CBS News — "Here's what's in the Epstein files about former Prince Andrew"](https://www.cbsnews.com/news/epstein-files-former-prince-andrew-arrested/)

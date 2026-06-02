@@ -57,6 +57,11 @@ The contempt resolution was one front in a broader confrontation between the Ove
 
 Bondi, who led the department when its releases drew the sharpest criticism — including for exposing the personal information of victims — became the central witness lawmakers wanted to question. The April 29 filing was the procedural pressure that finally produced a date.
 
+## Documents
+
+- **[Oversight Democrats — Pam Bondi civil contempt resolution (April 29, 2026)](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-leads-oversight-democrats-in-filing-pam-bondi-civil-contempt-resolution)** — The resolution and the Democrats' statement.
+- **[DOJ — "3.5 Million Responsive Pages" release](https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files)** — The production whose adequacy the committee was investigating.
+
 ## References
 
 1. <span id="ref-1"></span>[MS NOW — "Bondi to testify before House Oversight Committee after Democrats file contempt resolution"](https://www.ms.now/news/bondi-to-testify-house-oversight-may-contempt-resolution)

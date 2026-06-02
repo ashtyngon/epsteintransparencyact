@@ -55,6 +55,10 @@ Blanche, Trump's former personal defense attorney, has run the department in an 
 
 Blanche has now said publicly, under questioning, that the DOJ will not recommend clemency for Maxwell. What remains unresolved is whether that position constrains the outcome at all, given that the pardon decision is the president's alone. For survivors who testified before Congress just a week earlier in Palm Beach, the episode underscored a recurring frustration: assurances from officials that stop short of the one decision — Trump's — that would actually settle the matter.
 
+## Documents
+
+- **[C-SPAN — Acting Attorney General Blanche testifies on DOJ oversight (May 19, 2026)](https://www.c-span.org/event/senate-committee/acting-attorney-general-blanche-testifies-on-oversight-of-justice-deptartment/443254)** — Full video of the Senate Appropriations subcommittee hearing, including the exchange in which Blanche committed not to recommend a Maxwell pardon.
+
 ## References
 
 1. <span id="ref-1"></span>[MS NOW — "Blanche said he won't recommend a Maxwell pardon. Trump could still grant one."](https://www.ms.now/deadline-white-house/deadline-legal-blog/ghislaine-maxwell-pardon-blanche-senate-testimony-trump-epstein)

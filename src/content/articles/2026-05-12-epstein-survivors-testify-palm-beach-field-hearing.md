@@ -65,6 +65,13 @@ Garcia tied the hearing to a new interim staff report, released the same day, th
 
 To date, only Epstein and **Ghislaine Maxwell** have been criminally charged in the United States in connection with the trafficking operation. Epstein died in federal custody in 2019; Maxwell is serving a 20-year sentence. Survivors who testified in West Palm Beach said the released files have so far produced exposure for victims but little accountability for the men they have accused.
 
+## Documents
+
+Watch and read the hearing's primary sources.
+
+- **[Video: Epstein survivors testify in Palm Beach (May 12, 2026)](https://www.youtube.com/watch?v=oUR8I2-RiGY)** — Full footage of the field hearing.
+- **[Oversight Democrats — "The Price of Non-Prosecution" (interim staff report)](https://oversightdemocrats.house.gov/imo/media/doc/the_price_of_non-prosecution.pdf)** — The report released alongside the hearing.
+
 ## References
 
 1. <span id="ref-1"></span>[WLRN — "'Powerful remained protected': Survivors recall Epstein crimes at congressional hearing in West Palm Beach"](https://www.wlrn.org/law-justice/2026-05-12/survivors-jeffrey-epstein-congressional-hearing-west-palm-beach)

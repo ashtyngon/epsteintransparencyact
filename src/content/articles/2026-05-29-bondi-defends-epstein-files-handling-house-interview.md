@@ -65,6 +65,11 @@ The session unfolded against the backdrop of a separate Justice Department inspe
 
 Bondi has now given Congress an on-the-record defense of the administration's handling of the files while conceding that redaction errors occurred and attributing the publication process to Blanche. What she did not provide — by her own choice — was any account of the president's knowledge or role. Because the interview was transcribed but not recorded on video, the public will see a transcript rather than her testimony itself, a point Democrats said undercuts the committee's stated goal of transparency.
 
+## Documents
+
+- **[DOJ — "Department of Justice Publishes 3.5 Million Responsive Pages" (Justice.gov)](https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files)** — The release Bondi defended in her interview.
+- **[DOJ Epstein Library](https://www.justice.gov/epstein)** — The department's public repository of released Epstein files.
+
 ## References
 
 1. <span id="ref-1"></span>[PBS NewsHour / Associated Press — "Bondi defends Trump administration's release of Epstein case files as she testifies before lawmakers"](https://www.pbs.org/newshour/politics/pam-bondi-will-face-a-closed-door-questioning-from-house-lawmakers-over-the-epstein-files)
