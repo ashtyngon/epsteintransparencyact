@@ -13,6 +13,7 @@ people:
   - virginia-giuffre
   - ghislaine-maxwell
   - gordon-brown
+  - tony-blair
 relatedArticles:
   - 2026-02-13-congress-subpoenas-mandelson-over-epstein-ties-in-major-probe
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
