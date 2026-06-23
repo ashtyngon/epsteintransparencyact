@@ -12,6 +12,7 @@ people:
   - pam-bondi
   - gloria-allred
   - james-comer
+  - melania-trump
 relatedArticles:
   []
 tags:

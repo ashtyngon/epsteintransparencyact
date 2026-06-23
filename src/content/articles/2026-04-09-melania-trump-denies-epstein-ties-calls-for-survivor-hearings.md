@@ -12,6 +12,7 @@ people:
   - ghislaine-maxwell
   - james-comer
   - gloria-allred
+  - melania-trump
 relatedArticles:
   []
 tags:
