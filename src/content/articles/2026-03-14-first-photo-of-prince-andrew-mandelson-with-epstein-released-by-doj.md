@@ -12,6 +12,7 @@ people:
   - jeffrey-epstein
   - cherie-blair
   - marjorie-taylor-greene
+  - tony-blair
 tags:
   - document-release
   - court-documents
