@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - donald-trump
   - robert-garcia
+  - michael-jackson
 relatedArticles:
   - 2026-02-24-rep-garcia-doj-withheld-fbi-interviews-with-trump-accuser-in-epstein-files
 tags:

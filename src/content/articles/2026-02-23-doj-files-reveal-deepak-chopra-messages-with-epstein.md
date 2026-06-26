@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - deepak-chopra
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - fbi-begins-epstein-records-review

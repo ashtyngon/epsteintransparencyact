@@ -9,6 +9,7 @@ summary: "The New Mexico Department of Justice is investigating claims that buri
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-02-20-new-mexico-reopens-zorro-ranch-investigation-after-fbi-search-gap-revealed
   - 2026-02-19-new-mexico-ag-opens-criminal-probe-into-bodies-buried-at-epstein-ranch

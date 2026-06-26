@@ -12,6 +12,7 @@ people:
   - pam-bondi
   - ro-khanna
   - thomas-massie
+  - michael-jackson
 relatedArticles:
   - 2026-02-16-trump-doj-released-only-2-of-epstein-files-study-shows
   - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files

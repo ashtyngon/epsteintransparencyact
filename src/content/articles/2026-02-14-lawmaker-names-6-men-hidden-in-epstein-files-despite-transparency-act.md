@@ -24,6 +24,7 @@ people:
   - thorbjorn-jagland
   - brad-karp
   - todd-blanche
+  - michael-jackson
 relatedArticles:
   - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal
   - 2026-02-13-ag-bondi-caught-spying-on-democrats-epstein-files-searches

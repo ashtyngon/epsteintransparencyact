@@ -12,6 +12,7 @@ people:
   - kathryn-ruemmler
   - pam-bondi
   - donald-trump
+  - michael-jackson
 relatedArticles:
   - 2026-03-01-wsj-doj-examined-epstein-associates-for-sex-crimes-charged-none
   - 2026-03-05-pam-bondi-subpoenaed-to-testify-on-epstein-case-handling

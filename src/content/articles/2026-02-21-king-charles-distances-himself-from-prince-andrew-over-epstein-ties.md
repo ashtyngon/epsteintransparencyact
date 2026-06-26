@@ -12,6 +12,7 @@ people:
   - virginia-giuffre
   - thomas-massie
   - donald-trump
+  - michael-jackson
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-on-document-sharing-charges-in-epstein-case
   - fbi-begins-epstein-records-review

@@ -12,6 +12,7 @@ people:
   - jeffrey-epstein
   - alexander-acosta
   - donald-trump
+  - michael-jackson
 tags:
   - associates
   - breaking

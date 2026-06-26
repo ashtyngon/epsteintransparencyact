@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - donald-trump
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-02-12-trump-doj-accused-of-epstein-cover-up-over-file-redactions
 tags:

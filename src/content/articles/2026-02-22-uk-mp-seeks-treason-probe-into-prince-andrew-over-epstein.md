@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents
   - 2026-02-22-police-continue-search-at-prince-andrew-s-royal-lodge-over-epstein-ties

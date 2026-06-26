@@ -13,6 +13,7 @@ people:
   - thomas-massie
   - pam-bondi
   - ghislaine-maxwell
+  - michael-jackson
 tags:
   - investigation
   - political

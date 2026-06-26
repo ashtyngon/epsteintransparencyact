@@ -12,6 +12,7 @@ people:
   - ghislaine-maxwell
   - virginia-giuffre
   - peter-mandelson
+  - michael-jackson
 relatedArticles:
   - 2026-02-23-police-appeal-to-prince-andrew-s-former-guards-over-epstein-inquiry
   - 2026-02-23-prince-andrew-linked-to-three-new-epstein-victims

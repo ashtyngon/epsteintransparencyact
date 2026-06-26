@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - pam-bondi
   - thomas-massie
+  - michael-jackson
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions

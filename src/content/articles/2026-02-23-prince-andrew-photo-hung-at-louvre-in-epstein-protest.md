@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - ghislaine-maxwell
   - virginia-giuffre
+  - michael-jackson
 relatedArticles:
   - 2026-02-22-uk-mp-seeks-treason-probe-into-prince-andrew-over-epstein
   - 2026-02-23-france-launches-diplomat-inquiry-over-epstein-ties

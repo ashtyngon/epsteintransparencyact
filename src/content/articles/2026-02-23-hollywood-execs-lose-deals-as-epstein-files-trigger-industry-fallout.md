@@ -9,6 +9,7 @@ summary: "Entertainment industry executives have lost business deals and clients
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - michael-jackson
 tags:
   - document-release
   - associates

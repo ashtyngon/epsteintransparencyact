@@ -10,6 +10,7 @@ people:
   - bill-clinton
   - donald-trump
   - jeffrey-epstein
+  - michael-jackson
 relatedArticles:
   - 2026-02-27-bill-clinton-scheduled-for-deposition-in-epstein-probe
 tags:

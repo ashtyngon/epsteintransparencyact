@@ -8,6 +8,7 @@ imageCaption: "Documents released in the Epstein files investigation."
 summary: "A previously undisclosed investigation by the Drug Enforcement Administration targeted Jeffrey Epstein and 14 other individuals for suspicious wire transfers"
 people:
   - jeffrey-epstein
+  - michael-jackson
 tags:
   - investigation
   - fbi

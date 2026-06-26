@@ -12,6 +12,7 @@ people:
   - ghislaine-maxwell
   - prince-andrew
   - alexander-acosta
+  - michael-jackson
 relatedArticles:
   - 2026-02-19-prince-andrew-arrest-linked-to-virginia-giuffre-s-advocacy
   - 2026-02-19-giuffre-family-broken-hearts-lifted-by-andrew-s-arrest

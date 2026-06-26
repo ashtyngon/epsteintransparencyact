@@ -13,6 +13,7 @@ people:
   - thomas-pritzker
   - ghislaine-maxwell
   - hillary-clinton
+  - michael-jackson
 relatedArticles:
   - 2026-02-17-hyatt-billionaire-thomas-pritzker-resigns-over-epstein-ties
   - 2026-02-27-bill-clinton-scheduled-for-deposition-in-epstein-probe

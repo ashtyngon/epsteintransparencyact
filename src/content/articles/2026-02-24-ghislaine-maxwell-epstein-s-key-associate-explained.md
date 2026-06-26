@@ -9,6 +9,7 @@ summary: "Ghislaine Maxwell remains a central figure in the ongoing Epstein case
 people:
   - ghislaine-maxwell
   - jeffrey-epstein
+  - michael-jackson
 relatedArticles:
   - 2026-02-15-ghislaine-maxwell-offers-to-reveal-truth-in-exchange-for-clemency
   - 2026-02-21-ghislaine-maxwell-fights-release-of-90-000-epstein-files

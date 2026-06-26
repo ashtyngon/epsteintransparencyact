@@ -19,6 +19,7 @@ people:
   - peter-mandelson
   - piers-morgan
   - brad-karp
+  - michael-jackson
 relatedArticles:
   - 2026-02-14-lawmaker-names-6-men-hidden-in-epstein-files-despite-transparency-act
   - 2026-02-13-media-mogul-michael-ferro-canceled-last-minute-epstein-meeting-emails-reveal

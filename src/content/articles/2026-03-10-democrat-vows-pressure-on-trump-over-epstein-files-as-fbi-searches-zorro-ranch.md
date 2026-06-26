@@ -9,6 +9,7 @@ summary: "A Democratic member of Congress said she will continue pushing the Tru
 people:
   - jeffrey-epstein
   - donald-trump
+  - michael-jackson
 tags:
   - investigation
   - political

@@ -11,6 +11,7 @@ people:
   - ghislaine-maxwell
   - nancy-mace
   - thomas-massie
+  - michael-jackson
 relatedArticles:
   - 2026-02-16-rep-mace-demands-unredacted-epstein-co-conspirator-files
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions

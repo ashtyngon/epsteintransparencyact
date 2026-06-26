@@ -9,6 +9,7 @@ summary: "The release of thousands of pages of documents related to Jeffrey Epst
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - epstein-transparency-act-signed-into-law
 tags:

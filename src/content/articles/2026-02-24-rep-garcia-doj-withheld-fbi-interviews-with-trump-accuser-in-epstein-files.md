@@ -12,6 +12,7 @@ people:
   - robert-garcia
   - donald-trump
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions
 tags:

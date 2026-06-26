@@ -13,6 +13,7 @@ people:
   - ghislaine-maxwell
   - nancy-mace
   - thomas-massie
+  - michael-jackson
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - fbi-begins-epstein-records-review

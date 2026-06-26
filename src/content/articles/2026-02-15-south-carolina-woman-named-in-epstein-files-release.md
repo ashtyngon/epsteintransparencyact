@@ -11,6 +11,7 @@ people:
   - nancy-mace
   - pam-bondi
   - thomas-massie
+  - michael-jackson
 relatedArticles:
   - epstein-transparency-act-signed-into-law
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout

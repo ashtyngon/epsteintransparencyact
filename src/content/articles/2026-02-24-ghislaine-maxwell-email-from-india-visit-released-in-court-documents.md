@@ -9,6 +9,7 @@ summary: "A recently released email from Ghislaine Maxwell describes her impress
 people:
   - ghislaine-maxwell
   - jeffrey-epstein
+  - michael-jackson
 tags:
   - court-documents
   - associates

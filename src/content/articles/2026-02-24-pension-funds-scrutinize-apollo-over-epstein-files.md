@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - leon-black
   - donald-trump
+  - michael-jackson
 relatedArticles:
   - 2026-02-15-leon-black-named-in-epstein-files-schools-cancel-photo-day
 tags:

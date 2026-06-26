@@ -13,6 +13,7 @@ people:
   - prince-andrew
   - bill-gates
   - leslie-wexner
+  - michael-jackson
 tags:
   - court-documents
   - document-release

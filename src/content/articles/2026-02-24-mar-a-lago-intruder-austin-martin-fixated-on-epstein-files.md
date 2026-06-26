@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - donald-trump
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-02-24-mar-a-lago-shooting-suspect-s-friends-describe-epstein-obsession
   - 2026-02-24-epstein-files-found-in-car-of-mar-a-lago-shooting-suspect

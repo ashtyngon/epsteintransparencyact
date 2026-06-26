@@ -9,6 +9,7 @@ summary: "Bank of America has reached a settlement in principle with victims of 
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-02-13-court-allows-bofa-epstein-trafficking-lawsuit-to-proceed
 tags:

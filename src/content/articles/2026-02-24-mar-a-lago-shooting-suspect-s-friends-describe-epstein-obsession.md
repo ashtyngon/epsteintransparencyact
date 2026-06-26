@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - donald-trump
   - ghislaine-maxwell
+  - michael-jackson
 tags:
   - breaking
 keyTakeaways:

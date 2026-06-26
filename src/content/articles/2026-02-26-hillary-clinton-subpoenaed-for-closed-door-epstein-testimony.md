@@ -13,6 +13,7 @@ people:
   - donald-trump
   - bill-clinton
   - ghislaine-maxwell
+  - michael-jackson
 tags:
   - testimony
   - political

@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - peter-mandelson
   - marjorie-taylor-greene
+  - michael-jackson
 tags:
   - court-documents
   - investigation

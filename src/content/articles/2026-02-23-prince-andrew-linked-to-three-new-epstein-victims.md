@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-02-23-police-appeal-to-prince-andrew-s-former-guards-over-epstein-inquiry
   - 2026-02-19-prince-andrew-arrested-in-london-over-epstein-documents

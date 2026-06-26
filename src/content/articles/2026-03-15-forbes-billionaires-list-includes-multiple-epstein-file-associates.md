@@ -8,6 +8,7 @@ imageCaption: "Documents released in the Epstein files investigation."
 summary: "Several billionaires named in documents related to Jeffrey Epstein appear on Forbes' 40th annual World's Billionaires list, published in March 2025, according"
 people:
   - jeffrey-epstein
+  - michael-jackson
 tags:
   - document-release
   - associates

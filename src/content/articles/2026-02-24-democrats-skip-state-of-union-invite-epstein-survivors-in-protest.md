@@ -13,6 +13,7 @@ people:
   - thomas-massie
   - ghislaine-maxwell
   - robert-garcia
+  - michael-jackson
 relatedArticles:
   - 2026-02-15-rep-mace-accuses-doj-of-hiding-names-in-epstein-files-release
   - 2026-02-15-massie-rips-trump-doj-over-epstein-file-redactions

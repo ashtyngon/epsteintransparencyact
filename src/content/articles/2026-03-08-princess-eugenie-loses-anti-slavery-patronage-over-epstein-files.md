@@ -13,6 +13,7 @@ people:
   - prince-andrew
   - virginia-giuffre
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-03-05-doj-to-release-nearly-50-000-more-epstein-files
   - epstein-transparency-act-signed-into-law

@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - virginia-giuffre
   - ghislaine-maxwell
+  - michael-jackson
 tags:
   - court-documents
   - document-release

@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - ghislaine-maxwell
   - ro-khanna
+  - michael-jackson
 relatedArticles:
   - 2026-02-13-congress-subpoenas-wexner-billionaire-to-testify-on-epstein-ties
   - 2026-02-13-senator-blocked-epstein-files-after-receiving-mysterious-donation

@@ -10,6 +10,7 @@ people:
   - jeffrey-epstein
   - ghislaine-maxwell
   - prince-andrew
+  - michael-jackson
 relatedArticles:
   - 2026-02-14-uk-police-launch-national-task-force-for-epstein-trafficking-allegations
 tags:

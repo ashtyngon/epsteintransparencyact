@@ -9,6 +9,7 @@ summary: "A network of high-profile Hollywood crisis management firms and public
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - michael-jackson
 tags:
   - associates
   - investigation

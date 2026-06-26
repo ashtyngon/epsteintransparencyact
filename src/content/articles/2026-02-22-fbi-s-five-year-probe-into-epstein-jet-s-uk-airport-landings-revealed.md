@@ -11,6 +11,7 @@ people:
   - prince-andrew
   - ghislaine-maxwell
   - donald-trump
+  - michael-jackson
 relatedArticles:
   - 2026-02-22-police-continue-search-at-prince-andrew-s-royal-lodge-over-epstein-ties
 tags:

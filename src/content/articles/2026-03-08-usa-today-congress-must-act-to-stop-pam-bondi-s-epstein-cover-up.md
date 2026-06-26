@@ -13,6 +13,7 @@ people:
   - bill-gates
   - kathryn-ruemmler
   - ghislaine-maxwell
+  - michael-jackson
 relatedArticles:
   - 2026-03-05-doj-confirms-47-000-epstein-files-removed-including-trump-allegations
   - 2026-03-05-bipartisan-vote-forces-attorney-general-to-testify-on-epstein-files

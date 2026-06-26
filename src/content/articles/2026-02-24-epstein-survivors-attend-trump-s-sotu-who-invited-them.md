@@ -15,6 +15,7 @@ people:
   - virginia-giuffre
   - prince-andrew
   - juliette-bryant
+  - michael-jackson
 relatedArticles:
   - 2026-02-15-epstein-survivor-juliette-bryant-thought-i-was-going-to-die
 tags:

@@ -9,6 +9,7 @@ summary: "FBI Made Secret Trip to Australia During Epstein Investigation, Files 
 people:
   - jeffrey-epstein
   - virginia-giuffre
+  - michael-jackson
 tags:
   - court-documents
   - document-release

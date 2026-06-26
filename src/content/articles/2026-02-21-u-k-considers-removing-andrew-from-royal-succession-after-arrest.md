@@ -11,6 +11,7 @@ people:
   - jeffrey-epstein
   - donald-trump
   - leslie-wexner
+  - michael-jackson
 tags:
   - arrest
   - political

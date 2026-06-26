@@ -9,6 +9,7 @@ summary: "A prominent artificial intelligence researcher and former Carnegie Mel
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - michael-jackson
 tags:
   - associates
   - investigation
