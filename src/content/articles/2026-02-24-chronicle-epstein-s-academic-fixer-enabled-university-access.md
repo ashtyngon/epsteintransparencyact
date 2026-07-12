@@ -9,6 +9,7 @@ summary: "Epstein's \"Academic Fixer\" Revealed in New Chronicle Report The Chro
 people:
   - jeffrey-epstein
   - ghislaine-maxwell
+  - l-rafael-reif
 relatedArticles:
   - 2026-02-16-columbia-removes-staff-who-facilitated-epstein-linked-dental-admission
   - 2026-02-14-doj-files-epstein-pulled-strings-at-university-of-alabama

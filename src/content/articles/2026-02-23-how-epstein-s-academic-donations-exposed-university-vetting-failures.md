@@ -9,6 +9,7 @@ summary: "A recent opinion piece in the Chronicle of Philanthropy has highlighte
 people:
   - jeffrey-epstein
   - joi-ito
+  - l-rafael-reif
 relatedArticles:
   - 2026-02-13-college-presidents-professors-named-in-epstein-files-fallout
 tags:
